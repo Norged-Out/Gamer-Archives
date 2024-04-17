@@ -15,8 +15,10 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -42,9 +44,10 @@ public class WatsonIndex {
         // Regex pattern for extracting document names enclosed in [[ ]]
         Pattern pattern = Pattern.compile("\\[\\[(.*?)\\]\\]");
 
-        ClassLoader classLoader = getClass().getClassLoader();
-        File file = new File(classLoader.getResource(filePath).getFile());
-
+        //ClassLoader classLoader = getClass().getClassLoader();
+        //System.out.println("File path: " + classLoader.getResource("resources"));
+        //File file = new File(classLoader.getResource(filePath).getFile());
+        File file = new File(filePath);
         try {
             BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
@@ -85,6 +88,7 @@ public class WatsonIndex {
         analyzer = new StandardAnalyzer();
         //index = new ByteBuffersDirectory();
         config = new IndexWriterConfig(analyzer);
+        
         try {
             index = FSDirectory.open(Paths.get(indexFilePath));
         } catch (IOException e) {
@@ -92,13 +96,28 @@ public class WatsonIndex {
             return;
         }
         try {
+
             // Create IndexWriter
             writer = new IndexWriter(index, config);
             // Parse input file and add documents to index
+            
+            HashMap<String, List<String>> allPaths = allFilesToProcess();
+
+            for (String directory : allPaths.keySet()) {
+                List<String> files = allPaths.get(directory);
+                for (String file : files) {
+                    List<Document> documents = parseTextFile(file);
+                    for (Document doc : documents) {
+                        writer.addDocument(doc);
+                    }
+                }
+            }
+            /*
             List<Document> documents = parseTextFile(inputFilePath);
             for (Document doc : documents) {
                 writer.addDocument(doc);
             }
+            */
 
             // Commit and close IndexWriter
             writer.commit();
@@ -110,10 +129,40 @@ public class WatsonIndex {
         indexExists = true;
     }
 
-    private void updateIndex() {
-        ClassLoader classLoader = getClass().getClassLoader();
-        File file = new File(classLoader.getResource(indexFilePath).getFile());
+    private HashMap<String, List<String>> allFilesToProcess() {
+        String resourcesPath = "src/main/resources";
+        // Get the resources directory
+        File resourcesDirectory = new File(resourcesPath);
+
+        HashMap<String, List<String>> allFiles = new HashMap<>();        
+
+        // Check if it exists and is a directory
+        if (resourcesDirectory.exists() && resourcesDirectory.isDirectory()) {
+            // Get all subdirectories in the resources directory
+            File[] subDirectories = resourcesDirectory.listFiles(File::isDirectory);
+
+            // Iterate over each subdirectory
+            for (File subDirectory : subDirectories) {
+                // Print the name of the subdirectory
+                System.out.println("Directory: " + subDirectory.getName());
+                List<String> allPaths = new ArrayList<>();
+
+                // Get all text files in the subdirectory
+                File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
+
+                // Iterate over each text file and print its name
+                for (File textFile : textFiles) {
+                    System.out.println("  Text File: " + textFile.getName());
+                    allPaths.add(textFile.getPath());
+                }
+
+                allFiles.put(subDirectory.getName(), allPaths);
+            }
+        } else {
+            System.out.println("Resources directory does not exist or is not a directory.");
+        }
         
+        return allFiles;
     }
 
     public static void main(String[] args) {
@@ -122,6 +171,19 @@ public class WatsonIndex {
         if(!engine.indexExists){
             engine.buildNewIndex("example.txt");
         }
+ 
+        /*
+        HashMap<String, List<String>> allPaths = engine.allFilesToProcess();
+        
+        for (String directory : allPaths.keySet()) {
+            System.out.println("Directory: " + directory);
+            List<String> files = allPaths.get(directory);
+            for (String file : files) {
+                System.out.println("  File: " + file);
+            }
+        }
+        */
+        
         try {
             IndexReader reader = DirectoryReader.open(engine.index);
             for (int i = 0; i < reader.maxDoc(); i++) {
