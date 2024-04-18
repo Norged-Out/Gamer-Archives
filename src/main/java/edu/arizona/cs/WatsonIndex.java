@@ -8,14 +8,12 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.store.ByteBuffersDirectory;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -34,16 +32,43 @@ public class WatsonIndex {
 
     public WatsonIndex(String inputFile) {
         indexFilePath = inputFile;
+        buildNewIndex();
     }
 
-    private List<Document> parseTextFile(String filePath) {
-        List<Document> documents = new ArrayList<>();
+    private void buildNewIndex() {
+        //Get file from resources folder
+        analyzer = new StandardAnalyzer();
+        //index = new ByteBuffersDirectory();
+        config = new IndexWriterConfig(analyzer);
+        
+        try {
+            index = FSDirectory.open(Paths.get(indexFilePath));
+        } catch (IOException e) {
+            e.printStackTrace();
+            return;
+        }
+        try {
+            // Create IndexWriter
+            writer = new IndexWriter(index, config);
+            // Parse input file and add documents to index
+            allFilesToProcess(writer);
+            // Commit and close IndexWriter
+            writer.commit();
+            writer.close();
+            System.out.println("New index created and saved successfully at: " + indexFilePath);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        indexExists = true;
+    }
+
+    private void parseTextFile(IndexWriter writer, String filePath) {
         StringBuilder contentBuilder = new StringBuilder();
         String docName = null;
         
         // Regex pattern for extracting document names enclosed in [[ ]]
         Pattern pattern = Pattern.compile("\\[\\[(.*?)\\]\\]");
-
+        System.out.println("Parsing file: " + filePath);
         //ClassLoader classLoader = getClass().getClassLoader();
         //System.out.println("File path: " + classLoader.getResource("resources"));
         //File file = new File(classLoader.getResource(filePath).getFile());
@@ -60,10 +85,12 @@ public class WatsonIndex {
                         Document newDoc = new Document();
                         newDoc.add(new StringField("docName", docName, Field.Store.YES));
                         newDoc.add(new TextField("docData", contentBuilder.toString(), Field.Store.YES));
-                        documents.add(newDoc);
+                        writer.addDocument(newDoc);
                         contentBuilder.setLength(0); // Clear contentBuilder for the next document
                     }
                     docName = matcher.group(1); // Extract the document name
+                    System.out.println("Line: " + line);
+                    System.out.println("Document name: " + docName);
                 } else {
                     // Append line to content if not a document name
                     contentBuilder.append(line).append("\n");
@@ -74,117 +101,49 @@ public class WatsonIndex {
                 Document newDoc = new Document();
                 newDoc.add(new StringField("docName", docName, Field.Store.YES));
                 newDoc.add(new TextField("docData", contentBuilder.toString(), Field.Store.YES));
-                documents.add(newDoc);
+                writer.addDocument(newDoc);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
         
-        return documents;
     }
 
-    private void buildNewIndex(String inputFilePath) {
-        //Get file from resources folder
-        analyzer = new StandardAnalyzer();
-        //index = new ByteBuffersDirectory();
-        config = new IndexWriterConfig(analyzer);
-        
-        try {
-            index = FSDirectory.open(Paths.get(indexFilePath));
-        } catch (IOException e) {
-            e.printStackTrace();
-            return;
-        }
-        try {
-
-            // Create IndexWriter
-            writer = new IndexWriter(index, config);
-            // Parse input file and add documents to index
-            
-            HashMap<String, List<String>> allPaths = allFilesToProcess();
-
-            for (String directory : allPaths.keySet()) {
-                List<String> files = allPaths.get(directory);
-                for (String file : files) {
-                    List<Document> documents = parseTextFile(file);
-                    for (Document doc : documents) {
-                        writer.addDocument(doc);
-                    }
-                }
-            }
-            /*
-            List<Document> documents = parseTextFile(inputFilePath);
-            for (Document doc : documents) {
-                writer.addDocument(doc);
-            }
-            */
-
-            // Commit and close IndexWriter
-            writer.commit();
-            writer.close();
-            System.out.println("New index created and saved successfully at: " + indexFilePath);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        indexExists = true;
-    }
-
-    private HashMap<String, List<String>> allFilesToProcess() {
+    private void allFilesToProcess(IndexWriter writer) {
         String resourcesPath = "src/main/resources";
         // Get the resources directory
         File resourcesDirectory = new File(resourcesPath);
-
-        HashMap<String, List<String>> allFiles = new HashMap<>();        
-
+        String directoryName = null;
+        String fileName = null;       
         // Check if it exists and is a directory
         if (resourcesDirectory.exists() && resourcesDirectory.isDirectory()) {
             // Get all subdirectories in the resources directory
             File[] subDirectories = resourcesDirectory.listFiles(File::isDirectory);
-
             // Iterate over each subdirectory
             for (File subDirectory : subDirectories) {
                 // Print the name of the subdirectory
-                System.out.println("Directory: " + subDirectory.getName());
-                List<String> allPaths = new ArrayList<>();
-
+                directoryName = subDirectory.getName();
+                System.out.println("Directory: " + directoryName);
                 // Get all text files in the subdirectory
                 File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
-
                 // Iterate over each text file and print its name
                 for (File textFile : textFiles) {
-                    System.out.println("  Text File: " + textFile.getName());
-                    allPaths.add(textFile.getPath());
+                    fileName = textFile.getName();
+                    System.out.println("  Text File: " + fileName);
+                    parseTextFile(writer, textFile.getPath());
                 }
-
-                allFiles.put(subDirectory.getName(), allPaths);
             }
         } else {
             System.out.println("Resources directory does not exist or is not a directory.");
         }
-        
-        return allFiles;
     }
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         WatsonIndex engine = new WatsonIndex("testindex");
-        if(!engine.indexExists){
-            engine.buildNewIndex("example.txt");
-        }
- 
-        /*
-        HashMap<String, List<String>> allPaths = engine.allFilesToProcess();
-        
-        for (String directory : allPaths.keySet()) {
-            System.out.println("Directory: " + directory);
-            List<String> files = allPaths.get(directory);
-            for (String file : files) {
-                System.out.println("  File: " + file);
-            }
-        }
-        */
         
         try {
+            System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);
             for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
