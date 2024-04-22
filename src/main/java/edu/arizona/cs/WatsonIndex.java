@@ -153,6 +153,7 @@ public class WatsonIndex {
      * @param writer the IndexWriter object
      * @param filePath the path of the text file
      */
+    /*
     private void oldParser(IndexWriter writer, String filePath) {
         StringBuilder contentBuilder = new StringBuilder();
         String docName = null;
@@ -200,6 +201,7 @@ public class WatsonIndex {
         }
         
     }
+    */
 
     /**
      * The main method of the WatsonIndex program.
