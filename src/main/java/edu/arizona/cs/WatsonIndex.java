@@ -33,7 +33,7 @@ import java.util.regex.Pattern;
 public class WatsonIndex {
     boolean indexExists = false;
     String indexFilePath = "";
-    StandardAnalyzer oldAnalyzer = null; // Not using it anymore
+    //StandardAnalyzer oldAnalyzer = null; // Not using it anymore
     EnglishAnalyzer analyzer = null;  // This is better for parsing English text
     Directory index = null;
     IndexWriterConfig config = null;
