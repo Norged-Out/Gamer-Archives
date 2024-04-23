@@ -96,10 +96,42 @@ public class PseudoWatson {
         }
         System.out.println("Found " + results.size() + " hits");
         for(ResultClass res: results){
-            System.out.print(res.DocName.get("docid"));
+            System.out.print(res.DocName.get("docName"));
             System.out.println(", Score: " + res.docScore);
         }
         return results;
+    }
+
+    public static void main(String[] args) {
+        String indexFilePath = "testindex";
+        PseudoWatson watson = new PseudoWatson(indexFilePath);
+        try {
+            IndexReader reader = DirectoryReader.open(watson.index);
+            for (int i = 0; i < reader.maxDoc(); i++) {
+                Document doc = reader.document(i);
+                System.out.println("docid: " + doc.get("docName"));
+                System.out.println("text: " + doc.get("docData"));
+                System.out.println("--------------------------------------------");
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the query: ");
+        String query = scanner.nextLine();
+        List<ResultClass> results = watson.runQuery(query, false);
+        for(ResultClass res: results){
+            System.out.print(res.DocName.get("docName"));
+            System.out.println(", Score: " + res.docScore);
+        }
+        System.out.println("Enter the query: ");
+        query = scanner.nextLine();
+        results = watson.runQuery(query, true);
+        for(ResultClass res: results){
+            System.out.print(res.DocName.get("docName"));
+            System.out.println(", Score: " + res.docScore);
+        }
     }
 
     
