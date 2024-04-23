@@ -78,7 +78,7 @@ public class PseudoWatson {
             if(altSimilarity) {
                 searcher.setSimilarity(new BM25Similarity());
             }
-            TopDocs docs = searcher.search(q, 10);
+            TopDocs docs = searcher.search(q, 1000);
             for (ScoreDoc scoreDoc : docs.scoreDocs) {
                 Document doc = searcher.doc(scoreDoc.doc);
                 ResultClass result = new ResultClass();
