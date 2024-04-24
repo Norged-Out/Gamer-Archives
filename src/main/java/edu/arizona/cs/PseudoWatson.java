@@ -58,16 +58,20 @@ public class PseudoWatson {
         //config = new IndexWriterConfig(analyzer);
     }
 
+    private class ResultClass {
+        Document DocName;
+        double docScore = 0;
+    }
+
 
     /*
      * This function is used to perform different queries on the index
      * using lucene's query parser and build the list of resulting
      * documents hit by the query and their scores.
-     * @param query: The query to be run
-     * @param altSimilarity: The flag to indicate if the similarity is to be changed
+     * @param query: The query to be run on the index
      * @return List<ResultClass>: The list of results
      */
-    private List<ResultClass> runQuery(String query, Boolean altSimilarity){
+    private List<ResultClass> runQuery(String query){
         List<ResultClass>  results = new ArrayList<ResultClass>();
         parser = new QueryParser("docContent", analyzer);
         Query q;
@@ -76,9 +80,7 @@ public class PseudoWatson {
             System.out.println("Query: " + q.toString());
             IndexReader reader = DirectoryReader.open(index);
             IndexSearcher searcher = new IndexSearcher(reader);
-            if(altSimilarity) {
-                searcher.setSimilarity(new BM25Similarity());
-            }
+            searcher.setSimilarity(new BM25Similarity());
             TopDocs docs = searcher.search(q, 10);
             for (ScoreDoc scoreDoc : docs.scoreDocs) {
                 Document doc = searcher.doc(scoreDoc.doc);
@@ -93,12 +95,55 @@ public class PseudoWatson {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("Found " + results.size() + " hits");
+        int hits = results.size();
+        System.out.println("Found " + hits + " hits");
+        int i = 0;
         for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
+            //System.out.print(res.DocName.get("docName"));
+            //System.out.println(", Score: " + res.docScore);
+            i++;
+            if(i == 10){
+                break;
+            }
         }
         return results;
+    }
+    /**
+     * Reads a text file and extracts answers and questions.
+     * @param filePath the path of the text file
+     * @return a HashMap containing answers as keys and a list of questions as values
+     */
+    private HashMap<String, List<String>> processQuestions(String filePath) {
+        ClassLoader classLoader = getClass().getClassLoader();
+        File file = new File(classLoader.getResource(filePath).getFile());
+        HashMap<String, List<String>> data = new HashMap<>();
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(file));
+            String line;
+            String answer = null;
+            List<String> questions = new ArrayList<>();
+            while ((line = reader.readLine()) != null) {
+                if(line.isEmpty() && answer != null){
+                    data.put(answer, questions);
+                    answer = null;
+                    questions = new ArrayList<>();
+                }
+                else if (!line.isEmpty()) {
+                    if (answer == null) {
+                        answer = line;
+                    } else {
+                        questions.add(line);
+                    }
+                }
+            }
+            if (answer != null) {
+                data.put(answer, questions);
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return data;
     }
 
     public static void main(String[] args) {
@@ -116,21 +161,58 @@ public class PseudoWatson {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        HashMap<String, List<String>> data = watson.processQuestions("queries.txt");
+        List<ResultClass> results = null;
+        List<String> questions = null;
+        ResultClass topAnswer = null;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the query: ");
-        String query = scanner.nextLine();
-        List<ResultClass> results = watson.runQuery(query, false);
-        for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
+
+        for (String answer: data.keySet()){
+            questions = data.get(answer);
+            for(String query: questions){
+                System.out.println("Query: " + query);
+                results = watson.runQuery(query);
+                if (results.size() > 0){
+                    topAnswer = results.get(0);
+                    String docName = topAnswer.DocName.get("docName");
+                    System.out.println("Retrieved answer: " + docName);
+                    System.out.println("Expected answer: " + answer);
+                    if (docName.equals(answer)){
+                        System.out.println("Correct!");
+                    }
+                    else{
+                        System.out.println("Incorrect!");
+                    }
+                }
+                System.out.println("\nContinue? (y/n)");
+                String cont = scanner.nextLine();
+                if (cont.equals("n")){
+                    break;
+                }
+            }
+            System.out.println("\nContinue? (y/n)");
+            String cont = scanner.nextLine();
+            if (cont.equals("n")){
+                break;
+            }
         }
-        System.out.println("Enter the query: ");
-        query = scanner.nextLine();
-        results = watson.runQuery(query, true);
-        for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
-        }
+
+        /*
+            List<ResultClass> results = null;
+
+            results = watson.runQuery(query);
+            for(ResultClass res: results){
+                System.out.print(res.DocName.get("docName"));
+                System.out.println(", Score: " + res.docScore);
+            }
+            System.out.println("Enter the query: ");
+            query = scanner.nextLine();
+            results = watson.runQuery(query);
+            for(ResultClass res: results){
+                System.out.print(res.DocName.get("docName"));
+                System.out.println(", Score: " + res.docScore);
+            }
+        */
     }
 
     
