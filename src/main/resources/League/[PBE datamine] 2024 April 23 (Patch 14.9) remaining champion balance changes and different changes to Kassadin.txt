@@ -1,0 +1,414 @@
+[[[PBE datamine] 2024 April 23 (Patch 14.9) remaining champion balance changes and different changes to Kassadin]]
+
+
+General reminder that many changes cannot be easily datamined, such as functionality changes or bugfixes, and are not always final.
+
+&nbsp;
+
+# Champions
+
+##### Amumu
+ * base AD:&nbsp;&nbsp;53 --> 57
+ * base armor:&nbsp;&nbsp;30 --> 33
+
+##### Gwen
+ * W recast no longer counts as an ultimate
+     * afaict this doesn't actually seem to be impacting anything on live (W can't benefit from ult haste even if gained while the recast is available, casting it doesn't trigger ult effects, etc.) so might just be an Arena bugfix
+
+##### Karma
+ * Q slow:&nbsp;&nbsp;35% --> 40%
+     * RQ slow unchanged at 50%
+ * RE secondary speed:&nbsp;&nbsp;12% --> 15%
+     * primary speed unchanged at 40%
+ * RE secondary shield:&nbsp;&nbsp;90% of the bonus shield --> 100% of the bonus shield
+
+##### Kassadin
+ * E migrated to use data values instead of effect amounts
+ * E AP scaling:&nbsp;&nbsp;80% --> 70%
+ * R min AP scaling:&nbsp;&nbsp;35% --> 50%&nbsp;&nbsp;**(revert to live)**
+     * R stacks still grant +10% AP scaling (max at 4 stacks:&nbsp;&nbsp;75% --> 90%)&nbsp;&nbsp;**(revert to live)**
+
+##### Malzahar
+ * Q cost:&nbsp;&nbsp;80 at all ranks --> 60-80
+ * E cooldown:&nbsp;&nbsp;15s-7s --> 11s-7s
+
+##### Sejuani
+ * P resists:&nbsp;&nbsp;10 +50% bonus resists&nbsp;&nbsp;-->&nbsp;&nbsp;10 +75% bonus resists
+ * W migrated to use data values instead of effect amounts
+ * W first hit damage:
+     * base:&nbsp;&nbsp;10-30 --> 5-45
+     * AP scaling:&nbsp;&nbsp;20% (unchanged)
+     * tHP scaling:&nbsp;&nbsp;2% --> 4%
+ * W second hit damage:
+     * base:&nbsp;&nbsp;20-180 --> 5-85
+     * AP scaling:&nbsp;&nbsp;60% (unchanged)
+     * tHP scaling:&nbsp;&nbsp;6% --> 8%
+ * comparison:&nbsp;&nbsp;[image](https://i.imgur.com/3VDVKmw.png)&nbsp;&nbsp;tldr W1 is buffed always, W2 is realistically nerfed until later levels because it will take a while before she's able to acquire enough health to catch up to the loss of base damage
+
+##### Seraphine
+ * Q min AP scaling:&nbsp;&nbsp;50% --> 60%
+     * max AP scaling is still x1.6 these values at 75% missing health (80% --> 96%)
+
+##### Skarner
+ * MP5 growth:&nbsp;&nbsp;0.6 --> 0.75
+ * Q base damage:&nbsp;&nbsp;10-70 --> 10-50
+     * this applies to each of the three hits individually as well as the rock throw
+ * W slow:&nbsp;&nbsp;20%-40% --> 20% at all ranks
+
+&nbsp;
+
+# Changes from previous days
+
+See the new [wiki page](https://www.reddit.com/r/leagueoflegends/wiki/pbechanges).
+
+
+> W recast no longer counts as an ultimate
+
+What.
+    I don't make the rules I just figure them out.
+        I mean they always said she had 2 ultimate spells on release. Guess they were right lol
+    _Gwen was immune_
+    Most confused I've been all week. Audible what with a pause and all
+    Maybe W was originally going to be Gwens ultimate? 
+
+Or perhaps they stole the code from Xin Xiao?
+
+After all Xin Xiao is Immune :)
+# Skarner
+
+* MP5 growth:  0.6 --> 0.75
+
+>Skarner growing from from an MP5 to an AK
+    Biggest surprises of this patch. I was sure they were gonna kill his mana more for top lane nerfs, but guess they don't want to.
+        MP5 changes favor jungle Skarner over Top Lane, and despite his current strengths Jungle Skarner runs OoM very fast the moment you step out of the jungle to fight.
+    We need a Commando Skarner skin now duel wielding assault rifles, and since monster scorpions can't use guns, he'll just use them as blunt weapons. 
+
+He smacks and throws it at ppl with his Q
+
+His W him dropping a fat weapons crate filled with assault rifles 
+
+Lastly, his E and R can be him bayonetting ppl
+    what does MP5 mean?
+        Mana Per 5 seconds.
+
+So MP5 growth is increase of (mana per 5 seconds) per level
+4 ad for Amumu...I'm not sure how much this is going to help him in the JG, if he gets to clear a camp one attack earlier or something.
+
+But for Amumu in some lane this could be good.
+    people really underestimate base ad.
+
+He is going to clear so much faster now and be healthier overall.
+    Iceborn gauntlet Amumu (spellblade passive)?
+
+However, I think it's still shit on him
+    With 1 ad being worth 35g, this is in some ways giving a free 140g, obviously it must be spent on ad but overall it's a not insignificant value.
+4s off Malz E at lv 1 is one of the biggest buffs I've seen in recent history. Not sure if it'll be enough to make him viable but what??
+    It's a good buff, but Malz' mana is so bad early (at least with with my management of it) that I feel this buff's biggest use will be for getting better/faster backs more so than anything.
+    It doesn't change anything at all. It's the spell you are maxing and you don't even need these 4s off. 
+
+The -20 mana on Q rank 1 is a bigger buff.
+        "30% CDR on a rank 1 ability didn't change anything at all" and more reddit plat (last season silver) takes coming at you from /u/CoCratzY
+            If you are casting E off cd lvl one you have bigger problems then the actual cd
+            The projection is strong with this one lmao
+            This is not my rank, but silver to platinum in one year is a good progression !
+
+There is no world where Malzahar having 4-3-2-1 seconds off on his E is what's going to make it viable. And if Riot want to make it viable, they should change his W.
+
+Malzahar still have mana issue until lost chapter. Being able to wave clear more in early levels is what you need. And you really need both your W AND Q to wave clear easily. This is why I think -20 mana on Q is better.
+    He get a huge nerf they increase is hitbox by alot its not in this patch notes but comes with the patch
+        That's just the click hitbox.
+was hoping for some base ad buffs for seraphine, would help in CSing
+
+like the direction of Sejuani buffs, lower base damage and buff scaling since pro play Sejuani is usually capped at 1-2 items \[and cheap items like Knight's Vow\] while a soloQ sejuani could hit 3 items or even get a Jak'sho if a game drags on
+
+  
+need to do the maths and see if maxing W second on Skarner is still good now that the slow remains at a meager 20%
+    I'm ok with Sej changes all in all, but I think it's a shame to increase the rewards on W1 and not W2. Oh well.
+
+The first clear might get a bit weaker with less base damage but it's somewhat made up by how good the HP rune shards are.
+
+I also just remembered armor/mres increases the damage of the jungle pet, so she'll definitely clear well later in the game when your passive is up (but that does nothing on first clear since it is assumed noone has bonus armor/mres at that point)
+That Sera Q buff is really good, but without base AD buffs to be on par with similar champs to her, like Lux or Hwei (both at 54 base AD), last hitting on her will still feel too horrible and losing minions under tower that every other laner is able to get is really frustrating. That's one of the main pain points since her last set of changes.
+Invest in Sejuani top stonks because we are so barack. Been wanting a buff to her scaling for ages and now it's time to unleash.
+Did i think the kassadin nerf was unfair? Yes.  
+Did I still want it to go through? Yes.
+Blessed AP buffs for Seraphine. I think this is enough for her because it is a great step in the direction for being rewarded for buying AP
+    I respect your opinion and I agree ! This is a great step forward! But I think Seraphine mains were hoping for something more orientated towards her passive (stage pressence) to help with killing low health minions. The buffs are nicely welcomed by me though <3
+        It was literally bad that buying AP was trolling lol and I'm so glad they went with this direction instead of W buffs
+            Why was there a need to change something when her weak early game could have been compensated for by a new sup item this season. This item perfectly balances her scaling and good support play (as a sup-mage, of course, as most of her support players prefer to play her)
+
+
+
+  I also want an analogue of the old mask with mana and skill recharge. At the very least, Seraphine and Malzahar need exactly this
+Wouldve liked to see a base ad buff and passive buff, especially to minions but this is good so far
+Hell yes sej buffs.
+
+I randomly have such a high win rate on that champ life time, but had to drop her from my rotation this split cause she felt so bad.
+malz buffs seem really powerful and helps his weakest part of the game
+Is this a support she buff if she rushes tank support items?
+Amumu and sejuani buffed to oblivion I wonder if they will be meta
+I was expecting a W buff for Amumu.
+Glad they realized the kass nerf was too heavy handed. Much easier to get behind this.
+    fr he got buffed R by accident and then they were trying to make it worse than pre buff (from 40 to 60 to 50 to 35)
+Sera AP ratios are in the right direction, I just want her to be a good AP botlane.
+
+Even as a support player I already have so many choices better than Sera's kit for the role, I want a solid champion to play off role
+    prob hard to do that without making her op
+    Her bot lane winrate isn’t even bad. It’s the highest out of her three roles
+Why are they just pushing karma more into a utility bot, when they also wanted her to be a dmg dealer more so than a shield bot, I don't understand this, but their kinda of insane buffs, Q slow on base is now doubled from the previous iteration.
+    She’s a utility mage that’s why. Her damage impact when she doesn’t have mantra Q up is incredibly mediocre and people still complain about her damage so riot went the way of buffing her utility instead. 
+
+Either way she needs a rework. She was the very first VGU and it’s starting to show, they took no risks her with kit and made her too generic and all around when they updated her. I’m probably biased but pre-rework karma would probably be healthier than this version at this point bc she had to get closer to do what she did. But I digress.
+        > Either way she needs a rework. She was the very first VGU and it’s starting to show, they took no risks her with kit and made her too generic and all around when they updated her.
+
+I wish this got more discussion. Karma is probably the only champion in the game whose design revolves primarily around *not* being interesting. She hasn't got a single interesting or unique output (ult is an input), and you can tell that this is by design - the intention of her rework was simply to make sure that Karma was no longer a character who was confusing, or frustrating.
+
+They didn't actually manage with the latter goal, so you've got an incredibly bland character (a huge waste of potential) who still causes frustration when she's strong (which she is rarely allowed to be), and who has a troubled history of balance to say the least.
+
+And there's just so many problems to point to. She has almost no scaling utility, so she is essentially the same champion at level 3 as she is at 18. As a result, she scales terribly. All of her damage is in one spell, so she either has no damage or she has a nuclear bomb on one button. All of her enchanting is in one spell, so she's either a bad enchanter or she has one extremely overloaded defensive tool. And there is so little power budget in her W and so little ability to meaningfully tune that spell that it just sits there being ignored while Riot debates which of her Q or E makes the most sense to overload with numbers on any given patch.
+
+There are small tweaks that could be done to push her into a more balanceable direction, but fundamentally the kit is bad. It was bland on release and the direction the game has moved in since has aged her horribly. Karma is a good character and she's a character who could lend herself to a very interesting kit. The ult is a great hook for a kit. But the basic spells are terrible and the ways they're empowered are also extremely lacking.
+
+She doesn't deserve to be doomed forever because she was reworked before Riot learned how to do reworks. They should rework her again and do her justice. Unfortunately, I don't think you'll ever get the community in general on board with reworking Karma because "she's generic and boring" just isn't going to get most people up in arms.
+    Slow has been at 25% at rework, buff to 35% in S9, what are you talking about ?
+    so that the abomination champ can stay as far away from midlane as possible as she deserves
+    Give Karma back E damage
+    no one likes Karma when she deals damage. no one.   she has to get utility somewhere and be a viable support
+    have u ever played vs karma mid or top? legit would rather afk, 0 interaction champion
+why are we buffing karma again?
+    47/8% wr support, below 49 in mid. This are utility focused, we shouldn't go back to the insane rq spam
+    47.5% wr support in diamond+ (lowest support in game)
+    Legit. I don’t care if her winrate is low, why has she been in every single patch this season? Why is riot so fixated on her when there are multiple champs that are low winrate that are ignored for no reason. 
+Skarner now becomes ranged and his basic is replaced by dual mp5's at level 6
+    what does the MP5 change even mean, i am not sure ?
+        Mana growth I'm guessing
+            ty
+Seraphine is actually %20 because of double Q,  if you wanna deal damage ofc
+
+Kassadin nerf is too small, he is broken
+You cannot be serious that they are going through with those Twitch changes from yesterday. They literally gut him so hard you will have to go AP, and AP was already better - and also is way unhealthier for the game. People hate him because of his Q... so nerf the Q. Don't nerf the small time window where he is finally useful.
+
+I literally WANT him to be nerfed because the ban rate is so high right now (I even made a reddit post 2 weeks ago asking r/TwitchMains how they would nerf him). But I mean come on, nerf the actual problem. How incredibly lazy and oblivious can they be?
+wish the karma buffs were a bit more meaningful…
+    [deleted]
+        She was nerfed heavily already, support is bad and mid is mediocre, this buffs are ok tho
+            Shes still close to 50% on both. Braindead low elo enchanter abusers like you ate the reason this game is so low skill. I wish riot would stop babying this game for you.
+                Cry me a river
+                    When assassins are actually a playable class of champions again surely youll spam for a nerf too
+                        Lmao
+                How's 47 close to 50
+                    Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+                        cope girl
+                        Iron player spotted
+                            Cluegi
+                                If you can't win vs a 48% winrate champion it's totally your fault.
+                        Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+                            Ahh i didnt think of that, seems very interactive and skilled, yep
+                                Positioning is one of the most important parts of the game
+I don't make the rules I just figure them out.
+    I mean they always said she had 2 ultimate spells on release. Guess they were right lol
+_Gwen was immune_
+Most confused I've been all week. Audible what with a pause and all
+Maybe W was originally going to be Gwens ultimate? 
+
+Or perhaps they stole the code from Xin Xiao?
+
+After all Xin Xiao is Immune :)
+Biggest surprises of this patch. I was sure they were gonna kill his mana more for top lane nerfs, but guess they don't want to.
+    MP5 changes favor jungle Skarner over Top Lane, and despite his current strengths Jungle Skarner runs OoM very fast the moment you step out of the jungle to fight.
+We need a Commando Skarner skin now duel wielding assault rifles, and since monster scorpions can't use guns, he'll just use them as blunt weapons. 
+
+He smacks and throws it at ppl with his Q
+
+His W him dropping a fat weapons crate filled with assault rifles 
+
+Lastly, his E and R can be him bayonetting ppl
+what does MP5 mean?
+    Mana Per 5 seconds.
+
+So MP5 growth is increase of (mana per 5 seconds) per level
+people really underestimate base ad.
+
+He is going to clear so much faster now and be healthier overall.
+Iceborn gauntlet Amumu (spellblade passive)?
+
+However, I think it's still shit on him
+With 1 ad being worth 35g, this is in some ways giving a free 140g, obviously it must be spent on ad but overall it's a not insignificant value.
+It's a good buff, but Malz' mana is so bad early (at least with with my management of it) that I feel this buff's biggest use will be for getting better/faster backs more so than anything.
+It doesn't change anything at all. It's the spell you are maxing and you don't even need these 4s off. 
+
+The -20 mana on Q rank 1 is a bigger buff.
+    "30% CDR on a rank 1 ability didn't change anything at all" and more reddit plat (last season silver) takes coming at you from /u/CoCratzY
+        If you are casting E off cd lvl one you have bigger problems then the actual cd
+        The projection is strong with this one lmao
+        This is not my rank, but silver to platinum in one year is a good progression !
+
+There is no world where Malzahar having 4-3-2-1 seconds off on his E is what's going to make it viable. And if Riot want to make it viable, they should change his W.
+
+Malzahar still have mana issue until lost chapter. Being able to wave clear more in early levels is what you need. And you really need both your W AND Q to wave clear easily. This is why I think -20 mana on Q is better.
+He get a huge nerf they increase is hitbox by alot its not in this patch notes but comes with the patch
+    That's just the click hitbox.
+I'm ok with Sej changes all in all, but I think it's a shame to increase the rewards on W1 and not W2. Oh well.
+
+The first clear might get a bit weaker with less base damage but it's somewhat made up by how good the HP rune shards are.
+
+I also just remembered armor/mres increases the damage of the jungle pet, so she'll definitely clear well later in the game when your passive is up (but that does nothing on first clear since it is assumed noone has bonus armor/mres at that point)
+I respect your opinion and I agree ! This is a great step forward! But I think Seraphine mains were hoping for something more orientated towards her passive (stage pressence) to help with killing low health minions. The buffs are nicely welcomed by me though <3
+    It was literally bad that buying AP was trolling lol and I'm so glad they went with this direction instead of W buffs
+        Why was there a need to change something when her weak early game could have been compensated for by a new sup item this season. This item perfectly balances her scaling and good support play (as a sup-mage, of course, as most of her support players prefer to play her)
+
+
+
+  I also want an analogue of the old mask with mana and skill recharge. At the very least, Seraphine and Malzahar need exactly this
+fr he got buffed R by accident and then they were trying to make it worse than pre buff (from 40 to 60 to 50 to 35)
+prob hard to do that without making her op
+Her bot lane winrate isn’t even bad. It’s the highest out of her three roles
+She’s a utility mage that’s why. Her damage impact when she doesn’t have mantra Q up is incredibly mediocre and people still complain about her damage so riot went the way of buffing her utility instead. 
+
+Either way she needs a rework. She was the very first VGU and it’s starting to show, they took no risks her with kit and made her too generic and all around when they updated her. I’m probably biased but pre-rework karma would probably be healthier than this version at this point bc she had to get closer to do what she did. But I digress.
+    > Either way she needs a rework. She was the very first VGU and it’s starting to show, they took no risks her with kit and made her too generic and all around when they updated her.
+
+I wish this got more discussion. Karma is probably the only champion in the game whose design revolves primarily around *not* being interesting. She hasn't got a single interesting or unique output (ult is an input), and you can tell that this is by design - the intention of her rework was simply to make sure that Karma was no longer a character who was confusing, or frustrating.
+
+They didn't actually manage with the latter goal, so you've got an incredibly bland character (a huge waste of potential) who still causes frustration when she's strong (which she is rarely allowed to be), and who has a troubled history of balance to say the least.
+
+And there's just so many problems to point to. She has almost no scaling utility, so she is essentially the same champion at level 3 as she is at 18. As a result, she scales terribly. All of her damage is in one spell, so she either has no damage or she has a nuclear bomb on one button. All of her enchanting is in one spell, so she's either a bad enchanter or she has one extremely overloaded defensive tool. And there is so little power budget in her W and so little ability to meaningfully tune that spell that it just sits there being ignored while Riot debates which of her Q or E makes the most sense to overload with numbers on any given patch.
+
+There are small tweaks that could be done to push her into a more balanceable direction, but fundamentally the kit is bad. It was bland on release and the direction the game has moved in since has aged her horribly. Karma is a good character and she's a character who could lend herself to a very interesting kit. The ult is a great hook for a kit. But the basic spells are terrible and the ways they're empowered are also extremely lacking.
+
+She doesn't deserve to be doomed forever because she was reworked before Riot learned how to do reworks. They should rework her again and do her justice. Unfortunately, I don't think you'll ever get the community in general on board with reworking Karma because "she's generic and boring" just isn't going to get most people up in arms.
+Slow has been at 25% at rework, buff to 35% in S9, what are you talking about ?
+so that the abomination champ can stay as far away from midlane as possible as she deserves
+Give Karma back E damage
+no one likes Karma when she deals damage. no one.   she has to get utility somewhere and be a viable support
+have u ever played vs karma mid or top? legit would rather afk, 0 interaction champion
+47/8% wr support, below 49 in mid. This are utility focused, we shouldn't go back to the insane rq spam
+47.5% wr support in diamond+ (lowest support in game)
+Legit. I don’t care if her winrate is low, why has she been in every single patch this season? Why is riot so fixated on her when there are multiple champs that are low winrate that are ignored for no reason. 
+what does the MP5 change even mean, i am not sure ?
+    Mana growth I'm guessing
+        ty
+[deleted]
+    She was nerfed heavily already, support is bad and mid is mediocre, this buffs are ok tho
+        Shes still close to 50% on both. Braindead low elo enchanter abusers like you ate the reason this game is so low skill. I wish riot would stop babying this game for you.
+            Cry me a river
+                When assassins are actually a playable class of champions again surely youll spam for a nerf too
+                    Lmao
+            How's 47 close to 50
+                Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+                    cope girl
+                    Iron player spotted
+                        Cluegi
+                            If you can't win vs a 48% winrate champion it's totally your fault.
+                    Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+                        Ahh i didnt think of that, seems very interactive and skilled, yep
+                            Positioning is one of the most important parts of the game
+I mean they always said she had 2 ultimate spells on release. Guess they were right lol
+MP5 changes favor jungle Skarner over Top Lane, and despite his current strengths Jungle Skarner runs OoM very fast the moment you step out of the jungle to fight.
+Mana Per 5 seconds.
+
+So MP5 growth is increase of (mana per 5 seconds) per level
+"30% CDR on a rank 1 ability didn't change anything at all" and more reddit plat (last season silver) takes coming at you from /u/CoCratzY
+    If you are casting E off cd lvl one you have bigger problems then the actual cd
+    The projection is strong with this one lmao
+    This is not my rank, but silver to platinum in one year is a good progression !
+
+There is no world where Malzahar having 4-3-2-1 seconds off on his E is what's going to make it viable. And if Riot want to make it viable, they should change his W.
+
+Malzahar still have mana issue until lost chapter. Being able to wave clear more in early levels is what you need. And you really need both your W AND Q to wave clear easily. This is why I think -20 mana on Q is better.
+That's just the click hitbox.
+It was literally bad that buying AP was trolling lol and I'm so glad they went with this direction instead of W buffs
+    Why was there a need to change something when her weak early game could have been compensated for by a new sup item this season. This item perfectly balances her scaling and good support play (as a sup-mage, of course, as most of her support players prefer to play her)
+
+
+
+  I also want an analogue of the old mask with mana and skill recharge. At the very least, Seraphine and Malzahar need exactly this
+> Either way she needs a rework. She was the very first VGU and it’s starting to show, they took no risks her with kit and made her too generic and all around when they updated her.
+
+I wish this got more discussion. Karma is probably the only champion in the game whose design revolves primarily around *not* being interesting. She hasn't got a single interesting or unique output (ult is an input), and you can tell that this is by design - the intention of her rework was simply to make sure that Karma was no longer a character who was confusing, or frustrating.
+
+They didn't actually manage with the latter goal, so you've got an incredibly bland character (a huge waste of potential) who still causes frustration when she's strong (which she is rarely allowed to be), and who has a troubled history of balance to say the least.
+
+And there's just so many problems to point to. She has almost no scaling utility, so she is essentially the same champion at level 3 as she is at 18. As a result, she scales terribly. All of her damage is in one spell, so she either has no damage or she has a nuclear bomb on one button. All of her enchanting is in one spell, so she's either a bad enchanter or she has one extremely overloaded defensive tool. And there is so little power budget in her W and so little ability to meaningfully tune that spell that it just sits there being ignored while Riot debates which of her Q or E makes the most sense to overload with numbers on any given patch.
+
+There are small tweaks that could be done to push her into a more balanceable direction, but fundamentally the kit is bad. It was bland on release and the direction the game has moved in since has aged her horribly. Karma is a good character and she's a character who could lend herself to a very interesting kit. The ult is a great hook for a kit. But the basic spells are terrible and the ways they're empowered are also extremely lacking.
+
+She doesn't deserve to be doomed forever because she was reworked before Riot learned how to do reworks. They should rework her again and do her justice. Unfortunately, I don't think you'll ever get the community in general on board with reworking Karma because "she's generic and boring" just isn't going to get most people up in arms.
+Mana growth I'm guessing
+    ty
+She was nerfed heavily already, support is bad and mid is mediocre, this buffs are ok tho
+    Shes still close to 50% on both. Braindead low elo enchanter abusers like you ate the reason this game is so low skill. I wish riot would stop babying this game for you.
+        Cry me a river
+            When assassins are actually a playable class of champions again surely youll spam for a nerf too
+                Lmao
+        How's 47 close to 50
+            Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+                cope girl
+                Iron player spotted
+                    Cluegi
+                        If you can't win vs a 48% winrate champion it's totally your fault.
+                Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+                    Ahh i didnt think of that, seems very interactive and skilled, yep
+                        Positioning is one of the most important parts of the game
+If you are casting E off cd lvl one you have bigger problems then the actual cd
+The projection is strong with this one lmao
+This is not my rank, but silver to platinum in one year is a good progression !
+
+There is no world where Malzahar having 4-3-2-1 seconds off on his E is what's going to make it viable. And if Riot want to make it viable, they should change his W.
+
+Malzahar still have mana issue until lost chapter. Being able to wave clear more in early levels is what you need. And you really need both your W AND Q to wave clear easily. This is why I think -20 mana on Q is better.
+Why was there a need to change something when her weak early game could have been compensated for by a new sup item this season. This item perfectly balances her scaling and good support play (as a sup-mage, of course, as most of her support players prefer to play her)
+
+
+
+  I also want an analogue of the old mask with mana and skill recharge. At the very least, Seraphine and Malzahar need exactly this
+ty
+Shes still close to 50% on both. Braindead low elo enchanter abusers like you ate the reason this game is so low skill. I wish riot would stop babying this game for you.
+    Cry me a river
+        When assassins are actually a playable class of champions again surely youll spam for a nerf too
+            Lmao
+    How's 47 close to 50
+        Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+            cope girl
+            Iron player spotted
+                Cluegi
+                    If you can't win vs a 48% winrate champion it's totally your fault.
+            Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+                Ahh i didnt think of that, seems very interactive and skilled, yep
+                    Positioning is one of the most important parts of the game
+Cry me a river
+    When assassins are actually a playable class of champions again surely youll spam for a nerf too
+        Lmao
+How's 47 close to 50
+    Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+        cope girl
+        Iron player spotted
+            Cluegi
+                If you can't win vs a 48% winrate champion it's totally your fault.
+        Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+            Ahh i didnt think of that, seems very interactive and skilled, yep
+                Positioning is one of the most important parts of the game
+When assassins are actually a playable class of champions again surely youll spam for a nerf too
+    Lmao
+Stop coping, how is she allowed to be 48 rounded up. When there is one shield breaking item in the game? How is she able to out damage most midlaners with mantra Q spam? This champion is low iq filth.
+    cope girl
+    Iron player spotted
+        Cluegi
+            If you can't win vs a 48% winrate champion it's totally your fault.
+    Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+        Ahh i didnt think of that, seems very interactive and skilled, yep
+            Positioning is one of the most important parts of the game
+Lmao
+cope girl
+Iron player spotted
+    Cluegi
+        If you can't win vs a 48% winrate champion it's totally your fault.
+Because one tank completely negates all of her damage potential. Literally play the fights behind minions or a tank or even a bruiser with 1 MR item and she does next to nothing for damage
+    Ahh i didnt think of that, seems very interactive and skilled, yep
+        Positioning is one of the most important parts of the game
+Cluegi
+    If you can't win vs a 48% winrate champion it's totally your fault.
+Ahh i didnt think of that, seems very interactive and skilled, yep
+    Positioning is one of the most important parts of the game
+If you can't win vs a 48% winrate champion it's totally your fault.
+Positioning is one of the most important parts of the game

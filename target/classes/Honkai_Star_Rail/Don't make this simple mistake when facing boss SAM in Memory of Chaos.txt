@@ -1,0 +1,1800 @@
+[[Don't make this simple mistake when facing boss SAM in Memory of Chaos]]
+
+
+Hi, my name is Ludgeria.  As per asia's weekly reset, the boss Stellaron Hunter: SAM appears on the 2nd side of MoC 11. Most people will be interested in his **DHGDR: Secondary Combustion** and its interaction with using skill points, but for me, i think what is most interesting is the fact that when SAM enters the secondary combustion form, he activates his talent called **SGE: Molten Core.**
+
+**TL;DR**
+
+* Boss SAM has a healing reduction when they enter combustion state
+* The healing reduction from SAM (90%) counts as a negative version of the Outgoing Healing Bonus% stat
+* This means stacking OHB% is very effective at countering SAM
+
+The ingame description is as follows:"After entering Secondary Combustion, Combusts both the area and targets' Skill Points. When consuming Combusted Skill Points, targets **lose HP** and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is **massively reduced**."
+
+Losing HP while using skill points and massively reduced healing? That sounds like a tough time for Abundance type sustains. Doing a little digging leads me to the HSR fandom wiki, which lists the percentage values of the extra fire damage being 160%. More interestingly, it lists the the healing reduction from other characters to be **90%**.
+
+[The HSR Fandom wiki's description of SAM's talent](https://preview.redd.it/n7wde012sfjc1.jpg?width=1023&format=pjpg&auto=webp&s=57fed69a443403169dcdfdde189602f680c69519)
+
+Turns out, SAM healing reduction works more like a negative outgoing healing bonus% stat. The current wiki lists this as the healing formula.
+
+Healing Amount: (Stat x Percentage Healing + Additive Healing) \* (1 + Outgoing Healing Boost)
+
+With SAM on board, the new healing formula should look like this:
+
+Healing Amount: (Stat x Percentage Healing + Additive Healing) \* (1 + Outgoing Healing Boost - **Healing Reduction**)
+
+I was also able to prove that the values that the wiki states were correct after testing.
+
+So how does this matter to the general player? Well, this means that stacking Outgoing Healing Bonus% is more important when facing SAM. Stacking Outgoing Healing Bonus allows you to effectively combat the healing reduction from SAM. Not using any Outgoing Healing Bonus means your healing gets cut down by 90%.
+
+You can get Outgoing Healing Bonus from 3 sources:
+
+* Body Piece mainstat
+* 2pc Passerby of Wandering Cloud set (Healing set)
+* Light Cones such as Shared Feeling, Hey Over Here, Time Waits for No One, Post-op Conversation (Ultimate healing only), and Cornucopia
+
+To give you a perspective, this is an example of my Luocha's skill heal going from no Outgoing Healing Bonus to using all Outgoing Healing Bonus sources:
+
+[Example of the increase of the healing amount of Luocha's skill using using multiple setup \(Skill trace level 8\)](https://preview.redd.it/wm72tcx4sfjc1.jpg?width=720&format=pjpg&auto=webp&s=f211273ae2ac5f01e9084c79c1f29009af9b44f7)
+
+As you can see, the most drastic change increase in healing output comes from swapping ATK% body to OHB% body and swapping Multiplication to S4 Shared Feeling. I used S4 Shared feeling as a comparison point since thats what i have. You can easily calculate your healing output using the formula already stated above. Considering that many people uses multiplication on their healer, and some people still using ATK% or HP% as body mainstat, this is something really important to take note of.
+
+DISCLAIMER:For the graph, do keep in mind that i used my Luocha's stats as a base for the calculation, which might not reflect everyone's experience either with Luocha himself or using other healers. If there is anything wrong with my graph and my statement feel free to comment. Extra credits goes to MeeHun for helping me with the graph and testing.
+
+
+I'll still probably try to brute force it ....if it doesn't work come crying back to this post
+    "If it kills, it kills."
+    Who needs healing anyways, fu xuan gang rise up
+        Only brought Fu Xuan. My Dr. Ratio had like 200hp at the end. Lol
+            I did fu xuan and jingliu, on my team silver wolf was the one who almost died in the end xd. Ez pz
+                This MOC reminded me that I neglected my SW for far too long. My team was composed of Dr. Ratio, Fu Xuan, Jingliu, and SW.
+                    Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+            Dhil decided to self-combust, ended up with 2 stars only.
+                I got only 2 Stars because i couldn't make it in less than 20 Turns. But No character died :)
+        Hahahaha. When I was reading Sam’s mechanics I was like “yep, i am bringing Fu Xuan here” and it worked!
+    yupppp first attempt is auto, if it fails maybe I'll learn to read
+        First attempt auto -> looked down 2 mins later to see my carry at 100 hp with fuxuan on my team 🫡
+    The MOC version is brute forceable. Managed to clear him with a double sustain pseudo mono Quantum (Jingliu, FX, SW, Lynx).
+    Can't be hurt by something thats dead
+    I do like the math but i just did a jingliu/silver wolf/bronya/gepard run and prayed gepard's shield to sustain me, and it worked surprisingly well. So ig u can just out shield him if your shielder is built well enough!
+    If my E6S5 Queenliu cant clear it on auto ill come back and complain about it lolol
+https://preview.redd.it/9wi90sfhcgjc1.jpeg?width=720&format=pjpg&auto=webp&s=360337a7cbafc7bd6e39deb033d5c9e50b25f886
+
+But all things considered very nice analysis.
+    Very interesting indeed 
+    Not the gyatt Shenhe 😭😭
+Well, this is some obvious Aventurine propaganda from Hoyoverse
+    you would still be losing hp from using sp but sam's ass is NOT getting past aventurine's shields
+        Should go for aventurine or wait on fu xuan ??? I need shield sustainer atm only have march fire mc
+            wait for beta, it'll be out any minute now. then decide. rn his kit seems really good, just waiting to see it in action.
+                I like his design,I hopehis insane so I don't have to  think should or shouldn't I
+                    me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+                        I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+                It's not out till tomorrow
+                    ig for me it'll be by today late at night lol
+            Fu Xuan. She's just a more well rounded char and way easier to use, press 1 button and you don't need to worry about dying nor char getting one shot.
+
+Aventurine and Luocha are Imaginary, so getting Fu Xuan now allows you to get one Imaginary later. With Ratio given for free the need to get Imaginary chars decreases a bit too.
+            If you don’t have a good sustain just go ahead and pull aventurine hes likely to be better in certain niches like follow up comps and is pretty good
+                Recent reviews saying he might be on par with fu xuan I have loucha but need shield for other group even though lynx has been carrying my second team to moc 12
+                    I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+    Healing Bonus Luocha: nuh uh sammy boy
+    Well to be fair, as someone who's been using a OHB body on Luocha since I got him, I though that Sam was pretty easy. His healing shenanigans haven't reached the point where its unmanageable.
+This is really interesting.
+
+That being said, correctly using Ratio and his FUA meant SAM had his weakness broken long before healing became an issue. 
+
+Offence really might be the best defence here.
+Well its nice to have fuxuan at time like this
+    Doesn't she just waste her self heals though?
+        Not “outgoing healing”
+        The heal cut only affects healing from other characters, self heals should still have the normal effect
+        Her self-heal is just as effective as always. Her heal from her Ult to allies should he reduced though.
+            I tried with her and her ultimate healed exactly 0 hp to my team 💀. Luocha was much better for this fight for me
+        If she use skill but she don't use skill for atleast 2 turns  and i broke Sam weakness bar before the chance for her to use skill 2nd time and Sam died before Sam had chance to recover from weakness break
+As usual, Daniel made SAM a chump because of him abusing the SP mechanic lmao.
+    Does QQ work too? Because technically you don't use the sp to attack
+        No, qq doesn't work.
+            Yup I sadly tried, every tile that doesent give her a four of a kind makes her cut herself in despair.
+
+No wonder she kept getting it instantly most turns
+So that's why my luocha's heal is still high despite sam's debuff. He was using a outgoing healing boost body
+    Wait how much was he healing
+i can finally use my OHB piece with double crt?
+Thank god i auto'd it so i dont have to learn its mechs lmao.
+    Must be nice🥲
+        Yep. I had to manually drag all incoming healing to DHIL (and even then he died twice) so that he could rain hell on SAM. 
+
+And when DHIL died second time and there were no Bailu to revive him I thought I was fucked. (I had bailu, natasha (WHY TF DIDNT SHE CLEANSE DHIL) and Fire TB) But luckily SAM was on its last legs and successfully offed itself with hp-draining attacks. 
+
+And here is this guy autoing the whole fight...
+    Yeah my luocha somehow pulled through with an atk body, I was scared that autoplay will fail cus sam and jingliu draining the team hp lmao
+    genuine question, why play the game if you're not going to learn the mechanics?
+
+I mean this without any judgement. I don't think you're playing the game wrong nor do I dislike making teams specifically for auto battle (1 cycling with auto battle is more impressive than 0 cycles manually imo)
+
+I am honestly curious because most of my fun in the game is optimizing challenging scenarios and getting to know the game's mechanics in depth, so I don't really understand why someone would spend so much time building their rosters without understanding how the game works
+        If they can auto it, that means their characters are already optimized, no need for anything extra.
+            Completely valid point
+        Idk why you're being downvoted after typing "I mean this without any judgment" LOL. People just don't read...
+            Next you're going to expect me to read event directions. The nerve of some people. 
+/s
+            You can also be rude while saying "I don't mean to be rude"
+                was I being rude? I thought I had qualified my question enough so that I wouldn't come off as haughty and overbearing
+
+I may have been able to rephrase the question better, but I thought my explanation was enough to prevent misunderstandings
+                    You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+                    I was pointing out the flaw of the logic of the person I responded to. Not you
+        Since nobody really gave you a serious answer, here's my perspective as someone who "autos" and thinks the true endgame is building teams that are able to auto all content (excluding via P2W means).
+
+As you mentioned, being able to auto challenging content well is impressive. Because to do so means not just understanding the boss mechanics, but also the auto mechanics/priority, and/or also having sufficiently well built characters. (Or just P2W, but let's ignore those since they're just bragging at that point)
+
+So while the poster was like "haha full auto didn't need to care about mechanics", I feel like it's more of a compatibility thing and their teams were already optimized for autoing said boss (Assuming they aren't whales in the first place). So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+Also, I feel like there was an intent to flex in that statement, considering being able to full auto MOC is a pretty impressive feat. It's like that kid after the release of exam results that goes "haha I didn't even attend class and still got an A". So probably best that you just congratulate them and don't think too much haha.
+            I think that's a good answer, thank you very much
+
+I went into a similar subject in other comments, but I think I understand it best when considering it from a macro perspective: ie creating an entire roster of overpowered units instead of focusing on the minute details is satisfying
+
+another way I view it is roguelike games, where you start of powerless and impotent, but once you have enough effort put into the run, you don't usually have to think twice about encounters and just melt every level
+            > So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+I mean you made a few assumptions that I think are not really valid for the current mechanics in the game.
+
+There are unfortunately no "Stand in the fire" raid-type mechanics that will just end a fight (except maybe death's auto kill which is new) that necessitate true "understanding of auto mechanics" to do content.
+
+Really most people who can "auto" do not "prep" and do "blindly auto to 3 star" using generic optimized relics, because the power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+                When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+
+Sure, they maybe not have physically prepped for this specific run NOW, but it's more like they've "prepped" properly BEFORE, and are now just reaping the fruits of their efforts.
+
+> power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+
+Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+                    > When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+                        > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+                            > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+                                > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                                    > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+        Skill issue? Just kidding. 
+
+But anyway, HSR is very forgiving for the whales. Compared to Genshin, no matter how much money you spent, if you can't dodge and aim then just forget your dream to fullstars the Abyss. Maybe that's why HSR can compete with Genshin on the sales. It's more worth it to spent.
+        I apologize if I sound rude but it’s because not everyone is you, some people could care less about the “in-depth” game mechanics (myself included) and find other things about the game fun.  Me personally, i find it the most fun super min-maxing my favourite characters and grinding relics just to see the small stat improvements they get even though it’s not needed anymore.
+            I think I understand, that's a fine explanation and there's no need to apologise. 
+
+ I can accept other people having different priorities, I am primarily a story driven player who likes games as a medium, but I understand not everyone wants a story and just likes the visual designs of a character.
+
+ But what really puzzled me was how I view the "draw" of games like these; a big thing this game offers is the depth of meaningful mechanics, like sam's unique SP gimmick, the unshackled's or the maleficent ape's targeting. I felt like most people at least subconsciously catch onto these mechanics even if they are not paying attention, so it was difficult to imagine someone who just doesn't care at all. But I understand it better now, thank you.
+        There’s an innate sense of satisfaction that you get just from the character development process. The actual battling is then just affirmation that you’ve developed them well enough, when you outstat them. Pokémon for example is notoriously easy, but I still kept playing the games just because it felt satisfying to raise a team of Pokémon. Same in Fire Emblem games, although I also enjoy when the difficulty is hard enough that I have to think over each turn.
+            Interesting perspective, I actually had trouble getting into games like pokemon because I didn't enjoy how easy it was, whereas I liked playing hard modes in fire emblem and other jrpg's. 
+
+This very succinctly answers that exact question of why someone would enjoy lower stakes despite striving for power progression, thank you.
+
+ I think this is related, but I do like games that start off very weak in power but skyrocket the player into dominating every challenge. Two examples that do this off the top of my head are XCOM and Kingdom Come:Deliverance. It does feel like the effort pays off if it becomes easy in the end, so I can understand that perspective.
+        On my part, my characters are strong enough that I can auto the battle so it's a convenience for me.
+        >most of my fun in the game is optimizing challenging scenarios
+
+If it's beatable by using auto, there is no challenging scenario to optimize.
+            this is not relatable to most players, myself included
+I surely can't 36 star it on auto despite having e3 dhil, and if I left the game on auto then most of my units would die
+    Same lmao, Dr Ratio shredded this metallic bastard
+Losing HP when using skill points? Sounds like Blade’s cup of tea.
+    Though isn't blade uses one skill every three turns? He won't get damaged from using skill for a long time
+        True, it would be better if he could more often, but unfortunately his kit does not work that way. Still at least he likes the damage taken.
+This mechanic totally went over my head because of FX.
+If you have geppy, just use him instead of a healer. Gepard finally gettin some love again <33
+so that lynx ohb% hackerspace piece i've been saving will come in clutch, nice
+    or will probably wait for sparkle's release to do this moc with mono quantum and just use fu xuan instead, whatever.
+Isn't that every abundance characters want OHB% anyway? Also I believe we're supposed to level up our preservation characters lol.
+Thanks for this tip. This is kinda off-tangent, but I'm just curious: why did you initially use atk% body for Luocha instead of outgoing healing boost? I've had him since day 1 of his release and prioritized giving him the highest possible OHB, rn he's at around 71.5% with the body, 2pc set, and maxed out passive of s5 perfect timing when in battle (lc bonus OHB from effect res only applies there). His atk is 2975 without buffs from teammates. 
+
+My Luocha can heal any teammate from just a sliver of red in the hp bar to full (like 51 hp DHIL to 3.7k) in one instance of skill/talent with these stats and it only takes one or two hits to the enemy for an ally to recover full hp when his field is up.
+
+We know his healing scales off from atk, but what's the rationale behind prioritizing high atk values over OHB stats from relics?
+    Because his ult scales off of ATK. Most people are fine with his healing and opt for more damage without sacrificing too much healing.
+        If you truly want to build him for damage, isn't a crit chest pc better?
+            They want to maximize damage while still getting more healing.
+                Ah I see but for me I rather go all in on damage with crit or just maximize healing with OHB. Well if it works it works.
+        That's a noob mistake tho. Even with atk scaling it won't hit for anything since he doesn't build any dmg% or crit stats.
+            If you're already capping on healing, might as well get a tiny bit of extra damage
+                I mean its not just about skill healing most people from half to full.... Being able to heal 25% vs 15% health per hit during field is huge difference...
+                    I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+    There isnt any, i just saw that there is quite a bit of people on support still use ATK% body, and i want to show just how bad it is not to use any OHB% at all for the people that havent switched to OHB% yet
+        I had no trouble with ATK body, so it's not really a bad choice. If you're dying, then of course you should switch.
+    imho, OHB is overkill as he can already heal someone to full with one single skill
+
+I personally prefer atk because it also helps his basics and ult
+    Free damage. If he heals enough using Atk body instead of OHB, then you might as well make his Basic and Ult his a little harder. Never know when it might make the difference.
+        With ohb you can compensate for lightcones like multiplication which has lower base stats while maintaining similar healing output.
+Or u can just use Fuxuan to save your braincells
+Imbibitor/~~Qingque~~ coming in to gobble up those combusted skill points might be able to break Sam out of his combustion state more quickly, then you can heal normally again.  Rather conveniently, he's also weak to both their elements...
+
+&#x200B;
+
+UPDATE: wrong about qingque, she doesnt work for this
+    Qingque actually cannot trigger Sam's SP mechanic since her enhanced basic isnt considered an attack using skill points, but for imbibitor it works very well yeah
+        If you're referring to that other added bit about how you also deal extra fire DMG if your skill damages the enemy, I consider that to mostly just be a bonus.
+
+  
+The real priority IMO is to burn through all the combusted skill points ASAP in order to break out of that state. The worst feeling you can end up with is prolonging that combustion state because in that state, not only is healing nerfed but Sam also deals more damage so it's a double dose of suffering.
+            He meant that you can't get out of sam's mechanic using Qingque since she actually doesn't spend SP attacking rather spends SP rolling
+                yeah my bad I just tried it after I got home from work. It does have to hit him to count
+I just 2cycled first half with DoTs and spent 7 cycles slowly poking him with Ratio-Tingyun-Fireblazer-FX: https://i.imgur.com/P6FsVcF.png . With two sustains on the team, Sam's attacks do basically nothing. Using Ratio with 60%s and 40%s chance to follow-up was painful, but luckily Tingyun batterying him increases the amount of his ult follow-ups, so he still did okay.
+
+Not sure I'll have an answer when they inevitably put him on floor12 though... Guess it's time to farm for a +Healing body piece for my abundance chars?
+Me who just wants to get the 2 achievements and then I just will use auto battle first and see if it works as usual... and with FuXuan and Gepard it wouldn't matter anyway. Maybe one day when I have a healer...
+Great insight Lud thank you
+    thank you peak bear
+This means Lynx is perfect for sustaining against SAM, no?
+    All Abundance healers are still fine against SAM, albeit they now need healing bonus body to not get utterly shafted. Preservation units, on the other hand, are best against SAM since their shields/damage mitigation are not lessened by the combustion field.
+    Fuxuan 👁️👁️
+Please keep in mind our spoiler policy during this new update window. We are going to be very strict with spoilers during this time. As a reminder, here are our spoiler rules: 
+
+Do not include spoilers in the title. All submissions which involve spoilers should be marked. Spoilers include all story content for the first three weeks after release, content from #limited events until the event ends, and content which has not yet been released. Any information or images which a user would not explicitly know before playing the content would be considered spoilers. 
+
+Spoilers can be discussed in spoiler-flaired posts, but must be hidden in non-spoiler flaired posts. 
+
+If you think you broke the spoiler rules in the post you just made, such as having spoilers in the title, you should remove your post now and repost it without breaking the rules. If you do not remove your post and the moderation team has to remove it later on for breaking spoiler rules, you will be given up to a week ban for a first infraction and stricter punishments for any additional infractions. Please be considerate of your fellow trailblazers and do not include spoilers in the title of your post, do not forget to flair your post as spoilers if needed, and do not spoil people in your comments.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/HonkaiStarRail) if you have any questions or concerns.*
+Oh yeah also i regret trying the hyper dr ratio with bronya + sparkle. Since ratio relied on skill so much it makes me kill myself 2 times faster to sam in moc lmao even though i had gepard protection. Normal ratio build is better for this situation
+I brute force through it without understanding the mechanics.
+
+Lol
+
+https://preview.redd.it/7czvrrmdyhjc1.jpeg?width=990&format=pjpg&auto=webp&s=2933a68193450b7770c97f0609a14cc676d18ef1
+    Barely*
+        Which is normal for me ever since they brought the limit down to 10 cycles.
+
+I am too dumb to switch up tactics.
+https://preview.redd.it/3pj8n9ygvhjc1.jpeg?width=1080&format=pjpg&auto=webp&s=efd5e042998eaa8a1081f3f8ccee4763a8d9648e
+
+didn't try, my DHIL annihilated sam
+Appreciate the effort but wtf are these PhD articles lately in this sub.
+I auto both sides with Black Swan Kafka Ruin Me Huo Huo and Topaz Ratio SW Fu Xuan. 
+
+I didn’t even know he is one of the boss.
+Too late, already cleared it with my Jingliu team on auto. Only took 4 cycles total to 3\* MoC 11. BS and Milk Powder took care of the first stage.
+
+I used HH with Jingliu - didn't know Sam has some special mechanics to beat. I'm surprised so many are struggling  with this.
+Idk about his moc version as i havent done it, but the story version was somehow kinda pathetic as his moves barely do any noticable damage, maybe its thanks to fu xuan
+    Ive seen some CC losing some characters when fighting SAM in the story cause they didnt use Fu Xuan xD
+    Trust me the MoC version is the lore accurate one
+    It's absolutely thanks to Fu Xuan.
+    This isnt doing any damage either. All that cool animations for nothing.
+Meanwhile me killing him with jingliu without a healer on the first try.
+TL; DR already defeated him 3 stars first run without reading this thing 💀
+Are you sure heal boost reduction is not applied to all healing, bypassing heal boost? As far as I know- that's how defense reduction works.
+    It doesn't. if it does, any healing will get reduced by 90%, which is only the case if you have 0% OHB as shown here and plenty of other people have experienced
+DHIL feels so good on him. My luocha can heal normally because of him breaking faster. My team is DHIL E0S1/Luocha/Ruan Mei/Tingyun
+iirc this didn't have an effect on Fu Xuan's 50% HP reversal talent, since it counts as healing as far as SU is concerned. Sam seems to treat Fu Xuan in my encounter in the story the same as Gepard: they can solo sustain as long as you aim to finish the fight as quickly as possible. Reducing the healing from her ult which normally only covers the bare minimum of the damage you sustain makes a battle of attrition a losing aspect, and especially now since FX has no reason to run Outgoing Healing%.
+    SAM healing reduction affect healing to other allies. self healing still work as usual which is why fu xuan reversal heal stay the same. you may notice that the party heal when she cast ult will be very low (its usually low i know but will be lower that that)
+Perfect Timing S5 with a bunch of Effect Res should also be fairly good in this fight, shouldn’t it?
+How does lynx fare in this situation.
+    it would depend on how much outgoing healing bonus you have as stated in the post and also how fast can you break sam or do the mechanic to dispel the fire field
+        I see. Thank you.
+i simply brute force SAM with hyper carry DHIL, natasha, tingyun and bronya. 3stars
+Not MoC but I just 1v1 with blade and won lol
+i used fu xuan and killed him JUST AS he about to end my dhil.
+someone can explain to me in Razor language, please pretty please?
+SAM was disappointly easy. I had more trouble in MoC 10 than 11!
+My 4k attk Luoca doing fine,so brute force all the way
+Love the analysis.
+
+Probably would just use Silver Wolf to NERF him, Gepard to tank it all and Otto to heal.
+ I felt that Sam himself didn't deal a lot of damage, it was the combustion mainly. Gepard shield protected from all his attacks but my team hp got quite low by the end. Seems like it ignores the shield
+no wonder my lynx with s5 post op can still heal alot almost to full health
+i just brute force it with gepard as the only sustain. My goat never fail me
+I've gone with HuoHuo without Healing Bonus set, I had no problem because I used Ruan Mei and Ratio to destroy his toughness bar super fast and not really have a problem with this skill
+I just used Fu Xuan and Ratio to do it since I knew I didn't need to hold up for that many turns for it to matter.
+I used luocha tingyun dan il and hanya I was fine barely almost died but I'm cleared! Brute force all the way ahaha
+I used Gepard, don't need to worry about healing if not using a healer :D
+
+on a side note, I did try using Natasha, and she did fine too, but Geppy was a more comfy clear
+"Perfect timing" is also a source of OHB.
+
+Since most healers want to build some eff.res to avoid CC anyway.
+"If it kills, it kills."
+Who needs healing anyways, fu xuan gang rise up
+    Only brought Fu Xuan. My Dr. Ratio had like 200hp at the end. Lol
+        I did fu xuan and jingliu, on my team silver wolf was the one who almost died in the end xd. Ez pz
+            This MOC reminded me that I neglected my SW for far too long. My team was composed of Dr. Ratio, Fu Xuan, Jingliu, and SW.
+                Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+        Dhil decided to self-combust, ended up with 2 stars only.
+            I got only 2 Stars because i couldn't make it in less than 20 Turns. But No character died :)
+    Hahahaha. When I was reading Sam’s mechanics I was like “yep, i am bringing Fu Xuan here” and it worked!
+yupppp first attempt is auto, if it fails maybe I'll learn to read
+    First attempt auto -> looked down 2 mins later to see my carry at 100 hp with fuxuan on my team 🫡
+The MOC version is brute forceable. Managed to clear him with a double sustain pseudo mono Quantum (Jingliu, FX, SW, Lynx).
+Can't be hurt by something thats dead
+I do like the math but i just did a jingliu/silver wolf/bronya/gepard run and prayed gepard's shield to sustain me, and it worked surprisingly well. So ig u can just out shield him if your shielder is built well enough!
+If my E6S5 Queenliu cant clear it on auto ill come back and complain about it lolol
+Very interesting indeed 
+Not the gyatt Shenhe 😭😭
+you would still be losing hp from using sp but sam's ass is NOT getting past aventurine's shields
+    Should go for aventurine or wait on fu xuan ??? I need shield sustainer atm only have march fire mc
+        wait for beta, it'll be out any minute now. then decide. rn his kit seems really good, just waiting to see it in action.
+            I like his design,I hopehis insane so I don't have to  think should or shouldn't I
+                me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+                    I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+            It's not out till tomorrow
+                ig for me it'll be by today late at night lol
+        Fu Xuan. She's just a more well rounded char and way easier to use, press 1 button and you don't need to worry about dying nor char getting one shot.
+
+Aventurine and Luocha are Imaginary, so getting Fu Xuan now allows you to get one Imaginary later. With Ratio given for free the need to get Imaginary chars decreases a bit too.
+        If you don’t have a good sustain just go ahead and pull aventurine hes likely to be better in certain niches like follow up comps and is pretty good
+            Recent reviews saying he might be on par with fu xuan I have loucha but need shield for other group even though lynx has been carrying my second team to moc 12
+                I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+Healing Bonus Luocha: nuh uh sammy boy
+Well to be fair, as someone who's been using a OHB body on Luocha since I got him, I though that Sam was pretty easy. His healing shenanigans haven't reached the point where its unmanageable.
+Doesn't she just waste her self heals though?
+    Not “outgoing healing”
+    The heal cut only affects healing from other characters, self heals should still have the normal effect
+    Her self-heal is just as effective as always. Her heal from her Ult to allies should he reduced though.
+        I tried with her and her ultimate healed exactly 0 hp to my team 💀. Luocha was much better for this fight for me
+    If she use skill but she don't use skill for atleast 2 turns  and i broke Sam weakness bar before the chance for her to use skill 2nd time and Sam died before Sam had chance to recover from weakness break
+Does QQ work too? Because technically you don't use the sp to attack
+    No, qq doesn't work.
+        Yup I sadly tried, every tile that doesent give her a four of a kind makes her cut herself in despair.
+
+No wonder she kept getting it instantly most turns
+Wait how much was he healing
+Must be nice🥲
+    Yep. I had to manually drag all incoming healing to DHIL (and even then he died twice) so that he could rain hell on SAM. 
+
+And when DHIL died second time and there were no Bailu to revive him I thought I was fucked. (I had bailu, natasha (WHY TF DIDNT SHE CLEANSE DHIL) and Fire TB) But luckily SAM was on its last legs and successfully offed itself with hp-draining attacks. 
+
+And here is this guy autoing the whole fight...
+Yeah my luocha somehow pulled through with an atk body, I was scared that autoplay will fail cus sam and jingliu draining the team hp lmao
+genuine question, why play the game if you're not going to learn the mechanics?
+
+I mean this without any judgement. I don't think you're playing the game wrong nor do I dislike making teams specifically for auto battle (1 cycling with auto battle is more impressive than 0 cycles manually imo)
+
+I am honestly curious because most of my fun in the game is optimizing challenging scenarios and getting to know the game's mechanics in depth, so I don't really understand why someone would spend so much time building their rosters without understanding how the game works
+    If they can auto it, that means their characters are already optimized, no need for anything extra.
+        Completely valid point
+    Idk why you're being downvoted after typing "I mean this without any judgment" LOL. People just don't read...
+        Next you're going to expect me to read event directions. The nerve of some people. 
+/s
+        You can also be rude while saying "I don't mean to be rude"
+            was I being rude? I thought I had qualified my question enough so that I wouldn't come off as haughty and overbearing
+
+I may have been able to rephrase the question better, but I thought my explanation was enough to prevent misunderstandings
+                You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+                I was pointing out the flaw of the logic of the person I responded to. Not you
+    Since nobody really gave you a serious answer, here's my perspective as someone who "autos" and thinks the true endgame is building teams that are able to auto all content (excluding via P2W means).
+
+As you mentioned, being able to auto challenging content well is impressive. Because to do so means not just understanding the boss mechanics, but also the auto mechanics/priority, and/or also having sufficiently well built characters. (Or just P2W, but let's ignore those since they're just bragging at that point)
+
+So while the poster was like "haha full auto didn't need to care about mechanics", I feel like it's more of a compatibility thing and their teams were already optimized for autoing said boss (Assuming they aren't whales in the first place). So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+Also, I feel like there was an intent to flex in that statement, considering being able to full auto MOC is a pretty impressive feat. It's like that kid after the release of exam results that goes "haha I didn't even attend class and still got an A". So probably best that you just congratulate them and don't think too much haha.
+        I think that's a good answer, thank you very much
+
+I went into a similar subject in other comments, but I think I understand it best when considering it from a macro perspective: ie creating an entire roster of overpowered units instead of focusing on the minute details is satisfying
+
+another way I view it is roguelike games, where you start of powerless and impotent, but once you have enough effort put into the run, you don't usually have to think twice about encounters and just melt every level
+        > So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+I mean you made a few assumptions that I think are not really valid for the current mechanics in the game.
+
+There are unfortunately no "Stand in the fire" raid-type mechanics that will just end a fight (except maybe death's auto kill which is new) that necessitate true "understanding of auto mechanics" to do content.
+
+Really most people who can "auto" do not "prep" and do "blindly auto to 3 star" using generic optimized relics, because the power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+            When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+
+Sure, they maybe not have physically prepped for this specific run NOW, but it's more like they've "prepped" properly BEFORE, and are now just reaping the fruits of their efforts.
+
+> power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+
+Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+                > When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+                    > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+                        > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+                            > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                                > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+    Skill issue? Just kidding. 
+
+But anyway, HSR is very forgiving for the whales. Compared to Genshin, no matter how much money you spent, if you can't dodge and aim then just forget your dream to fullstars the Abyss. Maybe that's why HSR can compete with Genshin on the sales. It's more worth it to spent.
+    I apologize if I sound rude but it’s because not everyone is you, some people could care less about the “in-depth” game mechanics (myself included) and find other things about the game fun.  Me personally, i find it the most fun super min-maxing my favourite characters and grinding relics just to see the small stat improvements they get even though it’s not needed anymore.
+        I think I understand, that's a fine explanation and there's no need to apologise. 
+
+ I can accept other people having different priorities, I am primarily a story driven player who likes games as a medium, but I understand not everyone wants a story and just likes the visual designs of a character.
+
+ But what really puzzled me was how I view the "draw" of games like these; a big thing this game offers is the depth of meaningful mechanics, like sam's unique SP gimmick, the unshackled's or the maleficent ape's targeting. I felt like most people at least subconsciously catch onto these mechanics even if they are not paying attention, so it was difficult to imagine someone who just doesn't care at all. But I understand it better now, thank you.
+    There’s an innate sense of satisfaction that you get just from the character development process. The actual battling is then just affirmation that you’ve developed them well enough, when you outstat them. Pokémon for example is notoriously easy, but I still kept playing the games just because it felt satisfying to raise a team of Pokémon. Same in Fire Emblem games, although I also enjoy when the difficulty is hard enough that I have to think over each turn.
+        Interesting perspective, I actually had trouble getting into games like pokemon because I didn't enjoy how easy it was, whereas I liked playing hard modes in fire emblem and other jrpg's. 
+
+This very succinctly answers that exact question of why someone would enjoy lower stakes despite striving for power progression, thank you.
+
+ I think this is related, but I do like games that start off very weak in power but skyrocket the player into dominating every challenge. Two examples that do this off the top of my head are XCOM and Kingdom Come:Deliverance. It does feel like the effort pays off if it becomes easy in the end, so I can understand that perspective.
+    On my part, my characters are strong enough that I can auto the battle so it's a convenience for me.
+    >most of my fun in the game is optimizing challenging scenarios
+
+If it's beatable by using auto, there is no challenging scenario to optimize.
+        this is not relatable to most players, myself included
+I surely can't 36 star it on auto despite having e3 dhil, and if I left the game on auto then most of my units would die
+Same lmao, Dr Ratio shredded this metallic bastard
+Though isn't blade uses one skill every three turns? He won't get damaged from using skill for a long time
+    True, it would be better if he could more often, but unfortunately his kit does not work that way. Still at least he likes the damage taken.
+or will probably wait for sparkle's release to do this moc with mono quantum and just use fu xuan instead, whatever.
+Because his ult scales off of ATK. Most people are fine with his healing and opt for more damage without sacrificing too much healing.
+    If you truly want to build him for damage, isn't a crit chest pc better?
+        They want to maximize damage while still getting more healing.
+            Ah I see but for me I rather go all in on damage with crit or just maximize healing with OHB. Well if it works it works.
+    That's a noob mistake tho. Even with atk scaling it won't hit for anything since he doesn't build any dmg% or crit stats.
+        If you're already capping on healing, might as well get a tiny bit of extra damage
+            I mean its not just about skill healing most people from half to full.... Being able to heal 25% vs 15% health per hit during field is huge difference...
+                I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+There isnt any, i just saw that there is quite a bit of people on support still use ATK% body, and i want to show just how bad it is not to use any OHB% at all for the people that havent switched to OHB% yet
+    I had no trouble with ATK body, so it's not really a bad choice. If you're dying, then of course you should switch.
+imho, OHB is overkill as he can already heal someone to full with one single skill
+
+I personally prefer atk because it also helps his basics and ult
+Free damage. If he heals enough using Atk body instead of OHB, then you might as well make his Basic and Ult his a little harder. Never know when it might make the difference.
+    With ohb you can compensate for lightcones like multiplication which has lower base stats while maintaining similar healing output.
+Qingque actually cannot trigger Sam's SP mechanic since her enhanced basic isnt considered an attack using skill points, but for imbibitor it works very well yeah
+    If you're referring to that other added bit about how you also deal extra fire DMG if your skill damages the enemy, I consider that to mostly just be a bonus.
+
+  
+The real priority IMO is to burn through all the combusted skill points ASAP in order to break out of that state. The worst feeling you can end up with is prolonging that combustion state because in that state, not only is healing nerfed but Sam also deals more damage so it's a double dose of suffering.
+        He meant that you can't get out of sam's mechanic using Qingque since she actually doesn't spend SP attacking rather spends SP rolling
+            yeah my bad I just tried it after I got home from work. It does have to hit him to count
+thank you peak bear
+All Abundance healers are still fine against SAM, albeit they now need healing bonus body to not get utterly shafted. Preservation units, on the other hand, are best against SAM since their shields/damage mitigation are not lessened by the combustion field.
+Fuxuan 👁️👁️
+Barely*
+    Which is normal for me ever since they brought the limit down to 10 cycles.
+
+I am too dumb to switch up tactics.
+Ive seen some CC losing some characters when fighting SAM in the story cause they didnt use Fu Xuan xD
+Trust me the MoC version is the lore accurate one
+It's absolutely thanks to Fu Xuan.
+This isnt doing any damage either. All that cool animations for nothing.
+It doesn't. if it does, any healing will get reduced by 90%, which is only the case if you have 0% OHB as shown here and plenty of other people have experienced
+SAM healing reduction affect healing to other allies. self healing still work as usual which is why fu xuan reversal heal stay the same. you may notice that the party heal when she cast ult will be very low (its usually low i know but will be lower that that)
+it would depend on how much outgoing healing bonus you have as stated in the post and also how fast can you break sam or do the mechanic to dispel the fire field
+    I see. Thank you.
+Only brought Fu Xuan. My Dr. Ratio had like 200hp at the end. Lol
+    I did fu xuan and jingliu, on my team silver wolf was the one who almost died in the end xd. Ez pz
+        This MOC reminded me that I neglected my SW for far too long. My team was composed of Dr. Ratio, Fu Xuan, Jingliu, and SW.
+            Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+    Dhil decided to self-combust, ended up with 2 stars only.
+        I got only 2 Stars because i couldn't make it in less than 20 Turns. But No character died :)
+Hahahaha. When I was reading Sam’s mechanics I was like “yep, i am bringing Fu Xuan here” and it worked!
+First attempt auto -> looked down 2 mins later to see my carry at 100 hp with fuxuan on my team 🫡
+Should go for aventurine or wait on fu xuan ??? I need shield sustainer atm only have march fire mc
+    wait for beta, it'll be out any minute now. then decide. rn his kit seems really good, just waiting to see it in action.
+        I like his design,I hopehis insane so I don't have to  think should or shouldn't I
+            me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+                I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+        It's not out till tomorrow
+            ig for me it'll be by today late at night lol
+    Fu Xuan. She's just a more well rounded char and way easier to use, press 1 button and you don't need to worry about dying nor char getting one shot.
+
+Aventurine and Luocha are Imaginary, so getting Fu Xuan now allows you to get one Imaginary later. With Ratio given for free the need to get Imaginary chars decreases a bit too.
+    If you don’t have a good sustain just go ahead and pull aventurine hes likely to be better in certain niches like follow up comps and is pretty good
+        Recent reviews saying he might be on par with fu xuan I have loucha but need shield for other group even though lynx has been carrying my second team to moc 12
+            I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+Not “outgoing healing”
+The heal cut only affects healing from other characters, self heals should still have the normal effect
+Her self-heal is just as effective as always. Her heal from her Ult to allies should he reduced though.
+    I tried with her and her ultimate healed exactly 0 hp to my team 💀. Luocha was much better for this fight for me
+If she use skill but she don't use skill for atleast 2 turns  and i broke Sam weakness bar before the chance for her to use skill 2nd time and Sam died before Sam had chance to recover from weakness break
+No, qq doesn't work.
+    Yup I sadly tried, every tile that doesent give her a four of a kind makes her cut herself in despair.
+
+No wonder she kept getting it instantly most turns
+Yep. I had to manually drag all incoming healing to DHIL (and even then he died twice) so that he could rain hell on SAM. 
+
+And when DHIL died second time and there were no Bailu to revive him I thought I was fucked. (I had bailu, natasha (WHY TF DIDNT SHE CLEANSE DHIL) and Fire TB) But luckily SAM was on its last legs and successfully offed itself with hp-draining attacks. 
+
+And here is this guy autoing the whole fight...
+If they can auto it, that means their characters are already optimized, no need for anything extra.
+    Completely valid point
+Idk why you're being downvoted after typing "I mean this without any judgment" LOL. People just don't read...
+    Next you're going to expect me to read event directions. The nerve of some people. 
+/s
+    You can also be rude while saying "I don't mean to be rude"
+        was I being rude? I thought I had qualified my question enough so that I wouldn't come off as haughty and overbearing
+
+I may have been able to rephrase the question better, but I thought my explanation was enough to prevent misunderstandings
+            You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+            I was pointing out the flaw of the logic of the person I responded to. Not you
+Since nobody really gave you a serious answer, here's my perspective as someone who "autos" and thinks the true endgame is building teams that are able to auto all content (excluding via P2W means).
+
+As you mentioned, being able to auto challenging content well is impressive. Because to do so means not just understanding the boss mechanics, but also the auto mechanics/priority, and/or also having sufficiently well built characters. (Or just P2W, but let's ignore those since they're just bragging at that point)
+
+So while the poster was like "haha full auto didn't need to care about mechanics", I feel like it's more of a compatibility thing and their teams were already optimized for autoing said boss (Assuming they aren't whales in the first place). So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+Also, I feel like there was an intent to flex in that statement, considering being able to full auto MOC is a pretty impressive feat. It's like that kid after the release of exam results that goes "haha I didn't even attend class and still got an A". So probably best that you just congratulate them and don't think too much haha.
+    I think that's a good answer, thank you very much
+
+I went into a similar subject in other comments, but I think I understand it best when considering it from a macro perspective: ie creating an entire roster of overpowered units instead of focusing on the minute details is satisfying
+
+another way I view it is roguelike games, where you start of powerless and impotent, but once you have enough effort put into the run, you don't usually have to think twice about encounters and just melt every level
+    > So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+I mean you made a few assumptions that I think are not really valid for the current mechanics in the game.
+
+There are unfortunately no "Stand in the fire" raid-type mechanics that will just end a fight (except maybe death's auto kill which is new) that necessitate true "understanding of auto mechanics" to do content.
+
+Really most people who can "auto" do not "prep" and do "blindly auto to 3 star" using generic optimized relics, because the power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+        When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+
+Sure, they maybe not have physically prepped for this specific run NOW, but it's more like they've "prepped" properly BEFORE, and are now just reaping the fruits of their efforts.
+
+> power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+
+Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+            > When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+                > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+                    > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+                        > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                            > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+Skill issue? Just kidding. 
+
+But anyway, HSR is very forgiving for the whales. Compared to Genshin, no matter how much money you spent, if you can't dodge and aim then just forget your dream to fullstars the Abyss. Maybe that's why HSR can compete with Genshin on the sales. It's more worth it to spent.
+I apologize if I sound rude but it’s because not everyone is you, some people could care less about the “in-depth” game mechanics (myself included) and find other things about the game fun.  Me personally, i find it the most fun super min-maxing my favourite characters and grinding relics just to see the small stat improvements they get even though it’s not needed anymore.
+    I think I understand, that's a fine explanation and there's no need to apologise. 
+
+ I can accept other people having different priorities, I am primarily a story driven player who likes games as a medium, but I understand not everyone wants a story and just likes the visual designs of a character.
+
+ But what really puzzled me was how I view the "draw" of games like these; a big thing this game offers is the depth of meaningful mechanics, like sam's unique SP gimmick, the unshackled's or the maleficent ape's targeting. I felt like most people at least subconsciously catch onto these mechanics even if they are not paying attention, so it was difficult to imagine someone who just doesn't care at all. But I understand it better now, thank you.
+There’s an innate sense of satisfaction that you get just from the character development process. The actual battling is then just affirmation that you’ve developed them well enough, when you outstat them. Pokémon for example is notoriously easy, but I still kept playing the games just because it felt satisfying to raise a team of Pokémon. Same in Fire Emblem games, although I also enjoy when the difficulty is hard enough that I have to think over each turn.
+    Interesting perspective, I actually had trouble getting into games like pokemon because I didn't enjoy how easy it was, whereas I liked playing hard modes in fire emblem and other jrpg's. 
+
+This very succinctly answers that exact question of why someone would enjoy lower stakes despite striving for power progression, thank you.
+
+ I think this is related, but I do like games that start off very weak in power but skyrocket the player into dominating every challenge. Two examples that do this off the top of my head are XCOM and Kingdom Come:Deliverance. It does feel like the effort pays off if it becomes easy in the end, so I can understand that perspective.
+On my part, my characters are strong enough that I can auto the battle so it's a convenience for me.
+>most of my fun in the game is optimizing challenging scenarios
+
+If it's beatable by using auto, there is no challenging scenario to optimize.
+    this is not relatable to most players, myself included
+I surely can't 36 star it on auto despite having e3 dhil, and if I left the game on auto then most of my units would die
+True, it would be better if he could more often, but unfortunately his kit does not work that way. Still at least he likes the damage taken.
+If you truly want to build him for damage, isn't a crit chest pc better?
+    They want to maximize damage while still getting more healing.
+        Ah I see but for me I rather go all in on damage with crit or just maximize healing with OHB. Well if it works it works.
+That's a noob mistake tho. Even with atk scaling it won't hit for anything since he doesn't build any dmg% or crit stats.
+    If you're already capping on healing, might as well get a tiny bit of extra damage
+        I mean its not just about skill healing most people from half to full.... Being able to heal 25% vs 15% health per hit during field is huge difference...
+            I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+I had no trouble with ATK body, so it's not really a bad choice. If you're dying, then of course you should switch.
+With ohb you can compensate for lightcones like multiplication which has lower base stats while maintaining similar healing output.
+If you're referring to that other added bit about how you also deal extra fire DMG if your skill damages the enemy, I consider that to mostly just be a bonus.
+
+  
+The real priority IMO is to burn through all the combusted skill points ASAP in order to break out of that state. The worst feeling you can end up with is prolonging that combustion state because in that state, not only is healing nerfed but Sam also deals more damage so it's a double dose of suffering.
+    He meant that you can't get out of sam's mechanic using Qingque since she actually doesn't spend SP attacking rather spends SP rolling
+        yeah my bad I just tried it after I got home from work. It does have to hit him to count
+Which is normal for me ever since they brought the limit down to 10 cycles.
+
+I am too dumb to switch up tactics.
+I see. Thank you.
+I did fu xuan and jingliu, on my team silver wolf was the one who almost died in the end xd. Ez pz
+    This MOC reminded me that I neglected my SW for far too long. My team was composed of Dr. Ratio, Fu Xuan, Jingliu, and SW.
+        Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+Dhil decided to self-combust, ended up with 2 stars only.
+    I got only 2 Stars because i couldn't make it in less than 20 Turns. But No character died :)
+wait for beta, it'll be out any minute now. then decide. rn his kit seems really good, just waiting to see it in action.
+    I like his design,I hopehis insane so I don't have to  think should or shouldn't I
+        me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+            I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+    It's not out till tomorrow
+        ig for me it'll be by today late at night lol
+Fu Xuan. She's just a more well rounded char and way easier to use, press 1 button and you don't need to worry about dying nor char getting one shot.
+
+Aventurine and Luocha are Imaginary, so getting Fu Xuan now allows you to get one Imaginary later. With Ratio given for free the need to get Imaginary chars decreases a bit too.
+If you don’t have a good sustain just go ahead and pull aventurine hes likely to be better in certain niches like follow up comps and is pretty good
+    Recent reviews saying he might be on par with fu xuan I have loucha but need shield for other group even though lynx has been carrying my second team to moc 12
+        I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+I tried with her and her ultimate healed exactly 0 hp to my team 💀. Luocha was much better for this fight for me
+Yup I sadly tried, every tile that doesent give her a four of a kind makes her cut herself in despair.
+
+No wonder she kept getting it instantly most turns
+Completely valid point
+Next you're going to expect me to read event directions. The nerve of some people. 
+/s
+You can also be rude while saying "I don't mean to be rude"
+    was I being rude? I thought I had qualified my question enough so that I wouldn't come off as haughty and overbearing
+
+I may have been able to rephrase the question better, but I thought my explanation was enough to prevent misunderstandings
+        You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+        I was pointing out the flaw of the logic of the person I responded to. Not you
+I think that's a good answer, thank you very much
+
+I went into a similar subject in other comments, but I think I understand it best when considering it from a macro perspective: ie creating an entire roster of overpowered units instead of focusing on the minute details is satisfying
+
+another way I view it is roguelike games, where you start of powerless and impotent, but once you have enough effort put into the run, you don't usually have to think twice about encounters and just melt every level
+> So it's not like they never had any prep and just blindly autoed to 3 star from nothing.
+
+I mean you made a few assumptions that I think are not really valid for the current mechanics in the game.
+
+There are unfortunately no "Stand in the fire" raid-type mechanics that will just end a fight (except maybe death's auto kill which is new) that necessitate true "understanding of auto mechanics" to do content.
+
+Really most people who can "auto" do not "prep" and do "blindly auto to 3 star" using generic optimized relics, because the power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+    When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+
+Sure, they maybe not have physically prepped for this specific run NOW, but it's more like they've "prepped" properly BEFORE, and are now just reaping the fruits of their efforts.
+
+> power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+
+Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+        > When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+            > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+                > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+                    > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                        > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+I think I understand, that's a fine explanation and there's no need to apologise. 
+
+ I can accept other people having different priorities, I am primarily a story driven player who likes games as a medium, but I understand not everyone wants a story and just likes the visual designs of a character.
+
+ But what really puzzled me was how I view the "draw" of games like these; a big thing this game offers is the depth of meaningful mechanics, like sam's unique SP gimmick, the unshackled's or the maleficent ape's targeting. I felt like most people at least subconsciously catch onto these mechanics even if they are not paying attention, so it was difficult to imagine someone who just doesn't care at all. But I understand it better now, thank you.
+Interesting perspective, I actually had trouble getting into games like pokemon because I didn't enjoy how easy it was, whereas I liked playing hard modes in fire emblem and other jrpg's. 
+
+This very succinctly answers that exact question of why someone would enjoy lower stakes despite striving for power progression, thank you.
+
+ I think this is related, but I do like games that start off very weak in power but skyrocket the player into dominating every challenge. Two examples that do this off the top of my head are XCOM and Kingdom Come:Deliverance. It does feel like the effort pays off if it becomes easy in the end, so I can understand that perspective.
+this is not relatable to most players, myself included
+I surely can't 36 star it on auto despite having e3 dhil, and if I left the game on auto then most of my units would die
+They want to maximize damage while still getting more healing.
+    Ah I see but for me I rather go all in on damage with crit or just maximize healing with OHB. Well if it works it works.
+If you're already capping on healing, might as well get a tiny bit of extra damage
+    I mean its not just about skill healing most people from half to full.... Being able to heal 25% vs 15% health per hit during field is huge difference...
+        I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+He meant that you can't get out of sam's mechanic using Qingque since she actually doesn't spend SP attacking rather spends SP rolling
+    yeah my bad I just tried it after I got home from work. It does have to hit him to count
+This MOC reminded me that I neglected my SW for far too long. My team was composed of Dr. Ratio, Fu Xuan, Jingliu, and SW.
+    Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+I got only 2 Stars because i couldn't make it in less than 20 Turns. But No character died :)
+I like his design,I hopehis insane so I don't have to  think should or shouldn't I
+    me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+        I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+It's not out till tomorrow
+    ig for me it'll be by today late at night lol
+Recent reviews saying he might be on par with fu xuan I have loucha but need shield for other group even though lynx has been carrying my second team to moc 12
+    I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+was I being rude? I thought I had qualified my question enough so that I wouldn't come off as haughty and overbearing
+
+I may have been able to rephrase the question better, but I thought my explanation was enough to prevent misunderstandings
+    You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+    I was pointing out the flaw of the logic of the person I responded to. Not you
+When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+
+Sure, they maybe not have physically prepped for this specific run NOW, but it's more like they've "prepped" properly BEFORE, and are now just reaping the fruits of their efforts.
+
+> power ceiling of all chars/teams is so much higher than is necessary to 3* MOC.
+
+Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+    > When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+        > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+            > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+                > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                    > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+Ah I see but for me I rather go all in on damage with crit or just maximize healing with OHB. Well if it works it works.
+I mean its not just about skill healing most people from half to full.... Being able to heal 25% vs 15% health per hit during field is huge difference...
+    I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+yeah my bad I just tried it after I got home from work. It does have to hit him to count
+Yeah same, I'm just using the standard support build with defensive stats and ehr and sp. But since I'm preparing for acheron, i might switch her to a break effect build if i get good pieces while i farm for acheron since it's in the same cavern. At least i can use a double crit piece even if it's on the other set xD.
+me too, his kit on paper seems pretty stacked already, just waiting for that final in-game confirmation ig
+    I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+ig for me it'll be by today late at night lol
+I would get him since lynxs numbers just aren’t comparatively as high as other characters and he will most likely be a lot more comfy to use
+You did a good job being polite while making sure you weren't being ill intended. Which personally I hate that is something you need to do to not hurt someone's feelings ngl. Even saying something as simple as "source?" people think you're being rude. So don't worry.
+I was pointing out the flaw of the logic of the person I responded to. Not you
+> When I say "prep", I'm referring to the effort put into building relics and even using proper teams.
+> 
+> 
+
+I mean.... even people who manual have to "prep" in this same way. There's no additional effort made really.....
+
+The game is autoable with E0S0 characters with mainstat only relics....
+
+> Only if you have most of the 5 stars and their accompanying 5 star lightcones. If not, you're stuck in the relic grind to a certain level before proper teams allow you to do a clean blindfolded auto.
+
+Which is fully attainable by even a free to play player at this point.......
+
+> Edit: I mean, even the commentor saying it was "easy" was saying in a separate comment they had to retry because their auto failed. So yeah. Not exactly easy at this point yet.
+
+I mean >99% of the game's players are like 12 year olds who play 10 minutes a day (exagerration but the point stands...). Are you really going to compare yourself to that? I wouldn't be saying basic trigonometry is difficult because a 12 year old can't do it without pulling up an online smart calculator....
+    > There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+        > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+            > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+                > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+I second it. I was ok with some random lvl 9 relics until I met Swarm at MoC 10. Skill was healing to full, but it only heals 1.5 characters per turn, which wasn't enough to survive. I equipped everything I could to boost heal and was able to stay alive. Actually later I was able to build enough dps/break to survive with minimal healing, but when you don't have that, Luocha may need every bit he can get. 
+
+Of course if you have enough dps/break, you can wear crit body on him.
+I'm skipping him fkin  archoen changed everything ... I'm not even a dot player i don't have dot units but she too good to pass up.... I guess ill wait on fu xuan or any future shield sustainers...
+> There's no additional effort made really.....
+
+Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+
+> The game is autoable with E0S0 characters with mainstat only relics....
+
+Not a MOC 12 3 star. Honestly, try it.
+
+> Which is fully attainable by even a free to play player at this point.......
+
+This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+    > Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+        > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+            > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+> Auto logic is infamous for wasting SP with certain characters. So you actually have to plan around it or spend more resources gearing your characters to brute force.
+> 
+> 
+
+I never said it was doable with ALL characters at e0s0. I did in fact state you have to plan around autoing, but that any "planning" for any comps that can do it would not require ADDITIONAL planning beyond what people would do normally. Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+> Not a MOC 12 3 star. Honestly, try it.
+
+I've done this several times over. I don't have crappy +15 relics to simulate but its doable with 3-4 cycles with my relics so I presume with crappier relics you'll hit it in 9-10 cycles. 
+
+> This isn't genshin. At 2 new characters every patch, you can't even get every single new 5 star let alone their lightcone.
+
+I never claimed this. With the current pull income everyone who played since release (which I clearly made as an assumption) has gotten atleast 640 pulls.
+
+Even in the almost WORSE case scenario where you lose EVERY 50/50 and go 5 deep into soft pity this means you would be guaranteed 5 limited characters/lightcones.
+
+This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones. 
+
+You get a free Lynx as your second healer.
+
+Now based on this pull history you should have Pela (Fu Xuan Banner), Tingyun (JingLiu Banner), Asta (Free)
+
+So your teams are:
+
+1) JingLiu, Ruan Mei, Asta, Lynx
+2) Ratio, Pela, Tingyun, Fu Xuan
+
+These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Now do I expect most players to be disciplined to the point where they can hold their income to pull specific for a hypermeta comp like this?
+
+No. Playing like this would be miserable for a F2P player, but it is well doable for any F2P who has worked hard in advance.
+    > I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+        > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+> I never said it was doable with ALL characters at e0s1
+
+The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+
+> Farming more relics until you roll decent relics IS NOT planning. You would do that either way.
+
+That's why I used "prep" and not "plan". It's meant as a catch all. It's to signify the efforts put in BEFOREHAND to lead to this outcome. It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+In that context I said plan, because the person I was replying to earlier was referencing mechanics, of which I brought to their attention auto-mechanics, and the need to take them into account.
+
+> I've done this several times over
+
+Fam. NPNT. Why don't you try the current one instead of just spitballing here. Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+> has gotten atleast 640 pulls.
+
+> This is enough to get JingLiu, Ruan Mei, Ratio (Free), Fu Xuan and Jingliu/Ratio Light cones.
+
+Fam. 1 pity is 90, a full pity is 180, with soft pity at 75. Weapon is 80, and 160, with soft pity at 65. That's hardly guaranteed. Not to mention you telling me to specifically plan to save for less than HALF the 5 star roster when you don't even know when they will be released? 
+
+Both Ruan Mei and Ratio were literally last patch. So before that we should all sit on our jades and be unable to properly auto MOC? That's hardly "I've always been doing it, it's so easy" material.
+
+> These two teams are well strong enough with E0S1 DPS to solo MOC12 with matching mainstat relics.
+
+Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+> but it is well doable for any F2P who has worked hard in advance.
+
+Which I'm TRYING to pay homage to with my comment about early prep. Because if you go that far, then congratulations, you deserve it.
+    > The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
+> The context of this thread is 3 starring MOC 12. You reply saying "the game is autoable at e0s1". Nuff said..
+> 
+> 
+
+Sorry but just because you're bad at understanding that statements have LIMITS and can't help but wildly extrapolate other people's very intentional statements doesn't make my statements any less true. 
+
+The game is autoable at E0S1. That does not mean the game is autoable at E0S1 with ALL characters. 
+
+> It could have been better planning (E.g. Not running a glass cannon, no sustain team), or simply better relics, or even more efficient saving (E.g. Sniping the key meta units as a F2P/low spender).
+
+Farming relics is not prepping. That's just playing the game. That's the bare minimum. 
+
+> Also, show your "crappy relics" with "main stat only". Let's take a look.
+
+I already told you I haven't done this with crappy relics because I certainly don't have crappy relics to mimic, they've long all been fodder.
+
+> 1 pity is 90, a full pity is 180, with soft pity at 75. 
+
+LOL. I even clearly laid out that you would be 5 into soft pity. 
+
+Soft pity is +7% every pull. To think that you would go HARD PITY 8 times in a row and lose every 50/50 is a 1 in a 10^-26 occurrence. 
+
+In fact getting past 80 pulls (ie. 5 into soft pity) is already only a 27% occurence. Lmao. 
+
+Oh to give you some math on how exactly low 10^-26 is.... if you repeated this "experiment" 100 million times PER SECOND since the universe came into existence you would have FINALLY been able to see your "assumed state" once. 
+
+Go back to grade school before embarassing yourself further.
+
+> So before that we should all sit on our jades and be unable to properly auto MOC? 
+
+I never said this was doable from the beginning of the game. I said it was doable as of current patch. But you just love to keep trying to fail and strawman.
+
+> That's hardly "I've always been doing it, it's so easy" material.
+
+Like I said, **I have** always been doing it. I didn't say the average F2P would always be able to do it from beginining of the game. Sorry bud. Words are precise. Just because your brain isn't doesn't make others statements anymore false.
+
+> Maybe so. Proof that you've done it auto tho..? Because that's the context of this thread.
+
+AHAHAHAHA. Ive already proven this long beyond a 50% probabability assuming reasonable prioris that I do not need to provide video proof.
+
+In fact, in order to even show that YOUR argument is even the LEAST bit accurate YOU need to provide proof it ISN"T doable at this point.
+
+But keep malding and failing kiddo.
