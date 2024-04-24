@@ -69,7 +69,7 @@ public class PseudoWatson {
      */
     private List<ResultClass> runQuery(String query, Boolean altSimilarity){
         List<ResultClass>  results = new ArrayList<ResultClass>();
-        parser = new QueryParser("text", analyzer);
+        parser = new QueryParser("docContent", analyzer);
         Query q;
         try {
             q = parser.parse(query);
@@ -79,7 +79,7 @@ public class PseudoWatson {
             if(altSimilarity) {
                 searcher.setSimilarity(new BM25Similarity());
             }
-            TopDocs docs = searcher.search(q, 1000);
+            TopDocs docs = searcher.search(q, 10);
             for (ScoreDoc scoreDoc : docs.scoreDocs) {
                 Document doc = searcher.doc(scoreDoc.doc);
                 ResultClass result = new ResultClass();
@@ -89,10 +89,8 @@ public class PseudoWatson {
             }
             reader.close();
         } catch (ParseException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         System.out.println("Found " + results.size() + " hits");
@@ -111,7 +109,7 @@ public class PseudoWatson {
             for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
-                System.out.println("text: " + doc.get("docData"));
+                //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
             }
             reader.close();
