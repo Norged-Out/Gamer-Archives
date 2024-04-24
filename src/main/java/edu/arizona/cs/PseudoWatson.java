@@ -34,7 +34,7 @@ public class PseudoWatson {
 
     boolean indexExists = false;
     String indexFilePath = "";
-    //StandardAnalyzer oldAnalyzer = null; // Not using it anymore
+    //StandardAnalyzer analyzer = null; // Not using it anymore
     EnglishAnalyzer analyzer = null;  // This is better for parsing English text
     Directory index = null;
     //IndexWriterConfig config = null;
@@ -48,6 +48,7 @@ public class PseudoWatson {
     public PseudoWatson(String inputFile) {
         indexFilePath = inputFile;
         analyzer = new EnglishAnalyzer();
+        //analyzer = new StandardAnalyzer();
         try {
             index = FSDirectory.open(Paths.get(indexFilePath));
         } catch (IOException e) {
