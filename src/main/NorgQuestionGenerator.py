@@ -24,7 +24,7 @@ def main():
 
     # Randomize the order of pairs and write to a new file
     random.shuffle(pairs)
-    with open(initial_path + "random.txt", "w") as file:
+    with open(initial_path + "questionBank.txt", "w") as file:
         for query, answer in pairs:
             file.write(query + "\n")
             file.write(answer + "\n\n")

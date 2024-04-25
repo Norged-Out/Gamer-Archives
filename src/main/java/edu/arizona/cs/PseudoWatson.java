@@ -30,6 +30,11 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * The `PseudoWatson` class represents a Watson-like search engine that performs queries on an index
+ * and compares the retrieved answers with the expected answers. It uses Lucene's query parser and
+ * EnglishAnalyzer for parsing English text.
+ */
 public class PseudoWatson {
 
     boolean indexExists = false;
@@ -110,10 +115,88 @@ public class PseudoWatson {
     }
     /**
      * Reads a text file and extracts answers and questions.
+     * Performs queries on the index and compares the retrieved answers with the expected answers.
      * @param filePath the path of the text file
-     * @return a HashMap containing answers as keys and a list of questions as values
+     * @param scanner the scanner object to read user input
      */
-    private HashMap<String, List<String>> processQuestions(String filePath) {
+    private void processQuestions(String filePath, Scanner scanner){
+        ClassLoader classLoader = getClass().getClassLoader();
+        File file = new File(classLoader.getResource(filePath).getFile());
+        List<ResultClass> results = null;
+        ResultClass topAnswer = null;
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(file));
+            String line; // The line being read from the file
+            String query = null, answer = null; // The query and the expected answer
+            while((line = reader.readLine()) != null){
+                // If the line is not empty, it is either a query or an answer
+                if(!line.isEmpty()){
+                    if(query == null){
+                        query = line;
+                    }
+                    else{
+                        answer = line;
+                    }
+                }
+                // If the line is empty, it is the end of the question
+                else if(line.isEmpty()){
+                    // Perform the query
+                    results = runQuery(query);
+                    System.out.println("Query: " + query);
+                    System.out.println("\nRunning Watson...\n");
+                    // If there are results, get the top answer
+                    if (results.size() > 0){
+                        topAnswer = results.get(0);
+                        String docName = topAnswer.DocName.get("docName");
+                        System.out.println("Retrieved answer: " + docName);
+                        // Compare the top answer with the expected answer
+                        if(docName.equals(answer)){
+                            System.out.println("Correct!");
+                        }
+                        // Ask the user if they want to see alternative answers
+                        else{
+                            System.out.println("Incorrect!");
+                            System.out.println("Expected answer: " + answer);
+                            System.out.println("\nWould you like to see alternative answers? (y/n)");
+                            String alt = scanner.nextLine();
+                            // List up to 3 alternative answers
+                            if(alt.equals("y")){
+                                System.out.println("Here are some alternative answers I found:");
+                                int i = 1;
+                                while(i < 4 && i < results.size()){
+                                    System.out.println(results.get(i).DocName.get("docName"));
+                                    i++;
+                                }
+                            }
+                        }
+                        
+                    }
+                    // Reset the query and answer for the next query
+                    query = null;
+                    answer = null;
+                    System.out.println("\nContinue? (y/n)");
+                    String cont = scanner.nextLine();
+                    if (cont.equals("n")){
+                        break;
+                    }
+                }
+            }
+            reader.close();
+        }
+        catch (IOException e){
+            e.printStackTrace();
+        }
+
+    }
+
+
+     /**
+      * Old implementation of processQuestions
+      * Reads a text file and extracts answers and questions.
+      * @param filePath the path of the text file
+      * @return a HashMap containing answers as keys and a list of questions as values
+      */
+    /*private HashMap<String, List<String>> processQuestions(String filePath) {
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource(filePath).getFile());
         HashMap<String, List<String>> data = new HashMap<>();
@@ -144,7 +227,7 @@ public class PseudoWatson {
             e.printStackTrace();
         }
         return data;
-    }
+    }*/
 
     public static void main(String[] args) {
         String indexFilePath = "testindex";
@@ -161,58 +244,14 @@ public class PseudoWatson {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        HashMap<String, List<String>> data = watson.processQuestions("queries.txt");
-        List<ResultClass> results = null;
-        List<String> questions = null;
-        ResultClass topAnswer = null;
         Scanner scanner = new Scanner(System.in);
-
-        for (String answer: data.keySet()){
-            questions = data.get(answer);
-            for(String query: questions){
-                System.out.println("Query: " + query);
-                results = watson.runQuery(query);
-                if (results.size() > 0){
-                    topAnswer = results.get(0);
-                    String docName = topAnswer.DocName.get("docName");
-                    System.out.println("Retrieved answer: " + docName);
-                    System.out.println("Expected answer: " + answer);
-                    if (docName.equals(answer)){
-                        System.out.println("Correct!");
-                    }
-                    else{
-                        System.out.println("Incorrect!");
-                    }
-                }
-                System.out.println("\nContinue? (y/n)");
-                String cont = scanner.nextLine();
-                if (cont.equals("n")){
-                    break;
-                }
-            }
-            System.out.println("\nContinue? (y/n)");
-            String cont = scanner.nextLine();
-            if (cont.equals("n")){
-                break;
-            }
+        System.out.println("Welcome to Pseudo Watson!\nWould you to like to play? (y/n)");
+        String play = scanner.nextLine();
+        if (play.equals("y")){
+            System.out.println("Great! Let's get started!");
+            System.out.println("\n--------------------------------------------\n");
+            watson.processQuestions("questionBank.txt", scanner);
         }
-
-        /*
-            List<ResultClass> results = null;
-
-            results = watson.runQuery(query);
-            for(ResultClass res: results){
-                System.out.print(res.DocName.get("docName"));
-                System.out.println(", Score: " + res.docScore);
-            }
-            System.out.println("Enter the query: ");
-            query = scanner.nextLine();
-            results = watson.runQuery(query);
-            for(ResultClass res: results){
-                System.out.print(res.DocName.get("docName"));
-                System.out.println(", Score: " + res.docScore);
-            }
-        */
     }
 
     
