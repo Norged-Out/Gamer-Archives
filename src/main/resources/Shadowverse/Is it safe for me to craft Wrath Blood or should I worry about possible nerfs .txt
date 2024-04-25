@@ -1,0 +1,241 @@
+[[Is it safe for me to craft Wrath Blood or should I worry about possible nerfs ]]
+
+
+
+
+
+Grab the free deck and then craft the remaining cards or use temp gems, the deck is incredibly cheap to build compared to literally anything else so even if they do nerf it youre not losing out on that much and you’ll dominate ladder with it in the meantime.
+    ^ Seconded you can absolutely cause havoc with the temp deck, really you don't have much to lose by picking that if you did. Even then you only need a bit of further investment to make something real powerful
+Craft it, if they nerf it, you vial the nerfed cards and you will get full refund on those back
+Too soon to tell. People are saying it needs a nerf but imo the game just needs more time to settle. If people are unable to make up anything new or to specifically counter/outspeed it, and it continues to dominate ladder and more importantly tournament numbers, it'll possibly see changes.
+
+Or what I would rather see, buffs to certain other archetypes that are no shows. I don't think Wrath is too bad by itself, as the deck is fairly, well, fair in isolation (by todays standards), yet the competition isn't really there which is why it appears dominant.
+
+That said I'm not a big fan of discounting your cards that deal unavoidable face damage, heal, and give draw for little to no drawback. I'd be a hypocrite if I said Chimera is fun while bashing quadra magic/elements of creation.
+    Wrath is just a worst version of crystalize/skullfane heaven the deck is vulnerable to early aggro because your are hurtin yourself, you need to draw chimera in time or is useless, and 1 damage shield can ruin the entire deck gameplan since the combo is a 1 time otkin the end is weak to both aggro and good control decks
+        Necroshadow can literally burst you down to death with a well timed Lueblle, when you've just gotten into Wrath and assuming you didn't over extend pass 13 HP and no immediate healing in ur hand. I've had that happen a lot of times cuz it slipped my mind. 
+
+Machina Shadow can literally stonewall you with how many different ways to heal, shield and ward. I've started putting in Werekin back due to how many I've come across and it generally works since they can't end you fast enough for you to just draw into it and setting up. Urias' claw spell can also replace this.
+
+And yeah there's the glaring issue of drawing Chimera before turn 5, if you can't do that you're pretty much DoA.
+            mind to share your decklist?
+                https://preview.redd.it/rczl2g2zzisc1.jpeg?width=3120&format=pjpg&auto=webp&s=0ee539931fe92c26f051c52caee08297c795e3d6
+It's the last expansion before WB, I really doubt they're going to make any significant change. I also don't think it's the strongest deck, so it would only get hit if several decks get nerfed, which would change the entire meta.
+    What deck is better than wrath blood?
+        Machina Shadow.
+            why machina shadow took so long to succeed?
+
+its strange even i play the deck from day 1 and i was getting stomped but now im winning regularly, my deck has changed less than 3 cards since day 1 iteration
+                I mean there are really only 3 possible answers.  
+1) The meta shifted and you faced more hostile decks before than you do now. I don't think this is it, because I don't think there are any established counters yet and the deck is really good against evo blood which was everywhere day 1.  
+2) "Skill issue". I say that jokingly but I don't think the deck is easy to pilot, most likely you threw a lot of games early on and got better, and now you're exploiting its full potential. This is also true for tournaments, harder decks take longer to succeed unless they're ridiculously overtuned, because it takes a while to learn them.   
+3) The few cards you changed turn out to be a huge upgrade - that I can't know without seeing lists. This is very common in early metas, sometimes just swapping a few key cards, making a tutor more reliable or adding a strong 1-of can really change the consistency of a build.
+                    yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+                        I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+            I heard machines shadow is good into wrath but that doesn’t mean it has good matchup into the other top decks
+                From my testing, it's extremely favored against both Blood decks (only slightly favored vs Wrath if they run Elena, free otherwise), favored against any Sword, amulet and buff, about even vs Iris and Natura Dragon.  
+That only leaves Big Dragon and Spellboost - I didn't test enough against those yet, it's theoretically possible that they have an edge against Shadow, but they're also wildly inconsistent decks and not really popular for now.
+    Even if it’s not the strongest deck (which imo it definitely could be), it’s clearly the most popular, both on the ladder and at JCG, where 13 of the top 16 brought it. I think there’s a pretty good chance they’ll nerf it.
+        It's 1 week into the expansion, the meta is changing every day. You could have said the same thing of Evo Blood just a few days ago.
+            On the JCG side yeah, but wrath had been overwhelmingly popular on the ladder since day 1. And we know Cygames can and does nerf based on ladder popularity.
+        Wrath is extremely popular because right now, it's effective, it's cheap, you can get most of it from one of the free decks and it's the only real aggressive deck left in this meta that doesn't get completely choked out by Machina.
+
+Wrath being popular isn't due to it being a meta warping deck, it's because Machina is fucking up everything.
+        loot sword was the most popular deck for two expansions in a row and didn't get touched, being popular doesn't mean broken
+            So did buff dragon and it did get nerfed. I’m not saying wrath is broken all I’m saying is I can definitely see it getting nerfed. But I think Essia is right it’s still a bit too early.
+                the next expansion they got lucky mermail and return to the meta
+Yeah hard to tell being it the last expac and all. I'm sure people would love changes but who cares they've already jumped ship to WB so the Cygames janitor is basically managing this game now lmao.
+Nerfs? In this game economy? Hah /s
+
+Honestly we would never know. Cygames never had any sort of regular balancing patches (exception being new expansion release times to "try and force meta changes"). So any changes would literally be unexpected for us
+If you planning to craft means you planned to climbing rank or at least joined current meta then do it. 
+
+Even nerf hammer really come, it’s gonna take a few days after the announcement so you should get some results anyway(reach GM or easier chest event for a few days)
+
+And nerf card usually give you full vials so IF the nerf is really harsh then you can just vials it later.
+They are likelier to buff weak crafts than nerf tbh.
+You get full refund anyway if they nerfed it.
+Buy the pre built deck then craft the rest here's mine it's absolutely good can OTK 6 and up 
+if I get lucky on early I can OTK 5 
+Even if they nerfed this still fine
+    https://preview.redd.it/9y3oywc3rrsc1.jpeg?width=2460&format=pjpg&auto=webp&s=6114c58ceb4c2236646fb001957c5d1c04356631
+    https://preview.redd.it/s0yu6zv5rrsc1.jpeg?width=2460&format=pjpg&auto=webp&s=25e31b9aa33239c034a93ee783852e23bf413fb4
+It's not safe imo.
+It's week 1, ppl complaining for nerfs. It's the same cycle. Nothing to see here.
+^ Seconded you can absolutely cause havoc with the temp deck, really you don't have much to lose by picking that if you did. Even then you only need a bit of further investment to make something real powerful
+Wrath is just a worst version of crystalize/skullfane heaven the deck is vulnerable to early aggro because your are hurtin yourself, you need to draw chimera in time or is useless, and 1 damage shield can ruin the entire deck gameplan since the combo is a 1 time otkin the end is weak to both aggro and good control decks
+    Necroshadow can literally burst you down to death with a well timed Lueblle, when you've just gotten into Wrath and assuming you didn't over extend pass 13 HP and no immediate healing in ur hand. I've had that happen a lot of times cuz it slipped my mind. 
+
+Machina Shadow can literally stonewall you with how many different ways to heal, shield and ward. I've started putting in Werekin back due to how many I've come across and it generally works since they can't end you fast enough for you to just draw into it and setting up. Urias' claw spell can also replace this.
+
+And yeah there's the glaring issue of drawing Chimera before turn 5, if you can't do that you're pretty much DoA.
+        mind to share your decklist?
+            https://preview.redd.it/rczl2g2zzisc1.jpeg?width=3120&format=pjpg&auto=webp&s=0ee539931fe92c26f051c52caee08297c795e3d6
+What deck is better than wrath blood?
+    Machina Shadow.
+        why machina shadow took so long to succeed?
+
+its strange even i play the deck from day 1 and i was getting stomped but now im winning regularly, my deck has changed less than 3 cards since day 1 iteration
+            I mean there are really only 3 possible answers.  
+1) The meta shifted and you faced more hostile decks before than you do now. I don't think this is it, because I don't think there are any established counters yet and the deck is really good against evo blood which was everywhere day 1.  
+2) "Skill issue". I say that jokingly but I don't think the deck is easy to pilot, most likely you threw a lot of games early on and got better, and now you're exploiting its full potential. This is also true for tournaments, harder decks take longer to succeed unless they're ridiculously overtuned, because it takes a while to learn them.   
+3) The few cards you changed turn out to be a huge upgrade - that I can't know without seeing lists. This is very common in early metas, sometimes just swapping a few key cards, making a tutor more reliable or adding a strong 1-of can really change the consistency of a build.
+                yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+                    I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+        I heard machines shadow is good into wrath but that doesn’t mean it has good matchup into the other top decks
+            From my testing, it's extremely favored against both Blood decks (only slightly favored vs Wrath if they run Elena, free otherwise), favored against any Sword, amulet and buff, about even vs Iris and Natura Dragon.  
+That only leaves Big Dragon and Spellboost - I didn't test enough against those yet, it's theoretically possible that they have an edge against Shadow, but they're also wildly inconsistent decks and not really popular for now.
+Even if it’s not the strongest deck (which imo it definitely could be), it’s clearly the most popular, both on the ladder and at JCG, where 13 of the top 16 brought it. I think there’s a pretty good chance they’ll nerf it.
+    It's 1 week into the expansion, the meta is changing every day. You could have said the same thing of Evo Blood just a few days ago.
+        On the JCG side yeah, but wrath had been overwhelmingly popular on the ladder since day 1. And we know Cygames can and does nerf based on ladder popularity.
+    Wrath is extremely popular because right now, it's effective, it's cheap, you can get most of it from one of the free decks and it's the only real aggressive deck left in this meta that doesn't get completely choked out by Machina.
+
+Wrath being popular isn't due to it being a meta warping deck, it's because Machina is fucking up everything.
+    loot sword was the most popular deck for two expansions in a row and didn't get touched, being popular doesn't mean broken
+        So did buff dragon and it did get nerfed. I’m not saying wrath is broken all I’m saying is I can definitely see it getting nerfed. But I think Essia is right it’s still a bit too early.
+            the next expansion they got lucky mermail and return to the meta
+https://preview.redd.it/9y3oywc3rrsc1.jpeg?width=2460&format=pjpg&auto=webp&s=6114c58ceb4c2236646fb001957c5d1c04356631
+https://preview.redd.it/s0yu6zv5rrsc1.jpeg?width=2460&format=pjpg&auto=webp&s=25e31b9aa33239c034a93ee783852e23bf413fb4
+Necroshadow can literally burst you down to death with a well timed Lueblle, when you've just gotten into Wrath and assuming you didn't over extend pass 13 HP and no immediate healing in ur hand. I've had that happen a lot of times cuz it slipped my mind. 
+
+Machina Shadow can literally stonewall you with how many different ways to heal, shield and ward. I've started putting in Werekin back due to how many I've come across and it generally works since they can't end you fast enough for you to just draw into it and setting up. Urias' claw spell can also replace this.
+
+And yeah there's the glaring issue of drawing Chimera before turn 5, if you can't do that you're pretty much DoA.
+    mind to share your decklist?
+        https://preview.redd.it/rczl2g2zzisc1.jpeg?width=3120&format=pjpg&auto=webp&s=0ee539931fe92c26f051c52caee08297c795e3d6
+Machina Shadow.
+    why machina shadow took so long to succeed?
+
+its strange even i play the deck from day 1 and i was getting stomped but now im winning regularly, my deck has changed less than 3 cards since day 1 iteration
+        I mean there are really only 3 possible answers.  
+1) The meta shifted and you faced more hostile decks before than you do now. I don't think this is it, because I don't think there are any established counters yet and the deck is really good against evo blood which was everywhere day 1.  
+2) "Skill issue". I say that jokingly but I don't think the deck is easy to pilot, most likely you threw a lot of games early on and got better, and now you're exploiting its full potential. This is also true for tournaments, harder decks take longer to succeed unless they're ridiculously overtuned, because it takes a while to learn them.   
+3) The few cards you changed turn out to be a huge upgrade - that I can't know without seeing lists. This is very common in early metas, sometimes just swapping a few key cards, making a tutor more reliable or adding a strong 1-of can really change the consistency of a build.
+            yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+                I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+    I heard machines shadow is good into wrath but that doesn’t mean it has good matchup into the other top decks
+        From my testing, it's extremely favored against both Blood decks (only slightly favored vs Wrath if they run Elena, free otherwise), favored against any Sword, amulet and buff, about even vs Iris and Natura Dragon.  
+That only leaves Big Dragon and Spellboost - I didn't test enough against those yet, it's theoretically possible that they have an edge against Shadow, but they're also wildly inconsistent decks and not really popular for now.
+It's 1 week into the expansion, the meta is changing every day. You could have said the same thing of Evo Blood just a few days ago.
+    On the JCG side yeah, but wrath had been overwhelmingly popular on the ladder since day 1. And we know Cygames can and does nerf based on ladder popularity.
+Wrath is extremely popular because right now, it's effective, it's cheap, you can get most of it from one of the free decks and it's the only real aggressive deck left in this meta that doesn't get completely choked out by Machina.
+
+Wrath being popular isn't due to it being a meta warping deck, it's because Machina is fucking up everything.
+loot sword was the most popular deck for two expansions in a row and didn't get touched, being popular doesn't mean broken
+    So did buff dragon and it did get nerfed. I’m not saying wrath is broken all I’m saying is I can definitely see it getting nerfed. But I think Essia is right it’s still a bit too early.
+        the next expansion they got lucky mermail and return to the meta
+mind to share your decklist?
+    https://preview.redd.it/rczl2g2zzisc1.jpeg?width=3120&format=pjpg&auto=webp&s=0ee539931fe92c26f051c52caee08297c795e3d6
+why machina shadow took so long to succeed?
+
+its strange even i play the deck from day 1 and i was getting stomped but now im winning regularly, my deck has changed less than 3 cards since day 1 iteration
+    I mean there are really only 3 possible answers.  
+1) The meta shifted and you faced more hostile decks before than you do now. I don't think this is it, because I don't think there are any established counters yet and the deck is really good against evo blood which was everywhere day 1.  
+2) "Skill issue". I say that jokingly but I don't think the deck is easy to pilot, most likely you threw a lot of games early on and got better, and now you're exploiting its full potential. This is also true for tournaments, harder decks take longer to succeed unless they're ridiculously overtuned, because it takes a while to learn them.   
+3) The few cards you changed turn out to be a huge upgrade - that I can't know without seeing lists. This is very common in early metas, sometimes just swapping a few key cards, making a tutor more reliable or adding a strong 1-of can really change the consistency of a build.
+        yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+            I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+I heard machines shadow is good into wrath but that doesn’t mean it has good matchup into the other top decks
+    From my testing, it's extremely favored against both Blood decks (only slightly favored vs Wrath if they run Elena, free otherwise), favored against any Sword, amulet and buff, about even vs Iris and Natura Dragon.  
+That only leaves Big Dragon and Spellboost - I didn't test enough against those yet, it's theoretically possible that they have an edge against Shadow, but they're also wildly inconsistent decks and not really popular for now.
+On the JCG side yeah, but wrath had been overwhelmingly popular on the ladder since day 1. And we know Cygames can and does nerf based on ladder popularity.
+So did buff dragon and it did get nerfed. I’m not saying wrath is broken all I’m saying is I can definitely see it getting nerfed. But I think Essia is right it’s still a bit too early.
+    the next expansion they got lucky mermail and return to the meta
+https://preview.redd.it/rczl2g2zzisc1.jpeg?width=3120&format=pjpg&auto=webp&s=0ee539931fe92c26f051c52caee08297c795e3d6
+I mean there are really only 3 possible answers.  
+1) The meta shifted and you faced more hostile decks before than you do now. I don't think this is it, because I don't think there are any established counters yet and the deck is really good against evo blood which was everywhere day 1.  
+2) "Skill issue". I say that jokingly but I don't think the deck is easy to pilot, most likely you threw a lot of games early on and got better, and now you're exploiting its full potential. This is also true for tournaments, harder decks take longer to succeed unless they're ridiculously overtuned, because it takes a while to learn them.   
+3) The few cards you changed turn out to be a huge upgrade - that I can't know without seeing lists. This is very common in early metas, sometimes just swapping a few key cards, making a tutor more reliable or adding a strong 1-of can really change the consistency of a build.
+    yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+        I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+From my testing, it's extremely favored against both Blood decks (only slightly favored vs Wrath if they run Elena, free otherwise), favored against any Sword, amulet and buff, about even vs Iris and Natura Dragon.  
+That only leaves Big Dragon and Spellboost - I didn't test enough against those yet, it's theoretically possible that they have an edge against Shadow, but they're also wildly inconsistent decks and not really popular for now.
+the next expansion they got lucky mermail and return to the meta
+yeah! 2 and 3 are likely it. 2 is natural, but, i always assume that other people get more skilled over time too, but didnt know the ceiling was that high. for 3... ur right they are a big deal.
+
+like its criminal how bad Nicola is. literally a trap. i started him at 3 copies then cut him to 2 then 1 and for the longest time i refused to cut the last copy. Slotted in goddess of compassion which just seems so weird right, literally no synergy with the deck, but saw some lists use it so i tried it and it really works well, namely cuz of being able to fuse shit to keep hand size proper. 
+
+I tried out: Zebet, Black swan, Cornelius, and Atem on the top end.
+
+I really liked zebet, but ended up being a dead card more often than not, cut her. Black swan was an easy cut, the fact that she locks up board space was awful. I kept cornelius. IMO, corenlius is the most overpowered card on paper, yet somehow he does not see play. like kidding me? 7 mana kill opponet board, get ur own board, and give them storm? jeeez. Finally atem, she is a dead card pretty often, but using her as follow up from Lubelle made the payoff really good at the top end (can curve into Technolord). so i kept 1 copy of her.
+    I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
+I've been testing the deck a lot over the past 2 days so I'll just share some quick findings, obviously some personal bias.  
+
+Agreed on Nicola being bait, the card itself isn't that bad but you really want guaranteed Aeneas off Shared Goal, one of the strongest points of the deck.  
+Goddess is *insane* for the deck, current JCG consensus seems to be 2x but I think it's an easy 3x. She solves all the handsize management issues. The ramp effect is almost always bait, but this deck benefits from the HP increase more than most because it has all the other defensive tools and enough healing to push back above 20. The AoE is also really good in the meta, and lets you save precious EPs.  
+Atem is a common 1x now. I tried her a bunch and while she feels good when she hits, I think she's mostly a win-more card. She's unplayable (and unfusable) for 6 turns and by the time you can play her, you can probably win in several other ways too. She also demands that you play Lubelle first, which isn't always possible/optimal. Currently not running her but I'm not sure either way. And she's terrible against shields (aenea/eir/etc).  
+Haven't tried Cornelius. I think the strength of the deck is in the midrange/control gameplan, it can consistently counter what the opponent does while adding pressure. Cornelius doesn't heal nor give any protection for an entire turn so you're left vulnerable if he isn't enough to kill.  
+For filler cards I like Apple, cheap 1PP draw 2 early on, can become hard removal after one Aenea (or Lubelle) turn. I don't think Isunia works well for the deck, people play it strictly to get more healing vs Wrath which I think is overkill. Minthe is a weird case, she enables back to back Lubelle plays and T5 Lubelle, but she's also really bad in every other scenario.  
+Against really strong players (especially in mirrors) most games seem to go to turn 9+ with Technolord being the finisher, with the midgame being a constant Aenea/Lubelle battle. The ideal game winning scenario is T10 0-cost Zombodroid(s) (to clear big followers) + Hellfire (to pop shield and weaken board HP) + juiced up Technolord. It takes a lot of work to get there though.
