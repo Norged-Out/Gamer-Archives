@@ -1,0 +1,95 @@
+[[My opinion on the Matchup compatibility of the current Rotation Meta (Top11 popular decks)]]
+
+
+
+
+
+I had a little think about what I said about lack of clarity, and what the counterpoint would be: this diagram is (perhaps) using as few words as possible, in an attempt to be internationally friendly. After all, the JP playerbase is the largest, so more English words isn't necessarily a good idea.
+
+Then I realised, we already have a visual language in the main part of the diagram, that an arrow points from a deck into a good matchup, e.g. Machina beats Wrath. So I came up with [this variation of the chart](https://i.imgur.com/vgyl4dn.png) which actually uses *fewer* words, but is still clearer. Using the existing iconography for Machina and Wrath, rather than adding words to the chart, and using the existing arrow system to show relationships between the Big Two and the decks underneath.
+    Danke schön
+What is 😤 emoji? Bad match up?
+    Triumph = Believed to be a good matchup. You should feel confident when facing against Machina/Wrath using those deck
+    Looks like someone getting hyped up for a fight. Basically, the ones on the right match up well into Wrath but poorly into Machina and vice versa for the left.
+        I think this is really unclear. Not "scared face negative, determined face positive", but what exactly that applies to. To me it looked like the right side is "ones that Wrath likes matching into, and Machina is scared of" but it seems you're saying the opposite. One of us is wrong, and it's probably me, but the fact that it's so unclear that we could have opposite interpretations (while completely understanding what the emojis mean) is the point.
+
+I say this as someone who hasn't actually played in a while, and doesn't know the meta, but doesn't that make me the person who would want/need the information on the chart?
+
+My suggested improvement is really simple: just add the words, bro. There's enough room there for "Good into Wrath, bad into Machina" and vice versa, and that's a whole lot clearer.
+            Yeah, I think it'd also be unclear if I didn't know the meta. I got my interpretation from seeing where Evo Blood was - I know that deck hates dealing with Machina Shadow and it's fine into Wrath.
+            Yeah, their interpretation is correct, the emojis are from the POV of each deck represented by their respective icons. But I agree that words would clear up any potential confusion.  
+Also agreed with the entire chart, except for the Elana/Laina matchups into MShadow. I think optimally played, Shadow still wins both.
+I like the concept of visually representing the current flow of the meta. Like others said it needs a little cleaning up and clarifying but this can be quite useful for new players or ones who only dip in and out of the game every so often like myself.
+
+I suggest it might be easier to read if each emblem was labelled and to rework the emoji stuff too.
+0 portal 0 sword lol
+How is Iris Forest beating Machina Shadow?
+    Boardlock them. Iris deck is the master of boardlock. When they damage just heal
+        So what are their board-lock tools currently? I can only imagine making Roly-Poly useless using Rafflesia, but then again they have Night Terror.
+            You have Michelle and bounce to repeatedly change their monsters to 0. Rafflesia princess can be good too since when they drop aenea and fleeting joy, you drop rafflesia, bounce her and now your enemy have low attack followers with high defense. 
+
+Night terrors on other machina besides aenea will summon assembly droid. And if they terror aenea, the best they can do is 5 attack storm lubelle or worst case secnario 7pp 7 damage i forgot the name.
+
+To clear the board for t8 otk. You can lily and arisa spell
+You nailed it! This is exactly how I feel when I play spellboost and iris forest. Machina shadow is the easy match up because they're too slow to stop me from reaching T8. However, Warth Blood is much harder because they threaten 10+ damage every turn after they activated wrath with Chimera and Hedone.
+How is machina good against wrath? Isn't wrath just gonna play urias and burn your face?
+    The matchup is hard to win without Urias from Wrath side. That's already an advantage.
+
+Since Machina side should know this info, they can pressure early and make a board to make Urias turn as awkward as possible and punish them with Lubelle afterwards. Good Shadow players will play differently to minimize board size post-Urias to minimize chip damage while waiting to end the game with late payoffs.
+        Meanwhile bad shadow player go 5 follower that last summon a droid and die to 10 ping damage
+            Speaking from experience?
+                Yeah but I'm in the wrath seat machina doesn't interest me
+    In lots of matches against wrath as machina, I never won a single match. I'm not good at this game, but not that terrible bad either. It feels so broken, I can't do a thing. Aggro does nothing.
+Danke schön
+Triumph = Believed to be a good matchup. You should feel confident when facing against Machina/Wrath using those deck
+Looks like someone getting hyped up for a fight. Basically, the ones on the right match up well into Wrath but poorly into Machina and vice versa for the left.
+    I think this is really unclear. Not "scared face negative, determined face positive", but what exactly that applies to. To me it looked like the right side is "ones that Wrath likes matching into, and Machina is scared of" but it seems you're saying the opposite. One of us is wrong, and it's probably me, but the fact that it's so unclear that we could have opposite interpretations (while completely understanding what the emojis mean) is the point.
+
+I say this as someone who hasn't actually played in a while, and doesn't know the meta, but doesn't that make me the person who would want/need the information on the chart?
+
+My suggested improvement is really simple: just add the words, bro. There's enough room there for "Good into Wrath, bad into Machina" and vice versa, and that's a whole lot clearer.
+        Yeah, I think it'd also be unclear if I didn't know the meta. I got my interpretation from seeing where Evo Blood was - I know that deck hates dealing with Machina Shadow and it's fine into Wrath.
+        Yeah, their interpretation is correct, the emojis are from the POV of each deck represented by their respective icons. But I agree that words would clear up any potential confusion.  
+Also agreed with the entire chart, except for the Elana/Laina matchups into MShadow. I think optimally played, Shadow still wins both.
+Boardlock them. Iris deck is the master of boardlock. When they damage just heal
+    So what are their board-lock tools currently? I can only imagine making Roly-Poly useless using Rafflesia, but then again they have Night Terror.
+        You have Michelle and bounce to repeatedly change their monsters to 0. Rafflesia princess can be good too since when they drop aenea and fleeting joy, you drop rafflesia, bounce her and now your enemy have low attack followers with high defense. 
+
+Night terrors on other machina besides aenea will summon assembly droid. And if they terror aenea, the best they can do is 5 attack storm lubelle or worst case secnario 7pp 7 damage i forgot the name.
+
+To clear the board for t8 otk. You can lily and arisa spell
+The matchup is hard to win without Urias from Wrath side. That's already an advantage.
+
+Since Machina side should know this info, they can pressure early and make a board to make Urias turn as awkward as possible and punish them with Lubelle afterwards. Good Shadow players will play differently to minimize board size post-Urias to minimize chip damage while waiting to end the game with late payoffs.
+    Meanwhile bad shadow player go 5 follower that last summon a droid and die to 10 ping damage
+        Speaking from experience?
+            Yeah but I'm in the wrath seat machina doesn't interest me
+In lots of matches against wrath as machina, I never won a single match. I'm not good at this game, but not that terrible bad either. It feels so broken, I can't do a thing. Aggro does nothing.
+I think this is really unclear. Not "scared face negative, determined face positive", but what exactly that applies to. To me it looked like the right side is "ones that Wrath likes matching into, and Machina is scared of" but it seems you're saying the opposite. One of us is wrong, and it's probably me, but the fact that it's so unclear that we could have opposite interpretations (while completely understanding what the emojis mean) is the point.
+
+I say this as someone who hasn't actually played in a while, and doesn't know the meta, but doesn't that make me the person who would want/need the information on the chart?
+
+My suggested improvement is really simple: just add the words, bro. There's enough room there for "Good into Wrath, bad into Machina" and vice versa, and that's a whole lot clearer.
+    Yeah, I think it'd also be unclear if I didn't know the meta. I got my interpretation from seeing where Evo Blood was - I know that deck hates dealing with Machina Shadow and it's fine into Wrath.
+    Yeah, their interpretation is correct, the emojis are from the POV of each deck represented by their respective icons. But I agree that words would clear up any potential confusion.  
+Also agreed with the entire chart, except for the Elana/Laina matchups into MShadow. I think optimally played, Shadow still wins both.
+So what are their board-lock tools currently? I can only imagine making Roly-Poly useless using Rafflesia, but then again they have Night Terror.
+    You have Michelle and bounce to repeatedly change their monsters to 0. Rafflesia princess can be good too since when they drop aenea and fleeting joy, you drop rafflesia, bounce her and now your enemy have low attack followers with high defense. 
+
+Night terrors on other machina besides aenea will summon assembly droid. And if they terror aenea, the best they can do is 5 attack storm lubelle or worst case secnario 7pp 7 damage i forgot the name.
+
+To clear the board for t8 otk. You can lily and arisa spell
+Meanwhile bad shadow player go 5 follower that last summon a droid and die to 10 ping damage
+    Speaking from experience?
+        Yeah but I'm in the wrath seat machina doesn't interest me
+Yeah, I think it'd also be unclear if I didn't know the meta. I got my interpretation from seeing where Evo Blood was - I know that deck hates dealing with Machina Shadow and it's fine into Wrath.
+Yeah, their interpretation is correct, the emojis are from the POV of each deck represented by their respective icons. But I agree that words would clear up any potential confusion.  
+Also agreed with the entire chart, except for the Elana/Laina matchups into MShadow. I think optimally played, Shadow still wins both.
+You have Michelle and bounce to repeatedly change their monsters to 0. Rafflesia princess can be good too since when they drop aenea and fleeting joy, you drop rafflesia, bounce her and now your enemy have low attack followers with high defense. 
+
+Night terrors on other machina besides aenea will summon assembly droid. And if they terror aenea, the best they can do is 5 attack storm lubelle or worst case secnario 7pp 7 damage i forgot the name.
+
+To clear the board for t8 otk. You can lily and arisa spell
+Speaking from experience?
+    Yeah but I'm in the wrath seat machina doesn't interest me
+Yeah but I'm in the wrath seat machina doesn't interest me
