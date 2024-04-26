@@ -1,0 +1,253 @@
+[[Why are double battles the offical format for the VGCs, despite the single battle format being way more prominent in the games and the anime]]
+
+
+I'm not saying that one is better than the other, especially since I dont really know much about the vgc, I only played pokemon showdown for a while.
+
+It just seems weird for me that double battles are the official format for competitive events when they are barely featured in the games or even the anime. I heard that double battles are more balanced than singles because they allow for more variety, is that true?
+
+Having said that, a top 4 or champion battle with the vgc format would actually be kinda cool.
+
+
+Singles games take far longer. Average doubles games take about 8 turns, while even the fastest singles games will still take at least 15. That’s not even including the fact that stall tactics are far more viable in singles. Do you really want to watch a 60+ turn game where the Blissey spams Protect and Soft boiled, while the opposing Pokémon is being poisoned to death? This makes for long and boring tournaments.
+    Especially on cart where you have to watch all of the animations
+        Not if you turn them off in the settings
+            Not for VGC you can't.
+                Is there a specific rule in official vgc tournaments that says you can't turn battle effects off? I didn't know about that, I was just refering to the ability in most games iirc to turn off battle effects from the options menu - idk why I'm getting downvoted so much
+            You can't turn off animations
+                Idk about every single game, but in most games afaik if you go to options you can select battle effects off and it'll turn of the animations
+                    It's not available when playing online
+                        Ohhh ok that makes sense
+Official tournaments come with time restrictions, they can't be too long so an ideal format is one that makes stall less viable and where the average turn count for each game is much lower. This is the case for doubles because fatmons are easier to kill when you can just double up into them with both of your pokemon.
+    Alternatively, ignore the fatmon until you've wiped the rest of the board and then double down on it.
+        The good old "All my friends are dead".
+            [removed]
+                You may be trying to reply to the original question instead of to my comment.
+More tactical options, basically.
+Double battles go by much faster. It’s not uncommon for balance and BO teams to have 30-40-turn-games, and stall teams can easily go much higher. Doubles also places a bigger emphasis on team support, and overall has more game states per turn, making each one a lot less predictable. In singles, an experienced player can recognize 1-3 moves each player will make at the start of the turn.
+
+In terms of skill and strategy though, I wouldn’t say one exceeds the other. Doubles has more game states per turn, singles is more focused on positioning.
+    In VGC's defense there's like 20 possible moves that a person could make for their side and probably only around 10 or 12 realistic options since it's incredibly hard to build a good team that covers every possible option even now with gen 8's power creep.
+
+It's more, but it's also more exciting due to the uncertainty (both to watch and play) and its faster. I'd rather that than 'Joe's eviolite chansey used softboiled for the 30th time this game and the opponents chansey died to poison finally'.
+    When it comes to skill: Both are pvp.   
+Doesn't matter if it's chess or checkers I won't beat a pro.   
+A chess pro would have a rough time beating a checkers pro in checkers and vice versa.
+I think the inverse is a better question. Would love to see more double battles thrown into the games’ storylines, honestly.
+    The could easily make this a version thing too, instead of just different pokemon in each game. 
+
+Or just give us the option at the start.
+    Recently I played Pokémon Colosseum which does basically that, pretty much every battle was a double battle. There were other things it did that I found very interesting and I think every fan should try to play it at least once (and maybe not more than once, for reasons that will be obvious to anyone who has played it).
+    Yeah, I've always thought that. I remember the Mossdeep gym leaders would do a double battle, but I don't think they crop up much more beyond the occasional pair out in the routes. I used to try and be seen by two trainers at the same time so I could double-battle them.
+        Emerald puts a lot of trainers in a position where you have the option to double battle. Every route and area has at least a couple
+            It's been an awfully long time since I played Emerald - might have to look for a rom at some point!
+    Pokemon coliseum and gale of darkness my beloveds, really wish pokemon games souls throw more double battles into the mix, the dragon type gym from swsh and the psychic type gym from rse are super memorable because of it.
+double allows more variety compared to single where it is usually just strong mons vs strong mons. in double, support is very important, and you can have pokemon that are hardly seen in singles to shine. an example is pacharisu, which is in 2014's master division winner's team park se jun from korea. would you see such pokemon in singles?
+    doubles is aslo ALOT faster, being 10 turns is on the longer side of vgc, its ridiclously fast for singles
+        A good amount of the time singles devolves into stall too. Even when I was playing randoms on showdown yesterday I pp stalled a Reshiram with a Volcarano for like over 20 turns until they forfeited.
+            In randoms if you get a blissey there’s like an 80% chance you’ll win just because of it
+    > you can have pokemon that are hardly seen in singles to shine. an example is pacharisu, which is in 2014's master division winner's team park se jun from korea. would you see such pokemon in singles?
+
+TBF this works in reverse -
+
+''You can have Pokemon that are hardly seen in doubles shine. For example Chansey/Dugtrio/Clefable winning insert Smogon tournament here. When would you see such Pokemon in doubles?''
+        Completely agree with your point (that some pokemon are just better in Singles), but chansey's probably not the best pick of an example because it actually was decent as a build around in some VGC formats, but it was generally hated by the community (because it led to much longer tournaments if even 1 player showed up with a chansey team). Example article from VGC 18: https://pikalytics.com/articles/the-chansey-epidemic
+        https://worldcupvgc.com/stats/pokemon
+
+People still bring dugtrio and chansey to vgc before. No clefable, but there is clefairy.
+            A grand total of 2 each
+                Still higher than zero
+                Because there's a pretty significant amount of variety- and Clefable isn't even *that bad* for VGC, it's just not the best offensively and support can be taken care of by Clefairy, who can be made even bulkier in comparison to Clefable via eviolite and friend guard helps protect frailer teammates.
+        You actually can see those three (technically) in VGC. Trapping is even more powerful in VGC, since you have a maximum of 4 pokemon in each battle (2 on the field, 2 in the back, 2 not taken, on an individual battle basis). Dugtrio is a good Arena Trap option (although it isn't as good as Shadow Tag, which works on everything except ghost types, compared to Arena Trap's levitate, flying, and air balloon weaknesses).
+
+Clefable isn't taken as much as Clefairy is better support. Clefairy has moves like Follow Me (move redirection), Life Dew (healing), Sing (sleep), Icy Wind (speed control), and more, not even including its personal stuff like Cosmic Power for more self bulk. Friend Guard also reduces damage taken by adjacent pokemon- useless in singles, amazing in doubles.
+
+Chansey was used as an annoying but viable stall option, one of the few in VGC, as linked elsewhere.
+        I don't know about Dugtrio but both Chansey and Clefable have seen tournament play in VGC.  
+Dugtrio might have as well for the same reason as in singles: Arena trap.  
+However since gen 5 it's outclassed by Gothitelle which is bulkier and has a better supportive moveset.  
+So while Dugtrio still somehow could have a niche if there was a need for an offensive trapper Gothitelle finds itself in untiered for singles.
+    Pachirisu was huge in that specific team but then it vanished from existence, Smeargle being one of the top used in the meta with fucking primals is a better example.
+It’s because actual competitive singles can range from 10 turn games to the infamous 1267 turn game, which is way too long for an average fan to watch and enjoy, compared to the short, fast paced doubles format that lets you enjoy it in a timely manner. VGC also has dynamax allowed, wheras if singles became the actual competitive format it would likely be banned or be restricted like smogon due to how overbearing it is in singles. Having legendaries like calyrex and Palkia on a team in restricted formats also provides some bait for the legendary enjoyers without being overbearing. Lastly is that doubles has some strategies like TR, tailwind, and beat-up that are much more viable and able to be done than singles(even if there are some things in singles that aren’t viable or used in VGC)
+Probably to avoid things like the Wobbuffet vs. Wobbuffet softlock from Gen 3.
+    Thats been changed since gen 4 though
+        To avoid them, like I said. With four Pokémon on the field, it's much more difficult to end up with a battle that can't end (think Funbro, a singles set specifically made to create an Endless Battle, can't really be pulled out successfully in Doubles).
+
+They did fix that Shadow Tag case in Gen 4, but they probably don't want to even gamble with the chance of ever seeing that again.
+Some Pokemon are designed to be tanks or supports. And those Pokemon are not as good in singles.
+    Yeah skarmory, blissed, ferrothorn, toxapex….never see em in singles. Dang supporters. Stay outta may singles
+It's slightly true that doubles is more balanced due to variety- it's ironically the inverse for dex size (since the strong stuff is guaranteed to be in with the weaker stuff not having a chance to shine).
+
+Doubles is 1. Faster (8 turns is often considered a long double battle), 2. More volatile (2 options to attack, spread moves, switches, support actually being a near requirement at least for some move slots if not entire pokemon for it, etc) and 3. Often more exciting to watch (faster paced, no 'Joe's blissey used softboiled for the 16th time this game and Billy's Toxapex died to burn finally').
+
+I don't think doubles was intended to be the VGC standard, but given how singles has things like full stall teams being viable I'd rather doubles than singles. Plus, I enjoyed competitive doubles more than competitive singles, but I like the faster pace and I get why some people like the slower pace.
+For me the question is the other way around: Why are double battles receiving so little attention within the games? Why isn't there at least a double batlles spinoff series that gets continued?
+
+Generally speaking double battles have more strategic depth ([explanation](https://twitter.com/WolfeyGlick/status/1541263645547663361)) and yes they are also more balanced than singles. Singles is balanced mostly by the rules of the Smogon fan community. A ruleset that isn't present within the games itself and some of the games mechanics such as dynamax are so overbearing in singles that Smogon outright banned the mechanic. 
+
+Another issue with singles in competitive is game-length. Even if singles was also pick 4 out of a team of 6 singles can last a ridiculously long time where players just exchange/remove entry hazards or keep switching because bord position can be very wonky if it's 1v1. To give you an example:   
+I lead my Lucario against an opposing Tyranitar. Now my position is so advantageous that I basically have to assume my opponent would switch into a fighting resist. My opponent however knows that I know how advantageous my position is so they can take the gamble of using stealth rock or... Actually switch into a resist like Gengar.   
+Predicting the Gengar switch in I switch into a psychic type that beats Gengar so we're now in the same position. To resist the psychic type the opponent switches into TTar and I predict it and switch into Lucario... <- these things can go on until any player makes a "bold" call.
+faster and better for spectators
+Stall is less viable + doubles is just a better high skill format, having two pokemon at once enables so many more strategies than just having one
+I’m confused. When people say singles takes too long, we are referring to 3 vs 3, not Smogon right? I wish there would be official bring 6, pick 3 tournaments myself.
+I guess you can call doubles more balanced in that there’s a lot less room for cheese strategies. Baton Pass sweeps, stall tactics, and stuff like that are a lot harder if not impossible to pull off in doubles, whereas stall is pretty much the go-to in singles and baton pass sweeps can decimate an unsuspecting opponent.
+    Stall isn’t the go-to. In the current meta and most of SS and SM it’s pretty bad. Stall isn’t completely unviable, but it hasn’t been a premier go-to strat since ORAS
+        I guess I misspoke. I didn’t mean what is widely known as “stall teams” or “stall strategies” but more so that many MANY teams in singles will employ strategies that serve to either slow down or prolong the battle whether directly or indirectly whereas doubles teams rarely ever employ strategies like that or use moves like that. I should’ve been more clear, sorry.
+            Oh yeah no definitely, many singles games are high paced with bouts of doubles and correct slow playing(not recently in the current meta but in general) wheras doubles has that but much less commonly.
+    > whereas stall is pretty much the go-to in single
+
+The meme has gone too far if people actually think this. Stall gets attention because it makes people mad, not because it's particularly common
+        nah SMOGON LOVES STALL
+    >whereas stall is pretty much the go-to in singles
+
+Source???
+
+>baton pass sweeps can decimate an unsuspecting opponent.
+
+Isn't it banned?
+        Baton pass is banned in most Smogon formats, which is not what we’re talking about. This thread is about the hypothetical of official Pokémon VGC formats changing from doubles to singles, not adopting Smogon’s banlists. Official Pokémon tournaments have never banned a Pokémon attack before, even if it were horribly unbalanced (i.e. dark void in 2016) so it would be strange to assume they would start now.
+More balanced, more opportunites for unique strategy, and shorter.
+
+This(and the fact that VGC wasn't created til the end of Gen 4) is why to this day the majority of fans prefer Smogon over VGC despite VGC being official(and it was historically even worse, in Gen 5 and Gen 6 you were mocked if you didn't use Smogon)
+I think it’s because it’s faster and there are more strategies to implement in double battles than single battles
+Time constrains. A singles tournament takes FOREVER, very tiresome tô watch and play
+There is a hell of a lot more strategy involved in Double Battles than with Singles.
+
+And competitive single battles often just turn into long drawn out stall wars that aren't fun to play or watch.
+Double battles being faster is part of it, but I’d also like to add that singles needs a lot more balancing to work. Look at all the stuff that gets banned in smogon, sleep clause, trapping abilities, baton pass, and on top of that Pokémon are banned like Dracovish G-Darmanitan etc. Doubles is much more manageable for more then just timing reasons.
+Nothing to do with time consumption like the other comments are saying. 1v1 is just shit and boring to watch.
+Doubles require more strategy, where as singles are simpler, triples where added late in the story and rotation is very different from anything
+Doubles are more strategic
+It’s much faster paced and offensively oriented making it more fun to watch (presumably)
+Especially on cart where you have to watch all of the animations
+    Not if you turn them off in the settings
+        Not for VGC you can't.
+            Is there a specific rule in official vgc tournaments that says you can't turn battle effects off? I didn't know about that, I was just refering to the ability in most games iirc to turn off battle effects from the options menu - idk why I'm getting downvoted so much
+        You can't turn off animations
+            Idk about every single game, but in most games afaik if you go to options you can select battle effects off and it'll turn of the animations
+                It's not available when playing online
+                    Ohhh ok that makes sense
+Alternatively, ignore the fatmon until you've wiped the rest of the board and then double down on it.
+    The good old "All my friends are dead".
+        [removed]
+            You may be trying to reply to the original question instead of to my comment.
+In VGC's defense there's like 20 possible moves that a person could make for their side and probably only around 10 or 12 realistic options since it's incredibly hard to build a good team that covers every possible option even now with gen 8's power creep.
+
+It's more, but it's also more exciting due to the uncertainty (both to watch and play) and its faster. I'd rather that than 'Joe's eviolite chansey used softboiled for the 30th time this game and the opponents chansey died to poison finally'.
+When it comes to skill: Both are pvp.   
+Doesn't matter if it's chess or checkers I won't beat a pro.   
+A chess pro would have a rough time beating a checkers pro in checkers and vice versa.
+The could easily make this a version thing too, instead of just different pokemon in each game. 
+
+Or just give us the option at the start.
+Recently I played Pokémon Colosseum which does basically that, pretty much every battle was a double battle. There were other things it did that I found very interesting and I think every fan should try to play it at least once (and maybe not more than once, for reasons that will be obvious to anyone who has played it).
+Yeah, I've always thought that. I remember the Mossdeep gym leaders would do a double battle, but I don't think they crop up much more beyond the occasional pair out in the routes. I used to try and be seen by two trainers at the same time so I could double-battle them.
+    Emerald puts a lot of trainers in a position where you have the option to double battle. Every route and area has at least a couple
+        It's been an awfully long time since I played Emerald - might have to look for a rom at some point!
+Pokemon coliseum and gale of darkness my beloveds, really wish pokemon games souls throw more double battles into the mix, the dragon type gym from swsh and the psychic type gym from rse are super memorable because of it.
+doubles is aslo ALOT faster, being 10 turns is on the longer side of vgc, its ridiclously fast for singles
+    A good amount of the time singles devolves into stall too. Even when I was playing randoms on showdown yesterday I pp stalled a Reshiram with a Volcarano for like over 20 turns until they forfeited.
+        In randoms if you get a blissey there’s like an 80% chance you’ll win just because of it
+> you can have pokemon that are hardly seen in singles to shine. an example is pacharisu, which is in 2014's master division winner's team park se jun from korea. would you see such pokemon in singles?
+
+TBF this works in reverse -
+
+''You can have Pokemon that are hardly seen in doubles shine. For example Chansey/Dugtrio/Clefable winning insert Smogon tournament here. When would you see such Pokemon in doubles?''
+    Completely agree with your point (that some pokemon are just better in Singles), but chansey's probably not the best pick of an example because it actually was decent as a build around in some VGC formats, but it was generally hated by the community (because it led to much longer tournaments if even 1 player showed up with a chansey team). Example article from VGC 18: https://pikalytics.com/articles/the-chansey-epidemic
+    https://worldcupvgc.com/stats/pokemon
+
+People still bring dugtrio and chansey to vgc before. No clefable, but there is clefairy.
+        A grand total of 2 each
+            Still higher than zero
+            Because there's a pretty significant amount of variety- and Clefable isn't even *that bad* for VGC, it's just not the best offensively and support can be taken care of by Clefairy, who can be made even bulkier in comparison to Clefable via eviolite and friend guard helps protect frailer teammates.
+    You actually can see those three (technically) in VGC. Trapping is even more powerful in VGC, since you have a maximum of 4 pokemon in each battle (2 on the field, 2 in the back, 2 not taken, on an individual battle basis). Dugtrio is a good Arena Trap option (although it isn't as good as Shadow Tag, which works on everything except ghost types, compared to Arena Trap's levitate, flying, and air balloon weaknesses).
+
+Clefable isn't taken as much as Clefairy is better support. Clefairy has moves like Follow Me (move redirection), Life Dew (healing), Sing (sleep), Icy Wind (speed control), and more, not even including its personal stuff like Cosmic Power for more self bulk. Friend Guard also reduces damage taken by adjacent pokemon- useless in singles, amazing in doubles.
+
+Chansey was used as an annoying but viable stall option, one of the few in VGC, as linked elsewhere.
+    I don't know about Dugtrio but both Chansey and Clefable have seen tournament play in VGC.  
+Dugtrio might have as well for the same reason as in singles: Arena trap.  
+However since gen 5 it's outclassed by Gothitelle which is bulkier and has a better supportive moveset.  
+So while Dugtrio still somehow could have a niche if there was a need for an offensive trapper Gothitelle finds itself in untiered for singles.
+Pachirisu was huge in that specific team but then it vanished from existence, Smeargle being one of the top used in the meta with fucking primals is a better example.
+Thats been changed since gen 4 though
+    To avoid them, like I said. With four Pokémon on the field, it's much more difficult to end up with a battle that can't end (think Funbro, a singles set specifically made to create an Endless Battle, can't really be pulled out successfully in Doubles).
+
+They did fix that Shadow Tag case in Gen 4, but they probably don't want to even gamble with the chance of ever seeing that again.
+Yeah skarmory, blissed, ferrothorn, toxapex….never see em in singles. Dang supporters. Stay outta may singles
+Stall isn’t the go-to. In the current meta and most of SS and SM it’s pretty bad. Stall isn’t completely unviable, but it hasn’t been a premier go-to strat since ORAS
+    I guess I misspoke. I didn’t mean what is widely known as “stall teams” or “stall strategies” but more so that many MANY teams in singles will employ strategies that serve to either slow down or prolong the battle whether directly or indirectly whereas doubles teams rarely ever employ strategies like that or use moves like that. I should’ve been more clear, sorry.
+        Oh yeah no definitely, many singles games are high paced with bouts of doubles and correct slow playing(not recently in the current meta but in general) wheras doubles has that but much less commonly.
+> whereas stall is pretty much the go-to in single
+
+The meme has gone too far if people actually think this. Stall gets attention because it makes people mad, not because it's particularly common
+    nah SMOGON LOVES STALL
+>whereas stall is pretty much the go-to in singles
+
+Source???
+
+>baton pass sweeps can decimate an unsuspecting opponent.
+
+Isn't it banned?
+    Baton pass is banned in most Smogon formats, which is not what we’re talking about. This thread is about the hypothetical of official Pokémon VGC formats changing from doubles to singles, not adopting Smogon’s banlists. Official Pokémon tournaments have never banned a Pokémon attack before, even if it were horribly unbalanced (i.e. dark void in 2016) so it would be strange to assume they would start now.
+Not if you turn them off in the settings
+    Not for VGC you can't.
+        Is there a specific rule in official vgc tournaments that says you can't turn battle effects off? I didn't know about that, I was just refering to the ability in most games iirc to turn off battle effects from the options menu - idk why I'm getting downvoted so much
+    You can't turn off animations
+        Idk about every single game, but in most games afaik if you go to options you can select battle effects off and it'll turn of the animations
+            It's not available when playing online
+                Ohhh ok that makes sense
+The good old "All my friends are dead".
+    [removed]
+        You may be trying to reply to the original question instead of to my comment.
+Emerald puts a lot of trainers in a position where you have the option to double battle. Every route and area has at least a couple
+    It's been an awfully long time since I played Emerald - might have to look for a rom at some point!
+A good amount of the time singles devolves into stall too. Even when I was playing randoms on showdown yesterday I pp stalled a Reshiram with a Volcarano for like over 20 turns until they forfeited.
+    In randoms if you get a blissey there’s like an 80% chance you’ll win just because of it
+Completely agree with your point (that some pokemon are just better in Singles), but chansey's probably not the best pick of an example because it actually was decent as a build around in some VGC formats, but it was generally hated by the community (because it led to much longer tournaments if even 1 player showed up with a chansey team). Example article from VGC 18: https://pikalytics.com/articles/the-chansey-epidemic
+https://worldcupvgc.com/stats/pokemon
+
+People still bring dugtrio and chansey to vgc before. No clefable, but there is clefairy.
+    A grand total of 2 each
+        Still higher than zero
+        Because there's a pretty significant amount of variety- and Clefable isn't even *that bad* for VGC, it's just not the best offensively and support can be taken care of by Clefairy, who can be made even bulkier in comparison to Clefable via eviolite and friend guard helps protect frailer teammates.
+You actually can see those three (technically) in VGC. Trapping is even more powerful in VGC, since you have a maximum of 4 pokemon in each battle (2 on the field, 2 in the back, 2 not taken, on an individual battle basis). Dugtrio is a good Arena Trap option (although it isn't as good as Shadow Tag, which works on everything except ghost types, compared to Arena Trap's levitate, flying, and air balloon weaknesses).
+
+Clefable isn't taken as much as Clefairy is better support. Clefairy has moves like Follow Me (move redirection), Life Dew (healing), Sing (sleep), Icy Wind (speed control), and more, not even including its personal stuff like Cosmic Power for more self bulk. Friend Guard also reduces damage taken by adjacent pokemon- useless in singles, amazing in doubles.
+
+Chansey was used as an annoying but viable stall option, one of the few in VGC, as linked elsewhere.
+I don't know about Dugtrio but both Chansey and Clefable have seen tournament play in VGC.  
+Dugtrio might have as well for the same reason as in singles: Arena trap.  
+However since gen 5 it's outclassed by Gothitelle which is bulkier and has a better supportive moveset.  
+So while Dugtrio still somehow could have a niche if there was a need for an offensive trapper Gothitelle finds itself in untiered for singles.
+To avoid them, like I said. With four Pokémon on the field, it's much more difficult to end up with a battle that can't end (think Funbro, a singles set specifically made to create an Endless Battle, can't really be pulled out successfully in Doubles).
+
+They did fix that Shadow Tag case in Gen 4, but they probably don't want to even gamble with the chance of ever seeing that again.
+I guess I misspoke. I didn’t mean what is widely known as “stall teams” or “stall strategies” but more so that many MANY teams in singles will employ strategies that serve to either slow down or prolong the battle whether directly or indirectly whereas doubles teams rarely ever employ strategies like that or use moves like that. I should’ve been more clear, sorry.
+    Oh yeah no definitely, many singles games are high paced with bouts of doubles and correct slow playing(not recently in the current meta but in general) wheras doubles has that but much less commonly.
+nah SMOGON LOVES STALL
+Baton pass is banned in most Smogon formats, which is not what we’re talking about. This thread is about the hypothetical of official Pokémon VGC formats changing from doubles to singles, not adopting Smogon’s banlists. Official Pokémon tournaments have never banned a Pokémon attack before, even if it were horribly unbalanced (i.e. dark void in 2016) so it would be strange to assume they would start now.
+Not for VGC you can't.
+    Is there a specific rule in official vgc tournaments that says you can't turn battle effects off? I didn't know about that, I was just refering to the ability in most games iirc to turn off battle effects from the options menu - idk why I'm getting downvoted so much
+You can't turn off animations
+    Idk about every single game, but in most games afaik if you go to options you can select battle effects off and it'll turn of the animations
+        It's not available when playing online
+            Ohhh ok that makes sense
+[removed]
+    You may be trying to reply to the original question instead of to my comment.
+It's been an awfully long time since I played Emerald - might have to look for a rom at some point!
+In randoms if you get a blissey there’s like an 80% chance you’ll win just because of it
+A grand total of 2 each
+    Still higher than zero
+    Because there's a pretty significant amount of variety- and Clefable isn't even *that bad* for VGC, it's just not the best offensively and support can be taken care of by Clefairy, who can be made even bulkier in comparison to Clefable via eviolite and friend guard helps protect frailer teammates.
+Oh yeah no definitely, many singles games are high paced with bouts of doubles and correct slow playing(not recently in the current meta but in general) wheras doubles has that but much less commonly.
+Is there a specific rule in official vgc tournaments that says you can't turn battle effects off? I didn't know about that, I was just refering to the ability in most games iirc to turn off battle effects from the options menu - idk why I'm getting downvoted so much
+Idk about every single game, but in most games afaik if you go to options you can select battle effects off and it'll turn of the animations
+    It's not available when playing online
+        Ohhh ok that makes sense
+You may be trying to reply to the original question instead of to my comment.
+Still higher than zero
+Because there's a pretty significant amount of variety- and Clefable isn't even *that bad* for VGC, it's just not the best offensively and support can be taken care of by Clefairy, who can be made even bulkier in comparison to Clefable via eviolite and friend guard helps protect frailer teammates.
+It's not available when playing online
+    Ohhh ok that makes sense
+Ohhh ok that makes sense
