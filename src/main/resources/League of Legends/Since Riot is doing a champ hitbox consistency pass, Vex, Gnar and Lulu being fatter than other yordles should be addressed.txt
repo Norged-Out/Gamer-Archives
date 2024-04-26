@@ -1,0 +1,121 @@
+[[Since Riot is doing a champ hitbox consistency pass, Vex, Gnar and Lulu being fatter than other yordles [also Zoe and Milio being wider than Annie] should be addressed]]
+
+
+&#x200B;
+
+the quote from the tweet that discussed doing a consistency pass:    
+
+
+*Champ Hitboxes - Champ hitboxes have been pretty inconsistent for a long time and consistency lover RiotPhreak found an opportunity to do a pass - This will mean things like champions will be more consistent to click on (both click to attack and select), champions will more consistently have hitboxes that feel in line with their size (eg. Warwick and Briar will not be Yordle sized and Viktor will not be much larger to click on than Leona)*
+
+&#x200B;
+
+ Champion gameplay size 55 \[Smallest in the game\]: 
+
+[Briar, Naafiri and Warwick are eating good and will leave this list while Yuumi will finally beat the chonky cat allegations and join the 55 club](https://preview.redd.it/2n8ju9kli6wc1.png?width=690&format=png&auto=webp&s=dcb625e326f855cb9dec9d1de916c98cebc30781)
+
+&#x200B;
+
+ Since Rioters announced in their latest tweet that they want more consistency in gameplay size radii, all Yordles should share the same hitbox, Sure Yordles like Corki and Rumble have a good reason why they have a bigger hitbox due to them mounting big machines but I find no reason why Vex, Gnar and Lulu should be wider than their other yordle counterparts. Same can also be applied for Zoe and Milio having same gameplay radius as Bel'veth or Trundle rather than Annie
+
+&#x200B;
+
+ also fun fact, Gnar has the same gameplay radius of 65 in both mini and mega gnar forms. 
+
+
+"Yuumi will finally beat the chonky cat allegations "
+
+rip to the chonky Yuumi players who would de-attach and block skill shots
+    Those guys already stopped playing Yuumi after that failure of a rework, so no damage done
+        True. I only play her ARAM now. She’s so bad in SR. 
+        Yeah 😔 I miss jumping out, blocking damage, getting shield, jumping back 
+    When Yuumi could attach after cc tanking Ashe R felt so fkn good
+Warwick has one of the smallest champion hitbox always sounded insane to me. Thank god they r changing that. 
+
+Like, Naafiri I understand cuz she is a dog, and Briar u can maybe do some mental gymnastics on her being a young creation while gameplay wise this champion has very limited micro and bee line for a target for most of the fight, therefore size barely matter. 
+
+But Warwick? Why would a fkn muscular werewolf monster made from a very, very big man falls under this category while gameplay wise he can be pretty fast too.
+    I believe it's because of how his r is coded. He is the projectile and stops on collision between his hitbox and enemy champ hitbox. So champ size matters
+        Well, at least according to fandom, the collision radius for warwick r is a flat 150.
+            nvm then, maybe they changed it ?
+                Has been like this (150 center radius areaTrigger) ever since his VGU, I am very certain. I have only ever seen the ult collision x own gameplay radius myth in the context of someone trying to reason why the heck Warwick has 55 gameplay radius, which started happening round about I published that Size page on the wiki (specifically in the thread i posted about it), while the **actual** reason Warwick has 55 gameplay radius is that it's unintentionally so (a bug), most likely a holdover from some early league typo or then-inconsequential bullshit.
+                Idk. But ww ult hitbox scaling with champion size sounds like it will create some really wonky interactions with anything that augments champion size.
+        This has been a myth for awhile, ulti uses its own hitbox. 
+
+idk what the actual reason for his small radius is, but my guess is to minimize how many effects hit him during ult or creep block.
+            Note: "Creep block" is ENTIRELY handled by the separate ``pathfinding collision radius`` value, the only effect his smaller gameplay radius would make is that minions attacking him would have to come closer, and thereby be more likely to creepblock him actually.
+    to make his ult hit box smaller maybe? /g
+no shaming the yordles now
+Let my man Dantes a word when it comes to Yordles. I assure you he has all the knowledge we need considering their proportions
+> also fun fact, Gnar has the same gameplay radius of 65 in both mini and mega gnar forms. 
+
+That's his secret. He's **always** Mega Gnar.
+I guess the reasoning could be similar to Garen, i.e., they want larger hit/selection boxes (particularly for more mobile champs) to make attacking/targeting them easier, thus helping lower elos while affecting higher ones little.
+Does this mean Vex is canonically thicc shortstack🥵
+    dummy thicc goth goddess 🤤🤤🤤
+        Its like i KNOW what u mean
+Well for Vex its because she's walking around with a dump truck
+I mean Lulu i don't know. What about all those cupcakes?
+    [that model](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Lulu_Render.png/revision/latest?cb=20200330033359)
+        Oh god don't remind me. 
+
+
+Lulu is just a nice hat. Nothing more. 
+The idea of Vex and Lulu being chubby is funny... And hot
+Please touch Rengar, god he’s so fucking fat
+Freaking hooks should get a hitbox pass first. In a replay I can lay one to two fingers between blitzcrank fist and my character and I am still being pulled in.
+She said she was 55 units
+They have to keep Dantes interested in some of the yordles
+I wish they would do something about Aurelion Sol's goofy hitbox, 75% of his model isn't targetable.
+i would like to add to that, that a lot of champions are incosistent regarding their ranges. i swear a lot of champs start some ranges of their skills at the center of their hitbox instead of their edge. worst case for that is/was rumble Q. when it doesnt even make sense animation-wise, with his flamethrower sticking far out of his model, but the flames starting from his center. a lot of old designs have this problem with their autoattacks. so for example sett can attack from further range even without his skill, than champs with the same range on paper
+its just weirdly inconsistent
+The Yuumi hitbox size is 100% because they thought it would be cool for Yuumi players to dismount to tank projectiles. Then they realized that Yuumi appeals to that risk averse playstyle, and no one did it.
+I would find it better if they all go to 60 instead and the none yordle champs at 65 get to 70 where Ivern sits alone.
+Can they just center Kayle's hitbox on her model instead of the ground below her please thanks
+yes!!! yuumi buffs!!!
+    Ironic username for the thread
+start by fixing blitz-morg-naut-thresh etc... Q hitbox then we can talk about champs
+League see mini and mega gnar as the same size. Lmao bunch of fuckin inbreds go code a bunch more things as minions I'm sure thatll fix it
+Those guys already stopped playing Yuumi after that failure of a rework, so no damage done
+    True. I only play her ARAM now. She’s so bad in SR. 
+    Yeah 😔 I miss jumping out, blocking damage, getting shield, jumping back 
+When Yuumi could attach after cc tanking Ashe R felt so fkn good
+I believe it's because of how his r is coded. He is the projectile and stops on collision between his hitbox and enemy champ hitbox. So champ size matters
+    Well, at least according to fandom, the collision radius for warwick r is a flat 150.
+        nvm then, maybe they changed it ?
+            Has been like this (150 center radius areaTrigger) ever since his VGU, I am very certain. I have only ever seen the ult collision x own gameplay radius myth in the context of someone trying to reason why the heck Warwick has 55 gameplay radius, which started happening round about I published that Size page on the wiki (specifically in the thread i posted about it), while the **actual** reason Warwick has 55 gameplay radius is that it's unintentionally so (a bug), most likely a holdover from some early league typo or then-inconsequential bullshit.
+            Idk. But ww ult hitbox scaling with champion size sounds like it will create some really wonky interactions with anything that augments champion size.
+    This has been a myth for awhile, ulti uses its own hitbox. 
+
+idk what the actual reason for his small radius is, but my guess is to minimize how many effects hit him during ult or creep block.
+        Note: "Creep block" is ENTIRELY handled by the separate ``pathfinding collision radius`` value, the only effect his smaller gameplay radius would make is that minions attacking him would have to come closer, and thereby be more likely to creepblock him actually.
+to make his ult hit box smaller maybe? /g
+dummy thicc goth goddess 🤤🤤🤤
+    Its like i KNOW what u mean
+[that model](https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Lulu_Render.png/revision/latest?cb=20200330033359)
+    Oh god don't remind me. 
+
+
+Lulu is just a nice hat. Nothing more. 
+Ironic username for the thread
+True. I only play her ARAM now. She’s so bad in SR. 
+Yeah 😔 I miss jumping out, blocking damage, getting shield, jumping back 
+Well, at least according to fandom, the collision radius for warwick r is a flat 150.
+    nvm then, maybe they changed it ?
+        Has been like this (150 center radius areaTrigger) ever since his VGU, I am very certain. I have only ever seen the ult collision x own gameplay radius myth in the context of someone trying to reason why the heck Warwick has 55 gameplay radius, which started happening round about I published that Size page on the wiki (specifically in the thread i posted about it), while the **actual** reason Warwick has 55 gameplay radius is that it's unintentionally so (a bug), most likely a holdover from some early league typo or then-inconsequential bullshit.
+        Idk. But ww ult hitbox scaling with champion size sounds like it will create some really wonky interactions with anything that augments champion size.
+This has been a myth for awhile, ulti uses its own hitbox. 
+
+idk what the actual reason for his small radius is, but my guess is to minimize how many effects hit him during ult or creep block.
+    Note: "Creep block" is ENTIRELY handled by the separate ``pathfinding collision radius`` value, the only effect his smaller gameplay radius would make is that minions attacking him would have to come closer, and thereby be more likely to creepblock him actually.
+Its like i KNOW what u mean
+Oh god don't remind me. 
+
+
+Lulu is just a nice hat. Nothing more. 
+nvm then, maybe they changed it ?
+    Has been like this (150 center radius areaTrigger) ever since his VGU, I am very certain. I have only ever seen the ult collision x own gameplay radius myth in the context of someone trying to reason why the heck Warwick has 55 gameplay radius, which started happening round about I published that Size page on the wiki (specifically in the thread i posted about it), while the **actual** reason Warwick has 55 gameplay radius is that it's unintentionally so (a bug), most likely a holdover from some early league typo or then-inconsequential bullshit.
+    Idk. But ww ult hitbox scaling with champion size sounds like it will create some really wonky interactions with anything that augments champion size.
+Note: "Creep block" is ENTIRELY handled by the separate ``pathfinding collision radius`` value, the only effect his smaller gameplay radius would make is that minions attacking him would have to come closer, and thereby be more likely to creepblock him actually.
+Has been like this (150 center radius areaTrigger) ever since his VGU, I am very certain. I have only ever seen the ult collision x own gameplay radius myth in the context of someone trying to reason why the heck Warwick has 55 gameplay radius, which started happening round about I published that Size page on the wiki (specifically in the thread i posted about it), while the **actual** reason Warwick has 55 gameplay radius is that it's unintentionally so (a bug), most likely a holdover from some early league typo or then-inconsequential bullshit.
+Idk. But ww ult hitbox scaling with champion size sounds like it will create some really wonky interactions with anything that augments champion size.
