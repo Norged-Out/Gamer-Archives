@@ -1,0 +1,1955 @@
+[[I've put 500+ hours into the Emerald Battle Frontier and always lose my streaks to stuff like this]]
+
+
+
+
+
+This Rhydon's ability was actually Plot Armour
+    That hiker is obviously the protagonist
+    Now I want to make a hold item called Plot Armor that acts like a Focus Sash lol
+
+Or maybe it'll act like a free Substitute, but only in rival/gym leader battles? Would be funny I think
+        An item that acts as a substitute would be broken/absolutely awesome. Would it like, activate when you throw it out? Or would it just tank a hit like disguise? Could you use status moves on them?(like you couldn't if it was behind a normal sub)
+1 in 17,000 chance happenings happen about 60% of the time.
+    Appropriate Pratchett quote:
+
+"Scientists have calculated that the chances of something so patently absurd actually existing are millions to one.
+But magicians have calculated that million-to-one chances crop up nine times out of ten."
+        ...is this the colour of magic?
+            ~~Equal Rites, in fact.
+
+Edit: messed up reference, in both Mort and Equal Rites, sources vary. Some reference to it in Guards! Guards! Too.~~
+
+Edit2: to stave off the argument, this quote in its exact form is from Mort.
+                I just read guards guards! And this page had me dying. They keep encumbering the archer to make the shot more “million to one” so it’s more likely to succeed than the “100 to 1”. Lol.
+                    It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+                I can confirm it’s definitely from Guards! Guards!
+                    It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+                        It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+                            [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+                I've been reading a lot of prachett lately and a form of that quote is in a lot of his books.
+                    Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+                        The proper source is Colour of Magic, the earliest book in which some form of it appears.
+                            Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+        GNU Sir Terry Pratchett
+            GNU Sir PTerry
+            where do i download the latest gnu_sir_terry.tar.gz ?
+
+(I know the meaning, I just like the overlap with FOSS terminology)
+        I didn't expect to find you here, a pleasant surprise none the less
+        I see Terry, I upvote.
+    60%? That’ll miss every time!
+    60% of the time, it works everytime.
+    “If it’s not 100 percent accurate it’s 50 percent accurate”
+        Hail yea!
+    Like the time I was trying to get a Sudowoodo's HA in Pokemon X by using Trevenant Hordes. After hundreds of tries I finally got one, and there was also a shiny Trevenant in the same Horde.
+Ugh, and then those victory taunts by the npc
+    Ikr? They infuriate me so much  
+"Oh shut up you just spammed OHKO attacks don't act like you won fairly" lol
+        they have a 30% chance to land so yeah, pretty fair lmao
+            For this exact sequence of events
+
+- Psychic not critting (93.75%)
+- Mega Horn hit (85%)
+- Crit (6.25%)
+- Edit 1: *Meteor Mash miss (15%)*
+- OHKO (30%)
+- Quick Claw (20%)
+- OHKO (30%)
+
+~~The chance of this sequence happening is 0.103%.~~
+
+*Edit: After /u/murdolatorTM's corrections, the chance of this happening is 0.0143%*
+
+*Edit 2: Forgot that a crit with Psychic would have killed Rhydon, so that has to be factored in. The new number is 0.0134%*
+                Don't forget the 15% chance for Meteor Mash to miss. Also crit is 6.25%
+                    Thanks, fixed!
+                How is the quick claw involved? Isn’t there some animation or text that indicates it activated? And if not, are we just assuming the Metagross had better Speed?
+                    Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+                        Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+        You used your strategy with its strengths and weaknesses, and he used his strategy with its strengths and weaknesses. They have different strengths and weaknesses, sure, but it's not unfair.
+            It is unfair though because, as someone else pointed out, the opponent is not playing the same game. You are tasked with winning (however) many battles in a row. This Hiker guy is not, he is just using extremely risky moves that, if they work, will end your run, but if not he is assured of losing, which means he cannot possibly make a run himself. 
+
+For a mode like this, they should at least pretend it is a tournament or something and you should only face these kind of trainers in the first 5-10 battles (which is about as far as a guy with a team like this would make it). The opponents you face at like 30+ wins should have teams that could feasibly have also won 30+ games themselves (aka much safer moves with higher accuracy, like the player would probably have, making it more fair).
+                Except it's not meant to be like a tournament. It's meant to be more like chess puzzles, isn't it? "Here's an increasingly difficult challenge. How do you solve it?" versus "can you win this 32-man mixer?"
+    Their loss quotes can be as funny too.
+    I hated when they started making sense in Emerald, because they were still in all caps and made me feel like a loser.
+Damn I feel like I’m reliving some childhood trauma watching this lol…
+    Yeah I remember this so well and thats why I didn't event get disappointed when the frontier wasn't in the remake. I just assumed no one liked the frontier until the remake came out.
+        There's definitely an audience for the Battle Frontier, but as Junichi Masuda touched on in an interview regarding ORAS, it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+            The biggest issue was probably that outside of the Battle Factory you really needed to grind for some good and specialized Pokémon to do well in the facilities. Espcially that one where your Pokémon acts on his own based on it's Nature or something.
+
+Every Emerald save-file I ever played I easily got Silver and Gold Medals for the Factory, and didn't bother touching anything else.
+                The only medal i ever got was for the level 50 battle pike. The pike queen’s team is the most nightmarish stall comp possible, and 12 year old me didnt know what setup was.  I still have nightmares about that shuckle
+                And of course, by the time ORAS dropped, it became so much easier to breed perfect Pokemon to be able to use in the Battle Frontier
+                This why I prefer the World Tournament in B2W2. If I'm going out, let it be to an actual Leader/Champion.
+
+The Battle Towers are predicated on random advantages - with luck you can get somewhere, but by-and-large grinding makes little difference.
+            
+> it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+
+Of course it's frustrating, it was literally designed to be frustrating. If legendaries are banned for being too strong, Moves with <60% accuracy should also be banned for the same reason. No sane person would run such moves in an attempt to win. The only reason would be if you were attempting to make the opponent lose. It's the same kind of bullshit that ends up in many other games. You have to win many, many battles in a row, but the AI only has to win 1. It always becomes inherently unfair as a side effect of developers unable to make it legitimately challenging.
+                cant forget the OHKO moves, those god dam walreins with fissure and sheer cold
+                Thankfully a lot of games give you certain ways to enhance your stats/options as you continue to grind out enemies, games like Slay the Spire, or my new favorite is the Lab mode in Legends of Runeterra. PvE in these games is entirely feasible- give temporary buffs to scale to the increasing challenge, maybe earning stat drinks that can go above usual maxes, or some sort of passive boost that applies chance of activation (like Quick Nail, a passive akin to Quick Claw on one Pokémon with a lesser ((maybe 10-15%)) chance of activation) so you don’t feel so badly targeted by weaknesses or RNG from opponents. Give lasting bonuses that apply over the whole course of a run
+            There are many things they could do. Battle frontier is the only thing their simple lazy gf brains could come up with.
+            But, I liked it (sad face).
+
+I missed the impossible challenges. I only got the silver badge for each of the seven challenges, tho.
+        I hate the RNGs especially with Quick Claw and Brightpowder...yet I still really like the challenge it brings so Hoenn Battle Frontier is 10/10 to me hehe.
+            I mostly just liked the Arena/dome whatever thing because it was the closest thing to the pokemon battles of the anime where its a big tournament and spectator event
+                I will say I have most of my time in the Battle Tower because it was SO hard to get the Gold Symbol to me...got all Silver Symbols but it's so hard to do it with Milotic/Linoone/Metagross or Flygon hehe.
+        The battle frontier and facilities in modern games is my sole reason for playing pokemon. The win streaks make it feel like a roguelike based on your pokemon teams. Felt so cheated when the battle tower in Sword/Shield didn't remove the win-streak after a loss
+        Yeah why did everyone cry about ORAS not having it? Didn’t look like fun.
+            It's my favorite pokemon game but I'm not one to beat down on what others things are fun.
+    Breed a dratini with dragon breath and storm the low tier bracket.
+    I swear to you, this was how Pokemon Stadium was like
+***SURRENDER? SO SOON?***
+    That’s one ruthless hiker
+    Just to rub salt in that open wound, right?
+        That’s how you make a good barbecue
+    I would’ve just used my Pokémon on the guy if this happened
+        Too late. They're all dead already.
+
+Just hope that Ryhorn doesn't look at you funny on the way out.
+            I’ll sneak revives in
+    A+ smugging
+        The way he slides in from out of view too 😂
+    I've been laughing at this for the past 10 minutes lmfao
+I almost never use moves with less than 100% accuracy because RNGesus hates me.
+    "If it's not 100% accurate, is 50% accurate"
+        So 30% accurate horn drill is 50% accurate? Wow, that's OP
+            Unless you are the one using it
+                Nah it's a balance thing: you hit it 0%, your opponent hits it 100%. So 50%
+                    Quick maths
+                    Aaaah, now it all makes sense
+                That's the 50% - either you're using it or your opponent is.
+                Fun Fact: OHKO moves get more accurate the higher your level is compared to your opponent, but they have a 0% hit rate if your opponent is even a single level above you.
+                    It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+                        In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+                            It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+                Unless your the one using it, your chances of hitting drastic go down because you see not all moves are created equal
+        Humans are *terrible* at calculating probability - in Fire Emblem games they actually started outright fudging the numbers, [curving the probability line into an S-shape](https://www.reddit.com/r/fireemblem/comments/5ixo9v/excel_graph_showing_actual_vs_displayed_chance_to/) in order to make the outcomes “feel” more like the probabilities we perceive them as.
+
+People forget that a 30% hit or miss rate means that those outcomes will still happen just under 1 out of every 3 tries, which makes them *extremely likely to happen*.  A move with a 90% hit chance will miss about once every 10 uses, which again is fairly common, and as most moves have about 10 uses it is extremely likely that it will miss once or twice before all the uses are used up.
+    *still misses*
+    Brightpowder gonna clown around though
+        Ugh, the first time I got brightpowder'ed using a 100% accuracy move in the Battle Tower as a kid I  legitimately thought my game was defective. I forget what my exact streak was, only that it was my highest ever and I basically gave up trying to beat it after that. As cruel as the Frontier was though, I still miss having something that challenging to do.
+    Then you get sand attacked or they use minimize, or double team. Suddenly RNGesus is back and ready to ruin your day.
+        I try to keep a couple Pokémon with Swift or similar moves that never miss.  I seriously dislike my attacks missing.
+            60 base power never miss moves gang
+                Especially on a Pokémon with Technician like Scizor.  Still pissed that Metal Claw is a 50 BP move and Smart Strike is a 70 BP move - they knew what they were doing.
+            Yes, this is why shock wave is my favourite electric move.
+                Aerial Ace has been a staple of all my teams ever since it was put in the games.  I'll have it on at least one mon for every playthrough, even if it's not a flying type, because luckily weird monster type ones like Aggron and Tyranitar can use it I'm pretty sure.
+    yep. for me, no fire blast or blizzard or thunder. it's flamethrower, ice beam, and thunderbolt for me
+        The PP is really what does it for me tbh.  They only have 5 more but it's still literally double what the former have, plus they miss way less meaning that PP goes way farther.
+    Thinking back to the 1/256 glitch in Gen 1
+        Gen 1 also had Speed-based evasion mechanics didn’t it?
+            I don't know about speed-based evasion but [there was a greater chance to get critical hits in Gen 1 depending on how fast your Pokemon was.](https://www.smogon.com/articles/understanding-rby-mechanics) This made both [Tauros](https://www.smogon.com/dex/rb/pokemon/tauros/) and [Persian](https://www.smogon.com/dex/rb/pokemon/persian/ou/) really useful for the Gen 1 competitive metagame.
+    If you want to win 100 battles in a row, 99% isn't enough.
+I swear the AI rng when you get a higher streak in the battle frontier is just criminally in their favor.
+    I'm a firm believer in this theory. They got just way too many cheap shots like this at the higher stages
+        if it was true then we'd have complete confirmation by now so ya'll just getting fucked without lube the old fashioned way. Then again if you have 500+ hours then this is going to happen a few times.
+    When I'm playing Mario Party it always feels like the RNG and dice rolls are in favour of the AI.
+        Oh they are.  Especially on the N64 games.
+        Looking at you Peach who went around the starting circle twice and just so happened to be right next to where the star switched to
+        In the original Mario Party:
+
+Whenever I have 100+ coins and 3 AI characters are broke.
+
+*Character lands on Bowser space*
+
+*Roulette lands on "Bowser Revolution*
+
+*Everybody's coins are divided up evenly*
+
+This exact sequence of events has happened too many times to count. That roulette ALWAYS lands on Bowser Revolution. Without fail.
+            This reminds me of when we landed on lucky way too many times in Mario Party 9.
+    Could be. AI in gen 4 actually had higher crit rates, so it's possible.
+        Source for this? People always mention this but can never provide a source.
+
+I remember there was a smogon thread that analyzed this, and found that Gen 4 ai had higher crits, but his sample size was small and I think people debunked it? It was a while ago, I don’t really remember
+            I dunno, I'm just going off of what I remember reading, I could be wrong.
+        That's wrong
+            Well now I wanna know either way. Where's the evidence that that's wrong?
+                The other guy didn't put any evidence. In every pokemon game, the game mechanics have always been consistent for both the cpu and the player.
+                    How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+                        It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+        But this is gen 3
+            The Battle Frontier AI in Emerald actually cheats too.
+                I never said it didn't, I know it's predetermined wether a move hits or not in the frontier. All I was trying to say was that this wasn't gen 4 :(
+                    Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+                    Can you elaborate on the predetermined bit?
+    Not really, it has been demonstrated that not; the problem is that battle tower teams are super haxy (and 3 vs 3 doesn't help), and soon or later your ass is gonna be slapped according to probability.
+    It's definitely impact bias.
+    I swear to God that I've slept for 5 and even *6-7* consecutive turns in the Battle Frontier. I have literally never encountered this in anything else other than Emerald Battle Frontier and Elite 4 R2 in FRLG and nothing I've ever looked up about sleep mechanics ever mentions anything like this and I've lost my mind trying to figure out why it happens so soul-crushingly often when in the normal game you can wake up pretty regularly after just 2 or 3. I feel like an insane person talking about how it's real but I SWEAR you can be put to sleep for longer than the normal maximum under these conditions.
+The cherry on top: 
+"Surrender? 
+So soon?"
+If the accuracy isn't 100% then it's 50/50.
+    Until the opponent uses it and it becomes almost 100% again
+        I swear hypnosis is a 100% accurate move when used by anyone but the player
+        Of course; the sample size is much much smaller.
+I think what you need is a quick, powerful Pokemon. Something like Latios. And then something to balance it. A powerful, defensive pkmn. Ah, yeah like a Metagross. With those two, you definitely got this.
+    And a total nuke in the back to clean up like Slaking! Yeah, we're set.
+And dont forget the bright powder. Make any move miss with this one trick. Trainer will hate you for it.
+    Smart strike ftw
+    That’s why it’s banned in competitive play - I don’t think they even let you use it online.
+Yeah I swear that game eventually just made it impossible to go beyond a certain point in the Battle Tower.
+
+Two generations later, me and my friend were doing the double train thing and we got wiped out by a special attacking Bastiodon. I was like "wtf just happened here".
+    Yea not much you can do against sturdy metal burst.
+I wish I could’ve suffered through this in ORAS.
+    I miss a real challenge too.
+So I did the math and this course of event had 1 in 5153 chance to happen. Impressive but not crazy high, sure you would encounter this at one point if you spend 500hours on the game.
+    Your math is kinda wack though, because you need to exclude all battles which aren‘t even that long. A battle against a Weedle wouldn‘t get included for example.
+
+You‘d need to have 5000+ battles against the same moveset for it to happen.
+        Yeah a good chunk of battles might not include OHKOs or some teams might not have superrefective crits
+            Exactly. You could play 10 million battles against Magikarps and it‘s certain that this outcome won‘t happen.
+                Unless they hit you with that mythical OHKO splash
+        no you dont need 5k battles for this to happen  
+it can happen the literal first time
+
+on average it will just happen once per 5k. but average is irrelevant in the current battle
+            To happen on average. I thought I wouldn‘t need to explain how probabilities work
+                Your original comment doesn't sound correct though. 
+
+They are independent trials, and the outcome of one trial doesn't affect the other.
+                    I explained how I meant it, can you please leave me alone for something this irrelevant now?
+            You shouldn't be downvoted. You are correct.
+
+EDIT: Actually your last paragraph is incorrect
+                You have serious issues lol
+        >You‘d need to have 5000+ battles against the same moveset for it to happen.
+
+That's not how this works. It could have happened the first battle.
+            On. Average. Again, I didn‘t expect that I‘d need to explain how probabilities work.
+                No no. Everyone is explaining how probabilities work to *you*, because *you* wrote "You‘d need to have 5000+ battles against the same moveset for it to happen." Nothing about "on average". Your statement literally says "You‘d need to have 5000+ battles against the same moveset for it to happen."
+                    Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+                        >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+                            You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+                                Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                                    Probabilities are an average. Percentages are averages. Ratios are averages.
+                                >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                                    It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+                        Yes, so don't be surprised when people correct you when what you wrote was wrong.
+                            It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+                                >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+                                Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                                    Don't write false statements and I won't call you out for being wrong.
+                                    Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+    You put a fiver on that at the bookies and it returns £25770... definitely crazy high
+        In this context tho, of 500+ hours, assuming a battle takes like 5 minutes on average to do (usually it’s lower tho), that’s like over 5000 battles, you’re bound to run into a game like this
+
+Ofc still not an amazing feeling when you run into a game like this but luck can’t always be on our side unfortunately
+            That's a fair point actually, damn pokemon and their RNG!
+Thank you for filming this with a steady hand as opposed to the reasonable throwing of the DS and camera wildly after this BS.
+    It's steady because it's the replay, I'm sure the live version was UGLY
+bruh
+I think its a pretty established fact that the AI in Battle frontier facilities cheats like a motherfucker
+    It was Pokémon Stadium R2 tier bull shit.
+    [deleted]
+        Yeah I'll disagree on this completely.
+
+Pokemon can be hard without bullshit, even using common pokemon with normal movesets. Most romhacks show this, and even Miltank and og Cynthia are proof that pokemon can be challenging if things are done right
+
+Difficulty through ai cheats are bullshit easy go tos by game developers. Just give the ai better combat strategies and stop acting like kids nowadays are stupid and dont enjoy hard things (or whatever that gamefreak dev said about kids and their cellphones)
+        Sir, Radical Red would like a word with you.
+I have the gold symbols and honestly I’m 99% sure that the AI gets preferential RNG in some way while doing the battle frontier. It really diminishes what is an incredible facility but it definitely happens.
+
+Also try Swampert instead of Slaking, Swampert, Metagross and Latios was my team (and as far as I can tell, most people’s team).
+    See the RNG thing I could forgive for like the Battle Pike or the one where your Pokémon battle for themselves, but say the Pyramid, the Tower, the Dojo, the Dome, the Factory?  Unacceptable.
+That’s just cruel.
+    Surrender? So soon?
+        That parting line makes me wonder if the trainer was planning on taking down the player as well, not just their Pokémon.
+So, it is not just me!
+I swear this just happens when you're on a high streak or about to face a big opponent
+Im sorry for laughing
+O O F .
+That hiker was definitely using a game shark
+That’s wild
+I know if I tried to use horn drill in any post game shit the cpus would laugh at me....
+I've played too much Mario Kart to be affected by this.  RNG giveth and RNG taketh away.
+I remember when a battle tower Walrein hit with Sheer Cold 3 times in a row.
+Sheesh, tough luck bud
+Did Metagross not have a 100% acc move to finish off the rhydon?
+    That's what I was thinking, it's gotta have something that could deal that much, like psychic or earthquake.
+    To be honest, that was bad choices galore, pretty sure Surf was the best play against Rhydon instead of psychic.
+
+Some calcs, No Attack EVs or Positive Natures:
+
+0 SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 372-440 (105.6 - 125%) -- guaranteed OHKO
+
+0 SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 139-165 (39.4 - 46.8%) -- guaranteed 3HKO
+
+Now, considering Max Attack EVs and Positive Nature for Latios:
+
+252+ SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 492-580 (139.7 - 164.7%) -- guaranteed OHKO
+
+252+ SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 184-217 (52.2 - 61.6%) -- guaranteed 2HKO
+
+Have in mind this is max investment
+
+Also, Megahorn would have killed whether it crited or not:
+
+0 Atk Rhydon Megahorn vs. 0 HP / 0- Def Latios: 290-342 (96.3 - 113.6%) -- 75% chance to OHKO
+        I was thinking about surf as well, but didn't mention it cause it might not run it. Though I'm not sure if there's that many moves you can justify running over surf in gen 3
+            Yeah, Runing Latios with Surf is just, obvious.
+
+I responded the OP with some more calcs, might wanna check it out if you are interested, basically, he would have lost anyway, horn drill or not.
+this is why smogon rules were created
+Doesn’t the rng get altered the higher your streak is?
+    No. It is just a myth.
+
+AI becomes smarter but that is about it.
+        Smarter? So it learns to crit?
+            First AI smashes random moves. Later it chooses to use super effective moves and switch pokemon.
+Battle Frontier is gonna Battle Frontier
+In my HG playthrough, Pryce’s Dewgong hit 5 aurora beam sleep talks in a row. Idk if the ai can just pick the move it used or if its just random but it felt like I was getting cheated out of a badge.
+##S U R R E N D E R ?
+
+##S O ­­­   ­S O O N ?
+Landing two Horn Drills back to back isn’t very uncommon, only 1 in 9 chance. But to proc a Quick Claw at 1 in 5, land a crit at 1 in 16 and miss a Meteor Mash in 1 in 6 2/3 makes the total odds of this occurring: 1 in 4800. You can find a post Gen 6 Shiny faster than you can have this happen. 
+
+Now do you see why Battle Tower is such bullsh*t?
+    Your math is off there. Accuracy of 3/10 gives the chance of double ohko as 9/100 not 1/9. For reference 1/9 is about 11% while 9/100 is 9%.
+
+Throw in the 15% chance to miss mm and the total odds of it happening become 1.35%. quick claw at 2/10 takes that to 0.27% to happen. The crit takes it to 0.0169% chance to happen or 27/160000. This is roughly 1/5926 odds to happen.
+
+Your conclusion stands though. More likely to find a shiny.
+        Oh crap, you’re right! I was using 1/3 for the horn drill miss rate, but it’s actually 3/10. People might ask what the difference is, since it’s close enough to 30%, but 3/10 is much rarer than 1/3. You’re more likely to pull a single prize from three mystery boxes than you are to pull one of three prizes from ten mystery boxes. 
+
+So yes, 9/100 is the chances of pulling two consecutive Horn Drills, a lot rarer than my wildly off 1/9. My math must be getting rusty, lol! 
+
+Bottom line is, OP has some serious shitty luck.
+Damn imagine Hops reaction if this was him.
+Despite the stubborn myths, Pokemon has completely fair RNG.
+
+Except for the Battle Tower & Frontier.
+
+This bullshit is so commonplace there.
+Bro this same rhydon has gotten me twice now. I once brought my sceptile swampert and alakazam, and I got triple quick claw'd with crit mega horns and a horn drill. Never had a chance
+Lmfaooo this gave me war flashbacks.
+
+I love battle facilities so much. 90% of my pokemon time is spent on them. Gotta take the good with the bad.
+    *perfect* user flair
+this HURTS, I had no idea the AI could get that unfair. Holy hell.
+    Cheating AI/ Artificial Difficulty is a lot of game dev's "Ol' Reliable", especially in RPG's.
+The AI has been confirmed to be cheating in Pokémon in multiple occasions
+Either Surf or Ice Beam can be really nice to have on Latios for this reason. Dragon Claw is nice but most Dragon Types take more damage from Ice Beam anyways (salamence, flygon, dragonite etc) and Psychic is stronger on neutral targets.
+
+Megahorn was likely to 1hko there aynways so the crit turn 1 might not have mattered
+
+Meteor mashing when EQ kills was risky
+
+TLDR the game is BS but you gotta minimise the chances of getting BS'd. I went through the same thing last year, I got the final gold symbol when my playtime on the cartridge had already been at 999 hours for weeks... I feel you
+I got some flashbacks watching this.
+However, in the end I pulled it off and got all gold medals. Was worth the grind in the end :).
+
+Hang in there, you can do it!
+Even 95% accuracy feels like 50% in Pokémon
+Remember back when we were younger and would stay stuff like “The game’s cheating” whenever we lose. 
+
+
+I still stand by that statement
+"Venezia"
+*pleased itallian ice noises*
+I never liked the battle towers because they cheated.
+His "surrender so soon?" made my day lol
+Wow. This is worse than anything I encountered in Pokemon platinum's equivalent.
+
+My personal worst example of Pokemon BS was against elite four Glacia in Ruby. Her Walrein used Sheer Cold for it's first 5 moves and connected with 4 of them. 
+
+I still remember that after each successful OHKO, I would say aloud, "There's no way he's going to manage that again."
+I'm sorry but this shit has me in stitches haha
+that's why I dont do battle frontier/tower/etc.
+The fact that GameFreak dumbed down the difficulty of their games because kids didn’t want to put up with this specific type of bullshit is baffling to me. Just make the games not next to impossible?
+    Yeah as someone who has put several hundred hours into just this game specifically, a fair challenge isn't winning 70 pokemon battles in a row. Any competitive battler would be thrilled to win 69/70 battles. That's a win rate of 99% rounding up. But in the battle frontiers eyes, a winrate of 99% isn't good enough. Start over.
+Oof
+its sad when you have to see the health bar slowly go down knowing that itll be dead
+F
+That's some Aaron zheng luck
+What is your highest streak?
+*Surrender? So soon?*
+30% of the time it works 100% of the time.
+0.0219375%
+
+Congratilations you won the shity lotery, would you like to play again?
+
+BTW(I think Rydon surviving that psychic was BS, his spd is atrocious)
+par for the course OP. sorry about your run. 
+
+85 accuracy moves are risky in Battle Tower. I use Meteor Mash Metagross too. It can be sad sometimes. Better luck on your next streak.
+Battle facilities are so full of bullcrap like this.
+Surrender? So soon?
+While this is crazy unlucky for one battle, that's the thing with streaks.  Occasionally you'll just get slapped by bad luck because you're rolling that die every game in the streak.
+i feel bad for you but damn this is just way too funny
+I will hunt down that Rhydon for their luck crimes and drop them in an ocean
+Your own fault for using attacks without a 100% chance to hit.
+Percentages man, they're BS. 
+
+I once battled a friend twice consecutively. He had a magneton with quickclaw that was using zap cannon. He went first every time and his zap cannon hit every time. That's 12 quickclaw procs and 12 zap cannon hits *consecutively*. I declared him a cheater (not seriously tho) and temporarily quit.
+
+It's those damn percentages and evil, evil random chance. Like a d20 that only ever rolls 1-3.
+There's about a 0.02% chance of that happening, or 1/5000.
+Directed by Robert E. Weide
+People still pretend the game isn’t rigged when you get that far.
+And I thought me getting frozen by ice beam every time was bad. OOF
+GameFreak definitely should get rid of 1 hit K.O. moves. They're just lazy and have nothing to do with strategy whatsoever.
+This is the kind of garbage that happens to me in the Battle Tower in S/S. Some random Laura’s has Sheer Cold or Horn Drill and wipes my team. Or Leon has some stupid has and his Charizard is faster than my perfect EV/IV Hyper Trained Jolteon.
+
+The majority of people get frustrated by Battle Tower and Emerald’s facility because the game is actively being unfair against you.
+I was playing battle tower in diamond one time with my buddy and our streak was up over 100 in multi battle. We lost pretty much because my Zapdos ended up being frozen for 22 turns in a row. We counted. Astounded. The game literally breaks itself to make you lose lol
+That happened a lot. I’m trying to clear the Platinum Battle Frontier and I lost my streak to so many bullshit…
+Ok well quick claw and OHKO attacks is basicly the most luck based pokemon you can build. Incredible bad luck... i feel you.
+I got so mad for you just watching this, omg
+Should have taught Latios surf :P
+Omg im so sorry. I laughed so hard at this video. We’ve all been there
+As a Fire Emblem fan, you get used to it, 1% crits for days😭
+"500+ hours"
+
+The NPC: Surrender? So soon? GIGACHAD
+"Surrender so soon?" This may kill some one lol
+that was the most rage inducing/unluckiest battle I've ever seen
+Is Latio's name a reference to Pokémon Heros?
+    Yup just cause the city in that movie looked like Venice
+This exact sequence of events (landing a non-crit psychic, getting hit by crit megahorn, missing meteor mash, being hit by horn drill, and being hit by quick claw horn drill) is a .015% chance.  Surprisingly, this is less likely than if quick claw horn drill went off twice in a row, since missing meteor mash is less likely than Rhydon getting quick claw on that turn and still hitting horn drill.
+
+“In conclusion, get f*cked” -GameFreak, probably
+Remind me why we wanted that back on Omega/Alpha again?
+Battle Frontier broke me... I can’t believe some people speedrun this madness
+Surrender? So soon?
+
+The taunts by some NPCs are just cruel.
+Was I the only one getting angry at this???
+That’s approximately 1 in 5153 according to my calculations. Big Oof
+/u/bfree888 the pain
+“Remember kids, if it’s not 100%, it’s 50%”
+It is so dumb when that 30% one hit KO move user moves and hits your pokemon before your own gets a move off when it clearly has the higher speed stat or higher level than it
+A wise man once said if it’s not a 100% accurate it’s 50% accurate
+Love the cheesepuff nickname though 😂
+Honestly just glad to see I’m not the only one still playing Emerald
+If it's not 100% accurate it's 50% accurate
+This actually gives me secondhand rage
+Turn based games are what taught me that life’s not fair
+Really? That's, like, a 0.56% chance for all three to happen together!
+That’s when I would stop playing for weeks, maybe months
+Surprised you didn't break your game never play the lottery bro
+The moment i saw horn drill i knew you were fucked :(
+This is why I gave up on the battle frontier
+That Rhydon just clapped your cheeks hard.
+Everything is either 100% accuracy or 50% there’s no 85 or 30
+I guess that's why Sturdy only works for those moves in that gen.
+“Rng” is code for “strategically screwing you over”.
+Pokémon: *dies*  
+
+You: *brings out new Pokémon*  
+
+Game: ok that counts as a turn, opponent’s turn and can attack now.
+You mention turn 1 critical chance. Is it more or less than turn 2 onwards?
+    No. Every attack has a 6.25% chance to crit. I just wanted to illustrate how annoying it is when the bad luck starts IMMEDIATELY , right out the gate.
+        Ty for clarifying
+fuck. that.
+Respectfully, your ass was whooped
+This is why I didn't play battle frontier.
+I remember in X at the Battle Maison there was a Taurus/walrien duo that had fissure sheer cold that couldn't miss and was just the run ender.
+Got a good laugh outta that thank you
+Got a good laugh outta that thank you
+Did you buy a lotto ticket that night?
+Thats where you press the A button repeatedly to try and stop the hp counter hahaha. 
+
+I hated that as well.
+Did you buy a lotto ticket that night?
+You should expect stuff like this to happen in the battle tower. After a long streak you should expect to get unlucky eventually. You can negate this with a better team though, it seems that your current team is weak to bad luck and you could have made better plays/team choices to minimise it -  
+
+
+For example  
+
+
+* Was it necessary to risk Latios being crit there? Given that a crit would put you on the back foot it did? Could you have gone into Slaking instead?
+* Why the heck are you even using an 85% accurate move in this format? It's 3v3 where not only could a miss lose you the match - but losing the match resets your streak. Giving yourself a 15% chance to lose each game is a sure fire way to lose your streak eventually
+* Also, the AI got lucky there with horn drill - but it could have probably ohko'd you with earthquake regardless. Was metagross the right choice? (especially when it didn't have a guaranteed way of getting rid of rhydon)  
+
+
+Of course, no amount of luck mitigation you do can stop focus band activating 3 times and horn drill hitting 3 times - but there's definitely elements of RNG that can be mitigated and when going for long streaks it's definitely something you should bear in mind.
+What the fuck. Good thing that you recorded this. No one would have ever believed that otherwise 😅
+This was so sad to watch. Love CheesePuff though..
+This is villain backstory material right here
+This is how NPCs get payback for bringing my Dragon Rage team to the Level 10 Battle Tower in Gen. 2.
+Still undefeated.
+Is this the battle frontier?
+    Yeah
+I know it sucks. and it feels so unlucky. But think about it from a different perspective;
+
+If you've put in 500+ hours, you must have played a lot of games. Now, I'm not suggesting that you had 20,000 battles to have this happen at least once; but the rules of probability are sometimes a little bit different than you'd expect.
+
+First point - Let's say that the chance of hax was 1/4. Do you need to actually play 4 games to see it happen? That might be the case. But you have a 25% chance of seeing it the first try. You have a 43.75% chance of seeing it within the first two tries. You have a a 57.81% chance to see it within three. So even though the odds are 1/4, more than half the time you will see it happen in the first 3 attempts.
+
+Second point - let's say that in addition to that 1/4 chance you can also see a different type of hax that is 1/10. You have a 32.5% chance of seeing one of those happen in your first game.  You have a 54.44% chance *to see one of those two hax modes happen within your first two games.* That's right - you are more likely than not to lose to one of those two hax modes in your first two games. a 1/4 and a 1/10.
+
+Continuing the second point - now just imagine all the possible ways to lose to hax in pokemon. Crits, misses, confusion, hell even just getting unlucky and the opponent has a straight up counter team. If you add all of that up, and the fact that you need to win 50 games to get the winning streak, means that you actually have a pretty high raw probability of just losing to some bullshit.
+
+Summary - This is why everyone thinks they have the worst luck (everyone says "knowing my luck,...." and you never hear anyone say "I have the best luck, so we should be fine!"). Based on my points above, everybody *feels* like they have shit luck because something like this will inevitably happen to them; when in reality, most people who put in that amount of time will at some point see it happen.
+
+Source: Professional Statistician who plays an absurd amount of Pokemon and has had this kinda bullshit happen to me too.
+
+I hope this makes you feel better!
+I feel this. I recently finished the BF myself with all Gold Symbols. IgClock is at 401:53
+
+I can't count the amount of times a Scyther has boosted with Sworddance on me because Metagross missed 2 of his Meteor Mashes in a row.
+
+Still can't believe I've won Gold in Palace.
+People remember the BF fondly but those who actually tried getting all Gold can tell you:
+It changes you as a person and it's more bullshit than you can ever imagine
+I really hope someone else can confirm this..
+
+But I vaguely remember reading/hearing somewhere years and years ago that the battle tower in gen 3 actively does cheat and will specifically build teams that counter you and gain stat buffs to prevent you from winning. If so, this amazingly suspicious RNG isn't too surprising, but still fucked.
+you got violated by that rhydon . metagross and slaking ??? christ 
+
+
+double horn drill from the megahorn ?? rhydon is faster than metagross ??
+    Rhydon wasn't faster than Metagross, Metagross just missed its attack.
+        tragic
+Now I want cheese puffs 😔
+To be honest, that was bad choices galore, pretty sure Surf was the best play against Rhydon instead of psychic.
+
+Some calcs, No Attack EVs or Positive Natures:
+
+0 SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 372-440 (105.6 - 125%) -- guaranteed OHKO
+
+0 SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 139-165 (39.4 - 46.8%) -- guaranteed 3HKO
+
+Now, considering Max Attack EVs and Positive Nature for Latios:
+
+252+ SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 492-580 (139.7 - 164.7%) -- guaranteedOHKO
+
+252+ SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 184-217 (52.2 - 61.6%) -- guaranteed 2HKO
+
+Have in mind this is max investment, so we can see that EVs wouldn't have changed things significantly
+
+Also, Megahorn would have killed whether it crited or not:
+
+0 Atk Rhydon Megahorn vs. 0 HP / 0- Def Latios: 290-342 (96.3 - 113.6%) -- 75% chance to OHKO
+
+You also wouldn't be much better if it decided to EQ you instead:
+
+0+ Atk Rhydon Earthquake vs. 0 HP / 0 Def Metagross: 236-282 (78.4 - 93.6%) -- guaranteed 2HKO
+
+This considering no Attack Investment and Postive nature, let's juice up our horny boy a little bit:
+
+200+ Atk Rhydon Earthquake vs. 0 HP / 0 Def Metagross: 276-326 (91.6 - 108.3%) -- 50% chance to OHKO
+
+After 200 Evs, it could have one Shot Metagross, but now, the most important thing:
+
+252+ Atk Metagross Meteor Mash vs. 4 HP / 0 Def Rhydon: 284-336 (80.6 - 95.4%) -- guaranteed 2HKO
+
+Meteor Mash, with Positive Nature, EVs and IVs and no investment at all on the defender was still a two hit KO, since the way RNG works in gen 3, Quick Claw would have procd anyway at the second turn, so, you would have lost Metagross anyway.
+
+So yeah, the issue was mostly with bad decision making than RNG, of course the horn drills were bullshit, but it wouldn't had bullshited you if you approached the situation properly
+
+Also, Rhydon is a beast, you gotta respect it.
+As someone who has gotten all gold symbols, I hear people talking about wanting battle frontier back but they never talk about this aspect of it. I do still enjoy BF and would love to have 7 facilities dedicated to battling. Also this did definitely get fixed a little bit from gen 4 onwards. A lot less pokemon with bright powder and quick claw. However Bright Powder Nidoking with Horn drill and fissure still gives me vietnam war flashbacks.
+
+Also don't believe the people who say the rng is rigged towards the ai as you go higher thats factually wrong
+
+(P.S. I've seen people prefer iron head over meteor mash on meta from gen 4 onwards and quick claw is 20% to activate gen 3 onwards its 23% in gen2)
+Have you tried getting gud?
+You know Paris, France? In English, it's pronounced "Paris" but everyone else pronounces it without the "s" sound, like the French do. But with Venezia, everyone pronouces it the English way: "Venice". Like 'The Merchant of Venice' or 'Death in Venice'. WHY, THOUGH!? WHY ISN'T THE TITLE DEATH IN VENEZIA!? ARE YOU FUCKING KIDDING ME!? IT TAKES PLACE IN ITALY, SO USE THE ITALIAN WORD, DAMMIT! THAT SHIT PISSES ME OFF! BUNCH OF DUMBASSES!
+Yo, that isn't an emulator. What console are you using?
+    Looks like lower screen Ds lite?
+    Most likely a Nintendo DS, I think. IIRC consoles after the DS are unable to play GBA games, it's not an SP because there are buttons besides the screen and it's not a GBA either because of the backlight, unless he customized it.
+A 0.015% chance to happen. Oof
+How are you playing this on the touch screen?
+    I think they're just doing the gba in ds with the setting on lower screen. If I remember correctly you can choose which screen to display your gba games on.
+Battle frontier always be like "Yea...yea your done this level."
+That hiker is basically every toxic Pokemon showdown player.
+Awww did you name him Venezia because the movie takes place in Pokemon Venice? :)
+Don't go to Vegas...
+It's been long known that the AI cheats in Battle Frontier/Tower/etc with significant better RNG the higher you get
+Imagine using an 85% accuracy move lmao
+I mean yes its bad rng...but some of the stuff is on you.
+Why doesnt your latias have more coverage options.
+
+Metagros should have bullet punch(or did that start in gen 4?)
+And you should rarely use low acc moves if a risk free move does the same.
+E.g. earthquake on metagross would easily have killed...heck psychocinesis would probably or the fighting move it gets
+
+And while you should avoid slacking because its not that great of a mon...the last one was unavoidable
+
+But this is 50% on  you.
+A big part of pokemon is avoiding RNG
+    Latios always has the 4 move syndrome. You can give it surf but then it loses out on ice beam or thunderbolt both very important(ice beam does ohko so you're right). Bullet punch is gen 4 yes. There are 4 rhydon sets in gen 3 frontier. 3 have horn drill of which 2 have 252 hp and atk evs and 1 has 252 atk and spdef evs. Choice band adamant metagross does 76.3-89.8% to rhydon with 252 hp. It has a 37.5% chance to ohko the spdef one. So yeah even at max attack and choice band metagross  has at best 37.5% chance to ohko rhydon, it's pretty bulky. But I do agree with your sentiment, people use iron head metagross from gen 4 onwards just for that, just not much you can do in gen 3. Im pretty sure Psychic doesn't kill plus its just gonna waste evs. Slaking is great in battle frontier cuz most battles are 3v3 and its pretty fast with 100 speed. So as long as you kill one mon, you will most likely live one hit on the truant turn cuz it has such high hp and kill 2 mons by the next turn. I used choice band hyper beam slaking and it literally OHKOs suicune.
+
+All in all avoid rng as much as possible but yeah just not many options in gen3
+        I mean slaking is okish but i feel a simple salamance is better.
+Yes your calc is correct but remember, it was already weakened and EQ or any other 100% acc move would probably have killed.
+Yes psychic is not ideal due to no split, but even that would be enough.
+Gen 3 has more limited options but enough to equip those 3 with varied enough options to have good coverage.
+            Salamence doesn't even get good stab in gen 3. The best stab it has is hp flying capping at 70bp.  Also getting choice locked on eq is terrible when 2 mons are left. But yeah if it isn't choice band then eq is obv the right move. In no scenario should you run psychic on physical meta. You're better off with explosion/eq/aerial ace or even sludge bomb. Explosion also does more than eq lol.
+I need this clip for reasons lol
+As ridiculous as it is, the odds of this happen only 1 in 5.153. Still lower than full odds shiny.
+I'm so unlucky that I would be able to miss even 100% accuracy moves.
+I’m sure that rhydon other moves were fissure and or sheer cold.
+Rhydon is weak to steel…I know quick claw makes the opponent go first, BUT, if you had used bullet punch instead of meteor mash I think you would have won this match.
+    Bullet Punch doesn't exist in Gen 3.
+Perhaps this is why pokemon should move away from turn-based combat.
+Mad cuz bad
+Grind harder bro. This used to happen to me all the time. I got fed up and grinded like crazy (+10 lvl) and beat the shit out of everyone.
+F
+It is not yet your time, go back
+My luck with every single game that has that same rng-based mechanics in a nutshell.
+Jesus Christ that’s the game working against you man
+RNGesus was not on your side today
+Lmao….. 😢
+Rhydon new meta? Lol
+I can’t tell you how many streaks I’ve lost to complete bullshit like this, Counter and Mirror Coat. Fuck those two moves
+It's insane how much the Battle Frontier cheats
+I swear the battle frontier absolutely cheats.
+Xcom: “your first time?”
+I was thinking, had to be horn drill or critical hit megahorn lol
+Anybody know if it was ever confirmed that the battle facility AI cheats in any of the games?
+Took me only 1200± hours to get all gold symbols, but now I've finished my bucket list. Not gonna lie, has some reflection moments the weeks after and I was 23.
+Random crits are fair and balanced
+How about using a fast pokemon?
+#SURRENDER?
+
+#SO SOON?
+Not worse than going in with rentals only in pokemon stadium’s R2 Pika Cup semi-final against Lass.
+That's XCO...I mean Pokemon...baby!
+I'm pretty sure the rng is broken for the AI in the battle frontier. I remember testing it at one point and concluding that it was statistically improbable that the AI had the same odds the player did. Once you get far enough in a challenge, you start to see things like paralysis from thunderbolt constantly.
+Finally! A worthy opponent! Our battle will be legendary!!
+
+No kidding I'm about as bad luck as you. I recently started a Sword shield Nuzlocke. Listen to this:
+
+First gym fight: I got crit by his Eldegoss 5/7 times. While I, who used focus energy on my opponent did 0/5 crits on that Pokemon. Got wiped. 
+
+Next run, it was after the 3rd Gym: I barely log in, first fight: 2/2 crits and I lose my Gastrodon, which I really needed up ahead. 
+
+4th gym, I get wiped by missing 3x with a 90% accuracy move and get crit 4/8 times again.... wiped again. I'm done with the Nuzlocke. My RNG in this game is soo bad .
+😅😅😅😅😅😅
+Lmao is ridiculous
+The most unlucky Pokemon battle I've ever seen lol
+0.02% chance of this happening. Unfortunate
+Alright who is going to do the math?
+People don't like the battle frontier??? Emerald had my favourite endgame of any pokemon game ever. Battle frontier was amazingly good
+Unreal. I would turn the power off and walk away for a week.
+I’m crying for you
+I feel like it was tested and found that the AI starts to cheat at a certain point in Gen 3...I'm fairly confident it does in Gen 4.
+I feel attacked.
+F. That hurts bad.
+This must be what it's like to be an NPC in the modern games.
+Bruh... the fact that you knew to video it means it's happened quite a few times
+You suck
+*"Surrender? So soon?"...* Savage af
+Lol get rekt
+This is why I never got into the frontier of any other thing like it in Pokemon. Npcs cheat.
+I never finished battle frontier because its no secret that the battles are rigged. The battle pike was decent, but everything else is just full casino system.
+This is PVZ speedrun tutorial levels of bad RNG.
+I've reached a point where I'm mildly precognitive about moves missing.
+
+Even when it's a 100 acc move, sometimes you just think:
+
+"That's going to miss, isn't it?"
+
+And then it does.
+Ah I remember using lock-on ohko Smeargles with focus bands
+The Battle Frontier isn't about winning, it's about how long you can not lose for.
+SURRENDER?
+
+SO SOON?  
+
+
+  
+
+
+LMFAO
+Im often on the less fortunate side when it comes to RNG but damn. Thats a toughie.
+Soft reset? That gloat from the hiker though.. You've got to take his money now.
+I don’t feel like doing the math what’s the chances of all this happening
+Turn 1: Shit happens
+Turn 2: You hate to see it
+Turn 3: WHAT IS HAPPENING, IS THIS REAL?!?
+Venezia? Why not Venice?
+Surrender? So soon?
+Thy have no guard ryhorn now lol
+*heavy breathing*
+That's why I use save states :P
+I once lost to a Wallrein who hit 3 out of its 4 OHKO attacks in a battle tower
+Have you tried Wobbuffet?  I cheesed many medals that way.
+How the fuck, that's not a mountaneer, that's fucking Kazuma from KonoSuba
+That's why the quote goes "I'm going to end this man's whole career"
+RIP
+Should’ve played around the crit
+The RNGods just hate you.
+Yeah you just weren't good enough at the game, get better kid lol
+I mean, I would say get faster Pokemon, but even I have to admit that is bad rng. Mostly due to the OHKOs.
+    Latios and Slaking outspeed most of the Pokemon you see in the Battle Frontier, and Metagross did outspeed Rhydon here.
+I know, Battle Frontier is just unfair.
+Game is programmed to screw you.
+Im saving for a switch so in the mean time I’m playing ultra moon battle tree. Trying to get as far as possible with my favourite shiny mons I’ve recently trained up and twice I’ve been beaten by a Ohko themed team. Aloan dugrio hitting fissure 3 times without missing ):
+this fills me with an indescribable amount of rage
+did you have earthquake or a more accurate move on metagross?
+What If ~~the coward~~ Masuda cancel Battle Frontier for ORAS because he lost to this bullshit ai he designed himself and got salty
+The odds of that happening were 2%. Damn that's unlucky.
+Angry math is part of the Battle Frontier experience.
+Man I spent so long on the battle frontier in emerald! I was only ever able to win one of the frontier sigil the entire time. It was the Seviper building, can't remember which one that was.
+The law of truly large numbers
+
+Something with one in a million chances happens to 7,800 people every day. One day,  you will find yourself in that group.
+jajaajajajaj bruuuuh
+Dude. My condolences.
+If theres a chance, it may happen
+How long was your streak?
+I’d break my DS at that point…terrible beat
+I’m about to pull out my SP/DS and play me some Emerald!!!
+As someone who attempted battle frontier winstreak wrs, this is incredibly relatable
+Hax
+Battle Frontier AI is the same level of rigging that R2 Pokémon Stadium had.
+This brings back rage of wanting to stab the screen with the stylus touch/DS pen, any time this kind of thing happened.
+That's a typical battle frontier trainer alright. The game doesn't make team comps like you do yours, to go as far as possible in the streak. They team up to try to take you down by odds (as in, if I don't take you down, maybe your next opponent will, or the one after that).
+
+That's why you see low odds items or moves like horn drill or quick claw in opponent's pokemon, because they are playing the game of odds. In 50 battles or more you do in a streak, this will happen eventually.
+
+It's a rigged system, and your team should be built around it, not just with the strongest pokemon. Not 100% accuracy moves are a bad idea, and you should also get a move that never misses like aerial ace, for the evasion pokemon you'll eventually find
+🤬
+nice think
+In 500+ hours, really unlikely things become likely to happen at some point
+Master-level trolling by GF at the end there.
+that is super unlucky
+There is a not-so-secret constant in the Battle installations from all games that makes it so the longer your streak goes, the more will the odds be stacked against you, in an attemp to prevent endless streaks.
+
+This was horrible to watch tho. Holy-
+F
+The house always wins.
+One of those moments where the game gains sentient and gives you the biggest middle finger possible.
+I did only about 300 hours on the cartridge for battle frontier in emerald. 
+
+I played on an emulator (in school) and was able to state save and re-roll battles without breaking streaks (I would break up to 6 wins but not 50 at a time). The battles also took less time because I sped them up. I got all of the gold symbols in about 2 days. The hardest part is having to save before each set. Without that single condition the entire frontier would be a cake walk.
+Looks like rubberbanding to me
+Fucking way she goes bubs.
+I’d cry
+Battle Frontier is the one area I never completed as a kid on my emerald. I had done everything but this because RNG always worked against me there. I even had the same team set up.
+Welp, with 500+ hours is almost certain that you're gonna face stupid luck from the AI. Blame mathematics lol
+Dude I fucking feel your pain I'm dealing with this in the Omega Ruby Battle Frontier rn
+Is the base level for frontier really 80 in Emerald??
+    It's 50 or open level. Open level makes the opponents the same level as your highest Pokemon, or 60 at the lowest.
+F
+Shit like that makes me take a break for awhile
+I mean....yeah so 6.75% chance right. So....over many many battles. You're gonna see it happen a few times.
+werster having the only 100% battle frontier speedrun speaks volumes of what kinds of nightmares that place puts you through
+Italy?
+Are you raising EVs? Cause that seemed off.
+Good lord. I would have torn out one of my own limbs.
+We call it the 'Hax Tower' for damn good reasons. ~~Also a big reason why I'm not interested in any BT-like stuff in the games...~~
+I feel like replaying gen 3 for the 300th time
+50/50
+That Rhydon is rude af, seriously.
+Rage inducing
+The battle frontier in gen 3 is toxic as hell
+I love how hard Emerald's BF can get
+The game absolutely refused to let you when in the moment.
+F
+u/savevideo
+To be fair, you misplayed using meteor smash with metagross, still very bad luck though
+Chances might be low, but they are nowhere near 0.
+Don’t know why Lati didn’t have surf
+Thats why I always bullshit those with 1 hacked Pokémon in reserve. 
+
+My choice is a Electavire with wonder guard and a air balloon. Or a Magmorter with wonder guard and burn up. Usually with 2 good moves and lock on with a few OHKO moves.
+
+I get that the game is programmed to get harder but there is a difference in being hard and the RNG being against you.
+Well, you know what they say, if the move isnt 100% accurate its 50% accurate
+That Hiker was out for blood
+That rhydon ain't playin
+That’s a 621/3,200,000 chance of happening. I may have done the math wrong, but I think that’s right.
+with emerald as my favorite pokemon game, GOD I FEEL THIS SO HARD THE PAIN IS INFINITE
+That's bullshit
+I’m replaying emerald and I just finished building a team for the battle frontier. Oh boy
+Call officer Jenny.
+That's just sad! I always had problems with the Seviper pit😅
+Whats with all the funny names?
+The them towers and frontiers n what not definitely know when to start sliding the scale 😁
+I'm just impressed you're still going strong on it.
+That’s rough buddy
+Our condolences... We all feel your excruciating agony and many of us can relate.
+Damn, triple Homicide
+No one beats action replay.
+I’m proud of you for making it as far as you did. 
+
+F
+Thats infuriating
+Sad
+Ooo that was rough. Those poor pokemon got Rydon clapped.
+Man I REALLY hope they bring battle frontier back
+Wtf bruh
+That hiker is obviously the protagonist
+Now I want to make a hold item called Plot Armor that acts like a Focus Sash lol
+
+Or maybe it'll act like a free Substitute, but only in rival/gym leader battles? Would be funny I think
+    An item that acts as a substitute would be broken/absolutely awesome. Would it like, activate when you throw it out? Or would it just tank a hit like disguise? Could you use status moves on them?(like you couldn't if it was behind a normal sub)
+Appropriate Pratchett quote:
+
+"Scientists have calculated that the chances of something so patently absurd actually existing are millions to one.
+But magicians have calculated that million-to-one chances crop up nine times out of ten."
+    ...is this the colour of magic?
+        ~~Equal Rites, in fact.
+
+Edit: messed up reference, in both Mort and Equal Rites, sources vary. Some reference to it in Guards! Guards! Too.~~
+
+Edit2: to stave off the argument, this quote in its exact form is from Mort.
+            I just read guards guards! And this page had me dying. They keep encumbering the archer to make the shot more “million to one” so it’s more likely to succeed than the “100 to 1”. Lol.
+                It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+            I can confirm it’s definitely from Guards! Guards!
+                It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+                    It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+                        [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+            I've been reading a lot of prachett lately and a form of that quote is in a lot of his books.
+                Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+                    The proper source is Colour of Magic, the earliest book in which some form of it appears.
+                        Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+    GNU Sir Terry Pratchett
+        GNU Sir PTerry
+        where do i download the latest gnu_sir_terry.tar.gz ?
+
+(I know the meaning, I just like the overlap with FOSS terminology)
+    I didn't expect to find you here, a pleasant surprise none the less
+    I see Terry, I upvote.
+60%? That’ll miss every time!
+60% of the time, it works everytime.
+“If it’s not 100 percent accurate it’s 50 percent accurate”
+    Hail yea!
+Like the time I was trying to get a Sudowoodo's HA in Pokemon X by using Trevenant Hordes. After hundreds of tries I finally got one, and there was also a shiny Trevenant in the same Horde.
+Ikr? They infuriate me so much  
+"Oh shut up you just spammed OHKO attacks don't act like you won fairly" lol
+    they have a 30% chance to land so yeah, pretty fair lmao
+        For this exact sequence of events
+
+- Psychic not critting (93.75%)
+- Mega Horn hit (85%)
+- Crit (6.25%)
+- Edit 1: *Meteor Mash miss (15%)*
+- OHKO (30%)
+- Quick Claw (20%)
+- OHKO (30%)
+
+~~The chance of this sequence happening is 0.103%.~~
+
+*Edit: After /u/murdolatorTM's corrections, the chance of this happening is 0.0143%*
+
+*Edit 2: Forgot that a crit with Psychic would have killed Rhydon, so that has to be factored in. The new number is 0.0134%*
+            Don't forget the 15% chance for Meteor Mash to miss. Also crit is 6.25%
+                Thanks, fixed!
+            How is the quick claw involved? Isn’t there some animation or text that indicates it activated? And if not, are we just assuming the Metagross had better Speed?
+                Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+                    Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+    You used your strategy with its strengths and weaknesses, and he used his strategy with its strengths and weaknesses. They have different strengths and weaknesses, sure, but it's not unfair.
+        It is unfair though because, as someone else pointed out, the opponent is not playing the same game. You are tasked with winning (however) many battles in a row. This Hiker guy is not, he is just using extremely risky moves that, if they work, will end your run, but if not he is assured of losing, which means he cannot possibly make a run himself. 
+
+For a mode like this, they should at least pretend it is a tournament or something and you should only face these kind of trainers in the first 5-10 battles (which is about as far as a guy with a team like this would make it). The opponents you face at like 30+ wins should have teams that could feasibly have also won 30+ games themselves (aka much safer moves with higher accuracy, like the player would probably have, making it more fair).
+            Except it's not meant to be like a tournament. It's meant to be more like chess puzzles, isn't it? "Here's an increasingly difficult challenge. How do you solve it?" versus "can you win this 32-man mixer?"
+Their loss quotes can be as funny too.
+I hated when they started making sense in Emerald, because they were still in all caps and made me feel like a loser.
+Yeah I remember this so well and thats why I didn't event get disappointed when the frontier wasn't in the remake. I just assumed no one liked the frontier until the remake came out.
+    There's definitely an audience for the Battle Frontier, but as Junichi Masuda touched on in an interview regarding ORAS, it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+        The biggest issue was probably that outside of the Battle Factory you really needed to grind for some good and specialized Pokémon to do well in the facilities. Espcially that one where your Pokémon acts on his own based on it's Nature or something.
+
+Every Emerald save-file I ever played I easily got Silver and Gold Medals for the Factory, and didn't bother touching anything else.
+            The only medal i ever got was for the level 50 battle pike. The pike queen’s team is the most nightmarish stall comp possible, and 12 year old me didnt know what setup was.  I still have nightmares about that shuckle
+            And of course, by the time ORAS dropped, it became so much easier to breed perfect Pokemon to be able to use in the Battle Frontier
+            This why I prefer the World Tournament in B2W2. If I'm going out, let it be to an actual Leader/Champion.
+
+The Battle Towers are predicated on random advantages - with luck you can get somewhere, but by-and-large grinding makes little difference.
+        
+> it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+
+Of course it's frustrating, it was literally designed to be frustrating. If legendaries are banned for being too strong, Moves with <60% accuracy should also be banned for the same reason. No sane person would run such moves in an attempt to win. The only reason would be if you were attempting to make the opponent lose. It's the same kind of bullshit that ends up in many other games. You have to win many, many battles in a row, but the AI only has to win 1. It always becomes inherently unfair as a side effect of developers unable to make it legitimately challenging.
+            cant forget the OHKO moves, those god dam walreins with fissure and sheer cold
+            Thankfully a lot of games give you certain ways to enhance your stats/options as you continue to grind out enemies, games like Slay the Spire, or my new favorite is the Lab mode in Legends of Runeterra. PvE in these games is entirely feasible- give temporary buffs to scale to the increasing challenge, maybe earning stat drinks that can go above usual maxes, or some sort of passive boost that applies chance of activation (like Quick Nail, a passive akin to Quick Claw on one Pokémon with a lesser ((maybe 10-15%)) chance of activation) so you don’t feel so badly targeted by weaknesses or RNG from opponents. Give lasting bonuses that apply over the whole course of a run
+        There are many things they could do. Battle frontier is the only thing their simple lazy gf brains could come up with.
+        But, I liked it (sad face).
+
+I missed the impossible challenges. I only got the silver badge for each of the seven challenges, tho.
+    I hate the RNGs especially with Quick Claw and Brightpowder...yet I still really like the challenge it brings so Hoenn Battle Frontier is 10/10 to me hehe.
+        I mostly just liked the Arena/dome whatever thing because it was the closest thing to the pokemon battles of the anime where its a big tournament and spectator event
+            I will say I have most of my time in the Battle Tower because it was SO hard to get the Gold Symbol to me...got all Silver Symbols but it's so hard to do it with Milotic/Linoone/Metagross or Flygon hehe.
+    The battle frontier and facilities in modern games is my sole reason for playing pokemon. The win streaks make it feel like a roguelike based on your pokemon teams. Felt so cheated when the battle tower in Sword/Shield didn't remove the win-streak after a loss
+    Yeah why did everyone cry about ORAS not having it? Didn’t look like fun.
+        It's my favorite pokemon game but I'm not one to beat down on what others things are fun.
+Breed a dratini with dragon breath and storm the low tier bracket.
+I swear to you, this was how Pokemon Stadium was like
+That’s one ruthless hiker
+Just to rub salt in that open wound, right?
+    That’s how you make a good barbecue
+I would’ve just used my Pokémon on the guy if this happened
+    Too late. They're all dead already.
+
+Just hope that Ryhorn doesn't look at you funny on the way out.
+        I’ll sneak revives in
+A+ smugging
+    The way he slides in from out of view too 😂
+I've been laughing at this for the past 10 minutes lmfao
+"If it's not 100% accurate, is 50% accurate"
+    So 30% accurate horn drill is 50% accurate? Wow, that's OP
+        Unless you are the one using it
+            Nah it's a balance thing: you hit it 0%, your opponent hits it 100%. So 50%
+                Quick maths
+                Aaaah, now it all makes sense
+            That's the 50% - either you're using it or your opponent is.
+            Fun Fact: OHKO moves get more accurate the higher your level is compared to your opponent, but they have a 0% hit rate if your opponent is even a single level above you.
+                It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+                    In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+                        It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+            Unless your the one using it, your chances of hitting drastic go down because you see not all moves are created equal
+    Humans are *terrible* at calculating probability - in Fire Emblem games they actually started outright fudging the numbers, [curving the probability line into an S-shape](https://www.reddit.com/r/fireemblem/comments/5ixo9v/excel_graph_showing_actual_vs_displayed_chance_to/) in order to make the outcomes “feel” more like the probabilities we perceive them as.
+
+People forget that a 30% hit or miss rate means that those outcomes will still happen just under 1 out of every 3 tries, which makes them *extremely likely to happen*.  A move with a 90% hit chance will miss about once every 10 uses, which again is fairly common, and as most moves have about 10 uses it is extremely likely that it will miss once or twice before all the uses are used up.
+*still misses*
+Brightpowder gonna clown around though
+    Ugh, the first time I got brightpowder'ed using a 100% accuracy move in the Battle Tower as a kid I  legitimately thought my game was defective. I forget what my exact streak was, only that it was my highest ever and I basically gave up trying to beat it after that. As cruel as the Frontier was though, I still miss having something that challenging to do.
+Then you get sand attacked or they use minimize, or double team. Suddenly RNGesus is back and ready to ruin your day.
+    I try to keep a couple Pokémon with Swift or similar moves that never miss.  I seriously dislike my attacks missing.
+        60 base power never miss moves gang
+            Especially on a Pokémon with Technician like Scizor.  Still pissed that Metal Claw is a 50 BP move and Smart Strike is a 70 BP move - they knew what they were doing.
+        Yes, this is why shock wave is my favourite electric move.
+            Aerial Ace has been a staple of all my teams ever since it was put in the games.  I'll have it on at least one mon for every playthrough, even if it's not a flying type, because luckily weird monster type ones like Aggron and Tyranitar can use it I'm pretty sure.
+yep. for me, no fire blast or blizzard or thunder. it's flamethrower, ice beam, and thunderbolt for me
+    The PP is really what does it for me tbh.  They only have 5 more but it's still literally double what the former have, plus they miss way less meaning that PP goes way farther.
+Thinking back to the 1/256 glitch in Gen 1
+    Gen 1 also had Speed-based evasion mechanics didn’t it?
+        I don't know about speed-based evasion but [there was a greater chance to get critical hits in Gen 1 depending on how fast your Pokemon was.](https://www.smogon.com/articles/understanding-rby-mechanics) This made both [Tauros](https://www.smogon.com/dex/rb/pokemon/tauros/) and [Persian](https://www.smogon.com/dex/rb/pokemon/persian/ou/) really useful for the Gen 1 competitive metagame.
+If you want to win 100 battles in a row, 99% isn't enough.
+I'm a firm believer in this theory. They got just way too many cheap shots like this at the higher stages
+    if it was true then we'd have complete confirmation by now so ya'll just getting fucked without lube the old fashioned way. Then again if you have 500+ hours then this is going to happen a few times.
+When I'm playing Mario Party it always feels like the RNG and dice rolls are in favour of the AI.
+    Oh they are.  Especially on the N64 games.
+    Looking at you Peach who went around the starting circle twice and just so happened to be right next to where the star switched to
+    In the original Mario Party:
+
+Whenever I have 100+ coins and 3 AI characters are broke.
+
+*Character lands on Bowser space*
+
+*Roulette lands on "Bowser Revolution*
+
+*Everybody's coins are divided up evenly*
+
+This exact sequence of events has happened too many times to count. That roulette ALWAYS lands on Bowser Revolution. Without fail.
+        This reminds me of when we landed on lucky way too many times in Mario Party 9.
+Could be. AI in gen 4 actually had higher crit rates, so it's possible.
+    Source for this? People always mention this but can never provide a source.
+
+I remember there was a smogon thread that analyzed this, and found that Gen 4 ai had higher crits, but his sample size was small and I think people debunked it? It was a while ago, I don’t really remember
+        I dunno, I'm just going off of what I remember reading, I could be wrong.
+    That's wrong
+        Well now I wanna know either way. Where's the evidence that that's wrong?
+            The other guy didn't put any evidence. In every pokemon game, the game mechanics have always been consistent for both the cpu and the player.
+                How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+                    It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+    But this is gen 3
+        The Battle Frontier AI in Emerald actually cheats too.
+            I never said it didn't, I know it's predetermined wether a move hits or not in the frontier. All I was trying to say was that this wasn't gen 4 :(
+                Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+                Can you elaborate on the predetermined bit?
+Not really, it has been demonstrated that not; the problem is that battle tower teams are super haxy (and 3 vs 3 doesn't help), and soon or later your ass is gonna be slapped according to probability.
+It's definitely impact bias.
+I swear to God that I've slept for 5 and even *6-7* consecutive turns in the Battle Frontier. I have literally never encountered this in anything else other than Emerald Battle Frontier and Elite 4 R2 in FRLG and nothing I've ever looked up about sleep mechanics ever mentions anything like this and I've lost my mind trying to figure out why it happens so soul-crushingly often when in the normal game you can wake up pretty regularly after just 2 or 3. I feel like an insane person talking about how it's real but I SWEAR you can be put to sleep for longer than the normal maximum under these conditions.
+Until the opponent uses it and it becomes almost 100% again
+    I swear hypnosis is a 100% accurate move when used by anyone but the player
+    Of course; the sample size is much much smaller.
+And a total nuke in the back to clean up like Slaking! Yeah, we're set.
+Smart strike ftw
+That’s why it’s banned in competitive play - I don’t think they even let you use it online.
+Yea not much you can do against sturdy metal burst.
+I miss a real challenge too.
+Your math is kinda wack though, because you need to exclude all battles which aren‘t even that long. A battle against a Weedle wouldn‘t get included for example.
+
+You‘d need to have 5000+ battles against the same moveset for it to happen.
+    Yeah a good chunk of battles might not include OHKOs or some teams might not have superrefective crits
+        Exactly. You could play 10 million battles against Magikarps and it‘s certain that this outcome won‘t happen.
+            Unless they hit you with that mythical OHKO splash
+    no you dont need 5k battles for this to happen  
+it can happen the literal first time
+
+on average it will just happen once per 5k. but average is irrelevant in the current battle
+        To happen on average. I thought I wouldn‘t need to explain how probabilities work
+            Your original comment doesn't sound correct though. 
+
+They are independent trials, and the outcome of one trial doesn't affect the other.
+                I explained how I meant it, can you please leave me alone for something this irrelevant now?
+        You shouldn't be downvoted. You are correct.
+
+EDIT: Actually your last paragraph is incorrect
+            You have serious issues lol
+    >You‘d need to have 5000+ battles against the same moveset for it to happen.
+
+That's not how this works. It could have happened the first battle.
+        On. Average. Again, I didn‘t expect that I‘d need to explain how probabilities work.
+            No no. Everyone is explaining how probabilities work to *you*, because *you* wrote "You‘d need to have 5000+ battles against the same moveset for it to happen." Nothing about "on average". Your statement literally says "You‘d need to have 5000+ battles against the same moveset for it to happen."
+                Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+                    >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+                        You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+                            Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                                Probabilities are an average. Percentages are averages. Ratios are averages.
+                            >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                                It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+                    Yes, so don't be surprised when people correct you when what you wrote was wrong.
+                        It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+                            >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+                            Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                                Don't write false statements and I won't call you out for being wrong.
+                                Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+You put a fiver on that at the bookies and it returns £25770... definitely crazy high
+    In this context tho, of 500+ hours, assuming a battle takes like 5 minutes on average to do (usually it’s lower tho), that’s like over 5000 battles, you’re bound to run into a game like this
+
+Ofc still not an amazing feeling when you run into a game like this but luck can’t always be on our side unfortunately
+        That's a fair point actually, damn pokemon and their RNG!
+It's steady because it's the replay, I'm sure the live version was UGLY
+It was Pokémon Stadium R2 tier bull shit.
+[deleted]
+    Yeah I'll disagree on this completely.
+
+Pokemon can be hard without bullshit, even using common pokemon with normal movesets. Most romhacks show this, and even Miltank and og Cynthia are proof that pokemon can be challenging if things are done right
+
+Difficulty through ai cheats are bullshit easy go tos by game developers. Just give the ai better combat strategies and stop acting like kids nowadays are stupid and dont enjoy hard things (or whatever that gamefreak dev said about kids and their cellphones)
+    Sir, Radical Red would like a word with you.
+See the RNG thing I could forgive for like the Battle Pike or the one where your Pokémon battle for themselves, but say the Pyramid, the Tower, the Dojo, the Dome, the Factory?  Unacceptable.
+Surrender? So soon?
+    That parting line makes me wonder if the trainer was planning on taking down the player as well, not just their Pokémon.
+That's what I was thinking, it's gotta have something that could deal that much, like psychic or earthquake.
+To be honest, that was bad choices galore, pretty sure Surf was the best play against Rhydon instead of psychic.
+
+Some calcs, No Attack EVs or Positive Natures:
+
+0 SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 372-440 (105.6 - 125%) -- guaranteed OHKO
+
+0 SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 139-165 (39.4 - 46.8%) -- guaranteed 3HKO
+
+Now, considering Max Attack EVs and Positive Nature for Latios:
+
+252+ SpA Latios Surf vs. 4 HP / 252+ SpD Rhydon: 492-580 (139.7 - 164.7%) -- guaranteed OHKO
+
+252+ SpA Latios Psychic vs. 4 HP / 252+ SpD Rhydon: 184-217 (52.2 - 61.6%) -- guaranteed 2HKO
+
+Have in mind this is max investment
+
+Also, Megahorn would have killed whether it crited or not:
+
+0 Atk Rhydon Megahorn vs. 0 HP / 0- Def Latios: 290-342 (96.3 - 113.6%) -- 75% chance to OHKO
+    I was thinking about surf as well, but didn't mention it cause it might not run it. Though I'm not sure if there's that many moves you can justify running over surf in gen 3
+        Yeah, Runing Latios with Surf is just, obvious.
+
+I responded the OP with some more calcs, might wanna check it out if you are interested, basically, he would have lost anyway, horn drill or not.
+No. It is just a myth.
+
+AI becomes smarter but that is about it.
+    Smarter? So it learns to crit?
+        First AI smashes random moves. Later it chooses to use super effective moves and switch pokemon.
+Your math is off there. Accuracy of 3/10 gives the chance of double ohko as 9/100 not 1/9. For reference 1/9 is about 11% while 9/100 is 9%.
+
+Throw in the 15% chance to miss mm and the total odds of it happening become 1.35%. quick claw at 2/10 takes that to 0.27% to happen. The crit takes it to 0.0169% chance to happen or 27/160000. This is roughly 1/5926 odds to happen.
+
+Your conclusion stands though. More likely to find a shiny.
+    Oh crap, you’re right! I was using 1/3 for the horn drill miss rate, but it’s actually 3/10. People might ask what the difference is, since it’s close enough to 30%, but 3/10 is much rarer than 1/3. You’re more likely to pull a single prize from three mystery boxes than you are to pull one of three prizes from ten mystery boxes. 
+
+So yes, 9/100 is the chances of pulling two consecutive Horn Drills, a lot rarer than my wildly off 1/9. My math must be getting rusty, lol! 
+
+Bottom line is, OP has some serious shitty luck.
+*perfect* user flair
+Cheating AI/ Artificial Difficulty is a lot of game dev's "Ol' Reliable", especially in RPG's.
+Yeah as someone who has put several hundred hours into just this game specifically, a fair challenge isn't winning 70 pokemon battles in a row. Any competitive battler would be thrilled to win 69/70 battles. That's a win rate of 99% rounding up. But in the battle frontiers eyes, a winrate of 99% isn't good enough. Start over.
+Yup just cause the city in that movie looked like Venice
+No. Every attack has a 6.25% chance to crit. I just wanted to illustrate how annoying it is when the bad luck starts IMMEDIATELY , right out the gate.
+    Ty for clarifying
+Yeah
+Rhydon wasn't faster than Metagross, Metagross just missed its attack.
+    tragic
+Looks like lower screen Ds lite?
+Most likely a Nintendo DS, I think. IIRC consoles after the DS are unable to play GBA games, it's not an SP because there are buttons besides the screen and it's not a GBA either because of the backlight, unless he customized it.
+I think they're just doing the gba in ds with the setting on lower screen. If I remember correctly you can choose which screen to display your gba games on.
+Latios always has the 4 move syndrome. You can give it surf but then it loses out on ice beam or thunderbolt both very important(ice beam does ohko so you're right). Bullet punch is gen 4 yes. There are 4 rhydon sets in gen 3 frontier. 3 have horn drill of which 2 have 252 hp and atk evs and 1 has 252 atk and spdef evs. Choice band adamant metagross does 76.3-89.8% to rhydon with 252 hp. It has a 37.5% chance to ohko the spdef one. So yeah even at max attack and choice band metagross  has at best 37.5% chance to ohko rhydon, it's pretty bulky. But I do agree with your sentiment, people use iron head metagross from gen 4 onwards just for that, just not much you can do in gen 3. Im pretty sure Psychic doesn't kill plus its just gonna waste evs. Slaking is great in battle frontier cuz most battles are 3v3 and its pretty fast with 100 speed. So as long as you kill one mon, you will most likely live one hit on the truant turn cuz it has such high hp and kill 2 mons by the next turn. I used choice band hyper beam slaking and it literally OHKOs suicune.
+
+All in all avoid rng as much as possible but yeah just not many options in gen3
+    I mean slaking is okish but i feel a simple salamance is better.
+Yes your calc is correct but remember, it was already weakened and EQ or any other 100% acc move would probably have killed.
+Yes psychic is not ideal due to no split, but even that would be enough.
+Gen 3 has more limited options but enough to equip those 3 with varied enough options to have good coverage.
+        Salamence doesn't even get good stab in gen 3. The best stab it has is hp flying capping at 70bp.  Also getting choice locked on eq is terrible when 2 mons are left. But yeah if it isn't choice band then eq is obv the right move. In no scenario should you run psychic on physical meta. You're better off with explosion/eq/aerial ace or even sludge bomb. Explosion also does more than eq lol.
+Bullet Punch doesn't exist in Gen 3.
+Latios and Slaking outspeed most of the Pokemon you see in the Battle Frontier, and Metagross did outspeed Rhydon here.
+It's 50 or open level. Open level makes the opponents the same level as your highest Pokemon, or 60 at the lowest.
+An item that acts as a substitute would be broken/absolutely awesome. Would it like, activate when you throw it out? Or would it just tank a hit like disguise? Could you use status moves on them?(like you couldn't if it was behind a normal sub)
+...is this the colour of magic?
+    ~~Equal Rites, in fact.
+
+Edit: messed up reference, in both Mort and Equal Rites, sources vary. Some reference to it in Guards! Guards! Too.~~
+
+Edit2: to stave off the argument, this quote in its exact form is from Mort.
+        I just read guards guards! And this page had me dying. They keep encumbering the archer to make the shot more “million to one” so it’s more likely to succeed than the “100 to 1”. Lol.
+            It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+        I can confirm it’s definitely from Guards! Guards!
+            It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+                It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+                    [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+        I've been reading a lot of prachett lately and a form of that quote is in a lot of his books.
+            Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+                The proper source is Colour of Magic, the earliest book in which some form of it appears.
+                    Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+GNU Sir Terry Pratchett
+    GNU Sir PTerry
+    where do i download the latest gnu_sir_terry.tar.gz ?
+
+(I know the meaning, I just like the overlap with FOSS terminology)
+I didn't expect to find you here, a pleasant surprise none the less
+I see Terry, I upvote.
+Hail yea!
+they have a 30% chance to land so yeah, pretty fair lmao
+    For this exact sequence of events
+
+- Psychic not critting (93.75%)
+- Mega Horn hit (85%)
+- Crit (6.25%)
+- Edit 1: *Meteor Mash miss (15%)*
+- OHKO (30%)
+- Quick Claw (20%)
+- OHKO (30%)
+
+~~The chance of this sequence happening is 0.103%.~~
+
+*Edit: After /u/murdolatorTM's corrections, the chance of this happening is 0.0143%*
+
+*Edit 2: Forgot that a crit with Psychic would have killed Rhydon, so that has to be factored in. The new number is 0.0134%*
+        Don't forget the 15% chance for Meteor Mash to miss. Also crit is 6.25%
+            Thanks, fixed!
+        How is the quick claw involved? Isn’t there some animation or text that indicates it activated? And if not, are we just assuming the Metagross had better Speed?
+            Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+                Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+You used your strategy with its strengths and weaknesses, and he used his strategy with its strengths and weaknesses. They have different strengths and weaknesses, sure, but it's not unfair.
+    It is unfair though because, as someone else pointed out, the opponent is not playing the same game. You are tasked with winning (however) many battles in a row. This Hiker guy is not, he is just using extremely risky moves that, if they work, will end your run, but if not he is assured of losing, which means he cannot possibly make a run himself. 
+
+For a mode like this, they should at least pretend it is a tournament or something and you should only face these kind of trainers in the first 5-10 battles (which is about as far as a guy with a team like this would make it). The opponents you face at like 30+ wins should have teams that could feasibly have also won 30+ games themselves (aka much safer moves with higher accuracy, like the player would probably have, making it more fair).
+        Except it's not meant to be like a tournament. It's meant to be more like chess puzzles, isn't it? "Here's an increasingly difficult challenge. How do you solve it?" versus "can you win this 32-man mixer?"
+There's definitely an audience for the Battle Frontier, but as Junichi Masuda touched on in an interview regarding ORAS, it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+    The biggest issue was probably that outside of the Battle Factory you really needed to grind for some good and specialized Pokémon to do well in the facilities. Espcially that one where your Pokémon acts on his own based on it's Nature or something.
+
+Every Emerald save-file I ever played I easily got Silver and Gold Medals for the Factory, and didn't bother touching anything else.
+        The only medal i ever got was for the level 50 battle pike. The pike queen’s team is the most nightmarish stall comp possible, and 12 year old me didnt know what setup was.  I still have nightmares about that shuckle
+        And of course, by the time ORAS dropped, it became so much easier to breed perfect Pokemon to be able to use in the Battle Frontier
+        This why I prefer the World Tournament in B2W2. If I'm going out, let it be to an actual Leader/Champion.
+
+The Battle Towers are predicated on random advantages - with luck you can get somewhere, but by-and-large grinding makes little difference.
+    
+> it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+
+Of course it's frustrating, it was literally designed to be frustrating. If legendaries are banned for being too strong, Moves with <60% accuracy should also be banned for the same reason. No sane person would run such moves in an attempt to win. The only reason would be if you were attempting to make the opponent lose. It's the same kind of bullshit that ends up in many other games. You have to win many, many battles in a row, but the AI only has to win 1. It always becomes inherently unfair as a side effect of developers unable to make it legitimately challenging.
+        cant forget the OHKO moves, those god dam walreins with fissure and sheer cold
+        Thankfully a lot of games give you certain ways to enhance your stats/options as you continue to grind out enemies, games like Slay the Spire, or my new favorite is the Lab mode in Legends of Runeterra. PvE in these games is entirely feasible- give temporary buffs to scale to the increasing challenge, maybe earning stat drinks that can go above usual maxes, or some sort of passive boost that applies chance of activation (like Quick Nail, a passive akin to Quick Claw on one Pokémon with a lesser ((maybe 10-15%)) chance of activation) so you don’t feel so badly targeted by weaknesses or RNG from opponents. Give lasting bonuses that apply over the whole course of a run
+    There are many things they could do. Battle frontier is the only thing their simple lazy gf brains could come up with.
+    But, I liked it (sad face).
+
+I missed the impossible challenges. I only got the silver badge for each of the seven challenges, tho.
+I hate the RNGs especially with Quick Claw and Brightpowder...yet I still really like the challenge it brings so Hoenn Battle Frontier is 10/10 to me hehe.
+    I mostly just liked the Arena/dome whatever thing because it was the closest thing to the pokemon battles of the anime where its a big tournament and spectator event
+        I will say I have most of my time in the Battle Tower because it was SO hard to get the Gold Symbol to me...got all Silver Symbols but it's so hard to do it with Milotic/Linoone/Metagross or Flygon hehe.
+The battle frontier and facilities in modern games is my sole reason for playing pokemon. The win streaks make it feel like a roguelike based on your pokemon teams. Felt so cheated when the battle tower in Sword/Shield didn't remove the win-streak after a loss
+Yeah why did everyone cry about ORAS not having it? Didn’t look like fun.
+    It's my favorite pokemon game but I'm not one to beat down on what others things are fun.
+That’s how you make a good barbecue
+Too late. They're all dead already.
+
+Just hope that Ryhorn doesn't look at you funny on the way out.
+    I’ll sneak revives in
+The way he slides in from out of view too 😂
+So 30% accurate horn drill is 50% accurate? Wow, that's OP
+    Unless you are the one using it
+        Nah it's a balance thing: you hit it 0%, your opponent hits it 100%. So 50%
+            Quick maths
+            Aaaah, now it all makes sense
+        That's the 50% - either you're using it or your opponent is.
+        Fun Fact: OHKO moves get more accurate the higher your level is compared to your opponent, but they have a 0% hit rate if your opponent is even a single level above you.
+            It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+                In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+                    It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+        Unless your the one using it, your chances of hitting drastic go down because you see not all moves are created equal
+Humans are *terrible* at calculating probability - in Fire Emblem games they actually started outright fudging the numbers, [curving the probability line into an S-shape](https://www.reddit.com/r/fireemblem/comments/5ixo9v/excel_graph_showing_actual_vs_displayed_chance_to/) in order to make the outcomes “feel” more like the probabilities we perceive them as.
+
+People forget that a 30% hit or miss rate means that those outcomes will still happen just under 1 out of every 3 tries, which makes them *extremely likely to happen*.  A move with a 90% hit chance will miss about once every 10 uses, which again is fairly common, and as most moves have about 10 uses it is extremely likely that it will miss once or twice before all the uses are used up.
+Ugh, the first time I got brightpowder'ed using a 100% accuracy move in the Battle Tower as a kid I  legitimately thought my game was defective. I forget what my exact streak was, only that it was my highest ever and I basically gave up trying to beat it after that. As cruel as the Frontier was though, I still miss having something that challenging to do.
+I try to keep a couple Pokémon with Swift or similar moves that never miss.  I seriously dislike my attacks missing.
+    60 base power never miss moves gang
+        Especially on a Pokémon with Technician like Scizor.  Still pissed that Metal Claw is a 50 BP move and Smart Strike is a 70 BP move - they knew what they were doing.
+    Yes, this is why shock wave is my favourite electric move.
+        Aerial Ace has been a staple of all my teams ever since it was put in the games.  I'll have it on at least one mon for every playthrough, even if it's not a flying type, because luckily weird monster type ones like Aggron and Tyranitar can use it I'm pretty sure.
+The PP is really what does it for me tbh.  They only have 5 more but it's still literally double what the former have, plus they miss way less meaning that PP goes way farther.
+Gen 1 also had Speed-based evasion mechanics didn’t it?
+    I don't know about speed-based evasion but [there was a greater chance to get critical hits in Gen 1 depending on how fast your Pokemon was.](https://www.smogon.com/articles/understanding-rby-mechanics) This made both [Tauros](https://www.smogon.com/dex/rb/pokemon/tauros/) and [Persian](https://www.smogon.com/dex/rb/pokemon/persian/ou/) really useful for the Gen 1 competitive metagame.
+if it was true then we'd have complete confirmation by now so ya'll just getting fucked without lube the old fashioned way. Then again if you have 500+ hours then this is going to happen a few times.
+Oh they are.  Especially on the N64 games.
+Looking at you Peach who went around the starting circle twice and just so happened to be right next to where the star switched to
+In the original Mario Party:
+
+Whenever I have 100+ coins and 3 AI characters are broke.
+
+*Character lands on Bowser space*
+
+*Roulette lands on "Bowser Revolution*
+
+*Everybody's coins are divided up evenly*
+
+This exact sequence of events has happened too many times to count. That roulette ALWAYS lands on Bowser Revolution. Without fail.
+    This reminds me of when we landed on lucky way too many times in Mario Party 9.
+Source for this? People always mention this but can never provide a source.
+
+I remember there was a smogon thread that analyzed this, and found that Gen 4 ai had higher crits, but his sample size was small and I think people debunked it? It was a while ago, I don’t really remember
+    I dunno, I'm just going off of what I remember reading, I could be wrong.
+That's wrong
+    Well now I wanna know either way. Where's the evidence that that's wrong?
+        The other guy didn't put any evidence. In every pokemon game, the game mechanics have always been consistent for both the cpu and the player.
+            How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+                It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+But this is gen 3
+    The Battle Frontier AI in Emerald actually cheats too.
+        I never said it didn't, I know it's predetermined wether a move hits or not in the frontier. All I was trying to say was that this wasn't gen 4 :(
+            Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+            Can you elaborate on the predetermined bit?
+I swear hypnosis is a 100% accurate move when used by anyone but the player
+Of course; the sample size is much much smaller.
+Yeah a good chunk of battles might not include OHKOs or some teams might not have superrefective crits
+    Exactly. You could play 10 million battles against Magikarps and it‘s certain that this outcome won‘t happen.
+        Unless they hit you with that mythical OHKO splash
+no you dont need 5k battles for this to happen  
+it can happen the literal first time
+
+on average it will just happen once per 5k. but average is irrelevant in the current battle
+    To happen on average. I thought I wouldn‘t need to explain how probabilities work
+        Your original comment doesn't sound correct though. 
+
+They are independent trials, and the outcome of one trial doesn't affect the other.
+            I explained how I meant it, can you please leave me alone for something this irrelevant now?
+    You shouldn't be downvoted. You are correct.
+
+EDIT: Actually your last paragraph is incorrect
+        You have serious issues lol
+>You‘d need to have 5000+ battles against the same moveset for it to happen.
+
+That's not how this works. It could have happened the first battle.
+    On. Average. Again, I didn‘t expect that I‘d need to explain how probabilities work.
+        No no. Everyone is explaining how probabilities work to *you*, because *you* wrote "You‘d need to have 5000+ battles against the same moveset for it to happen." Nothing about "on average". Your statement literally says "You‘d need to have 5000+ battles against the same moveset for it to happen."
+            Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+                >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+                    You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+                        Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                            Probabilities are an average. Percentages are averages. Ratios are averages.
+                        >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                            It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+                Yes, so don't be surprised when people correct you when what you wrote was wrong.
+                    It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+                        >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+                        Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                            Don't write false statements and I won't call you out for being wrong.
+                            Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+In this context tho, of 500+ hours, assuming a battle takes like 5 minutes on average to do (usually it’s lower tho), that’s like over 5000 battles, you’re bound to run into a game like this
+
+Ofc still not an amazing feeling when you run into a game like this but luck can’t always be on our side unfortunately
+    That's a fair point actually, damn pokemon and their RNG!
+Yeah I'll disagree on this completely.
+
+Pokemon can be hard without bullshit, even using common pokemon with normal movesets. Most romhacks show this, and even Miltank and og Cynthia are proof that pokemon can be challenging if things are done right
+
+Difficulty through ai cheats are bullshit easy go tos by game developers. Just give the ai better combat strategies and stop acting like kids nowadays are stupid and dont enjoy hard things (or whatever that gamefreak dev said about kids and their cellphones)
+Sir, Radical Red would like a word with you.
+That parting line makes me wonder if the trainer was planning on taking down the player as well, not just their Pokémon.
+I was thinking about surf as well, but didn't mention it cause it might not run it. Though I'm not sure if there's that many moves you can justify running over surf in gen 3
+    Yeah, Runing Latios with Surf is just, obvious.
+
+I responded the OP with some more calcs, might wanna check it out if you are interested, basically, he would have lost anyway, horn drill or not.
+Smarter? So it learns to crit?
+    First AI smashes random moves. Later it chooses to use super effective moves and switch pokemon.
+Oh crap, you’re right! I was using 1/3 for the horn drill miss rate, but it’s actually 3/10. People might ask what the difference is, since it’s close enough to 30%, but 3/10 is much rarer than 1/3. You’re more likely to pull a single prize from three mystery boxes than you are to pull one of three prizes from ten mystery boxes. 
+
+So yes, 9/100 is the chances of pulling two consecutive Horn Drills, a lot rarer than my wildly off 1/9. My math must be getting rusty, lol! 
+
+Bottom line is, OP has some serious shitty luck.
+Ty for clarifying
+tragic
+I mean slaking is okish but i feel a simple salamance is better.
+Yes your calc is correct but remember, it was already weakened and EQ or any other 100% acc move would probably have killed.
+Yes psychic is not ideal due to no split, but even that would be enough.
+Gen 3 has more limited options but enough to equip those 3 with varied enough options to have good coverage.
+    Salamence doesn't even get good stab in gen 3. The best stab it has is hp flying capping at 70bp.  Also getting choice locked on eq is terrible when 2 mons are left. But yeah if it isn't choice band then eq is obv the right move. In no scenario should you run psychic on physical meta. You're better off with explosion/eq/aerial ace or even sludge bomb. Explosion also does more than eq lol.
+~~Equal Rites, in fact.
+
+Edit: messed up reference, in both Mort and Equal Rites, sources vary. Some reference to it in Guards! Guards! Too.~~
+
+Edit2: to stave off the argument, this quote in its exact form is from Mort.
+    I just read guards guards! And this page had me dying. They keep encumbering the archer to make the shot more “million to one” so it’s more likely to succeed than the “100 to 1”. Lol.
+        It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+    I can confirm it’s definitely from Guards! Guards!
+        It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+            It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+                [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+    I've been reading a lot of prachett lately and a form of that quote is in a lot of his books.
+        Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+            The proper source is Colour of Magic, the earliest book in which some form of it appears.
+                Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+GNU Sir PTerry
+where do i download the latest gnu_sir_terry.tar.gz ?
+
+(I know the meaning, I just like the overlap with FOSS terminology)
+For this exact sequence of events
+
+- Psychic not critting (93.75%)
+- Mega Horn hit (85%)
+- Crit (6.25%)
+- Edit 1: *Meteor Mash miss (15%)*
+- OHKO (30%)
+- Quick Claw (20%)
+- OHKO (30%)
+
+~~The chance of this sequence happening is 0.103%.~~
+
+*Edit: After /u/murdolatorTM's corrections, the chance of this happening is 0.0143%*
+
+*Edit 2: Forgot that a crit with Psychic would have killed Rhydon, so that has to be factored in. The new number is 0.0134%*
+    Don't forget the 15% chance for Meteor Mash to miss. Also crit is 6.25%
+        Thanks, fixed!
+    How is the quick claw involved? Isn’t there some animation or text that indicates it activated? And if not, are we just assuming the Metagross had better Speed?
+        Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+            Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+It is unfair though because, as someone else pointed out, the opponent is not playing the same game. You are tasked with winning (however) many battles in a row. This Hiker guy is not, he is just using extremely risky moves that, if they work, will end your run, but if not he is assured of losing, which means he cannot possibly make a run himself. 
+
+For a mode like this, they should at least pretend it is a tournament or something and you should only face these kind of trainers in the first 5-10 battles (which is about as far as a guy with a team like this would make it). The opponents you face at like 30+ wins should have teams that could feasibly have also won 30+ games themselves (aka much safer moves with higher accuracy, like the player would probably have, making it more fair).
+    Except it's not meant to be like a tournament. It's meant to be more like chess puzzles, isn't it? "Here's an increasingly difficult challenge. How do you solve it?" versus "can you win this 32-man mixer?"
+The biggest issue was probably that outside of the Battle Factory you really needed to grind for some good and specialized Pokémon to do well in the facilities. Espcially that one where your Pokémon acts on his own based on it's Nature or something.
+
+Every Emerald save-file I ever played I easily got Silver and Gold Medals for the Factory, and didn't bother touching anything else.
+    The only medal i ever got was for the level 50 battle pike. The pike queen’s team is the most nightmarish stall comp possible, and 12 year old me didnt know what setup was.  I still have nightmares about that shuckle
+    And of course, by the time ORAS dropped, it became so much easier to breed perfect Pokemon to be able to use in the Battle Frontier
+    This why I prefer the World Tournament in B2W2. If I'm going out, let it be to an actual Leader/Champion.
+
+The Battle Towers are predicated on random advantages - with luck you can get somewhere, but by-and-large grinding makes little difference.
+
+> it was a feature that only a tiny number of players appreciated while the majority simply got frustrated with.
+
+Of course it's frustrating, it was literally designed to be frustrating. If legendaries are banned for being too strong, Moves with <60% accuracy should also be banned for the same reason. No sane person would run such moves in an attempt to win. The only reason would be if you were attempting to make the opponent lose. It's the same kind of bullshit that ends up in many other games. You have to win many, many battles in a row, but the AI only has to win 1. It always becomes inherently unfair as a side effect of developers unable to make it legitimately challenging.
+    cant forget the OHKO moves, those god dam walreins with fissure and sheer cold
+    Thankfully a lot of games give you certain ways to enhance your stats/options as you continue to grind out enemies, games like Slay the Spire, or my new favorite is the Lab mode in Legends of Runeterra. PvE in these games is entirely feasible- give temporary buffs to scale to the increasing challenge, maybe earning stat drinks that can go above usual maxes, or some sort of passive boost that applies chance of activation (like Quick Nail, a passive akin to Quick Claw on one Pokémon with a lesser ((maybe 10-15%)) chance of activation) so you don’t feel so badly targeted by weaknesses or RNG from opponents. Give lasting bonuses that apply over the whole course of a run
+There are many things they could do. Battle frontier is the only thing their simple lazy gf brains could come up with.
+But, I liked it (sad face).
+
+I missed the impossible challenges. I only got the silver badge for each of the seven challenges, tho.
+I mostly just liked the Arena/dome whatever thing because it was the closest thing to the pokemon battles of the anime where its a big tournament and spectator event
+    I will say I have most of my time in the Battle Tower because it was SO hard to get the Gold Symbol to me...got all Silver Symbols but it's so hard to do it with Milotic/Linoone/Metagross or Flygon hehe.
+It's my favorite pokemon game but I'm not one to beat down on what others things are fun.
+I’ll sneak revives in
+Unless you are the one using it
+    Nah it's a balance thing: you hit it 0%, your opponent hits it 100%. So 50%
+        Quick maths
+        Aaaah, now it all makes sense
+    That's the 50% - either you're using it or your opponent is.
+    Fun Fact: OHKO moves get more accurate the higher your level is compared to your opponent, but they have a 0% hit rate if your opponent is even a single level above you.
+        It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+            In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+                It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+    Unless your the one using it, your chances of hitting drastic go down because you see not all moves are created equal
+60 base power never miss moves gang
+    Especially on a Pokémon with Technician like Scizor.  Still pissed that Metal Claw is a 50 BP move and Smart Strike is a 70 BP move - they knew what they were doing.
+Yes, this is why shock wave is my favourite electric move.
+    Aerial Ace has been a staple of all my teams ever since it was put in the games.  I'll have it on at least one mon for every playthrough, even if it's not a flying type, because luckily weird monster type ones like Aggron and Tyranitar can use it I'm pretty sure.
+I don't know about speed-based evasion but [there was a greater chance to get critical hits in Gen 1 depending on how fast your Pokemon was.](https://www.smogon.com/articles/understanding-rby-mechanics) This made both [Tauros](https://www.smogon.com/dex/rb/pokemon/tauros/) and [Persian](https://www.smogon.com/dex/rb/pokemon/persian/ou/) really useful for the Gen 1 competitive metagame.
+This reminds me of when we landed on lucky way too many times in Mario Party 9.
+I dunno, I'm just going off of what I remember reading, I could be wrong.
+Well now I wanna know either way. Where's the evidence that that's wrong?
+    The other guy didn't put any evidence. In every pokemon game, the game mechanics have always been consistent for both the cpu and the player.
+        How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+            It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+The Battle Frontier AI in Emerald actually cheats too.
+    I never said it didn't, I know it's predetermined wether a move hits or not in the frontier. All I was trying to say was that this wasn't gen 4 :(
+        Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+        Can you elaborate on the predetermined bit?
+Exactly. You could play 10 million battles against Magikarps and it‘s certain that this outcome won‘t happen.
+    Unless they hit you with that mythical OHKO splash
+To happen on average. I thought I wouldn‘t need to explain how probabilities work
+    Your original comment doesn't sound correct though. 
+
+They are independent trials, and the outcome of one trial doesn't affect the other.
+        I explained how I meant it, can you please leave me alone for something this irrelevant now?
+You shouldn't be downvoted. You are correct.
+
+EDIT: Actually your last paragraph is incorrect
+    You have serious issues lol
+On. Average. Again, I didn‘t expect that I‘d need to explain how probabilities work.
+    No no. Everyone is explaining how probabilities work to *you*, because *you* wrote "You‘d need to have 5000+ battles against the same moveset for it to happen." Nothing about "on average". Your statement literally says "You‘d need to have 5000+ battles against the same moveset for it to happen."
+        Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+            >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+                You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+                    Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                        Probabilities are an average. Percentages are averages. Ratios are averages.
+                    >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                        It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+            Yes, so don't be surprised when people correct you when what you wrote was wrong.
+                It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+                    >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+                    Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                        Don't write false statements and I won't call you out for being wrong.
+                        Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+That's a fair point actually, damn pokemon and their RNG!
+Yeah, Runing Latios with Surf is just, obvious.
+
+I responded the OP with some more calcs, might wanna check it out if you are interested, basically, he would have lost anyway, horn drill or not.
+First AI smashes random moves. Later it chooses to use super effective moves and switch pokemon.
+Salamence doesn't even get good stab in gen 3. The best stab it has is hp flying capping at 70bp.  Also getting choice locked on eq is terrible when 2 mons are left. But yeah if it isn't choice band then eq is obv the right move. In no scenario should you run psychic on physical meta. You're better off with explosion/eq/aerial ace or even sludge bomb. Explosion also does more than eq lol.
+I just read guards guards! And this page had me dying. They keep encumbering the archer to make the shot more “million to one” so it’s more likely to succeed than the “100 to 1”. Lol.
+    It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+I can confirm it’s definitely from Guards! Guards!
+    It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+        It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+            [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+I've been reading a lot of prachett lately and a form of that quote is in a lot of his books.
+    Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+        The proper source is Colour of Magic, the earliest book in which some form of it appears.
+            Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+Don't forget the 15% chance for Meteor Mash to miss. Also crit is 6.25%
+    Thanks, fixed!
+How is the quick claw involved? Isn’t there some animation or text that indicates it activated? And if not, are we just assuming the Metagross had better Speed?
+    Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+        Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+Except it's not meant to be like a tournament. It's meant to be more like chess puzzles, isn't it? "Here's an increasingly difficult challenge. How do you solve it?" versus "can you win this 32-man mixer?"
+The only medal i ever got was for the level 50 battle pike. The pike queen’s team is the most nightmarish stall comp possible, and 12 year old me didnt know what setup was.  I still have nightmares about that shuckle
+And of course, by the time ORAS dropped, it became so much easier to breed perfect Pokemon to be able to use in the Battle Frontier
+This why I prefer the World Tournament in B2W2. If I'm going out, let it be to an actual Leader/Champion.
+
+The Battle Towers are predicated on random advantages - with luck you can get somewhere, but by-and-large grinding makes little difference.
+cant forget the OHKO moves, those god dam walreins with fissure and sheer cold
+Thankfully a lot of games give you certain ways to enhance your stats/options as you continue to grind out enemies, games like Slay the Spire, or my new favorite is the Lab mode in Legends of Runeterra. PvE in these games is entirely feasible- give temporary buffs to scale to the increasing challenge, maybe earning stat drinks that can go above usual maxes, or some sort of passive boost that applies chance of activation (like Quick Nail, a passive akin to Quick Claw on one Pokémon with a lesser ((maybe 10-15%)) chance of activation) so you don’t feel so badly targeted by weaknesses or RNG from opponents. Give lasting bonuses that apply over the whole course of a run
+I will say I have most of my time in the Battle Tower because it was SO hard to get the Gold Symbol to me...got all Silver Symbols but it's so hard to do it with Milotic/Linoone/Metagross or Flygon hehe.
+Nah it's a balance thing: you hit it 0%, your opponent hits it 100%. So 50%
+    Quick maths
+    Aaaah, now it all makes sense
+That's the 50% - either you're using it or your opponent is.
+Fun Fact: OHKO moves get more accurate the higher your level is compared to your opponent, but they have a 0% hit rate if your opponent is even a single level above you.
+    It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+        In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+            It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+Unless your the one using it, your chances of hitting drastic go down because you see not all moves are created equal
+Especially on a Pokémon with Technician like Scizor.  Still pissed that Metal Claw is a 50 BP move and Smart Strike is a 70 BP move - they knew what they were doing.
+Aerial Ace has been a staple of all my teams ever since it was put in the games.  I'll have it on at least one mon for every playthrough, even if it's not a flying type, because luckily weird monster type ones like Aggron and Tyranitar can use it I'm pretty sure.
+The other guy didn't put any evidence. In every pokemon game, the game mechanics have always been consistent for both the cpu and the player.
+    How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+        It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+I never said it didn't, I know it's predetermined wether a move hits or not in the frontier. All I was trying to say was that this wasn't gen 4 :(
+    Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+    Can you elaborate on the predetermined bit?
+Unless they hit you with that mythical OHKO splash
+Your original comment doesn't sound correct though. 
+
+They are independent trials, and the outcome of one trial doesn't affect the other.
+    I explained how I meant it, can you please leave me alone for something this irrelevant now?
+You have serious issues lol
+No no. Everyone is explaining how probabilities work to *you*, because *you* wrote "You‘d need to have 5000+ battles against the same moveset for it to happen." Nothing about "on average". Your statement literally says "You‘d need to have 5000+ battles against the same moveset for it to happen."
+    Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+        >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+            You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+                Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                    Probabilities are an average. Percentages are averages. Ratios are averages.
+                >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                    It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+        Yes, so don't be surprised when people correct you when what you wrote was wrong.
+            It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+                >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+                Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                    Don't write false statements and I won't call you out for being wrong.
+                    Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+It's been a while since I read that and had completely forgotten this whole mini-arc. Thanks for the fun reminder xD
+It seems to appear or is referenced in many books, which makes it really annoying to pin down, like explanations of octarine.
+    It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+        [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+Yep, it appears to be referenced in a lot of books. Sourcing the quote is hard.
+    The proper source is Colour of Magic, the earliest book in which some form of it appears.
+        Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+Thanks, fixed!
+Slaking has a base speed of 100. With zero speed IVs or EVs and a negative speed nature, it has a minimum speed of 148 at level 80.
+
+Rhydon has a base speed of 40. With 31 speed IVs, 252 speed EVs, and a positive speed nature, it has a maximum speed of 158 at level 80.
+
+So yeah, I suppose if the Rhydon was optimized for maximum speed and the Slaking was optimized for minimum speed (Trick Room Slaking? lol), then the Rhydon could have outsped the Slaking.
+    Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+Quick maths
+Aaaah, now it all makes sense
+It always amused that you just got to use it on someone 70 levels or more bellow you to guarantee a ohko
+    In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+        It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+How strange. If that's the case, why have there been so many reports of people consistently landing low accuracy moves online, yet missing every 2nd one against the AI, and the same for luck based status conditions?
+    It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+Yeah, it’s pretty clear that this isn’t gen 4, but the point was if it happens in gen 4 it can happen here too.
+Can you elaborate on the predetermined bit?
+I explained how I meant it, can you please leave me alone for something this irrelevant now?
+Again, add an „on average“ to the sentence and you wouldn‘t need to be annoying tbh. That‘s how probabilities work. They are always related to an average. Percentages for example are per hundred, 1:4000 is 1 of 4000 cases. It always applies to an average. You will need 5000 battles for it to happen once, I never stated when that one case occurs. Even if it does occur in the first battle, on average you‘d go 4999 battles without. 
+
+2 people explain it, you turn it into „everyone is explaining to you“ lmao.
+    >You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+        You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+            Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+                Probabilities are an average. Percentages are averages. Ratios are averages.
+            >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+                It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+    Yes, so don't be surprised when people correct you when what you wrote was wrong.
+        It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+            >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+            Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+                Don't write false statements and I won't call you out for being wrong.
+                Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+It is definitely from Guards! Guards! I'm not sure if it occurs in Mort or Equal Rites but I don't remember it from there.
+    [Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+The proper source is Colour of Magic, the earliest book in which some form of it appears.
+    Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+Oh I thought OP was talking explicitly about the hit on Metagross. Glad you parsed through that haha, damn
+In case you were really worried about your level 100 Rhydon not being able to kill that level 10 Pidgey with any other move. Thanks Gamefreak!
+    It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+It's just probability, soon or later you are gonna miss an attack or the cpu is gonna critical hit you; also bias, you only see when the cpu hax you, but never when you hax the cpu (you are biased to the things affecting you). In the battle tower (and frontier), the teams are super haxy: quick claws, brighpowders, double teams, OHKO moves, etc; they are made to win against you at any cost (while in story mode, they are just easy obstacles. Soon or later in your 100+ battles, a Lapras will OHKO you after a Quick claw activates, 2 times in row, the probability is low but not that low.
+>You will need 5000 battles for it to happen once, 
+
+You shouldnt state this. It isn't correct. If you say "on average" it's still not correct either
+
+Lets use 1:5000 ratio 
+
+If you do 5000 trials, you actually are 63% likely to have gotten the match, not 50%.
+    You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+        Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+            Probabilities are an average. Percentages are averages. Ratios are averages.
+        >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+            It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+Yes, so don't be surprised when people correct you when what you wrote was wrong.
+    It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+        >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+        Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+            Don't write false statements and I won't call you out for being wrong.
+            Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+[Goodreads has it as Mort](https://www.goodreads.com/quotes/95458-scientists-have-calculated-that-the-chances-of-something-so-patently), [QuotePark has it as Equal Rites](https://quotepark.com/quotes/906654-terry-pratchett-million-to-one-chances-crop-up-nine-times-out-of/), TVTropes confirms both have references to it. Guards! Guards! Has a scene acting on this quote too.
+
+Lots of quotes!
+Whilst referential mention is made to this, I think it's best to settle on the exact quote due to the large amount of dispute in the comments (just so we don't have everyone saying "it's from this!", because there are a lot of correct answers). The above quote in its entirety is from Mort.
+It was clearly designed for randomly generated playthroughs with random movesets so your level 100 magikarp can one-shot a level 30 god
+You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs. Never stated at which point the event will occur. You‘re obnoxious and annoying as hell man.
+    Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+        Probabilities are an average. Percentages are averages. Ratios are averages.
+    >You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+        It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+It’s pretty obviously implied lol
+
+You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+    >It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+    Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+        Don't write false statements and I won't call you out for being wrong.
+        Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+Well don't be so confident in something you are wrong about. 
+
+I'm sorry I like probability I guess? 
+
+I've noticed the Pokemon community doesn't know anything about it or how it works.
+    Probabilities are an average. Percentages are averages. Ratios are averages.
+>You need help in your life man. And yes, it is correct on average, that‘s what probability means. You will need 5000 battles on average so that a 1:5000 event occurs.
+
+No. That is wrong. Thats not what it means. 
+
+You are making things up, and you haven't really studied this.
+    It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+>It’s pretty obviously implied lol
+
+Oh, so I'm just supposed to assume people don't mean what their comment means?
+
+>You’re the only one in this thread that seems to be so obtusely misunderstanding his original comment
+
+"You‘d need to have 5000+ battles against the same moveset for it to happen."
+
+There is nothing to misunderstand.
+
+"You'd need"
+
+"to have 5000+ battles"
+
+"against the same moveset"
+
+"for it to happen."
+
+That's not how probability works. They even admitted it should say "on average".
+
+If they understand how probability works, then they should be more precise in their speech. Because what they said, was not correct.
+
+Instead of just taking the criticism, they are replying non stop defending their error.
+
+Obviously, they can't handle criticism.
+
+It's fine. I'll stop. No point when people don't learn anything.
+Thank you! I appreciate your comment a lot. I don‘t know why this person needs to be so obnoxious about this.
+    Don't write false statements and I won't call you out for being wrong.
+    Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.
+Probabilities are an average. Percentages are averages. Ratios are averages.
+It‘s not wrong, I just read again and it‘s in line with what I‘ve said.
+Don't write false statements and I won't call you out for being wrong.
+Reddit is a lair of the pedantic. Video game and fandom subreddits in particular. Don't take it personally, you are dealing with a minority of people talking about "independent trials" and splitting hairs on what "on average" should be taken as. Hence why you've got like 4 people doggedly correcting you and almost 100 upvotes from people that processed your likely meaning/took your stated meaning at face value.

@@ -62,12 +62,14 @@ def main():
     destination_path = initial_path + folderName + "/"
     os.makedirs(destination_path)
     print(f'\nFiles will be saved in: {destination_path}\n')
+    print(source_path)
 
     #opening file containing reddit links
     with open(source_path) as file:
         reddit_links = file.readlines()
     #save the data of each linked post into their respective files
     for link in reddit_links:
+        print(link)
         save_post_data(link, destination_path)
 
     #finished!

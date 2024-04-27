@@ -30,6 +30,11 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * The `PseudoWatson` class represents a Watson-like search engine that performs queries on an index
+ * and compares the retrieved answers with the expected answers. It uses Lucene's query parser and
+ * EnglishAnalyzer for parsing English text.
+ */
 public class PseudoWatson {
 
     boolean indexExists = false;
@@ -58,28 +63,30 @@ public class PseudoWatson {
         //config = new IndexWriterConfig(analyzer);
     }
 
+    private class ResultClass {
+        Document DocName;
+        double docScore = 0;
+    }
+
 
     /*
      * This function is used to perform different queries on the index
      * using lucene's query parser and build the list of resulting
      * documents hit by the query and their scores.
-     * @param query: The query to be run
-     * @param altSimilarity: The flag to indicate if the similarity is to be changed
+     * @param query: The query to be run on the index
      * @return List<ResultClass>: The list of results
      */
-    private List<ResultClass> runQuery(String query, Boolean altSimilarity){
+    private List<ResultClass> runQuery(String query){
         List<ResultClass>  results = new ArrayList<ResultClass>();
-        parser = new QueryParser("text", analyzer);
+        parser = new QueryParser("docContent", analyzer);
         Query q;
         try {
             q = parser.parse(query);
             System.out.println("Query: " + q.toString());
             IndexReader reader = DirectoryReader.open(index);
             IndexSearcher searcher = new IndexSearcher(reader);
-            if(altSimilarity) {
-                searcher.setSimilarity(new BM25Similarity());
-            }
-            TopDocs docs = searcher.search(q, 1000);
+            searcher.setSimilarity(new BM25Similarity());
+            TopDocs docs = searcher.search(q, 10);
             for (ScoreDoc scoreDoc : docs.scoreDocs) {
                 Document doc = searcher.doc(scoreDoc.doc);
                 ResultClass result = new ResultClass();
@@ -89,29 +96,153 @@ public class PseudoWatson {
             }
             reader.close();
         } catch (ParseException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        System.out.println("Found " + results.size() + " hits");
+        int hits = results.size();
+        System.out.println("Found " + hits + " hits");
+        int i = 0;
         for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
+            //System.out.print(res.DocName.get("docName"));
+            //System.out.println(", Score: " + res.docScore);
+            i++;
+            if(i == 10){
+                break;
+            }
         }
         return results;
     }
+    /**
+     * Reads a text file and extracts answers and questions.
+     * Performs queries on the index and compares the retrieved answers with the expected answers.
+     * @param filePath the path of the text file
+     * @param scanner the scanner object to read user input
+     */
+    private void processQuestions(String filePath, Scanner scanner){
+        ClassLoader classLoader = getClass().getClassLoader();
+        File file = new File(classLoader.getResource(filePath).getFile());
+        List<ResultClass> results = null;
+        ResultClass topAnswer = null;
+        try {
+            Thread.sleep(1000);
+            BufferedReader reader = new BufferedReader(new FileReader(file));
+            String line; // The line being read from the file
+            String query = null, answer = null; // The query and the expected answer
+            while((line = reader.readLine()) != null){
+                // If the line is not empty, it is either a query or an answer
+                if(!line.isEmpty()){
+                    if(query == null){
+                        query = line;
+                    }
+                    else{
+                        answer = line;
+                    }
+                }
+                // If the line is empty, it is the end of the question
+                else if(line.isEmpty()){
+                    // Perform the query
+                    results = runQuery(query);
+                    System.out.println("Query: " + query);
+                    System.out.println("\nRunning Watson...\n");
+                    Thread.sleep(1500);
+                    // If there are results, get the top answer
+                    if (results.size() > 0){
+                        topAnswer = results.get(0);
+                        String docName = topAnswer.DocName.get("docName");
+                        System.out.println("Retrieved answer: " + docName);
+                        // Compare the top answer with the expected answer
+                        if(docName.equals(answer)){
+                            System.out.println("Correct!");
+                        }
+                        // Ask the user if they want to see alternative answers
+                        else{
+                            System.out.println("Incorrect!");
+                            System.out.println("Expected answer: " + answer);
+                            System.out.println("\nWould you like to see alternative answers? (y/n)");
+                            String alt = scanner.nextLine();
+                            // List up to 3 alternative answers
+                            if(alt.equals("y")){
+                                System.out.println("Here are some alternative answers I found:");
+                                int i = 1;
+                                while(i < 4 && i < results.size()){
+                                    System.out.println(results.get(i).DocName.get("docName"));
+                                    i++;
+                                }
+                            }
+                        }
+                        
+                    }
+                    // Reset the query and answer for the next query
+                    query = null;
+                    answer = null;
+                    System.out.println("\nContinue? (y/n)");
+                    String cont = scanner.nextLine();
+                    if (cont.equals("n")){
+                        break;
+                    }
+                    Thread.sleep(1000);
+                }
+            }
+            reader.close();
+        }
+        catch (IOException e){
+            e.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+
+     /**
+      * Old implementation of processQuestions
+      * Reads a text file and extracts answers and questions.
+      * @param filePath the path of the text file
+      * @return a HashMap containing answers as keys and a list of questions as values
+      */
+    /*private HashMap<String, List<String>> processQuestions(String filePath) {
+        ClassLoader classLoader = getClass().getClassLoader();
+        File file = new File(classLoader.getResource(filePath).getFile());
+        HashMap<String, List<String>> data = new HashMap<>();
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(file));
+            String line;
+            String answer = null;
+            List<String> questions = new ArrayList<>();
+            while ((line = reader.readLine()) != null) {
+                if(line.isEmpty() && answer != null){
+                    data.put(answer, questions);
+                    answer = null;
+                    questions = new ArrayList<>();
+                }
+                else if (!line.isEmpty()) {
+                    if (answer == null) {
+                        answer = line;
+                    } else {
+                        questions.add(line);
+                    }
+                }
+            }
+            if (answer != null) {
+                data.put(answer, questions);
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return data;
+    }*/
 
     public static void main(String[] args) {
-        String indexFilePath = "testindex";
+        String indexFilePath = "watsonindex";
         PseudoWatson watson = new PseudoWatson(indexFilePath);
         try {
             IndexReader reader = DirectoryReader.open(watson.index);
             for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
-                System.out.println("text: " + doc.get("docData"));
+                //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
             }
             reader.close();
@@ -119,19 +250,12 @@ public class PseudoWatson {
             e.printStackTrace();
         }
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the query: ");
-        String query = scanner.nextLine();
-        List<ResultClass> results = watson.runQuery(query, false);
-        for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
-        }
-        System.out.println("Enter the query: ");
-        query = scanner.nextLine();
-        results = watson.runQuery(query, true);
-        for(ResultClass res: results){
-            System.out.print(res.DocName.get("docName"));
-            System.out.println(", Score: " + res.docScore);
+        System.out.println("Welcome to Pseudo Watson!\nWould you to like to play? (y/n)");
+        String play = scanner.nextLine();
+        if (play.equals("y")){
+            System.out.println("Great! Let's get started!");
+            System.out.println("\n--------------------------------------------\n");
+            watson.processQuestions("questionBank.txt", scanner);
         }
     }
 

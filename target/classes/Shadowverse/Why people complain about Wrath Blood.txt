@@ -1,0 +1,250 @@
+[[Why people complain about Wrath Blood]]
+
+
+I see a lot of people complaining about Wrath. "It's an overtuned braindead deck! I hate that noobs spam it on ladder and beat me without skill."
+
+I see other people complaining about the complainers. "What's the problem with Wrath? It's win rate isn't great, it doesn't get long win streaks, and it gets farmed by other top decks unless it highrolls."
+
+Look. Wrath isn't the worst problem ever. But it clearly DOES have a problem. And it isn't just its win rate. 
+
+The problem is many Wrath games are painfully unfun. To play it or to play against it. And since it is very common on ladder, that's a big fraction of ALL games.
+
+I tried playing Wrath and had a great win rate. But it was so unfun I couldn't stand it and went back to other decks. It's almost as unfun and uninteractive as Pazuzu blood was. Can you imagine if Pazuzu had a 33% play rate on ladder and a 60% win rate? It would be awful for everyone. 
+
+It is great that they made a newbie-friendly deck that is easy to build with a high win rate, but come on, make it fun! I have more fun playing Artifact Portal and Big Haven, and their win rate sucks in comparison!
+
+There are two big reasons Wrath is unfun for both players.
+
+(1) A lot of Wrath games have little agency for either player
+
+You can only have fun if your decisions affect the outcome. But a lot of Wrath games have few meaningful decisions for EITHER player. If I drew enough early Chimeras, I won so easily and overwhelmingly it was sickening. There was nothing my opponents could do, for almost all decks and crafts (with few exceptions like Machina Shadow). If I didn't draw an early Chimera and my opponent did in the mirror, it was the opposite.
+
+Those were a LOT of games. Even if your win rate is 60% on average, a lot of the individual games had 90% win rate (unfun) or 20% win rate (unfun) depending on your draw order. And both you and your opponent know it early in the game, as soon as they see if you get early Chimera fuses.
+
+What makes it worse is the slow inevitability. They see you fuse two Chimeras and have to surrender immediately or else play through a bunch of turns pointlessly. Watching me fuse again and again and knowing everything they were doing wasn't going to affect the outcome.
+
+What makes it even worse is it isn't TOTALLY inevitable. I might screw up, or my chimeras might now draw into more face damage. If they play really well they can eke out a few points of win %. So they have an incentive to keep playing...and probably waste several minutes of their lives in hopeless struggle.
+
+This exact problem happened in other games too. In Hearthstone there is a classic example: [Caverns Quest Rogue](https://www.youtube.com/watch?v=2uBUa2lplAs). Just like now, people said "Why are you complaining? There's no need to nerf it! The deck is bad, its win rate is 50%!". The problem was how it got that 50%. Some games you completed your quest early then inevitably won. Other games you didn't draw the right combination of cards and your deck was weak and powerless. You and your opponent had nothing interesting to do. Most games you were just praying for good draws while your opponent was watching your Solitaire. Unfun.
+
+(2) High power concentration in a few cards makes Wrath decks boring and games too samey
+
+The deck's game plan concentrates on a few super powerful cards. Chimera, Rondo, Hedone, somewhat Snipe. In theory, that could still be fun. But not THESE cards.
+
+They don't need much strategy. They don't need to be played in tricky combos or with synergy, and can't be interacted with by most opposing decks. You don't even need to make tradeoff decisions, like do I use this card to go face vs. deal with enemy board vs. heal. They all do uninteractive face damage + clear the board at the same time, and some heal too. Sure they need Wrath to be active, but you don't need to run many self-pings since the current package is so consistent at getting Wrath on turn 3-4.
+
+So the optimal build of the deck is to pack it with as many boring draw cards as possible. To draw to your few power cards, then kill with a few turns of uninteractive board wipes + face damage + heal. A wrath deck running Blood Pact and Asuka and Shiori? Seriously? They don't synergize much with the rest of your deck, they don't do anything interesting on board, they just spend play points to draw to your good cards. Most decks can't even punish you for this since you follow up with cheap board wipe + heal. Chimera and Rondo even draw into more cards on their own, so once you get 1-2 of them you can just keep chaining more.
+
+This makes games boring and samey for both players. You just try to draw your good cards. You don't have to figure out how to win in new situations, with a variety of cards, while you and your opponent have to consider each others moves and play around each other's game plans.
+
+
+
+So what is the solution? I am sad they aren't addressing this directly in the patch. Hopefully they buffed other decks enough that Wrath will be less played, but that won't make Wrath games any more fun for either player.
+
+If I was fixing Wrath, I would even out the power level of the cards and make Chimera's power not require you to draw it super early. E.g.:
+
+* Let you full discount Chimera immediately even if you draw it late in the game (fuse multiple cards at once to stack discounts). But make it less impactful, e.g. you can only discount it to 3pp, or it only deals 4 + heals 4.
+* Rondo and/or Hedone deal less face damage. So they are less all-in-one solutions for board clear + face damage.
+* Compensate for the above by buffing subpar Wrath cards so they can contribute to the kill and are worth running (e.g. Croupier, Dice Devil, etc.). And something strategic, not just more uninteractive face damage. E.g. give them Storm in Wrath, or deal a pool of damage to enemies, so there is some counterplay (wards, big boards) and counter-counterplay (play them on the same turn as board wipes) that requires some strategy (play a board wipe now vs. save it to help push more face damage on a later turn).
+* Make Devilish Nurse not suck so you can run an actual wrath follower in your draw engine (e.g. 3pp 2/2 -> 2pp 1/1 with rush, or some bonus effect when you are in Wrath like Maestro had).
+
+
+Mana cheating is often the most frustrating thing in games, specially if they're reliant on draw order like Chaotic Chimera and Spellboost a lot of times.
+
+
+Also, the constant spam of board clear + healing + burn is really dumb.
+The deck often feels solitaire because theres little to no thought when you draw well, it's simply complete a quest, spam payoffs and eventually you'll have dealt enough damage to win.
+
+
+As much i disliked Garodeth for being 11 damage for 4pp, that at least required planing and setup.
+Current wrath feels absurdly braindead if you get Weapon Tamer early and Chimeras by turn 4.
+Not to mention Garnet Rondo reseting the board while drawing, healing and burning to get your chimera fusions...
+
+
+I simply despise how much some of the cards do. Cut off some of the effects for gods sake. Not everything needs 4-5 effects
+    Yeah, I agree. Garodeth was much more interesting. Each card could only do some things, so you had to make lots of decisions. Like do you save Vania for her full evolve effect, or play her on turn 2 to get her 0pp spell to go for an early Garodeth in a few turns? Can you afford to take a turn off to play Enchanting Rhapsody, to get a 0pp Diva so your later Garodeth turn does more damage? Do you use an evolve point now, or save it to use later with a Raging Commander to clear the board for Garodeth to go face? Etc.
+
+The only strong board clear + heal + face damage card it had was Howling Demon. And even then, it did its face damage with Storm, not directly. So you could sometimes block the face damage by sticking a 6 defense follower with Ward, or that was too threatening for them to leave up. And Howling Demon cost a full 5pp, not the effective 3pp of Rondo or 0pp of Chimera. So it took all/most of your turn. You had to use it as more of a midgame stabilization play, you couldn't use it in your max damage Garodeth kill turn. 
+
+Whereas the current Wrath can throw their best damage cards at the opponent without planning too much, they all clear board and go face at the same time.
+        It's funny that even with Howling Demon taking your whole turn it got some criticism for being one of many boardclears that is also proactice AND heals for no reason.
+Now Hondo is straight up better 99% of the time because of the draw and pp recovery.
+
+I really hope this is just a case of they going wild with the last expansion and not being a preview of World Beyonds.
+I REALLY don't want this kind of do everything design...
+            There were people who think howling demon is overtuned? In the same expansion where yuri rune exists? (and got buff with him for some reason) Lmao.
+We don’t have a good aggro deck in the meta. Area clear and healing are so easily obtained and so powerful that aggro decks don’t have room to breathe.
+
+Wrath hates aggro decks and without one to check wrath it just runs rampant
+
+Wrath’s other weakness is no otk power - especially in this meta with so many medical miracle decks, damaging 10-12 over 2-3 turns is no longer enough to guarantee victory.
+    - Wrath isn't particularly weak to aggression because Rondo and Chimera heal too much, too early. Piano and Temptress also solve that, along with Twins going 2nd.  
+
+- Wrath definitely has OTK potential and a lot of games go down that road on Ratings. Part of the meta plays now is to try to put pressure on Wrath to force them to play 3-6PP Chimeras so they cant hoard an OTK, but against more passive decks, it's not uncommon for Wrath to deal 19-22 dmg on 7-8 (so on a similar timer as dedicated OTK decks like Ladica and Spellboost).  
+
+As for OP, they have some good points, and Chimera is definitely overtuned, but I think they also underestimate the skill ceiling of the deck and of other meta decks when played against it. For instance in a lot of Wrath mirrors, Chimera isn't even relevant.
+        Natura sword easily win t4-5 against so it's just false wrath heal come late enough for aggro to smack them the issue is sword is bad against everything else
+            This was true until Blood started running Temptress. Decent players wiill also mull for Piano in that matchup. It's still possible for Sword to win but I wouldn't call it "easy", I don't even think it's favored.
+        yeah most wrath mirror ends t4-5 before chimera can hit the board unless both player lack other payoff.
+    That is a good point! Even with 7 self pings there aren't decks with enough early aggression to can take advantage of it and kill you, especially if you can fit in heals + clears each turn like Temptress into Rondo into Chimera etc. 
+
+Maybe if Portal and Sword aggro decks were stronger it would push down Wrath. As it is, one of the best punishes is actually Shadow with Minthe->Lubelle's 13 damage that exactly kills them after they get Wrath. So unfortunately the Shadow deck that is already the best against it defensively is also one of the best against it aggressively.
+
+The OTK weakness I agree with, but I think Wrath can get around this with playstyle to some extent. When I tried Wrath I was able to win surprisingly often against heal-heavy decks by saving up 2 Chimeras until they were very low cost and then doing an OTK. Or doing a 2 turn kill with loads of damage each turn (like Chimera + Rondo + Hedone into Rondo + Hedone + Snipe, or something).
+    ☝️This right here. Aggro decks keep the BS do nothing for 5 turns decks on their toes. Without them wrath and other decks like it tear through weaker decks unchecked.
+Dunno why you got downvoted but I completely agree. Thankfully I haven’t been running into it as much recently.
+    Cause we're card game player he knows damn well we don't read that much
+I mostly agree, but you are buffing the wrong things in exchange. Rogue & Verte would be the main buff target, mostly lower cost to get the leader effect earlier.
+    That's a good idea too! 
+
+That actually would also give the same benefit I was looking for, by making your little self-ping activators stay relevant in the late game by using Rouge & Verte leader effect to push some damage. Unlike the current deck where they are mostly just fusion fodder once you are in wrath.
+You are so right, in pointing out Wrath's problem isn't strictly its raw numbers.
+
+Many complaints about Wrath point out how low-risk the deck is, despite the premise of Bloodcraft as a class. Maybe halving Chimera's healing to 3, or removing it entirely, would be a good start.
+
+That said, the arguments you gave describe most Unlimited decks as well. And would still be true lmao.
+    I agree, a lot of Unlimited decks are like this too. Sometimes there is a rock-paper-scissors meta where the game feels 80% decided at the start of the game by your class vs. your opponent's class (or if it is a mirror, by who goes first (Wrath) or draws their key matchup cards first (Heal Haven)). Then the players' decisions during the game only contribute the other 20%.
+
+At least in UL the unfun cases don't feel quite as bad to me, since MOST decks are capable of that kind of BS so at least both players have a chance of pulling it off (instead of only the Wrath player), plus UL decks kill quickly so it doesn't draw out the win over many turns (instead of the ticking clock that is Chimera).
+
+Also, usually there are a couple of UL decks that still give pretty consistently fun games against most opposing decks, by being flexible with the ability to counterplay vs. multiple popular decks, put in a few tech cards to adapt, etc. E.g. Earth Rite. I haven't played recently, but it was fun last meta. It could play aggressively with Contractor and damaging earth rites, could play defensively with Riley and Pascale, could also use Pascale to make giant boards, could block OTKs with Astrological Sorcerer and Forbidden Darkmage, could OTK itself with Darkmage, could do an alternate OTK through damage mitigators like Realm or Repose by using Undying Witch effect + Orichalcum Golem with a big stack, etc.
+
+It looked like Armed Dragon and Rally Sword were going to be like that after the huge buffs they got, but I don't know about the current meta.
+You pretty much described the problem with the entire class concept lol.
+
+Vengeance <- A mechanic that was shortsighted in terms of powercreep. And so to make it viable, they made effects that artificially activated it. But the thing is, the entire concept of vengeance is to become super strong "when low on health". And that reasoning allowed for their cards to be "very strong since they are weak". Once cards that removes the mechanic's limitation arrived. They became auto-includes in every blood deck along with every egregious card that could abuse it.
+
+Wrath is a also like that but kinda worse (balancewise). While Vengeance still "technically" takes a risk due to low hp (unless you play activate for rest of match card.) Wrath just needs to ping 7 times and is active for everything else. Also the goal of "7 selfpings" contributes to why every match feels the same. To pop off as fast as possible, you need to play the best self pinging cards available without fail. So while every other class may play the same way after certain turns, (like heal haven playing elluvia on t4), blood plays pretty much the same way throughout the match. -> Small self pings T1-3. Then anything that is capable of dealing the biggest damage that you can currently afford.
+
+Another thing to note are that these are "early game" mechanics. Aka aggro, whose goals are to end games before their opponent comes online. Now with these mechanics in play, both people will "arguably" be at low health. Which means that as the mid game starts, bloodcraft would be at a disadvantage. Which isn't really fun if it means everything they did was for naught.
+
+So Cygames made them finishers.
+
+And to stay on flavor they tied these finishers to theses 2 mechanics that the opponent cannot influence.
+
+Galom, Chimera, Dark Feast Bat, Hedone etc. All basically unstoppable finishers tied to uninfluenceable mechanics to end games before they can began and are must includes in every game blood plays or else they'll never be able to win a game as well. Which would admittably be unfair to blood players.
+
+To summarize the entire class's identity boils down to "I'll do my own thing, and then you die" when it's viable or "I'll do my own thing and kill myself faster for you" when it isn't. Which needless to say is a boring experience regardless of winrate for all involved since that means that every match with them was already decided from the start.
+
+Probably the reason why Cygames isn't bringing it to WB honestly. (Though they totally still could have if they bothered to just change their mechanics for the new game)
+ Fun is subjective.   
+If Wrath Blood were boring for everyone, there wouldn't be so many people playing it.
+    Not just fun, some people just play whatever’s meta to win, they could care less about what’s “fun”, only about what’s strong then hop over to the next best thing after.
+    Sure, but I think a lot of its popularity is because it is accessible (easy to craft and play) and gives you a lot of in game rewards (high chance to win, good to climb ladder and get gold from daily missions). Not so much because it is giving you a lot of fun from the gameplay you are doing to get those rewards.
+
+Like, I am not saying Wrath is no fun at all to play. Some of its decisions can be interesting, especially in the early game balancing self-pings vs. draw, or deciding which card to fuse. Some players may really like those decisions. But given the problems I mentioned, I don't think most Wrath players are using the deck just because of fun gameplay.
+
+Also, even if a bunch of people find Wrath fun to play, it doesn't feel fun to play against. Since there isn't much you can do to interact with their game plan (unless you are one of the very few decks with meaningful counterplay like Machina Shadow). I would like it more if the popular decks are both fun to play and fun to play against.
+        > Also, even if a bunch of people find Wrath fun to play, it doesn't feel fun to play against.
+
+What deck is fun to play against? Forest where you they boardlock you with 0-1 attack guys? Shadow where they put up a bunch of 1-2 power annoying wards you have to fight through? Spellboost where they largely do nothing besides clear your board every turn until they have an OTK from 20? Big Dragon where we roll the casino of how much ramp they drew and which cards their Relic Dragon hits?
+        Wrath is just a reflection of the core problems of the game,   
+if you remeber a bit there was a deck almost identical to wrath or even better   
+skullfane/crystalize heaven except wrath has almost no board presence, his healing is tied to their win cons and is vulverable to aggro and can be outhealed if not highroll, in the end wrath isn't much different than your usual meta deck
+            Yeah, true. I had the same complaint about Skullfane+Crystallize too. A huge % of variance in its win rate is just whether you draw Skullfane in the first 3 turns. Also about Skeleton Raider before that, and Absolute Tolerance and certain Skybound Arts cards before that.
+
+I guess game designers like that design pattern because they can give people cool powerful feeling experiences when their deck highrolls (when you draw the card on time), without making the deck OP in terms of win rate (since you usually lose the other games when you don't draw it on time). 
+
+I think the problem is when the 'early draw advantage' comes from cost discounting (like Chimera and Skullfane). A normal card has an inherent power limit to drawing multiple copies. If you spend your pp playing one copy, you have less pp to play the other copies + do other actions on that turn. But discounted cards don't have this power limit. Once you discount them you can play them all together on the same turn. If one copy is strong, then there is always an inherent 10-20% of games where the deck draws 2+ copies and mega highrolls and the opponent can't do anything about it. If every deck in the meta is like this, that means \~1/3 of games are just non-games.
+
+The good thing is that it isn't a flaw built into Shadowverse. They don't HAVE to design cards with this pattern. Also, there are usually some good meta decks that are much less dependent on early draw order. But you are right that sadly they usually have 1-2 decks like this in every meta. So maybe they will keep doing it. It's too bad!
+    Ironically enough, I agree that Wrath blood can be fun despite my dislike of it being played in meta.
+
+It's only really fun when I don't include any of the meta cards though.
+
+Honestly wrath's fun for me comes from it's synergies. Like that 3pp Condemned tutor that pings aoe when you ping yourself? It was always so cathartic for me when I play that and a piano and watch as it pings the enemy board away. Then watch my piano evolve and strike the last enemy follower to heal me a bit like the effects were dominos chaining into each other. There are also tons of interesting chaining effects as well like, Rouge and Verte that furthers extends the chains of effects.
+
+The finishers used in meta though? Bleh. They are all just massive face and board damage which is boring for all involved and feels like cheating. (basically potential of fun is replaced by just going for uncounterable numbers)
+Yeah, I agree. Garodeth was much more interesting. Each card could only do some things, so you had to make lots of decisions. Like do you save Vania for her full evolve effect, or play her on turn 2 to get her 0pp spell to go for an early Garodeth in a few turns? Can you afford to take a turn off to play Enchanting Rhapsody, to get a 0pp Diva so your later Garodeth turn does more damage? Do you use an evolve point now, or save it to use later with a Raging Commander to clear the board for Garodeth to go face? Etc.
+
+The only strong board clear + heal + face damage card it had was Howling Demon. And even then, it did its face damage with Storm, not directly. So you could sometimes block the face damage by sticking a 6 defense follower with Ward, or that was too threatening for them to leave up. And Howling Demon cost a full 5pp, not the effective 3pp of Rondo or 0pp of Chimera. So it took all/most of your turn. You had to use it as more of a midgame stabilization play, you couldn't use it in your max damage Garodeth kill turn. 
+
+Whereas the current Wrath can throw their best damage cards at the opponent without planning too much, they all clear board and go face at the same time.
+    It's funny that even with Howling Demon taking your whole turn it got some criticism for being one of many boardclears that is also proactice AND heals for no reason.
+Now Hondo is straight up better 99% of the time because of the draw and pp recovery.
+
+I really hope this is just a case of they going wild with the last expansion and not being a preview of World Beyonds.
+I REALLY don't want this kind of do everything design...
+        There were people who think howling demon is overtuned? In the same expansion where yuri rune exists? (and got buff with him for some reason) Lmao.
+- Wrath isn't particularly weak to aggression because Rondo and Chimera heal too much, too early. Piano and Temptress also solve that, along with Twins going 2nd.  
+
+- Wrath definitely has OTK potential and a lot of games go down that road on Ratings. Part of the meta plays now is to try to put pressure on Wrath to force them to play 3-6PP Chimeras so they cant hoard an OTK, but against more passive decks, it's not uncommon for Wrath to deal 19-22 dmg on 7-8 (so on a similar timer as dedicated OTK decks like Ladica and Spellboost).  
+
+As for OP, they have some good points, and Chimera is definitely overtuned, but I think they also underestimate the skill ceiling of the deck and of other meta decks when played against it. For instance in a lot of Wrath mirrors, Chimera isn't even relevant.
+    Natura sword easily win t4-5 against so it's just false wrath heal come late enough for aggro to smack them the issue is sword is bad against everything else
+        This was true until Blood started running Temptress. Decent players wiill also mull for Piano in that matchup. It's still possible for Sword to win but I wouldn't call it "easy", I don't even think it's favored.
+    yeah most wrath mirror ends t4-5 before chimera can hit the board unless both player lack other payoff.
+That is a good point! Even with 7 self pings there aren't decks with enough early aggression to can take advantage of it and kill you, especially if you can fit in heals + clears each turn like Temptress into Rondo into Chimera etc. 
+
+Maybe if Portal and Sword aggro decks were stronger it would push down Wrath. As it is, one of the best punishes is actually Shadow with Minthe->Lubelle's 13 damage that exactly kills them after they get Wrath. So unfortunately the Shadow deck that is already the best against it defensively is also one of the best against it aggressively.
+
+The OTK weakness I agree with, but I think Wrath can get around this with playstyle to some extent. When I tried Wrath I was able to win surprisingly often against heal-heavy decks by saving up 2 Chimeras until they were very low cost and then doing an OTK. Or doing a 2 turn kill with loads of damage each turn (like Chimera + Rondo + Hedone into Rondo + Hedone + Snipe, or something).
+☝️This right here. Aggro decks keep the BS do nothing for 5 turns decks on their toes. Without them wrath and other decks like it tear through weaker decks unchecked.
+Cause we're card game player he knows damn well we don't read that much
+That's a good idea too! 
+
+That actually would also give the same benefit I was looking for, by making your little self-ping activators stay relevant in the late game by using Rouge & Verte leader effect to push some damage. Unlike the current deck where they are mostly just fusion fodder once you are in wrath.
+I agree, a lot of Unlimited decks are like this too. Sometimes there is a rock-paper-scissors meta where the game feels 80% decided at the start of the game by your class vs. your opponent's class (or if it is a mirror, by who goes first (Wrath) or draws their key matchup cards first (Heal Haven)). Then the players' decisions during the game only contribute the other 20%.
+
+At least in UL the unfun cases don't feel quite as bad to me, since MOST decks are capable of that kind of BS so at least both players have a chance of pulling it off (instead of only the Wrath player), plus UL decks kill quickly so it doesn't draw out the win over many turns (instead of the ticking clock that is Chimera).
+
+Also, usually there are a couple of UL decks that still give pretty consistently fun games against most opposing decks, by being flexible with the ability to counterplay vs. multiple popular decks, put in a few tech cards to adapt, etc. E.g. Earth Rite. I haven't played recently, but it was fun last meta. It could play aggressively with Contractor and damaging earth rites, could play defensively with Riley and Pascale, could also use Pascale to make giant boards, could block OTKs with Astrological Sorcerer and Forbidden Darkmage, could OTK itself with Darkmage, could do an alternate OTK through damage mitigators like Realm or Repose by using Undying Witch effect + Orichalcum Golem with a big stack, etc.
+
+It looked like Armed Dragon and Rally Sword were going to be like that after the huge buffs they got, but I don't know about the current meta.
+Not just fun, some people just play whatever’s meta to win, they could care less about what’s “fun”, only about what’s strong then hop over to the next best thing after.
+Sure, but I think a lot of its popularity is because it is accessible (easy to craft and play) and gives you a lot of in game rewards (high chance to win, good to climb ladder and get gold from daily missions). Not so much because it is giving you a lot of fun from the gameplay you are doing to get those rewards.
+
+Like, I am not saying Wrath is no fun at all to play. Some of its decisions can be interesting, especially in the early game balancing self-pings vs. draw, or deciding which card to fuse. Some players may really like those decisions. But given the problems I mentioned, I don't think most Wrath players are using the deck just because of fun gameplay.
+
+Also, even if a bunch of people find Wrath fun to play, it doesn't feel fun to play against. Since there isn't much you can do to interact with their game plan (unless you are one of the very few decks with meaningful counterplay like Machina Shadow). I would like it more if the popular decks are both fun to play and fun to play against.
+    > Also, even if a bunch of people find Wrath fun to play, it doesn't feel fun to play against.
+
+What deck is fun to play against? Forest where you they boardlock you with 0-1 attack guys? Shadow where they put up a bunch of 1-2 power annoying wards you have to fight through? Spellboost where they largely do nothing besides clear your board every turn until they have an OTK from 20? Big Dragon where we roll the casino of how much ramp they drew and which cards their Relic Dragon hits?
+    Wrath is just a reflection of the core problems of the game,   
+if you remeber a bit there was a deck almost identical to wrath or even better   
+skullfane/crystalize heaven except wrath has almost no board presence, his healing is tied to their win cons and is vulverable to aggro and can be outhealed if not highroll, in the end wrath isn't much different than your usual meta deck
+        Yeah, true. I had the same complaint about Skullfane+Crystallize too. A huge % of variance in its win rate is just whether you draw Skullfane in the first 3 turns. Also about Skeleton Raider before that, and Absolute Tolerance and certain Skybound Arts cards before that.
+
+I guess game designers like that design pattern because they can give people cool powerful feeling experiences when their deck highrolls (when you draw the card on time), without making the deck OP in terms of win rate (since you usually lose the other games when you don't draw it on time). 
+
+I think the problem is when the 'early draw advantage' comes from cost discounting (like Chimera and Skullfane). A normal card has an inherent power limit to drawing multiple copies. If you spend your pp playing one copy, you have less pp to play the other copies + do other actions on that turn. But discounted cards don't have this power limit. Once you discount them you can play them all together on the same turn. If one copy is strong, then there is always an inherent 10-20% of games where the deck draws 2+ copies and mega highrolls and the opponent can't do anything about it. If every deck in the meta is like this, that means \~1/3 of games are just non-games.
+
+The good thing is that it isn't a flaw built into Shadowverse. They don't HAVE to design cards with this pattern. Also, there are usually some good meta decks that are much less dependent on early draw order. But you are right that sadly they usually have 1-2 decks like this in every meta. So maybe they will keep doing it. It's too bad!
+Ironically enough, I agree that Wrath blood can be fun despite my dislike of it being played in meta.
+
+It's only really fun when I don't include any of the meta cards though.
+
+Honestly wrath's fun for me comes from it's synergies. Like that 3pp Condemned tutor that pings aoe when you ping yourself? It was always so cathartic for me when I play that and a piano and watch as it pings the enemy board away. Then watch my piano evolve and strike the last enemy follower to heal me a bit like the effects were dominos chaining into each other. There are also tons of interesting chaining effects as well like, Rouge and Verte that furthers extends the chains of effects.
+
+The finishers used in meta though? Bleh. They are all just massive face and board damage which is boring for all involved and feels like cheating. (basically potential of fun is replaced by just going for uncounterable numbers)
+It's funny that even with Howling Demon taking your whole turn it got some criticism for being one of many boardclears that is also proactice AND heals for no reason.
+Now Hondo is straight up better 99% of the time because of the draw and pp recovery.
+
+I really hope this is just a case of they going wild with the last expansion and not being a preview of World Beyonds.
+I REALLY don't want this kind of do everything design...
+    There were people who think howling demon is overtuned? In the same expansion where yuri rune exists? (and got buff with him for some reason) Lmao.
+Natura sword easily win t4-5 against so it's just false wrath heal come late enough for aggro to smack them the issue is sword is bad against everything else
+    This was true until Blood started running Temptress. Decent players wiill also mull for Piano in that matchup. It's still possible for Sword to win but I wouldn't call it "easy", I don't even think it's favored.
+yeah most wrath mirror ends t4-5 before chimera can hit the board unless both player lack other payoff.
+> Also, even if a bunch of people find Wrath fun to play, it doesn't feel fun to play against.
+
+What deck is fun to play against? Forest where you they boardlock you with 0-1 attack guys? Shadow where they put up a bunch of 1-2 power annoying wards you have to fight through? Spellboost where they largely do nothing besides clear your board every turn until they have an OTK from 20? Big Dragon where we roll the casino of how much ramp they drew and which cards their Relic Dragon hits?
+Wrath is just a reflection of the core problems of the game,   
+if you remeber a bit there was a deck almost identical to wrath or even better   
+skullfane/crystalize heaven except wrath has almost no board presence, his healing is tied to their win cons and is vulverable to aggro and can be outhealed if not highroll, in the end wrath isn't much different than your usual meta deck
+    Yeah, true. I had the same complaint about Skullfane+Crystallize too. A huge % of variance in its win rate is just whether you draw Skullfane in the first 3 turns. Also about Skeleton Raider before that, and Absolute Tolerance and certain Skybound Arts cards before that.
+
+I guess game designers like that design pattern because they can give people cool powerful feeling experiences when their deck highrolls (when you draw the card on time), without making the deck OP in terms of win rate (since you usually lose the other games when you don't draw it on time). 
+
+I think the problem is when the 'early draw advantage' comes from cost discounting (like Chimera and Skullfane). A normal card has an inherent power limit to drawing multiple copies. If you spend your pp playing one copy, you have less pp to play the other copies + do other actions on that turn. But discounted cards don't have this power limit. Once you discount them you can play them all together on the same turn. If one copy is strong, then there is always an inherent 10-20% of games where the deck draws 2+ copies and mega highrolls and the opponent can't do anything about it. If every deck in the meta is like this, that means \~1/3 of games are just non-games.
+
+The good thing is that it isn't a flaw built into Shadowverse. They don't HAVE to design cards with this pattern. Also, there are usually some good meta decks that are much less dependent on early draw order. But you are right that sadly they usually have 1-2 decks like this in every meta. So maybe they will keep doing it. It's too bad!
+There were people who think howling demon is overtuned? In the same expansion where yuri rune exists? (and got buff with him for some reason) Lmao.
+This was true until Blood started running Temptress. Decent players wiill also mull for Piano in that matchup. It's still possible for Sword to win but I wouldn't call it "easy", I don't even think it's favored.
+Yeah, true. I had the same complaint about Skullfane+Crystallize too. A huge % of variance in its win rate is just whether you draw Skullfane in the first 3 turns. Also about Skeleton Raider before that, and Absolute Tolerance and certain Skybound Arts cards before that.
+
+I guess game designers like that design pattern because they can give people cool powerful feeling experiences when their deck highrolls (when you draw the card on time), without making the deck OP in terms of win rate (since you usually lose the other games when you don't draw it on time). 
+
+I think the problem is when the 'early draw advantage' comes from cost discounting (like Chimera and Skullfane). A normal card has an inherent power limit to drawing multiple copies. If you spend your pp playing one copy, you have less pp to play the other copies + do other actions on that turn. But discounted cards don't have this power limit. Once you discount them you can play them all together on the same turn. If one copy is strong, then there is always an inherent 10-20% of games where the deck draws 2+ copies and mega highrolls and the opponent can't do anything about it. If every deck in the meta is like this, that means \~1/3 of games are just non-games.
+
+The good thing is that it isn't a flaw built into Shadowverse. They don't HAVE to design cards with this pattern. Also, there are usually some good meta decks that are much less dependent on early draw order. But you are right that sadly they usually have 1-2 decks like this in every meta. So maybe they will keep doing it. It's too bad!
