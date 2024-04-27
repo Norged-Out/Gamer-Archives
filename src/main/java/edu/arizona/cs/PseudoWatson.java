@@ -125,6 +125,7 @@ public class PseudoWatson {
         List<ResultClass> results = null;
         ResultClass topAnswer = null;
         try {
+            Thread.sleep(1000);
             BufferedReader reader = new BufferedReader(new FileReader(file));
             String line; // The line being read from the file
             String query = null, answer = null; // The query and the expected answer
@@ -144,6 +145,7 @@ public class PseudoWatson {
                     results = runQuery(query);
                     System.out.println("Query: " + query);
                     System.out.println("\nRunning Watson...\n");
+                    Thread.sleep(1500);
                     // If there are results, get the top answer
                     if (results.size() > 0){
                         topAnswer = results.get(0);
@@ -179,11 +181,14 @@ public class PseudoWatson {
                     if (cont.equals("n")){
                         break;
                     }
+                    Thread.sleep(1000);
                 }
             }
             reader.close();
         }
         catch (IOException e){
+            e.printStackTrace();
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
@@ -230,7 +235,7 @@ public class PseudoWatson {
     }*/
 
     public static void main(String[] args) {
-        String indexFilePath = "testindex";
+        String indexFilePath = "watsonindex";
         PseudoWatson watson = new PseudoWatson(indexFilePath);
         try {
             IndexReader reader = DirectoryReader.open(watson.index);

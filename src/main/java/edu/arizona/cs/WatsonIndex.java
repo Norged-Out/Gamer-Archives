@@ -210,7 +210,7 @@ public class WatsonIndex {
      */
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        WatsonIndex engine = new WatsonIndex("testindex");
+        WatsonIndex engine = new WatsonIndex("watsonindex");
         
         try {
             System.out.println("Reading index");
