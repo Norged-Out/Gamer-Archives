@@ -1,0 +1,253 @@
+[[Why do you still play Melee]]
+
+
+Assuming of course that you do.
+
+The only coverage of Melee I see nowadays is competitive. What exactly does the game have to offer that later Smash games don’t have? What keeps you coming back?
+
+
+Melee is sick.
+
+Wish I could elaborate more, but melee is like playing a game with 0 limiters. Other games have mechanics in place to prevent you from doing the kinds of things that are available in melee. So playing another Smash game feels like watered down melee, like the game is desperately trying to prevent you from being the best you can be. In melee you can do almost anything you can imagine.
+    i tried playing ultimate in that way, and i realised it made the game way harder and more stressful.
+The list is pretty long:
+
+Actually playable online
+
+Almost nonexistent input lag
+
+Super free, fluid movement
+
+Fast game pace
+
+Light shielding
+
+Ledge hogging
+
+Proper momentum conservation
+
+Wave dashing
+
+Edge canceling
+
+Way too many advanced techs to list
+
+Less matchups to need to learn
+
+Tons of matchup intricacies
+
+Moves have less standardized knock back angles
+
+Super strong SDI
+
+Crouch cancelling
+
+Stronger DI, no LSI
+
+Longer hitstun
+
+Longer, more intricate combos
+
+No rage/comeback mechanics
+
+Loads of hilarious but still super interesting jank and glitches
+
+Bad characters existing (Ultimate having no truly bad characters is boring to me)
+    This really is the list.
+
+With respect to characters, quality over quantity.
+
+With respect to combos, movement options, and defensive options... quality *and* quantity.
+
+Also, yeah, there aren't any low tier heroes if there aren't any low tiers.
+
+I think movement is probably going to be the secret #1 for most people.  With the exception of PM/+, no other Smash game offers you the same kind of reward for your skill development.
+    And honestly, only Bowser is truly bad. Every character is really fun to play, has some kind of sauce, and are different from each other.
+        Even then i still run into multiple people on Slippi who have fun attempting to cheese Bowser's UpB and ledge getup.
+    It kind of helps Melee's online that it wasn't using Nintendo's servers.
+        It's incredibly sad that a single person designed online net code for a 20 year old game that's less laggy than Ultimate is offline
+
+Although the delay based Faster Melee build was also less laggy than offline Ultimate with a good connection with someone close to you because Ultimate has insane delay lol
+            I would say it's because the Switch itself is not a powerful console, and Slippi runs on computers, they're much more versatile
+                I don't think it has to do with the consoles processing power.  The input lag has increased with every game after Melee, despite each game being on more powerful hardware than the last.  
+
+It's got to be something with the architecture of the system.  I would bet the GC uses direct CPU interrupts to communicate with the controllers, the same way old computers did with their keyboards.  
+
+The Switch has to deal with the delay of wireless, extra delay due to the controllers having processors, and the probably substantial overhead of whatever protocol it uses for the controllers.
+                It's nothing to do with the Switch and everything to do with design choices by Nintendo.
+
+They chose not to design Ultimate with rollback in mind, instead going for delay bsaed netcode.  Adding rollback to a modern game as complex as Ultimate after the fact is basically impossible.  There is no hardware constraint of the switch that is responsible for this. Nintendo as a company has just never been good at delivering online.
+    don’t forget no super armour and invincible moves like palutena’s shield or any of kazuya’s tilts. 
+there’s only 1 broken swordie in melee and even he has really interesting counterplay.
+        Those both exist in Melee, there's just a lot fewer examples of it.  Yoshi has armour on his double jump.  Sheik has an invincible up B, spacies have frame 1 invincible shine, G&W has head invincibility on up smash (but not nose invincibility)
+
+Crouch cancel also behaves like armour at low percent.  Ledge intangibility can also be abused to do invincible moves.
+            eh, ig it’s just better used then. and i say that as an ult player who plays melee mostly rn
+    “Bad characters existing (Ultimate having no truly bad characters is boring to me)”
+
+Huh. Didn’t expect to see “unbalanced roster” as a positive.
+        The thing is, the top characters are balanced enough. The fact that there are worse characters and people who choose to play them just adds to the story line.
+
+And even 20 years later the top characters are still being developed. 
+
+There's just no downside.
+
+I know some ultimate players find the apparent lack of character diversity in top 8s boring, but that's usually because they don't know melee well enough to appreciate player style diversity.
+            and the lack of character diversity in top 8s really isn't even true alot of the time. Lately theres been a lot of unique characters in top 8. Pound and Genesis both had 7/8 unique and SWT finals had 6/8 which is pretty good
+        I usually get down voted when I say it, but 2 things I find extremely boring in games are good balance, and the game always functioning properly.  Obviously it's within limits, but I love badly balanced characters/items and janky/glitchy code.
+One thing I didn't see mentioned: the sound design is noticeably (not a ton) better than any other smash game. Between that, hitstun, and the visual crispity, it feels so good to land hits
+    [deleted]
+        The later games?
+
+Every game in the series sound design absolutely pales in comparison to Smash 64.
+            Brawl was my favorite sound design by a country mile, it sounds soooo good. 4 is the only game where I really hated the sound direction, in all areas really (music, voices, and sfx).
+        I feel like it's a pretty common take lol
+It's fun, challenging, and online is great. No bs like tripping or losing momentum when you jump, satisfying combos, enough variety.
+Because Project+ doesn't have rollback yet.
+    Same boat dude.
+
+Any month now.
+The DI system alone makes the game way more interesting than Ultimate IMO. My most wanted change from 4 to Ultimate was to fix the DI that 4 botched but they kept it. Combos just aren't interesting at all now, since the disadvantage player has so little influence. Ultimate with Melee DI would be actual perfection in my mind.
+    If Ultimate had movement that actually promoted proper microspacing and real DI I would play the fuck out of it, even if it didn't have all the Melee tech.  
+
+But as-is I find the movement boring and the lack of real DI cheapens the combos for me.
+game's good
+
+game's real good
+
+but unironically nothing is going to draw people to the game outside of the competitive aspect of it - obviously, future entries do all the singleplayer stuff better than it does. engagement with the game comes almost entirely, if not just entirely, with the competitive scene
+No other game feels like Melee. The control you have over your character is just insane. It's so fluid and really puts the power in your hands. It's like you're given a blank check and it's up to you to figure out what you do with it.
+Everybody has a game that they always come back to. I played and dropped alot of games but melee still gets me pumped after all these years.
+I've never played melee competitively but its fun to goof around in what people consider "one of the hardest games ever" with friends of equal skill level
+I like the *way* that it's difficult.
+
+The lack of a buffer means that your ability to act sooner is dependent on your skill—the better you get the faster you are. With a buffer, everyone moves the same speed.
+
+The way many moves are unsafe on hit at low percents means you need knowledge/skill to choose safe and effective combo starters according to percent, and those moves that are exceptionally weak when at low percents can be clutch kill confirms at higher percents.
+It’s simply more fun to play than other smash games
+Ultimate puts me to bed faster than Melatonin
+the technical depth, the speed, the movement, the combo game, the edge guard game, the way every game feels different, the better player almost always wins, the fact that you always have room to improve, the fact that it is the best game ever <3
+Movement and functional online
+There's always more to explore with melee, at every skill level. The mechanics for movement and combos is just fun in a way that almost no other games replicate. Even for the games that come close, Melee still holds the most competitive depth of any platform fighter I know, and it shows in how the game's competitive scene is still having amazing sets 20 years later.
+
+In recent years I only really play melee with my friend who I see once a month. Even if our tech skill doesn't exactly improve much, we're always pushing our limits, going for dumb shit, and constantly having new interactions that we haven't had before. It's a ton of fun.
+Melee's mechanics are just way better than Ultimate's. Literally the only reason I still play Ultimate over it, is because the tech skill barrier in Melee is too much for me. To be fair I haven't spent the dozens of hours practicing it like other people, but I don't *want* to spend like 100hrs just to have basic control over my character when Ultimate gives me that immediately.
+
+If Melee had a slight buffer and a few other accessibility features (custom controls) it would be a bloodbath, Ultimate can't compare
+    I get you, but also all you really need to have fun in melee is the tech skill for wavedashing, L cancel, shorthop, and boost grab. Other niche tech can be learned at another time
+        boost grab? Do you mean jcgrab?
+            ah yeah, I'm kinda new. Fucked up the terminology my bad.
+Yeah they haven’t even added a DLC Character in like 21 years or something bro 🐸
+You know why. The gameplay is better. No one would return to a 20 year old game with worse pretty much everything if it wasn’t.
+i tried playing ultimate in that way, and i realised it made the game way harder and more stressful.
+This really is the list.
+
+With respect to characters, quality over quantity.
+
+With respect to combos, movement options, and defensive options... quality *and* quantity.
+
+Also, yeah, there aren't any low tier heroes if there aren't any low tiers.
+
+I think movement is probably going to be the secret #1 for most people.  With the exception of PM/+, no other Smash game offers you the same kind of reward for your skill development.
+And honestly, only Bowser is truly bad. Every character is really fun to play, has some kind of sauce, and are different from each other.
+    Even then i still run into multiple people on Slippi who have fun attempting to cheese Bowser's UpB and ledge getup.
+It kind of helps Melee's online that it wasn't using Nintendo's servers.
+    It's incredibly sad that a single person designed online net code for a 20 year old game that's less laggy than Ultimate is offline
+
+Although the delay based Faster Melee build was also less laggy than offline Ultimate with a good connection with someone close to you because Ultimate has insane delay lol
+        I would say it's because the Switch itself is not a powerful console, and Slippi runs on computers, they're much more versatile
+            I don't think it has to do with the consoles processing power.  The input lag has increased with every game after Melee, despite each game being on more powerful hardware than the last.  
+
+It's got to be something with the architecture of the system.  I would bet the GC uses direct CPU interrupts to communicate with the controllers, the same way old computers did with their keyboards.  
+
+The Switch has to deal with the delay of wireless, extra delay due to the controllers having processors, and the probably substantial overhead of whatever protocol it uses for the controllers.
+            It's nothing to do with the Switch and everything to do with design choices by Nintendo.
+
+They chose not to design Ultimate with rollback in mind, instead going for delay bsaed netcode.  Adding rollback to a modern game as complex as Ultimate after the fact is basically impossible.  There is no hardware constraint of the switch that is responsible for this. Nintendo as a company has just never been good at delivering online.
+don’t forget no super armour and invincible moves like palutena’s shield or any of kazuya’s tilts. 
+there’s only 1 broken swordie in melee and even he has really interesting counterplay.
+    Those both exist in Melee, there's just a lot fewer examples of it.  Yoshi has armour on his double jump.  Sheik has an invincible up B, spacies have frame 1 invincible shine, G&W has head invincibility on up smash (but not nose invincibility)
+
+Crouch cancel also behaves like armour at low percent.  Ledge intangibility can also be abused to do invincible moves.
+        eh, ig it’s just better used then. and i say that as an ult player who plays melee mostly rn
+“Bad characters existing (Ultimate having no truly bad characters is boring to me)”
+
+Huh. Didn’t expect to see “unbalanced roster” as a positive.
+    The thing is, the top characters are balanced enough. The fact that there are worse characters and people who choose to play them just adds to the story line.
+
+And even 20 years later the top characters are still being developed. 
+
+There's just no downside.
+
+I know some ultimate players find the apparent lack of character diversity in top 8s boring, but that's usually because they don't know melee well enough to appreciate player style diversity.
+        and the lack of character diversity in top 8s really isn't even true alot of the time. Lately theres been a lot of unique characters in top 8. Pound and Genesis both had 7/8 unique and SWT finals had 6/8 which is pretty good
+    I usually get down voted when I say it, but 2 things I find extremely boring in games are good balance, and the game always functioning properly.  Obviously it's within limits, but I love badly balanced characters/items and janky/glitchy code.
+[deleted]
+    The later games?
+
+Every game in the series sound design absolutely pales in comparison to Smash 64.
+        Brawl was my favorite sound design by a country mile, it sounds soooo good. 4 is the only game where I really hated the sound direction, in all areas really (music, voices, and sfx).
+    I feel like it's a pretty common take lol
+Same boat dude.
+
+Any month now.
+If Ultimate had movement that actually promoted proper microspacing and real DI I would play the fuck out of it, even if it didn't have all the Melee tech.  
+
+But as-is I find the movement boring and the lack of real DI cheapens the combos for me.
+I get you, but also all you really need to have fun in melee is the tech skill for wavedashing, L cancel, shorthop, and boost grab. Other niche tech can be learned at another time
+    boost grab? Do you mean jcgrab?
+        ah yeah, I'm kinda new. Fucked up the terminology my bad.
+Even then i still run into multiple people on Slippi who have fun attempting to cheese Bowser's UpB and ledge getup.
+It's incredibly sad that a single person designed online net code for a 20 year old game that's less laggy than Ultimate is offline
+
+Although the delay based Faster Melee build was also less laggy than offline Ultimate with a good connection with someone close to you because Ultimate has insane delay lol
+    I would say it's because the Switch itself is not a powerful console, and Slippi runs on computers, they're much more versatile
+        I don't think it has to do with the consoles processing power.  The input lag has increased with every game after Melee, despite each game being on more powerful hardware than the last.  
+
+It's got to be something with the architecture of the system.  I would bet the GC uses direct CPU interrupts to communicate with the controllers, the same way old computers did with their keyboards.  
+
+The Switch has to deal with the delay of wireless, extra delay due to the controllers having processors, and the probably substantial overhead of whatever protocol it uses for the controllers.
+        It's nothing to do with the Switch and everything to do with design choices by Nintendo.
+
+They chose not to design Ultimate with rollback in mind, instead going for delay bsaed netcode.  Adding rollback to a modern game as complex as Ultimate after the fact is basically impossible.  There is no hardware constraint of the switch that is responsible for this. Nintendo as a company has just never been good at delivering online.
+Those both exist in Melee, there's just a lot fewer examples of it.  Yoshi has armour on his double jump.  Sheik has an invincible up B, spacies have frame 1 invincible shine, G&W has head invincibility on up smash (but not nose invincibility)
+
+Crouch cancel also behaves like armour at low percent.  Ledge intangibility can also be abused to do invincible moves.
+    eh, ig it’s just better used then. and i say that as an ult player who plays melee mostly rn
+The thing is, the top characters are balanced enough. The fact that there are worse characters and people who choose to play them just adds to the story line.
+
+And even 20 years later the top characters are still being developed. 
+
+There's just no downside.
+
+I know some ultimate players find the apparent lack of character diversity in top 8s boring, but that's usually because they don't know melee well enough to appreciate player style diversity.
+    and the lack of character diversity in top 8s really isn't even true alot of the time. Lately theres been a lot of unique characters in top 8. Pound and Genesis both had 7/8 unique and SWT finals had 6/8 which is pretty good
+I usually get down voted when I say it, but 2 things I find extremely boring in games are good balance, and the game always functioning properly.  Obviously it's within limits, but I love badly balanced characters/items and janky/glitchy code.
+The later games?
+
+Every game in the series sound design absolutely pales in comparison to Smash 64.
+    Brawl was my favorite sound design by a country mile, it sounds soooo good. 4 is the only game where I really hated the sound direction, in all areas really (music, voices, and sfx).
+I feel like it's a pretty common take lol
+boost grab? Do you mean jcgrab?
+    ah yeah, I'm kinda new. Fucked up the terminology my bad.
+I would say it's because the Switch itself is not a powerful console, and Slippi runs on computers, they're much more versatile
+    I don't think it has to do with the consoles processing power.  The input lag has increased with every game after Melee, despite each game being on more powerful hardware than the last.  
+
+It's got to be something with the architecture of the system.  I would bet the GC uses direct CPU interrupts to communicate with the controllers, the same way old computers did with their keyboards.  
+
+The Switch has to deal with the delay of wireless, extra delay due to the controllers having processors, and the probably substantial overhead of whatever protocol it uses for the controllers.
+    It's nothing to do with the Switch and everything to do with design choices by Nintendo.
+
+They chose not to design Ultimate with rollback in mind, instead going for delay bsaed netcode.  Adding rollback to a modern game as complex as Ultimate after the fact is basically impossible.  There is no hardware constraint of the switch that is responsible for this. Nintendo as a company has just never been good at delivering online.
+eh, ig it’s just better used then. and i say that as an ult player who plays melee mostly rn
+and the lack of character diversity in top 8s really isn't even true alot of the time. Lately theres been a lot of unique characters in top 8. Pound and Genesis both had 7/8 unique and SWT finals had 6/8 which is pretty good
+Brawl was my favorite sound design by a country mile, it sounds soooo good. 4 is the only game where I really hated the sound direction, in all areas really (music, voices, and sfx).
+ah yeah, I'm kinda new. Fucked up the terminology my bad.
+I don't think it has to do with the consoles processing power.  The input lag has increased with every game after Melee, despite each game being on more powerful hardware than the last.  
+
+It's got to be something with the architecture of the system.  I would bet the GC uses direct CPU interrupts to communicate with the controllers, the same way old computers did with their keyboards.  
+
+The Switch has to deal with the delay of wireless, extra delay due to the controllers having processors, and the probably substantial overhead of whatever protocol it uses for the controllers.
+It's nothing to do with the Switch and everything to do with design choices by Nintendo.
+
+They chose not to design Ultimate with rollback in mind, instead going for delay bsaed netcode.  Adding rollback to a modern game as complex as Ultimate after the fact is basically impossible.  There is no hardware constraint of the switch that is responsible for this. Nintendo as a company has just never been good at delivering online.
