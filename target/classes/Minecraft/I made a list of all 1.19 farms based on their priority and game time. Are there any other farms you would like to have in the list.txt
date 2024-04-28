@@ -1,0 +1,153 @@
+[[I made a list of all 1.19 farms based on their priority and game time. Are there any other farms you would like to have in the list]]
+
+
+**Trading Hall -** Most important, its better to start early. Farmers, Masons, Tools n Armor guys, Librarians and Clerics will set you up for life. Best way to repair tools by trading with farmers and you don't have to go to end for it.
+
+**Beginner/Basic farms -** These will help you get started.
+
+* **Iron -** Find a village and get this started, better if built in spawn chunks.
+* **Pumpkin Melon -** After getting a bit of Red stone and Quartz, start this automatic farm and set up a few villagers. Unlimited emeralds and also golden carrots. Best source for food.
+* **All Crops - Carrot, Wheat, Potato, Beetroot -** You probably don't need them, except for wheat (for Hay, Mud bricks) but they are very easy to build, and carrot/potato farm can be used for a **villager breeder**.
+* **Sugarcane -** The earlier you start, the better. It grows very slowly and once you get elytra you don't want to spend hours waiting for paper.
+* **Wool Farm -** Easy to setup, it will do its thing in the background and you wont run out of wool anytime soon.
+* **Creeper Farm -** You can build this as a general mob farm first and then convert it to a creeper-spider or creeper only farm mid game. Very easy to build but requires lot of cobble and trapdoors. If you haven't found a mineshaft/skeleton spawner, then general mob farm will help you with bones and string. Or else you can directly go for a creeper farm.
+* **Bamboo -** Easy to setup, and will supply endless fuel for your smelter. Plus you get bamboo blocks too.
+
+**Nether Priority 1 -** 
+
+* **Gold Farm -** Most farms require gold. Its tough to collect magma blocks for this farm, especially early game, but with potions and proper armor, you can get this done. This will give a huge boost to quality of life. Im not sure if it will continue to provide XP in the future updates, but I find this farm much better for XP than Enderman farm which is 3 portals (2 Nether portals and 1 End portal) away, and wont give any good loot.
+* **Bartering -** This is why you build a gold farm early. You get so many useful blocks, from quartz for Redstone to black stone to leather and string. Obsidian, potions, books, so much good loot!
+
+**Secondary (Helpful for Builders and other farms) -**
+
+* **Raid Farm -** God Tier farm but you will need a beacon for regen and a good armor. You will be set for redstone, emeralds and totems. 
+* **Slime Farm -** With Ilmango's design you don't even need a slime chunk, just find a swamp and get to it.
+* **Moss Farm -** Useful for getting bonemeal, if you're tired of getting it from skeleton farm or mob farm. Also moss is great block for building and you can also craft mossy cobble.
+* **Guardian Farm -** Prismarine and sea lanterns baby!
+* **Ice Farm -** Most farms require ice for transport of items. Also for creating water on the go, you can use ice instead of carrying buckets.
+* **Spider/Skeleton Spawner Farm -** Easy to build and setup, not the greatest post mid game except for spider eyes. Moss farm gives faster bonemeal than spider farm. Arrows are useless with Infinity. Bartering gives more string and its easier. But they do look cool, give the old school vibe and I don't mind having them around for fun. Depends on whether you found a spawner of not.
+* **Cactus Farm -** Green dye. Let it do its thing, it can be a source for bonemeal as well. 1-2 layers is more than enough for entire play through.
+* **Stone Farm -** Easy to build, you will need beacon. I usually skip it as I have enough stone always and if not, I can connect a cobble generator to auto smelter powered by bamboo.
+
+**Big Industrial Farms:** These are the farms you can skip on if you don't plan on building mega structures. The can be collected manually in small scale. 
+
+* **Wood - All Types -** Controversial, if you like to use TNT duping or not. My favorite hermits like Rendog do it manually and I too like it that way. I personally don't build mega structures so I prefer to have large flat fields with designated dirt blocks for trees. I also built a tree farm that gives me stripped wood for crafting. No TNT involved. But its up to you.
+* **Nether Wood Farm -** Same as above. I don't use Nether wood much and have chopped enough forests for years supply. You can build a **fungus farm** that produces other decorative blocks too.
+* **Cobble Generator -** Controversial, TNT duping. I have built this and rigged it to use TNT without duping. For 1 stack TNT you get 9 stacks cobble, which is more than enough for my needs. I also have a gun powder farm and sand is easy to collect (especially with TNT, Etho's method)
+* **Shulker farm -** As the list of items grow, you need more and more shulkers to store and transport items. Its a fun farm, easy to build and will get you tons of shulkers.
+* **Witch Farm -** If you don't like trading with clerics to get redstone or glow stone, you can build this. But Raid farm already gives you redstone. Its a cool looking farm if you if you're interested in it, but not necessary.
+* **Concrete maker -** Very useful if you like building with concrete.
+* **Smelter -** Like smelting lots of blocks? Its annoying to setup, especially if you accidentally drop anything near the hoppers while building it. And it requires an additional fuel source farm, but once you get this done, quality of life will be significantly improved.
+* **Auto Brewing -** Annoying to setup, requires a lot of annoying farms, but if you have a requirement for lots of potions then these are great. Basic potions like fire resistance, water breathing, night vision are easy.
+
+**Good to Have - These are the farms you can have at any time. Mostly simple, and quick to setup and gets you a variety of building blocks.**
+
+* **Flowers -** Find a flower forest and get to work. Very annoying to find the correct spot, plus you need to build a lot of replicas all over the place.
+* **Tall Flowers -** Very easy beginner farm.
+* **Cocoa Seeds** \- Very easy to set up once you find a jungle. Brown dye.
+* **Wither Roses -** Great for black dye. Requires a little effort but now you have all the dyes.
+* **Honey Bottle and Wax Farm -** Good for candles and redstone.
+* **Mud Farm -** Quick n easy, and with the wheat farm, you can get lots of packed mud.
+* **Chorus Farm -** Take a bit of effort and requires 2 components. Also dependent on blaze farm for End rods.
+* **Roots, Glow lichen, Fern, Pickles, all vines, berries, etc -** Good decorating blocks.
+* **Mob Head Farm** 
+* **Music Disk Farm**
+
+**Nether Priority 2 -**
+
+* **Basalt farm -** Quick n easy to set up but you will need a beacon with haste 2 for good results.
+* **Wither Skeleton -** Quick and easy, the one where you build it in the corner of bounding box and afk above the nether roof. Gives good amount of coal bones and skulls. You can build it once you get the elytra.
+* **Blaze Farm**
+* **Frog Light**
+
+**Meh -** I don't care for these. Very specific use cases.
+
+* **Kelp Farm -** It takes too much effort to smelt and craft, but its a good looking block for building.
+* **Glow Ink -** I get enough glow ink every time I go caving that I don't bother building this.
+* Lava Farm - If you're into smelting with lava or need it for a project. Personally its easier to collect lava from nether with a few potions.
+* **Dripstone Farm -** Good building block.
+* Amethyst - Annoying to collect, plus the risk of breaking the main block is high. You can try to automate it if you have the patience.
+* **Mushroom Farm -** Potions
+* **Turtle Farm -** Potions
+* **Magma Cream -** Potions
+* **Phantom Farm -** Potions
+* **Powdered Snow Farm -** Easier to collect if you find a mountain, but if you need it, go for it.
+* **Hoglin Farm -** You get leather from Bartering anyway and I prefer golden carrots instead of pork chops/steak.
+* **Squid Farm -** I prefer wither rose farm for black dye.
+
+**Useless - I don't bother building a farm for these.**
+
+* **Cow, Chicken, Pig, Sheep -** Golden carrots are better. Unless you need lots of feathers, or eggs, you can just build a pen for these animals and farm them manually.
+* **Zombie Farm -** Useless, even in early game. You get better XP by trading I believe. And rotten flesh trading with Cleric isn't worth it.
+* **Drowned Farm -** Just find a granite/copper vein and mine away. You will get copper quicker that way. There is a end version of this farm which I believe gives greater amount of copper. Im too lazy to set that up.
+
+
+* Upvote this comment if this is a good quality post that fits the purpose of r/Minecraft
+
+* Downvote this comment if this post is poor quality or does not fit the purpose of r/Minecraft
+
+* Downvote this comment *and report the post* if it breaks the [rules](https://www.reddit.com/r/Minecraft/wiki/rules)
+
+---
+
+[Subreddit Rules](https://old.reddit.com/r/Minecraft/wiki/rules)[](## esukunnara|11q0mzp)
+I agree that a trading hall takes priority over basic survival. It's just overpowered.
+    In my previous server I speed run trying to unlock trading with tools and armour villagers. Built a iron farm and quickly a pumpkin melon farm, and then direct trading.
+
+Set up a shop selling iron, tools and armour. Became the richest extremely quickly.
+
+In survival too I don’t bother crafting armour with diamonds.
+        i want to do same thing on a server but i want to brew every potion and much materials too. I also want to sell time on xp farms
+            I tried to build auto brewers on a server but I couldn’t get them to work. Due to server lag or something they would always break. So make sure you are building the right one and instead of building all at once, build one, see if it works for a day and then build the rest.
+    Fun fact im 1400 days into my world and i have never made a real trading hall if you dont count the 3 villigers at my base, mostly because my raid farm covers eveything but im planning to make a massive trading hall soon. Biggest reason why i havent tho is im just tired of villagers
+kelp farms are actually really good, and I’m surprised you remembered mushrooms can be farmed lol
+    Mini mushrooms are useful for potions and also the mushroom blocks have unique textures useful for building. I don’t build with kelp blocks a lot. What else are they good for?
+        they are an amazing smelting source, 9 kelp makes 1 kelp block which smelts 20 items
+            Yes but I feel bamboo is superior because there are no strings attached with bamboo. It can be directly used to smelt items in large scale. Setup a flying machine farm and connect it to your smelter and it will do its thing. You don’t have to craft or smelt anything.
+
+And for small scale smelting, you already get tons of coal from wither skeleton farm.
+
+This is why I put bamboo farm above and left kelp farm in meh. Personally I don’t use it, but if someone likes it they can build it.
+                yeah myb for high things with water elevator
+> Concrete maker - Very useful if you like building with concrete.
+
+not necessary, in java at least, just hold concrete in the off hand and the pick in the main and press both while standing in water.
+    I do this, but it’s very slow. Concrete maker will definitely improve your life if you need lots of concrete for big builds. That’s why I put it in industrial section. They can be collected manually in smaller amounts but as scale goes up, it’s easier to go the tnt route.
+but drowned farm is very good cause for trident
+    It is my understanding that tridents don't drop from converted drowned, which is the type of farm I'm familiar with. Maybe if you do one by baiting naturally spawning ones in the ocean into a certain area, but I've not seen that.
+does anyone think that i am insane because i want t build all of the auto farms in this post plus all the other farms in 1.20 on bedrock PS4 edition
+In my previous server I speed run trying to unlock trading with tools and armour villagers. Built a iron farm and quickly a pumpkin melon farm, and then direct trading.
+
+Set up a shop selling iron, tools and armour. Became the richest extremely quickly.
+
+In survival too I don’t bother crafting armour with diamonds.
+    i want to do same thing on a server but i want to brew every potion and much materials too. I also want to sell time on xp farms
+        I tried to build auto brewers on a server but I couldn’t get them to work. Due to server lag or something they would always break. So make sure you are building the right one and instead of building all at once, build one, see if it works for a day and then build the rest.
+Fun fact im 1400 days into my world and i have never made a real trading hall if you dont count the 3 villigers at my base, mostly because my raid farm covers eveything but im planning to make a massive trading hall soon. Biggest reason why i havent tho is im just tired of villagers
+Mini mushrooms are useful for potions and also the mushroom blocks have unique textures useful for building. I don’t build with kelp blocks a lot. What else are they good for?
+    they are an amazing smelting source, 9 kelp makes 1 kelp block which smelts 20 items
+        Yes but I feel bamboo is superior because there are no strings attached with bamboo. It can be directly used to smelt items in large scale. Setup a flying machine farm and connect it to your smelter and it will do its thing. You don’t have to craft or smelt anything.
+
+And for small scale smelting, you already get tons of coal from wither skeleton farm.
+
+This is why I put bamboo farm above and left kelp farm in meh. Personally I don’t use it, but if someone likes it they can build it.
+            yeah myb for high things with water elevator
+I do this, but it’s very slow. Concrete maker will definitely improve your life if you need lots of concrete for big builds. That’s why I put it in industrial section. They can be collected manually in smaller amounts but as scale goes up, it’s easier to go the tnt route.
+It is my understanding that tridents don't drop from converted drowned, which is the type of farm I'm familiar with. Maybe if you do one by baiting naturally spawning ones in the ocean into a certain area, but I've not seen that.
+i want to do same thing on a server but i want to brew every potion and much materials too. I also want to sell time on xp farms
+    I tried to build auto brewers on a server but I couldn’t get them to work. Due to server lag or something they would always break. So make sure you are building the right one and instead of building all at once, build one, see if it works for a day and then build the rest.
+they are an amazing smelting source, 9 kelp makes 1 kelp block which smelts 20 items
+    Yes but I feel bamboo is superior because there are no strings attached with bamboo. It can be directly used to smelt items in large scale. Setup a flying machine farm and connect it to your smelter and it will do its thing. You don’t have to craft or smelt anything.
+
+And for small scale smelting, you already get tons of coal from wither skeleton farm.
+
+This is why I put bamboo farm above and left kelp farm in meh. Personally I don’t use it, but if someone likes it they can build it.
+        yeah myb for high things with water elevator
+I tried to build auto brewers on a server but I couldn’t get them to work. Due to server lag or something they would always break. So make sure you are building the right one and instead of building all at once, build one, see if it works for a day and then build the rest.
+Yes but I feel bamboo is superior because there are no strings attached with bamboo. It can be directly used to smelt items in large scale. Setup a flying machine farm and connect it to your smelter and it will do its thing. You don’t have to craft or smelt anything.
+
+And for small scale smelting, you already get tons of coal from wither skeleton farm.
+
+This is why I put bamboo farm above and left kelp farm in meh. Personally I don’t use it, but if someone likes it they can build it.
+    yeah myb for high things with water elevator
+yeah myb for high things with water elevator
