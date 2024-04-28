@@ -1,0 +1,1688 @@
+[[As someone who never plays as Watcher, this is what it feels like to get Prismatic Shard and suddenly see a purple card appear]]
+
+
+
+
+
+This is fucking hilarious. Great post.
+    I just kept laughing harder after each purple line.
+        The “die this turn” was just a perfect ending
+    It’s ridiculously accurate. Shit, I do play Watcher and half the cards still sound like this
+        Watcher is my second favorite and I'm unsure how to play her
+        it's like this even when you spend some time with watcher
+    like, this post is so good. I don't think a post here has made me laugh this much.
+    Xp
+“Die this turn”
+
+Classic Watcher experience
+    Well, fun fact time! You can negate the "Die this turn" with Intangible or Buffer!
+
+What the ~~debuff~~ "buff" really does is inflicting a crazy amount of damage at the start of the next turn, so being Intangible/having buffer makes you survive it. It's a very, VERY specific knowledge to have on a very, VERY specific situation that'll probably never occur, but hey!
+        I've never done it but don't you need 2 stacks of intangible to survive this?
+            You need intangible the turn you take the damage (next turn). So things like incense burner can save you if it activates on the turn you take 9999 damage (something like that). Apparitions on the other hand, you are correct in thinking you need to play 2 on the turn you play blasphemy in order to have a stack of intangible at the start of your next turn.
+                Ah, that makes sense. Thanks.
+                I remember it as 999 damage, is that right? If so,  you could theoretically tank the damage with the 999 cap on block. Realistically inefficient, but theoretically badass.
+                    I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+                        > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+                            Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+                                Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                                    Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+                            Yep it does more damage every time you get something from it
+                        Entropic Brew never generates Fruit Juice
+                            Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+                                That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                                    Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                                    + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                            entropic brew could give fruit juice out of combat?
+                                Just try to drink it...
+                        > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+                        It is actually 10,000, if memory serves.
+            Nope, it's a one time 99999 damage packet.
+                Except you die at the beginning of your next turn, so 1 stack will wear off before then. You need either 1 buffer or 2 intangible.
+                    Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+        The blasphemy thing is actually a BUFF that causes you to take 9999 damage at the start of next turn. THIS MEANS PELLETS does not fix it.
+        I've been trying to find a way to negate that, thank you!
+        Jorbs demonstrated this on stream one time, in a beautiful act of showmanship. "Well crap. I'm going to die to blasphemy. GG." <end turn> and then "hahahahaha, I'm intangible, you missed"
+        To be fair "skill" in roguelike games mostly consists on knowing a metric fuckton of extremely specific tricks that, put together, allow you to survive every random situation the game throws at you.
+            That's... A very accurate description of roguelikes actually
+        Kinda makes no sense. I mean, the card says you DIE. It shouldn't be any damage caused that can get negated. You should just, you know, DIE. If they wanted to let buffer or intangible negate it, it should be "take 9999 dmg" instead of "die" or something.
+            Yeah, I agree. Watcher has a few cards/mechanics that I feel aren't explained as clearly as the other classes (one example is that you can't see what upgraded [[Omega]] or [[Beta]] does until you have [[Master Reality]] in play and have already played [[Alpha]]; same goes for [[Expunger]]. Other classes you can right click on any card and view the upgrade, but that doesn't work with nested cards). 
+
+I've seen people say before that the "Die next turn" buff should set your HP to 0 (sort of how [[Judgement]] works), and that certainly would make it behave more in the way you expect it to. It definitely would be more clear if the card said "take 99,999 damage next turn." Or the tooltip when you hover the card/buff on your character could say that. It's not going to happen because of localization issues, but I kind of wish it would.
+                You can see what the upgraded versions of the combat-generated cards do in the Compendium. They are classified as colorless cards.
+                    Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
+                + [Omega](http://slay-the-spire.wikia.com/wiki/Omega) Colorless Special Power
+    
+    3 Energy | At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
++ [Beta](http://slay-the-spire.wikia.com/wiki/Beta) Colorless Special Skill
+    
+    2(1) Energy | Shuffle an Omega into your draw pile. **Exhaust.** (Obtained from Alpha).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
++ [Expunger](http://slay-the-spire.wikia.com/wiki/Expunger) Colorless Special Attack
+    
+    1 Energy | Deal 9(15) damage X times. (Obtained from Conjure Blade).
++ [Judgment](http://slay-the-spire.wikia.com/wiki/Judgment) Watcher Rare Skill
+    
+    1 Energy | If the enemy has 30(40) or less HP, set their HP to 0.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            This, I've never picked it up even tho I have had 2 buffer+ cards. If I would have known this it would have been in my deck.
+        Technically it's a buff, so that you can't remove it with artefact or orange pellets.
+        This is why Apparitions are busted on Watcher moreso than other characters lmao
+            IMO they're just as busted on Silent because of Nightmare and Burst.
+        Couldn’t you just get a Panecea to cancel that with Artifact as well?
+            No, you can't, because it is counted as a buff
+
+I think the devs made it that way exactly to prevent this
+                I think they should have switched these interactions.
+
+It makes far more sense to me to  be able to cancel the negative effect with artifact and have it just kill you instead of dealing damage so intangible doesn’t work. Plus Intangible is already super useful so having to run a less good effect like artifact seems like a fairer trade off.
+        Bro. That's so useful to know though.
+        That's really cool! Is there an achievement for this?
+            Unfortunatly, no.
+
+But the inner satisfaction of this exact scenario happening is more than enough for me, at least!
+        Holy shit this definitely changes my strategy
+        Won’t artifact also work
+            Nah, "Die next turn" is implemented as a buff to prevent this. [[Orange Pellets]] therefore won't work either.
+                + [Orange Pellets](http://slay-the-spire.wikia.com/wiki/Orange%20Pellets) Shop Relic
+    
+    Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                Huh. I guess it is part of the “enter divinity” which *is* a buff...
+                    No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+    "Oh, dang, I forgot about Velvet Choker.  Guess I'm taking 104 damage. Cool.  Cool."
+        Velvet choker is the worst "positive" relic in the game and noone should ever take it, change my mind.
+            It's \*often\* a terrible choice, but if you're consistently playing a small number of very expensive cards it can be the extra energy to get you one more heavy hitter card out.    
+Some examples: If you've cleaned out your deck it outperforms a pandora's box / birdcage / astrolabe.   If you already have strong retain (watcher) it's often a better choice than pyramid.  
+
+ It tends to be a bad pick in A1=>A2 because your deck probably isn't fully established and it might end up choking you.  A2=>A3 it can be a good call if you need energy and know you aren't playing lots of cards.
+    “Hmmm, it turns out I did not upgrade that starting ‘go rage mode card’, and I am out of mana. Guess I’ll die now. “
+
+     Me 2021
+        Should always upgrade eruption early on
+            It really goes to show how busted Watcher is that they essentially nerf her starting deck with the 2 cost Eruption
+    I absolutely love his card
+Classic F energy...If only you had enough mantra to enter divinity status and thus triple your damage while getting more energy this round\*
+
+^(\*Not exaggerating, this is a complete valid sentence for this character)
+    NGL got like ascension level 7-8 or so on the rest of em... watcher on level 2.
+        Watcher is an insanely powerful character (I personally think she is broken) because you can deal MASSIVE damage in act 1 with common/uncommon cards thanks to the wrath stance, which allows you to obliterate elites and boss.
+
+Then you are set to steamroll the game.
+            Wrath stance is insane
+            Definitely found watcher basically impossible when I started, then the strategy clicked and now it's cruisy. Quickly climbing the ascensions. It's got a very high skill ceiling and steep hill at the start of the learning curve. I've had a few runs where I get a fuck ton of mantra (eg. Worship), two omnisciences, and Ragnarok. Basically 216 damage the moment you draw omniscience, more if you have some cheeky strength/vulnerable cards and relics
+        I have only beat Ascension 20 on watcher and have been struggling for days getting Ironclad through the early teens. Its weird how much more sense Watcher makes to me than Iron.
+            Haha, I'm the reverse. Ironclad makes a lot of since to me with just "yea limit break into headbutt... again." My most recent heart kill died from around half HP to a roughly  1.1k+ heavy blow. (More total HP than it started the fight with)
+
+I often find myself getting wrecked by RNG while using Watcher when I either miss-count due to rushing, or just can't find a stance change for like 2 whole turns. Still working my way into understanding how to play her.
+            Ironclad's main source of damage and block is either exhaust decks or just strength and multi hits
+I enjoy the other three... but Watcher I just can't seem to get into. Maybe I need to play her more or look up strategies or something.
+    Yeah, I initially didn't like what Watcher was all about. It didn't feel like a fourth character, but more like a new game +, kind of like a player-modded character.
+
+However, I equate The Watcher to a more boom or bust variant of The Ironclad. A lot of her attacks are good when you're bursting out damage in one turn, and hoping that you killed the enemy that's attacking. I do find that she can easily be more powerful than the other three, assuming you can get the right cards and relics on floor 1. 
+
+If you don't like save scumming, The Watcher's really hard. There are tons of times when you just can't calculate the damage properly and now you're taking 40 damage, or you didn't consider that you'll get 2 more energy by switching stances, or... I mean, there are a lot of variables to think about.
+        Watcher is OP as hell once you know how to use her.
+
+IMO she's the least fun character to play though. Most runs you just plow through the spire effortlessly and don't think at all, which is boring. And then in close runs you have to do infinite math which is annoying and not what I play games for.
+            Watcher for me ends up in a lot of those situations where I feel like RNG really screwed me over. If you keep drawing in a way that doesn’t allow you to use Wrath sensibly, you end up slowly dying without being able to see the future and saying “If I take 40 damage here I will win, but if I stay in Calm I will slowly die over the next 4 turns.”
+
+Fun as hell when you draw well or get the right cards to mitigate this (scry, vault, Talk to the Hand, etc.), but it’s StS - you don’t always get the tools you need, and Watcher really suffers when this happens.
+                IDK, I feel like that's pretty easily mitigated. Over 20% of her cards allow some kind of stance switching. You just have to pick a few up.
+
+Sure, you could get insanely bad luck and not hit any, or just hit a bunch of ways into wrath and no ways out. But that's super unlikely, and even *then* you have outs in Wallop and Halt...or just lethal.
+                    That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+                        That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+                    I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+                        When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+            Yeah, I'm getting you. From A1-20, I didn't get the feeling that there were different ways to build her, and cards are just either good or bad. If you see Talk to the Hand, you pick it up. If you see Wreath of Flame, you ignore it. Vault's almost always an auto-pick. If you ever intend to go into Wrath mode, Ragnarok's a great card.
+
+I tried the Mark deck, but that didn't do anything. I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss (mind you, it was Slime Boss). I'm guessing there are other things that you should go for other than Pressure Points, but it doesn't feel like there are other cards in her kit that encourage that build, unlike Claw builds.
+                I agree that Pressure Points is an odd duck. If I haven't found any damage at all before the Act 1 elites I might pick it up, but it becomes worse than strike by the time you hit Act 2. It just has 0 synergies available.
+
+I actually had a fun deck that used Wreath of Flame the other day, but it was a crazy high-roll lol. Had three copies of Omniscience thanks to a duplicate event and finding Mirror in a shop, then managed to bottle one of them. So every turn 1 was something ridiculous like Omniscience, double Omniscience, double Omniscience, double Worship, double Wreath of Flame+, double Ragnarok+.
+
+It one shot literally every fight in the game besides the heart, which I ended up beating by double playing a bunch of powers on turn 1 and then just clicking cards at random lol.
+                >I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss 
+
+What? I'm not sure I understand how you mean. 4x Pressure Points should rip through any enemy's health.
+                    I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+                        While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+            Haha yeah it’s definitely sharpened my small numbers math game
+            I also agree, the watcher is easily the strongest character due to her strength during  the first act which snowballs out of control
+            Watcher has 2 modes:  
+- kill everything before it gets it's turn  
+- die due to double damage
+
+there is no in between, and getting holy water + the relic that lets you draw cards when your hand is empty is basically an almost insta win (I got apotheosis too, meaning I can upgrade those cards to +2 energy rather than +1 if I am lucky, and since I had the relic from the start at the cost of 21 life I could just always take 0 cost cards)
+        You can always properly calculate your damage in this game with 100% success rate.
+        What is save scumming?
+    Watcher is the strongest of the 4, but that's assuming you have a deep knowledge of the game. I found Watcher incredibly tough to play at first, but she's a character that really rewards deep knowledge of pathing and enemy movesets. The rule of thumb with Watcher is "always check if you have lethal." You'd be surprised with some of the turns you can kill on.
+        I think Watcher rewards slow, calculated play. I play slow af, but I math out if I'm going to survive going into murder stance and do better than I do the other 3. I do not have a particularly deep game knowledge without the wiki open.
+            Those Blasphemy turns where you have lethal by like 2 damage, but you have to do the math like 5 times to make absolutely sure you actually have lethal. You definitely have to pump the brakes when you play her. Ironclad you can kinda just pick up [[Feel no Pain]] and click on cards with exhaust written on them and win pretty quickly, assuming you're experienced enough not to flub up the fights too badly.
+                My Ironclad A20 strategy is to just kinda twiddle my thumbs until something broken happens.
+                + [Feel No Pain](http://slay-the-spire.wikia.com/wiki/Feel%20No%20Pain) Ironclad Uncommon Power
+    
+    1 Energy | Whenever a card is **Exhausted,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            I guess it depends on how you define "slow play"? To me Watcher doesn't feel slow; her attacks, when she attacks, are huge and kill things fast, rather than chipping away until something very slowly dies.
+                I mean I take longer between cards to decide exactly what I'm doing, not how many get played!
+                    Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
+    Yeah she's really fun imo but it never feels like I'm doing things right, like idk, maybe she's just harder or something. Ironclad and Silent have decently easy things but defect and Watcher just go brr with math trying to find lethal etc.
+        I mean, watcher does have lethal in ludicrous situations. There aren't many characters where you find yourself regularly asking "Am I killing this full life nob next turn ?". The most damage a character do, the more often you'll have to math out lethal. And watcher has a stupid amount of damage.
+            Got [[Blasphemy]] off Neow bonus on a run recently (that I lost RIP) but that was peak “oh my god I have lethal” out of nowhere I have ever experienced in StS. I suppose part of it was severely undervaluing that card (and the loss, for anyone who cares, was drafting too thick without shoring up my defenses properly—normal/elite combats didn’t usually last long enough for it to matter but it certainly did in boss rooms)
+                + [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Yeah with defect (with the time I've put into them) doing the math for block and damage with possible focus and other ways to gain damage/block is hard but yeah, the watcher can literally just one tap anyone and have billion energy if you manage to retain some weird-ass juggle hand
+        Watcher has the steepest learning curve, but her A20 winrate is the highest for many players. Wrath stance is incredibly powerful if you can learn to reliably get in and out of it without taking damage
+            The assumed optimal WR of watcher at A20 is 95% while it’s only 70% for IC and silent
+    Watcher is overpowered dude
+    Watcher is the only one I’ve gotten to A20 with. Really insane amounts of turn one damage. Once you get the rhythm of damage + block she’s pretty crazy. Wallop is such a good card that none of the other three even come close to having. Damage plus block on a 2 cost card too good
+        I mean, on its own, wallop is basically just a dash. Wallop feeling like such a powerful card is really more of a symptom of how stupid good watcher's stance dancing is.
+        Wallop does less damage and block than Dash
+            While that is true, if you’re using in wrath it’s almost 2x stronger than dash.
+    My bread and butter deck for watcher usually is featuring the retained stance switch cards along with 1or if possible 2 battle hymn cards. Retain the smites and build up one or two then switch off of calm to wrath and use that extra energy to one turn with all the smites you saved. The retained stance switch cards give you the ability to ensure you have an out for wrath if you can't 1 turn while also ensuring you are always ready to start the big damage when needed
+        Try adding a retained divinity/die-next-turn card. It’s sweet, sweet mayhem
+    Same, except I don't think Ironclad is that fun.
+    Mythical claw deck < Mythical shiv deck < Mythical pressure point deck.
+
+When one of those works properly, it's a fucking blast.
+    I struggled to get wins on the other 3, the watcher was an easily won run the first time I played them. they're powerful
+    I also couldn’t get into Watcher until there was a daily climb with her where all normal enemies dropped a relic. Basically got to play on super easy mode and figure out how everything synergized without worrying about messing up and dying. Now my win % is way higher with her than any other character.
+    Watcher is easier to use than the robot.
+    It's just a very boring class where you pick broken cards and do some math and win. There's not a lot of different playstyles.
+    I actually like Watcher quite a bit. I think that unlike the rest of them, it's much weaker early on. But if you survive long enough, I think it can be far, far better. Some of the cards are crazy fun, like the one where you can pick a card in your draw pile, play it twice, then exhaust it. Or the power that gives you more and more energy each turn. Those cards are so much fun.
+    I won with her during my first ever watcher run. Even though I didn’t know what the fuck I was doing half of the time. All I can say is she’s crazily strong
+    So I've got multiple A20 hearts with everyone (incl. watcher), and while she's extremely OP and can especially just steamroll thru act 1 I really don't enjoy playing her because it's just so much thinking and math compared to the other 3. 
+
+I usually just cycle thru the first 3 and play watcher once in a blue moon when I'm in the right mood. She probably still has my highest winrate tho.
+    She’s one of my favourites! Maybe my favourite overall. Try her again, you’ll find a nice synergy to groove with with her
+    A20 silent
+A20 defect 
+A12 Ironclad 
+A1 Watcher. 
+
+I just can't get into her. I have beaten A20 on two characters but just don't enjoy her
+    Watcher is dope. I ascended my first try just by picking up lots of cheap stance changers. That gives you the options to do basically whatever you want with the rest of your cards. Defect on the other hand... still trying to make it make sense
+I am 100.0% confident you mentioned [[Prismatic Shard]] in your post.
+
+Let me call the bot for you.
+
+--------------------------------------------------
+
+I am a bot response, but I am using my creator's account. Please reply to me if I got something wrong so he can fix it.
+
+[Source Code](https://github.com/TrippW/STS-Crawler)
+    + [Prismatic Shard](http://slay-the-spire.wikia.com/wiki/Prismatic%20Shard) Shop Relic
+    
+    Combat reward screens now contain colorless cards and cards from other colors.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Great bot keep up the god work.
+
+Edit : Good work
+    love this bot so much
+        Thank you :)
+    Big brain bot
+Watcher is high reward, but you have to be careful as hell. When it works it works big, but you need to have a deck that can switch to calm at a moments notice. But yeah definitely the easiest to gain energy with to the point that you don’t absolutely need to grab a power relic if better options show up.
+    i've been killed on floor 2 with watcher because I played like a complete moron.
+        Yeah, it’s particularly difficult against certain bosses and very easy against others. Knowing combat iterations is really critical. It’s just amazing that they made such a simple game super addictive and fun.
+            Slime boss comes to mind.   You can make it a walk in the park or a death sentence.
+You just made my day. Thank you good sir.
+This is the best shitpost I've seen here in forever
+But if the vibes are there then everything dies
+The Watcher is fun, but the hardest to play as imo.
+    Hardest to master, easiest to succeed with afterwards*
+        Probably true. My best watcher runs are when I start getting into a rhythm while I play, but those are few and far between. Most of the time I’ll be over thinking my plays.
+        My best watcher run was the daily climb a few day ago where my watchers is a hybrid woth defect. Let just say that double damage hyperbeam is fun
+        Dumb mistakes with watcher lead to dying almost immediately, while dumb mistakes on other chars kill you much slower.  But if you don't make dumb mistakes she's busted
+    I disagree, watcher is so stupidly OP that you can just faceroll everything, and the stances aren't even a particularly complicated mechanic. Stay in calm for setup turns/defense, wrath, or divinity if possible when it's time to kill shit, and then with how many retain cards are available you just get to be incredibly consistent. Compare that to defect and their  orb rotation, where you're balancing offense and defense simultaneously, and you have to worry about things like channeling lightning to evoke your frost, which gives you defense now but sacrifices it for later, potentially leaving you high and dry. Combine this with the fact that watcher just has such extreme levels of power and consistency that means they just aren't going to struggle with say, slime boss, and it's really hard to say that they are the hardest.
+        I think it depends on what you mean by "hardest." Watcher is by far the strongest at A20 for experienced players, but newer players can have a ton of trouble with her if they're a bit sloppy with calculations, or if they haven't yet memorized exactly what each enemy is capable of. You can easily go from stomping to losing a whole run by forgetting about Choker, playing Blasphemy too early, miscalculating stance swap energy, barely missing lethal, etc.
+            Yeah, I’m not exactly new at the game, but I’m far from A20 too. I’ll play it a lot for a few weeks then not pick it up for a few more weeks before coming back to it. I’m getting better, but I still struggle with calculations. Lots of the powers are pretty good, but very situational (like gaining block when you scry). Unless I already have a few scry cards in my deck, it’s a dead card for me. Blasphemy seems good, but I almost never take it because I’m almost certain I’ll kill myself with it. Maybe my problem with the watcher is I’m too hesitant to take certain cards that would actually help a lot just because I’m not sure about being able to use them properly.
+        Fair assessment. Though it’s an easy enough concept to grasp, execution isn’t as easy in my experience. I think I struggle more to ascend with the watcher more than the others. I get that it’s way more consistent than the defect, but for whatever reason the defect’s randomness is easier to play than the watcher which I find more challenging.
+    I'm still somewhat newish (only beat the heart with two characters) but I actually have an easy enough time with Watcher. It's Silent I'm not crazy about. Seems so dependent on getting good relics. At least more than the rest of them.
+        I love the Silent. It’s probably either my favorite or second favorite. I agree it’s tough to play though, unless you get lucky with your rng. It’s basically either a great run, or a bad run depending on the relics and cards that I get early on. I like doing shiv builds, but I rarely get the wristblade when I have the deck for it.
+I don't think I've ever actively chosen a scry card, it must be my least used mechanic.
+    [[cut through fate]] and [[third eye]] are both amazing commons. Scry let's you choose the cards you need for next turn - or this turn if you have card draw like cut through fate or an insight in hand.
+        Seriously, both of those cards are *fantastic*. Even if you have no scry synergy, they're both very efficient cards on their own. And there are a decent number of decks that want Cut Through Fate more than literally any other attack.
+        + [Cut Through Fate](http://slay-the-spire.wikia.com/wiki/Cut%20Through%20Fate) Watcher Common Attack
+    
+    1 Energy | Deal 7(9) damage. **Scry** 2(3). Draw 1 card.
++ [Third Eye](http://slay-the-spire.wikia.com/wiki/Third%20Eye) Watcher Common Skill
+    
+    1 Energy | Gain 7(9) **Block.** **Scry** 3(5).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        OK BUT THATS LIKE A WHOLE EXTRA STEP TO MY TURN I DONT HAVE THE BRAIN SPACE FOR IT
+    Scry is good, but its a means to an end. Its similar to the Silent's relationship with obscene draw: You need a wincon outside of just drawing a bazillion cards each turn. You can scry for more pressure points, or to put flurries of blows into your discard, or to make damn sure you can get out of wrath at turn end...
+
+I'm ignoring that Weave exists because I've never managed to make that card work for me.
+        Got a Weave Deck to work ONCE and I still get excited thinking about that run
+            Me too.
+    Scrying is basically watcher’s alternative to card draw. Even if you don’t build your deck around scrying, I think it’s pretty useful to have a few scry cards.
+        I've never really noticed a lack of draw with Watcher, think it's maybe due to the amount of retain that's available.
+            Yeah retain can be a viable alternative, especially with cards like Meditate. However, a lot of retain strategies can be tricky to pull off. Like Battle Hymn and Establishment seem OP, but they’re often slow (which means you need block, can be challenging on watcher), and can clutter up your hand.
+    There’s a really broken deck you can build with a bunch of scry and several [[weave]]. If you see weave when you scry and you discard it, it returns to your hand from that scry. It doesn’t work as well on higher ascensions, but you can do solid damage and avoid most status cards, plus with [[nirvana]] get crazy block. I’ve had a lot of fun with it.
+        + [Weave](http://slay-the-spire.wikia.com/wiki/Weave) Watcher Uncommon Attack
+    
+    0 Energy | Deal 4(6) damage. Whenever you **Scry** and would discard this card, add it into your hand instead.
++ [Nirvana](http://slay-the-spire.wikia.com/wiki/Nirvana) Watcher Uncommon Power
+    
+    1 Energy | Whenever you **Scry,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Huh, that's...not really an accurate description for Weave. Makes it sound like the effect *only* activates after it's discarded via scry. Why not use the actual text on the card?
+                The bot is outdated, Weave used to function that way and have that text on it.
+    any scry + pressure point is fun as hell. add a study and I'm there.
+        What’s the purpose of pressure point? I don’t get it
+            it accumulates. so the first is 8 damage. if you play it on another mob, you do 8 damage to that mob, and 8 to the original. if you play another on the same mob, you do 16 damage on that mob and 8 on the other.
+
+with scry+study+block, you can go through a lot of enemies.
+    Scry is kind of like Ironclad's exhaust; it lets you cut through your deck and get to the five or six cards that you actually want next turn.
+    When I had 3 Pressure Points in deck and removed most attacks, scry made me play them more often while filtering block or statuses. Having Alpha and scrying for Beta and Omega helps too.
+Ironclad: I cut myself to hurt you more
+
+Silent: I’ll stab you to death if you don’t die of poison first
+
+Defect: I’ll shock the shit out of you and all your friends
+
+Watcher: <3 no bad times, moods and vibes only <3
+My only A20 win is with Watcher, I'm on A20 with Defect as well just haven't gotten a win yet.
+
+Which is to say, don't sleep on Watcher.
+This is the best STS meme I've ever seen.
+I just can’t get behind scry as a mechanic 😭 poison for days!
+    Scry is more comparable to the Silent's discard or the Ironclad's exhaust than it is to poison. It mostly turns an already solid deck into an unstoppable deck.
+        I think they meant their favorite deck uses poison.
+            I think so too, but my point still stands. It's like saying "I can't get behind coffee as something edible. Hamburgers for days"
+This is extremely well memed and hits me right in the heart.
+
+Thank you so much!
+my first ever win was with Watcher when I tried her for the first time ever. To this day I still have no idea what to do as her
+This is the kind of thing I'm on Reddit for.
+Watcher does feel the toughest to me to play. I can never spin my head around the stances well enough, though I did do well with a retain deck that one time. 
+
+Using [[Windmill Strike]] and [[Sands Of Time]]  , but I still need a lot of practice. It doesn't feel familiar or good to me like the Ironclad and the Silent.
+    If you don't mind some unsolicited advice... 
+
+> I can never spin my head around the stances well enough
+
+So for stances, Wrath and Calm are your bread and butter. You'll often want multiple ways to enter them in your deck, since it'll help you swap between them frequently and reliably. [[Tantrum]] is a great way of entering wrath, and [[Mediate]] is a great way of entering calm. [[Empty Fist]] also pairs really well with Wrath, since it allows you to exit wrath while dealing a nice chunk of damage at the same time ([[Fear No Evil]] does something similar). Other ways of entering and exiting stances are also good, but these are just a few examples.
+
+The ideal Wrath turn is when you  just enter wrath and murder everything attacking you ([[Wheel Kick]] and [[Conclude]] are fantastic for this). That won't always be possible, though, so the other option is to ensure you never end your turn in wrath ([[Tranquility]] can help with this) or you just generate enough block it doesn't matter ([[Halt]] and [[Wallop]] are great for this). Scry, Draw, and  Retain are all great tools for ensuring better wrath turns as well. 
+
+There's also Divinity. It's the strongest stance, but it's also the hardest stance to enter. For hallway fights, far and away the best card for entering Divinity is [[Blasphemy]]. This card can be absolutely busted if you leverage it properly, and will just completely destroy hallway fights. Outside of Blasphemy, though, divinity is usually (but not always!) just reserved for boss fights as a form of scaling.
+
+> I did do well with a retain deck that one time.  
+
+Sounds like you might be getting yourself too pigeonholed into archetypes. Retain is just a really powerful mechanic which you'll always want to have in your deck. Cards like [[Protect]], [[Tranquility]], and [[Carve Reality]] are all staple Watcher cards which can be a great addition to *any* deck, not just a "retain" deck. The reason is that cards like this allow you to setup better turns, by ensuring you've got block and damage on the turns where you need them. 
+
+> Using Windmill Strike and Sands Of Time
+
+These cards have their uses, but they can often be too slow for Hallway fights. This is especially true for Windmill Strike.  Upgrading Sands of time helps a  lot with it's speed  issues, since 26 damage is high enough that using it in Wrath will just murder a  lot of hallway fights (aka just play it at 3 energy, who cares, enemy is dead anyway). 
+
+You really want to end hallway fights ASAP, since you want to get through them while taking as little damage as possible. So if you've been over relying on these cards, some of your struggles might just be due to taking too much damage in hallway fights, due to the innate slowness of the cards. To be clear I'm not saying those other cards aren't worth using, it's just that if the bulk of your damage is coming from those two, then hallway fights are going to give you some trouble.
+
+Cards such as [[Crush Joints]], [[Empty Fist]], [[Carve Reality]], [[Conclude]], [[Tantrum]], and [[Wheel Kick]] are all quite a bit faster than those, and so are great for ending hallway fights quickly.
+
+I hope that helps,  and  if you weren't looking any advice, sorry about that! I just had the urge to write a wall of text about Spire strategy, and your comment seemed like the perfect opportunity.
+        + [Tantrum](http://slay-the-spire.wikia.com/wiki/Tantrum) Watcher Uncommon Attack
+    
+    1 Energy | Deal 3 damage 3(4) times. Enter **Wrath.** Shuffle this card into your draw pile.
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Empty Fist](http://slay-the-spire.wikia.com/wiki/Empty%20Fist) Watcher Common Attack
+    
+    1 Energy | Deal 9(14) damage. Exit your **Stance.**
++ [Fear No Evil](http://slay-the-spire.wikia.com/wiki/Fear%20No%20Evil) Watcher Uncommon Attack
+    
+    1 Energy | Deal 8(11) damage. If the enemy intends to Attack, enter **Calm.**
++ [Wheel Kick](http://slay-the-spire.wikia.com/wiki/Wheel%20Kick) Watcher Uncommon Attack
+    
+    2 Energy | Deal 15(20) damage. Draw 2 cards.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
++ [Tranquility](http://slay-the-spire.wikia.com/wiki/Tranquility) Watcher Common Skill
+    
+    1(0) Energy | **Retain.** Enter **Calm.** **Exhaust.**
++ [Halt](http://slay-the-spire.wikia.com/wiki/Halt) Watcher Common Skill
+    
+    0 Energy | Gain 3(4) **Block.** **Wrath:** Gain 9(14) additional **block.**
++ [Wallop](http://slay-the-spire.wikia.com/wiki/Wallop) Watcher Uncommon Attack
+    
+    2 Energy | Deal 9(12) damage. Gain **Block** equal to unblocked damage dealt.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Well, those were just some examples. 
+
+It would be rather silly if I focused on those two cards for all my damage. Those were the two that surfaced the mind since I remember entering divinity then doing a lot of damage with [[Sands Of Time]] and [[Windmill Strike]].  
+
+Although I wouldn't of even made it that far if it wasn't for [[Master Reality]] and [[Battle Hymn]]. As well as [[Protect]]. I went ahead and looked up my run and surprisingly I won with [[Philosopher's stone]], I hardly even remember that. 
+
+This was also one of the few times that [[Deva Form]] worked out, but with the extra energy and all the defense I could stack together like from [[Protect]]. Really considering all the mantra I was gaining as well, [[Brilliance]] would've been a good choice, but maybe I didn't roll it on the run. 
+
+Though it seems that [[Conclude]] and [[Consecrate]] are really the only real areas of AoE for the Watcher. There's a bunch of cards I still haven't even really touched upon though still.  Really the Watcher seems to have a lot of draw, which reminds me of the silent a bit. [[Cut Through Fate]] and [[Wheel Kick]] 
+
+>That won't always be possible, though, so the other option is to ensure you never end your turn in wrath.
+
+That's a death sentence, yes. Now how I've been using them is in a few different ways depending on the enemy and such. You can enter wrath and stay like that during the next turn if you know that you're going to finish the enemy off anyhow. Or either enter calm again before the turn ends. All of the 'empty' cards can be good for this. 
+
+[[Empty Fist]] and [[Empty Body]] for example, but it seems like the most important part is to have a surefire way to enter/exit both stances when you need it. Hmm, actually more like Wrath more than anything because that demerit can end your run; you really don't want to be sitting in there for anymore than a turn or two most of the time I've found. 
+
+Setting up your 'burst turn' by preemptively going into calm first on a prior turn or something like that with [[Vigilance]] is what I usually do since you have barely any options early on and want to end fights before taking much damage. Both [[Tranquility]] and [[Crescendo]] are like the same card, but for calm and wrath respectively which would be good to have so you can enter one or the other for one reason or another. Like an emergency button if your wrath turn didn't kill or something like that.
+            + [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Philosopher's Stone](http://slay-the-spire.wikia.com/wiki/Philosopher%27s%20Stone) Boss Relic
+    
+    Gain 1 Energy at the start of each turn. ALL enemies start with 1 **Strength.**
++ [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Brilliance](http://slay-the-spire.wikia.com/wiki/Brilliance) Watcher Rare Attack
+    
+    1 Energy | Deal 12(16) damage. Deals additional damage for all **Mantra** gained this combat.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Your comment is helping someone else almost 1 month later. Thank you haha
+            Glad I could help! Thanks for the silver!
+    + [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+You’re not wrong, but that’s why I love playing Watcher. Complicated mechanics are my drug of choice.
+Ironclad: 
+
+Shoot yourself with a handgun.
+
+If you don’t so much as flinch- gain 9 ^9 Str and Block
+As someone who usually does play Watcher, this is accurate.
+Watcher is my least played as well. I have never enjoyed it and have no desire to revisit.
+    I got to A20 with the other 3 and figured I would do the same with Watcher. Rattled off 4-5 wins and just totally lost interest. Don't think I've played watcher since.
+        Dailies I’ll play every now and again with watcher. But I just can’t get into the groove.
+Watcher runs seem to always exceed the 2 hour mark and I got no time for that usually... Act 1: 5 minutes ; Act 2: 25 minutes ; Act 3: 40 minutes ; Act 4: 50 minutes....At least!
+\[\[Lock-On\]\] has entered the chat
+I’m crying with laughter in public right now
+This is already hilarious before reading the wall of text on the card, and actually reading it makes it even better
+
+Best StS meme ever, unbeatable
+skip
+2 years later, this is still my favourite post about watcher cards
+That me
+That "Die this turn" sent me flying lmao
+I'm a15 on silent, a8 ironclad, a5 defect, and I have 3 unlocks left on the watcher.
+
+She is the antifun.
+The only way I know how to play watcher is with divinity. scry is useful on its own but stances? stances are what break my brain.
+the idea that watcher requires reading, in a card game, being a negative seems very odd to me.
+    Ironic that the blind woman is the one that requires reading
+        Iron clad is "I am stronk", Silent is "I am fast, eat poison" and Defect is "Random shit go!". But Watcher is like doing math.
+I don't know what it is but after I beat act 3 with the first 3 characters I started in on the Watcher but after a bit I was like - "Think I'll start my ascension with Ironclad instead."
+This is exactly how I feel about Prismatic Shard.  You hit the nail on the head.
+I’m at A18-20 with the other characters but have been hard stuck at A14 on Watcher for ages. Makes me crazy.
+Emo bipolar yoga instructor seems about right
+Bro this is hilarious
+Lol downward dog
+Made me laugh
+“F” as the energy cost of the card! Lol
+Watcher is fun, she's like playing yugioh without the absolute cancerous community and having your cards stolen every time you play
+It costs ‘F’ lmao!!
+The watcher is so scary to play I just stick to the defect
+This is ducking hilarious
+I'm currently in a videoconference and I had to panic shutdown the camera because I couldn't hold the laughter in. This fucking killed me
+High quality post. Watcher is my fav tho I would recommend giving a shot some day
+As someone who does play watcher, yeah pretty much I have no idea how to play this character but I'm having fun with it
+    You accidentally one shot bosses and have no clue how to do it again
+        No clue what I'm doing but it sure is something!
+As someone who loves playing watcher (yet still can't get to heart) I hear ya but holy shit it's god tier once you figure it out. Slaying off hordes of enemies in a single turn. 
+
+I usually just run out of health on the big bosses
+I just wish she was fun to play.
+Very accurate description of blasphemy
+Watcher strat : step 1: use many flurry of blows
+Step 2: enter wrath
+Step 3: use flurries of blows again
+Step 4: enter kalm
+Step 5: use flurries of blows again
+Then you realize it's time eater and get clapped
+Well for me, I play as the watcher a lot and suck at the Silent.
+This post is gold. Good shit
+Fun to use though
+I just kept laughing harder after each purple line.
+    The “die this turn” was just a perfect ending
+It’s ridiculously accurate. Shit, I do play Watcher and half the cards still sound like this
+    Watcher is my second favorite and I'm unsure how to play her
+    it's like this even when you spend some time with watcher
+like, this post is so good. I don't think a post here has made me laugh this much.
+Xp
+Well, fun fact time! You can negate the "Die this turn" with Intangible or Buffer!
+
+What the ~~debuff~~ "buff" really does is inflicting a crazy amount of damage at the start of the next turn, so being Intangible/having buffer makes you survive it. It's a very, VERY specific knowledge to have on a very, VERY specific situation that'll probably never occur, but hey!
+    I've never done it but don't you need 2 stacks of intangible to survive this?
+        You need intangible the turn you take the damage (next turn). So things like incense burner can save you if it activates on the turn you take 9999 damage (something like that). Apparitions on the other hand, you are correct in thinking you need to play 2 on the turn you play blasphemy in order to have a stack of intangible at the start of your next turn.
+            Ah, that makes sense. Thanks.
+            I remember it as 999 damage, is that right? If so,  you could theoretically tank the damage with the 999 cap on block. Realistically inefficient, but theoretically badass.
+                I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+                    > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+                        Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+                            Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                                Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+                        Yep it does more damage every time you get something from it
+                    Entropic Brew never generates Fruit Juice
+                        Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+                            That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                                Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                                + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                        entropic brew could give fruit juice out of combat?
+                            Just try to drink it...
+                    > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+                    It is actually 10,000, if memory serves.
+        Nope, it's a one time 99999 damage packet.
+            Except you die at the beginning of your next turn, so 1 stack will wear off before then. You need either 1 buffer or 2 intangible.
+                Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+    The blasphemy thing is actually a BUFF that causes you to take 9999 damage at the start of next turn. THIS MEANS PELLETS does not fix it.
+    I've been trying to find a way to negate that, thank you!
+    Jorbs demonstrated this on stream one time, in a beautiful act of showmanship. "Well crap. I'm going to die to blasphemy. GG." <end turn> and then "hahahahaha, I'm intangible, you missed"
+    To be fair "skill" in roguelike games mostly consists on knowing a metric fuckton of extremely specific tricks that, put together, allow you to survive every random situation the game throws at you.
+        That's... A very accurate description of roguelikes actually
+    Kinda makes no sense. I mean, the card says you DIE. It shouldn't be any damage caused that can get negated. You should just, you know, DIE. If they wanted to let buffer or intangible negate it, it should be "take 9999 dmg" instead of "die" or something.
+        Yeah, I agree. Watcher has a few cards/mechanics that I feel aren't explained as clearly as the other classes (one example is that you can't see what upgraded [[Omega]] or [[Beta]] does until you have [[Master Reality]] in play and have already played [[Alpha]]; same goes for [[Expunger]]. Other classes you can right click on any card and view the upgrade, but that doesn't work with nested cards). 
+
+I've seen people say before that the "Die next turn" buff should set your HP to 0 (sort of how [[Judgement]] works), and that certainly would make it behave more in the way you expect it to. It definitely would be more clear if the card said "take 99,999 damage next turn." Or the tooltip when you hover the card/buff on your character could say that. It's not going to happen because of localization issues, but I kind of wish it would.
+            You can see what the upgraded versions of the combat-generated cards do in the Compendium. They are classified as colorless cards.
+                Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
+            + [Omega](http://slay-the-spire.wikia.com/wiki/Omega) Colorless Special Power
+    
+    3 Energy | At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
++ [Beta](http://slay-the-spire.wikia.com/wiki/Beta) Colorless Special Skill
+    
+    2(1) Energy | Shuffle an Omega into your draw pile. **Exhaust.** (Obtained from Alpha).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
++ [Expunger](http://slay-the-spire.wikia.com/wiki/Expunger) Colorless Special Attack
+    
+    1 Energy | Deal 9(15) damage X times. (Obtained from Conjure Blade).
++ [Judgment](http://slay-the-spire.wikia.com/wiki/Judgment) Watcher Rare Skill
+    
+    1 Energy | If the enemy has 30(40) or less HP, set their HP to 0.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        This, I've never picked it up even tho I have had 2 buffer+ cards. If I would have known this it would have been in my deck.
+    Technically it's a buff, so that you can't remove it with artefact or orange pellets.
+    This is why Apparitions are busted on Watcher moreso than other characters lmao
+        IMO they're just as busted on Silent because of Nightmare and Burst.
+    Couldn’t you just get a Panecea to cancel that with Artifact as well?
+        No, you can't, because it is counted as a buff
+
+I think the devs made it that way exactly to prevent this
+            I think they should have switched these interactions.
+
+It makes far more sense to me to  be able to cancel the negative effect with artifact and have it just kill you instead of dealing damage so intangible doesn’t work. Plus Intangible is already super useful so having to run a less good effect like artifact seems like a fairer trade off.
+    Bro. That's so useful to know though.
+    That's really cool! Is there an achievement for this?
+        Unfortunatly, no.
+
+But the inner satisfaction of this exact scenario happening is more than enough for me, at least!
+    Holy shit this definitely changes my strategy
+    Won’t artifact also work
+        Nah, "Die next turn" is implemented as a buff to prevent this. [[Orange Pellets]] therefore won't work either.
+            + [Orange Pellets](http://slay-the-spire.wikia.com/wiki/Orange%20Pellets) Shop Relic
+    
+    Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Huh. I guess it is part of the “enter divinity” which *is* a buff...
+                No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+"Oh, dang, I forgot about Velvet Choker.  Guess I'm taking 104 damage. Cool.  Cool."
+    Velvet choker is the worst "positive" relic in the game and noone should ever take it, change my mind.
+        It's \*often\* a terrible choice, but if you're consistently playing a small number of very expensive cards it can be the extra energy to get you one more heavy hitter card out.    
+Some examples: If you've cleaned out your deck it outperforms a pandora's box / birdcage / astrolabe.   If you already have strong retain (watcher) it's often a better choice than pyramid.  
+
+ It tends to be a bad pick in A1=>A2 because your deck probably isn't fully established and it might end up choking you.  A2=>A3 it can be a good call if you need energy and know you aren't playing lots of cards.
+“Hmmm, it turns out I did not upgrade that starting ‘go rage mode card’, and I am out of mana. Guess I’ll die now. “
+
+     Me 2021
+    Should always upgrade eruption early on
+        It really goes to show how busted Watcher is that they essentially nerf her starting deck with the 2 cost Eruption
+I absolutely love his card
+NGL got like ascension level 7-8 or so on the rest of em... watcher on level 2.
+    Watcher is an insanely powerful character (I personally think she is broken) because you can deal MASSIVE damage in act 1 with common/uncommon cards thanks to the wrath stance, which allows you to obliterate elites and boss.
+
+Then you are set to steamroll the game.
+        Wrath stance is insane
+        Definitely found watcher basically impossible when I started, then the strategy clicked and now it's cruisy. Quickly climbing the ascensions. It's got a very high skill ceiling and steep hill at the start of the learning curve. I've had a few runs where I get a fuck ton of mantra (eg. Worship), two omnisciences, and Ragnarok. Basically 216 damage the moment you draw omniscience, more if you have some cheeky strength/vulnerable cards and relics
+    I have only beat Ascension 20 on watcher and have been struggling for days getting Ironclad through the early teens. Its weird how much more sense Watcher makes to me than Iron.
+        Haha, I'm the reverse. Ironclad makes a lot of since to me with just "yea limit break into headbutt... again." My most recent heart kill died from around half HP to a roughly  1.1k+ heavy blow. (More total HP than it started the fight with)
+
+I often find myself getting wrecked by RNG while using Watcher when I either miss-count due to rushing, or just can't find a stance change for like 2 whole turns. Still working my way into understanding how to play her.
+        Ironclad's main source of damage and block is either exhaust decks or just strength and multi hits
+Yeah, I initially didn't like what Watcher was all about. It didn't feel like a fourth character, but more like a new game +, kind of like a player-modded character.
+
+However, I equate The Watcher to a more boom or bust variant of The Ironclad. A lot of her attacks are good when you're bursting out damage in one turn, and hoping that you killed the enemy that's attacking. I do find that she can easily be more powerful than the other three, assuming you can get the right cards and relics on floor 1. 
+
+If you don't like save scumming, The Watcher's really hard. There are tons of times when you just can't calculate the damage properly and now you're taking 40 damage, or you didn't consider that you'll get 2 more energy by switching stances, or... I mean, there are a lot of variables to think about.
+    Watcher is OP as hell once you know how to use her.
+
+IMO she's the least fun character to play though. Most runs you just plow through the spire effortlessly and don't think at all, which is boring. And then in close runs you have to do infinite math which is annoying and not what I play games for.
+        Watcher for me ends up in a lot of those situations where I feel like RNG really screwed me over. If you keep drawing in a way that doesn’t allow you to use Wrath sensibly, you end up slowly dying without being able to see the future and saying “If I take 40 damage here I will win, but if I stay in Calm I will slowly die over the next 4 turns.”
+
+Fun as hell when you draw well or get the right cards to mitigate this (scry, vault, Talk to the Hand, etc.), but it’s StS - you don’t always get the tools you need, and Watcher really suffers when this happens.
+            IDK, I feel like that's pretty easily mitigated. Over 20% of her cards allow some kind of stance switching. You just have to pick a few up.
+
+Sure, you could get insanely bad luck and not hit any, or just hit a bunch of ways into wrath and no ways out. But that's super unlikely, and even *then* you have outs in Wallop and Halt...or just lethal.
+                That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+                    That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+                I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+                    When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+        Yeah, I'm getting you. From A1-20, I didn't get the feeling that there were different ways to build her, and cards are just either good or bad. If you see Talk to the Hand, you pick it up. If you see Wreath of Flame, you ignore it. Vault's almost always an auto-pick. If you ever intend to go into Wrath mode, Ragnarok's a great card.
+
+I tried the Mark deck, but that didn't do anything. I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss (mind you, it was Slime Boss). I'm guessing there are other things that you should go for other than Pressure Points, but it doesn't feel like there are other cards in her kit that encourage that build, unlike Claw builds.
+            I agree that Pressure Points is an odd duck. If I haven't found any damage at all before the Act 1 elites I might pick it up, but it becomes worse than strike by the time you hit Act 2. It just has 0 synergies available.
+
+I actually had a fun deck that used Wreath of Flame the other day, but it was a crazy high-roll lol. Had three copies of Omniscience thanks to a duplicate event and finding Mirror in a shop, then managed to bottle one of them. So every turn 1 was something ridiculous like Omniscience, double Omniscience, double Omniscience, double Worship, double Wreath of Flame+, double Ragnarok+.
+
+It one shot literally every fight in the game besides the heart, which I ended up beating by double playing a bunch of powers on turn 1 and then just clicking cards at random lol.
+            >I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss 
+
+What? I'm not sure I understand how you mean. 4x Pressure Points should rip through any enemy's health.
+                I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+                    While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+        Haha yeah it’s definitely sharpened my small numbers math game
+        I also agree, the watcher is easily the strongest character due to her strength during  the first act which snowballs out of control
+        Watcher has 2 modes:  
+- kill everything before it gets it's turn  
+- die due to double damage
+
+there is no in between, and getting holy water + the relic that lets you draw cards when your hand is empty is basically an almost insta win (I got apotheosis too, meaning I can upgrade those cards to +2 energy rather than +1 if I am lucky, and since I had the relic from the start at the cost of 21 life I could just always take 0 cost cards)
+    You can always properly calculate your damage in this game with 100% success rate.
+    What is save scumming?
+Watcher is the strongest of the 4, but that's assuming you have a deep knowledge of the game. I found Watcher incredibly tough to play at first, but she's a character that really rewards deep knowledge of pathing and enemy movesets. The rule of thumb with Watcher is "always check if you have lethal." You'd be surprised with some of the turns you can kill on.
+    I think Watcher rewards slow, calculated play. I play slow af, but I math out if I'm going to survive going into murder stance and do better than I do the other 3. I do not have a particularly deep game knowledge without the wiki open.
+        Those Blasphemy turns where you have lethal by like 2 damage, but you have to do the math like 5 times to make absolutely sure you actually have lethal. You definitely have to pump the brakes when you play her. Ironclad you can kinda just pick up [[Feel no Pain]] and click on cards with exhaust written on them and win pretty quickly, assuming you're experienced enough not to flub up the fights too badly.
+            My Ironclad A20 strategy is to just kinda twiddle my thumbs until something broken happens.
+            + [Feel No Pain](http://slay-the-spire.wikia.com/wiki/Feel%20No%20Pain) Ironclad Uncommon Power
+    
+    1 Energy | Whenever a card is **Exhausted,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        I guess it depends on how you define "slow play"? To me Watcher doesn't feel slow; her attacks, when she attacks, are huge and kill things fast, rather than chipping away until something very slowly dies.
+            I mean I take longer between cards to decide exactly what I'm doing, not how many get played!
+                Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
+Yeah she's really fun imo but it never feels like I'm doing things right, like idk, maybe she's just harder or something. Ironclad and Silent have decently easy things but defect and Watcher just go brr with math trying to find lethal etc.
+    I mean, watcher does have lethal in ludicrous situations. There aren't many characters where you find yourself regularly asking "Am I killing this full life nob next turn ?". The most damage a character do, the more often you'll have to math out lethal. And watcher has a stupid amount of damage.
+        Got [[Blasphemy]] off Neow bonus on a run recently (that I lost RIP) but that was peak “oh my god I have lethal” out of nowhere I have ever experienced in StS. I suppose part of it was severely undervaluing that card (and the loss, for anyone who cares, was drafting too thick without shoring up my defenses properly—normal/elite combats didn’t usually last long enough for it to matter but it certainly did in boss rooms)
+            + [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Yeah with defect (with the time I've put into them) doing the math for block and damage with possible focus and other ways to gain damage/block is hard but yeah, the watcher can literally just one tap anyone and have billion energy if you manage to retain some weird-ass juggle hand
+    Watcher has the steepest learning curve, but her A20 winrate is the highest for many players. Wrath stance is incredibly powerful if you can learn to reliably get in and out of it without taking damage
+        The assumed optimal WR of watcher at A20 is 95% while it’s only 70% for IC and silent
+Watcher is overpowered dude
+Watcher is the only one I’ve gotten to A20 with. Really insane amounts of turn one damage. Once you get the rhythm of damage + block she’s pretty crazy. Wallop is such a good card that none of the other three even come close to having. Damage plus block on a 2 cost card too good
+    I mean, on its own, wallop is basically just a dash. Wallop feeling like such a powerful card is really more of a symptom of how stupid good watcher's stance dancing is.
+    Wallop does less damage and block than Dash
+        While that is true, if you’re using in wrath it’s almost 2x stronger than dash.
+My bread and butter deck for watcher usually is featuring the retained stance switch cards along with 1or if possible 2 battle hymn cards. Retain the smites and build up one or two then switch off of calm to wrath and use that extra energy to one turn with all the smites you saved. The retained stance switch cards give you the ability to ensure you have an out for wrath if you can't 1 turn while also ensuring you are always ready to start the big damage when needed
+    Try adding a retained divinity/die-next-turn card. It’s sweet, sweet mayhem
+Same, except I don't think Ironclad is that fun.
+Mythical claw deck < Mythical shiv deck < Mythical pressure point deck.
+
+When one of those works properly, it's a fucking blast.
+I struggled to get wins on the other 3, the watcher was an easily won run the first time I played them. they're powerful
+I also couldn’t get into Watcher until there was a daily climb with her where all normal enemies dropped a relic. Basically got to play on super easy mode and figure out how everything synergized without worrying about messing up and dying. Now my win % is way higher with her than any other character.
+Watcher is easier to use than the robot.
+It's just a very boring class where you pick broken cards and do some math and win. There's not a lot of different playstyles.
+I actually like Watcher quite a bit. I think that unlike the rest of them, it's much weaker early on. But if you survive long enough, I think it can be far, far better. Some of the cards are crazy fun, like the one where you can pick a card in your draw pile, play it twice, then exhaust it. Or the power that gives you more and more energy each turn. Those cards are so much fun.
+I won with her during my first ever watcher run. Even though I didn’t know what the fuck I was doing half of the time. All I can say is she’s crazily strong
+So I've got multiple A20 hearts with everyone (incl. watcher), and while she's extremely OP and can especially just steamroll thru act 1 I really don't enjoy playing her because it's just so much thinking and math compared to the other 3. 
+
+I usually just cycle thru the first 3 and play watcher once in a blue moon when I'm in the right mood. She probably still has my highest winrate tho.
+She’s one of my favourites! Maybe my favourite overall. Try her again, you’ll find a nice synergy to groove with with her
+A20 silent
+A20 defect 
+A12 Ironclad 
+A1 Watcher. 
+
+I just can't get into her. I have beaten A20 on two characters but just don't enjoy her
+Watcher is dope. I ascended my first try just by picking up lots of cheap stance changers. That gives you the options to do basically whatever you want with the rest of your cards. Defect on the other hand... still trying to make it make sense
++ [Prismatic Shard](http://slay-the-spire.wikia.com/wiki/Prismatic%20Shard) Shop Relic
+    
+    Combat reward screens now contain colorless cards and cards from other colors.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Great bot keep up the god work.
+
+Edit : Good work
+love this bot so much
+    Thank you :)
+Big brain bot
+i've been killed on floor 2 with watcher because I played like a complete moron.
+    Yeah, it’s particularly difficult against certain bosses and very easy against others. Knowing combat iterations is really critical. It’s just amazing that they made such a simple game super addictive and fun.
+        Slime boss comes to mind.   You can make it a walk in the park or a death sentence.
+Hardest to master, easiest to succeed with afterwards*
+    Probably true. My best watcher runs are when I start getting into a rhythm while I play, but those are few and far between. Most of the time I’ll be over thinking my plays.
+    My best watcher run was the daily climb a few day ago where my watchers is a hybrid woth defect. Let just say that double damage hyperbeam is fun
+    Dumb mistakes with watcher lead to dying almost immediately, while dumb mistakes on other chars kill you much slower.  But if you don't make dumb mistakes she's busted
+I disagree, watcher is so stupidly OP that you can just faceroll everything, and the stances aren't even a particularly complicated mechanic. Stay in calm for setup turns/defense, wrath, or divinity if possible when it's time to kill shit, and then with how many retain cards are available you just get to be incredibly consistent. Compare that to defect and their  orb rotation, where you're balancing offense and defense simultaneously, and you have to worry about things like channeling lightning to evoke your frost, which gives you defense now but sacrifices it for later, potentially leaving you high and dry. Combine this with the fact that watcher just has such extreme levels of power and consistency that means they just aren't going to struggle with say, slime boss, and it's really hard to say that they are the hardest.
+    I think it depends on what you mean by "hardest." Watcher is by far the strongest at A20 for experienced players, but newer players can have a ton of trouble with her if they're a bit sloppy with calculations, or if they haven't yet memorized exactly what each enemy is capable of. You can easily go from stomping to losing a whole run by forgetting about Choker, playing Blasphemy too early, miscalculating stance swap energy, barely missing lethal, etc.
+        Yeah, I’m not exactly new at the game, but I’m far from A20 too. I’ll play it a lot for a few weeks then not pick it up for a few more weeks before coming back to it. I’m getting better, but I still struggle with calculations. Lots of the powers are pretty good, but very situational (like gaining block when you scry). Unless I already have a few scry cards in my deck, it’s a dead card for me. Blasphemy seems good, but I almost never take it because I’m almost certain I’ll kill myself with it. Maybe my problem with the watcher is I’m too hesitant to take certain cards that would actually help a lot just because I’m not sure about being able to use them properly.
+    Fair assessment. Though it’s an easy enough concept to grasp, execution isn’t as easy in my experience. I think I struggle more to ascend with the watcher more than the others. I get that it’s way more consistent than the defect, but for whatever reason the defect’s randomness is easier to play than the watcher which I find more challenging.
+I'm still somewhat newish (only beat the heart with two characters) but I actually have an easy enough time with Watcher. It's Silent I'm not crazy about. Seems so dependent on getting good relics. At least more than the rest of them.
+    I love the Silent. It’s probably either my favorite or second favorite. I agree it’s tough to play though, unless you get lucky with your rng. It’s basically either a great run, or a bad run depending on the relics and cards that I get early on. I like doing shiv builds, but I rarely get the wristblade when I have the deck for it.
+[[cut through fate]] and [[third eye]] are both amazing commons. Scry let's you choose the cards you need for next turn - or this turn if you have card draw like cut through fate or an insight in hand.
+    Seriously, both of those cards are *fantastic*. Even if you have no scry synergy, they're both very efficient cards on their own. And there are a decent number of decks that want Cut Through Fate more than literally any other attack.
+    + [Cut Through Fate](http://slay-the-spire.wikia.com/wiki/Cut%20Through%20Fate) Watcher Common Attack
+    
+    1 Energy | Deal 7(9) damage. **Scry** 2(3). Draw 1 card.
++ [Third Eye](http://slay-the-spire.wikia.com/wiki/Third%20Eye) Watcher Common Skill
+    
+    1 Energy | Gain 7(9) **Block.** **Scry** 3(5).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    OK BUT THATS LIKE A WHOLE EXTRA STEP TO MY TURN I DONT HAVE THE BRAIN SPACE FOR IT
+Scry is good, but its a means to an end. Its similar to the Silent's relationship with obscene draw: You need a wincon outside of just drawing a bazillion cards each turn. You can scry for more pressure points, or to put flurries of blows into your discard, or to make damn sure you can get out of wrath at turn end...
+
+I'm ignoring that Weave exists because I've never managed to make that card work for me.
+    Got a Weave Deck to work ONCE and I still get excited thinking about that run
+        Me too.
+Scrying is basically watcher’s alternative to card draw. Even if you don’t build your deck around scrying, I think it’s pretty useful to have a few scry cards.
+    I've never really noticed a lack of draw with Watcher, think it's maybe due to the amount of retain that's available.
+        Yeah retain can be a viable alternative, especially with cards like Meditate. However, a lot of retain strategies can be tricky to pull off. Like Battle Hymn and Establishment seem OP, but they’re often slow (which means you need block, can be challenging on watcher), and can clutter up your hand.
+There’s a really broken deck you can build with a bunch of scry and several [[weave]]. If you see weave when you scry and you discard it, it returns to your hand from that scry. It doesn’t work as well on higher ascensions, but you can do solid damage and avoid most status cards, plus with [[nirvana]] get crazy block. I’ve had a lot of fun with it.
+    + [Weave](http://slay-the-spire.wikia.com/wiki/Weave) Watcher Uncommon Attack
+    
+    0 Energy | Deal 4(6) damage. Whenever you **Scry** and would discard this card, add it into your hand instead.
++ [Nirvana](http://slay-the-spire.wikia.com/wiki/Nirvana) Watcher Uncommon Power
+    
+    1 Energy | Whenever you **Scry,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Huh, that's...not really an accurate description for Weave. Makes it sound like the effect *only* activates after it's discarded via scry. Why not use the actual text on the card?
+            The bot is outdated, Weave used to function that way and have that text on it.
+any scry + pressure point is fun as hell. add a study and I'm there.
+    What’s the purpose of pressure point? I don’t get it
+        it accumulates. so the first is 8 damage. if you play it on another mob, you do 8 damage to that mob, and 8 to the original. if you play another on the same mob, you do 16 damage on that mob and 8 on the other.
+
+with scry+study+block, you can go through a lot of enemies.
+Scry is kind of like Ironclad's exhaust; it lets you cut through your deck and get to the five or six cards that you actually want next turn.
+When I had 3 Pressure Points in deck and removed most attacks, scry made me play them more often while filtering block or statuses. Having Alpha and scrying for Beta and Omega helps too.
+Scry is more comparable to the Silent's discard or the Ironclad's exhaust than it is to poison. It mostly turns an already solid deck into an unstoppable deck.
+    I think they meant their favorite deck uses poison.
+        I think so too, but my point still stands. It's like saying "I can't get behind coffee as something edible. Hamburgers for days"
+If you don't mind some unsolicited advice... 
+
+> I can never spin my head around the stances well enough
+
+So for stances, Wrath and Calm are your bread and butter. You'll often want multiple ways to enter them in your deck, since it'll help you swap between them frequently and reliably. [[Tantrum]] is a great way of entering wrath, and [[Mediate]] is a great way of entering calm. [[Empty Fist]] also pairs really well with Wrath, since it allows you to exit wrath while dealing a nice chunk of damage at the same time ([[Fear No Evil]] does something similar). Other ways of entering and exiting stances are also good, but these are just a few examples.
+
+The ideal Wrath turn is when you  just enter wrath and murder everything attacking you ([[Wheel Kick]] and [[Conclude]] are fantastic for this). That won't always be possible, though, so the other option is to ensure you never end your turn in wrath ([[Tranquility]] can help with this) or you just generate enough block it doesn't matter ([[Halt]] and [[Wallop]] are great for this). Scry, Draw, and  Retain are all great tools for ensuring better wrath turns as well. 
+
+There's also Divinity. It's the strongest stance, but it's also the hardest stance to enter. For hallway fights, far and away the best card for entering Divinity is [[Blasphemy]]. This card can be absolutely busted if you leverage it properly, and will just completely destroy hallway fights. Outside of Blasphemy, though, divinity is usually (but not always!) just reserved for boss fights as a form of scaling.
+
+> I did do well with a retain deck that one time.  
+
+Sounds like you might be getting yourself too pigeonholed into archetypes. Retain is just a really powerful mechanic which you'll always want to have in your deck. Cards like [[Protect]], [[Tranquility]], and [[Carve Reality]] are all staple Watcher cards which can be a great addition to *any* deck, not just a "retain" deck. The reason is that cards like this allow you to setup better turns, by ensuring you've got block and damage on the turns where you need them. 
+
+> Using Windmill Strike and Sands Of Time
+
+These cards have their uses, but they can often be too slow for Hallway fights. This is especially true for Windmill Strike.  Upgrading Sands of time helps a  lot with it's speed  issues, since 26 damage is high enough that using it in Wrath will just murder a  lot of hallway fights (aka just play it at 3 energy, who cares, enemy is dead anyway). 
+
+You really want to end hallway fights ASAP, since you want to get through them while taking as little damage as possible. So if you've been over relying on these cards, some of your struggles might just be due to taking too much damage in hallway fights, due to the innate slowness of the cards. To be clear I'm not saying those other cards aren't worth using, it's just that if the bulk of your damage is coming from those two, then hallway fights are going to give you some trouble.
+
+Cards such as [[Crush Joints]], [[Empty Fist]], [[Carve Reality]], [[Conclude]], [[Tantrum]], and [[Wheel Kick]] are all quite a bit faster than those, and so are great for ending hallway fights quickly.
+
+I hope that helps,  and  if you weren't looking any advice, sorry about that! I just had the urge to write a wall of text about Spire strategy, and your comment seemed like the perfect opportunity.
+    + [Tantrum](http://slay-the-spire.wikia.com/wiki/Tantrum) Watcher Uncommon Attack
+    
+    1 Energy | Deal 3 damage 3(4) times. Enter **Wrath.** Shuffle this card into your draw pile.
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Empty Fist](http://slay-the-spire.wikia.com/wiki/Empty%20Fist) Watcher Common Attack
+    
+    1 Energy | Deal 9(14) damage. Exit your **Stance.**
++ [Fear No Evil](http://slay-the-spire.wikia.com/wiki/Fear%20No%20Evil) Watcher Uncommon Attack
+    
+    1 Energy | Deal 8(11) damage. If the enemy intends to Attack, enter **Calm.**
++ [Wheel Kick](http://slay-the-spire.wikia.com/wiki/Wheel%20Kick) Watcher Uncommon Attack
+    
+    2 Energy | Deal 15(20) damage. Draw 2 cards.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
++ [Tranquility](http://slay-the-spire.wikia.com/wiki/Tranquility) Watcher Common Skill
+    
+    1(0) Energy | **Retain.** Enter **Calm.** **Exhaust.**
++ [Halt](http://slay-the-spire.wikia.com/wiki/Halt) Watcher Common Skill
+    
+    0 Energy | Gain 3(4) **Block.** **Wrath:** Gain 9(14) additional **block.**
++ [Wallop](http://slay-the-spire.wikia.com/wiki/Wallop) Watcher Uncommon Attack
+    
+    2 Energy | Deal 9(12) damage. Gain **Block** equal to unblocked damage dealt.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Well, those were just some examples. 
+
+It would be rather silly if I focused on those two cards for all my damage. Those were the two that surfaced the mind since I remember entering divinity then doing a lot of damage with [[Sands Of Time]] and [[Windmill Strike]].  
+
+Although I wouldn't of even made it that far if it wasn't for [[Master Reality]] and [[Battle Hymn]]. As well as [[Protect]]. I went ahead and looked up my run and surprisingly I won with [[Philosopher's stone]], I hardly even remember that. 
+
+This was also one of the few times that [[Deva Form]] worked out, but with the extra energy and all the defense I could stack together like from [[Protect]]. Really considering all the mantra I was gaining as well, [[Brilliance]] would've been a good choice, but maybe I didn't roll it on the run. 
+
+Though it seems that [[Conclude]] and [[Consecrate]] are really the only real areas of AoE for the Watcher. There's a bunch of cards I still haven't even really touched upon though still.  Really the Watcher seems to have a lot of draw, which reminds me of the silent a bit. [[Cut Through Fate]] and [[Wheel Kick]] 
+
+>That won't always be possible, though, so the other option is to ensure you never end your turn in wrath.
+
+That's a death sentence, yes. Now how I've been using them is in a few different ways depending on the enemy and such. You can enter wrath and stay like that during the next turn if you know that you're going to finish the enemy off anyhow. Or either enter calm again before the turn ends. All of the 'empty' cards can be good for this. 
+
+[[Empty Fist]] and [[Empty Body]] for example, but it seems like the most important part is to have a surefire way to enter/exit both stances when you need it. Hmm, actually more like Wrath more than anything because that demerit can end your run; you really don't want to be sitting in there for anymore than a turn or two most of the time I've found. 
+
+Setting up your 'burst turn' by preemptively going into calm first on a prior turn or something like that with [[Vigilance]] is what I usually do since you have barely any options early on and want to end fights before taking much damage. Both [[Tranquility]] and [[Crescendo]] are like the same card, but for calm and wrath respectively which would be good to have so you can enter one or the other for one reason or another. Like an emergency button if your wrath turn didn't kill or something like that.
+        + [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Philosopher's Stone](http://slay-the-spire.wikia.com/wiki/Philosopher%27s%20Stone) Boss Relic
+    
+    Gain 1 Energy at the start of each turn. ALL enemies start with 1 **Strength.**
++ [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Brilliance](http://slay-the-spire.wikia.com/wiki/Brilliance) Watcher Rare Attack
+    
+    1 Energy | Deal 12(16) damage. Deals additional damage for all **Mantra** gained this combat.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Your comment is helping someone else almost 1 month later. Thank you haha
+        Glad I could help! Thanks for the silver!
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I got to A20 with the other 3 and figured I would do the same with Watcher. Rattled off 4-5 wins and just totally lost interest. Don't think I've played watcher since.
+    Dailies I’ll play every now and again with watcher. But I just can’t get into the groove.
+Ironic that the blind woman is the one that requires reading
+    Iron clad is "I am stronk", Silent is "I am fast, eat poison" and Defect is "Random shit go!". But Watcher is like doing math.
+You accidentally one shot bosses and have no clue how to do it again
+    No clue what I'm doing but it sure is something!
+The “die this turn” was just a perfect ending
+Watcher is my second favorite and I'm unsure how to play her
+it's like this even when you spend some time with watcher
+I've never done it but don't you need 2 stacks of intangible to survive this?
+    You need intangible the turn you take the damage (next turn). So things like incense burner can save you if it activates on the turn you take 9999 damage (something like that). Apparitions on the other hand, you are correct in thinking you need to play 2 on the turn you play blasphemy in order to have a stack of intangible at the start of your next turn.
+        Ah, that makes sense. Thanks.
+        I remember it as 999 damage, is that right? If so,  you could theoretically tank the damage with the 999 cap on block. Realistically inefficient, but theoretically badass.
+            I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+                > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+                    Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+                        Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                            Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+                    Yep it does more damage every time you get something from it
+                Entropic Brew never generates Fruit Juice
+                    Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+                        That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                            Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                            + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                    entropic brew could give fruit juice out of combat?
+                        Just try to drink it...
+                > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+                It is actually 10,000, if memory serves.
+    Nope, it's a one time 99999 damage packet.
+        Except you die at the beginning of your next turn, so 1 stack will wear off before then. You need either 1 buffer or 2 intangible.
+            Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+The blasphemy thing is actually a BUFF that causes you to take 9999 damage at the start of next turn. THIS MEANS PELLETS does not fix it.
+I've been trying to find a way to negate that, thank you!
+Jorbs demonstrated this on stream one time, in a beautiful act of showmanship. "Well crap. I'm going to die to blasphemy. GG." <end turn> and then "hahahahaha, I'm intangible, you missed"
+To be fair "skill" in roguelike games mostly consists on knowing a metric fuckton of extremely specific tricks that, put together, allow you to survive every random situation the game throws at you.
+    That's... A very accurate description of roguelikes actually
+Kinda makes no sense. I mean, the card says you DIE. It shouldn't be any damage caused that can get negated. You should just, you know, DIE. If they wanted to let buffer or intangible negate it, it should be "take 9999 dmg" instead of "die" or something.
+    Yeah, I agree. Watcher has a few cards/mechanics that I feel aren't explained as clearly as the other classes (one example is that you can't see what upgraded [[Omega]] or [[Beta]] does until you have [[Master Reality]] in play and have already played [[Alpha]]; same goes for [[Expunger]]. Other classes you can right click on any card and view the upgrade, but that doesn't work with nested cards). 
+
+I've seen people say before that the "Die next turn" buff should set your HP to 0 (sort of how [[Judgement]] works), and that certainly would make it behave more in the way you expect it to. It definitely would be more clear if the card said "take 99,999 damage next turn." Or the tooltip when you hover the card/buff on your character could say that. It's not going to happen because of localization issues, but I kind of wish it would.
+        You can see what the upgraded versions of the combat-generated cards do in the Compendium. They are classified as colorless cards.
+            Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
+        + [Omega](http://slay-the-spire.wikia.com/wiki/Omega) Colorless Special Power
+    
+    3 Energy | At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
++ [Beta](http://slay-the-spire.wikia.com/wiki/Beta) Colorless Special Skill
+    
+    2(1) Energy | Shuffle an Omega into your draw pile. **Exhaust.** (Obtained from Alpha).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
++ [Expunger](http://slay-the-spire.wikia.com/wiki/Expunger) Colorless Special Attack
+    
+    1 Energy | Deal 9(15) damage X times. (Obtained from Conjure Blade).
++ [Judgment](http://slay-the-spire.wikia.com/wiki/Judgment) Watcher Rare Skill
+    
+    1 Energy | If the enemy has 30(40) or less HP, set their HP to 0.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    This, I've never picked it up even tho I have had 2 buffer+ cards. If I would have known this it would have been in my deck.
+Technically it's a buff, so that you can't remove it with artefact or orange pellets.
+This is why Apparitions are busted on Watcher moreso than other characters lmao
+    IMO they're just as busted on Silent because of Nightmare and Burst.
+Couldn’t you just get a Panecea to cancel that with Artifact as well?
+    No, you can't, because it is counted as a buff
+
+I think the devs made it that way exactly to prevent this
+        I think they should have switched these interactions.
+
+It makes far more sense to me to  be able to cancel the negative effect with artifact and have it just kill you instead of dealing damage so intangible doesn’t work. Plus Intangible is already super useful so having to run a less good effect like artifact seems like a fairer trade off.
+Bro. That's so useful to know though.
+That's really cool! Is there an achievement for this?
+    Unfortunatly, no.
+
+But the inner satisfaction of this exact scenario happening is more than enough for me, at least!
+Holy shit this definitely changes my strategy
+Won’t artifact also work
+    Nah, "Die next turn" is implemented as a buff to prevent this. [[Orange Pellets]] therefore won't work either.
+        + [Orange Pellets](http://slay-the-spire.wikia.com/wiki/Orange%20Pellets) Shop Relic
+    
+    Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Huh. I guess it is part of the “enter divinity” which *is* a buff...
+            No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+Velvet choker is the worst "positive" relic in the game and noone should ever take it, change my mind.
+    It's \*often\* a terrible choice, but if you're consistently playing a small number of very expensive cards it can be the extra energy to get you one more heavy hitter card out.    
+Some examples: If you've cleaned out your deck it outperforms a pandora's box / birdcage / astrolabe.   If you already have strong retain (watcher) it's often a better choice than pyramid.  
+
+ It tends to be a bad pick in A1=>A2 because your deck probably isn't fully established and it might end up choking you.  A2=>A3 it can be a good call if you need energy and know you aren't playing lots of cards.
+Should always upgrade eruption early on
+    It really goes to show how busted Watcher is that they essentially nerf her starting deck with the 2 cost Eruption
+Watcher is an insanely powerful character (I personally think she is broken) because you can deal MASSIVE damage in act 1 with common/uncommon cards thanks to the wrath stance, which allows you to obliterate elites and boss.
+
+Then you are set to steamroll the game.
+    Wrath stance is insane
+    Definitely found watcher basically impossible when I started, then the strategy clicked and now it's cruisy. Quickly climbing the ascensions. It's got a very high skill ceiling and steep hill at the start of the learning curve. I've had a few runs where I get a fuck ton of mantra (eg. Worship), two omnisciences, and Ragnarok. Basically 216 damage the moment you draw omniscience, more if you have some cheeky strength/vulnerable cards and relics
+I have only beat Ascension 20 on watcher and have been struggling for days getting Ironclad through the early teens. Its weird how much more sense Watcher makes to me than Iron.
+    Haha, I'm the reverse. Ironclad makes a lot of since to me with just "yea limit break into headbutt... again." My most recent heart kill died from around half HP to a roughly  1.1k+ heavy blow. (More total HP than it started the fight with)
+
+I often find myself getting wrecked by RNG while using Watcher when I either miss-count due to rushing, or just can't find a stance change for like 2 whole turns. Still working my way into understanding how to play her.
+    Ironclad's main source of damage and block is either exhaust decks or just strength and multi hits
+Watcher is OP as hell once you know how to use her.
+
+IMO she's the least fun character to play though. Most runs you just plow through the spire effortlessly and don't think at all, which is boring. And then in close runs you have to do infinite math which is annoying and not what I play games for.
+    Watcher for me ends up in a lot of those situations where I feel like RNG really screwed me over. If you keep drawing in a way that doesn’t allow you to use Wrath sensibly, you end up slowly dying without being able to see the future and saying “If I take 40 damage here I will win, but if I stay in Calm I will slowly die over the next 4 turns.”
+
+Fun as hell when you draw well or get the right cards to mitigate this (scry, vault, Talk to the Hand, etc.), but it’s StS - you don’t always get the tools you need, and Watcher really suffers when this happens.
+        IDK, I feel like that's pretty easily mitigated. Over 20% of her cards allow some kind of stance switching. You just have to pick a few up.
+
+Sure, you could get insanely bad luck and not hit any, or just hit a bunch of ways into wrath and no ways out. But that's super unlikely, and even *then* you have outs in Wallop and Halt...or just lethal.
+            That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+                That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+            I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+                When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+    Yeah, I'm getting you. From A1-20, I didn't get the feeling that there were different ways to build her, and cards are just either good or bad. If you see Talk to the Hand, you pick it up. If you see Wreath of Flame, you ignore it. Vault's almost always an auto-pick. If you ever intend to go into Wrath mode, Ragnarok's a great card.
+
+I tried the Mark deck, but that didn't do anything. I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss (mind you, it was Slime Boss). I'm guessing there are other things that you should go for other than Pressure Points, but it doesn't feel like there are other cards in her kit that encourage that build, unlike Claw builds.
+        I agree that Pressure Points is an odd duck. If I haven't found any damage at all before the Act 1 elites I might pick it up, but it becomes worse than strike by the time you hit Act 2. It just has 0 synergies available.
+
+I actually had a fun deck that used Wreath of Flame the other day, but it was a crazy high-roll lol. Had three copies of Omniscience thanks to a duplicate event and finding Mirror in a shop, then managed to bottle one of them. So every turn 1 was something ridiculous like Omniscience, double Omniscience, double Omniscience, double Worship, double Wreath of Flame+, double Ragnarok+.
+
+It one shot literally every fight in the game besides the heart, which I ended up beating by double playing a bunch of powers on turn 1 and then just clicking cards at random lol.
+        >I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss 
+
+What? I'm not sure I understand how you mean. 4x Pressure Points should rip through any enemy's health.
+            I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+                While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+    Haha yeah it’s definitely sharpened my small numbers math game
+    I also agree, the watcher is easily the strongest character due to her strength during  the first act which snowballs out of control
+    Watcher has 2 modes:  
+- kill everything before it gets it's turn  
+- die due to double damage
+
+there is no in between, and getting holy water + the relic that lets you draw cards when your hand is empty is basically an almost insta win (I got apotheosis too, meaning I can upgrade those cards to +2 energy rather than +1 if I am lucky, and since I had the relic from the start at the cost of 21 life I could just always take 0 cost cards)
+You can always properly calculate your damage in this game with 100% success rate.
+What is save scumming?
+I think Watcher rewards slow, calculated play. I play slow af, but I math out if I'm going to survive going into murder stance and do better than I do the other 3. I do not have a particularly deep game knowledge without the wiki open.
+    Those Blasphemy turns where you have lethal by like 2 damage, but you have to do the math like 5 times to make absolutely sure you actually have lethal. You definitely have to pump the brakes when you play her. Ironclad you can kinda just pick up [[Feel no Pain]] and click on cards with exhaust written on them and win pretty quickly, assuming you're experienced enough not to flub up the fights too badly.
+        My Ironclad A20 strategy is to just kinda twiddle my thumbs until something broken happens.
+        + [Feel No Pain](http://slay-the-spire.wikia.com/wiki/Feel%20No%20Pain) Ironclad Uncommon Power
+    
+    1 Energy | Whenever a card is **Exhausted,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I guess it depends on how you define "slow play"? To me Watcher doesn't feel slow; her attacks, when she attacks, are huge and kill things fast, rather than chipping away until something very slowly dies.
+        I mean I take longer between cards to decide exactly what I'm doing, not how many get played!
+            Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
+I mean, watcher does have lethal in ludicrous situations. There aren't many characters where you find yourself regularly asking "Am I killing this full life nob next turn ?". The most damage a character do, the more often you'll have to math out lethal. And watcher has a stupid amount of damage.
+    Got [[Blasphemy]] off Neow bonus on a run recently (that I lost RIP) but that was peak “oh my god I have lethal” out of nowhere I have ever experienced in StS. I suppose part of it was severely undervaluing that card (and the loss, for anyone who cares, was drafting too thick without shoring up my defenses properly—normal/elite combats didn’t usually last long enough for it to matter but it certainly did in boss rooms)
+        + [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Yeah with defect (with the time I've put into them) doing the math for block and damage with possible focus and other ways to gain damage/block is hard but yeah, the watcher can literally just one tap anyone and have billion energy if you manage to retain some weird-ass juggle hand
+Watcher has the steepest learning curve, but her A20 winrate is the highest for many players. Wrath stance is incredibly powerful if you can learn to reliably get in and out of it without taking damage
+    The assumed optimal WR of watcher at A20 is 95% while it’s only 70% for IC and silent
+I mean, on its own, wallop is basically just a dash. Wallop feeling like such a powerful card is really more of a symptom of how stupid good watcher's stance dancing is.
+Wallop does less damage and block than Dash
+    While that is true, if you’re using in wrath it’s almost 2x stronger than dash.
+Try adding a retained divinity/die-next-turn card. It’s sweet, sweet mayhem
+Great bot keep up the god work.
+
+Edit : Good work
+Thank you :)
+Yeah, it’s particularly difficult against certain bosses and very easy against others. Knowing combat iterations is really critical. It’s just amazing that they made such a simple game super addictive and fun.
+    Slime boss comes to mind.   You can make it a walk in the park or a death sentence.
+Probably true. My best watcher runs are when I start getting into a rhythm while I play, but those are few and far between. Most of the time I’ll be over thinking my plays.
+My best watcher run was the daily climb a few day ago where my watchers is a hybrid woth defect. Let just say that double damage hyperbeam is fun
+Dumb mistakes with watcher lead to dying almost immediately, while dumb mistakes on other chars kill you much slower.  But if you don't make dumb mistakes she's busted
+I think it depends on what you mean by "hardest." Watcher is by far the strongest at A20 for experienced players, but newer players can have a ton of trouble with her if they're a bit sloppy with calculations, or if they haven't yet memorized exactly what each enemy is capable of. You can easily go from stomping to losing a whole run by forgetting about Choker, playing Blasphemy too early, miscalculating stance swap energy, barely missing lethal, etc.
+    Yeah, I’m not exactly new at the game, but I’m far from A20 too. I’ll play it a lot for a few weeks then not pick it up for a few more weeks before coming back to it. I’m getting better, but I still struggle with calculations. Lots of the powers are pretty good, but very situational (like gaining block when you scry). Unless I already have a few scry cards in my deck, it’s a dead card for me. Blasphemy seems good, but I almost never take it because I’m almost certain I’ll kill myself with it. Maybe my problem with the watcher is I’m too hesitant to take certain cards that would actually help a lot just because I’m not sure about being able to use them properly.
+Fair assessment. Though it’s an easy enough concept to grasp, execution isn’t as easy in my experience. I think I struggle more to ascend with the watcher more than the others. I get that it’s way more consistent than the defect, but for whatever reason the defect’s randomness is easier to play than the watcher which I find more challenging.
+I love the Silent. It’s probably either my favorite or second favorite. I agree it’s tough to play though, unless you get lucky with your rng. It’s basically either a great run, or a bad run depending on the relics and cards that I get early on. I like doing shiv builds, but I rarely get the wristblade when I have the deck for it.
+Seriously, both of those cards are *fantastic*. Even if you have no scry synergy, they're both very efficient cards on their own. And there are a decent number of decks that want Cut Through Fate more than literally any other attack.
++ [Cut Through Fate](http://slay-the-spire.wikia.com/wiki/Cut%20Through%20Fate) Watcher Common Attack
+    
+    1 Energy | Deal 7(9) damage. **Scry** 2(3). Draw 1 card.
++ [Third Eye](http://slay-the-spire.wikia.com/wiki/Third%20Eye) Watcher Common Skill
+    
+    1 Energy | Gain 7(9) **Block.** **Scry** 3(5).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+OK BUT THATS LIKE A WHOLE EXTRA STEP TO MY TURN I DONT HAVE THE BRAIN SPACE FOR IT
+Got a Weave Deck to work ONCE and I still get excited thinking about that run
+    Me too.
+I've never really noticed a lack of draw with Watcher, think it's maybe due to the amount of retain that's available.
+    Yeah retain can be a viable alternative, especially with cards like Meditate. However, a lot of retain strategies can be tricky to pull off. Like Battle Hymn and Establishment seem OP, but they’re often slow (which means you need block, can be challenging on watcher), and can clutter up your hand.
++ [Weave](http://slay-the-spire.wikia.com/wiki/Weave) Watcher Uncommon Attack
+    
+    0 Energy | Deal 4(6) damage. Whenever you **Scry** and would discard this card, add it into your hand instead.
++ [Nirvana](http://slay-the-spire.wikia.com/wiki/Nirvana) Watcher Uncommon Power
+    
+    1 Energy | Whenever you **Scry,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Huh, that's...not really an accurate description for Weave. Makes it sound like the effect *only* activates after it's discarded via scry. Why not use the actual text on the card?
+        The bot is outdated, Weave used to function that way and have that text on it.
+What’s the purpose of pressure point? I don’t get it
+    it accumulates. so the first is 8 damage. if you play it on another mob, you do 8 damage to that mob, and 8 to the original. if you play another on the same mob, you do 16 damage on that mob and 8 on the other.
+
+with scry+study+block, you can go through a lot of enemies.
+I think they meant their favorite deck uses poison.
+    I think so too, but my point still stands. It's like saying "I can't get behind coffee as something edible. Hamburgers for days"
++ [Tantrum](http://slay-the-spire.wikia.com/wiki/Tantrum) Watcher Uncommon Attack
+    
+    1 Energy | Deal 3 damage 3(4) times. Enter **Wrath.** Shuffle this card into your draw pile.
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Empty Fist](http://slay-the-spire.wikia.com/wiki/Empty%20Fist) Watcher Common Attack
+    
+    1 Energy | Deal 9(14) damage. Exit your **Stance.**
++ [Fear No Evil](http://slay-the-spire.wikia.com/wiki/Fear%20No%20Evil) Watcher Uncommon Attack
+    
+    1 Energy | Deal 8(11) damage. If the enemy intends to Attack, enter **Calm.**
++ [Wheel Kick](http://slay-the-spire.wikia.com/wiki/Wheel%20Kick) Watcher Uncommon Attack
+    
+    2 Energy | Deal 15(20) damage. Draw 2 cards.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
++ [Tranquility](http://slay-the-spire.wikia.com/wiki/Tranquility) Watcher Common Skill
+    
+    1(0) Energy | **Retain.** Enter **Calm.** **Exhaust.**
++ [Halt](http://slay-the-spire.wikia.com/wiki/Halt) Watcher Common Skill
+    
+    0 Energy | Gain 3(4) **Block.** **Wrath:** Gain 9(14) additional **block.**
++ [Wallop](http://slay-the-spire.wikia.com/wiki/Wallop) Watcher Uncommon Attack
+    
+    2 Energy | Deal 9(12) damage. Gain **Block** equal to unblocked damage dealt.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Well, those were just some examples. 
+
+It would be rather silly if I focused on those two cards for all my damage. Those were the two that surfaced the mind since I remember entering divinity then doing a lot of damage with [[Sands Of Time]] and [[Windmill Strike]].  
+
+Although I wouldn't of even made it that far if it wasn't for [[Master Reality]] and [[Battle Hymn]]. As well as [[Protect]]. I went ahead and looked up my run and surprisingly I won with [[Philosopher's stone]], I hardly even remember that. 
+
+This was also one of the few times that [[Deva Form]] worked out, but with the extra energy and all the defense I could stack together like from [[Protect]]. Really considering all the mantra I was gaining as well, [[Brilliance]] would've been a good choice, but maybe I didn't roll it on the run. 
+
+Though it seems that [[Conclude]] and [[Consecrate]] are really the only real areas of AoE for the Watcher. There's a bunch of cards I still haven't even really touched upon though still.  Really the Watcher seems to have a lot of draw, which reminds me of the silent a bit. [[Cut Through Fate]] and [[Wheel Kick]] 
+
+>That won't always be possible, though, so the other option is to ensure you never end your turn in wrath.
+
+That's a death sentence, yes. Now how I've been using them is in a few different ways depending on the enemy and such. You can enter wrath and stay like that during the next turn if you know that you're going to finish the enemy off anyhow. Or either enter calm again before the turn ends. All of the 'empty' cards can be good for this. 
+
+[[Empty Fist]] and [[Empty Body]] for example, but it seems like the most important part is to have a surefire way to enter/exit both stances when you need it. Hmm, actually more like Wrath more than anything because that demerit can end your run; you really don't want to be sitting in there for anymore than a turn or two most of the time I've found. 
+
+Setting up your 'burst turn' by preemptively going into calm first on a prior turn or something like that with [[Vigilance]] is what I usually do since you have barely any options early on and want to end fights before taking much damage. Both [[Tranquility]] and [[Crescendo]] are like the same card, but for calm and wrath respectively which would be good to have so you can enter one or the other for one reason or another. Like an emergency button if your wrath turn didn't kill or something like that.
+    + [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Philosopher's Stone](http://slay-the-spire.wikia.com/wiki/Philosopher%27s%20Stone) Boss Relic
+    
+    Gain 1 Energy at the start of each turn. ALL enemies start with 1 **Strength.**
++ [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Brilliance](http://slay-the-spire.wikia.com/wiki/Brilliance) Watcher Rare Attack
+    
+    1 Energy | Deal 12(16) damage. Deals additional damage for all **Mantra** gained this combat.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Your comment is helping someone else almost 1 month later. Thank you haha
+    Glad I could help! Thanks for the silver!
+Dailies I’ll play every now and again with watcher. But I just can’t get into the groove.
+Iron clad is "I am stronk", Silent is "I am fast, eat poison" and Defect is "Random shit go!". But Watcher is like doing math.
+No clue what I'm doing but it sure is something!
+You need intangible the turn you take the damage (next turn). So things like incense burner can save you if it activates on the turn you take 9999 damage (something like that). Apparitions on the other hand, you are correct in thinking you need to play 2 on the turn you play blasphemy in order to have a stack of intangible at the start of your next turn.
+    Ah, that makes sense. Thanks.
+    I remember it as 999 damage, is that right? If so,  you could theoretically tank the damage with the 999 cap on block. Realistically inefficient, but theoretically badass.
+        I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+            > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+                Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+                    Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                        Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+                Yep it does more damage every time you get something from it
+            Entropic Brew never generates Fruit Juice
+                Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+                    That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                        Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                        + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                entropic brew could give fruit juice out of combat?
+                    Just try to drink it...
+            > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+            It is actually 10,000, if memory serves.
+Nope, it's a one time 99999 damage packet.
+    Except you die at the beginning of your next turn, so 1 stack will wear off before then. You need either 1 buffer or 2 intangible.
+        Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+That's... A very accurate description of roguelikes actually
+Yeah, I agree. Watcher has a few cards/mechanics that I feel aren't explained as clearly as the other classes (one example is that you can't see what upgraded [[Omega]] or [[Beta]] does until you have [[Master Reality]] in play and have already played [[Alpha]]; same goes for [[Expunger]]. Other classes you can right click on any card and view the upgrade, but that doesn't work with nested cards). 
+
+I've seen people say before that the "Die next turn" buff should set your HP to 0 (sort of how [[Judgement]] works), and that certainly would make it behave more in the way you expect it to. It definitely would be more clear if the card said "take 99,999 damage next turn." Or the tooltip when you hover the card/buff on your character could say that. It's not going to happen because of localization issues, but I kind of wish it would.
+    You can see what the upgraded versions of the combat-generated cards do in the Compendium. They are classified as colorless cards.
+        Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
+    + [Omega](http://slay-the-spire.wikia.com/wiki/Omega) Colorless Special Power
+    
+    3 Energy | At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
++ [Beta](http://slay-the-spire.wikia.com/wiki/Beta) Colorless Special Skill
+    
+    2(1) Energy | Shuffle an Omega into your draw pile. **Exhaust.** (Obtained from Alpha).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
++ [Expunger](http://slay-the-spire.wikia.com/wiki/Expunger) Colorless Special Attack
+    
+    1 Energy | Deal 9(15) damage X times. (Obtained from Conjure Blade).
++ [Judgment](http://slay-the-spire.wikia.com/wiki/Judgment) Watcher Rare Skill
+    
+    1 Energy | If the enemy has 30(40) or less HP, set their HP to 0.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+This, I've never picked it up even tho I have had 2 buffer+ cards. If I would have known this it would have been in my deck.
+IMO they're just as busted on Silent because of Nightmare and Burst.
+No, you can't, because it is counted as a buff
+
+I think the devs made it that way exactly to prevent this
+    I think they should have switched these interactions.
+
+It makes far more sense to me to  be able to cancel the negative effect with artifact and have it just kill you instead of dealing damage so intangible doesn’t work. Plus Intangible is already super useful so having to run a less good effect like artifact seems like a fairer trade off.
+Unfortunatly, no.
+
+But the inner satisfaction of this exact scenario happening is more than enough for me, at least!
+Nah, "Die next turn" is implemented as a buff to prevent this. [[Orange Pellets]] therefore won't work either.
+    + [Orange Pellets](http://slay-the-spire.wikia.com/wiki/Orange%20Pellets) Shop Relic
+    
+    Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Huh. I guess it is part of the “enter divinity” which *is* a buff...
+        No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+It's \*often\* a terrible choice, but if you're consistently playing a small number of very expensive cards it can be the extra energy to get you one more heavy hitter card out.    
+Some examples: If you've cleaned out your deck it outperforms a pandora's box / birdcage / astrolabe.   If you already have strong retain (watcher) it's often a better choice than pyramid.  
+
+ It tends to be a bad pick in A1=>A2 because your deck probably isn't fully established and it might end up choking you.  A2=>A3 it can be a good call if you need energy and know you aren't playing lots of cards.
+It really goes to show how busted Watcher is that they essentially nerf her starting deck with the 2 cost Eruption
+Wrath stance is insane
+Definitely found watcher basically impossible when I started, then the strategy clicked and now it's cruisy. Quickly climbing the ascensions. It's got a very high skill ceiling and steep hill at the start of the learning curve. I've had a few runs where I get a fuck ton of mantra (eg. Worship), two omnisciences, and Ragnarok. Basically 216 damage the moment you draw omniscience, more if you have some cheeky strength/vulnerable cards and relics
+Haha, I'm the reverse. Ironclad makes a lot of since to me with just "yea limit break into headbutt... again." My most recent heart kill died from around half HP to a roughly  1.1k+ heavy blow. (More total HP than it started the fight with)
+
+I often find myself getting wrecked by RNG while using Watcher when I either miss-count due to rushing, or just can't find a stance change for like 2 whole turns. Still working my way into understanding how to play her.
+Ironclad's main source of damage and block is either exhaust decks or just strength and multi hits
+Watcher for me ends up in a lot of those situations where I feel like RNG really screwed me over. If you keep drawing in a way that doesn’t allow you to use Wrath sensibly, you end up slowly dying without being able to see the future and saying “If I take 40 damage here I will win, but if I stay in Calm I will slowly die over the next 4 turns.”
+
+Fun as hell when you draw well or get the right cards to mitigate this (scry, vault, Talk to the Hand, etc.), but it’s StS - you don’t always get the tools you need, and Watcher really suffers when this happens.
+    IDK, I feel like that's pretty easily mitigated. Over 20% of her cards allow some kind of stance switching. You just have to pick a few up.
+
+Sure, you could get insanely bad luck and not hit any, or just hit a bunch of ways into wrath and no ways out. But that's super unlikely, and even *then* you have outs in Wallop and Halt...or just lethal.
+        That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+            That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+        I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+            When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+Yeah, I'm getting you. From A1-20, I didn't get the feeling that there were different ways to build her, and cards are just either good or bad. If you see Talk to the Hand, you pick it up. If you see Wreath of Flame, you ignore it. Vault's almost always an auto-pick. If you ever intend to go into Wrath mode, Ragnarok's a great card.
+
+I tried the Mark deck, but that didn't do anything. I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss (mind you, it was Slime Boss). I'm guessing there are other things that you should go for other than Pressure Points, but it doesn't feel like there are other cards in her kit that encourage that build, unlike Claw builds.
+    I agree that Pressure Points is an odd duck. If I haven't found any damage at all before the Act 1 elites I might pick it up, but it becomes worse than strike by the time you hit Act 2. It just has 0 synergies available.
+
+I actually had a fun deck that used Wreath of Flame the other day, but it was a crazy high-roll lol. Had three copies of Omniscience thanks to a duplicate event and finding Mirror in a shop, then managed to bottle one of them. So every turn 1 was something ridiculous like Omniscience, double Omniscience, double Omniscience, double Worship, double Wreath of Flame+, double Ragnarok+.
+
+It one shot literally every fight in the game besides the heart, which I ended up beating by double playing a bunch of powers on turn 1 and then just clicking cards at random lol.
+    >I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss 
+
+What? I'm not sure I understand how you mean. 4x Pressure Points should rip through any enemy's health.
+        I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+            While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+Haha yeah it’s definitely sharpened my small numbers math game
+I also agree, the watcher is easily the strongest character due to her strength during  the first act which snowballs out of control
+Watcher has 2 modes:  
+- kill everything before it gets it's turn  
+- die due to double damage
+
+there is no in between, and getting holy water + the relic that lets you draw cards when your hand is empty is basically an almost insta win (I got apotheosis too, meaning I can upgrade those cards to +2 energy rather than +1 if I am lucky, and since I had the relic from the start at the cost of 21 life I could just always take 0 cost cards)
+Those Blasphemy turns where you have lethal by like 2 damage, but you have to do the math like 5 times to make absolutely sure you actually have lethal. You definitely have to pump the brakes when you play her. Ironclad you can kinda just pick up [[Feel no Pain]] and click on cards with exhaust written on them and win pretty quickly, assuming you're experienced enough not to flub up the fights too badly.
+    My Ironclad A20 strategy is to just kinda twiddle my thumbs until something broken happens.
+    + [Feel No Pain](http://slay-the-spire.wikia.com/wiki/Feel%20No%20Pain) Ironclad Uncommon Power
+    
+    1 Energy | Whenever a card is **Exhausted,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I guess it depends on how you define "slow play"? To me Watcher doesn't feel slow; her attacks, when she attacks, are huge and kill things fast, rather than chipping away until something very slowly dies.
+    I mean I take longer between cards to decide exactly what I'm doing, not how many get played!
+        Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
+Got [[Blasphemy]] off Neow bonus on a run recently (that I lost RIP) but that was peak “oh my god I have lethal” out of nowhere I have ever experienced in StS. I suppose part of it was severely undervaluing that card (and the loss, for anyone who cares, was drafting too thick without shoring up my defenses properly—normal/elite combats didn’t usually last long enough for it to matter but it certainly did in boss rooms)
+    + [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Yeah with defect (with the time I've put into them) doing the math for block and damage with possible focus and other ways to gain damage/block is hard but yeah, the watcher can literally just one tap anyone and have billion energy if you manage to retain some weird-ass juggle hand
+The assumed optimal WR of watcher at A20 is 95% while it’s only 70% for IC and silent
+While that is true, if you’re using in wrath it’s almost 2x stronger than dash.
+Slime boss comes to mind.   You can make it a walk in the park or a death sentence.
+Yeah, I’m not exactly new at the game, but I’m far from A20 too. I’ll play it a lot for a few weeks then not pick it up for a few more weeks before coming back to it. I’m getting better, but I still struggle with calculations. Lots of the powers are pretty good, but very situational (like gaining block when you scry). Unless I already have a few scry cards in my deck, it’s a dead card for me. Blasphemy seems good, but I almost never take it because I’m almost certain I’ll kill myself with it. Maybe my problem with the watcher is I’m too hesitant to take certain cards that would actually help a lot just because I’m not sure about being able to use them properly.
+Me too.
+Yeah retain can be a viable alternative, especially with cards like Meditate. However, a lot of retain strategies can be tricky to pull off. Like Battle Hymn and Establishment seem OP, but they’re often slow (which means you need block, can be challenging on watcher), and can clutter up your hand.
+Huh, that's...not really an accurate description for Weave. Makes it sound like the effect *only* activates after it's discarded via scry. Why not use the actual text on the card?
+    The bot is outdated, Weave used to function that way and have that text on it.
+it accumulates. so the first is 8 damage. if you play it on another mob, you do 8 damage to that mob, and 8 to the original. if you play another on the same mob, you do 16 damage on that mob and 8 on the other.
+
+with scry+study+block, you can go through a lot of enemies.
+I think so too, but my point still stands. It's like saying "I can't get behind coffee as something edible. Hamburgers for days"
++ [Sands of Time](http://slay-the-spire.wikia.com/wiki/Sands%20of%20Time) Watcher Uncommon Attack
+    
+    4 Energy | **Retain.** Deal 20(26) damage. Whenever this card is **Retained,** lower its cost by 1.
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Philosopher's Stone](http://slay-the-spire.wikia.com/wiki/Philosopher%27s%20Stone) Boss Relic
+    
+    Gain 1 Energy at the start of each turn. ALL enemies start with 1 **Strength.**
++ [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Protect](http://slay-the-spire.wikia.com/wiki/Protect) Watcher Common Skill
+    
+    2 Energy | **Retain.** Gain 12(16) **Block.**
++ [Brilliance](http://slay-the-spire.wikia.com/wiki/Brilliance) Watcher Rare Attack
+    
+    1 Energy | Deal 12(16) damage. Deals additional damage for all **Mantra** gained this combat.
++ [Conclude](http://slay-the-spire.wikia.com/wiki/Conclude) Watcher Uncommon Attack
+    
+    1 Energy | Deal 12(16) damage to ALL enemies. End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Glad I could help! Thanks for the silver!
+Ah, that makes sense. Thanks.
+I remember it as 999 damage, is that right? If so,  you could theoretically tank the damage with the 999 cap on block. Realistically inefficient, but theoretically badass.
+    I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+        > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+            Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+                Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                    Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+            Yep it does more damage every time you get something from it
+        Entropic Brew never generates Fruit Juice
+            Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+                That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                    Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                    + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            entropic brew could give fruit juice out of combat?
+                Just try to drink it...
+        > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+        It is actually 10,000, if memory serves.
+Except you die at the beginning of your next turn, so 1 stack will wear off before then. You need either 1 buffer or 2 intangible.
+    Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+You can see what the upgraded versions of the combat-generated cards do in the Compendium. They are classified as colorless cards.
+    Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
++ [Omega](http://slay-the-spire.wikia.com/wiki/Omega) Colorless Special Power
+    
+    3 Energy | At the end of your turn deal 50(60) damage to ALL enemies. (Obtained from Beta).
++ [Beta](http://slay-the-spire.wikia.com/wiki/Beta) Colorless Special Skill
+    
+    2(1) Energy | Shuffle an Omega into your draw pile. **Exhaust.** (Obtained from Alpha).
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
++ [Expunger](http://slay-the-spire.wikia.com/wiki/Expunger) Colorless Special Attack
+    
+    1 Energy | Deal 9(15) damage X times. (Obtained from Conjure Blade).
++ [Judgment](http://slay-the-spire.wikia.com/wiki/Judgment) Watcher Rare Skill
+    
+    1 Energy | If the enemy has 30(40) or less HP, set their HP to 0.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I think they should have switched these interactions.
+
+It makes far more sense to me to  be able to cancel the negative effect with artifact and have it just kill you instead of dealing damage so intangible doesn’t work. Plus Intangible is already super useful so having to run a less good effect like artifact seems like a fairer trade off.
++ [Orange Pellets](http://slay-the-spire.wikia.com/wiki/Orange%20Pellets) Shop Relic
+    
+    Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Huh. I guess it is part of the “enter divinity” which *is* a buff...
+    No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+IDK, I feel like that's pretty easily mitigated. Over 20% of her cards allow some kind of stance switching. You just have to pick a few up.
+
+Sure, you could get insanely bad luck and not hit any, or just hit a bunch of ways into wrath and no ways out. But that's super unlikely, and even *then* you have outs in Wallop and Halt...or just lethal.
+    That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+        That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+    I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+        When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+I agree that Pressure Points is an odd duck. If I haven't found any damage at all before the Act 1 elites I might pick it up, but it becomes worse than strike by the time you hit Act 2. It just has 0 synergies available.
+
+I actually had a fun deck that used Wreath of Flame the other day, but it was a crazy high-roll lol. Had three copies of Omniscience thanks to a duplicate event and finding Mirror in a shop, then managed to bottle one of them. So every turn 1 was something ridiculous like Omniscience, double Omniscience, double Omniscience, double Worship, double Wreath of Flame+, double Ragnarok+.
+
+It one shot literally every fight in the game besides the heart, which I ended up beating by double playing a bunch of powers on turn 1 and then just clicking cards at random lol.
+>I got 4x Pressure Points in the first four floors, and that turned into nothing when I reached act 1 boss 
+
+What? I'm not sure I understand how you mean. 4x Pressure Points should rip through any enemy's health.
+    I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+        While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+My Ironclad A20 strategy is to just kinda twiddle my thumbs until something broken happens.
++ [Feel No Pain](http://slay-the-spire.wikia.com/wiki/Feel%20No%20Pain) Ironclad Uncommon Power
+    
+    1 Energy | Whenever a card is **Exhausted,** gain 3(4) **Block.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I mean I take longer between cards to decide exactly what I'm doing, not how many get played!
+    Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+The bot is outdated, Weave used to function that way and have that text on it.
+I believe it’s 99999 damage, so 999 block isn’t going to help you. Although, I don’t think there is a max HP cap, so it would theoretically be possible to survive it with 100000 max HP. In practice though that’s *impossible to reach in a normal run.
+
+*Technically, you could roll an infinite number of Entropic Brews that contain Fruit Juice, but that would require a level of luck so high that even Dream would accuse you of cheating.
+    > In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+        Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+            Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+                Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+        Yep it does more damage every time you get something from it
+    Entropic Brew never generates Fruit Juice
+        Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+            That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+                Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+                + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        entropic brew could give fruit juice out of combat?
+            Just try to drink it...
+    > even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+    It is actually 10,000, if memory serves.
+Oh right, I thought you meant 2 buffer. 
+If you time it right, the intangible you get from incense burner works too.
+Sure. I meant that you can't see them anywhere in-game, which can be a problem for trying to decide what cards to add to your deck.
+No, it used to be a debuff, but they nerfed it because it made Blasphemy too easy to use.
+That’s what I mean though - if you draw in the wrong order regarding stances, no matter how many you have, you slowly die because Watcher’s design is manipulation of stances and cards, but you have to have them at the right times.
+
+Example being an early Gremlin Nob. Assuming you’re shooting for a relatively early first elite, you will have maybe 3-4 cards added to your deck. You won’t have the luxury of multiple scrying, retains, and a Tantrum unless you’re absurdly lucky. More likely you have something like a Flying Sleeves, Sands of Time, and a Bowling Bash. If you draw both Eruption and Vigilance on turn 3, you barely did any chip damage, can’t utilize the extra energy from Calm, and don’t want to stay in Wrath because you’re going to be eating 48. Plus, you only have 1 energy to do damage before eating that 48.
+
+Obviously this is an extreme situation but unlike other characters who are designed to deal damage without stances, the Watcher’s early game hinges on being able to utilize the risk/reward of Wrath in crucial moments like this, and sometimes you can’t outplay your draw because of this inherent design.
+    That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+I'm new to the game, and hesitant to suggest anything that resembles a buff for the class, because when the cards line up, she's an absolute monster, and outpowers basically everyone else in the early game. That being said, I hate Vigilance. It feels like such a terrible card. 
+
+8 block is never enough to save me when it matters, and calm is only really useful if you can leave it. I understand the "banking" nature of calm, but it all just feels really bad for a 2 cost. I probably just need to play around it more, but I often find myself hovering Vigilance when choosing something to remove.
+    When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+I could see Slime Boss being very awkward, as every time it splits it clears all Mark
+    While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+Kind of what I mean! Watcher may not be fast but to me she feels really fast, which is part of why it's my favorite class.
+> In practice though that’s *impossible to reach in a normal run.
+
+There was a person who did it on a previous patch by using the event that lets you take damage to get gold as many times as you want, and relics that reduced that damage to zero, to get an arbitrarily high amount of gold. They then used courier to buy an arbitrarily large number of potions, to get the required amount of fruit juice.
+
+This was tool-assisted, and took several days of clicking in the shop, if I recall correctly.
+
+Also, I think that event has since been changed to do an increasing amount of damage, or something like that.
+    Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+        Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+            Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+    Yep it does more damage every time you get something from it
+Entropic Brew never generates Fruit Juice
+    Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+        That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+            Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+            + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    entropic brew could give fruit juice out of combat?
+        Just try to drink it...
+> even Dream would accuse you of cheating.
+
+[Here you go, folks, an explanation.](https://www.youtube.com/watch?v=8Ko3TdPy0TU)
+It is actually 10,000, if memory serves.
+That deck you mentioned will beat gremlin nob easily though, even with that draw. Just play the Vigilance on turn 3 to put yourself in calm and block 8. Either you'll draw the eruption again on the next turn and have lethal with the extra energy + sands of time + strikes/damage commons, or you can just spend your energy on blocks, get hit a little, and then have lethal next turn.
+When Watcher was in beta testing, Vigilance initially drew two cards instead of gaining block. It was *terrible*, and made her very frustrating to play on the first few floors.
+While true, his non-upgraded pressure points can knock out 80 damage in one deck cycle, which is no joke. That's not a good split, but with a little luck, or willingness to tank the boss' first hit, you could easily either get a *very* good split (128 damage) or even kill the boss without him splitting.
+Oh that’s cool! I’m guessing they used bloody idol + tungsten rod to take exactly 0 damage from that event. And yeah, looks like it’s been changed to do +1 damage per time you take a given option, so no longer possible.
+
+I’ve also seen players use prismatic shard to get 2 nightmares + a wish to get Infinite gold. I suppose you could also get infinite max HP with courier that way!
+    Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+        Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+Yep it does more damage every time you get something from it
+Oh, shit. I guess that makes sense given that no other healing items can be generated in combat. I guess it’s down to getting infinite gold and buying infinite potions with courier then!
+    That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+        Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+        + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+entropic brew could give fruit juice out of combat?
+    Just try to drink it...
+Yeah, sounds possible. That one seems like it would be harder to write a program to click in the right places for you, though, which is pretty critical to actually doing it!
+    Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+That's not completely true: I'm 99% sure [[Alchemise]] can generate regen potions, even though it can't generate fruit juice.
+    Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
+    + [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Just try to drink it...
+Actually, if you're able to get your hand right, this setup can be very predictable and one can pretty easily make a macro for it.  I was trying to do this Nightmare thing with Alchemize, not knowing Alchemize, nor Entropic Brew, do not give Fruit Juice.  Nice little waste of an hour lol.  But yeah, with the way Nightmare puts the cards in your hand, you can have them line up the same way every time.
+Yeah, it says on the wiki that it can gen Bottle Fairy and Regen, but not fruit juice
++ [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 26.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)

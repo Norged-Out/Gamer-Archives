@@ -1,0 +1,723 @@
+[[Deck Size Is there really a “right way” to build]]
+
+
+I tend to flip-flop on this a lot. A thin deck tends to be better when your deck has an “objective” or theme that it’s built around. I used to strictly play this way until I found that building this way sets you up for failure against certain fights and you just kind of end up hoping not to see them. A good example of this is Transient or Reptomancer in a lot of Silent/Defect runs that try to get too cute with their damage. 
+
+For the past couple months I’ve been more in the habit of picking cards that fill in the gaps in my deck (e.g., if I feel like I need draw I take any draw options, if I feel starved for energy I grab 0 cost cards) or solve certain fights.
+
+I feel like I more consistently win high ascension and in general with sloppy fat decks because they’re well rounded/are less impacted by deck trashing. It seems counterintuitive because I have less crazy plays where I end up with 2000 poison or something, but I’ve found that dealing just enough damage to win each fight is all you really need. 
+
+My deck size averages around 35 cards these days. What are your thoughts? What works for you? I’d love to hear your outlooks!
+
+
+That's kind of what the high level players have arrived at. Fill your deck with many high value cards so that you reduce the odds of drawing curses/status/low value cards.
+    I think once I realized that you can have a thick deck that’s also consistent I changed my play style. There are so many efficient cards that I used to not pick up (headbutt, compile driver, rebound, etc.) because they seemed unnecessary but they essentially curate your thick deck into whatever you need it to be.
+        One thing I've noticed in my own playing is that there is a curve to climbing the ascensions. No ascensions and early ascensions almost favor thinner decks, but there is a change in deck building depending on how far along you are. I cruised up to about 12 on all the characters, then stalled for a long time, then something clicked and I got to 18 and stalled again until I started going for the bigger, slower deck types. 
+
+I think there's different strategies that are favorable as you climb. That's just my experience though.
+            100% agree. Noxious Fumes and block will get you pretty far with the silent, but once the game gets really mean you’ll either have to adapt or die to Act 1 elites every time.
+                I used to skip over stuff like Predator all the time going "it's too slow and doesn't fit into my archetypes" until I realized the Nob doesn't give a fuck about your archetypes and is going to punch you in the face regardless
+            Hearing someone else hit a plateau at the mid-teens is reassuring. I’ve been stuck at a18 on my ironclad and a16 on my defect, and I wana go all the way with at least one of them before doing silent and watcher.
+                I don't know what your plateau is, but one thing I noticed is that as you get upwards toward 18, it becomes a much better idea to protect your hit points unless you can make a really powerful trade off for them. So like, it's not unusual for me to just full-block on a turn where I'm getting hit for a lot instead of trying to deploy powers or get a kill. And then sneak your damage out in lulls in the enemy damage or when you're set up enough to get a kill shot.
+                    Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+                Yeah I was stuck on A18 on Ironclad for a while but recently hit 20(haven't won on 20 yet though). I'm currently stuck on A12 with Silent.
+            I am no expert on low ascension optimization, and far from being very good at higher ones (playing exclusively on ascension 20 with low win rate). My take on what you are saying is rather that it's easier to get away with worse play at lower ascensions which does not hold for higher ones.
+
+If you have a smaller deck at low ascension and you win it doesn't necessarily mean this was the correct play. It could be that this level is just easy and can be beaten with sub optimal play.
+                Mmm, no. I think that optimal play changes between the ascensions.
+
+It seems like that at higher difficulties, it's far more prudent to be way more aggressive at preserving your hit points than in lower ascensions. I think it's less suboptimal play and more just a different strategy. You can afford to be more aggressive in lower ascensions when the enemies aren't hitting as hard and don't have as difficult of move-sets to try to survive.
+                    Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
+            That's where I was. I was winning maybe 1 out of every 4-7 runs and then took like a month or two break between ascensions 13-15, but now I've taken a couple relics I've never taken before but still feel like I'm building normally but I've won every 1-2 attempts getting each character to ascension 14 or 15. Could be a luck streak too.
+            Ascender's Bane alone is a big incentive to widen your deck.
+        I fucking love [[Headbutt]], except empty discard pile Headbutt, which seems to happen every time I'm in a tough fight. Genuinely might be my favourite card, even though it's definitely not my most successful.
+            Feels real cheeky when you get headbutt and then pommel strike
+                "Didn't you hear? I'm playing this [[Rampage]] twice this turn!"
+                    + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Here’s my ideal deck size
+
+[:)   :)](https://imgur.com/gallery/guiU1VG)
+You beat the game by solving the problems that each enemy presents. You don't necessarily beat the game by going for infinites or screenshot-able big numbers.
+
+In other words you will more consistently win going for a deck that is good enough, rather than going for deck that is degenerately powerful.
+    This is 100% true but personally I think it's infinitely more fun trying to go for the nuts deck than to win with something boring
+        Good strategy game: there are several good, distinct strategies that are effective
+
+Great strategy game: "what if I did... there's no way I'll win and I don't care this is hilarious. Oh shit I won?"
+            Me taking Accuracy and a Wrist Blade before I have any shiv cards
+                Oh, I feel that. You would think you’d see a few Blade Dances no problem... right? Right?! Dammit.
+                    Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+                        Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+                            Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+                                Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+                                [deleted]
+                                    Bad bot
+                Or catalyst, but its usually easy enough to at least get a poison card or two anyway.
+        In the end the right way to play is the one you have the most fun with right? Some prefer the methodical more secure win, others the thrill of when the cards align.
+    I've also found "degenerately powerful" decks often have a weakness as well  Ultra High Dex decks? Often have no attacks and against some enemies can't deal enough damage to actually kill. Ultra high poison deck? Often lacks the defense necessary and if you draw your poison cards last you take damage, sometimes die. Also sometimes these decks can't beat enemies that regenerate artifact, charges or cleanse poison at 50% health. Ultra thin infinite deck? Good luck dealing with 5 status cards. 
+
+There's also the issue of trying to force an archetype, which can occur when you are going for "degenerate power". For example, you get 2 Footwork so you don't take wraith form because you're building a Dex deck. Well, too bad you were never offered Blur or Dodge and Roll and die because you can't block.
+I always have thicc decks because I have no self control and always pick a card instead of skipping :(
+Potion always save me the fights that counter to my build :D
+A specific deck size isn't something you should typically shoot for.  Rather,  each card added or removed should be done with the purpose of helping it solve an immediate problem it has.  For example, early in act 1 you need high damage cards in order to defeat the elites, so you should be getting cards that help with that.  Once that weakness is shored up you pick cards that help with the act 1 boss, and then you get cards that help with the act 2 hallway fights, and so on.
+
+A fat deck is made up of one card reward at a time, and each card added or removed should be done so for a specific purpose.
+    Yeah I agree. I’m sorry if my post was unclear but I’m not shooting for 30ish cards I just always end my run and realize “oh shit another big one”
+Yeah that's where I've arrived at as well. I think a secret part of the equation is getting more comfortable with hallway fights, which means more high-quality cards are coming up, which means even with similar skip rates you're at least churning through more uncommons and rares
+    Agreed.   You really shouldn't be taking a path that's nothing but question marks.
+        Why you gotta call me out like that?
+            We've all done it.   Acceptance is an important part of the recovery process.
+This is great because as a Magic: the Gathering player, your first inclination is to play that game with 80+ card decks filled with the good stuff, until someone explains that’s why your deck is so inconsistent and has trouble. Then in this game I approached it with the same idea, keep it low = drawing my best cards more often. But in reality this game is entirely different with negative cards you cannot avoid having sometimes, which you want to draw less.
+    Another key distinction is you don't swap out your hand each turn.  Turns out it's easier to see your entire deck when you draw 5 every turn.
+Thick decks work rather well but they need momentum imo, so I usually make sure to add some Draw cards to keep it flowing.
+    Ofc. Deck manipulation is a key to winning in every fight but especially when she thiccccc
+I feel this. I did a Defect run yesterday that was thick (30-35) and I felt bad about it the whole way until I realized I’d beaten the heart. It’s not how you win; it’s that you win.
+    I had a Defect run with 25-30 cards. I was getting 40-100 defense each turn. With a smaller deck, I probably could've pulled my attack cards more often, but who needs a risky fast win when the enemy can never kill you.
+Another point about deck size and cycling; If you have a small deck, straight card draw effects are quite powerful when trying to cycle something that scales with the # of times played, like [[Pressure Points]], or even just high value attack/block cards such as [[Bludgeon]]. However, in my experience there are tools to cycle these cards quite effectively using tools such as scrying for watcher, [[Meditate]], [[Hologram]] and the like. If anything these type of cards actually scale better in larger decks, as when you actually have the card in hand, your desired target is more likely to be where it needs to be (draw or discard pile respectively).
+    + [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
++ [Bludgeon](http://slay-the-spire.wikia.com/wiki/Bludgeon) Ironclad Rare Attack
+    
+    3 Energy | Deal 32(42) damage.
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Hologram](http://slay-the-spire.wikia.com/wiki/Hologram) Defect Common Skill
+    
+    1 Energy | Gain 3(5) **Block.** Return a card from your discard pile to your hand. **Exhaust** (does not **Exhaust).**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Big decks + draw is what I end up going for mostly, especially on silent. Yesterday I beat act 3 with an A15 Grand Finale deck with about 35 cards. 2 acrobatics, 3 dagger throws, a master of strategy, 1 adrenaline, and the only copy of backflip I found in the entire run. I had the Kite and Cursed Key for energy.
+I think as long as you can draw your high value cards deck size is not important at all. What matters is you hit the energy/draw balance.
+Normally I go to around 28-33 cards, but it's not a hard limit. I've had a few 18~ card decks win a20 heart on all characters (ironclad is easiest to do this with) 
+
+There isn't really a *right* way to build other than "What is your deck trying to do, how can enemies stop it, and how can you deal with that?"
+
+I dunno, I follow the philosophy of "Would I want to play this card any more than any card currently in my deck?" before I add it. Scry and Draw are good, energy is sometimes good, I almost never take damage cards after act 2.
+Depends what cards are in your deck. I got a metamorphosis from neow recently and had to keep my deck thin so I would draw it and then draw the cards it created. But if decks are too thin they can suffer against burns from Nemesis / Orb walker
+My most successful runs are decks with ~35 cards which thin themselves out into 15-20 card decks when I’ve got my main powers online and have used up self exhausting skills etc. 
+
+Kinda best of both worlds to have lots of ways of setting up scaling- especially for block- then a core of high quality cards to see you through. 
+
+However this also relies on relics and potions to smoothe over gaps to get you online.
+I've found that if I'm playing anything other than A20 I can go up to 40 cards and mostly I'll be fine.  I like jamming a bunch of shit together and making it work, I just find it very enjoyable. If I'm doing A20s I rarely go over 25-28 cards, you just don't have the same kind of wiggle room
+I used to play with stacked up decks a lot because I kept wanting cards as I see them, but inevitably I die due to a bad draw or string of bad draws in later fights -- in other words, I die from deck bloats. Being more selective about cards makes me generally win more, or at least die less from bloat. The mindset I've taken recently is that there are no deaths from bad luck. Improper preparation is the cause of bad draws, not luck.
+
+The size of a typical good deck also depends a lot on the character, in my view. I think when I play as I Ironclad I tend to be OK at around 25 cards, Silent usually does ok with 30-35 or more cards, Defect seems to struggle if it has more than around 20ish cards, and Watcher seems to want around 25 cards. Do other people have different typical success rates?
+    This is true until you hit that one jaw worm floor 2 fight where every single draw is rng telling you to fuck off, leaving you to limp away missing 30 hp
+    Agreed about defect. Cold snap and coolheaded with upgraded dual cast and Zap in a small deck is very fun
+A20H - I get cool consistent big brain strat decks to work in like 1 of 20 runs. Meanwhile 'do i need more of X? yes? ok yoink' 40+ card decks tend to be consistently better performers for me because there's less of a gap period of 'my deck is small but not 100% ready for Y consistent combo yet'
+
+Generally this also works best for silent. With watcher if I have a 40+ card deck im either about to get obliterated for my hubris or I have like 2+ omniscience and can just throw in whatever cards I see because I'm set, and deck size doesn't really matter.
+    That’s the best description of this type of deck-building I’ve ever read.
+
+Defect also very adept at the big boy deck with holograms, and the utility-monster card that is All For One
+The main thing I've found in my playing is that I greatly prefer consistent decks over more burst-style decks (be it block or damage). Consistent decks tend to be larger and more well-rounded, while burst decks have variable size but are unrounded and focus on drawing the right cards when you need them.
+
+Burst decks always seem to die to innocuous turns where I don't draw enough block, and chip damage I couldn't take care of at the time. Consistent decks can be a lot slower, but don't die as often to bad draw as burst decks.
+I learned this when I did a daily challenge with a 50 random card deck and got my first win on ironclad (just couldn't win with him for some reason). After that I stopped doing build types for IC and just went good stuffs.
+There is no deck size you should go for unless you are going for specific achievements. Sometimes 35 cards will be ok if deck is filled with high value cards that work good together, other deck work her even better with 17 or 20 cards and any card you look at to pick actually will make the deck worse...
+
+I think most players went from the 'builds a themed deck to win' to 'pick what is needed to win' just to ends with 'evaluate every offered card based on million factors, sometimes skipping even usual great picks if they don't help'...
+Pick cards that have high value. I watched  Jorb and learn how to see value from his viewpoint.
+
+I used to love [[Claw]], [[Blizzard]], [[Rampage]] for their self scale, but then I realize they are too slow to do anything past act 2.
+
+I used to hate [[Immolate]], [[Blasphemy]] and [[Hemokinesis]] but now, those card help me punch through when im the weakest.
+
+0 mediocre cards are draw clog.
+
+Powerful powers require draw and setup fast.
+
+Cards that give due next turn like [[Setup]] and [[Phantasma Killer]] are too slow, too inconsistent.
+
+Defense is more highly valued in later state.
+
+We hate [[Strike]].
+
+Decks need enough energy, not 6 or 12 a turn.
+
+[[Reprogram]] is shit.
+    Blizzard is probably the biggest trap card in the game. I mean, if you play a Glacier you deal 6 damage with Blizzard plus. Wow, that is like a strike, but you had to first draw the frost orbs, which isn't a guarantee. In most hallway fights the cards is very slow. In Act 1 and early Act 2 it is basically useless. In bosses it usually takes to long for it fo meaningfully change the outcome. The only fight where is feels good is either Reptomancer or Donu and Deca.
+        Gotta stand up for my bro Blizzard here, I just cleared A19 building around it yesterday! Found it early and then focused on grabbing as much frost as possible and removing strikers/defends. By the middle of Act 2 I had a [[Runic Capacitor]], [[Glacier]], two [[Cold Snap]], and two [[Coolheaded]]
+
+Spamming frost cards for the first few rounds gave me enough block to survive and scale Blizzard pretty easily. [[Consume]] and the [[Core Surge]] + [[Biased Cognition]] combo stacked focus pretty quickly as well.
+            Every card can be very good in the right circumstances. However, it is a matter of luck. Picking Blizzard that early in the run, could in hindsight been a very dumb move, wasting a card draw for a card that could actually be useless or as useless as a strike. If I ever pick Blizzard, it would be after I have a guarantee that I can creat a lot frost orbs quickly. Picking Blizzard with only a Coolheaded, absolute insanity.
+                Maybe with frozen core and runic capacitor it might work, still slow and not sure what boss relic would be worse then frozen core to pick that one up...
+                    It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+                        + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            + [Runic Capacitor](http://slay-the-spire.wikia.com/wiki/Runic%20Capacitor) Shop
+    (Defect only) Relic
+    
+    Start each combat with 3 additional Orb slots.
++ [Glacier](http://slay-the-spire.wikia.com/wiki/Glacier) Defect Uncommon Skill
+    
+    2 Energy | Gain 7(10) **Block.** **Channel** 2 **Frost.**
++ [Cold Snap](http://slay-the-spire.wikia.com/wiki/Cold%20Snap) Defect Common Attack
+    
+    1 Energy | Deal 6(9) damage. **Channel** 1 **Frost.**
++ [Coolheaded](http://slay-the-spire.wikia.com/wiki/Coolheaded) Defect Common Skill
+    
+    1 Energy | **Channel** 1 **Frost.** Draw 1(2) card(s).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Here, your prime cards are Bias and Core, these cards are crazy together and no matter how you put it, it is always strong. Strong enough for Blizzard to scale.
+
+Then again, what if you dont encounter any frost? It is worse than a strike in the first 3 turns. 
+
+I have won with all of those card I mentioned in 1paragraph, pleasant, but I just dont value them as highly before.
+
+And as another user have said, these cards and [Wind-up Strike]] do incredibly well against slow scale fight like [[The Champ]], [[Time Eater]] (Sometime)
+        It has niche application in the Champ fight if you can’t find any other scaling damage, similar to a dark orb.
+    + [Claw](http://slay-the-spire.wikia.com/wiki/Claw) Defect Common Attack
+    
+    0 Energy | Deal 3(5) damage. All Claw cards deal 2 additional damage this combat.
++ [Blizzard](http://slay-the-spire.wikia.com/wiki/Blizzard) Defect Uncommon Attack
+    
+    1 Energy | Deal damage equal to 2(3) times the **Frost** **Channeled** this combat to ALL enemies.
++ [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
++ [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
++ [Hemokinesis](http://slay-the-spire.wikia.com/wiki/Hemokinesis) Ironclad Uncommon Attack
+    
+    1 Energy | Lose 2 HP. Deal 15(20) damage.
++ [Setup](http://slay-the-spire.wikia.com/wiki/Setup) Silent Uncommon Skill
+    
+    1(0) Energy | Place a card in your hand on top of your draw pile. It costs 0 until it is played.
++ [Phantasmal Killer](http://slay-the-spire.wikia.com/wiki/Phantasmal%20Killer) Silent Rare Skill
+    
+    1(0) Energy | On your next turn, your Attack damage is doubled.
++ [Strike](http://slay-the-spire.wikia.com/wiki/Strike) Watcher Starter Attack
+    
+    1 Energy | Deal 6(9) damage.
++ [Strike](http://slay-the-spire.wikia.com/wiki/Strike) Defect Starter Attack
+    
+    1 Energy | Deal 6(9) damage.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        > [[Reprogram]]
+            + [Reprogram](http://slay-the-spire.wikia.com/wiki/Reprogram) Defect Uncommon Skill
+    
+    1 Energy | Lose 1(2) **Focus.** Gain 1(2) **Strength.** Gain 1(2) **Dexterity.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Its really luck based, there arent much perfect decks. If you have a big deck, curses and stuff become less annoying. You can also draw shit like only attacks when you need to block. Maybe its better to make a "big" deck. 
+
+My average deck size depends on the character, the ironclad can be about 10-20 cards, while silent and defect are a little bigger, aber 20-25.
+    If you think Slay is luck based you gotta watch Jorbs go through 30 mins on a spreadsheet to choose one card reward.
+        I've never enjoyed watching spreadsheets so much as I have on his streams.
+        Yeah i heard of that, and its ok if it makes fun for him, but in my world its luck which card i get. Im good in Card games, or at least not bad. Planing makes fun too, but if a run would cost me 3 hours, i wouldnt play the game any more lol.
+I'm actually so bad about deck size, unless all of my options are really bad I almost always pick up a card. I try to remove some strikes/defends and curses where I can though.
+My average deck size is probably about 30. Its not that I don’t take generic cards that help my deck, I’m just super super aggressive in cutting cards and will basically always cut a card when given the chance
+The problem with small decks is any enemy that adds status cards to them is going to be substantially worse off as a higher percentage of their deck is now dead draws (except some ironclad builds sort of). It doesn’t help that small decks usually want to cycle quite a bit too (think [[rampage]] or [[claw]] or [[pressure points]] decks), which means it’s a higher percentage of cards that will be drawn a lot...and thus disproportionately affected by these fights. And in higher ascensions, when enemies add statuses to your decks, they usually add a lot.
+    + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
++ [Claw](http://slay-the-spire.wikia.com/wiki/Claw) Defect Common Attack
+    
+    0 Energy | Deal 3(5) damage. All Claw cards deal 2 additional damage this combat.
++ [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I agree with this, but there are also a lot of ways around this problem which makes it interesting. As ironclad, you see an early [[evolve]] and you think to yourself "oh, now I can slim my deck down now without worrying about statuses" and now you can become much more fussy about what cards you pick, leading to a sub 25 card deck. This is also the reason [[medkit]] (and not so much [[blue candle]]) can also become very strong. However, these are more tailored towards ironclad with all its exhaust synergies, but its not impossible with the other characters.
+        + [Evolve](http://slay-the-spire.wikia.com/wiki/Evolve) Ironclad Uncommon Power
+    
+    1 Energy | Whenever you draw a Status, draw 1(2) card(s).
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Blue Candle](http://slay-the-spire.wikia.com/wiki/Blue%20Candle) Uncommon Relic
+    
+    Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I think it’s highly dependent on so many different things that trying to decide an “optimal deck size” is probably distracting from more important variables you should be considering. I will preface this comment by saying that I only have around a 10-20% winrate on A20 Heart runs, so I’m decent but I could definitely be wrong about some of these things and would be open to disagreement. 
+
+I think a general idea to stick by is that if you have a some high value/high impact cards, it’s a good idea to avoid adding more fluff to your deck. Things like Echo Form or Defrag or even Crippling Cloud earlier in a run—these are cards you want to get in play ASAP, ideally turn 1 or 2. Which generally lends itself to avoiding adding fluffy cards to your deck, unless they are cards that give you card draw. 
+
+One exception to this is with Ironclad corruption decks, however. Corruption is a quintessential high value card that you want played early on in most hallways and elites. However, Corruption exhaust synergy decks tend to be pretty thick, since you’re heavily incentivized to pick up more mediocre skills after you find a Corruption. Usually, this can be detrimental, since adding more junk screws you over since it would take longer to draw Corruption—however, a large portion of skill card picks are going to be cards that offer a lot of card draw (Battle Trance, Burning Pact, Shrug It Off). With these cards, they don’t really slow down how soon you will draw corruption, lending Corruption decks to become somewhat counterintuitively thick, despite how high impact Corruption is. 
+
+So yeah: TLDR, if you have one or a few high impact cards you need played ASAP, avoid adding mediocre cards that don’t grant card draw. Otherwise, bigger decks are often better for reasons you mentioned: they don’t get screwed by statuses, and they are more comprehensive with fewer weaknesses.
+
+But like I said earlier, deck size may be a distracting measure to look at, I think it’s better to focus on making sure you have a deck that can handle any of the challenges the game’s elites and bosses can throw at you. Doesn’t matter if you’re deck is a monster at killing the Heart, if your deck can only has a 60% chance of surviving Reptomancer, that’s a big issue. So focus on patching whatever weaknesses that are resulting in that low survival rate. Whether this lends itself to a big or small deck should be more of an afterthought, IMO. 
+
+Another small point to make is that a 35 size deck with a ton of powers and exhaust cards is very different than a 35 size deck with fewer powers and exhaust cards. The former may thin down to a 23 size deck by the time you first reshuffle, wheras the latter deck may still remain large throughout the fight, which may be good or bad. Yet another example of how that number on the top right of your screen may not be entirely communicative about whether or not you have a good deck.
+I agree. I’m A20 on all characters but watcher (A14 so far, still working on it) and this has been consistently a better move at higher ascensions
+
+
+A low deck goes infinite easier, but can also be a lot less consistent because without those combos you *will* get curbstomped by certain fights (act 3 in particular)
+
+
+A large deck generally seems more reliable *if* you have enough card draw or duplicates to still draw to your best cards reliably
+
+
+I beat a13 watcher with a 42 card deck with loooads of scry, and 2 rushdowns. Even with 42 cards, I was drawing my whole deck every other turn because of all the scry and card draw; it might as well have been 10 cards the way I was able to play it, but it was even better because I could always just keep “situational” cards like Wave of the Hand instead of scrying them away
+Whenever I try to make a thin specialized deck I get wrecked. My best runs always end up with 30+ cards that can cover a lot of different areas.
+There is no magic number. There is only what your deck needs to complete the challenges immediately ahead based on what you current have and are being offered. Sometimes you want nothing, sometimes you are given a lot. Successful deck sizes are generally larger unless you lucksack into like a Floor 1 infinite. The thing that ultimately makes high ascension prefer a large deck is the fact that The Heart exists. It has a ton of health, deals a ton of damage, can't be killed in one turn, and you take damage with every card played. To beat that your deck ***has*** to be robust. What "robust" means and looks like varies from run to run, based on what your early deck can do.
+There's no 1 size fits all to the game. Ideally, you'd want a small deck with only great cards than can mitigate or deal a ton of damage each turn. Realistically, you're not going to be offered the perfect combination of cards to make that happen, so you take the card that makes the next floor easier or allows you to take an elite fight so you can get a relic and take a harder path for better rewards etc. 
+
+I look at all my runs as what card choice is going to enable me to take the hardest floor with the greatest upside. The stronger you get early allows you take maybe an extra elite which gives you more gold, relic and rare card chance which makes me even stronger for a3 and a4 fights. The less cards I have to add to accomplish this, the better as it allows me to be more consistent. But generally I sit around 30 cards.
+Forcing thin decks are a luxury of low ascension. You still build them at higher ascension occasionally, but the path to thin decks at high ascension is incredibly narrow, it goes though a1 and a2 elites, hallways, and bosses.
+
+By the time you hit a2, usually your deck has 18 cards, some common attacks and a helpful block card, you finish a1 on 4hp and maybe a potion up, and you are about to get mugged for 20hp or pray for a good draw vs birds. At this point, the thin deck plan is out the window.
+I think once I realized that you can have a thick deck that’s also consistent I changed my play style. There are so many efficient cards that I used to not pick up (headbutt, compile driver, rebound, etc.) because they seemed unnecessary but they essentially curate your thick deck into whatever you need it to be.
+    One thing I've noticed in my own playing is that there is a curve to climbing the ascensions. No ascensions and early ascensions almost favor thinner decks, but there is a change in deck building depending on how far along you are. I cruised up to about 12 on all the characters, then stalled for a long time, then something clicked and I got to 18 and stalled again until I started going for the bigger, slower deck types. 
+
+I think there's different strategies that are favorable as you climb. That's just my experience though.
+        100% agree. Noxious Fumes and block will get you pretty far with the silent, but once the game gets really mean you’ll either have to adapt or die to Act 1 elites every time.
+            I used to skip over stuff like Predator all the time going "it's too slow and doesn't fit into my archetypes" until I realized the Nob doesn't give a fuck about your archetypes and is going to punch you in the face regardless
+        Hearing someone else hit a plateau at the mid-teens is reassuring. I’ve been stuck at a18 on my ironclad and a16 on my defect, and I wana go all the way with at least one of them before doing silent and watcher.
+            I don't know what your plateau is, but one thing I noticed is that as you get upwards toward 18, it becomes a much better idea to protect your hit points unless you can make a really powerful trade off for them. So like, it's not unusual for me to just full-block on a turn where I'm getting hit for a lot instead of trying to deploy powers or get a kill. And then sneak your damage out in lulls in the enemy damage or when you're set up enough to get a kill shot.
+                Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+            Yeah I was stuck on A18 on Ironclad for a while but recently hit 20(haven't won on 20 yet though). I'm currently stuck on A12 with Silent.
+        I am no expert on low ascension optimization, and far from being very good at higher ones (playing exclusively on ascension 20 with low win rate). My take on what you are saying is rather that it's easier to get away with worse play at lower ascensions which does not hold for higher ones.
+
+If you have a smaller deck at low ascension and you win it doesn't necessarily mean this was the correct play. It could be that this level is just easy and can be beaten with sub optimal play.
+            Mmm, no. I think that optimal play changes between the ascensions.
+
+It seems like that at higher difficulties, it's far more prudent to be way more aggressive at preserving your hit points than in lower ascensions. I think it's less suboptimal play and more just a different strategy. You can afford to be more aggressive in lower ascensions when the enemies aren't hitting as hard and don't have as difficult of move-sets to try to survive.
+                Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
+        That's where I was. I was winning maybe 1 out of every 4-7 runs and then took like a month or two break between ascensions 13-15, but now I've taken a couple relics I've never taken before but still feel like I'm building normally but I've won every 1-2 attempts getting each character to ascension 14 or 15. Could be a luck streak too.
+        Ascender's Bane alone is a big incentive to widen your deck.
+    I fucking love [[Headbutt]], except empty discard pile Headbutt, which seems to happen every time I'm in a tough fight. Genuinely might be my favourite card, even though it's definitely not my most successful.
+        Feels real cheeky when you get headbutt and then pommel strike
+            "Didn't you hear? I'm playing this [[Rampage]] twice this turn!"
+                + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Here’s my ideal deck size
+
+[:)   :)](https://imgur.com/gallery/guiU1VG)
+This is 100% true but personally I think it's infinitely more fun trying to go for the nuts deck than to win with something boring
+    Good strategy game: there are several good, distinct strategies that are effective
+
+Great strategy game: "what if I did... there's no way I'll win and I don't care this is hilarious. Oh shit I won?"
+        Me taking Accuracy and a Wrist Blade before I have any shiv cards
+            Oh, I feel that. You would think you’d see a few Blade Dances no problem... right? Right?! Dammit.
+                Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+                    Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+                        Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+                            Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+                            [deleted]
+                                Bad bot
+            Or catalyst, but its usually easy enough to at least get a poison card or two anyway.
+    In the end the right way to play is the one you have the most fun with right? Some prefer the methodical more secure win, others the thrill of when the cards align.
+I've also found "degenerately powerful" decks often have a weakness as well  Ultra High Dex decks? Often have no attacks and against some enemies can't deal enough damage to actually kill. Ultra high poison deck? Often lacks the defense necessary and if you draw your poison cards last you take damage, sometimes die. Also sometimes these decks can't beat enemies that regenerate artifact, charges or cleanse poison at 50% health. Ultra thin infinite deck? Good luck dealing with 5 status cards. 
+
+There's also the issue of trying to force an archetype, which can occur when you are going for "degenerate power". For example, you get 2 Footwork so you don't take wraith form because you're building a Dex deck. Well, too bad you were never offered Blur or Dodge and Roll and die because you can't block.
+Yeah I agree. I’m sorry if my post was unclear but I’m not shooting for 30ish cards I just always end my run and realize “oh shit another big one”
+Agreed.   You really shouldn't be taking a path that's nothing but question marks.
+    Why you gotta call me out like that?
+        We've all done it.   Acceptance is an important part of the recovery process.
+Another key distinction is you don't swap out your hand each turn.  Turns out it's easier to see your entire deck when you draw 5 every turn.
+Ofc. Deck manipulation is a key to winning in every fight but especially when she thiccccc
+I had a Defect run with 25-30 cards. I was getting 40-100 defense each turn. With a smaller deck, I probably could've pulled my attack cards more often, but who needs a risky fast win when the enemy can never kill you.
++ [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
++ [Bludgeon](http://slay-the-spire.wikia.com/wiki/Bludgeon) Ironclad Rare Attack
+    
+    3 Energy | Deal 32(42) damage.
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Hologram](http://slay-the-spire.wikia.com/wiki/Hologram) Defect Common Skill
+    
+    1 Energy | Gain 3(5) **Block.** Return a card from your discard pile to your hand. **Exhaust** (does not **Exhaust).**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+This is true until you hit that one jaw worm floor 2 fight where every single draw is rng telling you to fuck off, leaving you to limp away missing 30 hp
+Agreed about defect. Cold snap and coolheaded with upgraded dual cast and Zap in a small deck is very fun
+That’s the best description of this type of deck-building I’ve ever read.
+
+Defect also very adept at the big boy deck with holograms, and the utility-monster card that is All For One
+Blizzard is probably the biggest trap card in the game. I mean, if you play a Glacier you deal 6 damage with Blizzard plus. Wow, that is like a strike, but you had to first draw the frost orbs, which isn't a guarantee. In most hallway fights the cards is very slow. In Act 1 and early Act 2 it is basically useless. In bosses it usually takes to long for it fo meaningfully change the outcome. The only fight where is feels good is either Reptomancer or Donu and Deca.
+    Gotta stand up for my bro Blizzard here, I just cleared A19 building around it yesterday! Found it early and then focused on grabbing as much frost as possible and removing strikers/defends. By the middle of Act 2 I had a [[Runic Capacitor]], [[Glacier]], two [[Cold Snap]], and two [[Coolheaded]]
+
+Spamming frost cards for the first few rounds gave me enough block to survive and scale Blizzard pretty easily. [[Consume]] and the [[Core Surge]] + [[Biased Cognition]] combo stacked focus pretty quickly as well.
+        Every card can be very good in the right circumstances. However, it is a matter of luck. Picking Blizzard that early in the run, could in hindsight been a very dumb move, wasting a card draw for a card that could actually be useless or as useless as a strike. If I ever pick Blizzard, it would be after I have a guarantee that I can creat a lot frost orbs quickly. Picking Blizzard with only a Coolheaded, absolute insanity.
+            Maybe with frozen core and runic capacitor it might work, still slow and not sure what boss relic would be worse then frozen core to pick that one up...
+                It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+                    + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        + [Runic Capacitor](http://slay-the-spire.wikia.com/wiki/Runic%20Capacitor) Shop
+    (Defect only) Relic
+    
+    Start each combat with 3 additional Orb slots.
++ [Glacier](http://slay-the-spire.wikia.com/wiki/Glacier) Defect Uncommon Skill
+    
+    2 Energy | Gain 7(10) **Block.** **Channel** 2 **Frost.**
++ [Cold Snap](http://slay-the-spire.wikia.com/wiki/Cold%20Snap) Defect Common Attack
+    
+    1 Energy | Deal 6(9) damage. **Channel** 1 **Frost.**
++ [Coolheaded](http://slay-the-spire.wikia.com/wiki/Coolheaded) Defect Common Skill
+    
+    1 Energy | **Channel** 1 **Frost.** Draw 1(2) card(s).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Here, your prime cards are Bias and Core, these cards are crazy together and no matter how you put it, it is always strong. Strong enough for Blizzard to scale.
+
+Then again, what if you dont encounter any frost? It is worse than a strike in the first 3 turns. 
+
+I have won with all of those card I mentioned in 1paragraph, pleasant, but I just dont value them as highly before.
+
+And as another user have said, these cards and [Wind-up Strike]] do incredibly well against slow scale fight like [[The Champ]], [[Time Eater]] (Sometime)
+    It has niche application in the Champ fight if you can’t find any other scaling damage, similar to a dark orb.
++ [Claw](http://slay-the-spire.wikia.com/wiki/Claw) Defect Common Attack
+    
+    0 Energy | Deal 3(5) damage. All Claw cards deal 2 additional damage this combat.
++ [Blizzard](http://slay-the-spire.wikia.com/wiki/Blizzard) Defect Uncommon Attack
+    
+    1 Energy | Deal damage equal to 2(3) times the **Frost** **Channeled** this combat to ALL enemies.
++ [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
++ [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
++ [Hemokinesis](http://slay-the-spire.wikia.com/wiki/Hemokinesis) Ironclad Uncommon Attack
+    
+    1 Energy | Lose 2 HP. Deal 15(20) damage.
++ [Setup](http://slay-the-spire.wikia.com/wiki/Setup) Silent Uncommon Skill
+    
+    1(0) Energy | Place a card in your hand on top of your draw pile. It costs 0 until it is played.
++ [Phantasmal Killer](http://slay-the-spire.wikia.com/wiki/Phantasmal%20Killer) Silent Rare Skill
+    
+    1(0) Energy | On your next turn, your Attack damage is doubled.
++ [Strike](http://slay-the-spire.wikia.com/wiki/Strike) Watcher Starter Attack
+    
+    1 Energy | Deal 6(9) damage.
++ [Strike](http://slay-the-spire.wikia.com/wiki/Strike) Defect Starter Attack
+    
+    1 Energy | Deal 6(9) damage.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    > [[Reprogram]]
+        + [Reprogram](http://slay-the-spire.wikia.com/wiki/Reprogram) Defect Uncommon Skill
+    
+    1 Energy | Lose 1(2) **Focus.** Gain 1(2) **Strength.** Gain 1(2) **Dexterity.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+If you think Slay is luck based you gotta watch Jorbs go through 30 mins on a spreadsheet to choose one card reward.
+    I've never enjoyed watching spreadsheets so much as I have on his streams.
+    Yeah i heard of that, and its ok if it makes fun for him, but in my world its luck which card i get. Im good in Card games, or at least not bad. Planing makes fun too, but if a run would cost me 3 hours, i wouldnt play the game any more lol.
++ [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
++ [Claw](http://slay-the-spire.wikia.com/wiki/Claw) Defect Common Attack
+    
+    0 Energy | Deal 3(5) damage. All Claw cards deal 2 additional damage this combat.
++ [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I agree with this, but there are also a lot of ways around this problem which makes it interesting. As ironclad, you see an early [[evolve]] and you think to yourself "oh, now I can slim my deck down now without worrying about statuses" and now you can become much more fussy about what cards you pick, leading to a sub 25 card deck. This is also the reason [[medkit]] (and not so much [[blue candle]]) can also become very strong. However, these are more tailored towards ironclad with all its exhaust synergies, but its not impossible with the other characters.
+    + [Evolve](http://slay-the-spire.wikia.com/wiki/Evolve) Ironclad Uncommon Power
+    
+    1 Energy | Whenever you draw a Status, draw 1(2) card(s).
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Blue Candle](http://slay-the-spire.wikia.com/wiki/Blue%20Candle) Uncommon Relic
+    
+    Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+One thing I've noticed in my own playing is that there is a curve to climbing the ascensions. No ascensions and early ascensions almost favor thinner decks, but there is a change in deck building depending on how far along you are. I cruised up to about 12 on all the characters, then stalled for a long time, then something clicked and I got to 18 and stalled again until I started going for the bigger, slower deck types. 
+
+I think there's different strategies that are favorable as you climb. That's just my experience though.
+    100% agree. Noxious Fumes and block will get you pretty far with the silent, but once the game gets really mean you’ll either have to adapt or die to Act 1 elites every time.
+        I used to skip over stuff like Predator all the time going "it's too slow and doesn't fit into my archetypes" until I realized the Nob doesn't give a fuck about your archetypes and is going to punch you in the face regardless
+    Hearing someone else hit a plateau at the mid-teens is reassuring. I’ve been stuck at a18 on my ironclad and a16 on my defect, and I wana go all the way with at least one of them before doing silent and watcher.
+        I don't know what your plateau is, but one thing I noticed is that as you get upwards toward 18, it becomes a much better idea to protect your hit points unless you can make a really powerful trade off for them. So like, it's not unusual for me to just full-block on a turn where I'm getting hit for a lot instead of trying to deploy powers or get a kill. And then sneak your damage out in lulls in the enemy damage or when you're set up enough to get a kill shot.
+            Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+        Yeah I was stuck on A18 on Ironclad for a while but recently hit 20(haven't won on 20 yet though). I'm currently stuck on A12 with Silent.
+    I am no expert on low ascension optimization, and far from being very good at higher ones (playing exclusively on ascension 20 with low win rate). My take on what you are saying is rather that it's easier to get away with worse play at lower ascensions which does not hold for higher ones.
+
+If you have a smaller deck at low ascension and you win it doesn't necessarily mean this was the correct play. It could be that this level is just easy and can be beaten with sub optimal play.
+        Mmm, no. I think that optimal play changes between the ascensions.
+
+It seems like that at higher difficulties, it's far more prudent to be way more aggressive at preserving your hit points than in lower ascensions. I think it's less suboptimal play and more just a different strategy. You can afford to be more aggressive in lower ascensions when the enemies aren't hitting as hard and don't have as difficult of move-sets to try to survive.
+            Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
+    That's where I was. I was winning maybe 1 out of every 4-7 runs and then took like a month or two break between ascensions 13-15, but now I've taken a couple relics I've never taken before but still feel like I'm building normally but I've won every 1-2 attempts getting each character to ascension 14 or 15. Could be a luck streak too.
+    Ascender's Bane alone is a big incentive to widen your deck.
+I fucking love [[Headbutt]], except empty discard pile Headbutt, which seems to happen every time I'm in a tough fight. Genuinely might be my favourite card, even though it's definitely not my most successful.
+    Feels real cheeky when you get headbutt and then pommel strike
+        "Didn't you hear? I'm playing this [[Rampage]] twice this turn!"
+            + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Here’s my ideal deck size
+
+[:)   :)](https://imgur.com/gallery/guiU1VG)
+Good strategy game: there are several good, distinct strategies that are effective
+
+Great strategy game: "what if I did... there's no way I'll win and I don't care this is hilarious. Oh shit I won?"
+    Me taking Accuracy and a Wrist Blade before I have any shiv cards
+        Oh, I feel that. You would think you’d see a few Blade Dances no problem... right? Right?! Dammit.
+            Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+                Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+                    Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+                        Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+                        [deleted]
+                            Bad bot
+        Or catalyst, but its usually easy enough to at least get a poison card or two anyway.
+In the end the right way to play is the one you have the most fun with right? Some prefer the methodical more secure win, others the thrill of when the cards align.
+Why you gotta call me out like that?
+    We've all done it.   Acceptance is an important part of the recovery process.
+Gotta stand up for my bro Blizzard here, I just cleared A19 building around it yesterday! Found it early and then focused on grabbing as much frost as possible and removing strikers/defends. By the middle of Act 2 I had a [[Runic Capacitor]], [[Glacier]], two [[Cold Snap]], and two [[Coolheaded]]
+
+Spamming frost cards for the first few rounds gave me enough block to survive and scale Blizzard pretty easily. [[Consume]] and the [[Core Surge]] + [[Biased Cognition]] combo stacked focus pretty quickly as well.
+    Every card can be very good in the right circumstances. However, it is a matter of luck. Picking Blizzard that early in the run, could in hindsight been a very dumb move, wasting a card draw for a card that could actually be useless or as useless as a strike. If I ever pick Blizzard, it would be after I have a guarantee that I can creat a lot frost orbs quickly. Picking Blizzard with only a Coolheaded, absolute insanity.
+        Maybe with frozen core and runic capacitor it might work, still slow and not sure what boss relic would be worse then frozen core to pick that one up...
+            It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+                + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    + [Runic Capacitor](http://slay-the-spire.wikia.com/wiki/Runic%20Capacitor) Shop
+    (Defect only) Relic
+    
+    Start each combat with 3 additional Orb slots.
++ [Glacier](http://slay-the-spire.wikia.com/wiki/Glacier) Defect Uncommon Skill
+    
+    2 Energy | Gain 7(10) **Block.** **Channel** 2 **Frost.**
++ [Cold Snap](http://slay-the-spire.wikia.com/wiki/Cold%20Snap) Defect Common Attack
+    
+    1 Energy | Deal 6(9) damage. **Channel** 1 **Frost.**
++ [Coolheaded](http://slay-the-spire.wikia.com/wiki/Coolheaded) Defect Common Skill
+    
+    1 Energy | **Channel** 1 **Frost.** Draw 1(2) card(s).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Here, your prime cards are Bias and Core, these cards are crazy together and no matter how you put it, it is always strong. Strong enough for Blizzard to scale.
+
+Then again, what if you dont encounter any frost? It is worse than a strike in the first 3 turns. 
+
+I have won with all of those card I mentioned in 1paragraph, pleasant, but I just dont value them as highly before.
+
+And as another user have said, these cards and [Wind-up Strike]] do incredibly well against slow scale fight like [[The Champ]], [[Time Eater]] (Sometime)
+It has niche application in the Champ fight if you can’t find any other scaling damage, similar to a dark orb.
+> [[Reprogram]]
+    + [Reprogram](http://slay-the-spire.wikia.com/wiki/Reprogram) Defect Uncommon Skill
+    
+    1 Energy | Lose 1(2) **Focus.** Gain 1(2) **Strength.** Gain 1(2) **Dexterity.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I've never enjoyed watching spreadsheets so much as I have on his streams.
+Yeah i heard of that, and its ok if it makes fun for him, but in my world its luck which card i get. Im good in Card games, or at least not bad. Planing makes fun too, but if a run would cost me 3 hours, i wouldnt play the game any more lol.
++ [Evolve](http://slay-the-spire.wikia.com/wiki/Evolve) Ironclad Uncommon Power
+    
+    1 Energy | Whenever you draw a Status, draw 1(2) card(s).
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
++ [Blue Candle](http://slay-the-spire.wikia.com/wiki/Blue%20Candle) Uncommon Relic
+    
+    Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+100% agree. Noxious Fumes and block will get you pretty far with the silent, but once the game gets really mean you’ll either have to adapt or die to Act 1 elites every time.
+    I used to skip over stuff like Predator all the time going "it's too slow and doesn't fit into my archetypes" until I realized the Nob doesn't give a fuck about your archetypes and is going to punch you in the face regardless
+Hearing someone else hit a plateau at the mid-teens is reassuring. I’ve been stuck at a18 on my ironclad and a16 on my defect, and I wana go all the way with at least one of them before doing silent and watcher.
+    I don't know what your plateau is, but one thing I noticed is that as you get upwards toward 18, it becomes a much better idea to protect your hit points unless you can make a really powerful trade off for them. So like, it's not unusual for me to just full-block on a turn where I'm getting hit for a lot instead of trying to deploy powers or get a kill. And then sneak your damage out in lulls in the enemy damage or when you're set up enough to get a kill shot.
+        Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+    Yeah I was stuck on A18 on Ironclad for a while but recently hit 20(haven't won on 20 yet though). I'm currently stuck on A12 with Silent.
+I am no expert on low ascension optimization, and far from being very good at higher ones (playing exclusively on ascension 20 with low win rate). My take on what you are saying is rather that it's easier to get away with worse play at lower ascensions which does not hold for higher ones.
+
+If you have a smaller deck at low ascension and you win it doesn't necessarily mean this was the correct play. It could be that this level is just easy and can be beaten with sub optimal play.
+    Mmm, no. I think that optimal play changes between the ascensions.
+
+It seems like that at higher difficulties, it's far more prudent to be way more aggressive at preserving your hit points than in lower ascensions. I think it's less suboptimal play and more just a different strategy. You can afford to be more aggressive in lower ascensions when the enemies aren't hitting as hard and don't have as difficult of move-sets to try to survive.
+        Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
+That's where I was. I was winning maybe 1 out of every 4-7 runs and then took like a month or two break between ascensions 13-15, but now I've taken a couple relics I've never taken before but still feel like I'm building normally but I've won every 1-2 attempts getting each character to ascension 14 or 15. Could be a luck streak too.
+Ascender's Bane alone is a big incentive to widen your deck.
+Feels real cheeky when you get headbutt and then pommel strike
+    "Didn't you hear? I'm playing this [[Rampage]] twice this turn!"
+        + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Me taking Accuracy and a Wrist Blade before I have any shiv cards
+    Oh, I feel that. You would think you’d see a few Blade Dances no problem... right? Right?! Dammit.
+        Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+            Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+                Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+                    Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+                    [deleted]
+                        Bad bot
+    Or catalyst, but its usually easy enough to at least get a poison card or two anyway.
+We've all done it.   Acceptance is an important part of the recovery process.
+Every card can be very good in the right circumstances. However, it is a matter of luck. Picking Blizzard that early in the run, could in hindsight been a very dumb move, wasting a card draw for a card that could actually be useless or as useless as a strike. If I ever pick Blizzard, it would be after I have a guarantee that I can creat a lot frost orbs quickly. Picking Blizzard with only a Coolheaded, absolute insanity.
+    Maybe with frozen core and runic capacitor it might work, still slow and not sure what boss relic would be worse then frozen core to pick that one up...
+        It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+            + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
++ [Runic Capacitor](http://slay-the-spire.wikia.com/wiki/Runic%20Capacitor) Shop
+    (Defect only) Relic
+    
+    Start each combat with 3 additional Orb slots.
++ [Glacier](http://slay-the-spire.wikia.com/wiki/Glacier) Defect Uncommon Skill
+    
+    2 Energy | Gain 7(10) **Block.** **Channel** 2 **Frost.**
++ [Cold Snap](http://slay-the-spire.wikia.com/wiki/Cold%20Snap) Defect Common Attack
+    
+    1 Energy | Deal 6(9) damage. **Channel** 1 **Frost.**
++ [Coolheaded](http://slay-the-spire.wikia.com/wiki/Coolheaded) Defect Common Skill
+    
+    1 Energy | **Channel** 1 **Frost.** Draw 1(2) card(s).
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Here, your prime cards are Bias and Core, these cards are crazy together and no matter how you put it, it is always strong. Strong enough for Blizzard to scale.
+
+Then again, what if you dont encounter any frost? It is worse than a strike in the first 3 turns. 
+
+I have won with all of those card I mentioned in 1paragraph, pleasant, but I just dont value them as highly before.
+
+And as another user have said, these cards and [Wind-up Strike]] do incredibly well against slow scale fight like [[The Champ]], [[Time Eater]] (Sometime)
++ [Reprogram](http://slay-the-spire.wikia.com/wiki/Reprogram) Defect Uncommon Skill
+    
+    1 Energy | Lose 1(2) **Focus.** Gain 1(2) **Strength.** Gain 1(2) **Dexterity.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I used to skip over stuff like Predator all the time going "it's too slow and doesn't fit into my archetypes" until I realized the Nob doesn't give a fuck about your archetypes and is going to punch you in the face regardless
+I don't know what your plateau is, but one thing I noticed is that as you get upwards toward 18, it becomes a much better idea to protect your hit points unless you can make a really powerful trade off for them. So like, it's not unusual for me to just full-block on a turn where I'm getting hit for a lot instead of trying to deploy powers or get a kill. And then sneak your damage out in lulls in the enemy damage or when you're set up enough to get a kill shot.
+    Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+Yeah I was stuck on A18 on Ironclad for a while but recently hit 20(haven't won on 20 yet though). I'm currently stuck on A12 with Silent.
+Mmm, no. I think that optimal play changes between the ascensions.
+
+It seems like that at higher difficulties, it's far more prudent to be way more aggressive at preserving your hit points than in lower ascensions. I think it's less suboptimal play and more just a different strategy. You can afford to be more aggressive in lower ascensions when the enemies aren't hitting as hard and don't have as difficult of move-sets to try to survive.
+    Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
+"Didn't you hear? I'm playing this [[Rampage]] twice this turn!"
+    + [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Oh, I feel that. You would think you’d see a few Blade Dances no problem... right? Right?! Dammit.
+    Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+        Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+            Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+                Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+                [deleted]
+                    Bad bot
+Or catalyst, but its usually easy enough to at least get a poison card or two anyway.
+Maybe with frozen core and runic capacitor it might work, still slow and not sure what boss relic would be worse then frozen core to pick that one up...
+    It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+        + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Man this, 1000x. Too often i will opt to attack but at the sacrifice of taking damage (even small amounts like 1-3 damage, as it adds up and leaves me unable to beat elites).  Thank you for the advice!
+Every ascension you try to use your hp as much as possible without dying, that's just basic maximizing your resources, so no, optimal play does not change between ascensions.
++ [Rampage](http://slay-the-spire.wikia.com/wiki/Rampage) Ironclad Uncommon Attack
+    
+    1 Energy | Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Amazingly (I was on A20) I made it to the act 2 boss- I immediately died then because, well, I was playing a shiv deck at A20, but it did get pretty good.
+    Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+        Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+            Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+            [deleted]
+                Bad bot
+It take 2 relic, 3 turns to reach 6 damage unupgraded. That well equal to a AoE Strike, but 3 turns later, a single [[Barrage]] would have deal more damage single target.
+
+But yes, it do pretty well against Champ
+    + [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Guessing that was a while back. Shiv's pretty meta right now. It's free ~~real estate~~ Ascension levels.
+    Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+        Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+        [deleted]
+            Bad bot
++ [Barrage](http://slay-the-spire.wikia.com/wiki/Barrage) Defect Common Attack
+    
+    1 Energy | Deal 4(6) damage for each **Channeled** Orb.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Can confirm.  Just beat A19 Silent after a whole 69 failed attempts, and all it took was a pile of shives with After Image, Wrist Blade, and some Accuracies. Shiv’s are good.
+    Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+    [deleted]
+        Bad bot
+Yup. Was hardstuck on Ascension 12 before the update. I'm on Ascension 16 as of today by playing on and off. All with Shiv decks. They might get nerfed a little bit, so I'm trying to get through 20 before that happens lol.
+[deleted]
+    Bad bot
+Bad bot

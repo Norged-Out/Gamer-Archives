@@ -1,0 +1,443 @@
+[[Watcher is fun tho]]
+
+
+
+
+
+Implying that Watcher mains do the calculations instead of just yoloing
+    The secret is to just go for it and then save scum if it isn't lethal.
+
+Spoiler: >!It's always lethal.!<
+        I swear a lot of times when I die when at a boss or elite is because I feel I did not save scum when I was about to die.
+    If you do, you can achieve 94% winrate on asc 20.
+        sounds like it would make the game too easy, I'm no coward
+
+instead, I'll hold out for exclusively card draw and [Pressure Points]
+            Pressure points gang
+                I’m new and I never really understood pressure points so I avoided it. Is it any good?
+                    I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+                        Word. Get rid of blocks and strikes?
+                            Absolutely. Prioritise shops and either buy more pp or card remove
+                                Sounds like a plan. Brb going to get initiated into the pp gang
+                    I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+                        Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+                    In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
+            [[Pressure Points]]
+                + [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            I wonder how good pressure points would be with, say, silent compared to watcher.
+                all depends on how many you get and how often you can use them
+                I mean burst would be awesome but meditate is very strong as well...
+                    [[Nightmare]] would be nice too.
+                        + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Oh hi, Mark!
+            BIg PP gang all day
+    If you think it's lethal, its probably lethal.
+        If you think it’s not lethal, it probably was lethal
+            If you think it might be lethal to you, your dead either way
+    implying nob can kill me, when 1-turn-divinity will kill me first at eot
+    Every time. Also when going for a mantra build and you’re off by 1 when you want to rollout.
+        Is mantra build viable? I’m fairly new to the game.
+            everything is viable in certain circumstances, but i wouldnt focus on making a mantra deck, but if you get it, and get divinity every two turns with \[\[Damaru\]\] or something, it can be pretty fun. 
+
+doesnt work well with stance changes though, and thats something you want to focus on as watcher.
+                I also love grabbing [[Worship]] cards when I have snecko.
+                    + [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                    Till snecko makes everything 3
+
+
+F
+                + [Damaru](http://slay-the-spire.wikia.com/wiki/Damaru) Common (Watcher only) Relic
+    
+    At the start of your turn, gain 1 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Watcher's starter deck does like 75 damage by turn 3 even with turn 2 Eruption. It's so hard to not dunk on this guy.
+    Y...yeah haha lmao who dies to this guy haha ^(I've never beaten A20, it's my last achievement, every single one was easier than an A20 run, I don't understand how people do this shit)
+        I just managed to get all of my guys to A6 (Watcher and Silent took me a while, especially Silent). I still sometimes die in Act 1. I don't know how everyone else does it!
+            Silent also fucked me up for the longest time. What worked for me was figuring out a few broken, relatively easy to acquire builds for each, and just going for one every single time, while also going for high risk-reward scenarios. Instead of trying to baby each one, let the runs that can't make it die, restart ASAP. You get more viable shiv and poison runs with the Silent, more blizzard, lightning, and claw runs with the defect, more whirlwind, strength, upgrade, and block runs as the Warrior.
+
+That definitely helped me stomp most achievements (on A1 because I'm a bitch), but I just can't finish A20. I probably need to git gud-er.
+            I have like 400 hours in the game, I've been trying this strategy for the past while: I try to make the enemies' HP go to zero, before my own HP goes to zero.
+
+Apart from that, I find it helpful to pick cards that are good, and to not pick cards that are bad.
+                "If you kill your enemy, they die."
+
+- Sun Tzu, the Art of War
+            Honestly most failed attempts fail in Act 1 as you aren't set up yet. Don't let it discouraged you.
+
+Use your health as a resource. Its fine to skip block and deal that extra damage and take 10 damage this turn if it means you can kill him next turn to avoid 30.
+    Dunk or get thee dunked
+    I would actually like to question this statement. I would agree the deck CAN do that amount of damage, but it is not guaranteed!
+
+
+First turn three strikes. 18 Damage. Eruption turn two 9 damage + 12 damage with an extra Strike with I forgot the name of the calm card in hand. Other cards in hand only Defends. Turn 3 hand, reshuffel, three Strikes are 36 damage. That's 75 damage in best case for this specific turn three hand. But you could draw less strikes turn three. 
+
+
+Best case would be turn 1 Eruption + 1 Strike for 20, then 36 + 36 would be 92 for the absolute best case. Even drawing Eruption turn 1 (50% chance) would not necessarily kill Gremlin Nob due to a smaller chance for the future turns after drawing Eruption on the second turn (Somebody want to do the math?)
+
+
+So basically I generally do not agree to that statement. Under the circumstances that you have added good cards to beat the Gremlin Nob I would agree, but not generally beating it turn 3 as the Watcher
+        That's fair, you're not assured to draw 3 strikes on the reshuffle or first turn and that hurts the reliability. But that is the starting deck with a mediocre Eruption timing; adding 2-3 good attacks, or even common ones, skyrockets your outcomes, and if you didn't do that then what are you even doing? Also Eruption upgrade gives an opportunity for +12 strike damage by itself.
+            That is absolutely true. BUT you only mentioned the starter deck in your statement and not additional cards or upgrades. That's why I replied the way I did :-)
+Better than miscalculating Blasphemy by 1 🤐
+    Honestly, taking a wrathed hit from Nob is pretty close to a death sentence if you're playing at an ascension level near the peak of your skill.
+        Imo it’s not always a bad idea to tank the second hit in wrath on the second turn, depending on your deck and draws 
+
+Nob has a set pattern on A18+ so facetanking turn 2 debuff is often a guaranteed turn 3 kill before the big (16+8) base damage attack comes in on turn 3. 
+
+You might end up with a choice turn 2 where you can spend 16 health to guarantee a kill without taking any more damage, vs taking the risk of leaving wrath and possibly not being able to kill on turn 3 or 4 as a result (at which point you often take much more than 16 damage for the kill).
+
+Depends on card offerings and draw + other forms of reach obviously, but it isn’t unheard of for watcher to tank a hit in wrath act 1.  Sentries are the most common one where it might end up being worth it, but occasionally it’s a viable option on turn 2 nob as well.
+            That's a fair point. The small hit that debuffs you is totally reasonable. The big hit after being debuffed will chunk you for half your health.
+Oh shiiiiiii... I almost ducked!
+24x2 is only 25, right? I should be able to wrath no problem.
+NOBBERS
+Try miscalculating by one when playing blasphemy.
+Damn you big slime...
+The secret is to just go for it and then save scum if it isn't lethal.
+
+Spoiler: >!It's always lethal.!<
+    I swear a lot of times when I die when at a boss or elite is because I feel I did not save scum when I was about to die.
+If you do, you can achieve 94% winrate on asc 20.
+    sounds like it would make the game too easy, I'm no coward
+
+instead, I'll hold out for exclusively card draw and [Pressure Points]
+        Pressure points gang
+            I’m new and I never really understood pressure points so I avoided it. Is it any good?
+                I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+                    Word. Get rid of blocks and strikes?
+                        Absolutely. Prioritise shops and either buy more pp or card remove
+                            Sounds like a plan. Brb going to get initiated into the pp gang
+                I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+                    Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+                In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
+        [[Pressure Points]]
+            + [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        I wonder how good pressure points would be with, say, silent compared to watcher.
+            all depends on how many you get and how often you can use them
+            I mean burst would be awesome but meditate is very strong as well...
+                [[Nightmare]] would be nice too.
+                    + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Oh hi, Mark!
+        BIg PP gang all day
+If you think it's lethal, its probably lethal.
+    If you think it’s not lethal, it probably was lethal
+        If you think it might be lethal to you, your dead either way
+implying nob can kill me, when 1-turn-divinity will kill me first at eot
+Every time. Also when going for a mantra build and you’re off by 1 when you want to rollout.
+    Is mantra build viable? I’m fairly new to the game.
+        everything is viable in certain circumstances, but i wouldnt focus on making a mantra deck, but if you get it, and get divinity every two turns with \[\[Damaru\]\] or something, it can be pretty fun. 
+
+doesnt work well with stance changes though, and thats something you want to focus on as watcher.
+            I also love grabbing [[Worship]] cards when I have snecko.
+                + [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                Till snecko makes everything 3
+
+
+F
+            + [Damaru](http://slay-the-spire.wikia.com/wiki/Damaru) Common (Watcher only) Relic
+    
+    At the start of your turn, gain 1 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Y...yeah haha lmao who dies to this guy haha ^(I've never beaten A20, it's my last achievement, every single one was easier than an A20 run, I don't understand how people do this shit)
+    I just managed to get all of my guys to A6 (Watcher and Silent took me a while, especially Silent). I still sometimes die in Act 1. I don't know how everyone else does it!
+        Silent also fucked me up for the longest time. What worked for me was figuring out a few broken, relatively easy to acquire builds for each, and just going for one every single time, while also going for high risk-reward scenarios. Instead of trying to baby each one, let the runs that can't make it die, restart ASAP. You get more viable shiv and poison runs with the Silent, more blizzard, lightning, and claw runs with the defect, more whirlwind, strength, upgrade, and block runs as the Warrior.
+
+That definitely helped me stomp most achievements (on A1 because I'm a bitch), but I just can't finish A20. I probably need to git gud-er.
+        I have like 400 hours in the game, I've been trying this strategy for the past while: I try to make the enemies' HP go to zero, before my own HP goes to zero.
+
+Apart from that, I find it helpful to pick cards that are good, and to not pick cards that are bad.
+            "If you kill your enemy, they die."
+
+- Sun Tzu, the Art of War
+        Honestly most failed attempts fail in Act 1 as you aren't set up yet. Don't let it discouraged you.
+
+Use your health as a resource. Its fine to skip block and deal that extra damage and take 10 damage this turn if it means you can kill him next turn to avoid 30.
+Dunk or get thee dunked
+I would actually like to question this statement. I would agree the deck CAN do that amount of damage, but it is not guaranteed!
+
+
+First turn three strikes. 18 Damage. Eruption turn two 9 damage + 12 damage with an extra Strike with I forgot the name of the calm card in hand. Other cards in hand only Defends. Turn 3 hand, reshuffel, three Strikes are 36 damage. That's 75 damage in best case for this specific turn three hand. But you could draw less strikes turn three. 
+
+
+Best case would be turn 1 Eruption + 1 Strike for 20, then 36 + 36 would be 92 for the absolute best case. Even drawing Eruption turn 1 (50% chance) would not necessarily kill Gremlin Nob due to a smaller chance for the future turns after drawing Eruption on the second turn (Somebody want to do the math?)
+
+
+So basically I generally do not agree to that statement. Under the circumstances that you have added good cards to beat the Gremlin Nob I would agree, but not generally beating it turn 3 as the Watcher
+    That's fair, you're not assured to draw 3 strikes on the reshuffle or first turn and that hurts the reliability. But that is the starting deck with a mediocre Eruption timing; adding 2-3 good attacks, or even common ones, skyrockets your outcomes, and if you didn't do that then what are you even doing? Also Eruption upgrade gives an opportunity for +12 strike damage by itself.
+        That is absolutely true. BUT you only mentioned the starter deck in your statement and not additional cards or upgrades. That's why I replied the way I did :-)
+Honestly, taking a wrathed hit from Nob is pretty close to a death sentence if you're playing at an ascension level near the peak of your skill.
+    Imo it’s not always a bad idea to tank the second hit in wrath on the second turn, depending on your deck and draws 
+
+Nob has a set pattern on A18+ so facetanking turn 2 debuff is often a guaranteed turn 3 kill before the big (16+8) base damage attack comes in on turn 3. 
+
+You might end up with a choice turn 2 where you can spend 16 health to guarantee a kill without taking any more damage, vs taking the risk of leaving wrath and possibly not being able to kill on turn 3 or 4 as a result (at which point you often take much more than 16 damage for the kill).
+
+Depends on card offerings and draw + other forms of reach obviously, but it isn’t unheard of for watcher to tank a hit in wrath act 1.  Sentries are the most common one where it might end up being worth it, but occasionally it’s a viable option on turn 2 nob as well.
+        That's a fair point. The small hit that debuffs you is totally reasonable. The big hit after being debuffed will chunk you for half your health.
+I swear a lot of times when I die when at a boss or elite is because I feel I did not save scum when I was about to die.
+sounds like it would make the game too easy, I'm no coward
+
+instead, I'll hold out for exclusively card draw and [Pressure Points]
+    Pressure points gang
+        I’m new and I never really understood pressure points so I avoided it. Is it any good?
+            I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+                Word. Get rid of blocks and strikes?
+                    Absolutely. Prioritise shops and either buy more pp or card remove
+                        Sounds like a plan. Brb going to get initiated into the pp gang
+            I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+                Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+            In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
+    [[Pressure Points]]
+        + [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I wonder how good pressure points would be with, say, silent compared to watcher.
+        all depends on how many you get and how often you can use them
+        I mean burst would be awesome but meditate is very strong as well...
+            [[Nightmare]] would be nice too.
+                + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Oh hi, Mark!
+    BIg PP gang all day
+If you think it’s not lethal, it probably was lethal
+    If you think it might be lethal to you, your dead either way
+Is mantra build viable? I’m fairly new to the game.
+    everything is viable in certain circumstances, but i wouldnt focus on making a mantra deck, but if you get it, and get divinity every two turns with \[\[Damaru\]\] or something, it can be pretty fun. 
+
+doesnt work well with stance changes though, and thats something you want to focus on as watcher.
+        I also love grabbing [[Worship]] cards when I have snecko.
+            + [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Till snecko makes everything 3
+
+
+F
+        + [Damaru](http://slay-the-spire.wikia.com/wiki/Damaru) Common (Watcher only) Relic
+    
+    At the start of your turn, gain 1 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I just managed to get all of my guys to A6 (Watcher and Silent took me a while, especially Silent). I still sometimes die in Act 1. I don't know how everyone else does it!
+    Silent also fucked me up for the longest time. What worked for me was figuring out a few broken, relatively easy to acquire builds for each, and just going for one every single time, while also going for high risk-reward scenarios. Instead of trying to baby each one, let the runs that can't make it die, restart ASAP. You get more viable shiv and poison runs with the Silent, more blizzard, lightning, and claw runs with the defect, more whirlwind, strength, upgrade, and block runs as the Warrior.
+
+That definitely helped me stomp most achievements (on A1 because I'm a bitch), but I just can't finish A20. I probably need to git gud-er.
+    I have like 400 hours in the game, I've been trying this strategy for the past while: I try to make the enemies' HP go to zero, before my own HP goes to zero.
+
+Apart from that, I find it helpful to pick cards that are good, and to not pick cards that are bad.
+        "If you kill your enemy, they die."
+
+- Sun Tzu, the Art of War
+    Honestly most failed attempts fail in Act 1 as you aren't set up yet. Don't let it discouraged you.
+
+Use your health as a resource. Its fine to skip block and deal that extra damage and take 10 damage this turn if it means you can kill him next turn to avoid 30.
+That's fair, you're not assured to draw 3 strikes on the reshuffle or first turn and that hurts the reliability. But that is the starting deck with a mediocre Eruption timing; adding 2-3 good attacks, or even common ones, skyrockets your outcomes, and if you didn't do that then what are you even doing? Also Eruption upgrade gives an opportunity for +12 strike damage by itself.
+    That is absolutely true. BUT you only mentioned the starter deck in your statement and not additional cards or upgrades. That's why I replied the way I did :-)
+Imo it’s not always a bad idea to tank the second hit in wrath on the second turn, depending on your deck and draws 
+
+Nob has a set pattern on A18+ so facetanking turn 2 debuff is often a guaranteed turn 3 kill before the big (16+8) base damage attack comes in on turn 3. 
+
+You might end up with a choice turn 2 where you can spend 16 health to guarantee a kill without taking any more damage, vs taking the risk of leaving wrath and possibly not being able to kill on turn 3 or 4 as a result (at which point you often take much more than 16 damage for the kill).
+
+Depends on card offerings and draw + other forms of reach obviously, but it isn’t unheard of for watcher to tank a hit in wrath act 1.  Sentries are the most common one where it might end up being worth it, but occasionally it’s a viable option on turn 2 nob as well.
+    That's a fair point. The small hit that debuffs you is totally reasonable. The big hit after being debuffed will chunk you for half your health.
+Pressure points gang
+    I’m new and I never really understood pressure points so I avoided it. Is it any good?
+        I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+            Word. Get rid of blocks and strikes?
+                Absolutely. Prioritise shops and either buy more pp or card remove
+                    Sounds like a plan. Brb going to get initiated into the pp gang
+        I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+            Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+        In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
+[[Pressure Points]]
+    + [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I wonder how good pressure points would be with, say, silent compared to watcher.
+    all depends on how many you get and how often you can use them
+    I mean burst would be awesome but meditate is very strong as well...
+        [[Nightmare]] would be nice too.
+            + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Oh hi, Mark!
+BIg PP gang all day
+If you think it might be lethal to you, your dead either way
+everything is viable in certain circumstances, but i wouldnt focus on making a mantra deck, but if you get it, and get divinity every two turns with \[\[Damaru\]\] or something, it can be pretty fun. 
+
+doesnt work well with stance changes though, and thats something you want to focus on as watcher.
+    I also love grabbing [[Worship]] cards when I have snecko.
+        + [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Till snecko makes everything 3
+
+
+F
+    + [Damaru](http://slay-the-spire.wikia.com/wiki/Damaru) Common (Watcher only) Relic
+    
+    At the start of your turn, gain 1 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Silent also fucked me up for the longest time. What worked for me was figuring out a few broken, relatively easy to acquire builds for each, and just going for one every single time, while also going for high risk-reward scenarios. Instead of trying to baby each one, let the runs that can't make it die, restart ASAP. You get more viable shiv and poison runs with the Silent, more blizzard, lightning, and claw runs with the defect, more whirlwind, strength, upgrade, and block runs as the Warrior.
+
+That definitely helped me stomp most achievements (on A1 because I'm a bitch), but I just can't finish A20. I probably need to git gud-er.
+I have like 400 hours in the game, I've been trying this strategy for the past while: I try to make the enemies' HP go to zero, before my own HP goes to zero.
+
+Apart from that, I find it helpful to pick cards that are good, and to not pick cards that are bad.
+    "If you kill your enemy, they die."
+
+- Sun Tzu, the Art of War
+Honestly most failed attempts fail in Act 1 as you aren't set up yet. Don't let it discouraged you.
+
+Use your health as a resource. Its fine to skip block and deal that extra damage and take 10 damage this turn if it means you can kill him next turn to avoid 30.
+That is absolutely true. BUT you only mentioned the starter deck in your statement and not additional cards or upgrades. That's why I replied the way I did :-)
+That's a fair point. The small hit that debuffs you is totally reasonable. The big hit after being debuffed will chunk you for half your health.
+I’m new and I never really understood pressure points so I avoided it. Is it any good?
+    I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+        Word. Get rid of blocks and strikes?
+            Absolutely. Prioritise shops and either buy more pp or card remove
+                Sounds like a plan. Brb going to get initiated into the pp gang
+    I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+        Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+    In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
++ [Pressure Points](http://slay-the-spire.wikia.com/wiki/Pressure%20Points) Watcher Common Skill
+    
+    1 Energy | Apply 8(11) Mark. ALL enemies lose HP equal to their Mark.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+all depends on how many you get and how often you can use them
+I mean burst would be awesome but meditate is very strong as well...
+    [[Nightmare]] would be nice too.
+        + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I also love grabbing [[Worship]] cards when I have snecko.
+    + [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Till snecko makes everything 3
+
+
+F
++ [Damaru](http://slay-the-spire.wikia.com/wiki/Damaru) Common (Watcher only) Relic
+    
+    At the start of your turn, gain 1 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+"If you kill your enemy, they die."
+
+- Sun Tzu, the Art of War
+I got the speed run achievement with them! As well as common sense and who needs relics in the same run. In that kind of build they are insane, pp might actually be the simplest win condition in the game. No other cards required, unlike claw which needs block and card advantage. The flip side is that watcher has very good win conditions and pp doesn’t mesh particularly well with most.
+    Word. Get rid of blocks and strikes?
+        Absolutely. Prioritise shops and either buy more pp or card remove
+            Sounds like a plan. Brb going to get initiated into the pp gang
+I've heard of it being really good if you can manage to whittle your deck down so that you're applying it constantly, and it's particularly good against enemies with high block as it will cut right past that.
+    Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
+In this game you can’t really force a deck since it usually don’t end well m, you should only get pressure point if you get one in the first ~5 to 10 rooms then you can start gearing your deck accordingly
+
+I never use pressure point as well but I followed the above advice and cleared A16 & 17 both with pressure point decks
+[[Nightmare]] would be nice too.
+    + [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
++ [Worship](http://slay-the-spire.wikia.com/wiki/Worship) Watcher Uncommon Skill
+    
+    2 Energy | ( **Retain.)** Gain 5 **Mantra.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Till snecko makes everything 3
+
+
+F
+Word. Get rid of blocks and strikes?
+    Absolutely. Prioritise shops and either buy more pp or card remove
+        Sounds like a plan. Brb going to get initiated into the pp gang
+Sounds like fun. I’ve yet to whittle a deck down. I normally have 40+ cards lol. I’ll have to give that a shot during my next watcher run
++ [Nightmare](http://slay-the-spire.wikia.com/wiki/Nightmare) Silent Rare Skill
+    
+    3(2) Energy | Choose a card. Next turn, add 3 copies of that card into your hand. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(May 31.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Absolutely. Prioritise shops and either buy more pp or card remove
+    Sounds like a plan. Brb going to get initiated into the pp gang
+Sounds like a plan. Brb going to get initiated into the pp gang

@@ -1,0 +1,1094 @@
+[[PSA regarding escort missions, since I'm pretty sure a lot of people don't know this]]
+
+
+
+
+
+Also remember that it's ok to burn one or both plates especially on Hazard 5. You might actually be required to depending on how things spawn and how your team handles it. If breaking your positioning or your fire to repair a plate at 30% is going to lose the rest of your team, you might want to consider just letting the plate go. The main body has health equivalent to three plates, and the best time to repair is when any section is close to full so you get a few seconds of Doretta being invulnerable to damage. If a plate is down to 20% and your team is in a bad spot, you'll have to spend a really long time to repair it back up to max. If Doretta is being damaged, it'll take even longer. Best thing to do is burn the plate, get your team's firepower and defenses back up, and then hold the next plate. Usually keeping at least one plate around as Bulk Insurance is a good idea.
+    \*gasp\* *and let those miserable bugs munch on my beloved Doretta?!*  you're *mad*, lad!
+        The only reason I'd let up repairing on those plates is if Steeve is about to die, I WILL SAVE YOU STEEVE, EVEN IF IT MEANS THE MISSION FAILS!!
+            Long live Steeve!
+        But doretta's head will be safe either way and it's the only piece we can bring back oT
+    This is grey beard wisdom.
+    I've always seen health as a resource in games to let me do stupid shit. I'm trying to get all health curios on my psyker in Darktide to let me peril on purpose
+        High Con barbarians in dnd. 
+
+Dm: "OK its 700 feet to the ground and the tower is crumbling.  What spells is the party casting?" 
+
+Barbarian: "Superhero landing" 
+
+Dm: "That's not a spell"
+
+Barbarian: "I said what I said"
+            "I paid gor 200 hit points, I'm going to use 200 hit points"
+                *"I have 72 hitpoints left. That is 71 more than what I require."*
+                At least in 3.5 ed, falling damage was capped at 20d6. So with 120+ hp you could deploy from stratosphere headfirst and be completely unfazed.
+                    I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+                        Could you go even more into detail about this? I need it for next session.
+                            Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+                    *130
+
+Same rules on 5e
+                    Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+                I had someone do this in my party last week. First hit of the night was a critical hit against them and they were in three digit HP; homebrew RNG equaled the giant crocodile biting the guy's head off for an instant kill (and my own character lost a leg).
+                    That sounds like very unfun homebrew if it results in insta death.
+                        Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+                            > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+                                Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+                        It completely depends on the party and the campaign.
+            I will turn into a goldfish a certain druid
+                I mean we're practically gods...
+                Oh Kiki
+            "Wanna see me eat a 6th level spell to disarm a trap?"
+
+"Wanna see me do it again?"
+        The only hp that matters is the last one
+        Just play ogryn. 500 hp gigachad
+            Ogryn was my first lvl 30. preacher was next
+        This is the guy who plays grapplers
+            Tbh I don't play many fighting games. But I do main krool in smash so you're a quarter right
+                I used to not play fighters as well besides smash too (Main Samus and ZSS btw) but my friend sorta dragged me into this world lol
+    Actually, the first two plates are 25% of the total health each. The main body is 50%, so you shouldn’t worry as much about losing the first two.
+    Speaking of Bulks during escort missions: 
+
+GUNNERS, do NOT put your shield on Doretta to try and save her from a bulk. Put it in between Doretta and the bulk, as close to the bulk as possible, as soon as possible. 
+
+Why? Because the shield isn't big enough to cover all of Doretta. If it explodes, she's losing a plate, but the shield can drive the bulk away from her. Use it to herd them away, not protect her
+        Also, I didn't think that a gunner's shield can actually protect against a bulk blast. If you pop a shield in the radius, you still die. So, as you suggest, zoning the bulk away from Doretta is the right strat.
+
+And, as with Salvage, the important part is to figure out who the bulk is targeting, because I think it is always a dwarf. So whoever the current target is should lead it  away, and call out if the bulk switches off them. Much better to be down a dwarf than to have a bulk chase the entire team off the objective.
+            Yeah, shield gives -50% damage but a bulk exploding can do up to around 60,000 damage close to the center of the blast. Gotta use it to zone it out instead.
+            What's this about Salvage?
+                If the team is defending the transmitter or fuel cell and has to stay in the radius, and a bulk spawns, then the team should figure out which person the bulk is chasing and they should lead it away from the objective, leaving 3  people defending it.
+
+Otherwise, the bulk AOE will be able to kill the entire team, and even if one person survives, they won't be able to easily draw it away in time to stop the mission from failing.
+
+Sometimes it is possible to kill it before it gets close, or to freeze it to prevent the detonation, but leading it away always buys more time.
+                    Thanks!
+                        No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+            It doesn’t protect against the blast, but I think some gunners do it to block the bulk’s projectiles. Not actually certain
+    This is true and correct and none of what you said is misinformation
+
+But then dotty would make sad noises and I'll feel bad
+    [deleted]
+        As much as it hurts to do so, you can also damage Dotty with a couple bullets and immediately repair to pull off the same bulk clutch. You just have to be able to live with the guilt of intentionally shooting her
+    This kind of awareness comes only when you have been in the caves so long you no longer can see on the surface
+    Management paid for three health bars, so be more than happy to spend that budget!
+    Just fat boy doretta, then you don’t need to worry about anyone breaking off to repair her.
+    Me when there's two bulk detonators chilling on Doretta:
+    Bit of a pro-tip when it comes to impacting meteors and/or Dets. If Doretta is @ 100% you can damage her yourself and heal her to grant a few seconds of invulnerability to the drilldozer. Timed right you can shoot (then repair) right before she gets 1-shot by a bright spicy Cheeto boi or a falling parasitic rock.
+    I've had more than my fair share of saves from bulks by sacrificing myself to repair Doretta at the last second to make sure she doesn't take damage from the detonation.
+You also don’t need to stand on doretta to repair her- you can do it from beside the track or tucked behind it. This is especially important during phase 2 of the heartstone event, where you can repair her and give her damage immunity on repeat from the safety of the low ground. Additionally you are safer from menaces, spitters, and mactera shooting at the drilldozer down there. Not always the right choice, but the extra time saved not jumping up onto the track is usually reason enough.
+    I always try and show folks this as it's the best move for phase 2. oT
+    I dont touch the ground because the floor is lava!
+Also: there are FOUR places to stand while riding Doretta: tail, top, left and right. Don't stand in front of me.
+    Driller: That won't stop me, I can't read!
+        [deleted]
+            It's okay I'm a gunner.  I don't know how to count. You got any extra crayons? I'm hungry
+                No, but I've got this mactera goo-flavored paste...
+                    Son you've got a deal.
+                Gunner doesn't need to count his rounds, he just goes by feeling the gun get lighter over time
+    I'm the idiot who stands on the tail and doesn't notice I've been left behind when she starts going uphill.
+        Yeah, this is the problem with the tail. It's pretty easy to get dropped off since it clips through terrain pretty often. So really there's only 3 (reliable) spots. But two dwarves can be on the top without too much issue.
+            >  two dwarves can be on the top without too much issue.
+
+This is the way. Also acceptable to run alongside next to the track if you happen to have a short range weapon *cough* driller *cough.*
+    If those gunners could read they’d be very upset!
+Feels like every single time I'm repairing a plate I see one of my teammates start heading over and I prepare myself for the second they whip out the tools so that I can just dip and get back to shooting bugs. Feels like I'm inadvertently subconsciously manipulating my teammates into repairing Dotty for me so I can get back to roleplaying a short, beer loving, beard adorned sentient sentry gun.
+So weird that it works this way, it's really counterintuitive considering the rest of the game works differently. Is this intended behaviour or a bug? I'm fine with either honestly, just curious.
+    Pretty sure it's a bug, at least thats what I think it says on the wiki.
+
+Edit: Wiki says "This is not intentional behavior, but a bug that GSG haven't gotten around to fixing yet." , and cites the source as a  developer stream in 2021 with a link, so yes, it is a bug.
+        I guess, they incorporated this bug. The first pinned comment to [this video](https://youtu.be/zyN_ZT5aMi4) is from the game director. He said Doretta is the only thing that doesn't get speed boost, and it's also repaired slower under fire. The video is one year old, so maybe the devs even made speed boost bigger than it was.
+            If that is really intentional now, then they should have some kind of UI marker showing  the number of people currently repairing (similar to how they show how many people are in a sphere for Salvage) so that it is in everyone's face to notice that there is no boost on Doretta.
+                >similar to how they show how many people are in a sphere for Salvage
+
+Hold up, what? Where does it show that?
+                    It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+                        Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+                    Top of the screen I think, either right under or on top of where it shows the progress bar
+                Why? You don't have UI indicators of how many people repair fuel pod/mini mule. And their speed up is so small, most people don't even notice it.
+
+If you hear metal screeching and Doretta's HP goes up - someone is repairing her. Your help is not required.
+                    >You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+                        I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+                            Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+        Thanks for explaining.
+    Bug or not, at this point I think that it encourages better prioritization  (we just need to make sure people know about it ).
+
+Repairing more quickly is nice, but if there is a growing swarm to deal with it's better that only one person repairs while everyone else deals with bugs.  Piling on repairs is more likely to lead to more down dwarves.
+        True, it's also confusing to stuck every dwarf in the same point, today i bodyblocked someone twice in a 10 minutes spawn.
+    I hope they fix it soon!!
+        The problem is that they put several devs on it, but it didn't speed up the fix progress.
+also, you can heal her more than the laser spikes can hurt her, so you dont even need to break them in the final wave, just need someone healing her the whole time.
+    Yeah, not killing lasers making beauty laser show
+        indeed, and it's cool to see the stone, with all the spikes around it in pristine condition, at the end; allow it to don a crown before we bring it to its demise.
+            When playing as gunner this ends up happening for me as I use the guns' terrain break to just take out the tips. It's enough to stop the laser, but keeps the rest of the pillar whole.
+    Is it the same for haz 4 and 5? I feel like they do more damage than you heal her at that hazard level
+        idk, i mostly play haz 3, but it ought to work, cause healing her applies a few seconds of invulnerability, so if you heal her every time it runs out, she's technically invincible, but with the amount of bugs on those difficulties, it might get a little tricky if you get overrun, cause you kinda need one dwarf to stay in place and focus on her for it to work.
+This is a great example of how this game has one of the best player bases. ROCK AND STONE!
+    That's it lads! Rock and Stone!
+        Good bot
+Also, DORETTA MOVES FASTER THE CLOSER THE TEAM IS TO HER! As denoted by the >>>>> gauge
+    IIRC, her total travel distance is set though so it just takes longer to get to the refuel point rather than taking additional refuel stops.
+        Yes, the mission details will tell you how many refueling stops a particular escort will have. A 2/2 will have one refueling point while a 3/3 will require two stops before the heartstone.
+        Sure, but if you stay at max speed, that could be like, 2 fewer bug spawns by the time you reach the next injective. Fewer spawn's = more ammo
+    Holy shit I had no idea
+    It's amazing how many people don't know this.
+        Well, to be fair, unlike salvages where there is a giant bar on top of the screen with symbols for each dwarf in the sphere... doretta has weird pathing, varying distances to stops, and if you aren't nearby and looking at her, you can't really see how fast she is digging.  
+
+
+Hell, most of the time I'm trailing just behind the drilldozer facing away from it killing the huge swarms of bugs rather than looking at the UI in those moments.
+    holy crap, for real? i had no idea.
+Rock and stone!
+    Rock and roll and stone!
+        Good bot!
+Just saying this because it’s not as obvious as you might think, but you do NOT need to mine the oil shale
+    Sometimes as scout I like to dig out the wall behind the high up oil shale so it falls to the ground below where it can be easily picked up by the lasers.
+        Bosco can also help in solo
+        I find it is still usually a waste of time, esp with a full team. It's pretty rare that the rest of the traversal tools aren't able to easily reach enough shale.
+    This took me way longer to realize than I'd like to admit lol. I did try to laser it beforehand but I was just too far, so I assumed it just never worked. Now so much time is saved.
+
+The only time I send Bosco to mine some is if there's none close by and they're all by the ceiling, and I'm not playing scout
+    I learned that after like 5 rounds as a new player doing it with a friend till he was like... what are you doing
+I dont care, I still like the illusion of helping
+    The illusion of helping - repairing with repairman
+
+The reality of helping - spamming V to cheer the repairman on
+    teamwork makes the dream work
+     feels like I'm helping
+Ps. Don't forget Dorreta. :(
+    [deleted]
+        [deleted]
+huh...honestly did not realize this
+
+thank you!
+To get things clear: Apparently Doretta isn't the only thing that can't sped up, as I thought during making this image, but all the comments saying that "All the Salvage operations are one person" are just straight up wrong lol.
+
+The things that I cannot confirm are BET-C and lost resupply pods, because I personally don't encounter them much, but from what little I saw of them, it still seems to get repaired faster with another person, maybe it's just placebo.
+
+But yeah, mini mules can be sped up, jammed/broken rock crackers can be sped up, uplinks, black boxes, fuel cells can be sped up too.
+
+All the people accusing me of spreading misinformation are doing the exact same thing in the comments.
+
+R&S
+
+&#x200B;
+
+**EDIT:**  
+Doretta IS the only thing that doesn't get sped up. It is a bug, as it was said in [a Developer Stream, on November 4th 2021](https://www.youtube.com/watch?v=mclog0vnhMo&t=13675s). The people accusing me of lying are now deleting their comments.  
+The fuel cells, up links, black boxes, and all the stuff that takes longer to set up DO GET a boost in speed when repairing it with other people. The reason why so many people think otherwise, it's because the speed bonus is a percentage, not a set amount, so because the base speed is lower, the boost is lower too.
+    I’m 99% sure the lost supply pods repair faster with multiple people. It takes like 5 minutes by yourself.
+We definitely need more grey beard PSA's like this❤
+Can you do one for mining/depositing Aquarqs not spawning a swarm unlike mining an egg? Point extraction can be super fast if people aren't avoiding the objective all the time. Way too often I find myself in a situation where I'm looking at the objective counter thinking there's half a dozen of the damn thing still somewhere under terrain but they are all piled up at the Minehead.
+
+"The big (announced) waves come at regular intervals; the smaller (unannounced and more frequent) enemy spawns increase in size - but not in frequency - as time goes on. Since growing mini-waves take longer and longer to clear, the miners will have less and less breathing room between big swarms, eventually reaching a point of constant onslaught. *It makes no difference whether dwarves deposit Aquarqs as they find them or pile them up near the Mine Head to deposit them all at once.*"
+    Im pretty sure people aren't avoiding it because of the reasons you said, but because I think a lot of people (myself included lol), when they mine aquarq, and still have things to explore, will just throw it in the general direction of the platform and move on with it.
+        You don't deposit aquarqs because you're busy and have other things to do.
+
+I don't deposit them because I like seeing a big shiny stash of gems piled around the minehead like im a dragon. We are not the same.
+        I do it because it’s faster to turn them all in at once then to waste time going back and forth. Granted it’s not a massive time saver but depending on how spread out the objectives are it can save you a minute or so
+            Yea, sometimes I see one person stay near the minehead and will deposit as it's thrown down
+        True, I do that sometimes too (usually I write "one at Minehead" when I do though) but I have been told to not deposit them plenty of times and earlier this week even got kicked by a level 200something who cussed me out for apparently triggering several spawns at once ...
+Another tip for escort missions that I've found very few people know about is: once you've filled both fuel canisters and loaded them back into Dotty, announced swarms are disabled. Only the usual ambient waves still come, but those come for the team anyway. So it's safe to do meteors, machine events, etc.
+    So nothing at all attacks Dotty when she is fueled and stationary?
+
+That doesn't seem right, but I'm usually the one standing on her keeping watch so maybe they are only after me...
+        Correct. They can't reach you, because you're on top of Dotty.
+
+I supposed it's possible that a bug would attack Dotty, I'm not sure about the actual mechanics involved in AI drilldozer target prioritization. But if the team is even a modest distance away, it's unlikely. Even so, the danger to Dotty from just a handful of bugs is pretty low compared to a full size swarm.
+
+I've done this numerous times without issue.
+    In my experience things *will* attack dotty during an event, but generally if she's not more than 30m away it's really not a big deal, just have one clear and repair during the event.
+
+Some events like Omen seem to disable normal bug spawns.
+Another pro tip for repairing Doretta: after repairing Doretta to 100%, she gets a few seconds of complete invulnerability. I think it's 3 or 4 seconds. A skilled player can use this to their advantage.
+
+If Doretta is at 100%, and is about to take a huge hit (say, dozens of flying rocks, or a bulk detonator), shoot Doretta once then quickly repair her to 100% again. If you time it right, she'll be completely unphased by the incoming blast.
+
+You'll rarely ever get to use this trick, but it's really cool when you actually manage to pull it off.
+Did I hear a rock and stone?
+    For Karl!
+I didn’t actually know this and I’ve been playing for a while. 
+
+Rock and Stone!
+    Rock and Stone!
+Yeah but...
+
+it sounds cooler.
+    Can't argue with that lol
+
+rock and stone
+        Rock and Stone everyone!
+Also remember, finish the mission before going on side quests.
+Always weirds me out when some guy 200+ levels above me starts double-repairing Doretta while I'm doing it. 
+
+It's like, "you should really know better by now".
+BUT HIW ELSE ARE WE SUPPOSED TO LET HER KNOW WE'RE SORRY?!
+Did it used to repair faster with multiple people because I swear it did a while ago
+    afaik it never did
+I actually didn't know that. Thank you.
+Let's make this a petition for the devs to fix this quirk in the game instead of a PSA
+    I think they want to avoid just having 4 dwarves sitting on Dorretta fixing her through 4 phases of gameplay.
+
+A better solution is some kind of indicator showing whether someone is repairing.
+        I mean we can also just nerf the amount that repairs/sec, for me it's already one of the easiests missions, I can count with both hands the times I reached the omron with only the body intact.
+            On Haz 5, there are definitely enemy combos and situations that get complicated pretty fast with the dozer moving. Leech grabs your gunner + scout got killed on a platform somewhere + bulk detonator is fussing around, etc.
+
+If we are being real, most missions are pretty easy even on haz 5 once you have all the overclocks you want and have hundreds of missions under your belt. It's usually the other dwarves in the team that make or break the mission.
+My need to fix Dolly > my need to be perfectly efficient
+And don't forget to slap the Dotty for good luck! 
+
+.. Dice! I MEANT DICE!
+What about mini mules? They seem to have doretta syndrome too.
+I'll chuck this tip in here: Engineers can build platforms to block the rocks in phase 2.
+
+Of Note:
+
+* The flying rocks have an explosion radius so the platforms need to be a few meters above the drill dozer and you REALLY do not want to stand on Dorretta because they'll kill you through the platforms.
+* The rocks break the platforms, so you'll have to patch them up.
+* If you stack the platforms really high, the rocks with path above them to avoid clipping into  the platforms.
+* Your teammates will usually still waste their ammo shooting at rocks, but generally you have enough nitra that it doesn't matter... but sometimes it does.
+[deleted]
+    I thought minimules and the other salvage-type objectives just had dininishing returns per dwarf repairing. Like 2 is faster than 1, but only about half again as fast, 3 is faster than 2 but only a third again as fast...
+        Mhh. Maybe I am a liar. Only one way to find out. Anyone got some friends to do science?
+    Mini mules and the things you put up there are def speed up with more players, but not as drastic as repairing pipes so you don't notice it usually, you're the one who's spreading misinformation my guy.
+        Mini mules are not sped up, at least not enough to ever be worth putting more than one on. Run a stop watch next time you do a mission. Give or take a few thousands of a second due to human error in stopping or starting said watch, you'll average the same speed with any amount of players. Easier to see if you do 20 solo repairs, then 20 of any other combination you feel like testing. If you are recording and look at how many frames it takes to repair, you'd be even more accurate. 
+
+I'd post the proof, but I delete the footage once I'm done with the experiments and know the answer for my crew; I don't normally care if anyone else believes me, especially when in most situations the other dwarves have nothing to do but fake help anyways
+            If it's not coming from the dev then I'm standing with my claim, I have nearly 3 thousand hours in the game, in solo games they repair much faster, with 4 players they're a bit slow, but if two or three player repair together then it's noticeably quicker.
+                You don't have to believe me, I didn't bring my proof, but neither did you, so while you can disagree with someone on the answer, don't accuse them of spreading misinformation based on just feeling like it moves faster
+                    https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+    At 500 points (exactly, right now!) I did not know Dotty and Uplink / Fuel cell circles were sped up by additional nearby crew! TIL!
+        >I did not know Dotty and Uplink / Fuel cell circles were sped up by additional nearby crew!
+
+They're not xD
+
+>!Yes, I know it was clearly a typo!<
+        Each of those have a speed meter displayed by arrows that fill up with dwarves around
+
+One quirk is that the uplink will have as many arrows as dwarves in the mission, whereas a black box will always have 4
+It's not the only thing that doesn't get faster with more dwarves. This also applies to BET-C and mini-mules. (Edit: might be wrong about the mini-mules, I know there was a list posted a while back and I thought they were on it)
+    Mini mules get faster.  
+Source: Have seen it
+        Maybe it gets slightly faster, I can't actually notice a difference.
+
+any other sources?
+            It's not much but it's there.
+    Wait... mini-mules aren't repaired faster? How did I never notice that?
+    I love spreading misinformation online!! I love confusing people and spreading rumors and falsehoods!!
+ROCK AND STONE
+One thing I'm not sure is completely correct is that it's not the **only** thing that isn't sped up by multiple dwarves working on it. I think setting up the refuelling thing and the flight computer thing on salvage missions also isn't sped up by multiple dwarves. It's just generally not a big deal on salvage missions because it's during downtime but I see how it's more important on escort missions.
+    The fuel cell and uplink get repaired faster together as well, but because the base speed of repairing is much slower than, for example, repairing pipes, the bonus is much smaller as well, I know its a percentage increase but idk how much exactly.
+        Ah ok, that's interesting!
+https://youtu.be/zyN_ZT5aMi4 for all the people wanting proof about what you should be helping repair and what you shouldn't,here is your proof. 
+
+My group and I have also tested it ourselves just to make sure and he is correct. It only feels faster because you are hearing the other hammers with yours and so it makes it sound like it is going faster.
+
+Before watching that video I would've sworn up and down that certain things was faster,but nope. Now tho it's funny as when we have nothing to do and end up "helping" anyway we say " would you like some fake help?" Or something like " Ahh yes thank you for the fake help."
+
+I hope this helps!
+    LOL
+
+The pinned comment, by the head director of DRG, in the video you linked disproves all of what you said, nice one
+
+"Uplinks, Fuel Cells and mini mules that you mention as not getting it infact gets a speed boost, but it is less than revive and sentrybuilding. The reason is that Uplinks, Fuel cells, mini mules both take longer to build/repair and you are more likely to have the whole team joining in - where as revive and sentry building is short and often happens in combat where getting just one dwarf to help should feel like a solid time bonus."
+        Cool,even tho I messed up and didn't see that xD It still answered the argument I'm seeing in the comments xD
+            As long as we got to the bottom of this
+
+rock and stone
+                Rock and Stone, Brother!
+                Rock n Stone!!
+[deleted]
+    Well if you like helping then this is actually useful info for you to make use of.
+
+If you just want to *feel* like you're being helpful without actually doing so, I guess keep doubling up on dozer repairs
+    Don't really know why this is getting downvoted, homie just wants to help, at least they're trying.
+All the Salvage operations are one person as well.
+
+~ Repairing MULEs\
+~ Fixing lost supply pods\
+~ Setting up the uplink\
+~ Setting up the battery pod
+    Mini mules are sped up by multiple people
+ROCK AND STONE
+    Rock and Stone to the Bone!
+Thank you kind miner for this advice.
+
+Sadly I must disagree.
+
+Rock and Stone,
+
+Fellow Miner
+    Can I get a Rock and Stone?
+        STONE AND ROCK, whoops
+Also pre-drilling the caves fucks up Dorreta’s pathfinding ai. Poor girl have it rough as is
+FOR ROCK AND STONE
+    Rock and Stone, Brother!
+Rock and stone
+    To Rock and Stone!
+Actually I’m not sure if it’s the ONLY thing that doesn’t get sped up. In my experience hitting the button for an On-site Refining mission can be done with multiple people and doesn’t get sped up at all. And the button in Point Extraction as well. 
+
+But Rock and Stone!
+    Rock and Stone to the Bone!
+        Good bot.
+    Maybe, but does that really matter?
+        I mean, when you say in your post that it’s the ONLY thing…
+            If you REALLY want to pick apart everything I said like that, then I don't think pressing a button counts as repairing or setting something up
+Blatant lie
+    What is the "blatant lie", exactly?
+        Everything is faster when having a friend helping you.
+Screw you, imma do it anyways
+    Rude
+Setting up uplinks and drop pod fuel doesn’t go faster with more people.
+*Why is this being downvoted?.. I don't understand what i did wrong. Im on topic and just want to help and share some info. If you are someone intending to censor me, would it be possible to at least have the decency to comment why i don't deserve to be allowed to participate? I really cant think of anything, this isn't even an opinion for people to disagree with so it cant be echo chamber bullshit. Really makes you wonder if the community you love isn't as non toxic as you'd thought. That or reddit inherently breeds gross behavior i guess. Probably shouldn't bother trying to share anything at all if a few people are just going to decide it won't be able to ever be seen. 
+
+
+People get baited into believing this because it looks true thanks to another mechanic. If you are familiar with tf2, doretta essentially experiences crit heals. The repair speed is slowed by taking damage. So, often times, a second person will start repairing and she will in fact start repairing faster. Because there has been downtime since you wandered over and started repairing second, you'll see the repairing faster than right after being damaged. It's just that its caused by a time gap rather than multiple repairers. 
+
+
+Second fun fact, reaching full repair grants like 3s of iframes. This is super useful, repair before a det to save the initial blast (though meatballs make the benefits dubious), repair before a hearthstone burst, exploders, other general burst threats... But also, you can use it to dramatically lower ammo expenditure in p4. The lasers deal slow incremental damage and you repair in bursts. Hold e, and the laser tick is almost instantly fixed, which grants 3s of iframes. Release and repress e, and the instant she takes a tick you repair and 3s of iframes. In order for her to take any damage, the bugs need to hit exactly inbetween those 3s, and need to deal enough you don't just repair right away too.You can aggressively tank a lot of stuff by abusing this. If you have an engi to use platforms and cheese p2, both gimmick phases are jokes.
+
+
+Third fun fact, doretta is designed with clutch experiences in mind. Similar to how you gain defense at low hp in doom eternal, and enemies drop hp as well. So you feel in much more danger than you actually are, and the adrenaline sells a cool clutch save feeling. Likewise, dorettas side plates are 25% each, the last segment has 50%. So you'll feel like you're 33% left, but you aren't. It enhances that clutch feeling with being on the last segment even though its as strong as the prior segments put together.
+
+
+Combine these things and you can save an obscene amount of ammo which is great for deep dives. Single repair to keep dps up and remove threats faster. Abuse iframes when you can, spamming full hp is better than healing all at once, as long as you arent losing too much uptime constantly repairing. Platform rocks on phase 2 (dont place in p1, phase changes remove plats. Also dont forget to get on top and patch holes, the rocks break through). In p4, dont worry too much about killing. Save ammo and use value gains like sticky flames or whatever during swarm waves, power attack has solid aoe too. dont worry much about the few bugs at her base, leave 1 laser and have someone holding e basically all the time to frame1 get the iframes. The others can focus on dps as needed. Also, recognize when you have already won. You have no reason to save all 3 segments, and you know the third is tankier than the rest. So abuse iframes, and when you are at the point they cant out dps you, stop shooting entirely. Let segments go, and you can save shooting almost the last 30% of the laser phase. Prioritize birds so you can stand on top safely out of the range of bugs, and wait for the end of p4 where all the bugs you let build up just get nuked for free. You can save an entire ressup sometimes but at least a few nodes, you make most of p2 and p4 damage almost ammo free.
+Doretta can be repaired separately by four people at once. So, while the speed at which you add the 8% doesn't go up, each dwarf adds an additional 8%. As an example, cuz I don't know the exact amount of time it takes for one repair, let's say it takes four seconds to repair her by 8%. One dwarf repairing is 8% every four seconds. But a second dwarf adds another 8% for every four seconds. You don't speed each other up, but you do repair faster.
+    Literally no
+        You sure?
+            [Yep](https://www.youtube.com/watch?t=13675&v=mclog0vnhMo&feature=youtu.be)
+Standing next to Doretta makes her drive faster. She's slowest when no one is nearby.
+zephyr domineering zonked fact rude reminiscent bright serious spectacular entertain -- mass edited with https://redact.dev/
+Another tip: repairing a plate to 100% gives it a few seconds of invulnerability, so if you’re safe to sit on dotti and keep her health topped off it will negate a massive amount of damage over the lifetime of the encounter.
+Seems like a problem in design functionality.  It should do one of two things.  Either only allow a single person to interact with it at a time or have increased repair speed if multiple people interact at the same time.  To allow multiple people to interact with it and have no difference is something in the UI or game presence that lacks conveyance.  This should be something that shouldn't have to be told in a PSA.  It should be self evident in game.  This is something that the devs should look into.
+The devs do it, so I'm going to do it.
+Also, dorretta has 3 seconds of incincibility after reaching 100%, so ive had her tank 5 crystal beams and a grunt swarm very easily just spamming repair while my teammates handle shit. probably the most effective way to tank through shit, doesnt really work with the rocks unless you can maybe sit out of their range and repair on the side but that leaves you vulnerable to bugs
+Also if you see a gunner drop a shield on dotty, kill first repair later. Rock and Stone.
+    Rock and Stone everyone!
+Why does the game even let multiple dwarves repair doretta then? This isn't the player's fault that the game lets them do an action that doesn't have useful results.
+I always stop if someone else starts repairing while I'm doing it. Sometimes I explain, sometimes I get distracted and forget but hopefully more people will see this!
+I did not know this and I've played on and off since the early access days.... Woe.
+ok but it looks cooler if multiple people are repairing it
+Literally unplayable GSG pls fix
+Then why does it allow multiple people to repair at once?
+This is a good announcement and the sixty five things under this announcement telling folks how to play the video game are very bad
+Okay but what if while they repair, I go pet dot-e on the head?
+What? Really? All these missions and I thought we could just double up on repairs
+Also don't even bother repairing dotty in phase 2, just shoot the dang rocks
+I honestly did not. Thanks for the tip. Can't imagine how many times I tried to help out-repair a wave by helping another person rather than trying to kill the enemies. Will remember this in the future.
+Yeah but I really like the "dar dar dar dar" bolt gun animation
+thats technically incorrect. there are quite a few things that doesn't repair faster, with multiple people.  
+such as repairing Mini-mules, communications uplink, and Fuel Pod in salvage operation missions. starting machine events, removing batteries in industrial sabotage. pressing most, if not all buttons in the game, and honestly lots more. 
+
+that all being said. multiple people repairing doretta is definitely the most frustrating of all of them.
+Wow ! that's helpful. I always thought repair also worked like reviving a teammate. meaning more dwarves reviving = faster up.
+I keep trying to tell my crew mates but they won't listen to me haha
+I’m a Greybeard and I didn’t even know this
+I didn't actually know this.
+
+A thank you from a Beardling/Greenbeard.
+This post and the comments are some of the most informative stuff I’ve ever read. I’m 1250 hours in and didn’t know nearly as much about Dottie as I thought. Rock and Stone!!
+    Rock and Stone to the Bone!
+        Good bot.
+Neither is repairing mini mules or assembling supply crate batteries or fuel drops or homing beacons... At least they don't SEEM any faster.
+The problem is, you can't always trust your teammates to go through with repairing her for one cycle. They might not understand that you have to wait until her health ticks up to stop repairing else it was wasted time
+now i don't want i NEED AN EAS VIDEO WITH A DRG TEMATIC PROBLEM
+Thanks
+\*gasp\* *and let those miserable bugs munch on my beloved Doretta?!*  you're *mad*, lad!
+    The only reason I'd let up repairing on those plates is if Steeve is about to die, I WILL SAVE YOU STEEVE, EVEN IF IT MEANS THE MISSION FAILS!!
+        Long live Steeve!
+    But doretta's head will be safe either way and it's the only piece we can bring back oT
+This is grey beard wisdom.
+I've always seen health as a resource in games to let me do stupid shit. I'm trying to get all health curios on my psyker in Darktide to let me peril on purpose
+    High Con barbarians in dnd. 
+
+Dm: "OK its 700 feet to the ground and the tower is crumbling.  What spells is the party casting?" 
+
+Barbarian: "Superhero landing" 
+
+Dm: "That's not a spell"
+
+Barbarian: "I said what I said"
+        "I paid gor 200 hit points, I'm going to use 200 hit points"
+            *"I have 72 hitpoints left. That is 71 more than what I require."*
+            At least in 3.5 ed, falling damage was capped at 20d6. So with 120+ hp you could deploy from stratosphere headfirst and be completely unfazed.
+                I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+                    Could you go even more into detail about this? I need it for next session.
+                        Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+                *130
+
+Same rules on 5e
+                Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+            I had someone do this in my party last week. First hit of the night was a critical hit against them and they were in three digit HP; homebrew RNG equaled the giant crocodile biting the guy's head off for an instant kill (and my own character lost a leg).
+                That sounds like very unfun homebrew if it results in insta death.
+                    Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+                        > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+                            Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+                    It completely depends on the party and the campaign.
+        I will turn into a goldfish a certain druid
+            I mean we're practically gods...
+            Oh Kiki
+        "Wanna see me eat a 6th level spell to disarm a trap?"
+
+"Wanna see me do it again?"
+    The only hp that matters is the last one
+    Just play ogryn. 500 hp gigachad
+        Ogryn was my first lvl 30. preacher was next
+    This is the guy who plays grapplers
+        Tbh I don't play many fighting games. But I do main krool in smash so you're a quarter right
+            I used to not play fighters as well besides smash too (Main Samus and ZSS btw) but my friend sorta dragged me into this world lol
+Actually, the first two plates are 25% of the total health each. The main body is 50%, so you shouldn’t worry as much about losing the first two.
+Speaking of Bulks during escort missions: 
+
+GUNNERS, do NOT put your shield on Doretta to try and save her from a bulk. Put it in between Doretta and the bulk, as close to the bulk as possible, as soon as possible. 
+
+Why? Because the shield isn't big enough to cover all of Doretta. If it explodes, she's losing a plate, but the shield can drive the bulk away from her. Use it to herd them away, not protect her
+    Also, I didn't think that a gunner's shield can actually protect against a bulk blast. If you pop a shield in the radius, you still die. So, as you suggest, zoning the bulk away from Doretta is the right strat.
+
+And, as with Salvage, the important part is to figure out who the bulk is targeting, because I think it is always a dwarf. So whoever the current target is should lead it  away, and call out if the bulk switches off them. Much better to be down a dwarf than to have a bulk chase the entire team off the objective.
+        Yeah, shield gives -50% damage but a bulk exploding can do up to around 60,000 damage close to the center of the blast. Gotta use it to zone it out instead.
+        What's this about Salvage?
+            If the team is defending the transmitter or fuel cell and has to stay in the radius, and a bulk spawns, then the team should figure out which person the bulk is chasing and they should lead it away from the objective, leaving 3  people defending it.
+
+Otherwise, the bulk AOE will be able to kill the entire team, and even if one person survives, they won't be able to easily draw it away in time to stop the mission from failing.
+
+Sometimes it is possible to kill it before it gets close, or to freeze it to prevent the detonation, but leading it away always buys more time.
+                Thanks!
+                    No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+        It doesn’t protect against the blast, but I think some gunners do it to block the bulk’s projectiles. Not actually certain
+This is true and correct and none of what you said is misinformation
+
+But then dotty would make sad noises and I'll feel bad
+[deleted]
+    As much as it hurts to do so, you can also damage Dotty with a couple bullets and immediately repair to pull off the same bulk clutch. You just have to be able to live with the guilt of intentionally shooting her
+This kind of awareness comes only when you have been in the caves so long you no longer can see on the surface
+Management paid for three health bars, so be more than happy to spend that budget!
+Just fat boy doretta, then you don’t need to worry about anyone breaking off to repair her.
+Me when there's two bulk detonators chilling on Doretta:
+Bit of a pro-tip when it comes to impacting meteors and/or Dets. If Doretta is @ 100% you can damage her yourself and heal her to grant a few seconds of invulnerability to the drilldozer. Timed right you can shoot (then repair) right before she gets 1-shot by a bright spicy Cheeto boi or a falling parasitic rock.
+I've had more than my fair share of saves from bulks by sacrificing myself to repair Doretta at the last second to make sure she doesn't take damage from the detonation.
+I always try and show folks this as it's the best move for phase 2. oT
+I dont touch the ground because the floor is lava!
+Driller: That won't stop me, I can't read!
+    [deleted]
+        It's okay I'm a gunner.  I don't know how to count. You got any extra crayons? I'm hungry
+            No, but I've got this mactera goo-flavored paste...
+                Son you've got a deal.
+            Gunner doesn't need to count his rounds, he just goes by feeling the gun get lighter over time
+I'm the idiot who stands on the tail and doesn't notice I've been left behind when she starts going uphill.
+    Yeah, this is the problem with the tail. It's pretty easy to get dropped off since it clips through terrain pretty often. So really there's only 3 (reliable) spots. But two dwarves can be on the top without too much issue.
+        >  two dwarves can be on the top without too much issue.
+
+This is the way. Also acceptable to run alongside next to the track if you happen to have a short range weapon *cough* driller *cough.*
+If those gunners could read they’d be very upset!
+Pretty sure it's a bug, at least thats what I think it says on the wiki.
+
+Edit: Wiki says "This is not intentional behavior, but a bug that GSG haven't gotten around to fixing yet." , and cites the source as a  developer stream in 2021 with a link, so yes, it is a bug.
+    I guess, they incorporated this bug. The first pinned comment to [this video](https://youtu.be/zyN_ZT5aMi4) is from the game director. He said Doretta is the only thing that doesn't get speed boost, and it's also repaired slower under fire. The video is one year old, so maybe the devs even made speed boost bigger than it was.
+        If that is really intentional now, then they should have some kind of UI marker showing  the number of people currently repairing (similar to how they show how many people are in a sphere for Salvage) so that it is in everyone's face to notice that there is no boost on Doretta.
+            >similar to how they show how many people are in a sphere for Salvage
+
+Hold up, what? Where does it show that?
+                It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+                    Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+                Top of the screen I think, either right under or on top of where it shows the progress bar
+            Why? You don't have UI indicators of how many people repair fuel pod/mini mule. And their speed up is so small, most people don't even notice it.
+
+If you hear metal screeching and Doretta's HP goes up - someone is repairing her. Your help is not required.
+                >You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+                    I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+                        Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+    Thanks for explaining.
+Bug or not, at this point I think that it encourages better prioritization  (we just need to make sure people know about it ).
+
+Repairing more quickly is nice, but if there is a growing swarm to deal with it's better that only one person repairs while everyone else deals with bugs.  Piling on repairs is more likely to lead to more down dwarves.
+    True, it's also confusing to stuck every dwarf in the same point, today i bodyblocked someone twice in a 10 minutes spawn.
+I hope they fix it soon!!
+    The problem is that they put several devs on it, but it didn't speed up the fix progress.
+Yeah, not killing lasers making beauty laser show
+    indeed, and it's cool to see the stone, with all the spikes around it in pristine condition, at the end; allow it to don a crown before we bring it to its demise.
+        When playing as gunner this ends up happening for me as I use the guns' terrain break to just take out the tips. It's enough to stop the laser, but keeps the rest of the pillar whole.
+Is it the same for haz 4 and 5? I feel like they do more damage than you heal her at that hazard level
+    idk, i mostly play haz 3, but it ought to work, cause healing her applies a few seconds of invulnerability, so if you heal her every time it runs out, she's technically invincible, but with the amount of bugs on those difficulties, it might get a little tricky if you get overrun, cause you kinda need one dwarf to stay in place and focus on her for it to work.
+That's it lads! Rock and Stone!
+    Good bot
+IIRC, her total travel distance is set though so it just takes longer to get to the refuel point rather than taking additional refuel stops.
+    Yes, the mission details will tell you how many refueling stops a particular escort will have. A 2/2 will have one refueling point while a 3/3 will require two stops before the heartstone.
+    Sure, but if you stay at max speed, that could be like, 2 fewer bug spawns by the time you reach the next injective. Fewer spawn's = more ammo
+Holy shit I had no idea
+It's amazing how many people don't know this.
+    Well, to be fair, unlike salvages where there is a giant bar on top of the screen with symbols for each dwarf in the sphere... doretta has weird pathing, varying distances to stops, and if you aren't nearby and looking at her, you can't really see how fast she is digging.  
+
+
+Hell, most of the time I'm trailing just behind the drilldozer facing away from it killing the huge swarms of bugs rather than looking at the UI in those moments.
+holy crap, for real? i had no idea.
+Rock and roll and stone!
+    Good bot!
+Sometimes as scout I like to dig out the wall behind the high up oil shale so it falls to the ground below where it can be easily picked up by the lasers.
+    Bosco can also help in solo
+    I find it is still usually a waste of time, esp with a full team. It's pretty rare that the rest of the traversal tools aren't able to easily reach enough shale.
+This took me way longer to realize than I'd like to admit lol. I did try to laser it beforehand but I was just too far, so I assumed it just never worked. Now so much time is saved.
+
+The only time I send Bosco to mine some is if there's none close by and they're all by the ceiling, and I'm not playing scout
+I learned that after like 5 rounds as a new player doing it with a friend till he was like... what are you doing
+The illusion of helping - repairing with repairman
+
+The reality of helping - spamming V to cheer the repairman on
+teamwork makes the dream work
+ feels like I'm helping
+[deleted]
+    [deleted]
+I’m 99% sure the lost supply pods repair faster with multiple people. It takes like 5 minutes by yourself.
+Im pretty sure people aren't avoiding it because of the reasons you said, but because I think a lot of people (myself included lol), when they mine aquarq, and still have things to explore, will just throw it in the general direction of the platform and move on with it.
+    You don't deposit aquarqs because you're busy and have other things to do.
+
+I don't deposit them because I like seeing a big shiny stash of gems piled around the minehead like im a dragon. We are not the same.
+    I do it because it’s faster to turn them all in at once then to waste time going back and forth. Granted it’s not a massive time saver but depending on how spread out the objectives are it can save you a minute or so
+        Yea, sometimes I see one person stay near the minehead and will deposit as it's thrown down
+    True, I do that sometimes too (usually I write "one at Minehead" when I do though) but I have been told to not deposit them plenty of times and earlier this week even got kicked by a level 200something who cussed me out for apparently triggering several spawns at once ...
+So nothing at all attacks Dotty when she is fueled and stationary?
+
+That doesn't seem right, but I'm usually the one standing on her keeping watch so maybe they are only after me...
+    Correct. They can't reach you, because you're on top of Dotty.
+
+I supposed it's possible that a bug would attack Dotty, I'm not sure about the actual mechanics involved in AI drilldozer target prioritization. But if the team is even a modest distance away, it's unlikely. Even so, the danger to Dotty from just a handful of bugs is pretty low compared to a full size swarm.
+
+I've done this numerous times without issue.
+In my experience things *will* attack dotty during an event, but generally if she's not more than 30m away it's really not a big deal, just have one clear and repair during the event.
+
+Some events like Omen seem to disable normal bug spawns.
+For Karl!
+Rock and Stone!
+Can't argue with that lol
+
+rock and stone
+    Rock and Stone everyone!
+afaik it never did
+I think they want to avoid just having 4 dwarves sitting on Dorretta fixing her through 4 phases of gameplay.
+
+A better solution is some kind of indicator showing whether someone is repairing.
+    I mean we can also just nerf the amount that repairs/sec, for me it's already one of the easiests missions, I can count with both hands the times I reached the omron with only the body intact.
+        On Haz 5, there are definitely enemy combos and situations that get complicated pretty fast with the dozer moving. Leech grabs your gunner + scout got killed on a platform somewhere + bulk detonator is fussing around, etc.
+
+If we are being real, most missions are pretty easy even on haz 5 once you have all the overclocks you want and have hundreds of missions under your belt. It's usually the other dwarves in the team that make or break the mission.
+I thought minimules and the other salvage-type objectives just had dininishing returns per dwarf repairing. Like 2 is faster than 1, but only about half again as fast, 3 is faster than 2 but only a third again as fast...
+    Mhh. Maybe I am a liar. Only one way to find out. Anyone got some friends to do science?
+Mini mules and the things you put up there are def speed up with more players, but not as drastic as repairing pipes so you don't notice it usually, you're the one who's spreading misinformation my guy.
+    Mini mules are not sped up, at least not enough to ever be worth putting more than one on. Run a stop watch next time you do a mission. Give or take a few thousands of a second due to human error in stopping or starting said watch, you'll average the same speed with any amount of players. Easier to see if you do 20 solo repairs, then 20 of any other combination you feel like testing. If you are recording and look at how many frames it takes to repair, you'd be even more accurate. 
+
+I'd post the proof, but I delete the footage once I'm done with the experiments and know the answer for my crew; I don't normally care if anyone else believes me, especially when in most situations the other dwarves have nothing to do but fake help anyways
+        If it's not coming from the dev then I'm standing with my claim, I have nearly 3 thousand hours in the game, in solo games they repair much faster, with 4 players they're a bit slow, but if two or three player repair together then it's noticeably quicker.
+            You don't have to believe me, I didn't bring my proof, but neither did you, so while you can disagree with someone on the answer, don't accuse them of spreading misinformation based on just feeling like it moves faster
+                https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+At 500 points (exactly, right now!) I did not know Dotty and Uplink / Fuel cell circles were sped up by additional nearby crew! TIL!
+    >I did not know Dotty and Uplink / Fuel cell circles were sped up by additional nearby crew!
+
+They're not xD
+
+>!Yes, I know it was clearly a typo!<
+    Each of those have a speed meter displayed by arrows that fill up with dwarves around
+
+One quirk is that the uplink will have as many arrows as dwarves in the mission, whereas a black box will always have 4
+Mini mules get faster.  
+Source: Have seen it
+    Maybe it gets slightly faster, I can't actually notice a difference.
+
+any other sources?
+        It's not much but it's there.
+Wait... mini-mules aren't repaired faster? How did I never notice that?
+I love spreading misinformation online!! I love confusing people and spreading rumors and falsehoods!!
+The fuel cell and uplink get repaired faster together as well, but because the base speed of repairing is much slower than, for example, repairing pipes, the bonus is much smaller as well, I know its a percentage increase but idk how much exactly.
+    Ah ok, that's interesting!
+LOL
+
+The pinned comment, by the head director of DRG, in the video you linked disproves all of what you said, nice one
+
+"Uplinks, Fuel Cells and mini mules that you mention as not getting it infact gets a speed boost, but it is less than revive and sentrybuilding. The reason is that Uplinks, Fuel cells, mini mules both take longer to build/repair and you are more likely to have the whole team joining in - where as revive and sentry building is short and often happens in combat where getting just one dwarf to help should feel like a solid time bonus."
+    Cool,even tho I messed up and didn't see that xD It still answered the argument I'm seeing in the comments xD
+        As long as we got to the bottom of this
+
+rock and stone
+            Rock and Stone, Brother!
+            Rock n Stone!!
+Well if you like helping then this is actually useful info for you to make use of.
+
+If you just want to *feel* like you're being helpful without actually doing so, I guess keep doubling up on dozer repairs
+Don't really know why this is getting downvoted, homie just wants to help, at least they're trying.
+Mini mules are sped up by multiple people
+Rock and Stone to the Bone!
+Can I get a Rock and Stone?
+    STONE AND ROCK, whoops
+Rock and Stone, Brother!
+To Rock and Stone!
+Rock and Stone to the Bone!
+    Good bot.
+Maybe, but does that really matter?
+    I mean, when you say in your post that it’s the ONLY thing…
+        If you REALLY want to pick apart everything I said like that, then I don't think pressing a button counts as repairing or setting something up
+What is the "blatant lie", exactly?
+    Everything is faster when having a friend helping you.
+Rude
+Literally no
+    You sure?
+        [Yep](https://www.youtube.com/watch?t=13675&v=mclog0vnhMo&feature=youtu.be)
+Rock and Stone everyone!
+Rock and Stone to the Bone!
+    Good bot.
+The only reason I'd let up repairing on those plates is if Steeve is about to die, I WILL SAVE YOU STEEVE, EVEN IF IT MEANS THE MISSION FAILS!!
+    Long live Steeve!
+But doretta's head will be safe either way and it's the only piece we can bring back oT
+High Con barbarians in dnd. 
+
+Dm: "OK its 700 feet to the ground and the tower is crumbling.  What spells is the party casting?" 
+
+Barbarian: "Superhero landing" 
+
+Dm: "That's not a spell"
+
+Barbarian: "I said what I said"
+    "I paid gor 200 hit points, I'm going to use 200 hit points"
+        *"I have 72 hitpoints left. That is 71 more than what I require."*
+        At least in 3.5 ed, falling damage was capped at 20d6. So with 120+ hp you could deploy from stratosphere headfirst and be completely unfazed.
+            I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+                Could you go even more into detail about this? I need it for next session.
+                    Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+            *130
+
+Same rules on 5e
+            Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+        I had someone do this in my party last week. First hit of the night was a critical hit against them and they were in three digit HP; homebrew RNG equaled the giant crocodile biting the guy's head off for an instant kill (and my own character lost a leg).
+            That sounds like very unfun homebrew if it results in insta death.
+                Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+                    > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+                        Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+                It completely depends on the party and the campaign.
+    I will turn into a goldfish a certain druid
+        I mean we're practically gods...
+        Oh Kiki
+    "Wanna see me eat a 6th level spell to disarm a trap?"
+
+"Wanna see me do it again?"
+The only hp that matters is the last one
+Just play ogryn. 500 hp gigachad
+    Ogryn was my first lvl 30. preacher was next
+This is the guy who plays grapplers
+    Tbh I don't play many fighting games. But I do main krool in smash so you're a quarter right
+        I used to not play fighters as well besides smash too (Main Samus and ZSS btw) but my friend sorta dragged me into this world lol
+Also, I didn't think that a gunner's shield can actually protect against a bulk blast. If you pop a shield in the radius, you still die. So, as you suggest, zoning the bulk away from Doretta is the right strat.
+
+And, as with Salvage, the important part is to figure out who the bulk is targeting, because I think it is always a dwarf. So whoever the current target is should lead it  away, and call out if the bulk switches off them. Much better to be down a dwarf than to have a bulk chase the entire team off the objective.
+    Yeah, shield gives -50% damage but a bulk exploding can do up to around 60,000 damage close to the center of the blast. Gotta use it to zone it out instead.
+    What's this about Salvage?
+        If the team is defending the transmitter or fuel cell and has to stay in the radius, and a bulk spawns, then the team should figure out which person the bulk is chasing and they should lead it away from the objective, leaving 3  people defending it.
+
+Otherwise, the bulk AOE will be able to kill the entire team, and even if one person survives, they won't be able to easily draw it away in time to stop the mission from failing.
+
+Sometimes it is possible to kill it before it gets close, or to freeze it to prevent the detonation, but leading it away always buys more time.
+            Thanks!
+                No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+    It doesn’t protect against the blast, but I think some gunners do it to block the bulk’s projectiles. Not actually certain
+As much as it hurts to do so, you can also damage Dotty with a couple bullets and immediately repair to pull off the same bulk clutch. You just have to be able to live with the guilt of intentionally shooting her
+[deleted]
+    It's okay I'm a gunner.  I don't know how to count. You got any extra crayons? I'm hungry
+        No, but I've got this mactera goo-flavored paste...
+            Son you've got a deal.
+        Gunner doesn't need to count his rounds, he just goes by feeling the gun get lighter over time
+Yeah, this is the problem with the tail. It's pretty easy to get dropped off since it clips through terrain pretty often. So really there's only 3 (reliable) spots. But two dwarves can be on the top without too much issue.
+    >  two dwarves can be on the top without too much issue.
+
+This is the way. Also acceptable to run alongside next to the track if you happen to have a short range weapon *cough* driller *cough.*
+I guess, they incorporated this bug. The first pinned comment to [this video](https://youtu.be/zyN_ZT5aMi4) is from the game director. He said Doretta is the only thing that doesn't get speed boost, and it's also repaired slower under fire. The video is one year old, so maybe the devs even made speed boost bigger than it was.
+    If that is really intentional now, then they should have some kind of UI marker showing  the number of people currently repairing (similar to how they show how many people are in a sphere for Salvage) so that it is in everyone's face to notice that there is no boost on Doretta.
+        >similar to how they show how many people are in a sphere for Salvage
+
+Hold up, what? Where does it show that?
+            It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+                Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+            Top of the screen I think, either right under or on top of where it shows the progress bar
+        Why? You don't have UI indicators of how many people repair fuel pod/mini mule. And their speed up is so small, most people don't even notice it.
+
+If you hear metal screeching and Doretta's HP goes up - someone is repairing her. Your help is not required.
+            >You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+                I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+                    Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+Thanks for explaining.
+True, it's also confusing to stuck every dwarf in the same point, today i bodyblocked someone twice in a 10 minutes spawn.
+The problem is that they put several devs on it, but it didn't speed up the fix progress.
+indeed, and it's cool to see the stone, with all the spikes around it in pristine condition, at the end; allow it to don a crown before we bring it to its demise.
+    When playing as gunner this ends up happening for me as I use the guns' terrain break to just take out the tips. It's enough to stop the laser, but keeps the rest of the pillar whole.
+idk, i mostly play haz 3, but it ought to work, cause healing her applies a few seconds of invulnerability, so if you heal her every time it runs out, she's technically invincible, but with the amount of bugs on those difficulties, it might get a little tricky if you get overrun, cause you kinda need one dwarf to stay in place and focus on her for it to work.
+Good bot
+Yes, the mission details will tell you how many refueling stops a particular escort will have. A 2/2 will have one refueling point while a 3/3 will require two stops before the heartstone.
+Sure, but if you stay at max speed, that could be like, 2 fewer bug spawns by the time you reach the next injective. Fewer spawn's = more ammo
+Well, to be fair, unlike salvages where there is a giant bar on top of the screen with symbols for each dwarf in the sphere... doretta has weird pathing, varying distances to stops, and if you aren't nearby and looking at her, you can't really see how fast she is digging.  
+
+
+Hell, most of the time I'm trailing just behind the drilldozer facing away from it killing the huge swarms of bugs rather than looking at the UI in those moments.
+Good bot!
+Bosco can also help in solo
+I find it is still usually a waste of time, esp with a full team. It's pretty rare that the rest of the traversal tools aren't able to easily reach enough shale.
+[deleted]
+You don't deposit aquarqs because you're busy and have other things to do.
+
+I don't deposit them because I like seeing a big shiny stash of gems piled around the minehead like im a dragon. We are not the same.
+I do it because it’s faster to turn them all in at once then to waste time going back and forth. Granted it’s not a massive time saver but depending on how spread out the objectives are it can save you a minute or so
+    Yea, sometimes I see one person stay near the minehead and will deposit as it's thrown down
+True, I do that sometimes too (usually I write "one at Minehead" when I do though) but I have been told to not deposit them plenty of times and earlier this week even got kicked by a level 200something who cussed me out for apparently triggering several spawns at once ...
+Correct. They can't reach you, because you're on top of Dotty.
+
+I supposed it's possible that a bug would attack Dotty, I'm not sure about the actual mechanics involved in AI drilldozer target prioritization. But if the team is even a modest distance away, it's unlikely. Even so, the danger to Dotty from just a handful of bugs is pretty low compared to a full size swarm.
+
+I've done this numerous times without issue.
+Rock and Stone everyone!
+I mean we can also just nerf the amount that repairs/sec, for me it's already one of the easiests missions, I can count with both hands the times I reached the omron with only the body intact.
+    On Haz 5, there are definitely enemy combos and situations that get complicated pretty fast with the dozer moving. Leech grabs your gunner + scout got killed on a platform somewhere + bulk detonator is fussing around, etc.
+
+If we are being real, most missions are pretty easy even on haz 5 once you have all the overclocks you want and have hundreds of missions under your belt. It's usually the other dwarves in the team that make or break the mission.
+Mhh. Maybe I am a liar. Only one way to find out. Anyone got some friends to do science?
+Mini mules are not sped up, at least not enough to ever be worth putting more than one on. Run a stop watch next time you do a mission. Give or take a few thousands of a second due to human error in stopping or starting said watch, you'll average the same speed with any amount of players. Easier to see if you do 20 solo repairs, then 20 of any other combination you feel like testing. If you are recording and look at how many frames it takes to repair, you'd be even more accurate. 
+
+I'd post the proof, but I delete the footage once I'm done with the experiments and know the answer for my crew; I don't normally care if anyone else believes me, especially when in most situations the other dwarves have nothing to do but fake help anyways
+    If it's not coming from the dev then I'm standing with my claim, I have nearly 3 thousand hours in the game, in solo games they repair much faster, with 4 players they're a bit slow, but if two or three player repair together then it's noticeably quicker.
+        You don't have to believe me, I didn't bring my proof, but neither did you, so while you can disagree with someone on the answer, don't accuse them of spreading misinformation based on just feeling like it moves faster
+            https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+>I did not know Dotty and Uplink / Fuel cell circles were sped up by additional nearby crew!
+
+They're not xD
+
+>!Yes, I know it was clearly a typo!<
+Each of those have a speed meter displayed by arrows that fill up with dwarves around
+
+One quirk is that the uplink will have as many arrows as dwarves in the mission, whereas a black box will always have 4
+Maybe it gets slightly faster, I can't actually notice a difference.
+
+any other sources?
+    It's not much but it's there.
+Ah ok, that's interesting!
+Cool,even tho I messed up and didn't see that xD It still answered the argument I'm seeing in the comments xD
+    As long as we got to the bottom of this
+
+rock and stone
+        Rock and Stone, Brother!
+        Rock n Stone!!
+STONE AND ROCK, whoops
+Good bot.
+I mean, when you say in your post that it’s the ONLY thing…
+    If you REALLY want to pick apart everything I said like that, then I don't think pressing a button counts as repairing or setting something up
+Everything is faster when having a friend helping you.
+You sure?
+    [Yep](https://www.youtube.com/watch?t=13675&v=mclog0vnhMo&feature=youtu.be)
+Good bot.
+Long live Steeve!
+"I paid gor 200 hit points, I'm going to use 200 hit points"
+    *"I have 72 hitpoints left. That is 71 more than what I require."*
+    At least in 3.5 ed, falling damage was capped at 20d6. So with 120+ hp you could deploy from stratosphere headfirst and be completely unfazed.
+        I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+            Could you go even more into detail about this? I need it for next session.
+                Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+        *130
+
+Same rules on 5e
+        Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+    I had someone do this in my party last week. First hit of the night was a critical hit against them and they were in three digit HP; homebrew RNG equaled the giant crocodile biting the guy's head off for an instant kill (and my own character lost a leg).
+        That sounds like very unfun homebrew if it results in insta death.
+            Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+                > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+                    Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+            It completely depends on the party and the campaign.
+I will turn into a goldfish a certain druid
+    I mean we're practically gods...
+    Oh Kiki
+"Wanna see me eat a 6th level spell to disarm a trap?"
+
+"Wanna see me do it again?"
+Ogryn was my first lvl 30. preacher was next
+Tbh I don't play many fighting games. But I do main krool in smash so you're a quarter right
+    I used to not play fighters as well besides smash too (Main Samus and ZSS btw) but my friend sorta dragged me into this world lol
+Yeah, shield gives -50% damage but a bulk exploding can do up to around 60,000 damage close to the center of the blast. Gotta use it to zone it out instead.
+What's this about Salvage?
+    If the team is defending the transmitter or fuel cell and has to stay in the radius, and a bulk spawns, then the team should figure out which person the bulk is chasing and they should lead it away from the objective, leaving 3  people defending it.
+
+Otherwise, the bulk AOE will be able to kill the entire team, and even if one person survives, they won't be able to easily draw it away in time to stop the mission from failing.
+
+Sometimes it is possible to kill it before it gets close, or to freeze it to prevent the detonation, but leading it away always buys more time.
+        Thanks!
+            No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+It doesn’t protect against the blast, but I think some gunners do it to block the bulk’s projectiles. Not actually certain
+It's okay I'm a gunner.  I don't know how to count. You got any extra crayons? I'm hungry
+    No, but I've got this mactera goo-flavored paste...
+        Son you've got a deal.
+    Gunner doesn't need to count his rounds, he just goes by feeling the gun get lighter over time
+>  two dwarves can be on the top without too much issue.
+
+This is the way. Also acceptable to run alongside next to the track if you happen to have a short range weapon *cough* driller *cough.*
+If that is really intentional now, then they should have some kind of UI marker showing  the number of people currently repairing (similar to how they show how many people are in a sphere for Salvage) so that it is in everyone's face to notice that there is no boost on Doretta.
+    >similar to how they show how many people are in a sphere for Salvage
+
+Hold up, what? Where does it show that?
+        It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+            Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+        Top of the screen I think, either right under or on top of where it shows the progress bar
+    Why? You don't have UI indicators of how many people repair fuel pod/mini mule. And their speed up is so small, most people don't even notice it.
+
+If you hear metal screeching and Doretta's HP goes up - someone is repairing her. Your help is not required.
+        >You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+            I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+                Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+When playing as gunner this ends up happening for me as I use the guns' terrain break to just take out the tips. It's enough to stop the laser, but keeps the rest of the pillar whole.
+Yea, sometimes I see one person stay near the minehead and will deposit as it's thrown down
+On Haz 5, there are definitely enemy combos and situations that get complicated pretty fast with the dozer moving. Leech grabs your gunner + scout got killed on a platform somewhere + bulk detonator is fussing around, etc.
+
+If we are being real, most missions are pretty easy even on haz 5 once you have all the overclocks you want and have hundreds of missions under your belt. It's usually the other dwarves in the team that make or break the mission.
+If it's not coming from the dev then I'm standing with my claim, I have nearly 3 thousand hours in the game, in solo games they repair much faster, with 4 players they're a bit slow, but if two or three player repair together then it's noticeably quicker.
+    You don't have to believe me, I didn't bring my proof, but neither did you, so while you can disagree with someone on the answer, don't accuse them of spreading misinformation based on just feeling like it moves faster
+        https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+It's not much but it's there.
+As long as we got to the bottom of this
+
+rock and stone
+    Rock and Stone, Brother!
+    Rock n Stone!!
+If you REALLY want to pick apart everything I said like that, then I don't think pressing a button counts as repairing or setting something up
+[Yep](https://www.youtube.com/watch?t=13675&v=mclog0vnhMo&feature=youtu.be)
+*"I have 72 hitpoints left. That is 71 more than what I require."*
+At least in 3.5 ed, falling damage was capped at 20d6. So with 120+ hp you could deploy from stratosphere headfirst and be completely unfazed.
+    I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+        Could you go even more into detail about this? I need it for next session.
+            Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+    *130
+
+Same rules on 5e
+    Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+I had someone do this in my party last week. First hit of the night was a critical hit against them and they were in three digit HP; homebrew RNG equaled the giant crocodile biting the guy's head off for an instant kill (and my own character lost a leg).
+    That sounds like very unfun homebrew if it results in insta death.
+        Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+            > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+                Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+        It completely depends on the party and the campaign.
+I mean we're practically gods...
+Oh Kiki
+I used to not play fighters as well besides smash too (Main Samus and ZSS btw) but my friend sorta dragged me into this world lol
+If the team is defending the transmitter or fuel cell and has to stay in the radius, and a bulk spawns, then the team should figure out which person the bulk is chasing and they should lead it away from the objective, leaving 3  people defending it.
+
+Otherwise, the bulk AOE will be able to kill the entire team, and even if one person survives, they won't be able to easily draw it away in time to stop the mission from failing.
+
+Sometimes it is possible to kill it before it gets close, or to freeze it to prevent the detonation, but leading it away always buys more time.
+    Thanks!
+        No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+No, but I've got this mactera goo-flavored paste...
+    Son you've got a deal.
+Gunner doesn't need to count his rounds, he just goes by feeling the gun get lighter over time
+>similar to how they show how many people are in a sphere for Salvage
+
+Hold up, what? Where does it show that?
+    It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+        Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+    Top of the screen I think, either right under or on top of where it shows the progress bar
+Why? You don't have UI indicators of how many people repair fuel pod/mini mule. And their speed up is so small, most people don't even notice it.
+
+If you hear metal screeching and Doretta's HP goes up - someone is repairing her. Your help is not required.
+    >You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+        I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+            Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+You don't have to believe me, I didn't bring my proof, but neither did you, so while you can disagree with someone on the answer, don't accuse them of spreading misinformation based on just feeling like it moves faster
+    https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+Rock and Stone, Brother!
+Rock n Stone!!
+I did the math in 5e. A  3rd level  barbarian half orc could fall from space and survive without going unconcious even if max dage is rolled. This is as long as they rage punch the ground as they hit. Bonkers.
+    Could you go even more into detail about this? I need it for next session.
+        Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+*130
+
+Same rules on 5e
+Well, fall damage is capped IRL too, so it makes sense.. (terminal velocity, many animals can survive it, or be simply unhurt..)
+That sounds like very unfun homebrew if it results in insta death.
+    Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+        > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+            Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+    It completely depends on the party and the campaign.
+Thanks!
+    No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+Son you've got a deal.
+It's the number of green arrows at the top of the screen. It's also a reminder that the more people inside, the faster the sphere charges
+    Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+Top of the screen I think, either right under or on top of where it shows the progress bar
+>You don't have UI indicators of how many people repair fuel pod/mini mule
+
+I am suggesting that this is added as well, so that it is clear that multiple people help on those, and not on Doretta.
+
+>And their speed up is so small, most people don't even notice it.
+
+On the contrary, this thread shows that quite a few people are aware that multiple people make a difference in repairs in general, and it is quite noticeable on mini mules and pipe segments especially. You claiming "most don't know" is just made up.
+
+And, even without indicators, simply making it so that the prompt is disable (or shows "already being repaired") would make it very clear.
+
+I honestly can't fathom the mindset of someone who is so averse to various simple changes to help everyone else learn the mechanics on their own, simply because they already know how the mechanics work.
+    I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+        Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+https://youtu.be/zyN_ZT5aMi4
+
+The top pinned comment is from a developer, who confirms that all build/repair actions other than repairing Doretta are sped up by multiple dwarves cooperating.
+Could you go even more into detail about this? I need it for next session.
+    Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+Well, all the dice have to go exactly wrong for an instant death, because each critical hit has to go through at least NINE tables (such as severity, location, special circumstances, etc). I'm not thrilled with it because it takes 20 minutes to do per critical (kinda a pick-your-battles-because-they-will-HURT world), but the injuries involved make sense for it. So ALL the dice have to go bad on each table. Odds of that are low.
+
+We were taking on six giant crocs and a water drake, and one player seems to have ghosted, which doesn't help. The artificer lost his head, I lost my leg (a heal check of 109 or a regenerate spell is needed... heh)...
+    > it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+        Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+It completely depends on the party and the campaign.
+No problem!
+
+This is also good advice for haunted cave (even though Salvage and Escort can't be haunted). I once spent the majority of a morkite mission luring the horror away from the team because it was following me so much, and there was no room to get past it in the narrow tunnels.
+
+It's a pain to have it lurking about on point extraction, and elimination usually requires the team to pay attention to who is being tracked by the dread(s) and the horror.
+Huh. I never put that together. I guess I assumed it was like a second progress bar or something.
+I'm not against new UI elements per se.
+
+I just know how small companies work. The time spent on one thing is the time not spent on other things. And the amount of dwarves not showing during repairing is not the biggest problem of the game. I'd rather devs focus on more important stuff.
+    Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+Max damage is 120 (20d6). Rage reduces it by half because it counts as bludgeoning damage, not its own damage type. Half orcs have an ability that if they are not killed outright, brought beyond zero equal to their max hp, they instead drop to 1 hp. Which means if you have 31 or more hp and hit the ground in a rage they will not die no matter what, even max falling damage rolled. A level 3 barbarian with a +3 con easily clears that.
+
+Edit: a +2 con and taking avg hp on level up will get you above the threshold by level 3. Easier than I thought
+> it takes 20 minutes to do per critical 
+
+a proper table and rolling system should have this down to 20 seconds max.
+    Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).
+Yes, but on the other hand, doing smaller tasks like that in the gaps between bigger ones is also a good idea, as is setting aside some time to implement a bunch of smaller QoL fixes and tweaks instead of a single larger item.
+Yeah. I'm halfway considering attempting to macro it for him to make it a lot easier, but there's too much minutae to make a macro work (or at least work perfectly).

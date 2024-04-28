@@ -1,0 +1,252 @@
+[[What’s going on with the Spire exactly]]
+
+
+Hi I’ve been playing STS for a a long time, but have always been confused about what’s going on with the spire.  
+
+Does the whole game take place within the spire?  And it’s huge and the city and everything is in there?  The art shows the spire in the middle of a desert or something.  
+
+OR is only act 3 in the spire, and the exordium and the city on the way to the spire?
+
+I realize it’s silly, but it kind of bugs me.  What are your thoughts?
+
+
+Neow is the big whale you meet at the start of each run, they (not sure on gender) have the power of resurrection and were exiled to the bottom of the spire. Seeking revenge for this exile, they keep bringing the characters back to life and sending them to try and destroy the spire. That's why the denizens of the spire sometimes recognize you, and how you find notes with your own handwriting.
+    Pretty sure some of the events (like cursed book) refer to Neow as "she."
+        The Apparitions event ([[Council of Ghosts]] I believe it's called) also refers to Neow as "she".
+            + [Council of Ghosts](http://slay-the-spire.wikia.com/wiki/Council%20of%20Ghosts) Event - Act 2 (The City)
+    
+    Council of Ghosts is an event found exclusively in Act 2. A group of apparitions surrounds you, with one offering you a taste of their power.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                Good bot
+            Well now I know that event is act 2 only. Would have probably saved a lot of runs for me lol thanks
+                Many of the Act 2 events are super powerful. That's why so many players try to farm events in Act 2 over fights. 
+
+Of course a few are super situational, like the Ghosts and [[Vampires]] but [[Ancient Writing]] I think it is and [[Colosseum]] are generally good for any deck.
+
+Unless you're Ironclad and have Feed. Then you tend to want fights over events usually.
+                    + [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                        My misspelling has confused the bot.
+                    That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+                        That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+                            which is saying something, since act 2 elites are n.a.s.t.y.
+    I never bothered finding out about the story. That's fascinating. So basically we're playing as the whale's pawns? And we're killing fellow denizens, from our own home? Kinda fucked up. It's like the whale is the actual villain. Why was it exiled?
+        > And we're killing fellow denizens, from our own home?
+
+Not quite. At least three of the characters (not sure about Defect) come from distant lands, but either Neow’s resurrection wipes their memories, or she has memory manipulation as a separate power. Or it could be one of the Spire’s abilities, but I’m pretty sure it’s the whale.
+
+Edit: also, the Ironclad already killed all of his people anyway, so there’s that.
+            From the art direction I think The Defect is supposed to be an automation type creature we see throughout the spire like the sentries elite in act one, the act two boss with the big blast move, and the act 3 enemies that burn and scale strength. 
+
+Instead of defending the spire, a "defect" in its code, probably due to its core cracking, allowed Neow to make it fight the spire instead
+        Exactly the point of the downfall mod which shows the “true colors”(?) of Neow
+Considering there is a display at the top of the screen that says which floor you're on, I would assume that the entire game takes place within the spire. 
+
+The "Exordium" actually means the beginning of something too. So act 1 is the bottom of the spire.
+    Lol thanks
+    Some of the events do make it sound more like you're traveling towards the spire - especially in Act 2, the city. You meet the vampires on an unlit street, for example. The Augmentor slinks off into an alley way. "You come across an ornate building"
+
+I do think at some point in development act 1 would have been crossing the wilderness to reach the city, with lots of slime and goo, act two would be travelling to the centre of the city to the spire, with bandits and buildings and alleyways, and act 3 would be climbing the spire. But then they decided it wasn't worth the effort to do different background screens and it the "floor" count wouldn't really work.
+        Well, the spire is dangerous, right? People travel there for... reasons. Riches and stuff, I guess. So maybe those that were stuck not wanting to die but not able to leave made the city as their home. Which is why it had dual bandits, slavers, byrds, Centurion/Mystic and other assortment of human/gremlin enemies.
+        Good point, I just always assumed the spire was that massive and mysterious because the act 2 art looks like it has elevated buildings. The spire would have to be huge to contain small civilizations like that.
+I'm p sure it's all spire, once entering you hey locked in, when you get to the end you're breaking out.
+Everything is in the spire. The characters are in a loop set up by Neow. There are monsters resembling the characters so the heart likely turns the stuff it slays into the spire’s monsters(debatable but likely) and all the characters have different reasons for trying to slay the spire.
+    >There are monsters resembling the characters
+
+Which one is the Ironclad?
+
+Nemesis is green and beskulled like Silent, the act 1 Guardian boss, the act 2 Automaton boss, and the act 3 orb guardians are all spire bots like the Defect, and Time Eater wears purple and has a voiceline for the Watcher, but I don't know of any that correspond with Ironclad.
+        I think he's probably closest to Gremlin Nob.
+        Well the problem is the ironclad killed all his tribemates himself because he greeded for power and obtained demonic powers from the devil/a demon which is why he has those purple flames and “demon form” so no monster for him
+The entire game is in the Spire.
+
+The City is in the middle of the Spire. Main Screen art shows a bunch of lit windows and the Act 2 backgrounds depict the City as curving inwards with a precipitous drop in the middle.
+
+Act 3 is just further up in the Spire. The Heart is emitting a corrupting influence that warps reality around it, making the floors nearby all sorts of wonky, timey-wimey, Lovecraftian nonsense. The Act 3 background is also the Act 2 background with tentacle goop all over it.
+
+The two big information details that we do not have are where exactly the Spire is and how it came to be.
+I highly encourage you to slay the spire once with each character. It gives subtle info on what the spire means to each character.
+Totally valid thoughts to have. I generally suspend them though because it’s about the cards and the gameplay, not really the whole lore of it.
+Pretty sure some of the events (like cursed book) refer to Neow as "she."
+    The Apparitions event ([[Council of Ghosts]] I believe it's called) also refers to Neow as "she".
+        + [Council of Ghosts](http://slay-the-spire.wikia.com/wiki/Council%20of%20Ghosts) Event - Act 2 (The City)
+    
+    Council of Ghosts is an event found exclusively in Act 2. A group of apparitions surrounds you, with one offering you a taste of their power.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Good bot
+        Well now I know that event is act 2 only. Would have probably saved a lot of runs for me lol thanks
+            Many of the Act 2 events are super powerful. That's why so many players try to farm events in Act 2 over fights. 
+
+Of course a few are super situational, like the Ghosts and [[Vampires]] but [[Ancient Writing]] I think it is and [[Colosseum]] are generally good for any deck.
+
+Unless you're Ironclad and have Feed. Then you tend to want fights over events usually.
+                + [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                    My misspelling has confused the bot.
+                That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+                    That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+                        which is saying something, since act 2 elites are n.a.s.t.y.
+I never bothered finding out about the story. That's fascinating. So basically we're playing as the whale's pawns? And we're killing fellow denizens, from our own home? Kinda fucked up. It's like the whale is the actual villain. Why was it exiled?
+    > And we're killing fellow denizens, from our own home?
+
+Not quite. At least three of the characters (not sure about Defect) come from distant lands, but either Neow’s resurrection wipes their memories, or she has memory manipulation as a separate power. Or it could be one of the Spire’s abilities, but I’m pretty sure it’s the whale.
+
+Edit: also, the Ironclad already killed all of his people anyway, so there’s that.
+        From the art direction I think The Defect is supposed to be an automation type creature we see throughout the spire like the sentries elite in act one, the act two boss with the big blast move, and the act 3 enemies that burn and scale strength. 
+
+Instead of defending the spire, a "defect" in its code, probably due to its core cracking, allowed Neow to make it fight the spire instead
+    Exactly the point of the downfall mod which shows the “true colors”(?) of Neow
+Lol thanks
+Some of the events do make it sound more like you're traveling towards the spire - especially in Act 2, the city. You meet the vampires on an unlit street, for example. The Augmentor slinks off into an alley way. "You come across an ornate building"
+
+I do think at some point in development act 1 would have been crossing the wilderness to reach the city, with lots of slime and goo, act two would be travelling to the centre of the city to the spire, with bandits and buildings and alleyways, and act 3 would be climbing the spire. But then they decided it wasn't worth the effort to do different background screens and it the "floor" count wouldn't really work.
+    Well, the spire is dangerous, right? People travel there for... reasons. Riches and stuff, I guess. So maybe those that were stuck not wanting to die but not able to leave made the city as their home. Which is why it had dual bandits, slavers, byrds, Centurion/Mystic and other assortment of human/gremlin enemies.
+    Good point, I just always assumed the spire was that massive and mysterious because the act 2 art looks like it has elevated buildings. The spire would have to be huge to contain small civilizations like that.
+>There are monsters resembling the characters
+
+Which one is the Ironclad?
+
+Nemesis is green and beskulled like Silent, the act 1 Guardian boss, the act 2 Automaton boss, and the act 3 orb guardians are all spire bots like the Defect, and Time Eater wears purple and has a voiceline for the Watcher, but I don't know of any that correspond with Ironclad.
+    I think he's probably closest to Gremlin Nob.
+    Well the problem is the ironclad killed all his tribemates himself because he greeded for power and obtained demonic powers from the devil/a demon which is why he has those purple flames and “demon form” so no monster for him
+The Apparitions event ([[Council of Ghosts]] I believe it's called) also refers to Neow as "she".
+    + [Council of Ghosts](http://slay-the-spire.wikia.com/wiki/Council%20of%20Ghosts) Event - Act 2 (The City)
+    
+    Council of Ghosts is an event found exclusively in Act 2. A group of apparitions surrounds you, with one offering you a taste of their power.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Good bot
+    Well now I know that event is act 2 only. Would have probably saved a lot of runs for me lol thanks
+        Many of the Act 2 events are super powerful. That's why so many players try to farm events in Act 2 over fights. 
+
+Of course a few are super situational, like the Ghosts and [[Vampires]] but [[Ancient Writing]] I think it is and [[Colosseum]] are generally good for any deck.
+
+Unless you're Ironclad and have Feed. Then you tend to want fights over events usually.
+            + [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                My misspelling has confused the bot.
+            That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+                That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+                    which is saying something, since act 2 elites are n.a.s.t.y.
+> And we're killing fellow denizens, from our own home?
+
+Not quite. At least three of the characters (not sure about Defect) come from distant lands, but either Neow’s resurrection wipes their memories, or she has memory manipulation as a separate power. Or it could be one of the Spire’s abilities, but I’m pretty sure it’s the whale.
+
+Edit: also, the Ironclad already killed all of his people anyway, so there’s that.
+    From the art direction I think The Defect is supposed to be an automation type creature we see throughout the spire like the sentries elite in act one, the act two boss with the big blast move, and the act 3 enemies that burn and scale strength. 
+
+Instead of defending the spire, a "defect" in its code, probably due to its core cracking, allowed Neow to make it fight the spire instead
+Exactly the point of the downfall mod which shows the “true colors”(?) of Neow
+Well, the spire is dangerous, right? People travel there for... reasons. Riches and stuff, I guess. So maybe those that were stuck not wanting to die but not able to leave made the city as their home. Which is why it had dual bandits, slavers, byrds, Centurion/Mystic and other assortment of human/gremlin enemies.
+Good point, I just always assumed the spire was that massive and mysterious because the act 2 art looks like it has elevated buildings. The spire would have to be huge to contain small civilizations like that.
+I think he's probably closest to Gremlin Nob.
+Well the problem is the ironclad killed all his tribemates himself because he greeded for power and obtained demonic powers from the devil/a demon which is why he has those purple flames and “demon form” so no monster for him
++ [Council of Ghosts](http://slay-the-spire.wikia.com/wiki/Council%20of%20Ghosts) Event - Act 2 (The City)
+    
+    Council of Ghosts is an event found exclusively in Act 2. A group of apparitions surrounds you, with one offering you a taste of their power.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Good bot
+Well now I know that event is act 2 only. Would have probably saved a lot of runs for me lol thanks
+    Many of the Act 2 events are super powerful. That's why so many players try to farm events in Act 2 over fights. 
+
+Of course a few are super situational, like the Ghosts and [[Vampires]] but [[Ancient Writing]] I think it is and [[Colosseum]] are generally good for any deck.
+
+Unless you're Ironclad and have Feed. Then you tend to want fights over events usually.
+        + [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            My misspelling has confused the bot.
+        That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+            That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+                which is saying something, since act 2 elites are n.a.s.t.y.
+From the art direction I think The Defect is supposed to be an automation type creature we see throughout the spire like the sentries elite in act one, the act two boss with the big blast move, and the act 3 enemies that burn and scale strength. 
+
+Instead of defending the spire, a "defect" in its code, probably due to its core cracking, allowed Neow to make it fight the spire instead
+Good bot
+Many of the Act 2 events are super powerful. That's why so many players try to farm events in Act 2 over fights. 
+
+Of course a few are super situational, like the Ghosts and [[Vampires]] but [[Ancient Writing]] I think it is and [[Colosseum]] are generally good for any deck.
+
+Unless you're Ironclad and have Feed. Then you tend to want fights over events usually.
+    + [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        My misspelling has confused the bot.
+    That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+        That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+            which is saying something, since act 2 elites are n.a.s.t.y.
++ [Vampires(?)](http://slay-the-spire.wikia.com/wiki/Vampires%28%3F%29) Event - Act 2 (The City)
+    
+    Vampires(?) is an event found exclusively in Act 2. You come across a group of hooded figures partaking in some sort of a ritual. They invite you to join them.
++ [Ancient Writing](http://slay-the-spire.wikia.com/wiki/Ancient%20Writing) Event - Act 2 (The City)
+    
+    Ancient Writing is an event found exclusively in Act 2. You discover a wall covered in the writing of Ancients.
++ [Collect](http://slay-the-spire.wikia.com/wiki/Collect) Watcher Uncommon Skill
+    
+    X Energy | Put an Upgraded Miracle into your hand at the start of your next X(+1) turns. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(September 7, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    My misspelling has confused the bot.
+That's actually a really good tip. I usually just take whatever path gives me the most elites, then most combats. More cards means drawing fewer strikes.
+    That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+        which is saying something, since act 2 elites are n.a.s.t.y.
+My misspelling has confused the bot.
+That's not a bad strategy for Acts 1 and 3. Hallway fights can be deadlier than Elites in Act 2.
+    which is saying something, since act 2 elites are n.a.s.t.y.
+which is saying something, since act 2 elites are n.a.s.t.y.

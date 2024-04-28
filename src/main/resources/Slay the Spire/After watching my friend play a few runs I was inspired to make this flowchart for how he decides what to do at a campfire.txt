@@ -1,0 +1,376 @@
+[[After watching my friend play a few runs I was inspired to make this flowchart for how he decides what to do at a campfire]]
+
+
+
+
+
+Ah man I only have 30 hp and an elite is up next
+
+But I REALLY wanna upgrade this uppercut
+    Uppercut is legit one of the best early upgrades in the game, and i would upgrade it above bash. It’s a double debuff weak and vuln card thats still worth it in normal damage alone. It chews up sentries, nob and laga, and can be lethal against hexaghost and slime. Its only weakness is not enough frontload for guardian but that’s ok.
+        Very strong upgrade. Love cards that say weak and vulnerable
+            I am weak and vulnerable for Uppercut+
+                😱
+                    Don't get me started on Shockwave.
+                        Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+                            That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+        Eruption is my #1 early upgrade when playing watcher. That 1 less mana saves you so much damage early on.
+            Depends, depends. If i have a tantrum, Vigilance goes first.
+                I personally don't think upgrading vigilance in act 1 is a good idea most of the time...
+                    Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+                        >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+        Mmmm I need to value it more
+    I'm telling you bro Jack of All Trades+ will be the difference maker
+        [[Jack of all trades]]
+            + [Jack Of All Trades](http://slay-the-spire.wikia.com/wiki/Jack%20Of%20All%20Trades) Colorless Uncommon Skill
+    
+    0 Energy | Add 1(2) random Colorless card(s) to your hand. **Exhaust.**
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    30 HP for an elite fight? You've got plenty!
+Now 5 HP, that's when I worry.
+        You still upgrade, but you worry.
+            Oops no block drawn turn 1, ah well it was a good run
+                I would rather die on my feet+ than live on my knees.
+            “Might lose this if I don’t heal, but ... if I *survive* ...”
+    Game it out in your head: A heal will give you 24 hp, with the amount of cards in your deck and 1 additional round of weak/vuln will you be able to mitigate / end the fight earlier in the magnitude of 24 damage?
+        Yeah I’m not big brained enough to be able to figure that out in advance.
+            If anyone says they are, they are trying to sell you something
+                Somebody hasn't watched Jorbs play Spreadsheet the Spire
+                    Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
+Do you have a Shovel? Then DIG DIG DIG
+    Nah I'm gonna lift to buff these shivs 😈💪
+        Pipe is the one true campfire option, witness my zero card deck!
+            Can't lose because of bad card draw of you don't have cards.
+        Is it possible to just have shivs in the deck, without summoning them from another card?
+            The only non-card source is [[Ninja Scroll]], I believe. Otherwise, no.
+
+Edit: also Cunning Potion, which adds Shiv+s.
+                + [Ninja Scroll](http://slay-the-spire.wikia.com/wiki/Ninja%20Scroll) Uncommon (Silent only) Relic
+    
+    Start each combat with 3 **Shivs** in hand.
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                Ya, I jut meant upgrading a shiv itself at a campfire.  
+Thanks!
+            There is a shiv potion, so technically you could get them from that.
+    !dig
+        Dig RELIC DIG
+    https://m.youtube.com/watch?v=DSfYrPdTKVA
+
+And dig! And dig! And diggity dig!
+    !dig
+Me before act 2 elite fight: "I have 50 hp, easy upgrade."
+
+*Get killed by Gremlin leader that likes to attack
+    Gremlin leader is so weird for me. Either I don't take damage at all or get wrecked
+    Honestly, Gremlin Leader choosing to attack when there aren't any minions should be considered a war crime. Like dude, I fulfilled your gimmick, leave me alone.
+    [deleted]
+        If I know I can beat the last boss I will run away from act 3 elites just because of this guy
+        Reptomancer is no joke
+            Reptomancer will end runs where you could have handily beaten the last boss.
+If I'm that close to death, it was a shit run anyway, right?
+    Well not necessarily, never give up! Especially if you have a lot of max HP or some relic like regal pillow or pantograph 👍
+        Yeah, I had plenty of runs on my A10 that got out of Act 2 elites with single-digit hp, yet went on to beat the act 3 boss. I love this game lol
+            Act 2 elites are really brutal and punishing unbalanced decks, I think making it through enough act 2 elites to keep getting stronger is perhaps of the biggest break points in the game.
+    Sometimes you just wanna make it to the act1 boss so you can get a better go next time ;)
+    If I’m never close to death early on, I would think I’m probably not greedy enough
+    I've won runs where I dropped down to single digit healths.
+this but unironically
+Coffee Dripper has no downside.  Change my mind.
+    Coffee dripper and runic dome are literally free energy
+        I've never taken runic dome and don't think I ever will. I'm not a fan of a relic that takes away, in my opinion, the most unique part of this game.
+            Same! Knowing intents is what sold this game to me over other similar deck builders.
+                Runic dome is free energy because you don't need to see the intent to know what they're doing most of the time
+                    This assumes one is good at that part of the game, which I am not.
+            There are decks where you don't care what the enemy is going to do, such as high focus ice decks with defect, and the extra energy makes you get to a strong position faster, but yeah, I understand your point.
+        Busted Crown is free energy if you set your luck to maximum.
+        Runic dome generally strikes me as the worst thing in the game.
+[deleted]
+    Which enable me to get even more stronger cards to get me to the campfire that is next
+        Unironically though.
+hp is just a number
+Aw yeah I have over 5 hp left, that means I can smi- why am I dead?
+    Yeah bro time to get Purity+ and get this W
+        God I hate purity. I understand the use cases, logically, but it's always so scary to use it without unceasing top.
+“Eh, if I can’t make it without healing it was a bad run to begin with”
+    Literally my mindset in ninety percent of runs
+“Sure, I could heal, but how often am I going to get the Peace Pipe again?”
+Its funny because this describes me exactly, but is also the exact inverse of my wife. Sounds like a graduate thesis topic if I ever heard one, would be genuinely interesting to see the long term probability of survival plotted out by character and HP...
+This is also me, unless I have Shovel. If I have Shovel it doesn't matter how much health I have, diggy diggy hole
+Ironclad relic will surely pull me through, just have to lose 5hp or less per fight...
+Sometimes you're almost dead because you've kept resting instead of upgrading and thus become too weak. Upgrade is most of the time the best option, even if you're at 1/4 or less health.
+DIG
+This just hits too close to home.  If your friend is anything like me, he has this mentality :  "If I can't beat this next guy without healing, I'm probably not going to win this one anyways, so I may as well take the risk, and shorten a lost game".   :)
+    He's much better at the game than me, he just beat asc14 with defect!
+If I have enough HP, why wouldn’t I upgrade. Otherwise I’m gonna die anyways at the next elite, so might as well upgrade 😊
+This is a chart for winning. When you win a run, this decision can be found
+I either rest, or beat the next 5 encounters without losing HP, then my ironclad relic will make up for not resting, and I can smith. It's a strategy which has never failed me before /s
+Footwork+ totally saves more health than resting, right???
+Bro I’ve smithed at 3 health... this is so real. Yes I had a good block engine, no I didn’t die
+This proves I have a friend!
+Does anyone know if the messages change when you have very low HP? I swear I see “I should rest” more often when I am very low, perhaps the game tries to remind you how dumb you would be for taking the smith option ?
+I'm the complete opposite. I'll have 72/80 health and heal before slime boss like a moron.
+    Worse, heal before Hexaghost and make Divider hit harder.
+[deleted]
+    Yes, I agree. I was just picking ony friend when I made this. I think most times upgrading is a good option especially if you have good upgrade needs. The more you play the more you are able to make judgment calls like does my deck die to gremlin leader/big head/etc? Does upgrading Blasphemy help me more than HP this act?
+One of my biggest weaknesses is knowing when to greed and when not to. I feel like I play way too conservatively and don't Smith often enough at campfires but then when I do Smith right before an Elite I run into like the one bad matchup Elite I can get and it kills me.
+
+I watch streamers like Jorbs though and he Smiths all the time. I just don't have the cojones.
+Wait, am I your friend?
+I am the opposite, if I have lost health I really wanna rest regardless of upcoming challenges, need to force myself to smith more...
+You will heal at a ? like the rest of us, and you'll like it.
+I rest because sometimes I don’t know what to smith. When I manage to have good health and decide to smith, I end up doing a block items or something that gives me more of one stat (strength, dexterity, focus, and any thing that raises that even high like limit break)
+If you smith, it's an upgrade. But if you rest, Dreamcatcher could make it anything! It could even be an upgrade!
+nice.
+Every time I take a chance and upgrade before an elite I get the friggen Stabby Book
+Me with dig
+High risk high reward! If you're having a good run, the smith will make it worth it. If not, you're better off starting fresh anyway.
+
+Half kidding. I do think that, when it comes down to it, the risk of smithing can be worth it even if you're fairly low, assuming you don't have a long stretch coming up with no way to heal. Smithing helps you the entire run, healing only helps you until you beat the next boss, at which point you're at full anyway...
+Its the end just before the final act, time to smith my... wait its over? I don't even get to.... recall....
+Hella accurate.
+
+Also though, I feel personally attacked. Welp back to smithing even though I only have 11hp
+Smithing is legit the thing to do, unless Im EXTREMELY low on health Im 100% risking the smith.
+ALWAYS SMITH MAX GREED
+Resting is cringe, Upgrading is based
+You should rest. Rest is good for you
+Uppercut is legit one of the best early upgrades in the game, and i would upgrade it above bash. It’s a double debuff weak and vuln card thats still worth it in normal damage alone. It chews up sentries, nob and laga, and can be lethal against hexaghost and slime. Its only weakness is not enough frontload for guardian but that’s ok.
+    Very strong upgrade. Love cards that say weak and vulnerable
+        I am weak and vulnerable for Uppercut+
+            😱
+                Don't get me started on Shockwave.
+                    Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+                        That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+    Eruption is my #1 early upgrade when playing watcher. That 1 less mana saves you so much damage early on.
+        Depends, depends. If i have a tantrum, Vigilance goes first.
+            I personally don't think upgrading vigilance in act 1 is a good idea most of the time...
+                Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+                    >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+    Mmmm I need to value it more
+I'm telling you bro Jack of All Trades+ will be the difference maker
+    [[Jack of all trades]]
+        + [Jack Of All Trades](http://slay-the-spire.wikia.com/wiki/Jack%20Of%20All%20Trades) Colorless Uncommon Skill
+    
+    0 Energy | Add 1(2) random Colorless card(s) to your hand. **Exhaust.**
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+30 HP for an elite fight? You've got plenty!
+Now 5 HP, that's when I worry.
+    You still upgrade, but you worry.
+        Oops no block drawn turn 1, ah well it was a good run
+            I would rather die on my feet+ than live on my knees.
+        “Might lose this if I don’t heal, but ... if I *survive* ...”
+Game it out in your head: A heal will give you 24 hp, with the amount of cards in your deck and 1 additional round of weak/vuln will you be able to mitigate / end the fight earlier in the magnitude of 24 damage?
+    Yeah I’m not big brained enough to be able to figure that out in advance.
+        If anyone says they are, they are trying to sell you something
+            Somebody hasn't watched Jorbs play Spreadsheet the Spire
+                Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
+Nah I'm gonna lift to buff these shivs 😈💪
+    Pipe is the one true campfire option, witness my zero card deck!
+        Can't lose because of bad card draw of you don't have cards.
+    Is it possible to just have shivs in the deck, without summoning them from another card?
+        The only non-card source is [[Ninja Scroll]], I believe. Otherwise, no.
+
+Edit: also Cunning Potion, which adds Shiv+s.
+            + [Ninja Scroll](http://slay-the-spire.wikia.com/wiki/Ninja%20Scroll) Uncommon (Silent only) Relic
+    
+    Start each combat with 3 **Shivs** in hand.
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Ya, I jut meant upgrading a shiv itself at a campfire.  
+Thanks!
+        There is a shiv potion, so technically you could get them from that.
+!dig
+    Dig RELIC DIG
+https://m.youtube.com/watch?v=DSfYrPdTKVA
+
+And dig! And dig! And diggity dig!
+!dig
+Gremlin leader is so weird for me. Either I don't take damage at all or get wrecked
+Honestly, Gremlin Leader choosing to attack when there aren't any minions should be considered a war crime. Like dude, I fulfilled your gimmick, leave me alone.
+[deleted]
+    If I know I can beat the last boss I will run away from act 3 elites just because of this guy
+    Reptomancer is no joke
+        Reptomancer will end runs where you could have handily beaten the last boss.
+Well not necessarily, never give up! Especially if you have a lot of max HP or some relic like regal pillow or pantograph 👍
+    Yeah, I had plenty of runs on my A10 that got out of Act 2 elites with single-digit hp, yet went on to beat the act 3 boss. I love this game lol
+        Act 2 elites are really brutal and punishing unbalanced decks, I think making it through enough act 2 elites to keep getting stronger is perhaps of the biggest break points in the game.
+Sometimes you just wanna make it to the act1 boss so you can get a better go next time ;)
+If I’m never close to death early on, I would think I’m probably not greedy enough
+I've won runs where I dropped down to single digit healths.
+Coffee dripper and runic dome are literally free energy
+    I've never taken runic dome and don't think I ever will. I'm not a fan of a relic that takes away, in my opinion, the most unique part of this game.
+        Same! Knowing intents is what sold this game to me over other similar deck builders.
+            Runic dome is free energy because you don't need to see the intent to know what they're doing most of the time
+                This assumes one is good at that part of the game, which I am not.
+        There are decks where you don't care what the enemy is going to do, such as high focus ice decks with defect, and the extra energy makes you get to a strong position faster, but yeah, I understand your point.
+    Busted Crown is free energy if you set your luck to maximum.
+    Runic dome generally strikes me as the worst thing in the game.
+Which enable me to get even more stronger cards to get me to the campfire that is next
+    Unironically though.
+Yeah bro time to get Purity+ and get this W
+    God I hate purity. I understand the use cases, logically, but it's always so scary to use it without unceasing top.
+Literally my mindset in ninety percent of runs
+He's much better at the game than me, he just beat asc14 with defect!
+Worse, heal before Hexaghost and make Divider hit harder.
+Yes, I agree. I was just picking ony friend when I made this. I think most times upgrading is a good option especially if you have good upgrade needs. The more you play the more you are able to make judgment calls like does my deck die to gremlin leader/big head/etc? Does upgrading Blasphemy help me more than HP this act?
+Very strong upgrade. Love cards that say weak and vulnerable
+    I am weak and vulnerable for Uppercut+
+        😱
+            Don't get me started on Shockwave.
+                Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+                    That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+Eruption is my #1 early upgrade when playing watcher. That 1 less mana saves you so much damage early on.
+    Depends, depends. If i have a tantrum, Vigilance goes first.
+        I personally don't think upgrading vigilance in act 1 is a good idea most of the time...
+            Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+                >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+Mmmm I need to value it more
+[[Jack of all trades]]
+    + [Jack Of All Trades](http://slay-the-spire.wikia.com/wiki/Jack%20Of%20All%20Trades) Colorless Uncommon Skill
+    
+    0 Energy | Add 1(2) random Colorless card(s) to your hand. **Exhaust.**
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+You still upgrade, but you worry.
+    Oops no block drawn turn 1, ah well it was a good run
+        I would rather die on my feet+ than live on my knees.
+    “Might lose this if I don’t heal, but ... if I *survive* ...”
+Yeah I’m not big brained enough to be able to figure that out in advance.
+    If anyone says they are, they are trying to sell you something
+        Somebody hasn't watched Jorbs play Spreadsheet the Spire
+            Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
+Pipe is the one true campfire option, witness my zero card deck!
+    Can't lose because of bad card draw of you don't have cards.
+Is it possible to just have shivs in the deck, without summoning them from another card?
+    The only non-card source is [[Ninja Scroll]], I believe. Otherwise, no.
+
+Edit: also Cunning Potion, which adds Shiv+s.
+        + [Ninja Scroll](http://slay-the-spire.wikia.com/wiki/Ninja%20Scroll) Uncommon (Silent only) Relic
+    
+    Start each combat with 3 **Shivs** in hand.
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Ya, I jut meant upgrading a shiv itself at a campfire.  
+Thanks!
+    There is a shiv potion, so technically you could get them from that.
+Dig RELIC DIG
+If I know I can beat the last boss I will run away from act 3 elites just because of this guy
+Reptomancer is no joke
+    Reptomancer will end runs where you could have handily beaten the last boss.
+Yeah, I had plenty of runs on my A10 that got out of Act 2 elites with single-digit hp, yet went on to beat the act 3 boss. I love this game lol
+    Act 2 elites are really brutal and punishing unbalanced decks, I think making it through enough act 2 elites to keep getting stronger is perhaps of the biggest break points in the game.
+I've never taken runic dome and don't think I ever will. I'm not a fan of a relic that takes away, in my opinion, the most unique part of this game.
+    Same! Knowing intents is what sold this game to me over other similar deck builders.
+        Runic dome is free energy because you don't need to see the intent to know what they're doing most of the time
+            This assumes one is good at that part of the game, which I am not.
+    There are decks where you don't care what the enemy is going to do, such as high focus ice decks with defect, and the extra energy makes you get to a strong position faster, but yeah, I understand your point.
+Busted Crown is free energy if you set your luck to maximum.
+Runic dome generally strikes me as the worst thing in the game.
+Unironically though.
+God I hate purity. I understand the use cases, logically, but it's always so scary to use it without unceasing top.
+I am weak and vulnerable for Uppercut+
+    😱
+        Don't get me started on Shockwave.
+            Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+                That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+Depends, depends. If i have a tantrum, Vigilance goes first.
+    I personally don't think upgrading vigilance in act 1 is a good idea most of the time...
+        Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+            >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
++ [Jack Of All Trades](http://slay-the-spire.wikia.com/wiki/Jack%20Of%20All%20Trades) Colorless Uncommon Skill
+    
+    0 Energy | Add 1(2) random Colorless card(s) to your hand. **Exhaust.**
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Oops no block drawn turn 1, ah well it was a good run
+    I would rather die on my feet+ than live on my knees.
+“Might lose this if I don’t heal, but ... if I *survive* ...”
+If anyone says they are, they are trying to sell you something
+    Somebody hasn't watched Jorbs play Spreadsheet the Spire
+        Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
+Can't lose because of bad card draw of you don't have cards.
+The only non-card source is [[Ninja Scroll]], I believe. Otherwise, no.
+
+Edit: also Cunning Potion, which adds Shiv+s.
+    + [Ninja Scroll](http://slay-the-spire.wikia.com/wiki/Ninja%20Scroll) Uncommon (Silent only) Relic
+    
+    Start each combat with 3 **Shivs** in hand.
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Ya, I jut meant upgrading a shiv itself at a campfire.  
+Thanks!
+There is a shiv potion, so technically you could get them from that.
+Reptomancer will end runs where you could have handily beaten the last boss.
+Act 2 elites are really brutal and punishing unbalanced decks, I think making it through enough act 2 elites to keep getting stronger is perhaps of the biggest break points in the game.
+Same! Knowing intents is what sold this game to me over other similar deck builders.
+    Runic dome is free energy because you don't need to see the intent to know what they're doing most of the time
+        This assumes one is good at that part of the game, which I am not.
+There are decks where you don't care what the enemy is going to do, such as high focus ice decks with defect, and the extra energy makes you get to a strong position faster, but yeah, I understand your point.
+😱
+    Don't get me started on Shockwave.
+        Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+            That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+I personally don't think upgrading vigilance in act 1 is a good idea most of the time...
+    Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+        >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+I would rather die on my feet+ than live on my knees.
+Somebody hasn't watched Jorbs play Spreadsheet the Spire
+    Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
++ [Ninja Scroll](http://slay-the-spire.wikia.com/wiki/Ninja%20Scroll) Uncommon (Silent only) Relic
+    
+    Start each combat with 3 **Shivs** in hand.
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]].) ^Data ^accurate ^as ^of ^(September 29.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Ya, I jut meant upgrading a shiv itself at a campfire.  
+Thanks!
+Runic dome is free energy because you don't need to see the intent to know what they're doing most of the time
+    This assumes one is good at that part of the game, which I am not.
+Don't get me started on Shockwave.
+    Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+        That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+Its the roll compression, my boy! Vigilance is a card we almost always play, because its calm, wrath exit and block all at the same time. Upgrading it is the same reasoning as upgrading cold snap/ball lightning: you play it more often, so you benefit more often. Combined with how watcher doesn’t need to struggle for damage, but does need to avoid chip damage in order to pull off snowballing, and this combines to form vigilance being an extremely high-quality upgrade.
+    >Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+Oh I definitely have, and I think he would say he doesn't know, he's just guessing.
+This assumes one is good at that part of the game, which I am not.
+Just won my first A19 run with two upgraded shockwaves in my deck. Enemies literally spent the whole fight vulnerable and weak
+    That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.
+>Vigilance is a card we almost always play
+
+Welp, here's the part where we drastically differ.  
+
+
+I usually only play Vigilance 1/3 of the time when it's in my hand. I don't rely on it to block/calm most of the time, only when I need to do both I might consider it. And when I go into wrath I basically end the fight in 1-2 turns. Upgrading it is priority after upgrading tantrum, that's how low it is for me. And yes, we talking about A20 here.
+That card is so damn good. If the fight lasts 5 turns or fewer, it's like having 1½ Preserved Insects *that work on everyone*, plus between 2 and 8 Metalicize cards, all rolled into a single card at 2 freaking energy. AND you can delay the start of that turn clock.  AND it gets out of your deck. It's such an insane card.

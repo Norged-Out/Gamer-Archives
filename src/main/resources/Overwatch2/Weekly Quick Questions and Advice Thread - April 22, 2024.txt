@@ -1,0 +1,455 @@
+[[Weekly Quick Questions and Advice Thread - April 22, 2024]]
+
+
+In this thread you can ask all kinds of questions you always wanted to ask without feeling like a total fool.  No matter if it's a short question you need an answer to, a concept that you can't quite grasp, or a hardware recommendation, feel free to try your luck in here.
+
+We also encourage that users post their gameplay clips and videos here so they can be reviewed for tips and improvement.
+
+---
+
+Trolling or making fun of people in here will be punished extra harshly! Please report such behavior.
+
+For the purpose of helping people, make sure **the comments are sorted by "new"** in this thread.  All top level comments should be questions or advice requests.
+
+
+Does anyone else have the yellow warning triangle thing seemingly not going away? I've played so many damn games that it should be gone at this point and what's even more annoying is that I got it from DC not from leaving games on purpose
+    YES I just posted about this. Dropped like 4 quickplay games in a row, fixed internet issues, and have played over 30 games row with no issues. The warning ⚠️ is not going away. Really discouraging to keep play tbh.
+    i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+I'm having a lot of bugs with comp. I'm getting 7-15 min queues when solo queuing. The screen that updates your rank never displays for me. When I play with friends the skill range in the top right is often wrong with either me being above or my friend being below what is stated as the range. Anyone else have these problems?
+    > The screen that updates your rank never displays for me.
+
+They changed the order of post game screens. Have to patiently wait before pressing "continue" now. Maybe that?
+        Lol that was it.
+    The queue times are insane. Met someone in DM who had 100 elims bc they had been waiting in queue for 30 minutes
+I'm new to overwatch, I play more Hanzo and Mercy, but I've never played a tank, can someone give me a good tank to play with?
+    Orisa is one of the simpler ones to pick up, and added bonus right now she is pretty strong. Just try and spend at least 10/15 mins in practice range to get a grip of her abilities/cooldowns, how long she can shoot before overheating, damage in general etc.
+
+I also would recommend watching a guide, they're mostly like 20 mins long, give or take but it vastly improves your gameplay, at the start compared to not watching one. You can watch some gameplay of high level players too, to help further but that's optional because high level ow is a lot different from lower ranks.
+
+Don't be deterred from trying any tanks and seeing which one you personally like the best though. I have a friend who can't play Orisa to save his life (one of the easiest tanks imo) but he mains Doomfist at high diamond who I consider one of the harder characters to use.
+    you're new to the game, you're gonna be bad at all of them, so don't worry about it too much.
+
+but to answer your question regardless, orisa, ramattra, roadhog, sigma, junkerqueen, zarya, and mauga are all pretty straightforward (in decreasing order). reinhardt is the simplest out of all of them but he can be frustrating because you HAVE to be point-blank to do anything to the enemy team.
+
+if you're asking who is strong in the current balance, then it's probably (again in decreasing order) orisa, roadhog, sigma, doomfist, ramattra, zarya, winston, dva.
+[deleted]
+    Pretty common sentiment, truly balanced games in most competitive games are rare. 
+
+While you are the single common denominator in your games and should focus on yourself (the thing you can improve), if you're anywhere near your true rank some games will not be winnable, and others almost unlosable.
+How in the world do I counter or at least survive Venture on support? Normally my go-to is Brig, but considering their attacks basically ignore shields, I get two tapped/CC'd to hell before I can do anything. I've tried Mercy but even flying high in the air/playing High ground does nothing because they can just rocket up there. Same with Lucio and wall riding. 
+
+The only thing i've found is playing Lifeweaver but even that's reliant on saving pedal for Venture exclusively, which feels like a waste of an ability.
+    I'd try Kiriko or Moira for more mobility maybe
+    Use brig shield to block her upward attack from ground,  works amazing with Rein I win every match if I counter with a shield.  Hit her on her way back down 
+        Venture's ult ignores shield unless you're ulting, their dash ignores shield, they have high damage on their melee which ignored shields. You get hit once and all they need to do is dash into you to kill you, regardless of shields.
+
+Believe me, I have 600 hours on Brig. My shield dancing/timing is pretty good. But between the "favor the shooter" and Brig's shield's ridiculous bugs, it's impossible half the time to do anything against them.
+            I would try the shield method during ult.  I'm sure your great but nobody has more than a couple of weeks of play time against her.  Here's a \[thread\](https://www.reddit.com/r/Competitiveoverwatch/comments/1brea9y/what\_do\_you\_do\_against\_ventures\_ult/) that mirrored your question.  it's before the patch so Venture has been tuned down since then.   I wish you best of luck!
+Does anyone have advice on how to play Venture? I feel like I've got the basics down pat and know what to do, but it just feels like I die way too easily whenever I try to do anything. They're designed to get in close and secure kills, but I can't do that because it feels like I'm made out of paper. What am I doing wrong?
+    You shouldn't feel squishy at all as Venture is one of the beefiest non-tank heroes in the game. They get shielded health every time they use an ability.
+
+The omg advice I can give is to leave yourself at least one ability to get out - drill dash or bury. Only go for the one shot combo if you know you'll get the kill and don't go for it if you have no way out of the fight afterward.
+        I'm not even doing the one shot combo. I'm just playing normally, and it feels like I just die if I try to do anything. I've gone against Ventures who are able to do that, but whenever I try, I just melt. It's honestly a little demoralizing. I wanted Venture to be a new main, but I don't know if I can do that because it sounds like I just suck.
+            You've just gotta put in time with the hero same with any other. One those controls are second nature, you'll be dominating.
+    I think Blizzard has a video on the Overwatch channel with some tips specifically for Venture, but how I've tried to play them is to flank, typically to high ground if possible (I really liked playing them on Hollywood). Then walk up to their healers or someone else alone, shoot a few times, drill, shoot, whatever combo, then burrow (maybe a bit sooner than you might think you need to, since the animation has a period before you're invulnerable), and move back to your team for heals.
+
+Remember it's better to stay alive than get a pick, so err on the side of burrowing too early. Also, you may not get good value just walking in the front door, as everyone can see you (which can make you feel like paper). Try to approach from strangle angles.
+
+Once you're more comfortable with the flow you can experiment with burrow more (using it more offensively, using drill to get out instead, etc.) but so far this has served me well.
+    Play her like a loud Reaper because she can't flank to the enemy backline as easy as Reaper tp. 
+
+You don't engage with wraith form as Reaper because that should be your escape ability most of the time. Same applies for Venture, make sure either burrow or drill dash is available for you to escape. You'll just get trapped deep into the enemy team then die if you blow all your cooldowns just to engage them.
+Anyone get annoyed when You lose a close game and some toxic ass goes “EZ” 
+
+I’m not that mad... at most, mildly annoyed. I had a toxic tank and I was still kicking the Widows ass as Sombra. But I was SO close on Numbani to winning, but my team couldn’t deal with the Toxic Widow making shots, leaving me to harass her but Widow was being guarded by the Kiri and Moira… which would’ve been a good thing, meaning they would be too busy trying to chase me down while my team does the cleanup… but they got rolled by ball and Tracer and we lost. And the toxic widow got POTG because I wasn’t there to stop them getting two good headshots.
+    You should disable text chat, it's 95% toxicity and grossness, 5% jokes, 0% helpful.
+        I 2nd this
+    > Anyone get annoyed when You lose a close game and some toxic ass goes “EZ” 
+
+yea, a lot of people do, which is why they say it. because it annoys people.
+        It’s more annoying when it wasn’t an “EZ” game for them.
+Can we have a rework for Reaper?\^\_% now with Venture our poor mexican is even more undertuned. I would suggest to increase his move speed while ult OR make his ult CC with cool ghostly mist things OR rankup a bit of Damage.  Another idea is making Wrath form being able to do a TP away. Venure are getting even heals in the ground if stays longer, and good dmg. Any thoughts??
+How do you play mirrorverse Brigitte? I am having a hard time adjusting to the new skills. I know what they do but sometimes it feels like im not triggering inspire at all or my healing is lower when It shouldn't be or that I have so much more aggro in this mode than I do other modes. Just how exactly do you have to play them? With the choice of characters I'm not sure
+    From my experience, you can still play her normally because her changes don't really affect her gameplay much. 
+
+I might say it is even better because her repair pack gives your teammates a life steal for a few seconds, shield bash gets empowered when you block damage, and the most important of all, your whip shot doesn't just poke and boop enemies anymore, it now pulls enemies closer to your effective range which plays into her advantage.
+Are there extracted sound effects from in-game anywhere other than on SoundsResource? I'm specifically looking for the jingle that plays when pilot D.VA reloads her gun and the jingle that plays after selecting Orisa on Hero Select (that one I'm not certain if it even plays anymore though), but I've had no luck finding either.
+Has Blizzard said anything about real solo queue?
+    I'd take 10+ minute queues if that meant I'd never have to play against stacks. 
+    Define “real solo queue”.
+        You’re not against stacks.
+Will they ever do something about leavers affecting your rank? Last two games I had leavers while it still was possible to turn the game around, it simply isn't fun to play these matches.
+    probably not because every other solution is exploitable. the current system sucks but it's still the least bad system, unfortunately. there's no good answer.
+
+for example, if having a leaver on your team made you lose less rank, then players would be incentivized to have a member of their group intentionally leave in order to preserve the rest of the group's rank, or players would be incentivized to bully strangers into leaving. plus, wintrading would be even more effective than it is now.
+    They should just implement a surrender system. That way you don't have to play through the entire game if it is unbalanced as fuck or if someone left the game.
+        Yeah, instead you’d get to sit through people starting a surrender vote before their team even left spawn when players picked heroes they don’t approve of.
+Is there a ban for leaving arcade?
+    No
+Weird question, does anyone know why I’ve got two contenders home and two contenders away options when changing skins with Genji? [This](https://imgur.com/gallery/xEbZqXc) is what I’m talking about
+    OW1 version and OW2 version, perhaps?
+        Very well could be, I just haven’t noticed a difference between the two at all. I could have sworn I only had one contenders home and contenders away in the list before as well. Is there a really minor difference in the skins then?
+Welcome to r/Overwatch!  Please use the following resources via the links below to find relevant information about the game and the subreddit.
+
+[Overwatch Patch Notes](https://overwatch.blizzard.com/en-us/news/patch-notes/) | [Overwatch Bug Report Forums](https://us.forums.blizzard.com/en/overwatch/c/bug-report/9)
+
+[r/Overwatch Rules](https://www.reddit.com/r/overwatch/wiki/rules) | [r/Overwatch FAQs](https://www.reddit.com/r/overwatch/wiki/faq) | [r/Overwatch Common Bugs and Posts](https://www.reddit.com/r/Overwatch/wiki/commonbugsandposts)
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Overwatch) if you have any questions or concerns.*
+Can you not get confused coins from weakly challenges anymore?
+    You mean the yellow overwatch coins right? If so, you get them from battle pass now, and it's free
+
+Before you would have to play every week and do every weekly challenge for the entire season to get 540 coins. Now you can get 600, the final reward is in level 79 of the bp, much easier/less grindier.
+        Now everyone will have a chance at not having a perfect number in their coins
+            me sitting on 630
+A recent patch made it so Winston's and Symmetra's secondary fire doesn't show the visual indicator (The ring around the crosshairs) anymore. I'm positive I didn't change anything and I searched the options menus and couldn't find a setting to change it back.
+    It's never changed for me, but I just tested it in training range and it seems to be tied to "show accuracy (weapon spread)".
+
+You have to go to options > controls > under "reticle" click advanced and then the first option should be "show accuracy (weapon spread)" turn that to on. If you don't want to turn it on for all heroes you can choose symm/winston specifically using the "change hero" button on the right of the controls settings.
+        I just checked and "Show accuracy (weapon spread) doesn't even show up if you use the simple dot reticle type. I've been using the dot since Overwatch 1. The show accuracy option does indeed bring back the charge indicator, however, if I change reticle type. 
+
+
+So I guess they removed that option for dot reticles? If that's the case, that's unfortunate. 
+Am I just misremembering or did Quickplay in OW1 used to have a soft “switching sides” mechanic? Where if you stayed in queue after a match it would usually put the same teams back together and you’d do the map again and switch sides. 
+
+I remember it being like that way back in like 2016, but am I just misremembering?
+    Yes, the ‘mirror match’ on Assault, Escort, and Hybrid maps was a thing in QP as long as enough players stayed in the lobby between games.
+
+It stopped being possible when Role Queue was added, because RQ puts players to the back of the matchmaking queue for their chosen role/s when the match ends.
+    I seem to remember something like that too, I think they might have stopped doing it at some point in OW1 though. Or maybe people just started leaving games before requeue most of the time.
+        It definitely wasn’t like that at the end of OW1, but I remember having a lot of quickplay “rematches” when I first started playing near launch.
+            the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+    On launch you would play single-sided modes twice, just like comp. At some point this was changed so the match was complete after the first round.
+    Yeah, if no one left queue, you'd literally get a rematch of the same teams (attacking and defending the same map, if appropriate). It would generally stay with the same teams for like 4 or 5 matches in a row until it decided to give you new friends to play with.
+
+At times, if one or two people left, it would rearrange teams to balance them out a little bit, so you could swap teams occasionally.
+
+It became hard to tell if this feature was dropped or if all the fanbase decided to leave instantly after the match causing it to be impossible. But I'm pretty sure it isn't a thing in OW2.
+        the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+How come i could play as every hero today,  even tho i have not unlocked any
+    They're all unlocked as of the beginning of S10.
+I'm working on getting used to balancing my beams with Mercy. Does the damage boost effect ults like Bastion or Junkrat?
+    Bastion ult yes and it's very helpful, you just need to be boosting when he takes the shots.
+
+Junkrat ult no (tire is treated as a different entity to Junkrat).
+        Thanks!
+        That's good info 
+    If you don't know yet, Mercy can't damage boost Hanzo's dragons, iirc.
+At the start of the season my internet was dropping, since been fixed, and it counted me leaving like 4 quickplay games in a row. After getting my internet issues fixed I've played over 30 games and the little explication point stating a warning is not going away. Am I just forever stuck on a warning now?
+    Idk for sure, but maybe the warning is time-related and not tied to the number of games you play?
+    i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+Are Hero progression levels supposed to be suuuper slow after around level 20? I’ve been playing a lot and don’t see how like 75+ is possible
+    The exp required increases every level until it caps out at 20, so yes it gets increasingly slower until 20 where it's then the same exp per level.
+    The weekly challenge about this is also bound to be impossible to complete someday if the devs don't change anything about it.
+How can I get the new Hashimoto Kiriko skin? I don't see it in the battle pass or shop?
+    Can't get it yet because it hasn't been made available yet. It could appear in the shop in about 14-15 hours, if not just keep a look out at the shop for the coming week(s)
+i recently linked my psn account to battlenet but now on my ps5 it just is stuck on account merge pending. i have all my skins but i can't play comp with my friends even though they're also all unranked
+    Can't play comp with console and pc just non comp matches
+        they're all on console
+Why can’t I see my posts
+I lagged out of one qp game at the beginning of the season and it put a caution symbol on all of my game modes. Since then I've played well over 20 matches, 89 this season to be exact, and I haven't left a single one and the symbol is still there. Can anyone tell me why this hasn't gone away and/or when it's going to?
+    i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+I have a question about performance. I picked OW2 back up two days ago as a casual player. My frames are pretty good most of the time running everything at 72 fps on low with vsync. 
+1060 3GB and I7 6700.
+But randomly during the worst times, my frames will drop to sub 20 for 1 to 3 seconds. My cpu nor gpu don't spike during these instances, I'm not maxing out the 3gb of vram, all I have open is battle.net and chrome.
+This happened when ow2 first launch too but I assumed it'd work better for me now. OW1 ran like a dream perfectly for me back when I played it for about 145 hours. 
+Already tried reinstalling the game and new gpu drivers.
+    Chrome is an enormous resource hog. Does it happen when you close your browser?
+        Yeah, it still happens. Thanks for the idea though.
+Hey all, I'm thinking of coming to Overwatch 2 after leaving after Ramattra release. What state is the game in? Is there anything worth knowing before coming back, and would you recommend playing the game right now?
+    Generally good, but opinions differ. It might be more helpful if you told us your mains.
+        I played whoever, but my most played time was on Tracer, Sombre, Reaper, Cassidy, Widowmaker, Junkrat, Solider76, and Mei.
+            There was a hitscan buff that made projectiles somewhat bigger. DPS overall is strong, with a 20% healing debuff on recently damaged enemies. 
+
+
+Soldier 76 is pretty good since then. Junkrat and Cassidy is bad.
+                Why is cass bad? His range is pretty shit but the TTK is great, so I feel like hes still viable.
+    I wouldn't yet the metas a bit iffy especially considering the new character
+How long until yellow caution triangle goes away? I’ve played 9 competitive games and it’s still there. In game there’s no counter to let me know how many games left.
+
+Had rough internet issues last season so it sucks being penalized but I accept it.
+Guys! I just recently started taking Doomfist more seriously since they switched him to tank, and I'm really enjoying him. Do y'all have any advice for securing kills, or just dealing damage safely? Granted, I've learned some movement tech, and I've been feeding substantially less than before. The difference is seriously night and day.
+    your #1 tool for killing people is shooting them in the face after you punch them into a wall, not the punch itself. a common mistake i see from inexperienced dooms all the time is charging their punch too long. unless you have empowered punch, most of the time you should only charge punch either for the length of time it'll take to knock your target into the nearest wall or, charge it for the minimum possible time. your main goal is to make it as easy as possible for you to hit the follow-up gun headshots.
+        Very good advice, I've been making great use of this actually
+    I wish I was better with him.
+Does anyone have any tips for a Mercy Main? I don't know how to defend myself when I'm solo. Also when is the right time to pull out the gun in general? I've been playing her for quite a while but I mostly focus on damage boost & healing & (sometimes s*icidal) revives. I want to eventually become a bloodthirsty Mercy while still being a great healer & support
+    In general your best and first defense as Mercy should be using Guardian Angel to dip when an enemy starts shooting you. Fly to a teammate in a position where they can't chase you, ideally, or use GA to get up into the air. 
+
+
+Pistol should only come out when you have no other options/nobody is defending you. It's your emergency weapon.
+    >I don't know how to defend myself when I'm solo.
+
+Don't let this happen in the first place. Always group up with your team. If they die, you can try to pull out your gun to at least get some ult charge before you die. 
+
+Don't rez someone when your team already lost the team fight. Chances are that they're just gonna die again immediately and now you've fed the enemy ult charge.
+
+Also, one of the big things Mercy players need to improve on is positioning. If you're in a good position, you can just GA to any of your teammate for safety if you get ambushed. She has a 1.5s mobility ability for a reason.
+What does Widowmaker’s ult do in Mirrorwatch? The only descriptions I can find of it just say “reveals enemy weak points” and it seems to have some sort of visual effect on enemies, but I can’t tell what it does. I also suck with Widow in general so while I did try to use it a few times, I couldn’t tell any benefits from it.
+    It seems like it basically gives everyone on the other team another big area where they can get headshot
+I cant launch the game since Season 10 dropped. In the task manager i can see "Overwatch Application" pop up and close again 15 seconds later. Nothing happens. Already updated graphic drivers. No change. pls help :(
+    Have you tried verifying the game files?
+        Thanks for answering. I should have said it before. I did. Verified game files, uninstalled game and reinstalled.
+Same with g. drivers, deleted and reinstalled. Same situation.
+    do you have any razer software? i know i've heard of it causing problems like that before, but i haven't seen it myself so i can't help much more than pointing you in that direction.
+        nope
+Silly, I know, but I’m having trouble picking between Cassidy’s golden gun and Venture’s. I have around the same win rates for both of them, and love both of their gameplay / aesthetic, so I guess my only question is who I may get more use out of from a meta perspective. I know the meta changes all the time, but between the two, who is most meta-proof from a design standpoint? For reference, I have golden guns already for Roadhig, Winston, Ashe, Lucio, and Moira.
+
+
+Thank you!
+    even when the meta doesn't favor him, you always have the possibility of just hitting headshots on cass and forcing him to be effective no matter what. i think venture's reliance on their abilities makes them more sensitive to changes in balance.
+
+if you have the patience, you could wait until the mid-season update and see if blizzard makes any big changes to venture's balance. that'd also give you time to see if people learn to adapt to venture (making them harder to play and potentially less fun) or if you get better at them.
+
+i know this isn't what you asked, but personally i would go with venture simply because they're new and because their cosmetics are quite lacking whereas cass has a ton of great skins with cool-looking guns already.
+Suddenly got 'downloading update' and 'applying update' bug, cant even join practice range. Restarted ow so many times, restarted pc several times, verifying files via steam, no nothing, nada. 
+
+Is there any way to hotfix this?
+Is it possible to get a skin on Genji "Oni" now?
+On PS4 why do I never hear any voice chat?  Is that not a thing?
+    You have to join it when u pick your hero
+        I feel like I do that and I still never hear anyone? Idk, I may not be doing something right
+            Go into your audio settings, you might have it off
+How can I not rank up despite playing better than my full rank higher teammates in a full rank higher lobbies?
+    it's an elo-based ranking system. winning or losing is the only thing that affects your rank, not how well you play.
+When is Blizzard gonna fix the bans? I got banned with no warning or explanation. I was later informed it was a bug, but I'm still banned.
+Is anyone having super long queues with the wide matches?
+If the matchmaker knows that your games are predicted defeat, or predicted victory how much impact do you actually have? Like isn't it obvious that the match maker is rigging games if it has enough information to figure that out? I've played almost 200 games this season and I feel like my individual contribution means literally nothing to the game.
+I thought I was supposed to have 10 avoids? I only have 3
+    I believe that won't happen until Season 11 or 12. Why they announced it this early and/or why they dont just implement it now, I dont know.
+        Oh okay. Thanks for the info. 
+    omg thank you for asking this ive been waiting for it everytime theres an update😭
+Are there any forums/polls/surveys I can fill in to put my issues with the game forward in a way that might actually somehow get back to the devs? (honestly all I want is to be able to avoid more than 3 players since they've apparently scrapped all semblance of matchmaking and it's totally ruined the game for me)
+    One of the best ways to reach the developers is by making a Twitter account and tagging them, I once got a response from Aaron there.
+
+Another thing you can try is go to certain Twitch streams where the developers are often around, like emongg. Gavin is very often there and I also got responses from him after I gave him my feedbacks.
+
+Other than that, you can try making a post on their official forum or reaching out to their CS.
+    (ok I see the avoid thing might be sorted next season, but I still have other issues lol)
+        Not next season s12 so around September 
+    You can post on the official forum, but in my experience matchmaking is just bad at the start of every season.
+Has anyone else never received the report feedback? I've never seen a single person get banned after I report them for swearing and toxicity in chat. I never got the thank you for reporting feedback stuff.
+    I receive reports, there is a long lag so I have no idea of the details.
+Anyone else think this meta is so unbelievably bumfuck boring and leaves literally no place for personality or expression to play a character. I feel like I play against the same people and characters over and over and over and it's starting to get so repetitive
+    Trash so trash. Sombra being meta is fucking miserable for everybody
+Orissa has so much sustain if you double pocket her she never dies.
+On the subject of Ximming. Is the Steam Deck considered a console? Will I be banned for docking and using mouse and keyboard with it?
+    No, the Steam Deck is considered to be a PC; you use a PC launcher to access the game, and you’re put into the PC matchmaking pool.
+        Thanks. Now I can use it without stressing.
+[deleted]
+    They’re fine, you just need to spend some more time learning how they’re played and why their weaknesses are.
+Anyone else miss the old overwatch artstyle? just compare old mercy icon to new mercy icon. Ow2 is so sanitized :(
+    No
+        why?
+This que time is fucking stupid
+    Queue tank lol
+YES I just posted about this. Dropped like 4 quickplay games in a row, fixed internet issues, and have played over 30 games row with no issues. The warning ⚠️ is not going away. Really discouraging to keep play tbh.
+i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+> The screen that updates your rank never displays for me.
+
+They changed the order of post game screens. Have to patiently wait before pressing "continue" now. Maybe that?
+    Lol that was it.
+The queue times are insane. Met someone in DM who had 100 elims bc they had been waiting in queue for 30 minutes
+Orisa is one of the simpler ones to pick up, and added bonus right now she is pretty strong. Just try and spend at least 10/15 mins in practice range to get a grip of her abilities/cooldowns, how long she can shoot before overheating, damage in general etc.
+
+I also would recommend watching a guide, they're mostly like 20 mins long, give or take but it vastly improves your gameplay, at the start compared to not watching one. You can watch some gameplay of high level players too, to help further but that's optional because high level ow is a lot different from lower ranks.
+
+Don't be deterred from trying any tanks and seeing which one you personally like the best though. I have a friend who can't play Orisa to save his life (one of the easiest tanks imo) but he mains Doomfist at high diamond who I consider one of the harder characters to use.
+you're new to the game, you're gonna be bad at all of them, so don't worry about it too much.
+
+but to answer your question regardless, orisa, ramattra, roadhog, sigma, junkerqueen, zarya, and mauga are all pretty straightforward (in decreasing order). reinhardt is the simplest out of all of them but he can be frustrating because you HAVE to be point-blank to do anything to the enemy team.
+
+if you're asking who is strong in the current balance, then it's probably (again in decreasing order) orisa, roadhog, sigma, doomfist, ramattra, zarya, winston, dva.
+Pretty common sentiment, truly balanced games in most competitive games are rare. 
+
+While you are the single common denominator in your games and should focus on yourself (the thing you can improve), if you're anywhere near your true rank some games will not be winnable, and others almost unlosable.
+I'd try Kiriko or Moira for more mobility maybe
+Use brig shield to block her upward attack from ground,  works amazing with Rein I win every match if I counter with a shield.  Hit her on her way back down 
+    Venture's ult ignores shield unless you're ulting, their dash ignores shield, they have high damage on their melee which ignored shields. You get hit once and all they need to do is dash into you to kill you, regardless of shields.
+
+Believe me, I have 600 hours on Brig. My shield dancing/timing is pretty good. But between the "favor the shooter" and Brig's shield's ridiculous bugs, it's impossible half the time to do anything against them.
+        I would try the shield method during ult.  I'm sure your great but nobody has more than a couple of weeks of play time against her.  Here's a \[thread\](https://www.reddit.com/r/Competitiveoverwatch/comments/1brea9y/what\_do\_you\_do\_against\_ventures\_ult/) that mirrored your question.  it's before the patch so Venture has been tuned down since then.   I wish you best of luck!
+You shouldn't feel squishy at all as Venture is one of the beefiest non-tank heroes in the game. They get shielded health every time they use an ability.
+
+The omg advice I can give is to leave yourself at least one ability to get out - drill dash or bury. Only go for the one shot combo if you know you'll get the kill and don't go for it if you have no way out of the fight afterward.
+    I'm not even doing the one shot combo. I'm just playing normally, and it feels like I just die if I try to do anything. I've gone against Ventures who are able to do that, but whenever I try, I just melt. It's honestly a little demoralizing. I wanted Venture to be a new main, but I don't know if I can do that because it sounds like I just suck.
+        You've just gotta put in time with the hero same with any other. One those controls are second nature, you'll be dominating.
+I think Blizzard has a video on the Overwatch channel with some tips specifically for Venture, but how I've tried to play them is to flank, typically to high ground if possible (I really liked playing them on Hollywood). Then walk up to their healers or someone else alone, shoot a few times, drill, shoot, whatever combo, then burrow (maybe a bit sooner than you might think you need to, since the animation has a period before you're invulnerable), and move back to your team for heals.
+
+Remember it's better to stay alive than get a pick, so err on the side of burrowing too early. Also, you may not get good value just walking in the front door, as everyone can see you (which can make you feel like paper). Try to approach from strangle angles.
+
+Once you're more comfortable with the flow you can experiment with burrow more (using it more offensively, using drill to get out instead, etc.) but so far this has served me well.
+Play her like a loud Reaper because she can't flank to the enemy backline as easy as Reaper tp. 
+
+You don't engage with wraith form as Reaper because that should be your escape ability most of the time. Same applies for Venture, make sure either burrow or drill dash is available for you to escape. You'll just get trapped deep into the enemy team then die if you blow all your cooldowns just to engage them.
+You should disable text chat, it's 95% toxicity and grossness, 5% jokes, 0% helpful.
+    I 2nd this
+> Anyone get annoyed when You lose a close game and some toxic ass goes “EZ” 
+
+yea, a lot of people do, which is why they say it. because it annoys people.
+    It’s more annoying when it wasn’t an “EZ” game for them.
+From my experience, you can still play her normally because her changes don't really affect her gameplay much. 
+
+I might say it is even better because her repair pack gives your teammates a life steal for a few seconds, shield bash gets empowered when you block damage, and the most important of all, your whip shot doesn't just poke and boop enemies anymore, it now pulls enemies closer to your effective range which plays into her advantage.
+I'd take 10+ minute queues if that meant I'd never have to play against stacks. 
+Define “real solo queue”.
+    You’re not against stacks.
+probably not because every other solution is exploitable. the current system sucks but it's still the least bad system, unfortunately. there's no good answer.
+
+for example, if having a leaver on your team made you lose less rank, then players would be incentivized to have a member of their group intentionally leave in order to preserve the rest of the group's rank, or players would be incentivized to bully strangers into leaving. plus, wintrading would be even more effective than it is now.
+They should just implement a surrender system. That way you don't have to play through the entire game if it is unbalanced as fuck or if someone left the game.
+    Yeah, instead you’d get to sit through people starting a surrender vote before their team even left spawn when players picked heroes they don’t approve of.
+No
+OW1 version and OW2 version, perhaps?
+    Very well could be, I just haven’t noticed a difference between the two at all. I could have sworn I only had one contenders home and contenders away in the list before as well. Is there a really minor difference in the skins then?
+You mean the yellow overwatch coins right? If so, you get them from battle pass now, and it's free
+
+Before you would have to play every week and do every weekly challenge for the entire season to get 540 coins. Now you can get 600, the final reward is in level 79 of the bp, much easier/less grindier.
+    Now everyone will have a chance at not having a perfect number in their coins
+        me sitting on 630
+It's never changed for me, but I just tested it in training range and it seems to be tied to "show accuracy (weapon spread)".
+
+You have to go to options > controls > under "reticle" click advanced and then the first option should be "show accuracy (weapon spread)" turn that to on. If you don't want to turn it on for all heroes you can choose symm/winston specifically using the "change hero" button on the right of the controls settings.
+    I just checked and "Show accuracy (weapon spread) doesn't even show up if you use the simple dot reticle type. I've been using the dot since Overwatch 1. The show accuracy option does indeed bring back the charge indicator, however, if I change reticle type. 
+
+
+So I guess they removed that option for dot reticles? If that's the case, that's unfortunate. 
+Yes, the ‘mirror match’ on Assault, Escort, and Hybrid maps was a thing in QP as long as enough players stayed in the lobby between games.
+
+It stopped being possible when Role Queue was added, because RQ puts players to the back of the matchmaking queue for their chosen role/s when the match ends.
+I seem to remember something like that too, I think they might have stopped doing it at some point in OW1 though. Or maybe people just started leaving games before requeue most of the time.
+    It definitely wasn’t like that at the end of OW1, but I remember having a lot of quickplay “rematches” when I first started playing near launch.
+        the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+On launch you would play single-sided modes twice, just like comp. At some point this was changed so the match was complete after the first round.
+Yeah, if no one left queue, you'd literally get a rematch of the same teams (attacking and defending the same map, if appropriate). It would generally stay with the same teams for like 4 or 5 matches in a row until it decided to give you new friends to play with.
+
+At times, if one or two people left, it would rearrange teams to balance them out a little bit, so you could swap teams occasionally.
+
+It became hard to tell if this feature was dropped or if all the fanbase decided to leave instantly after the match causing it to be impossible. But I'm pretty sure it isn't a thing in OW2.
+    the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+They're all unlocked as of the beginning of S10.
+Bastion ult yes and it's very helpful, you just need to be boosting when he takes the shots.
+
+Junkrat ult no (tire is treated as a different entity to Junkrat).
+    Thanks!
+    That's good info 
+If you don't know yet, Mercy can't damage boost Hanzo's dragons, iirc.
+Idk for sure, but maybe the warning is time-related and not tied to the number of games you play?
+i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+The exp required increases every level until it caps out at 20, so yes it gets increasingly slower until 20 where it's then the same exp per level.
+The weekly challenge about this is also bound to be impossible to complete someday if the devs don't change anything about it.
+Can't get it yet because it hasn't been made available yet. It could appear in the shop in about 14-15 hours, if not just keep a look out at the shop for the coming week(s)
+Can't play comp with console and pc just non comp matches
+    they're all on console
+i've seen other posts saying it's a bug, and blizzard has confirmed that there's a bug with leaver penalties in comp, so it stands to reason there might be other related bugs. i wouldn't worry about it.
+Chrome is an enormous resource hog. Does it happen when you close your browser?
+    Yeah, it still happens. Thanks for the idea though.
+Generally good, but opinions differ. It might be more helpful if you told us your mains.
+    I played whoever, but my most played time was on Tracer, Sombre, Reaper, Cassidy, Widowmaker, Junkrat, Solider76, and Mei.
+        There was a hitscan buff that made projectiles somewhat bigger. DPS overall is strong, with a 20% healing debuff on recently damaged enemies. 
+
+
+Soldier 76 is pretty good since then. Junkrat and Cassidy is bad.
+            Why is cass bad? His range is pretty shit but the TTK is great, so I feel like hes still viable.
+I wouldn't yet the metas a bit iffy especially considering the new character
+your #1 tool for killing people is shooting them in the face after you punch them into a wall, not the punch itself. a common mistake i see from inexperienced dooms all the time is charging their punch too long. unless you have empowered punch, most of the time you should only charge punch either for the length of time it'll take to knock your target into the nearest wall or, charge it for the minimum possible time. your main goal is to make it as easy as possible for you to hit the follow-up gun headshots.
+    Very good advice, I've been making great use of this actually
+I wish I was better with him.
+In general your best and first defense as Mercy should be using Guardian Angel to dip when an enemy starts shooting you. Fly to a teammate in a position where they can't chase you, ideally, or use GA to get up into the air. 
+
+
+Pistol should only come out when you have no other options/nobody is defending you. It's your emergency weapon.
+>I don't know how to defend myself when I'm solo.
+
+Don't let this happen in the first place. Always group up with your team. If they die, you can try to pull out your gun to at least get some ult charge before you die. 
+
+Don't rez someone when your team already lost the team fight. Chances are that they're just gonna die again immediately and now you've fed the enemy ult charge.
+
+Also, one of the big things Mercy players need to improve on is positioning. If you're in a good position, you can just GA to any of your teammate for safety if you get ambushed. She has a 1.5s mobility ability for a reason.
+It seems like it basically gives everyone on the other team another big area where they can get headshot
+Have you tried verifying the game files?
+    Thanks for answering. I should have said it before. I did. Verified game files, uninstalled game and reinstalled.
+Same with g. drivers, deleted and reinstalled. Same situation.
+do you have any razer software? i know i've heard of it causing problems like that before, but i haven't seen it myself so i can't help much more than pointing you in that direction.
+    nope
+even when the meta doesn't favor him, you always have the possibility of just hitting headshots on cass and forcing him to be effective no matter what. i think venture's reliance on their abilities makes them more sensitive to changes in balance.
+
+if you have the patience, you could wait until the mid-season update and see if blizzard makes any big changes to venture's balance. that'd also give you time to see if people learn to adapt to venture (making them harder to play and potentially less fun) or if you get better at them.
+
+i know this isn't what you asked, but personally i would go with venture simply because they're new and because their cosmetics are quite lacking whereas cass has a ton of great skins with cool-looking guns already.
+You have to join it when u pick your hero
+    I feel like I do that and I still never hear anyone? Idk, I may not be doing something right
+        Go into your audio settings, you might have it off
+it's an elo-based ranking system. winning or losing is the only thing that affects your rank, not how well you play.
+I believe that won't happen until Season 11 or 12. Why they announced it this early and/or why they dont just implement it now, I dont know.
+    Oh okay. Thanks for the info. 
+omg thank you for asking this ive been waiting for it everytime theres an update😭
+One of the best ways to reach the developers is by making a Twitter account and tagging them, I once got a response from Aaron there.
+
+Another thing you can try is go to certain Twitch streams where the developers are often around, like emongg. Gavin is very often there and I also got responses from him after I gave him my feedbacks.
+
+Other than that, you can try making a post on their official forum or reaching out to their CS.
+(ok I see the avoid thing might be sorted next season, but I still have other issues lol)
+    Not next season s12 so around September 
+You can post on the official forum, but in my experience matchmaking is just bad at the start of every season.
+I receive reports, there is a long lag so I have no idea of the details.
+Trash so trash. Sombra being meta is fucking miserable for everybody
+Orissa has so much sustain if you double pocket her she never dies.
+No, the Steam Deck is considered to be a PC; you use a PC launcher to access the game, and you’re put into the PC matchmaking pool.
+    Thanks. Now I can use it without stressing.
+They’re fine, you just need to spend some more time learning how they’re played and why their weaknesses are.
+No
+    why?
+Queue tank lol
+Lol that was it.
+Venture's ult ignores shield unless you're ulting, their dash ignores shield, they have high damage on their melee which ignored shields. You get hit once and all they need to do is dash into you to kill you, regardless of shields.
+
+Believe me, I have 600 hours on Brig. My shield dancing/timing is pretty good. But between the "favor the shooter" and Brig's shield's ridiculous bugs, it's impossible half the time to do anything against them.
+    I would try the shield method during ult.  I'm sure your great but nobody has more than a couple of weeks of play time against her.  Here's a \[thread\](https://www.reddit.com/r/Competitiveoverwatch/comments/1brea9y/what\_do\_you\_do\_against\_ventures\_ult/) that mirrored your question.  it's before the patch so Venture has been tuned down since then.   I wish you best of luck!
+I'm not even doing the one shot combo. I'm just playing normally, and it feels like I just die if I try to do anything. I've gone against Ventures who are able to do that, but whenever I try, I just melt. It's honestly a little demoralizing. I wanted Venture to be a new main, but I don't know if I can do that because it sounds like I just suck.
+    You've just gotta put in time with the hero same with any other. One those controls are second nature, you'll be dominating.
+I 2nd this
+It’s more annoying when it wasn’t an “EZ” game for them.
+You’re not against stacks.
+Yeah, instead you’d get to sit through people starting a surrender vote before their team even left spawn when players picked heroes they don’t approve of.
+Very well could be, I just haven’t noticed a difference between the two at all. I could have sworn I only had one contenders home and contenders away in the list before as well. Is there a really minor difference in the skins then?
+Now everyone will have a chance at not having a perfect number in their coins
+    me sitting on 630
+I just checked and "Show accuracy (weapon spread) doesn't even show up if you use the simple dot reticle type. I've been using the dot since Overwatch 1. The show accuracy option does indeed bring back the charge indicator, however, if I change reticle type. 
+
+
+So I guess they removed that option for dot reticles? If that's the case, that's unfortunate. 
+It definitely wasn’t like that at the end of OW1, but I remember having a lot of quickplay “rematches” when I first started playing near launch.
+    the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+Thanks!
+That's good info 
+they're all on console
+Yeah, it still happens. Thanks for the idea though.
+I played whoever, but my most played time was on Tracer, Sombre, Reaper, Cassidy, Widowmaker, Junkrat, Solider76, and Mei.
+    There was a hitscan buff that made projectiles somewhat bigger. DPS overall is strong, with a 20% healing debuff on recently damaged enemies. 
+
+
+Soldier 76 is pretty good since then. Junkrat and Cassidy is bad.
+        Why is cass bad? His range is pretty shit but the TTK is great, so I feel like hes still viable.
+Very good advice, I've been making great use of this actually
+Thanks for answering. I should have said it before. I did. Verified game files, uninstalled game and reinstalled.
+Same with g. drivers, deleted and reinstalled. Same situation.
+nope
+I feel like I do that and I still never hear anyone? Idk, I may not be doing something right
+    Go into your audio settings, you might have it off
+Oh okay. Thanks for the info. 
+Not next season s12 so around September 
+Thanks. Now I can use it without stressing.
+why?
+I would try the shield method during ult.  I'm sure your great but nobody has more than a couple of weeks of play time against her.  Here's a \[thread\](https://www.reddit.com/r/Competitiveoverwatch/comments/1brea9y/what\_do\_you\_do\_against\_ventures\_ult/) that mirrored your question.  it's before the patch so Venture has been tuned down since then.   I wish you best of luck!
+You've just gotta put in time with the hero same with any other. One those controls are second nature, you'll be dominating.
+me sitting on 630
+the feature was removed when they added role queue since they had to basically remake the whole matchmaking system and the vast majority of players left instantly anyway.
+There was a hitscan buff that made projectiles somewhat bigger. DPS overall is strong, with a 20% healing debuff on recently damaged enemies. 
+
+
+Soldier 76 is pretty good since then. Junkrat and Cassidy is bad.
+    Why is cass bad? His range is pretty shit but the TTK is great, so I feel like hes still viable.
+Go into your audio settings, you might have it off
+Why is cass bad? His range is pretty shit but the TTK is great, so I feel like hes still viable.

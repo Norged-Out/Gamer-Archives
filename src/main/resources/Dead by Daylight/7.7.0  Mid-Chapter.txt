@@ -1,0 +1,1825 @@
+[[7.7.0  Mid-Chapter]]
+
+
+https://preview.redd.it/yla5h11u18wc1.png?width=1000&format=png&auto=webp&s=a7ac2d94f4bc3dc6632b112189511b45c0f037ac
+
+# Features
+
+**Game Engine Update**
+
+* Game engine was updated to Unreal Engine 5. This update will have no effect on gameplay or in-game graphics and serves as a foundation for possible future improvements.
+* Due to the engine update, overall game file size has been reduced by \~18Gb on Xbox Series S|X and PlayStation 5.
+
+# New Store 
+
+* New Store available, replacing the previous one 
+   * Featured Page: Latest releases and Chapters, and the addition of the Weekly Gift feature.
+   * Weekly Gift: Allows players to claim free rewards during multiple weeks, if activated. Rewards are renewed per week, meaning that unclaimed ones are discarded when the week is reset.
+   * Specials Page: A dedicated page to show all special offers currently available in the game.
+   * Collections Page: Houses all Collections that exist in the game, and shows their content. Players can also unlock Cosmetics directly from there!
+   * Bundles Page: Showcases special bundles available for unlocking, Chapter bundles (previously known as DLC Chapters), and the new DLC Packs. Bundles can be opened to review their content before unlocking them, although not yet in the case of DLC Packs.
+   * Killer and Survivor dedicated Wardrobes: New separated independent pages for Killers and Survivors that allow for quick Mix and Matching of Characters and their Cosmetics.
+* Mix and Matching specifics
+   * Players can now select Characters and Cosmetics without having to equip them immediately. 
+      * Clicking on an option allows players to preview the Character or Cosmetic.
+      * Selecting the Character or equipping the Cosmetic confirms their choice.
+   * Being able to preview allows players to preview pieces from different locked and unlocked Cosmetics, mix and matching options to be able to "try them out" before unlocking them.
+   * Players can now filter their Cosmetics with different options, and are able to show all options that are currently unavailable!
+* Previewing Perks, Powers and Moris 
+   * Players now can open a little section that displays the Power and Perks of any Character that is currently selected, allowing for a smoother way to review and compare their Characters' gameplay.
+   * Players can now preview every Killer's Mori, including with the Mix and Match Outfits! This way players can check out how their Cosmetic choices are going to look during the Mori!
+   * Visceral Outfits are going to show their own version of their Character's Mori.
+* Bio pages for Characters 
+   * These were made a part of the Characters' Wardrobes.
+   * They showcase the Characters' lore, height, speed and Terror Radius size. Power and Perks were moved to the Power and Perks window.
+* Common 
+   * Unlocking is now done with a press and hold mechanic to allow for a confirmation process free of pop ups.
+   * The section for getting more Auric Cells can now be accessed through the Store, and it can also be accessed by clicking the Auric Cells counter on the top right corner of the screen.
+   * Kill switched options are going to be available for unlocking, yet we are making sure to communicate it with a pop up for players to confirm they still want to proceed.
+   * Search bars have been included in most sections to allow finding Characters, Collections, and Cosmetics easier.
+   * Added a celebration pop up to better communicate that players have unlocked content or earned a reward at the Store.
+* Shrine of Secrets 
+   * The Shrine was taken out of the Store and placed in the Characters' lobbies, to be closer to the loadout and Bloodweb.
+   * The layout was updated to be easier to read and use, providing key information without the need to hover on any Perk option.
+
+https://preview.redd.it/tyki5hs898wc1.jpg?width=1000&format=pjpg&auto=webp&s=ef05bea1bdc0445d2c57ced5129b042cca1e17eb
+
+# Match's Details Menu
+
+* The Match Details Menu now allow players to review Perks.
+* During a match, when opening the Match Details window (Escape on computers), players can see their equipped Perks.
+* Hovering on Perks and Offerings allow players to see the tooltips and read their description.
+
+https://preview.redd.it/g4o3mgpc98wc1.jpg?width=1000&format=pjpg&auto=webp&s=c2aa304047bc875cc7478955d66c397ee0f41d1e
+
+# Content
+
+# The Archives
+
+* Tome 19 "SPLENDOR" - Level 1 opens April 23rd at 11:00:00 AM Eastern Time.
+
+https://preview.redd.it/2n4gvm2g98wc1.jpg?width=1000&format=pjpg&auto=webp&s=e500c91f40c60df489665d0ffb9a4c6c6c87c176
+
+# Killer Update - The Twins
+
+* The Visual Terror Radius accessibility setting will now include Victor’s grunts. *(NEW)*
+* Victor will now glow red whenever he is vulnerable to being crushed and white when he is not. *(NEW)*
+* Charlotte can now recall Victor at any point while he is unbound. *(NEW)*
+* A new icon has been added to indicate the moment when Victor can be recalled. *(NEW)*
+* Decreased the time it takes to switch back to Charlotte to 1.5 seconds. *(was 3 seconds)*
+* Decreased the time it takes to unbind Victor to 0.75 seconds. *(was 1 second)*
+* Decreased the time it takes to charge Victor’s Pounce to 0.85 seconds. *(was 1 second)*
+* Increased the cooldown for Victor to come back after being crushed to 10 seconds. *(was 6 seconds)*
+
+**Add-Ons:**
+
+* **Tiny Fingernail:** Decreases Victor’s Unbind time by 33%. *(was 50%)*
+* **Toy Sword:** Decreases Pounce charge time by 10%. *(was 20%)*
+
+**UX improvements**
+
+* **Power Widget:**
+* Victor's cooldown is now displayed.
+* Cooldown is now displayed at a decreased opacity.
+* Charlotte's Power icon updates to surface when recalling Victor is available.
+* Charlottes Power icon updates to surface the correct input when recalling Victor is available.
+
+https://preview.redd.it/rvvlvtaj98wc1.jpg?width=1000&format=pjpg&auto=webp&s=85d3c6d6c2882535bd733da7d0c08353cfec5e3b
+
+# Killer Update - The Blight
+
+* Improved collision detection to reduce cases where The Blight slides off objects.
+
+**Add-Ons:**
+
+* **Shredded Notes:** Decreases time to recharge a Rush token by 0.33 seconds. *(Removed downside)*
+* **Summoning Stone:** Increases the initial Rush duration by 0.5 second. *(Rework)*
+* **Soul Chemical:** Increases the initial Rush speed by 5%. *(Rework)*
+
+**UX improvements**
+
+* **Power Widget:**
+* Cooldown is now displayed at a decreased opacity
+* Cooldown now uses the consistent white colour
+* Cooldown is now displayed per charge
+* Rush duration is now surfaced
+* Time to perform a new Rush is now surfaced
+
+https://preview.redd.it/8qfhby3na8wc1.jpg?width=1000&format=pjpg&auto=webp&s=b09fc8ef69617cecff7f69c1a4cf344eab5d74b6
+
+# Perk Updates
+
+**Ultimate Weapon**
+
+* Now activates for 15 seconds *(was 30 seconds).*
+* Now reveals Survivor auras for 3 seconds instead of causing them to scream and show their position.
+* Increased cooldown to 80/70/60 seconds *(was 40/35/30 seconds).*
+
+**Decisive Strike**
+
+* Increased the Stun duration to 5 seconds *(was 3 seconds).*
+
+**Adrenaline**
+
+* Burst of speed now lasts 3 seconds *(was 5 seconds).*
+* Adrenaline no longer activates if you are hooked or carried when the Gates are powered.
+* Adrenaline no longer causes you to wake up when facing The Nightmare.
+
+https://preview.redd.it/h3g6b06qa8wc1.jpg?width=1000&format=pjpg&auto=webp&s=25ccbf67d01fce77eca4b29585c9b6a6e03029ad
+
+# Environment/Maps
+
+**Haddonfield - Lampkin Lane**
+
+The map has been difficult for the players to enjoy. We made the decision to update it, prioritizing gameplay quality. The length of the street was reduced, line of sight blockers have been added in the street, removed any closed houses, reduced the amount of tiles in the map, added gameplay and blockers on the border tiles. added openings in the main house to improve the navigation and the gameplay. and the park tiles have also been revisited.
+
+https://preview.redd.it/6cqa4wnta8wc1.jpg?width=1000&format=pjpg&auto=webp&s=ebe27e17ee701cd974694ce3884a6b99b4060512
+
+# Gameplay Mechanics
+
+* The Generator Damage interaction has been reviewed so that the Generator is actually damaged closer to the point where the hit lands to prevent letting go of the input early.
+
+# Emblems
+
+* It is no longer possible to lose a pip after a match.
+
+https://preview.redd.it/4n6sjqwwa8wc1.jpg?width=1000&format=pjpg&auto=webp&s=6978225157dd4bbf7d29cefcffd06ddc73adcf24
+
+# Bug Fixes
+
+# Audio
+
+* Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+* Fixed an issue that caused dead Survivors to be moaning after a Mori.
+* Fixed an issue that caused Pod breaking SFX being heard by the Killer at any distance.
+
+# Archives
+
+* Fixed an issue that prevented aura-reading related Challenges to not track progress properly, for example Caleb's Watchful Eye Master Challenge.
+* Fixed an issue that prevented The Dredge gaining progress on Challenges that required downing Survivors if the Survivor was grabbed during a locker teleportation interaction.
+* Fixed an issue that prevented The Hillbilly from gaining progress for the Blood Runner Master Challenge.
+* Fixed an issue where the Amateur Ornithologist Challenge would not award the correct amount of progress when startling a murder of crows in affected Realms.
+* Fixed an issue that caused the Botanist Extraordinaire and Here For You Challenges not to gain progress when healing from the Dying State.
+
+# Characters
+
+* Fixed an issue that caused The Trickster's vault animation through a window to jitter.
+* Fixed an issue that caused the male Survivor's flashlight aim to be lower than before.
+* Fixed an issue that caused Survivors to have to aim higher than Victor’s head to blind it.
+* Fixed an issue that caused the Exit Gate Entity spikes to disappear if Victor leaps on a Survivor near the Exit Gate while Charlotte is also near.
+* Fixed an issue that caused the Killer Instinct aura to show during The Twins Mori if Victor is nearby.
+* Fixed an issue that caused Victor and The Nemesis' Zombies to not be destroyed by the Head On Perk.
+* Fixed an issue that caused the Punishment score event to be granted when hitting a hooked Survivor with the Punishment of the Damned attack.
+* Fixed an issue that caused Bear Traps to float when placed under Survivors.
+* Fixed an issue that caused Killers to play the normal vault animation and start falling too early when vaulting into a drop.
+* Fixed an issue that caused Killers to fail to be Blinded by Firecrackers and Flashbangs when a downed Survivor is in front of the Killer.
+
+# Environment/Maps
+
+* Fixed an issue with the Crashed Bus where the Characters could not vault.
+* Fixed an issue with the Shack on Greenville Square where the Killer could hit through a visual blocker.
+* Fixed an issue in Lampkin Lane where the Zombies of The Nemesis could not navigate part of the map.
+* Fixed an issue that caused Bear Traps to clip inside a rock on the hill in Coldwind Farm maps.
+
+# Bots
+
+* The Knight's Guards will no longer get stuck on stairs.
+* Bots can now activate the Plot Twist Perk
+* Fixed an issue where bots were unable to interact with some Hex Totems in Léry's Memorial Institute and Midwich Elementary School
+
+# Perks
+
+* Fixed an issue that caused the Scourge Hook: Gift of Pain Perk to fail to apply more than once.
+
+# UI
+
+* Fixed an issue where Killers could see a random Grade displayed in their scoreboard in the tally screen.
+* Fixed an issue where the scale of the reward tooltip was not applied properly according to the option.
+* Fixed an issue where the search result of friends cannot be scrolled with a Controller.
+
+# Misc
+
+* Fixed an issue where players would not disconnect from their party when closing the game.
+* Fixed an issue where players could not block other players.
+* Fixed an issue that could cause Survivors to be unable to unhook after cancelling an unhook interaction.
+* Fixed an issue that could cause Survivors to become unhookable if they had previously unhooked themselves just before reaching the struggle stage.
+
+https://preview.redd.it/zyzvxoodb8wc1.jpg?width=1000&format=pjpg&auto=webp&s=51c0b32a12c0cbec554150bae9cce15f9dff08a9
+
+# Known Issues
+
+* Due to the internal engine changes, update download size is bigger than usual, since the game needs to be re-downloaded.
+* The "i" button that opens up the selected Character's lore is removed. This information will be again available in a future update
+   * Lore is still accessible through the Store, using the "Bio" subtab on Characters' wardrobes
+* Charles Lee Ray is sometimes invisible to some players POV.
+* Victor can sometimes not be crushed by pallets.
+* Due to the internal engine changes, update download size is bigger than usual, since the game needs to be re-downloaded.
+
+https://preview.redd.it/tfkl75agb8wc1.jpg?width=1000&format=pjpg&auto=webp&s=63787a3c83aa941f9d182a418c157032f25b9872
+
+# Public Test Build (PTB) Adjustments
+
+# General Updates
+
+* Reverted the unhook interaction to being cancellable.
+
+https://preview.redd.it/7gdhkxkjb8wc1.jpg?width=1000&format=pjpg&auto=webp&s=352b4d0a5144df603c1a95875b1de13c0da2861f
+
+# Killer Updates - The Twins
+
+* Reverted most of the changes that were on the PTB, except the quality of life changes listed above.
+
+**Add-Ons:**
+
+* **Rusted Needle:** Crushing Victor when attached inflicts Hemorrhage until healed. *(Reverted)*
+* **Sewer Sludge:** Increases time to crush Victor when attached by 2 seconds. *(Reverted)*
+* **Silencing Cloth:** Charlotte gains Undetectable for 20 seconds after waking from her dormant state. *(Reverted)*
+* **Weighty Rattle:** Crushing Victor when attached inflicts Broken for 20 seconds. *(Reverted)*
+* **Iridescent Pendant:** Crushing Victor while he is dormant inflicts Exposed for 45 seconds. *(Reverted)*
+
+https://preview.redd.it/vz1768bob8wc1.jpg?width=1000&format=pjpg&auto=webp&s=b600d3c5a6d315674d01bebc352440cffe0ad4a7
+
+# Killer Updates - The Blight
+
+**Add-Ons:**
+
+* **Summoning Stone:** Increases the initial Rush duration by 0.5 second. *(was 1 second)*
+* **Soul Chemical:** Increases the initial Rush speed by 5%. *(was 10%)*
+
+# Perk Updates
+
+**Decisive Strike**
+
+* Removed the new stabbing animation.
+
+https://preview.redd.it/kt6aqu4rb8wc1.jpg?width=1000&format=pjpg&auto=webp&s=e495e2b71c9fe15535d11de12bc5d14277d4ce20
+
+# Bug Fixes
+
+* Fixed an issue that caused Killers to bypass the Decisive Strike stun by immediately dropping Survivors.
+* Fixed an issue that caused the pallet break effects to play several times when pulling down a Dream Pallet.
+* Fixed an issue that caused Charles Lee Ray to be invisible during multiple interactions.
+* Fixed an issue that caused The Twin's Silencing Cloth Add-On not to grant undetectable when Victor is crushed stunned by any means.
+* Fixed an issue that caused a discrepancy between male and female Survivor running vault distances.
+* Fixed an issue that caused Survivors animation to stop playing during the Naughty Bear's Mori.
+* Fixed an issue that caused The Blight's legs to face the wrong direction when moving during the inject animation.
+* Fixed an issue that could cause a crash when quitting the game.
+* ⁠Missing a healing skill check then cancelling the heal no longer causes the healing animation to loop indefinitely.
+* The Dead Hard perk no longer causes Survivors to A-Pose during the special animation run when activated.
+* The Dramaturgy Perk no longer causes Survivors to A-Pose during the high-knee run when activated.
+
+
+**Moderator note:**
+
+> ##[Bug Reports & Tech Support: Update 7.7.0 | Mid-chapter](https://www.reddit.com/r/deadbydaylight/comments/1cbaay6/bug_reports_tech_support_update_770_midchapter/)
+>Bots can now activate the Plot Twist Perk
+
+We're doomed
+    Wonder what would happen if you gave them no mither and plot twist.
+        You can use plot twist only once
+            I just mean if they'll try to heal even though they couldn't. Like how in the past I've seen bots with Urban Evasion constantly move while crouching.
+            I thought you could infinitely use it but could only self res once
+                If I recall correctly you can drop to the ground infinitely as long as you don’t pick yourself up. 
+
+Even with Unbreakable or No Mither, Plot Twist gets used if you get up without help from others, and you won’t be able to Plot Twist again.
+            [deleted]
+                It has always been like that, because as soon as you get yourself up by any means, plot twist deactivates
+    It's over
+Low key lol with current shrine having UW, Adrenaline, and DS. All three perks that got changed.
+    they should do this everytime there’s a perk update (if this is the new norm now, great!)
+        They have been doing this for a long time. Sometimes the day a change is announced sometime the week before or often just like this
+        It would be even better to rework the Scam of Secrets
+            Honestly if they want to prove that this game isn't pay2win they should make every perk available to buy and the shrine of secrets should just offer some perks for a reduced price every week
+                Very much agree with that. 
+
+I know the only reason it’s shit is to get you to just buy the survivors straight up and I hate that
+    i'm glad it did lol, UW was the only thing that interested me in the Aliens pack, now i can buy it like that
+        Same been waiting for it to show up in the shrine and to my surprise it was there today.
+    yall dont have everything unlocked?
+Its funny to me that its possible that territorial bug could have been in the game for a while and it took sables with their basement perks and eager killers to recently discover it ![gif](emote|free_emotes_pack|joy)
+    I hate that, but damn that's funny to think about
+    I was just coming to say, I wonder how long that's been in the game. I've seen two Territorial Imperatives in the wild in my whole life and it was someone doing Huntress Adept who didn't even use it the first time, and the second was on someone doing Otz' Basement Demogorgon.
+    What Bug? I didn't see it in the perk bugs
+        * Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+            Is it a sound effect that's similar to a hex/totem being cleansed?
+        It’s under audio - essentially survivors were able to hear the audio queue for Territorial.
+    What bug are you referring to?
+        * Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+>The Dead Hard perk no longer causes Survivors to A-Pose during the special animation run when activated.
+
+L update?
+    Dead Hard's biggest nerf
+    Shit patch. Put it back in the oven.
+        uninstalling dbd rn. Can't believe this update went live
+    >No T pose during Dab Hard  
+  
+Game = bad?
+        Very bad
+So endurance is still bugged?
+    I really hope not and they just forgot to include it.
+    Possibly not.
+
+BHVR tends to leave stuff out of the patch notes.
+        Why do they do that? Last night I encountered this bug for the first time where I filled the wiggle meter while being carried, and the bar just disappeared without me escaping the killer's grasp. I really want to see game-changing issues that like or endurance be fixed.
+            Why BHVR leaves things out of the patch notes? Not sure.
+
+The bug you mentioned is an old one caused by the killer pressing the hook prompt and something blocking it at the same time, causing the game to bug out.
+
+Possibly they fixed it this update, but I'm not sure.
+                That must be it. It was right in front of a hook but a teammate was trying to block it/take a hit. Still, for something that's apparently old they should get around to doing something about it.
+            Were you dropped and picked back up? I run flip flop and if my wiggle ever exceeds 100% then I get this bug consistently.
+                No, it must be what the other guy said. It was right in front of a hook but a teammate was trying to block it/take a hit.
+        But they included the increased update size multiple times (even under the same category) ![img](emote|t5_3cb2g|2213)
+    Just tested it and they fixed endurance.
+    What is the endurance bug? I've not heard of this.
+        It wasn't going away after you take a hit with it.  You could mend and still ha e endurance.  It didn't effect 99% of perks but OTR was very abusable.
+            Oh, that would explain how some of my games went. I thought people somehow were stacking endurance. Turns out they were just cheating by exploiting a bug.
+    I feel like this needs to get fixed soon. As more people learn about it, the more people are going to start taking advantage of it.
+    How's it bugged?
+RPD is broken!  [The interrogation room has broken collision at the pallet, you can't break it if you're on a specific side of the stun](https://www.reddit.com/r/deadbydaylight/comments/1cb8xw4/pallet_in_the_interrogation_room_on_rpd_is_broken/)
+    Interestingly I had a similar bug on Hawkins last week
+Rubberbanding seems to have gotten so bad its outright unplayable.
+    yeah im seeing a lot of little glitches like that. Some rubberbanding, sometimes after vaulting a palklet im stuck for like half a second.. hoping for a hotfix soon
+    It’s so bad, I’m rubberbanding all over the place 
+    The game is literally unplayable for me because of it.
+    My first match I had some rubberbanding. My second match I had none of it.
+
+Let me try another one and I will report.
+
+Edit: Seems fixed to me.
+    OH NO I REMEMBER THAT DARK COUPLE OF MONTHS A FEW YEARS AGO
+Someone has experienced performance issues? My characters freeze and kinda stutter while running or doing any quick action
+    I'm having freezing and stuttering. Smh. I can't even repair in peace, the game or lobby even crashed when it happened. People are also disconnecting or crashing from it.
+    Yeah it's so bad
+    my fps got cut by over half, it's fucking awful
+    after playing 1 minute game(because it was unplayable), dbd managed to fuck up my pc and had to alt f4, and restart...
+The upgrade to Unreal Engine 5 is the best and unexpected change for me. I was hoping they would start the migration to the new engine. This could take a lot of work, but it will bring so many quality of life updates to DBD, better graphics/textures, better performance, better netcode (lower lag). I can't wait to see all the new ways they will improve the game’s performance in the future.
+    Possibly setting hackers back…
+        Yep all the current cheats are confirmed to not work on UE5
+            Oh thank God. I was so sick and tired of them; I hope now games will be more fair. I tend to get a lot of speedhackers and subtle cheaters, IDK if I'm at a higher MMR or the cheating is just that rampant.
+
+The funny part is they're doing it against Ghostface and Onryo, Killers that already struggle in long chase. What, these cheaters are so bad they seriously can't outloop a dude with a knife and nothing except stealth?
+            Explains my current games.
+            Give it a week
+        You meant \*cheaters. Hackers gives the impression that they have some sort of competence in something.
+            The cheaters get their scripts from the people who write them.  Hackers would be the ones writing those scripts
+    >better performance
+
+Surely
+    Spaghetti code is still there though, probably will take a lot to add new features.
+    And fix sound, half of the time you cant even hear survivors running on good headphones. Its hit or miss since release in 2016.
+        Honestly yeah 90% you can hear them but sometimes it's really weird
+    But vaults are really laggy now. I hope they will fix it.
+    >better performance, better netcode (lower lag)
+
+Certainly hasn't been my experience lmao
+    We will finally get non-humanoid killers?
+    Yes, technically all these things are possible, but I'm not getting my hopes up. Think how many characters, cosmetics, maps, etc are in the game. You really think they're going to remake those instead of pumping out more new cyber whimsigoth neon glorage cosmetics they can sell?
+        Yes they’ve literally done it before, no reason to assume they wouldn’t again
+>Ultimate Weapon
+>Now activates for 15 seconds (was 30 seconds).
+>Now reveals Survivor auras for 3 seconds instead of causing them >to scream and show their position.
+>Increased cooldown to 80/70/60 seconds (was 40/35/30 seconds).
+
+Is this a typo? I thought they made it centered around locker you open for screams.
+    Behaviour said in the developer update last Thursday that the aura reading version would remain in this patch, then in a future hotfix, they plan to change it back to the scream version. I guess they couldn't implement the newest version in time for the update to go through verification for all platforms.
+        ohhh okay fair enough then. Maybe they want to test both out and see which they feel works better and is more fair. Appreciate the information :D
+    Wasn't gonna make it this patch apparently.
+    Why increase the cooldown that much when making it a significantly weaker perk?
+        They are only capable of double nerfing perks
+        Because it's a killer perk.
+        Just how they be with nerfing super meta perks. They did the same thing with dh and mft (especially mft tbh)
+            I'm sorry, those aren't even comparable. UW is completely dead now. DH is still one of the best perks in the game and MFT is a very solid B-tier that you can get consistent use out of in an anti-tunnel build, especially paired with DH. It's just not *completely* effortlessly overpowered but is still absolutely usable. The new UW with the crazy cooldown for a 32m locker scream sucks total ass and has no use cases.
+                Lol if you honestly think mft is b tier but uw isn't in your mind. That's on you. They both got nerfed hard. Try running mft and lmk if you get value
+                    I see many survs run MFT and get value.  Don't know what you're smoking.
+                        If you say so. I never see it anymore 🤷‍♂️
+                    I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+                        If you say so. Then agree to disagree
+                            He's right.  Especially against some killers, getting into deep wound is easy.
+        I would be cool with the cool down reversion if they would reduce the blindness or completely remove it.
+    Yes this. I'm so confused, what happened?
+Make the dead hard t pose a thing i beg you
+    I would run DH every time if this were a thing. I would let any Surv that does it go if this were a thing.
+        Fr
+Im not seeing anything about de-pips. Just to confirm, they were indeed removed right?
+    > Emblems
+> 
+> 
+> 
+>     It is no longer possible to lose a pip after a match.
+        Ohh weird. I ctrl+f pip earlier and didn't find any match
+            It was unintentionally left out and we added it back! We appreciate everyone who brought it to our attention.
+            There's a lot of people asking so maybe they edited it in there late.
+                Yea that was def edited in haha
+                    Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+    We can confirm they are removed. ![img](emote|t5_3cb2g|2066)
+        We can confirm you are all getting hatch and cookies for it ♥️
+        Thank you!!!
+        can you confirm you are fixing the rubberbanding and disconnects that are making your game literally unplayable?
+        Could you please make the meet your maker t-shirts available again to celebrate the jump to unreal 5. What's the harm, and you'd get free advertisement for MYM as well.
+        What is the logic behind this move?
+Like even before this, it was dumb that you couldn't drop from idk say iridescent 1 to iridescent 2? 
+I get that rank Is not connected to MMR in any way. I'm just confused with bhvr's thought process on this. It's completely meaningless. Might as well remove rank and just give 1-2m bps to everyone on the 13th and be done with it.
+            Yes, happy to clarify! As the Emblem system is utilized for mostly rewards these days, we did not want players to feel needlessly punished by losing a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. Also, this also frees the Limited Modifiers from causing players to lose pips in an environment intended for enjoyment without worrying about depipping in the process.
+            It's a community request.
+
+In gold/iridescent grades it was very frustrating to play tough matches  where you barely managed to squeeze 1 pip and see it gone in the following matches because the opponent dominated you, singled you out or your team quit.
+
+You'd play for several hours and often times it would go like this:
+
++0, +0, +0, +1, +0, +0, -1. 
+
+OR
+
++0, +1, +0, +0, +1, +0, -1, -1.
+
+Depipping in addition to being frustrating when lost in matches that were completely out of your control, it caused several hours of play time to be a waste of time in terms of progression to Iridescent 1.
+                I know, believe me I know this, I have 4000 hours of gameplay. But this new system is now completely meaningless
+                    It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+    Also here to check on this, that was going to be one of the best/most important changes in this update...
+This update is 38GB on PS5.
+
+The Internet in my area is so bad, it's stating a 17-hour download time.
+
+Gg me.
+
+See you bois on the other side.
+    And I thought my 3 hours was bad nough.
+
+Praying for you bro😭
+        Thanks, bro. 😭😭😭
+
+Wtf do I play this evening?
+            Fallout New Vegas
+
+
+Currently I am having a blast, highly recommend
+                Patrolling the Entity's Realm almost makes you wish for a Scourge Hook Winter.
+                Thanks for the recommendation!
+                That's what I'll be doing too!
+                    What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+            I am playing Fo4 with like 310+ mods rn
+        Oof, here I am with like 10 min to download, the install/verification on Steam is what takes time for me lol. 💀
+            My country has hardcap of 100mb/s speed limit for personal use and even that's rather expensive to keep😭
+                Damn what country do you live in? Sounds way behind, I am sorry. :(
+                    Georgia, the one in Caucasus below Russia.
+    Ill see you next update
+        ![gif](giphy|8FG705NCsZM0kVJdyz|downsized)
+    it was 28GB for me
+    I know that feel. I used to have 300kbps on a good day. I once saw it drop down into bits territory
+    i remember when it was like that every single update
+    It's 44.85GB on on XBOX ripppp
+    ![gif](giphy|D8xNev92dfqdG9FPx4|downsized)
+My game has an insane amount of lag/jitter performance wise.  It became borderline unplayable after the update, is anyone else experiencing it?
+
+Edit: According to streamer Ayrun, the lag might be due to the game having to render the map for the first time in the new engine. That might be fixable by simply playing every map/variation once.
+    Yes, on my first match. On my second one, it was normal.
+        I had to enable Vsync, cap at 60 FPS and remove anti aliasing to remove the issue....
+            Damn I'll try that. It's been awful.
+    Shader compilation is supposed to mitigate this.   It doesn't seem to be working.
+    I’ve played several games as survivor and killer before and after restart the computer, update drivers and all that and the problem persist :c is insufferable to play
+        Try playing around with settings. What fixed it for me was the vsync but it destroyed performance and the skill check delay was crazy. Had to balance with disabling anti aliasing
+            I’m gonna try that :c thanks
+> The map has been difficult for the players to enjoy.
+
+That's one way of putting it.
+    I liked it a lot  for wiggle builds  hiding in the basement and wiggling out was my fave thing about this game
+UE5? Sooo does that mean we're gonna see ray tracing someday? Would love that.
+    Vomit filters with ray tracing, let's go.
+        Vomit filters?
+    Cooler fog. :D
+    Some better gore too I hope
+        Turns out the only visual upgrade they go through with is making the vommy mommy's puke have fluid physics and then nothing else.
+            This would unironically be great because it would open the door to it having better hitboxes
+No one has mentioned this and there has been no comment about the custom game perks being gone. If it's intentional, it's just VERY inconvenient
+    yeah it's really annoying
+It’s official. UW became uWu (*´ω｀*)
+jesus  christ, after playing this is one of the buggiest patches i have played in a long ass time, rubberbanding, invisible colisions, failing animations and more
+So they did end up changing ultimate weapon to aura reading in the end?
+    Yes, and next patch they will revert it back to screaming.
+It's already announced.
+    I actually like the aura version ;-;
+        *\*sad "I wanted to make people scream when they don't know where Ghostface is when he opens a locker" noises\**
+I would rather be able to read my challenge I have for the game then the perks. Specially since I’m family with Dory and keep forgetting what challenge I chose to do every damn game
+Missed 4 skills check before realizing input were reverted to default
+Anyone else having lots of lag and stuttering with the new update?
+    It’s insanely stuttery on the switch. PS5 seems fine so far from what I can tell by 3 games.
+    Rubberbanding like a mother fucker on ps5. Also, if I run down through a line a corn on Coldwind the corn like, knocks me around.
+They only left 2 of the twins addons changed ????
+    [deleted]
+        Though those changes kinda make the two addons base kit now, don’t they?
+        They feel really good now though, acaullty play them before you complain.
+ADD CROSS PROGESSION
+Why did you buff Blight addons
+    Because they can't actually nerf their favorite child without compensate him
+    They buffed addons because they "improved collision" in other words deleted "hug tech" if i remember correctly
+        God help blight if he doesn't get compensatory buffs
+            I think it's moreso damage control to distract from their recent trend of removing some form of skill expression every patch
+    They were literally nerfed from the PTB and they weren't even that good to begin with lol.
+    Buff? They are garbage for their rarity. At least they were unique before.
+The game runs at fixed 120 fps now for me.
+
+It seems to have some video lag from time to time (maybe it's on my end?).
+
+Pallet breaking animations seems mismatch to the action. It also seems to do 3 sounds instead of default two.
+
+Trapper traps sometimes seem to be floating.
+anyone else having lag or graphic jitters when vaulting through a window as killer?
+    Yes, everyone.
+Playing on PS5 and I’m constantly rubber banding in place :/
+We would've understood if you guys focused this update on upgrading the engine.  
+This game is unplayable rn. Next time, it would be nice if you just focused the entire update on making the engine work.
+Bite the Bullet and Endurance is still bugged, fun stuff...
+    I knew Endurance was, what was the bug with BtB?
+        It randomly doesn't work and others can still hear the healing effects and grunts of pain.
+        Wanna know too
+    FR! The bite the bullet bug is making me so upset and they still haven't acknowledged it :c
+Will updating to unreal engine 5 effect the performance for low end pcs? My partner's pc only just managed to run the game as it was.
+    They've claimed that there will be no noticeable change to performance.
+        Well it did affect for some people, a lot of weird lags happening now
+            I mean, 12hrs ago I didn't know this. But now? Oh baby I'm rubber banding all over the goddamned place. Back to Helldivers.
+    When I tried it out on the PTB, it looked exactly the same, and I would argue that it ran a little bit better too.
+    If the PC's bottleneck was multithread management on a low end CPUthen this will help them. UE5 has built-in thread management that probably outclasses whatever spaghettiesqe nonsense DBD used originally to optimize it
+        She's been playing today, and so far so good. However she did get a weird glitch after a match, her screen was flickering. She streams on twitch and had OBS open so it's possibly related to that as she hasn't encountered it again since.
+            I had this too. Screen flickering bright white, really annoying. Happened 3 times now during the end screen. I wasn’t streaming and i play on a PS5.
+                Yeah that's exactly what happened, white flickers. Weird.
+    Depends on the computer. On mine, and others, the game hard crashes to the point the pc needs a hard reboot.   
+
+
+Lots of reports of lag/rubberbanding, but I don't know if it's PC related.
+    I just might be unlucky, but my PC was making a noticable amount of more fan usage / noise than I remember it doing before.
+
+Lowered my graphics from ultra to high. I seem to be getting good smooth frames, but.. the pool ol gal seems to be breathing a bit heavier these days. :/
+    It has affected performance, by a really noticeable amount.
+
+>Game engine was updated to Unreal Engine 5. This update will have no effect on gameplay or in-game graphics
+
+Guess I was dumb to think that they would improve in-game graphics. But it's not bad since they say it's for futur improvements.
+    well yeah, changing engines don't change your textures, they're the same, it can change the lighting but since they already did all lighting on UE4 i don't think they use new functionalities yet
+        Does that mean we will see darker or more realistically-lit maps, thicker fog, etc.? It looked like they improved the fog and darkness on some maps prior to this, starting around Lights Out and culminating in this.
+            Who knows, I doubt it, they didn't talk about this at all as far as I know so I'm not expecting this as much as I'm not expecting to see the perks of my teammates in lobby lol
+>Victor will now glow red whenever he is vulnerable to being crushed and white when he is not. *(NEW)*
+
+Why would he need two different colors? This only makes gameplay more confusing. It would make much more sense to make him glow only when vulnerable.
+
+>**Rusted Needle:** Crushing Victor when attached inflicts Hemorrhage until healed. *(Reverted)*  
+>  
+>**Sewer Sludge:** Increases time to crush Victor when attached by 2 seconds. *(Reverted)*  
+>  
+>**Silencing Cloth:** Charlotte gains Undetectable for 20 seconds after waking from her dormant state. *(Reverted)*  
+>  
+>**Weighty Rattle:** Crushing Victor when attached inflicts Broken for 20 seconds. *(Reverted)*  
+>  
+>**Iridescent Pendant:** Crushing Victor while he is dormant inflicts Exposed for 45 seconds. *(Reverted)*
+
+So, basically, the Twins are back to only having 3 good addons?
+    This is the most baffling part. Twins addons were complete fucking dogshit outside of Cloth, Toy Sword, Nail and the stews. Why would BHVR not change the ones that were useless and actively detrimental? 
+
+This is the laziest rework I've seen.
+        >This is the laziest rework I've seen.
+
+Still better than the GOJ rework.
+            They reworked GoJ? I honest to god can't remember because its still comically and absurdly survivor sided lmao
+                They unironically made it *more* survivor sided. Kind of like when they reworked Ormond.
+            GOJ?
+                Garden of Joy
+                Garden of Joy. That one map with red bushes and roots, one of the strongest main buildings in the game, and insane loops overall.
+    At least happy that they reverted silencing cloth since that nerf would have killed it if they kept it.
+Am I the only one who gets the game stuck in the loading screen?
+    No I'm there with you too
+        It worked on steam after verifying files but still took a lot of time!
+Any chance rift cosmetics that are older than a year will make it into the store for shards sometime soon? There are a few I've been wanting that I missed out on but I feel like BHVR has just forgotten about them at this point which is really disappointing. I'd be willing to buy them for cells even if they actually came to the store.
+
+Not being able to buy them at all though after all this time just because I missed a rift is really frustrating.
+    Rift cosmetics do come back to the store eventually. How soon is up to behavior but they should at some point come back.
+I don't know if this is some kind of placebo effect but it does seem like the Switch port is running significantly better, it's way more stable now. I know you guys didn't changed graphics, so maybe this is due to Unreal Engine 5 being more optimized ? 
+
+Either way the experience on Switch feels more stable, thanks :D
+    It affected PC too. The game runs at fixed 120 fps on my low end pc now.
+        It wasn't better on my laptop during the PTB.. Will try it later today !
+Glad de-pipping was removed, I think that’s a great change!
+I am so endlessly thankful for them changing it so I won’t lose pips due to unfair players. This will make the game so much more fun 🩷 love love love it
+    I love that I now can run more fun builds before I get to iri1. I also don't feel too bad for learning Killers I'm not good with. I usually tried them when I have no pips to lose. It also doesn't feel too bad to get tombstoned now :)
+        Agreed I used to never play solo q because it was auto d pip now I can play if my friends aren’t online 🤣
+    Same couldnt be happier
+        I'm so happy, maybe now I can finally merely play my main (Ghostface) and let myself lose and not worry about it knowing I will probably be fine next round. I can try more builds and go for more weird things with him and not have to always sweat for the fucking 4k just to not depip. I can play him more relaxed and NOT depip because everyone and their grandma is running hardcore meta.
+
+This is an absolute W for me as an M1 Main. I just hope it means everyone else sweats less too, and we see LESS meta overall dominate because people don't need to sweat as hard to win either side. Absolute W change.
+It's more than a little concerning that at least three gamebreaking bugs have been in the live game for weeks, if not months, and none of them appear in the bug fix list.
+
+This is on top of any that may have been introduced from the PTB or this update.
+There is DEFINITELY a graphic quality change on Xbox (for the worse). Auras look like shit now
+    PC looks a little different too. Same settings as before.
+Bruh the game is unplayable. 😭 The stuttering is so bad I can't even repair in peace. One game even crashed and I'm seeing a people disconnect every match I' don't know if it's because of the stuttering too or if they just got kicked out of the match cause I also had a match kick me out.
+None of the links in this post work.
+    They usually don't (probably a reddit thing), but I'd imagine they're all just headers, and not actual information or anything.
+They literally just turned ultimate weapon into darkness revealed like it’s literally the same with just different cool downs :/
+    [deleted]
+        Scream with the radius being the locker is my understanding.
+I’m happy they are giving twins the QoL changes we’ve asked for, though I’d really love for them to update us on the future of the twins rework. My concern is these improvements won’t change the twins core slugging play-style.
+My update is still loading, are the "Weekly gifts" something you only get if you buy cells or something actually worthwhile
+    Nope! It's free and I received 300k BP.
+        Thank god, I saw the kate head and thought that was supposed to be the weekly gift, thanks for the information! \^\^
+            No problem! The Kate head is the free gift if you buy the cells from the shop. Similar to the Knight head or Clown knife in the past
+                Or the Dwight Beanie.
+>**Ultimate Weapon**
+
+>Now activates for 15 seconds *(was 30 seconds).*
+
+>Now reveals Survivor auras for 3 seconds instead of causing them to scream and show their position.
+
+>Increased cooldown to 80/70/60 seconds *(was 40/35/30 seconds).*
+
+I'm confused. Is it still follows the killer or is it centered around initial locker? What about all this "it's insane on high mobility killers" talk? I just don't get it. Was that reverted?
+    In the developer update last week they said the PTB version would remain in this patch and will be changed to the locker-centered version in a future patch.
+        Both nerfs make UW dog shit now.
+anyone else think its kinda sad that they flat out removed the new stab animation though? like i get what the problem was, but the animation itself was a cool idea and im afraid it will lead them away from trying fun stuff like this again
+    Did they take it out because it technically made the stun duration shorter?
+        apparently
+Holy fuck my pc doesn't turn into a jet engine in the menu anymore. This is huge.
+PSA: idk if anyone else had issues, but to purchase auric cells, you need to click on the bottom right monetary value to purchase. I tried clicking the image like 30 times only to find out you need to click a tiny PART of the image
+I love the weekly gifts in store! Hopefully we'll see Irridecent shards being gifted out in those weekly gifts since they can take quite some times to accumulate, especially with how many amazing cosmetics there are now. A nice little 2000 Irri shards once a month would be nice!
+    Given how bad this update is, especially the strobe effect, were def getting some some free stuff so keep an eye out.
+Victor can be recalled instantly even if he's latched onto a survivor. That's a huge problem.
+    literally one of the changes they made, because smart survivors would hold him hostage for 30 seconds
+        Because holding him hostage was direly necessary to have breathing room.
+
+It's an undocumented and hopefully unintended change that will soon be remedied.
+            [deleted]
+                Unbound means not bound to Charlotte or a survivor. It would go without saying that Victor has to not be bound to Charlotte to be able to recall him, so it's obvious the reason "unbound" is specified here is that it pertains Victor not being tied to a survivor. That change had also already been in on the PTB, and yet Victor could not be recalled while latched onto a survivor, further suggesting this is not what is meant here. And finally, if this were intended to also apply when Victor is latched onto a survivor, there would not be a 10-second timer until you can recall, because that is not "at any point". They simply reduced the time-to-recall from 30 to 10 seconds, without noting this.
+
+There's also another undocumented, notable buff: Victor now moves faster after a successful hit, making him harder to kick.
+                    well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+                        I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+THEY REMOVED DEAD HARD POSING NOOO
+the map of the raccon city is bugged. sadako get stuck in the tv's. omg!! fix that.
+Switch players rejoice, the update I'd playable!
+Im not sure if Haddonfield is actually worse or if it just feels worse due to how insignificant the changes are. The problem isn't just the length of the street, its the damn width. The houses are far from the curb and the street is still comically wide. If you hit a survivor at the front door of one house, they will actually be able to enter a house across the street before you reach the opposite curb. I don't want to have to play a mobility Killer every game because of the chance of being sent to this map, its like they only want Hillbillies, Blights and Weskers to be picked every game.
+Crashing after match. 
+
+https://preview.redd.it/hz14cbt2oawc1.png?width=460&format=png&auto=webp&s=0f51b9aa7a4465e64e2e4005c2c1bc7ede65c62b
+Not sure if this is a bug or intentional. 
+
+I purchased (blindly) each piece of the guts outfit for bill (7200 shards). Each piece on its own was 7200. The whole outfit is 7200 shards. Should those individual pieces have been less? Closer to 2500 a piece?
+    Likely what happened was you bought the first 2 pieces, then looked at the outfit price. The outfit price was then showing the price for only the last piece.
+
+Correct me if I assumed wrong.
+A rocky update but it's to be expected with an engine update. Some nice little changes here all in all.
+Saying "UE5 won't have any effects on the image", fortnite glitches and my screen flickers which does not happen in any other game except UE5 games
+Can victor be kicked while he downs a survivor because he still turns white??
+Why does the game take SO MUCH time to load now? Shaders are supposed to be compiled only the first time you open a game, not every single time.
+Controller vibration on PS5 no longer works.
+Don’t forget the invisible objects they added in every map to get stuck on 👍🥲
+Some survivors are missing Deja Vu?
+Noticed on:
+Sable
+Alan
+Nic
+Ellen
+
+Anyone else running into this, or notice other perks are missing?
+Roll back the update, the game is unplayable with the lag teleporting you everywhere.
+This lag right now is making the game unplayable.
+# the new update almost broke my PC(that's a new record!)
+
+Ok so, today i downloaded the new update, and was willing to try out the new changes(was mostly interested in the twins).
+
+I started the game, and the loading screen was a bit weird...like.. it took a bit to load and it stuttered quite a lot, but i thought that it was "normal" since the new engine update, then it finally loaded the game.
+
+Went to the menu, picked the twins, start match, 1 min of queue, and then the the match finally starts .....and....my god, besides the absurd lag( the survivors also confirmed the unusual lag), all my controls where completely messed up! W was left, S was up etc etc and even the maus controls where screwed! in short...a big mess...
+
+And for some reasons, my keyboard wasn't responding! it was working, but it was just typing random letters/numbers!(i remmeber that spacebar was typing the B letter!)...in the end, i had to restart my pc, but the keyboard was still buggy, had to unplug and plug it back, then everything went back to normal.
+
+before you say "maybe it's you pc",keep in mind that i was gaming for few hours before starting dbd, everything was absolutely 100% fine, i never ever had such problems or any kind of weird/strange problem in years...everything started after playing dbd...
+
+am i the only one?
+    this happened to me too, almost exactly, except for the keyboard inputs being mixed up. I mean I wasn't expecting my controls to be reset to default but still lol. however my entire computer froze and I had to do a hard reset
+        i swear..everytime i say "they can't do worse" YET everytime  i'm wrong....  
+  
+how can some developers manage to do a job so, so bad and shitty, that their game manages to fuck up your own pc/console! how!
+
+and when i call them incompetents, people yell and downvote me saying that i'm toxic...jesus christ, these people are making money with a game that is held by some shitty spaghetti code that can implode any update and every update manages to be "tecnically speaking" worse than the previous one(with tons of new bugs, killswitchs and more), every freaking time!, and some people still side with BH!!....
+This last version is bugged as hell
+"Game engine was updated to Unreal Engine 5. This update will have no effect on gameplay or in-game graphics and serves as a foundation for possible future improvements."
+
+Might want to recant that one.
+Yay I love a 33gb patch that will take a day and a half to download. But all worth it for no longer de pipping, so glad that shit is gone it's been way too long.
+    where do you live ?
+        Countryside, so I get only a handful of mega bytes a second on good days. Government promised fibre cables years back but that was even before Covid put a wash on everything.
+            i have very bad connection as well but i live in middle east and there is no fibre here and for me its even impossible to play
+                Damn I'm sorry to hear that friend. I understand the frustration.
+                    hope you get fibre soon 👍
+                        Me too! Fingers crossed haha
+    It was 1 hour and 40 minutes for me. Could've been worse :)
+Ultimate Weapon is still on the menu! Distortion stocks will skyrocket now
+    nobody will use ultimate weapon its trash now 3 second aura reveal for 60 min cooldown i would rather use anything else than UW
+    Yaaayyyy we love distortion players
+        Aura reading Pyramid Head in shambles (that’s me, I’m aura reading Pyramid Head)
+            Aura slinger mains are in shambles (thats me, im aura slinger mains)
+Who the actual hell  thought *this* was the change Haddonfield needed?
+
+It's not a neighborhood anymore. It's so empty now! There's what, *one* house on one side of the street? Got matched against a Hillbilly and he had free reign. Just remove the map altogether if *this* is the best you can do. Erasing some buildings and squashing the street so it doesn't even look like a cul-de-sac, let alone a normal neighborhood street.
+
+I'm doing survivor tome stuff but I'm not gonna enjoy it on killer now either. It was lame on both sides before but it's just... *nothing* now. I'll set my controller down and survivors can have a simple win.
+
+I refuse to play on that map. Do better than this, BHVR. I know that's asking a monumental amount, especially given how anemic this mid-chapter patch is, but holy hell. I didn't see any PTB footage of it so going in really shocked me. It's just atrocious.
+
+Also, just faced a Twins player. They're still kill-yourself-on-1st-hook fights, btw. I jumped in a locker right by a hook so they just decided to throw me on it while the rest of my team was crawling around. Lucky me. Sure glad we waited years for a rework only for them not to address the main complaint leveled at the character. GGs boys, time and money well spent.
+
+And let's not forget the pointless engine change. 'Cause god, sure, why not just make a ton of new problems when you're too fucking stupid and lazy to fix the existing ones. Let's just dogpile more on top of those. Everyone enjoying the **constant hitching while running around**?! How about the full 1+ second delay between slamming a pallet and getting to move again? Boy those sure do make the game fun!
+
+The word 'incompetence' has a photo in the dictionary now it's just these patch notes.
+The new Haddonfield map seems to be pretty killer sided. There are like maybe 3-5 safeish pallets on the map and the rest are completey unsafe. I played a skull merchant game and never had to kick a single one. The new main building loop is completely countered by bamboozle. I don't understand how any killer can get ran on that map for longer than a minute. These new unsafe pallets with 3 feet of walls on both sides are so pointless and dont actually do anything.
+    Yeah I got it tonight as Pig and probably could've ended it at 4 gens left easily if I wasn't taking the time to look around and check it out. I'll give it some time for people to figure out the looping, but it might be killer sided now.
+        I think I would honestly rather have more Killer-sided maps than the absolute abundance of Survivor-sided maps we had before, but it's still not fair. At least now I won't dread loading into this map as an M1 Killer. I don't think it's fair and I hope they adjust it; maps should not be overly sided. But if you're GONNA have maps be sided, at least balance it so roughly 1/3 favor Killer a bit, 1/3 favor Survivor a bit, and the last 1/3 are balanced.
+So the update makes it smaller on next generation but somehow makes my Xbox one version 30 GIGS larger? What the fuck?
+    It is a full-redownload of the game and does not increase the size. It should be roughly the same size as it is now.
+        Please tell me that the game is still running in native 4K on PS5 like it did before the UE5 patch.
+That's all I really care about.
+
+I'm worried.
+        My Xbox needed me to delete 14 gigs to "make space" for the 30 gig update. Will that space be clear or is there an issue?
+            Just delete the game and redownload it.
+
+The game needs to save space for the new engine and will download itself first and delete the present version later if you don't install it from scratch.
+                Tad late, but I appreciate the info. 
+
+Sorry, Arkham Asylum. I will re-download you!
+                    Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+            It is common practice to reserve extra space for download + installation, then it should clear up again once it's finished.
+            It's pretty normal for many systems to need extra space free for updates even if the file size is smaller in the end.
+    This is entirely a "you" problem, get a bigger hard drive babe.  Fucking duh
+        What I appreciate most about that completely reasonable reply is that you were so on tone with what was happening. You didn't rudely snap at an innocent question from a stranger or react in a spastic and spontaneous thread of weird angry insults. That would be really bizarre.
+What the heck is going on with Ultimate Weapon? I thought they announced they were going to keep the screaming but lock the activation radius to the locker rather than the killer?
+    Not this patch, the next patch should. They told about this earlier.
+        Thanks I though that so, but I don't understand why they don't also include that information with these patch notes. It's insane you have to follow every post to have any idea what is going on with this game.
+            Yeah this is common. Usually with patch notes they forget to show all the changes they made (which can confuse people).
+
+You have to get used to that, unfortunally.
+    Either way, UW is dogshit now (and I guess in the future)  Honestly getting better value out of darkness revealed.
+MORE FENG COSMETIC = LESS MONEY IN MY BANK ACCOUNT. LETS GOOOOOOOO
+They should make it so survivors can unhook cancel a maximum of 3 times, after that they're completely locked in the unhook animation. This way you can still bait a hit while also preventing griefing.
+Pinhead FOV during power is still bugged
+Love how they took away losing pips but then broke the game into an unplayable state so I can't even gain pips either <3
+i think you can no longer tell which survivor brought a certain offering. W change.
+    I dislike it. Now I have to punish all of them for taking me to Badham. But seriously, yeah, it looks like the order of offerings has been randomized.
+[deleted]
+    There should never be mechanics to prevent griefing. Just report and go next.
+Is the Leader perk still bugged?
+    How is Leader bugged?
+        It works even when someone is dead. So if at the hook they were sacrificed on you still get Leader perk benefits
+            like a helpful ghost? that's hilarious
+                we desperately need a perk that helps your team once you're dead (and no, im not meaning sole survivor)
+                    yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+omg yay Botanist Extraordinaire fix, i’ve been trying to work on that all weekend.
+If we get hit by the bug that stops Victor from being able to move, will recalling him reset it?
+The new store looks amazing and I'm really excited for the new game engine. I think the flood gates have been opened on what's possible with the graphics of the game now.
+Anyone tested this on Linux?
+    LOL
+>Fixed an issue that caused the Scourge Hook: Gift of Pain Perk to fail to apply more than once.
+
+Does it still use pre-6.1.0 slowdown values?
+They forgot to add the Tanuki trophy to PS4
+Anyone else not able to purchase Auric Cells?  System will just not let me select…
+    You have to click the price instead of the whole picture now. Took me a solid 30 clicks of frustration to figure that one out
+[deleted]
+    The animation where the survivor hits the generator and when the generator takes damage and regresses were slightly off. The Dev's have moved the animation to be more in sync with when the generator actually gets damaged.
+        feels like smashing gens is faster, can't confirm though
+Any possible chance of cross-progression?
+    Possible? Yes.
+
+Likely? Hell no.
+        I've been trying to be as positively hopeful, but boy is that getting hard.
+Can’t wait to see all these changes in game after school. The store is gonna look amazing.
+Guys I have a question, what does soul chemical do? Is initial speed only the first rush or all the rushes? If it’s only the first rush it’s useless and if it’s all the rushes adrenaline vial is simply better, what’s the point of its current effect? Let’s talk about summoning stone, half a second of extra rush time is nothing, if you want rush duration run ring, it’s the same rarity but 100x better, who made these addons
+https://preview.redd.it/lbi7rctuh9wc1.png?width=2077&format=png&auto=webp&s=08fbd697be7e0ebbc84f6041b25b1a41286342c9
+
+Unusual bug: the scene and character unrenders if you use snipping tool in the new store
+I hate this new ui. Its such a chose to navigator through the store
+wait they reverted silencing cloth, nm we're so back
+Waiting for the nurse pov bug to get fixed xD
+Has it been stated somewhere which type of gifts we'll get weekly? I would be very happy if we got at least a thousand iri shards sometimes
+I hope it's just bugs that appeared because of the recent update, but Thalita Lyra's hair, the character I always play as a survivor, in the Celebration Night skin her hair is stiff, when she's running injured her hair simply goes beyond the back of her head, before this update her hair remained normal. And also on the hooks, when they were going to take me off the hook, my character didn't turn towards the person who was unhooking me but rather towards the front of the hook. Is this normal for this to happen when a big update comes to the game?
+Thank god they reverted the stupid change to silencing cloth
+Usless lol yall will never cook again
+It takes a lot more time to load now is it just me?
+Is the selfcare/selfhealing bar not showing progress or the bite the bullet not working bug fixed?
+Did i miss it or they didnt fix or mention the off the record bug that can use it twice ?
+What does "Rush duration now surfaced" and "time to perform a new Rush is now surfaced" mean? Does that mean they show the timers for them around the power icon like when Wesker is in his bound window?
+    Yes. During rushes or the slam period the timer border on the power moves letting you know how much time you have left.
+        Oh, that's nice! I play nearly all of the killers, but I don't have a ton of Blight experience. I've been playing him more recently and I'm definitely a middling to bad Blight rn at best, and a visual timer would help bad Blight players like me a lot.
+Did they add any rift skins into the store? I’m waiting for ashy slashy to come back
+So I just returned to the game not too long ago. Used to play pc, now i play series x. The input latency when doing skill checks is horrendous. Is that just a thing console players have to live with or is there a way to improve that. On PC the input was instant. On a controller, i feel like i have to hit the button almost a quarter circuit ahead of time. Pain in the ass when the skill check is near the start of the circle.
+Holy fuck, am i the only one experiencing big input delay now? I can't hit great skill checks because of that it's absolutely horrendous. Initialization of shaders is really long too, but Ig it's because we had to redownload the whole game?
+I did the update and when I went to check my survivors I saw that I lost access to my stranger things collection as well as my ghost face collection so did I permanently lose them and I have to rebuy them or will they come back after a few days as I'm mad because I had Steve at prestige 12 demo at prestige 5 and ghost face at prestige 6
+They really going to revert the unhook cancel so it just ends up being a standoff again 🤦🏻‍♂️
+    Well it was a legit nerf, but survs cried hard....   Behaviour folded.
+Not in game as I have to work tonight but downloading the update now. Can anyone confirm how or what the new "pip threshold" screen looks like since depips are gone now?
+
+Is it flat removal of the black pip in the sense you only have one pip, two pip on the screen? Or did the thresholds of where the pips are get moved down, so that black is default, one is where black was, two is where one was? Or did nothing change?
+The Twins have actual cooldowns, this is the perfect mid-chapter for Twins. Praying I see more of them!
+I think it's the engine update, but holy shit my movements on console feel 100x smoother than they did yesterday.
+
+Anyone else notice an improvement on console?
+They reverted the ds changes but not the adrenaline changes?
+    Andrenlines "nerfs" were 100% stupidly useless.  It's still OP.
+Just out here making Blight no fun to play anymore lol
+40 gig update on ps btw
+40 gig update on ps btw
+Pain res is bugged and nobody is talking about it. Sometimes I hook people on their first hook and I don’t get the effect.
+    That's because there is no gen with progress.
+        Does it still consume the token in those circumstances?
+            No. The perk is only activated if there is a gen with progress (and is not blocked).
+Love the majority of the changes but very bummed to see that it still takes about 8 seconds to go from main menu into either killer or survivor (at least on series x). All the other menu transitions are more fluid though.
+I love everything about DBD. Thanks Devs!
+Blight feels so bad to play now. Loops where I could land hits I can't anymore. He's so dead
+Did I miss endurance in the notes? I didn't see it in fixed or known bugs
+day 7077 and Series X  still takes a fkn eternity to log in, creating lobbies and inviting players 🙄🙄🙄
+
+is this a thing on PS5 as well?
+    PS5 and switch load times are both horrendous
+        I can understand Switch taking long to load ( I sometimes play there too), but even with how underpowered it is, it still takes less time than my Series X. It's ridiculous
+Anyone have any idea how to get the Bloodletting shirt for Dwight? It says it's a chapter pack, but I literally own every single one when I scroll through the list. (FYI - Click Dwight shirts in the store, to see it's a lock and the location to buy it".
+    I have it - when you purchased an item from the physical store during the 2017 launch they sent the code to redeem it on an actual card with the item you bought as an exclusive gift. :) (I don't remember if it had to be a specific physical product since it's been years, but I bought the real Bloodletting shirt that matches the virtual skin for Dwight)
+ I want new character
+Does anyone else not have vibrations on controller anymore?
+I think object is bugged, first matches i played it worked as intended but after two or three games it stopped revealing my aura every 30 seconds but still revealed killer when mine was shown. It does seem random which matches it decides to do this since I finished one just now with it back to working.
+
+Edit: it looks like it can happen mid match as well
+    It's not the obsession changing mid match? Mine seems to be working okay
+        It's possible, although I feel like I would have heard the audio cue that it happened, since that's the main way I know the obsession switched.
+I notice the game functions a lot better and less lag in the menus on ps5. Probably due to the new engine?
+Still no mention of the bite the bullet bug -\_-
+    What's up with bite the bullet?
+Kindred auras look terrible to me on the new engine. Something just looks so off with them
+    They're like 20fps
+        That's it! That's what it's bothering me about them. I accidentally locked my refresh to 30 FPS when I first built my current pc and the auras are giving me flashbacks to that.
+>Due to the internal engine changes, update download size is bigger than usual, since the game needs to be re-downloaded.
+
+Bro do I need to redownload everything for the update or what? Camper wifi only can do so much.
+RAAAAH I FUCKING LOVE LAG RAAAAH WHAT THE FUCK IS A STABLE SERVER CONNECTION RAAAAH
+I dont understand. How the FUCK do you just casually switch engines? Is bethesda willingly stubborn? They could make a new version of creation?
+My custom input bindings on PC were reset for controller and I can't re-do them after this patch. When it says "press any button" and I press Left Trigger the page changes to Killer input bindings instead of saving to the action I want on survivor.
+> Game engine was updated to Unreal Engine 5. This update will have no effect on gameplay
+
+Not true.  Just like Fortnite, Fall Guys, and Witch It before it, Dead By Daylight updating to Unreal Engine 5 affected gameplay: https://imgur.com/a/IELxea0
+There is also a new hidden achievement on Steam not mentioned anywhere. Has anyone figured it out yet? I just completed all 248 achievements last night and now there’s one more x.x
+    Go to Yamaoka and find the tanuki! I pointed at it, but I don't know if that's necessary.
+        Oh thank you so much!
+Maybe add a favourite option one day. So we dont have to scroll for our fav killers and survivors
+    Most used killers/survivors should bubble to the top of the selection screen.
+Some sections on the store resets your last position of viewing index back to the top most or left most part. Tad annoying that.
+Is anyone else forced to update their entire game (35 gb)?
+    Yes, that's expected.
+Well adrenaline sucks now (was the hooked change really necessary)
+Am I the only one who noticed that character's postures are a little weird with this update?
+
+I mean, I'll admit I've been ogling Vittorio and Felix for the entirety of my playtime. And with this patch, they both look kind of out of place. I mean, I could tell right away. Vittorio looks kind of ok in the character setup and lobby. But his posture and movement feel kinda off.
+
+Felix, though. His right arm seems totally out of place. What's going on?
+Where is the shrine now-
+Is anyone enjoying the Haddonfield map rework?
+    Not really. I kind of liked the old one. Felt like a proper street.
+        Agreed. The map is extremely small now. The fact that you can enter every house now doesn't help survivors in the slightest. As a killer you only have to move your pinky toe and you're on the other side of the map.
+Rubber-banding since this UE5 update has been absolutely terrible, sadly...
+**Constant** server crashes in the middle of matches. Initializing Shaders takes 5 to 10 minutes or freezes entirely. Half of the time after the starting Trapper cutscene, the loading screen freezes. I went to sleep for 7 hours the other night and left the loading screen on. Woke up and it was still on. I never had any problem with DbD before. Now your update has ruined the game! If this were typical Bethesda I could simply roll back, but no I can't do that because it's online!  
+I never expected the same behavior from BVHR. **PLEASE FIX THIS UPDATE.**
+
+I pay money. For survivors. For killers. For cosmetics. I want to play the game!
+Everything is so laggy, what happened?!
+Fix the rubber banding please. This new update made the game work worse.
+no specific reason but uh how do you trigger Ada's glitch lmao
+* Added pokemon violet style stuttering for any model outside of 32m range.
+So is there going to be compensation for the degree of mess the game currently is?
+So on top of all the bugs and glitches already posted here's another one: 
+
+Due to the lag issues present in this issue, Terminus no longer counters adrenaline. Come on BHVR.
+The number "1931" is now written on the lower outside wall of the Thompson House. That's new, right? A hint at something?
+When shopping unpurchased killers in DbD, I can't see their perks anymore ): I used to be able to see their perks in the bloodweb, what stage they're at (if I'd bought them in Shrine before or not), but I think I can't do that now. Anyone else have a workaround?
+Are we unable to buy perks from the store now?
+My games broken after the update, won’t even get past loading screen before freezing
+Is depipping gone then now?
+    Lost to the winds, fallen into the void, forgotten with time
+    Yes
+Tbh, I'm just glad the Adrenaline nerf went through
+    Pfff, it hardly affects anything.
+        In my experience, this is a huge nerf
+            Pfff, it hardly affects anything.
+I don’t see it in the patch notes but the removal of depipping went live this patch right? Cuz I need that BAD as a solo queue player
+    It's stated right below the Game Mechanics section, it's labeled as Emblems.
+        Thanks for the help! Good to know I’m still blind!
+            Trust me, if I'm asked to look for the ketchup in the fridge, I give up before I even get to the kitchen.
+Right as I was working on adrenaline. Great
+    It’s still a great perk
+    Its one of the best perks in the game even after the slight nerf. Nothing to worry about
+    It dropped from best perk in the game to like the second best perk in the game. Calm down.
+        It was already less used than Windows at 50%, so I guess according to 95% of people WoO is the best perk in the game despite it just showing pallet/vault auras...
+            Usage rate indicates strength? Interesting argument. I suppose that means Myers and Huntress are S-tier, Nurse is C-tier at best, and Twins are the worst killer in the game.
+                That's not at all what I was saying here, and you damn well know it.
+    No worries.  The "nerf" to Adrenline was nothing and it'll still provide you with free (ez mode) late game escapes.
+I spent the last couple months perfecting my wiggle build on Haddonield annoying killers in the basement just for them to nerf the map lol
+    Good. Don't run annoying builds meant to tilt Killer players and you won't have this problem in the future.
+        lol that’s whole point for that build
+Gonna start running Terminus so that Adrenaline is basically unusable lmao
+UW with a three second aura reveal omg it’s so cooked. I’m not even a killer main and I’d rather have old UW back this is just cruel to them
+    UW is useless garbage now.  Should be renamed "Ultimately Useless Weapon".
+Oh this is a MID chapter alright...
+This patch is a mess. They completely reset/broke custom input bindings. I just played against a Chucky whose ghost was invisible, so we just floated when he picked me up. The visual terror radius does NOT include Victor's grunts like these patch notes say. He was right next to me and yet I saw nothing. I've seen almost one annoying, new bug per game today.
+why tf did they think Twins needed MORE buffs???
+Sorta a dick move to not put the "Doesn't work while on hook when gens are done" for Adrenaline. DS has it, no idea why Adrenaline doesn't.
+[deleted]
+    Something being "in the making" and simply "planned" are two different thing. IIRC, they never said they were actively working on an Update, just that it was on their to do list.
+
+Secondarily, their update was beefier at first, but everyone complained about it so they dialed it back.
+        Why did people complain, though? It made the twins not a completely unfun nightmare to face. Now they're just a significantly stronger unfun nightmare to face.
+            I believe people found them to be too strong, between the not latching with Victor, and Charlotte getting haste and stuff.
+
+I'm a console pleb, so I have no idea how they actually were in practice. I haven't even seen any videos, just people complaining. But, it is what it is I guess.
+                I appreciate the info! I wasn't watching the sub at all during the ptb but the removal of her "everyone is injured" snowball was fantastic.
+            It littrely made them stronger then Nurse what do you mean less unfun. Victor littrely had 0 counterplay.
+[deleted]
+    It's right below Game Mechanics section, labeled Emblems. You're not the first person to ask this, and I'm curious why so many people haven't seen it.
+Leave it up to bhvr to remove one of the most skill expressive cool mechanic in the game. Rip walltech blight, you were dope while you lasted.
+    Ah yes, the skill of bump wall, look down, slide and get a free hit
+        -said by someone who doesnt play blight
+lol I like under the ‘Known Issues’ part, they state the game needs to be re-downloaded twice. Is that bug in and of itself?
+Why did they buff blight
+when update when update when update
+    BHVR: "We'll get there when we get there!"
+
+Also BHVR to the Spaghetti code: "How're ya doin', honey?"
+the DS needs a nerf back to 3 seconds
+There has been a longtime issue with Knight when using his power, if you are using it and go to a pallet that is then dropped, even if your actual hero is nowhere near the pallet you’ll get stunned
+YIPPE ds is 5 seconds again time to wait till they gut it to play the game again
+What I experienced last night was a massive increase in survivors suiciding if things weren't going their way.
+Hmm I feel like the haste effect would of been fine on the twins. Only thing that was op about their changes was how fast victor could down someone. Would of been an answer to their desire to slug. But I'm glad they are less clunky, don't mind being slugged personally.
+Why is no one talking about the PIP changes? Now anyone could theoretically get to red ranks even if they’re bad right?
+    Bad players always could get to red, rank isn’t a skill indicator. But yes
+    I don't understand how anyone can be against removal of depips. Exactly what's wrong with people easily getting more BP each month so they can get better perks and possibly improve, while not being discouraged by loss or lack of progress? Why are we gatekeeping the slasher tag game?
+        I liked the old ranking system but maybe I’m just a salty old dbd player
+    Well survs and noobs needed "ez mode" to level up, so the devs obliged.
+Wonder what would happen if you gave them no mither and plot twist.
+    You can use plot twist only once
+        I just mean if they'll try to heal even though they couldn't. Like how in the past I've seen bots with Urban Evasion constantly move while crouching.
+        I thought you could infinitely use it but could only self res once
+            If I recall correctly you can drop to the ground infinitely as long as you don’t pick yourself up. 
+
+Even with Unbreakable or No Mither, Plot Twist gets used if you get up without help from others, and you won’t be able to Plot Twist again.
+        [deleted]
+            It has always been like that, because as soon as you get yourself up by any means, plot twist deactivates
+It's over
+they should do this everytime there’s a perk update (if this is the new norm now, great!)
+    They have been doing this for a long time. Sometimes the day a change is announced sometime the week before or often just like this
+    It would be even better to rework the Scam of Secrets
+        Honestly if they want to prove that this game isn't pay2win they should make every perk available to buy and the shrine of secrets should just offer some perks for a reduced price every week
+            Very much agree with that. 
+
+I know the only reason it’s shit is to get you to just buy the survivors straight up and I hate that
+i'm glad it did lol, UW was the only thing that interested me in the Aliens pack, now i can buy it like that
+    Same been waiting for it to show up in the shrine and to my surprise it was there today.
+yall dont have everything unlocked?
+I hate that, but damn that's funny to think about
+I was just coming to say, I wonder how long that's been in the game. I've seen two Territorial Imperatives in the wild in my whole life and it was someone doing Huntress Adept who didn't even use it the first time, and the second was on someone doing Otz' Basement Demogorgon.
+What Bug? I didn't see it in the perk bugs
+    * Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+        Is it a sound effect that's similar to a hex/totem being cleansed?
+    It’s under audio - essentially survivors were able to hear the audio queue for Territorial.
+What bug are you referring to?
+    * Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+Dead Hard's biggest nerf
+Shit patch. Put it back in the oven.
+    uninstalling dbd rn. Can't believe this update went live
+>No T pose during Dab Hard  
+  
+Game = bad?
+    Very bad
+I really hope not and they just forgot to include it.
+Possibly not.
+
+BHVR tends to leave stuff out of the patch notes.
+    Why do they do that? Last night I encountered this bug for the first time where I filled the wiggle meter while being carried, and the bar just disappeared without me escaping the killer's grasp. I really want to see game-changing issues that like or endurance be fixed.
+        Why BHVR leaves things out of the patch notes? Not sure.
+
+The bug you mentioned is an old one caused by the killer pressing the hook prompt and something blocking it at the same time, causing the game to bug out.
+
+Possibly they fixed it this update, but I'm not sure.
+            That must be it. It was right in front of a hook but a teammate was trying to block it/take a hit. Still, for something that's apparently old they should get around to doing something about it.
+        Were you dropped and picked back up? I run flip flop and if my wiggle ever exceeds 100% then I get this bug consistently.
+            No, it must be what the other guy said. It was right in front of a hook but a teammate was trying to block it/take a hit.
+    But they included the increased update size multiple times (even under the same category) ![img](emote|t5_3cb2g|2213)
+Just tested it and they fixed endurance.
+What is the endurance bug? I've not heard of this.
+    It wasn't going away after you take a hit with it.  You could mend and still ha e endurance.  It didn't effect 99% of perks but OTR was very abusable.
+        Oh, that would explain how some of my games went. I thought people somehow were stacking endurance. Turns out they were just cheating by exploiting a bug.
+I feel like this needs to get fixed soon. As more people learn about it, the more people are going to start taking advantage of it.
+How's it bugged?
+Interestingly I had a similar bug on Hawkins last week
+yeah im seeing a lot of little glitches like that. Some rubberbanding, sometimes after vaulting a palklet im stuck for like half a second.. hoping for a hotfix soon
+It’s so bad, I’m rubberbanding all over the place 
+The game is literally unplayable for me because of it.
+My first match I had some rubberbanding. My second match I had none of it.
+
+Let me try another one and I will report.
+
+Edit: Seems fixed to me.
+OH NO I REMEMBER THAT DARK COUPLE OF MONTHS A FEW YEARS AGO
+I'm having freezing and stuttering. Smh. I can't even repair in peace, the game or lobby even crashed when it happened. People are also disconnecting or crashing from it.
+Yeah it's so bad
+my fps got cut by over half, it's fucking awful
+after playing 1 minute game(because it was unplayable), dbd managed to fuck up my pc and had to alt f4, and restart...
+Possibly setting hackers back…
+    Yep all the current cheats are confirmed to not work on UE5
+        Oh thank God. I was so sick and tired of them; I hope now games will be more fair. I tend to get a lot of speedhackers and subtle cheaters, IDK if I'm at a higher MMR or the cheating is just that rampant.
+
+The funny part is they're doing it against Ghostface and Onryo, Killers that already struggle in long chase. What, these cheaters are so bad they seriously can't outloop a dude with a knife and nothing except stealth?
+        Explains my current games.
+        Give it a week
+    You meant \*cheaters. Hackers gives the impression that they have some sort of competence in something.
+        The cheaters get their scripts from the people who write them.  Hackers would be the ones writing those scripts
+>better performance
+
+Surely
+Spaghetti code is still there though, probably will take a lot to add new features.
+And fix sound, half of the time you cant even hear survivors running on good headphones. Its hit or miss since release in 2016.
+    Honestly yeah 90% you can hear them but sometimes it's really weird
+But vaults are really laggy now. I hope they will fix it.
+>better performance, better netcode (lower lag)
+
+Certainly hasn't been my experience lmao
+We will finally get non-humanoid killers?
+Yes, technically all these things are possible, but I'm not getting my hopes up. Think how many characters, cosmetics, maps, etc are in the game. You really think they're going to remake those instead of pumping out more new cyber whimsigoth neon glorage cosmetics they can sell?
+    Yes they’ve literally done it before, no reason to assume they wouldn’t again
+Behaviour said in the developer update last Thursday that the aura reading version would remain in this patch, then in a future hotfix, they plan to change it back to the scream version. I guess they couldn't implement the newest version in time for the update to go through verification for all platforms.
+    ohhh okay fair enough then. Maybe they want to test both out and see which they feel works better and is more fair. Appreciate the information :D
+Wasn't gonna make it this patch apparently.
+Why increase the cooldown that much when making it a significantly weaker perk?
+    They are only capable of double nerfing perks
+    Because it's a killer perk.
+    Just how they be with nerfing super meta perks. They did the same thing with dh and mft (especially mft tbh)
+        I'm sorry, those aren't even comparable. UW is completely dead now. DH is still one of the best perks in the game and MFT is a very solid B-tier that you can get consistent use out of in an anti-tunnel build, especially paired with DH. It's just not *completely* effortlessly overpowered but is still absolutely usable. The new UW with the crazy cooldown for a 32m locker scream sucks total ass and has no use cases.
+            Lol if you honestly think mft is b tier but uw isn't in your mind. That's on you. They both got nerfed hard. Try running mft and lmk if you get value
+                I see many survs run MFT and get value.  Don't know what you're smoking.
+                    If you say so. I never see it anymore 🤷‍♂️
+                I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+                    If you say so. Then agree to disagree
+                        He's right.  Especially against some killers, getting into deep wound is easy.
+    I would be cool with the cool down reversion if they would reduce the blindness or completely remove it.
+Yes this. I'm so confused, what happened?
+I would run DH every time if this were a thing. I would let any Surv that does it go if this were a thing.
+    Fr
+> Emblems
+> 
+> 
+> 
+>     It is no longer possible to lose a pip after a match.
+    Ohh weird. I ctrl+f pip earlier and didn't find any match
+        It was unintentionally left out and we added it back! We appreciate everyone who brought it to our attention.
+        There's a lot of people asking so maybe they edited it in there late.
+            Yea that was def edited in haha
+                Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+We can confirm they are removed. ![img](emote|t5_3cb2g|2066)
+    We can confirm you are all getting hatch and cookies for it ♥️
+    Thank you!!!
+    can you confirm you are fixing the rubberbanding and disconnects that are making your game literally unplayable?
+    Could you please make the meet your maker t-shirts available again to celebrate the jump to unreal 5. What's the harm, and you'd get free advertisement for MYM as well.
+    What is the logic behind this move?
+Like even before this, it was dumb that you couldn't drop from idk say iridescent 1 to iridescent 2? 
+I get that rank Is not connected to MMR in any way. I'm just confused with bhvr's thought process on this. It's completely meaningless. Might as well remove rank and just give 1-2m bps to everyone on the 13th and be done with it.
+        Yes, happy to clarify! As the Emblem system is utilized for mostly rewards these days, we did not want players to feel needlessly punished by losing a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. Also, this also frees the Limited Modifiers from causing players to lose pips in an environment intended for enjoyment without worrying about depipping in the process.
+        It's a community request.
+
+In gold/iridescent grades it was very frustrating to play tough matches  where you barely managed to squeeze 1 pip and see it gone in the following matches because the opponent dominated you, singled you out or your team quit.
+
+You'd play for several hours and often times it would go like this:
+
++0, +0, +0, +1, +0, +0, -1. 
+
+OR
+
++0, +1, +0, +0, +1, +0, -1, -1.
+
+Depipping in addition to being frustrating when lost in matches that were completely out of your control, it caused several hours of play time to be a waste of time in terms of progression to Iridescent 1.
+            I know, believe me I know this, I have 4000 hours of gameplay. But this new system is now completely meaningless
+                It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+Also here to check on this, that was going to be one of the best/most important changes in this update...
+And I thought my 3 hours was bad nough.
+
+Praying for you bro😭
+    Thanks, bro. 😭😭😭
+
+Wtf do I play this evening?
+        Fallout New Vegas
+
+
+Currently I am having a blast, highly recommend
+            Patrolling the Entity's Realm almost makes you wish for a Scourge Hook Winter.
+            Thanks for the recommendation!
+            That's what I'll be doing too!
+                What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+        I am playing Fo4 with like 310+ mods rn
+    Oof, here I am with like 10 min to download, the install/verification on Steam is what takes time for me lol. 💀
+        My country has hardcap of 100mb/s speed limit for personal use and even that's rather expensive to keep😭
+            Damn what country do you live in? Sounds way behind, I am sorry. :(
+                Georgia, the one in Caucasus below Russia.
+Ill see you next update
+    ![gif](giphy|8FG705NCsZM0kVJdyz|downsized)
+it was 28GB for me
+I know that feel. I used to have 300kbps on a good day. I once saw it drop down into bits territory
+i remember when it was like that every single update
+It's 44.85GB on on XBOX ripppp
+![gif](giphy|D8xNev92dfqdG9FPx4|downsized)
+Yes, on my first match. On my second one, it was normal.
+    I had to enable Vsync, cap at 60 FPS and remove anti aliasing to remove the issue....
+        Damn I'll try that. It's been awful.
+Shader compilation is supposed to mitigate this.   It doesn't seem to be working.
+I’ve played several games as survivor and killer before and after restart the computer, update drivers and all that and the problem persist :c is insufferable to play
+    Try playing around with settings. What fixed it for me was the vsync but it destroyed performance and the skill check delay was crazy. Had to balance with disabling anti aliasing
+        I’m gonna try that :c thanks
+I liked it a lot  for wiggle builds  hiding in the basement and wiggling out was my fave thing about this game
+Vomit filters with ray tracing, let's go.
+    Vomit filters?
+Cooler fog. :D
+Some better gore too I hope
+    Turns out the only visual upgrade they go through with is making the vommy mommy's puke have fluid physics and then nothing else.
+        This would unironically be great because it would open the door to it having better hitboxes
+yeah it's really annoying
+Yes, and next patch they will revert it back to screaming.
+It's already announced.
+I actually like the aura version ;-;
+    *\*sad "I wanted to make people scream when they don't know where Ghostface is when he opens a locker" noises\**
+It’s insanely stuttery on the switch. PS5 seems fine so far from what I can tell by 3 games.
+Rubberbanding like a mother fucker on ps5. Also, if I run down through a line a corn on Coldwind the corn like, knocks me around.
+[deleted]
+    Though those changes kinda make the two addons base kit now, don’t they?
+    They feel really good now though, acaullty play them before you complain.
+Because they can't actually nerf their favorite child without compensate him
+They buffed addons because they "improved collision" in other words deleted "hug tech" if i remember correctly
+    God help blight if he doesn't get compensatory buffs
+        I think it's moreso damage control to distract from their recent trend of removing some form of skill expression every patch
+They were literally nerfed from the PTB and they weren't even that good to begin with lol.
+Buff? They are garbage for their rarity. At least they were unique before.
+Yes, everyone.
+I knew Endurance was, what was the bug with BtB?
+    It randomly doesn't work and others can still hear the healing effects and grunts of pain.
+    Wanna know too
+FR! The bite the bullet bug is making me so upset and they still haven't acknowledged it :c
+They've claimed that there will be no noticeable change to performance.
+    Well it did affect for some people, a lot of weird lags happening now
+        I mean, 12hrs ago I didn't know this. But now? Oh baby I'm rubber banding all over the goddamned place. Back to Helldivers.
+When I tried it out on the PTB, it looked exactly the same, and I would argue that it ran a little bit better too.
+If the PC's bottleneck was multithread management on a low end CPUthen this will help them. UE5 has built-in thread management that probably outclasses whatever spaghettiesqe nonsense DBD used originally to optimize it
+    She's been playing today, and so far so good. However she did get a weird glitch after a match, her screen was flickering. She streams on twitch and had OBS open so it's possibly related to that as she hasn't encountered it again since.
+        I had this too. Screen flickering bright white, really annoying. Happened 3 times now during the end screen. I wasn’t streaming and i play on a PS5.
+            Yeah that's exactly what happened, white flickers. Weird.
+Depends on the computer. On mine, and others, the game hard crashes to the point the pc needs a hard reboot.   
+
+
+Lots of reports of lag/rubberbanding, but I don't know if it's PC related.
+I just might be unlucky, but my PC was making a noticable amount of more fan usage / noise than I remember it doing before.
+
+Lowered my graphics from ultra to high. I seem to be getting good smooth frames, but.. the pool ol gal seems to be breathing a bit heavier these days. :/
+It has affected performance, by a really noticeable amount.
+well yeah, changing engines don't change your textures, they're the same, it can change the lighting but since they already did all lighting on UE4 i don't think they use new functionalities yet
+    Does that mean we will see darker or more realistically-lit maps, thicker fog, etc.? It looked like they improved the fog and darkness on some maps prior to this, starting around Lights Out and culminating in this.
+        Who knows, I doubt it, they didn't talk about this at all as far as I know so I'm not expecting this as much as I'm not expecting to see the perks of my teammates in lobby lol
+This is the most baffling part. Twins addons were complete fucking dogshit outside of Cloth, Toy Sword, Nail and the stews. Why would BHVR not change the ones that were useless and actively detrimental? 
+
+This is the laziest rework I've seen.
+    >This is the laziest rework I've seen.
+
+Still better than the GOJ rework.
+        They reworked GoJ? I honest to god can't remember because its still comically and absurdly survivor sided lmao
+            They unironically made it *more* survivor sided. Kind of like when they reworked Ormond.
+        GOJ?
+            Garden of Joy
+            Garden of Joy. That one map with red bushes and roots, one of the strongest main buildings in the game, and insane loops overall.
+At least happy that they reverted silencing cloth since that nerf would have killed it if they kept it.
+No I'm there with you too
+    It worked on steam after verifying files but still took a lot of time!
+Rift cosmetics do come back to the store eventually. How soon is up to behavior but they should at some point come back.
+It affected PC too. The game runs at fixed 120 fps on my low end pc now.
+    It wasn't better on my laptop during the PTB.. Will try it later today !
+I love that I now can run more fun builds before I get to iri1. I also don't feel too bad for learning Killers I'm not good with. I usually tried them when I have no pips to lose. It also doesn't feel too bad to get tombstoned now :)
+    Agreed I used to never play solo q because it was auto d pip now I can play if my friends aren’t online 🤣
+Same couldnt be happier
+    I'm so happy, maybe now I can finally merely play my main (Ghostface) and let myself lose and not worry about it knowing I will probably be fine next round. I can try more builds and go for more weird things with him and not have to always sweat for the fucking 4k just to not depip. I can play him more relaxed and NOT depip because everyone and their grandma is running hardcore meta.
+
+This is an absolute W for me as an M1 Main. I just hope it means everyone else sweats less too, and we see LESS meta overall dominate because people don't need to sweat as hard to win either side. Absolute W change.
+PC looks a little different too. Same settings as before.
+They usually don't (probably a reddit thing), but I'd imagine they're all just headers, and not actual information or anything.
+[deleted]
+    Scream with the radius being the locker is my understanding.
+Nope! It's free and I received 300k BP.
+    Thank god, I saw the kate head and thought that was supposed to be the weekly gift, thanks for the information! \^\^
+        No problem! The Kate head is the free gift if you buy the cells from the shop. Similar to the Knight head or Clown knife in the past
+            Or the Dwight Beanie.
+In the developer update last week they said the PTB version would remain in this patch and will be changed to the locker-centered version in a future patch.
+    Both nerfs make UW dog shit now.
+Did they take it out because it technically made the stun duration shorter?
+    apparently
+Given how bad this update is, especially the strobe effect, were def getting some some free stuff so keep an eye out.
+literally one of the changes they made, because smart survivors would hold him hostage for 30 seconds
+    Because holding him hostage was direly necessary to have breathing room.
+
+It's an undocumented and hopefully unintended change that will soon be remedied.
+        [deleted]
+            Unbound means not bound to Charlotte or a survivor. It would go without saying that Victor has to not be bound to Charlotte to be able to recall him, so it's obvious the reason "unbound" is specified here is that it pertains Victor not being tied to a survivor. That change had also already been in on the PTB, and yet Victor could not be recalled while latched onto a survivor, further suggesting this is not what is meant here. And finally, if this were intended to also apply when Victor is latched onto a survivor, there would not be a 10-second timer until you can recall, because that is not "at any point". They simply reduced the time-to-recall from 30 to 10 seconds, without noting this.
+
+There's also another undocumented, notable buff: Victor now moves faster after a successful hit, making him harder to kick.
+                well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+                    I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+Likely what happened was you bought the first 2 pieces, then looked at the outfit price. The outfit price was then showing the price for only the last piece.
+
+Correct me if I assumed wrong.
+this happened to me too, almost exactly, except for the keyboard inputs being mixed up. I mean I wasn't expecting my controls to be reset to default but still lol. however my entire computer froze and I had to do a hard reset
+    i swear..everytime i say "they can't do worse" YET everytime  i'm wrong....  
+  
+how can some developers manage to do a job so, so bad and shitty, that their game manages to fuck up your own pc/console! how!
+
+and when i call them incompetents, people yell and downvote me saying that i'm toxic...jesus christ, these people are making money with a game that is held by some shitty spaghetti code that can implode any update and every update manages to be "tecnically speaking" worse than the previous one(with tons of new bugs, killswitchs and more), every freaking time!, and some people still side with BH!!....
+where do you live ?
+    Countryside, so I get only a handful of mega bytes a second on good days. Government promised fibre cables years back but that was even before Covid put a wash on everything.
+        i have very bad connection as well but i live in middle east and there is no fibre here and for me its even impossible to play
+            Damn I'm sorry to hear that friend. I understand the frustration.
+                hope you get fibre soon 👍
+                    Me too! Fingers crossed haha
+It was 1 hour and 40 minutes for me. Could've been worse :)
+nobody will use ultimate weapon its trash now 3 second aura reveal for 60 min cooldown i would rather use anything else than UW
+Yaaayyyy we love distortion players
+    Aura reading Pyramid Head in shambles (that’s me, I’m aura reading Pyramid Head)
+        Aura slinger mains are in shambles (thats me, im aura slinger mains)
+Yeah I got it tonight as Pig and probably could've ended it at 4 gens left easily if I wasn't taking the time to look around and check it out. I'll give it some time for people to figure out the looping, but it might be killer sided now.
+    I think I would honestly rather have more Killer-sided maps than the absolute abundance of Survivor-sided maps we had before, but it's still not fair. At least now I won't dread loading into this map as an M1 Killer. I don't think it's fair and I hope they adjust it; maps should not be overly sided. But if you're GONNA have maps be sided, at least balance it so roughly 1/3 favor Killer a bit, 1/3 favor Survivor a bit, and the last 1/3 are balanced.
+It is a full-redownload of the game and does not increase the size. It should be roughly the same size as it is now.
+    Please tell me that the game is still running in native 4K on PS5 like it did before the UE5 patch.
+That's all I really care about.
+
+I'm worried.
+    My Xbox needed me to delete 14 gigs to "make space" for the 30 gig update. Will that space be clear or is there an issue?
+        Just delete the game and redownload it.
+
+The game needs to save space for the new engine and will download itself first and delete the present version later if you don't install it from scratch.
+            Tad late, but I appreciate the info. 
+
+Sorry, Arkham Asylum. I will re-download you!
+                Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+        It is common practice to reserve extra space for download + installation, then it should clear up again once it's finished.
+        It's pretty normal for many systems to need extra space free for updates even if the file size is smaller in the end.
+This is entirely a "you" problem, get a bigger hard drive babe.  Fucking duh
+    What I appreciate most about that completely reasonable reply is that you were so on tone with what was happening. You didn't rudely snap at an innocent question from a stranger or react in a spastic and spontaneous thread of weird angry insults. That would be really bizarre.
+Not this patch, the next patch should. They told about this earlier.
+    Thanks I though that so, but I don't understand why they don't also include that information with these patch notes. It's insane you have to follow every post to have any idea what is going on with this game.
+        Yeah this is common. Usually with patch notes they forget to show all the changes they made (which can confuse people).
+
+You have to get used to that, unfortunally.
+Either way, UW is dogshit now (and I guess in the future)  Honestly getting better value out of darkness revealed.
+I dislike it. Now I have to punish all of them for taking me to Badham. But seriously, yeah, it looks like the order of offerings has been randomized.
+There should never be mechanics to prevent griefing. Just report and go next.
+How is Leader bugged?
+    It works even when someone is dead. So if at the hook they were sacrificed on you still get Leader perk benefits
+        like a helpful ghost? that's hilarious
+            we desperately need a perk that helps your team once you're dead (and no, im not meaning sole survivor)
+                yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+LOL
+You have to click the price instead of the whole picture now. Took me a solid 30 clicks of frustration to figure that one out
+The animation where the survivor hits the generator and when the generator takes damage and regresses were slightly off. The Dev's have moved the animation to be more in sync with when the generator actually gets damaged.
+    feels like smashing gens is faster, can't confirm though
+Possible? Yes.
+
+Likely? Hell no.
+    I've been trying to be as positively hopeful, but boy is that getting hard.
+Yes. During rushes or the slam period the timer border on the power moves letting you know how much time you have left.
+    Oh, that's nice! I play nearly all of the killers, but I don't have a ton of Blight experience. I've been playing him more recently and I'm definitely a middling to bad Blight rn at best, and a visual timer would help bad Blight players like me a lot.
+Well it was a legit nerf, but survs cried hard....   Behaviour folded.
+Andrenlines "nerfs" were 100% stupidly useless.  It's still OP.
+That's because there is no gen with progress.
+    Does it still consume the token in those circumstances?
+        No. The perk is only activated if there is a gen with progress (and is not blocked).
+PS5 and switch load times are both horrendous
+    I can understand Switch taking long to load ( I sometimes play there too), but even with how underpowered it is, it still takes less time than my Series X. It's ridiculous
+I have it - when you purchased an item from the physical store during the 2017 launch they sent the code to redeem it on an actual card with the item you bought as an exclusive gift. :) (I don't remember if it had to be a specific physical product since it's been years, but I bought the real Bloodletting shirt that matches the virtual skin for Dwight)
+It's not the obsession changing mid match? Mine seems to be working okay
+    It's possible, although I feel like I would have heard the audio cue that it happened, since that's the main way I know the obsession switched.
+What's up with bite the bullet?
+They're like 20fps
+    That's it! That's what it's bothering me about them. I accidentally locked my refresh to 30 FPS when I first built my current pc and the auras are giving me flashbacks to that.
+Go to Yamaoka and find the tanuki! I pointed at it, but I don't know if that's necessary.
+    Oh thank you so much!
+Most used killers/survivors should bubble to the top of the selection screen.
+Yes, that's expected.
+Not really. I kind of liked the old one. Felt like a proper street.
+    Agreed. The map is extremely small now. The fact that you can enter every house now doesn't help survivors in the slightest. As a killer you only have to move your pinky toe and you're on the other side of the map.
+Lost to the winds, fallen into the void, forgotten with time
+Yes
+Pfff, it hardly affects anything.
+    In my experience, this is a huge nerf
+        Pfff, it hardly affects anything.
+It's stated right below the Game Mechanics section, it's labeled as Emblems.
+    Thanks for the help! Good to know I’m still blind!
+        Trust me, if I'm asked to look for the ketchup in the fridge, I give up before I even get to the kitchen.
+It’s still a great perk
+Its one of the best perks in the game even after the slight nerf. Nothing to worry about
+It dropped from best perk in the game to like the second best perk in the game. Calm down.
+    It was already less used than Windows at 50%, so I guess according to 95% of people WoO is the best perk in the game despite it just showing pallet/vault auras...
+        Usage rate indicates strength? Interesting argument. I suppose that means Myers and Huntress are S-tier, Nurse is C-tier at best, and Twins are the worst killer in the game.
+            That's not at all what I was saying here, and you damn well know it.
+No worries.  The "nerf" to Adrenline was nothing and it'll still provide you with free (ez mode) late game escapes.
+Good. Don't run annoying builds meant to tilt Killer players and you won't have this problem in the future.
+    lol that’s whole point for that build
+UW is useless garbage now.  Should be renamed "Ultimately Useless Weapon".
+Something being "in the making" and simply "planned" are two different thing. IIRC, they never said they were actively working on an Update, just that it was on their to do list.
+
+Secondarily, their update was beefier at first, but everyone complained about it so they dialed it back.
+    Why did people complain, though? It made the twins not a completely unfun nightmare to face. Now they're just a significantly stronger unfun nightmare to face.
+        I believe people found them to be too strong, between the not latching with Victor, and Charlotte getting haste and stuff.
+
+I'm a console pleb, so I have no idea how they actually were in practice. I haven't even seen any videos, just people complaining. But, it is what it is I guess.
+            I appreciate the info! I wasn't watching the sub at all during the ptb but the removal of her "everyone is injured" snowball was fantastic.
+        It littrely made them stronger then Nurse what do you mean less unfun. Victor littrely had 0 counterplay.
+It's right below Game Mechanics section, labeled Emblems. You're not the first person to ask this, and I'm curious why so many people haven't seen it.
+Ah yes, the skill of bump wall, look down, slide and get a free hit
+    -said by someone who doesnt play blight
+BHVR: "We'll get there when we get there!"
+
+Also BHVR to the Spaghetti code: "How're ya doin', honey?"
+Bad players always could get to red, rank isn’t a skill indicator. But yes
+I don't understand how anyone can be against removal of depips. Exactly what's wrong with people easily getting more BP each month so they can get better perks and possibly improve, while not being discouraged by loss or lack of progress? Why are we gatekeeping the slasher tag game?
+    I liked the old ranking system but maybe I’m just a salty old dbd player
+Well survs and noobs needed "ez mode" to level up, so the devs obliged.
+You can use plot twist only once
+    I just mean if they'll try to heal even though they couldn't. Like how in the past I've seen bots with Urban Evasion constantly move while crouching.
+    I thought you could infinitely use it but could only self res once
+        If I recall correctly you can drop to the ground infinitely as long as you don’t pick yourself up. 
+
+Even with Unbreakable or No Mither, Plot Twist gets used if you get up without help from others, and you won’t be able to Plot Twist again.
+    [deleted]
+        It has always been like that, because as soon as you get yourself up by any means, plot twist deactivates
+They have been doing this for a long time. Sometimes the day a change is announced sometime the week before or often just like this
+It would be even better to rework the Scam of Secrets
+    Honestly if they want to prove that this game isn't pay2win they should make every perk available to buy and the shrine of secrets should just offer some perks for a reduced price every week
+        Very much agree with that. 
+
+I know the only reason it’s shit is to get you to just buy the survivors straight up and I hate that
+Same been waiting for it to show up in the shrine and to my surprise it was there today.
+* Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+    Is it a sound effect that's similar to a hex/totem being cleansed?
+It’s under audio - essentially survivors were able to hear the audio queue for Territorial.
+* Fixed an issue that caused the Survivors to hear the Territorial Imperative Perk audio cue.
+
+This one. It's an audio bug.
+uninstalling dbd rn. Can't believe this update went live
+Very bad
+Why do they do that? Last night I encountered this bug for the first time where I filled the wiggle meter while being carried, and the bar just disappeared without me escaping the killer's grasp. I really want to see game-changing issues that like or endurance be fixed.
+    Why BHVR leaves things out of the patch notes? Not sure.
+
+The bug you mentioned is an old one caused by the killer pressing the hook prompt and something blocking it at the same time, causing the game to bug out.
+
+Possibly they fixed it this update, but I'm not sure.
+        That must be it. It was right in front of a hook but a teammate was trying to block it/take a hit. Still, for something that's apparently old they should get around to doing something about it.
+    Were you dropped and picked back up? I run flip flop and if my wiggle ever exceeds 100% then I get this bug consistently.
+        No, it must be what the other guy said. It was right in front of a hook but a teammate was trying to block it/take a hit.
+But they included the increased update size multiple times (even under the same category) ![img](emote|t5_3cb2g|2213)
+It wasn't going away after you take a hit with it.  You could mend and still ha e endurance.  It didn't effect 99% of perks but OTR was very abusable.
+    Oh, that would explain how some of my games went. I thought people somehow were stacking endurance. Turns out they were just cheating by exploiting a bug.
+Yep all the current cheats are confirmed to not work on UE5
+    Oh thank God. I was so sick and tired of them; I hope now games will be more fair. I tend to get a lot of speedhackers and subtle cheaters, IDK if I'm at a higher MMR or the cheating is just that rampant.
+
+The funny part is they're doing it against Ghostface and Onryo, Killers that already struggle in long chase. What, these cheaters are so bad they seriously can't outloop a dude with a knife and nothing except stealth?
+    Explains my current games.
+    Give it a week
+You meant \*cheaters. Hackers gives the impression that they have some sort of competence in something.
+    The cheaters get their scripts from the people who write them.  Hackers would be the ones writing those scripts
+Honestly yeah 90% you can hear them but sometimes it's really weird
+Yes they’ve literally done it before, no reason to assume they wouldn’t again
+ohhh okay fair enough then. Maybe they want to test both out and see which they feel works better and is more fair. Appreciate the information :D
+They are only capable of double nerfing perks
+Because it's a killer perk.
+Just how they be with nerfing super meta perks. They did the same thing with dh and mft (especially mft tbh)
+    I'm sorry, those aren't even comparable. UW is completely dead now. DH is still one of the best perks in the game and MFT is a very solid B-tier that you can get consistent use out of in an anti-tunnel build, especially paired with DH. It's just not *completely* effortlessly overpowered but is still absolutely usable. The new UW with the crazy cooldown for a 32m locker scream sucks total ass and has no use cases.
+        Lol if you honestly think mft is b tier but uw isn't in your mind. That's on you. They both got nerfed hard. Try running mft and lmk if you get value
+            I see many survs run MFT and get value.  Don't know what you're smoking.
+                If you say so. I never see it anymore 🤷‍♂️
+            I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+                If you say so. Then agree to disagree
+                    He's right.  Especially against some killers, getting into deep wound is easy.
+I would be cool with the cool down reversion if they would reduce the blindness or completely remove it.
+Fr
+Ohh weird. I ctrl+f pip earlier and didn't find any match
+    It was unintentionally left out and we added it back! We appreciate everyone who brought it to our attention.
+    There's a lot of people asking so maybe they edited it in there late.
+        Yea that was def edited in haha
+            Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+We can confirm you are all getting hatch and cookies for it ♥️
+Thank you!!!
+can you confirm you are fixing the rubberbanding and disconnects that are making your game literally unplayable?
+Could you please make the meet your maker t-shirts available again to celebrate the jump to unreal 5. What's the harm, and you'd get free advertisement for MYM as well.
+What is the logic behind this move?
+Like even before this, it was dumb that you couldn't drop from idk say iridescent 1 to iridescent 2? 
+I get that rank Is not connected to MMR in any way. I'm just confused with bhvr's thought process on this. It's completely meaningless. Might as well remove rank and just give 1-2m bps to everyone on the 13th and be done with it.
+    Yes, happy to clarify! As the Emblem system is utilized for mostly rewards these days, we did not want players to feel needlessly punished by losing a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. Also, this also frees the Limited Modifiers from causing players to lose pips in an environment intended for enjoyment without worrying about depipping in the process.
+    It's a community request.
+
+In gold/iridescent grades it was very frustrating to play tough matches  where you barely managed to squeeze 1 pip and see it gone in the following matches because the opponent dominated you, singled you out or your team quit.
+
+You'd play for several hours and often times it would go like this:
+
++0, +0, +0, +1, +0, +0, -1. 
+
+OR
+
++0, +1, +0, +0, +1, +0, -1, -1.
+
+Depipping in addition to being frustrating when lost in matches that were completely out of your control, it caused several hours of play time to be a waste of time in terms of progression to Iridescent 1.
+        I know, believe me I know this, I have 4000 hours of gameplay. But this new system is now completely meaningless
+            It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+Thanks, bro. 😭😭😭
+
+Wtf do I play this evening?
+    Fallout New Vegas
+
+
+Currently I am having a blast, highly recommend
+        Patrolling the Entity's Realm almost makes you wish for a Scourge Hook Winter.
+        Thanks for the recommendation!
+        That's what I'll be doing too!
+            What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+    I am playing Fo4 with like 310+ mods rn
+Oof, here I am with like 10 min to download, the install/verification on Steam is what takes time for me lol. 💀
+    My country has hardcap of 100mb/s speed limit for personal use and even that's rather expensive to keep😭
+        Damn what country do you live in? Sounds way behind, I am sorry. :(
+            Georgia, the one in Caucasus below Russia.
+![gif](giphy|8FG705NCsZM0kVJdyz|downsized)
+I had to enable Vsync, cap at 60 FPS and remove anti aliasing to remove the issue....
+    Damn I'll try that. It's been awful.
+Try playing around with settings. What fixed it for me was the vsync but it destroyed performance and the skill check delay was crazy. Had to balance with disabling anti aliasing
+    I’m gonna try that :c thanks
+Vomit filters?
+Turns out the only visual upgrade they go through with is making the vommy mommy's puke have fluid physics and then nothing else.
+    This would unironically be great because it would open the door to it having better hitboxes
+*\*sad "I wanted to make people scream when they don't know where Ghostface is when he opens a locker" noises\**
+Though those changes kinda make the two addons base kit now, don’t they?
+They feel really good now though, acaullty play them before you complain.
+God help blight if he doesn't get compensatory buffs
+    I think it's moreso damage control to distract from their recent trend of removing some form of skill expression every patch
+It randomly doesn't work and others can still hear the healing effects and grunts of pain.
+Wanna know too
+Well it did affect for some people, a lot of weird lags happening now
+    I mean, 12hrs ago I didn't know this. But now? Oh baby I'm rubber banding all over the goddamned place. Back to Helldivers.
+She's been playing today, and so far so good. However she did get a weird glitch after a match, her screen was flickering. She streams on twitch and had OBS open so it's possibly related to that as she hasn't encountered it again since.
+    I had this too. Screen flickering bright white, really annoying. Happened 3 times now during the end screen. I wasn’t streaming and i play on a PS5.
+        Yeah that's exactly what happened, white flickers. Weird.
+Does that mean we will see darker or more realistically-lit maps, thicker fog, etc.? It looked like they improved the fog and darkness on some maps prior to this, starting around Lights Out and culminating in this.
+    Who knows, I doubt it, they didn't talk about this at all as far as I know so I'm not expecting this as much as I'm not expecting to see the perks of my teammates in lobby lol
+>This is the laziest rework I've seen.
+
+Still better than the GOJ rework.
+    They reworked GoJ? I honest to god can't remember because its still comically and absurdly survivor sided lmao
+        They unironically made it *more* survivor sided. Kind of like when they reworked Ormond.
+    GOJ?
+        Garden of Joy
+        Garden of Joy. That one map with red bushes and roots, one of the strongest main buildings in the game, and insane loops overall.
+It worked on steam after verifying files but still took a lot of time!
+It wasn't better on my laptop during the PTB.. Will try it later today !
+Agreed I used to never play solo q because it was auto d pip now I can play if my friends aren’t online 🤣
+I'm so happy, maybe now I can finally merely play my main (Ghostface) and let myself lose and not worry about it knowing I will probably be fine next round. I can try more builds and go for more weird things with him and not have to always sweat for the fucking 4k just to not depip. I can play him more relaxed and NOT depip because everyone and their grandma is running hardcore meta.
+
+This is an absolute W for me as an M1 Main. I just hope it means everyone else sweats less too, and we see LESS meta overall dominate because people don't need to sweat as hard to win either side. Absolute W change.
+Scream with the radius being the locker is my understanding.
+Thank god, I saw the kate head and thought that was supposed to be the weekly gift, thanks for the information! \^\^
+    No problem! The Kate head is the free gift if you buy the cells from the shop. Similar to the Knight head or Clown knife in the past
+        Or the Dwight Beanie.
+Both nerfs make UW dog shit now.
+apparently
+Because holding him hostage was direly necessary to have breathing room.
+
+It's an undocumented and hopefully unintended change that will soon be remedied.
+    [deleted]
+        Unbound means not bound to Charlotte or a survivor. It would go without saying that Victor has to not be bound to Charlotte to be able to recall him, so it's obvious the reason "unbound" is specified here is that it pertains Victor not being tied to a survivor. That change had also already been in on the PTB, and yet Victor could not be recalled while latched onto a survivor, further suggesting this is not what is meant here. And finally, if this were intended to also apply when Victor is latched onto a survivor, there would not be a 10-second timer until you can recall, because that is not "at any point". They simply reduced the time-to-recall from 30 to 10 seconds, without noting this.
+
+There's also another undocumented, notable buff: Victor now moves faster after a successful hit, making him harder to kick.
+            well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+                I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+i swear..everytime i say "they can't do worse" YET everytime  i'm wrong....  
+  
+how can some developers manage to do a job so, so bad and shitty, that their game manages to fuck up your own pc/console! how!
+
+and when i call them incompetents, people yell and downvote me saying that i'm toxic...jesus christ, these people are making money with a game that is held by some shitty spaghetti code that can implode any update and every update manages to be "tecnically speaking" worse than the previous one(with tons of new bugs, killswitchs and more), every freaking time!, and some people still side with BH!!....
+Countryside, so I get only a handful of mega bytes a second on good days. Government promised fibre cables years back but that was even before Covid put a wash on everything.
+    i have very bad connection as well but i live in middle east and there is no fibre here and for me its even impossible to play
+        Damn I'm sorry to hear that friend. I understand the frustration.
+            hope you get fibre soon 👍
+                Me too! Fingers crossed haha
+Aura reading Pyramid Head in shambles (that’s me, I’m aura reading Pyramid Head)
+    Aura slinger mains are in shambles (thats me, im aura slinger mains)
+I think I would honestly rather have more Killer-sided maps than the absolute abundance of Survivor-sided maps we had before, but it's still not fair. At least now I won't dread loading into this map as an M1 Killer. I don't think it's fair and I hope they adjust it; maps should not be overly sided. But if you're GONNA have maps be sided, at least balance it so roughly 1/3 favor Killer a bit, 1/3 favor Survivor a bit, and the last 1/3 are balanced.
+Please tell me that the game is still running in native 4K on PS5 like it did before the UE5 patch.
+That's all I really care about.
+
+I'm worried.
+My Xbox needed me to delete 14 gigs to "make space" for the 30 gig update. Will that space be clear or is there an issue?
+    Just delete the game and redownload it.
+
+The game needs to save space for the new engine and will download itself first and delete the present version later if you don't install it from scratch.
+        Tad late, but I appreciate the info. 
+
+Sorry, Arkham Asylum. I will re-download you!
+            Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+    It is common practice to reserve extra space for download + installation, then it should clear up again once it's finished.
+    It's pretty normal for many systems to need extra space free for updates even if the file size is smaller in the end.
+What I appreciate most about that completely reasonable reply is that you were so on tone with what was happening. You didn't rudely snap at an innocent question from a stranger or react in a spastic and spontaneous thread of weird angry insults. That would be really bizarre.
+Thanks I though that so, but I don't understand why they don't also include that information with these patch notes. It's insane you have to follow every post to have any idea what is going on with this game.
+    Yeah this is common. Usually with patch notes they forget to show all the changes they made (which can confuse people).
+
+You have to get used to that, unfortunally.
+It works even when someone is dead. So if at the hook they were sacrificed on you still get Leader perk benefits
+    like a helpful ghost? that's hilarious
+        we desperately need a perk that helps your team once you're dead (and no, im not meaning sole survivor)
+            yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+feels like smashing gens is faster, can't confirm though
+I've been trying to be as positively hopeful, but boy is that getting hard.
+Oh, that's nice! I play nearly all of the killers, but I don't have a ton of Blight experience. I've been playing him more recently and I'm definitely a middling to bad Blight rn at best, and a visual timer would help bad Blight players like me a lot.
+Does it still consume the token in those circumstances?
+    No. The perk is only activated if there is a gen with progress (and is not blocked).
+I can understand Switch taking long to load ( I sometimes play there too), but even with how underpowered it is, it still takes less time than my Series X. It's ridiculous
+It's possible, although I feel like I would have heard the audio cue that it happened, since that's the main way I know the obsession switched.
+That's it! That's what it's bothering me about them. I accidentally locked my refresh to 30 FPS when I first built my current pc and the auras are giving me flashbacks to that.
+Oh thank you so much!
+Agreed. The map is extremely small now. The fact that you can enter every house now doesn't help survivors in the slightest. As a killer you only have to move your pinky toe and you're on the other side of the map.
+In my experience, this is a huge nerf
+    Pfff, it hardly affects anything.
+Thanks for the help! Good to know I’m still blind!
+    Trust me, if I'm asked to look for the ketchup in the fridge, I give up before I even get to the kitchen.
+It was already less used than Windows at 50%, so I guess according to 95% of people WoO is the best perk in the game despite it just showing pallet/vault auras...
+    Usage rate indicates strength? Interesting argument. I suppose that means Myers and Huntress are S-tier, Nurse is C-tier at best, and Twins are the worst killer in the game.
+        That's not at all what I was saying here, and you damn well know it.
+lol that’s whole point for that build
+Why did people complain, though? It made the twins not a completely unfun nightmare to face. Now they're just a significantly stronger unfun nightmare to face.
+    I believe people found them to be too strong, between the not latching with Victor, and Charlotte getting haste and stuff.
+
+I'm a console pleb, so I have no idea how they actually were in practice. I haven't even seen any videos, just people complaining. But, it is what it is I guess.
+        I appreciate the info! I wasn't watching the sub at all during the ptb but the removal of her "everyone is injured" snowball was fantastic.
+    It littrely made them stronger then Nurse what do you mean less unfun. Victor littrely had 0 counterplay.
+-said by someone who doesnt play blight
+I liked the old ranking system but maybe I’m just a salty old dbd player
+I just mean if they'll try to heal even though they couldn't. Like how in the past I've seen bots with Urban Evasion constantly move while crouching.
+I thought you could infinitely use it but could only self res once
+    If I recall correctly you can drop to the ground infinitely as long as you don’t pick yourself up. 
+
+Even with Unbreakable or No Mither, Plot Twist gets used if you get up without help from others, and you won’t be able to Plot Twist again.
+[deleted]
+    It has always been like that, because as soon as you get yourself up by any means, plot twist deactivates
+Honestly if they want to prove that this game isn't pay2win they should make every perk available to buy and the shrine of secrets should just offer some perks for a reduced price every week
+    Very much agree with that. 
+
+I know the only reason it’s shit is to get you to just buy the survivors straight up and I hate that
+Is it a sound effect that's similar to a hex/totem being cleansed?
+Why BHVR leaves things out of the patch notes? Not sure.
+
+The bug you mentioned is an old one caused by the killer pressing the hook prompt and something blocking it at the same time, causing the game to bug out.
+
+Possibly they fixed it this update, but I'm not sure.
+    That must be it. It was right in front of a hook but a teammate was trying to block it/take a hit. Still, for something that's apparently old they should get around to doing something about it.
+Were you dropped and picked back up? I run flip flop and if my wiggle ever exceeds 100% then I get this bug consistently.
+    No, it must be what the other guy said. It was right in front of a hook but a teammate was trying to block it/take a hit.
+Oh, that would explain how some of my games went. I thought people somehow were stacking endurance. Turns out they were just cheating by exploiting a bug.
+Oh thank God. I was so sick and tired of them; I hope now games will be more fair. I tend to get a lot of speedhackers and subtle cheaters, IDK if I'm at a higher MMR or the cheating is just that rampant.
+
+The funny part is they're doing it against Ghostface and Onryo, Killers that already struggle in long chase. What, these cheaters are so bad they seriously can't outloop a dude with a knife and nothing except stealth?
+Explains my current games.
+Give it a week
+The cheaters get their scripts from the people who write them.  Hackers would be the ones writing those scripts
+I'm sorry, those aren't even comparable. UW is completely dead now. DH is still one of the best perks in the game and MFT is a very solid B-tier that you can get consistent use out of in an anti-tunnel build, especially paired with DH. It's just not *completely* effortlessly overpowered but is still absolutely usable. The new UW with the crazy cooldown for a 32m locker scream sucks total ass and has no use cases.
+    Lol if you honestly think mft is b tier but uw isn't in your mind. That's on you. They both got nerfed hard. Try running mft and lmk if you get value
+        I see many survs run MFT and get value.  Don't know what you're smoking.
+            If you say so. I never see it anymore 🤷‍♂️
+        I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+            If you say so. Then agree to disagree
+                He's right.  Especially against some killers, getting into deep wound is easy.
+It was unintentionally left out and we added it back! We appreciate everyone who brought it to our attention.
+There's a lot of people asking so maybe they edited it in there late.
+    Yea that was def edited in haha
+        Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+Yes, happy to clarify! As the Emblem system is utilized for mostly rewards these days, we did not want players to feel needlessly punished by losing a pip after a rough match. This quality-of-life change will make the Emblem system less stressful. Also, this also frees the Limited Modifiers from causing players to lose pips in an environment intended for enjoyment without worrying about depipping in the process.
+It's a community request.
+
+In gold/iridescent grades it was very frustrating to play tough matches  where you barely managed to squeeze 1 pip and see it gone in the following matches because the opponent dominated you, singled you out or your team quit.
+
+You'd play for several hours and often times it would go like this:
+
++0, +0, +0, +1, +0, +0, -1. 
+
+OR
+
++0, +1, +0, +0, +1, +0, -1, -1.
+
+Depipping in addition to being frustrating when lost in matches that were completely out of your control, it caused several hours of play time to be a waste of time in terms of progression to Iridescent 1.
+    I know, believe me I know this, I have 4000 hours of gameplay. But this new system is now completely meaningless
+        It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+Fallout New Vegas
+
+
+Currently I am having a blast, highly recommend
+    Patrolling the Entity's Realm almost makes you wish for a Scourge Hook Winter.
+    Thanks for the recommendation!
+    That's what I'll be doing too!
+        What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+I am playing Fo4 with like 310+ mods rn
+My country has hardcap of 100mb/s speed limit for personal use and even that's rather expensive to keep😭
+    Damn what country do you live in? Sounds way behind, I am sorry. :(
+        Georgia, the one in Caucasus below Russia.
+Damn I'll try that. It's been awful.
+I’m gonna try that :c thanks
+This would unironically be great because it would open the door to it having better hitboxes
+I think it's moreso damage control to distract from their recent trend of removing some form of skill expression every patch
+I mean, 12hrs ago I didn't know this. But now? Oh baby I'm rubber banding all over the goddamned place. Back to Helldivers.
+I had this too. Screen flickering bright white, really annoying. Happened 3 times now during the end screen. I wasn’t streaming and i play on a PS5.
+    Yeah that's exactly what happened, white flickers. Weird.
+Who knows, I doubt it, they didn't talk about this at all as far as I know so I'm not expecting this as much as I'm not expecting to see the perks of my teammates in lobby lol
+They reworked GoJ? I honest to god can't remember because its still comically and absurdly survivor sided lmao
+    They unironically made it *more* survivor sided. Kind of like when they reworked Ormond.
+GOJ?
+    Garden of Joy
+    Garden of Joy. That one map with red bushes and roots, one of the strongest main buildings in the game, and insane loops overall.
+No problem! The Kate head is the free gift if you buy the cells from the shop. Similar to the Knight head or Clown knife in the past
+    Or the Dwight Beanie.
+[deleted]
+    Unbound means not bound to Charlotte or a survivor. It would go without saying that Victor has to not be bound to Charlotte to be able to recall him, so it's obvious the reason "unbound" is specified here is that it pertains Victor not being tied to a survivor. That change had also already been in on the PTB, and yet Victor could not be recalled while latched onto a survivor, further suggesting this is not what is meant here. And finally, if this were intended to also apply when Victor is latched onto a survivor, there would not be a 10-second timer until you can recall, because that is not "at any point". They simply reduced the time-to-recall from 30 to 10 seconds, without noting this.
+
+There's also another undocumented, notable buff: Victor now moves faster after a successful hit, making him harder to kick.
+        well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+            I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+i have very bad connection as well but i live in middle east and there is no fibre here and for me its even impossible to play
+    Damn I'm sorry to hear that friend. I understand the frustration.
+        hope you get fibre soon 👍
+            Me too! Fingers crossed haha
+Aura slinger mains are in shambles (thats me, im aura slinger mains)
+Just delete the game and redownload it.
+
+The game needs to save space for the new engine and will download itself first and delete the present version later if you don't install it from scratch.
+    Tad late, but I appreciate the info. 
+
+Sorry, Arkham Asylum. I will re-download you!
+        Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+It is common practice to reserve extra space for download + installation, then it should clear up again once it's finished.
+It's pretty normal for many systems to need extra space free for updates even if the file size is smaller in the end.
+Yeah this is common. Usually with patch notes they forget to show all the changes they made (which can confuse people).
+
+You have to get used to that, unfortunally.
+like a helpful ghost? that's hilarious
+    we desperately need a perk that helps your team once you're dead (and no, im not meaning sole survivor)
+        yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+No. The perk is only activated if there is a gen with progress (and is not blocked).
+Pfff, it hardly affects anything.
+Trust me, if I'm asked to look for the ketchup in the fridge, I give up before I even get to the kitchen.
+Usage rate indicates strength? Interesting argument. I suppose that means Myers and Huntress are S-tier, Nurse is C-tier at best, and Twins are the worst killer in the game.
+    That's not at all what I was saying here, and you damn well know it.
+I believe people found them to be too strong, between the not latching with Victor, and Charlotte getting haste and stuff.
+
+I'm a console pleb, so I have no idea how they actually were in practice. I haven't even seen any videos, just people complaining. But, it is what it is I guess.
+    I appreciate the info! I wasn't watching the sub at all during the ptb but the removal of her "everyone is injured" snowball was fantastic.
+It littrely made them stronger then Nurse what do you mean less unfun. Victor littrely had 0 counterplay.
+If I recall correctly you can drop to the ground infinitely as long as you don’t pick yourself up. 
+
+Even with Unbreakable or No Mither, Plot Twist gets used if you get up without help from others, and you won’t be able to Plot Twist again.
+It has always been like that, because as soon as you get yourself up by any means, plot twist deactivates
+Very much agree with that. 
+
+I know the only reason it’s shit is to get you to just buy the survivors straight up and I hate that
+That must be it. It was right in front of a hook but a teammate was trying to block it/take a hit. Still, for something that's apparently old they should get around to doing something about it.
+No, it must be what the other guy said. It was right in front of a hook but a teammate was trying to block it/take a hit.
+Lol if you honestly think mft is b tier but uw isn't in your mind. That's on you. They both got nerfed hard. Try running mft and lmk if you get value
+    I see many survs run MFT and get value.  Don't know what you're smoking.
+        If you say so. I never see it anymore 🤷‍♂️
+    I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+        If you say so. Then agree to disagree
+            He's right.  Especially against some killers, getting into deep wound is easy.
+Yea that was def edited in haha
+    Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+I know, believe me I know this, I have 4000 hours of gameplay. But this new system is now completely meaningless
+    It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+Patrolling the Entity's Realm almost makes you wish for a Scourge Hook Winter.
+Thanks for the recommendation!
+That's what I'll be doing too!
+    What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+Damn what country do you live in? Sounds way behind, I am sorry. :(
+    Georgia, the one in Caucasus below Russia.
+Yeah that's exactly what happened, white flickers. Weird.
+They unironically made it *more* survivor sided. Kind of like when they reworked Ormond.
+Garden of Joy
+Garden of Joy. That one map with red bushes and roots, one of the strongest main buildings in the game, and insane loops overall.
+Or the Dwight Beanie.
+Unbound means not bound to Charlotte or a survivor. It would go without saying that Victor has to not be bound to Charlotte to be able to recall him, so it's obvious the reason "unbound" is specified here is that it pertains Victor not being tied to a survivor. That change had also already been in on the PTB, and yet Victor could not be recalled while latched onto a survivor, further suggesting this is not what is meant here. And finally, if this were intended to also apply when Victor is latched onto a survivor, there would not be a 10-second timer until you can recall, because that is not "at any point". They simply reduced the time-to-recall from 30 to 10 seconds, without noting this.
+
+There's also another undocumented, notable buff: Victor now moves faster after a successful hit, making him harder to kick.
+    well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+        I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+Damn I'm sorry to hear that friend. I understand the frustration.
+    hope you get fibre soon 👍
+        Me too! Fingers crossed haha
+Tad late, but I appreciate the info. 
+
+Sorry, Arkham Asylum. I will re-download you!
+    Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+we desperately need a perk that helps your team once you're dead (and no, im not meaning sole survivor)
+    yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+That's not at all what I was saying here, and you damn well know it.
+I appreciate the info! I wasn't watching the sub at all during the ptb but the removal of her "everyone is injured" snowball was fantastic.
+I see many survs run MFT and get value.  Don't know what you're smoking.
+    If you say so. I never see it anymore 🤷‍♂️
+I do. And I do. It's not remotely hard to get into Deep Wound 🤦‍♂️. How the hell is UW with a 60s cooldown and one time 32m locker scream a B tier perk??
+    If you say so. Then agree to disagree
+        He's right.  Especially against some killers, getting into deep wound is easy.
+Idk who’s downvoting you but yeah that was 100% not in there originally, I ctrl+f’ed both “rank” and “pip” and both came up with nothing.
+It has always been meaningless.
+
+Getting to Iridescent 1 is just a reflection of how much time you spent in the game within a 30 days period.
+
+In the "depipping era", it just meant you had to play for more hours because you kept getting bad luck matches after working hard for 1 pip or 2.
+
+It was just gatekeeping casual players from the "season reward". Now DBD works basically like Rocket League. Whatever progression you obtained, its secured.
+What a courier of culture
+
+
+Sending box of Nuka-Cola your way
+Georgia, the one in Caucasus below Russia.
+well fuck me i guess, never in a thousand years would i think victor attacking a survivor would count as "bound" (in my defense i didnt play ptb at all, let alone twins, so i didnt know how they were there). i stand corrected
+    I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+hope you get fibre soon 👍
+    Me too! Fingers crossed haha
+Consoles generally require extra space bc it’s treating your existing game as space and it’s taking the contents of a update fully
+yeah! or a basekit incentive could be, if a surv dies at 4 or 5 gens with 3 hook states, a bonus to gen progression could kick in to make turbo tunneling less effective against solo survs.
+If you say so. I never see it anymore 🤷‍♂️
+If you say so. Then agree to disagree
+    He's right.  Especially against some killers, getting into deep wound is easy.
+I can see how that could be confusing, particularly with Twins being such an obscure killer. Most people probably don't know that you could not recall Victor if he was just chilling around the map, so they would have a difficult time interpreting this patch note to mean anything but recalling Victor when he's on a survivor.
+
+Good news: A community manager on the official forums has now confirmed that the 10-second recall time is a bug that will hopefully be fixed soon.
+Me too! Fingers crossed haha
+He's right.  Especially against some killers, getting into deep wound is easy.
