@@ -1,0 +1,74 @@
+[[Is there any point in getting the center of the galaxy]]
+
+
+Currently in the process of getting to the center of the galaxy, and while I enjoy the exploration aspect of it a tonne (even if lots of the planets do end up looking very similar), is there any point to it? I've been told once you reach the center the game just sort of resets? Get sent to new galaxy, fix your gear, and start over. If so, what's the point of it all?
+
+
+There are 256 different galaxies.  You start out in Euclid, the very first one.  Different galaxies have chances to spawn different planet types more frequently.  
+
+When you warp to a new galaxy via the galaxy core, your multi tool and space ship techs do break (as happens if you go through any black hole), so it’s best to equip a spare multi tool and junker ship before doing so, that way your main multi tool and ship are not broken during the jump.
+
+You don’t “start over”.  You keep everything you have.  You can warp back to your bases in other galaxies and bounce between galaxies.
+
+Eissentam is the 2nd most popular/ inhabited galaxy (next to Euclid).  It has more lush planets.
+
+I’m currently exploring galaxy #119, another lush dominant galaxy.
+I think the only difference in galaxies is the ratio of world types. Like Eissestam has more peaceful worlds with less sentinels, the red one has more dangerous worlds, etc…
+
+It’s also just bragging rights if you are in some distant Galaxy where hardly anyone else goes. Nearly everything is undiscovered (but of course even in Euclid things are mostly undiscovered) 
+
+I hope maybe in the future there will be more of a point to these galaxies—perhaps some could be made completely untouched by the three races and have no space stations or anything. You could maybe conquer a new galaxy by building space stations and setting up underlying infrastructure.
+Here’s a list of all the galaxies and their type:
+
+I got you!
+
+https://www.reddit.com/r/NoMansSkyTheGame/comments/nxqy27/i_charted_out_a_map_of_all_the_galaxies_good_for/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+    Ever notice it's short a Galaxy?
+        I think the last galaxy #256 you can only get to through some glitch process or something.
+            0-255 is the 256bit range
+100000000
+
+16 16 16 16 is really F F F F, when you ignore zero
+
+Funny to think that NMS may be fundamentally flawed if -null- is in 0
+This largely depends on how you play. You should probably do it at least once for the quest if you haven't already. Not that the quest ends mind you, it resets after you finish it but it's worth doing for lore, to get some suit upgrades, and to access a new galaxy.
+
+Beyond that it depends on what you really want to do. Some galaxies have a higher chance of storms, some have a higher chance of lush worlds, a lot are just normal. However what drove me out of living in Eissentam is my desire to go after ships that players have posted coordinates for. Many times these are in Euclid or Eissentam, but there have been a number of cool ships posted from several places I hadn't been. So I made it a goal to put down a base in each galaxy from Euclid to Isdoraijung.
+
+If your goal is to play with other people though then no, it's generally not that useful to go to other galaxies. Unless of course you know of a community you want to join there. I generally keep traveling because I enjoy the solitude.
+    A being after my own heart \~ <3
+Not really imo.
+
+The galaxies only change planet generation chances. For example - more lush, dangerous or empty planets etc.
+
+There is actually nothing new in these galaxies. So having a couple of hundred really pointless :(
+
+Hopefully they can do something about it !
+All of the galaxies are pretty much the same. I’m on like about 150, and there’s no difference except for less people in each one. The best community is in the Galactic center of elucid. So there’s not really much point. Edit: different planet types are more common in different galaxies.
+Once you have a satisfactory answer to your question please reset the flair to "answered". This will help others find an answer to the same question.
+
+**If this is a question reporting a bug please delete and place it in the pinned bug report thread. If this is a discussion about a bug or possible bug please change the flair to the more specific "Bug" flair.**
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NoMansSkyTheGame) if you have any questions or concerns.*
+Ever notice it's short a Galaxy?
+    I think the last galaxy #256 you can only get to through some glitch process or something.
+        0-255 is the 256bit range
+100000000
+
+16 16 16 16 is really F F F F, when you ignore zero
+
+Funny to think that NMS may be fundamentally flawed if -null- is in 0
+A being after my own heart \~ <3
+I think the last galaxy #256 you can only get to through some glitch process or something.
+    0-255 is the 256bit range
+100000000
+
+16 16 16 16 is really F F F F, when you ignore zero
+
+Funny to think that NMS may be fundamentally flawed if -null- is in 0
+0-255 is the 256bit range
+100000000
+
+16 16 16 16 is really F F F F, when you ignore zero
+
+Funny to think that NMS may be fundamentally flawed if -null- is in 0
