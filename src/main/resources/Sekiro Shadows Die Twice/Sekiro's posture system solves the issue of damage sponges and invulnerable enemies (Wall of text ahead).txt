@@ -1,0 +1,405 @@
+[[Sekiro's posture system solves the issue of damage sponges and invulnerable enemies (Wall of text ahead)]]
+
+
+Many video games approach difficulty by making their bosses damage sponges. While this is a tried and tested formula that works for a lot of video games, overusing it can make boss fights boring, repetitive, and tiresome. There's no incentive to be aggressive and keep the heat up since you know all the damage you've done so far is still there and you can go at your own pace.  
+
+
+Lore-wise, this works for fantastical enemies like Guardian Ape and Demon of Hatred since one is an immortal giant gorilla and the other is a literal fire demon so of course your puny sword swipes won't do much damage. But against regular human foes it can be immersion breaking because you've been whacking the same person with a sword dozens of times and yet they can take so much punishment. So Sekiro makes it so that human enemies can block and parry your attacks so they don't take damage.  
+
+
+Now, a lot of other video games also do this where enemies are basically "invulnerable" where they can either tank your attack without taking damage, or they can block them with a defensive move. In most other games, the gimmick here is to wait for them to reveal their weak spot, walk into a trap, get tired after overusing their defensive move, etc. So it becomes a passive waiting game where you just avoid their attacks until those few frames where you can hit them back. There's no incentive to attack while they're invulnerable because you know they can just shrug them off.  
+
+
+Sekiro kind of resolves both issues with the posture system. Sure, human enemies are still damage sponges because even if you do land a hit, it only takes a little bit of their vitality. If you focus on whittling down their vitality, fights will take forever. But the posture system gives you an incentive to keep pushing and stay on top of them. Otherwise, you'll give them breathing room to recover their posture. It also resolves the issue of "invulnerable enemies" who can brush off your attacks so you won't bother attacking. Yes, enemies in Sekiro are "invulnerable" in that they can parry and block your attacks quite consistently, but you're incentivized to attack regardless because even though you're not doing any vitality damage, you know you're doing posture damage. And if you do enough posture damage, that will eventually translate to vitality damage. It also turns the "invulnerable enemy" mechanic on its head where instead of waiting for an opening to land a hit, you create that opening yourself with deflects, Mikiri Counter, shinobi tools, etc.  
+
+
+The end result is an immersive experience where you dance across the battlefield clashing swords with your opponent, hoping to overwhelm their defenses and land a hit. And with each little hit you add, you make them more likely to break their posture. And when they eventually do break, you land a deadly strike.
+
+
+My favourite part about Sekiro is how enemies will block and deflect your attacks. It makes me feel like my swings actually matter, that the enemy is also trying to avoid taking damage in the fight. It feels like the playing field is level because both the enemy and the player follow the same rules and are participating in a proper duel, not just the player whacking an enemy and then dodging there attack only to start whacking them again while the boss is getting ready to attack again. This is what makes the combat interesting for me, and the posture system only contributes to that, since enemies can also use the posture system against you too.
+I love how Sekiro gives you a feeling of control over the fight. Like enemies, even bosses actually react to what you are doing and you can add pressure to them and not just wait them to finish their thing and open up for hits.
+Even the naming of it, “Posture”, is genius. It’s not stamina, it’s not health or defence; it’s an individual’s ability, or lack thereof, to stay calm and to not be rattled. They could have equally called it “Composure”.
+
+That’s why you hold block to regain your posture, rather than the other way around in Dark Souls for instance, where holding block would slow your stamina recovery. Because you’re literally regaining your composure, regaining your posture. 
+
+Even boss and miniboss moves where they regain posture, their animation is often them slowly striking a pose, centring themselves.
+
+Fuck, I love this game.
+     One of my favorite things about sekiro is how the enemies fight under the same rules, they just have more hp/posture and can spam special attacks without resources, to compensate however you can heal.
+
+ Other than that there's no passive healing, posture is regained by stepping out of combat, big posture heals come if you strike a post (holding block for the player), lower hp means posture heals slowly, even deathblows are balanced because you also have 2 health bars with the revive mechanic.
+
+ I love the owl fight especially because you have similar movesets, Mikiri is the obvious one, but there's also firecrackers, raven mist, shurikens, and a few other moves that I don't know the name by heart
+        My favourite part about the Inner Owl fight is trying to figure out how to counter his Mist Raven for literally hours (everything else I'd pretty much figured out) and then realizing the best counter is to simply use Mist Raven yourself.
+    Interesting, I'd always interpreted it a little differently.  The longer the fight goes on the sweatier your hands get, your sword grip loosens and your feet aren't as firmly planted on the ground.  That one last hit breaks your posture and and now your balance is fucked.  Not saying you're wrong, just thought it was cool lol
+Getting some hits in can also be beneficial, because lower HP= lower posture regeneration. So everything you do to pressure the enemy counts, and will help you take them down.
+Man, i need to go replay this game. You know what, i was wondering what to do with all my PTO before the year ends, now I know what I'm doing xD
+Enemies with lots of posture tho? same thing basically
+I don't particularly think Sekiro's combat has solved damage sponges personally.
+
+Both Demon of Hatred, Blazing Bull and Owl (Father) are both bosses which have incredible amounts of HP & posture, to the point where you're more likely to whittle down their HP to 0 before breaking their posture (less so for Owl). 
+
+There's a couple of enemies that feel spongy like the [Elder Monkeys](https://sekiroshadowsdietwice.wiki.fextralife.com/Elder+Monkey), the [Spear Adepts](https://sekiroshadowsdietwice.wiki.fextralife.com/Spear+Adept) and some variants of the Red Guards that invade at the end of the game. 
+
+What the combat does excel at is making every battle feel like a back and forth between you and your foe. It rewards unrelenting aggression unlike any other game, but also allows for a slower approach where you whittle down your foe's HP, thereby stunting their posture regen.
+    The rational for the monsters is that, you can't really break their composure when they're in I guess what you'd call a rage or berserking state. For DoH and the Bull especially, the only way logically you would weaken them is by very literally draining the blood out of them until you can land the decisive deathblow.
+
+Meanwhile as for Owl Father, I rationalize it simply that Owl is an extraordinarily tough opponent that knows how to control himself when he fights, him being the master to Wolf. He can counter your thrust attacks in the exact same way that you do, and he uses items that can mostly use as well (only exception being the undead hunter charm). He knows how you fight because he raised you and he knows that it is more important to be tireless than just brutal.
+
+And to be fair, it's also just lategame boss posture regeneration. Isshin also recovers his stamina very, very quickly too if you let off the gas on him, but Isshin is not good at making distance for himself. He would be a dramatically different fight if he could force you to make distance from him, and then had a shorter window until his posture starts regeneration.
+        You can rationalize for the reason why certain enemies and bosses are damage sponges, *but it doesn't make them less of a damage sponge*. 
+
+I was mostly talking about how OP starts off saying the game solved the issue of damage sponges, when in reality, they still exist and are noticeable. 
+
+I think it makes a lot of sense for DoH to be as tanky as he is, but good lord does it feel like the fight drags on for that reason. 
+
+But in DoH's case I also think it's because it doesn't change that much between each deathblow. It gains roughly 1 or 2 attacks between each, and it has loads of health.
+            I mean I just finished up some DoH runs in the gauntlet and practice and I never felt like he was too awful or tanky once you really get down to it. And all I was using was Ako's Sugar. I killed his phase 3 only using Malcontent twice. It just about really getting in there and just digging into the ugly bastard.
+
+I'm pretty sure on most attacks from DoH, you can get in like 4 chops after you've dealt with his attack, and some even more. And I think after Malcontent you can get up to 12 free shots on him. If you get a stagger on him at any point, throw in Ashina Cross and maybe +2-3 free chops.
+
+DoH becomes a different conversation as the NG+ cycles start to rack up, but at that point you're asking for it, and the whole rest of the game starts to break down.
+                It just sounds like you're describing a damage sponge, but it obviously becomes less of a damage sponge if you increase your own damage through consumables. 
+
+At which point relative to other bosses, it's going to continue to feel like a damage sponge. 
+
+> DoH becomes a different conversation as the NG+ cycles start to rack up
+
+Sure thing, but again, it's completely relative because *everything* scales equally up in NG+.
+                    Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+                        It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+            I think that one or two boss being more similar to other game's bosses instead of following this game's mechanics do not allow you to say that the new posture system itself is flawed
+                Not a single thing you just wrote is even remotely relevant to my post. I've neither compared any bosses or called the posture system flawed.
+
+I hope you meant to reply to another comment, because otherwise you're just arguing with yourself.
+                    OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+                        But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+                            Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+                                You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                                    You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+The posture system doesn't *prevent* the damage sponge problem though. You can easily just cut through regular bosses/enemies, and it does jack shit to them, so the damage sponge problem isn't solved, because you can still kill those enemies using the very defensive [ hit -> run away -> forget all of your problems ] method, and oh boy, do people use that strategy against bosses like Sword Saint or Corrupted Monk.
+
+The posture system is still better than the system in DS, because it at least *tries* to keep the pace up, but I think that ideally it should be *required* for the player to deplete the posture bar in order to defeat an enemy, and maybe change the vitality mechanic so that the slowest enemy posture can regenerate is the same speed as the current 40-60% posture regen-at-vitality level, so you'd *have* to be aggressive.
+
+>Now, a lot of other video games also do this where enemies are basically "invulnerable" where they can either tank your attack without taking damage, or they can block them with a defensive move. In most other games, the gimmick here is to wait for them to reveal their weak spot, walk into a trap, get tired after overusing their defensive move, etc
+
+The kind of design in games, where the enemy is invulnerable during a fight, is just bad design overall, this has nothing to do with the posture system, the enemy parrying you isn't "invulnerability", because if they parry you, they'll usually follow it up with another attack, and this is how it works in other games too, I see nothing wrong with a Dark Souls enemy holding up a shield and countering my attacks (whilst opening themselves for a strike) when I hit the shield (a different case would be if the enemy keeps shielding, and I have no way to bypass that shield (which is why Dark Souls has kicks, and although they may not work too well on enemies with greatshields for example, Sekiro isn't much better in this field with Shichimen Warriors and the Headless being in the game)).
+
+> It also turns the "invulnerable enemy" mechanic on its head where instead of waiting for an opening to land a hit, you create that opening yourself with deflects, Mikiri Counter, shinobi tools, etc
+
+Those things are not related to the posture system. I could have a move in Souls that would counter thrusts, whilst dealing a bit of damage to the enemy; of course the combat system in Sekiro is much more nuanced than the one in Souls, with every enemy reacting differently depending *highly* on what *we* do in relation to them; but you could see all of those things being implemented in Souls in some way or another without changing their real effects.
+adding that with the stealth mechanic where you can avoid them all if you tired of kicking their ass or your ass getting kick every time you come across them. 
+
+IMO Sekiro feels more Dark Souls than Dark souls itself in terms of difficulty due to enemies you mention that most of them can defend themselves i.e by parry and deflect. it makes you think of your approach even in late game (fuck that dual wielding monke).
+[deleted]
+    Is it because you're stupid or just rude
+It is great! The enemies actually block instead of hyper armour through my attacks, it makes me feel like they actually care and are avoiding taking direct hits, they are humans, in other games the enemies just tank everything and hit you, they do not even stop attacking, Sekiro is one of my favs game because of that single mechanic
+Yes, this combat system is pure genius and easily one of the best I’ve ever played.
+The posture system solves the issue of “if i hit a naked man with a great sword he should be dead not have 7 more hits left in him.” And the fact they block abd parry helps with that
+All of that could be said for Nioh Ki system (first Nioh came out 2 years before Sekiro). And there have been other games with a similar mechanics before that
+ One of my favorite things about sekiro is how the enemies fight under the same rules, they just have more hp/posture and can spam special attacks without resources, to compensate however you can heal.
+
+ Other than that there's no passive healing, posture is regained by stepping out of combat, big posture heals come if you strike a post (holding block for the player), lower hp means posture heals slowly, even deathblows are balanced because you also have 2 health bars with the revive mechanic.
+
+ I love the owl fight especially because you have similar movesets, Mikiri is the obvious one, but there's also firecrackers, raven mist, shurikens, and a few other moves that I don't know the name by heart
+    My favourite part about the Inner Owl fight is trying to figure out how to counter his Mist Raven for literally hours (everything else I'd pretty much figured out) and then realizing the best counter is to simply use Mist Raven yourself.
+Interesting, I'd always interpreted it a little differently.  The longer the fight goes on the sweatier your hands get, your sword grip loosens and your feet aren't as firmly planted on the ground.  That one last hit breaks your posture and and now your balance is fucked.  Not saying you're wrong, just thought it was cool lol
+The rational for the monsters is that, you can't really break their composure when they're in I guess what you'd call a rage or berserking state. For DoH and the Bull especially, the only way logically you would weaken them is by very literally draining the blood out of them until you can land the decisive deathblow.
+
+Meanwhile as for Owl Father, I rationalize it simply that Owl is an extraordinarily tough opponent that knows how to control himself when he fights, him being the master to Wolf. He can counter your thrust attacks in the exact same way that you do, and he uses items that can mostly use as well (only exception being the undead hunter charm). He knows how you fight because he raised you and he knows that it is more important to be tireless than just brutal.
+
+And to be fair, it's also just lategame boss posture regeneration. Isshin also recovers his stamina very, very quickly too if you let off the gas on him, but Isshin is not good at making distance for himself. He would be a dramatically different fight if he could force you to make distance from him, and then had a shorter window until his posture starts regeneration.
+    You can rationalize for the reason why certain enemies and bosses are damage sponges, *but it doesn't make them less of a damage sponge*. 
+
+I was mostly talking about how OP starts off saying the game solved the issue of damage sponges, when in reality, they still exist and are noticeable. 
+
+I think it makes a lot of sense for DoH to be as tanky as he is, but good lord does it feel like the fight drags on for that reason. 
+
+But in DoH's case I also think it's because it doesn't change that much between each deathblow. It gains roughly 1 or 2 attacks between each, and it has loads of health.
+        I mean I just finished up some DoH runs in the gauntlet and practice and I never felt like he was too awful or tanky once you really get down to it. And all I was using was Ako's Sugar. I killed his phase 3 only using Malcontent twice. It just about really getting in there and just digging into the ugly bastard.
+
+I'm pretty sure on most attacks from DoH, you can get in like 4 chops after you've dealt with his attack, and some even more. And I think after Malcontent you can get up to 12 free shots on him. If you get a stagger on him at any point, throw in Ashina Cross and maybe +2-3 free chops.
+
+DoH becomes a different conversation as the NG+ cycles start to rack up, but at that point you're asking for it, and the whole rest of the game starts to break down.
+            It just sounds like you're describing a damage sponge, but it obviously becomes less of a damage sponge if you increase your own damage through consumables. 
+
+At which point relative to other bosses, it's going to continue to feel like a damage sponge. 
+
+> DoH becomes a different conversation as the NG+ cycles start to rack up
+
+Sure thing, but again, it's completely relative because *everything* scales equally up in NG+.
+                Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+                    It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+        I think that one or two boss being more similar to other game's bosses instead of following this game's mechanics do not allow you to say that the new posture system itself is flawed
+            Not a single thing you just wrote is even remotely relevant to my post. I've neither compared any bosses or called the posture system flawed.
+
+I hope you meant to reply to another comment, because otherwise you're just arguing with yourself.
+                OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+                    But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+                        Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+                            You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                                You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+Is it because you're stupid or just rude
+My favourite part about the Inner Owl fight is trying to figure out how to counter his Mist Raven for literally hours (everything else I'd pretty much figured out) and then realizing the best counter is to simply use Mist Raven yourself.
+You can rationalize for the reason why certain enemies and bosses are damage sponges, *but it doesn't make them less of a damage sponge*. 
+
+I was mostly talking about how OP starts off saying the game solved the issue of damage sponges, when in reality, they still exist and are noticeable. 
+
+I think it makes a lot of sense for DoH to be as tanky as he is, but good lord does it feel like the fight drags on for that reason. 
+
+But in DoH's case I also think it's because it doesn't change that much between each deathblow. It gains roughly 1 or 2 attacks between each, and it has loads of health.
+    I mean I just finished up some DoH runs in the gauntlet and practice and I never felt like he was too awful or tanky once you really get down to it. And all I was using was Ako's Sugar. I killed his phase 3 only using Malcontent twice. It just about really getting in there and just digging into the ugly bastard.
+
+I'm pretty sure on most attacks from DoH, you can get in like 4 chops after you've dealt with his attack, and some even more. And I think after Malcontent you can get up to 12 free shots on him. If you get a stagger on him at any point, throw in Ashina Cross and maybe +2-3 free chops.
+
+DoH becomes a different conversation as the NG+ cycles start to rack up, but at that point you're asking for it, and the whole rest of the game starts to break down.
+        It just sounds like you're describing a damage sponge, but it obviously becomes less of a damage sponge if you increase your own damage through consumables. 
+
+At which point relative to other bosses, it's going to continue to feel like a damage sponge. 
+
+> DoH becomes a different conversation as the NG+ cycles start to rack up
+
+Sure thing, but again, it's completely relative because *everything* scales equally up in NG+.
+            Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+                It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+    I think that one or two boss being more similar to other game's bosses instead of following this game's mechanics do not allow you to say that the new posture system itself is flawed
+        Not a single thing you just wrote is even remotely relevant to my post. I've neither compared any bosses or called the posture system flawed.
+
+I hope you meant to reply to another comment, because otherwise you're just arguing with yourself.
+            OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+                But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+                    Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+                        You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                            You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+I mean I just finished up some DoH runs in the gauntlet and practice and I never felt like he was too awful or tanky once you really get down to it. And all I was using was Ako's Sugar. I killed his phase 3 only using Malcontent twice. It just about really getting in there and just digging into the ugly bastard.
+
+I'm pretty sure on most attacks from DoH, you can get in like 4 chops after you've dealt with his attack, and some even more. And I think after Malcontent you can get up to 12 free shots on him. If you get a stagger on him at any point, throw in Ashina Cross and maybe +2-3 free chops.
+
+DoH becomes a different conversation as the NG+ cycles start to rack up, but at that point you're asking for it, and the whole rest of the game starts to break down.
+    It just sounds like you're describing a damage sponge, but it obviously becomes less of a damage sponge if you increase your own damage through consumables. 
+
+At which point relative to other bosses, it's going to continue to feel like a damage sponge. 
+
+> DoH becomes a different conversation as the NG+ cycles start to rack up
+
+Sure thing, but again, it's completely relative because *everything* scales equally up in NG+.
+        Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+            It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+I think that one or two boss being more similar to other game's bosses instead of following this game's mechanics do not allow you to say that the new posture system itself is flawed
+    Not a single thing you just wrote is even remotely relevant to my post. I've neither compared any bosses or called the posture system flawed.
+
+I hope you meant to reply to another comment, because otherwise you're just arguing with yourself.
+        OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+            But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+                Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+                    You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                        You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+It just sounds like you're describing a damage sponge, but it obviously becomes less of a damage sponge if you increase your own damage through consumables. 
+
+At which point relative to other bosses, it's going to continue to feel like a damage sponge. 
+
+> DoH becomes a different conversation as the NG+ cycles start to rack up
+
+Sure thing, but again, it's completely relative because *everything* scales equally up in NG+.
+    Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+        It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+Not a single thing you just wrote is even remotely relevant to my post. I've neither compared any bosses or called the posture system flawed.
+
+I hope you meant to reply to another comment, because otherwise you're just arguing with yourself.
+    OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+        But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+            Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+                You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                    You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+Ah, right, because I'm not supposed to use the what, 99 ako's sugar sitting in my inventory because it's against the arbitrary rules of video games where consumable are cheating or something.
+    It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+OP thinks the system itself solves the damage sponges issue. 
+
+You said that even if it makes sense that a certain enemy is a damage sponge, you still consider it a bad thing for them to be one. 
+
+I replied that the system solves the problem almost completely, but they decided to implement one or two bosses that are fought in completely different ways.
+    But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+        Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+            You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+                You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+It's not cheating, but at that point it's not combat which solves the damage sponge issue, it's the increased damage output. 
+
+Which is often the root cause of damage sponges - having too much HP (or in Sekiro, posture + posture regen ontop). 
+
+Again, I don't think the combat solves damage sponges because I don't believe it even set out to solve the "issue". 
+
+Damage sponges broken down to it's barest are just enemies that has too much health or defense, which requires you to attack more than usual. *That* is about balancing, not the complexity of Sekiro's combat.
+But the system doesn't solve damage sponges. Damage sponges are rarely a symptom of combat itself - it's almost exclusively due to balancing with regards to HP. 
+
+What OP describes is the *feel* of the combat, which is unrelated to damage sponges because that's down to a mechanical level. 
+
+I don't think the combat is flawed because it doesn't solve damage sponges. I don't think damage sponges are inherently flawed either, but they can often be boring in nature. 
+
+DoH is obviously designed to be tanky, because well, he's a giant demon. That doesn't make it less boring hacking away at his ballsack for 4 minutes.
+
+**Edit:** I also don't think any of Sekiro's damage sponges fight much different from the rest of the game. They simply take longer to kill than your average enemy/boss while adhering to Sekiro's combat.
+    Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+        You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+            You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+Let's ignore the combat system then.
+
+99% of enemies aren't damage sponges. The fact that a couple are doesn't allow you to say the game didn't solve the damage sponges issue
+    You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+        You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+You're making some weird false equivilances here. The fact that 99%  of enemies aren't damage sponges doesn't mean *the combat* solved the issue. 
+
+If I had to nominate a system responsible for killing off a majority of damage sponges, it would be the fact you can't overlevel in Sekiro. It allows developers to expect a player to be at X vitality and damage at different points in the game. 
+
+Thereby giving them a better idea of what HP & damage a boss/enemy should do, unlike other Souls titles where you can freely level whenever and wherever.
+    You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?
+You stated the combat system _can't_ solve the issue, so why are you arguing that it didn't?

@@ -1,0 +1,821 @@
+[[AFK Journey review by a beta tester]]
+
+
+ 
+
+AFK Journey came out yesterday and I see it getting quite a lot of attention so I figured I'd at least put this out there so that people don't go into it expecting something it's not.
+
+I have been in the testing of this game and continued to provide feedback all the way from the alpha test back in the fall of 2021 and through all the beta testing that started in April or May last year. I have also been aiding in making lore-focused streams about AFK Arena for over a year and seeing as AFK Journey is supposed to be set in the same world, this will be relevant later. I have also been contracted to make officially-backed videos about AFK journey – a deal I left for a number of reasons, not least of all the reasons I have for writing this post. Now with credentials out of the way, let's get to the actual review.
+
+## The visuals take your breath away
+
+Let's start with something positive – this game is gorgeous. Farlight Studios have outdone themselves yet again and after the vibrant and futuristic world of Dislyte, their take on Esperia is surprisingly tame, in a good way. The colors are soft and lovely, the models look amazing, and the customization screen of the main character is awesome! The characters look great and move in a smooth fluid fashion. Ult animations, idle animations, and the overall feel of the characters as well as the skins added into the game thus far are all nice and fit into the wider world well, not to mention look wonderful and clean, a lot of effort and skill went into making them. Sadly, if we ignore the skins and ult animations, this has been the case since the alpha without any major changes.
+
+## Gameplay could be improved upon
+
+I will be up-front about this, I don't care about gameplay all that much. However, I have to say, the game is not open-world, despite claiming to be so. If you venture off the paths, you get stuck on fences, stuck on bushes, stuck on rocks, or just prevented by an invisible wall. There is no swimming, no climbing, no gliding, or most other things we came to associate with open-world games. The vertical gameplay is a plus to be sure and you get to pick characters to follow you around without having to use them in battles which makes the exploration more fun. The overworld puzzles are creative and fun too! The real issue comes with... everything else. At the start, fights in the overworld are easy. However, they will scale up way faster than you can level and you will soon be adding an additional roadblock to the list: enemies. The combat itself is creative but requires attention as the autoplay function is usually wonky at best and outright damaging to your party at worst. AFK Journey is not living up to its AFK title either. One thing I found really annoying was the story progression not being tied to the AFK rewards. You have to grind a separate set of battles to increase the AFK rewards you receive. The AFK rewards and story also still cap each other so you won't be able to progress in one without progressing in the other.
+
+Outside of the main story, the game offers multiple game modes. If you don't enjoy PvP, be warned that the game puts great emphasis on doing your PvP arena every day and being good at it if you want to build any good characters. The game also has a labyrinth mode which tracks your health across multiple battles and allows you to gain upgrades as you go. This mode is somewhere between AFK Arena's and Dislyte's in terms of fun. It is more varied than AFK Arena's which makes it more fun and less repetitive, however, you have a limited number of characters you can bring in which severely limits how varied your gameplay experience might be. It was also recently nerfed to the ground and now poses little to no challenge. Honor Duel is another PvP mode in which you buy upgrades and then fight randomly generated players with supposedly the same level of upgrades as you. If you can claim eight victories before three losses, you win the run. However, the factions and characters are currently so imbalanced that depending on your luck, you may not win a single battle in a run or you might breeze through all of them without any effort. There is a boss fight game mode that used to be amazing and made the game's grindy battle system the main point. With the right timing and strategy, even F2Ps were able to routinely score in top spots. Then the manual mode was removed and now it's a whale-fest. 
+
+The gacha element is pretty much non-existent. If you scrounge up enough resources to pull, you likely won't get anything much. You'll be relying on hand-outs of pulls and PvP shops to build your characters. AFK Journey should not be called a gacha game. It is, at best, a game with rare gacha elements. They are giving out 200 pulls for launch but once you get over that, you'll be stuck in an extremely stingy gacha.
+
+## Co-op is a lie
+
+While AFK Journey does have a cooperative mode, in the form of connected guild dungeons, it is not really what it advertises to be either. All your guildmates can separately whale on some enemies together and depending on how you do, you will receive rewards that are generous compared to what the rest of the game offers. You can lend your friends your characters but they'll be the ones fighting with them, not you. The most social aspect of the game is seeing other players around the map and spending your friend points to buy different animations to perform at each other. The chat function is also pretty bad, though not as terrible as it is in AFK Arena.
+
+The guilds and friends to add also don't work cross-server. So if you have a friend on another server, you won't be able to see them or talk to them or enjoy even the limited interactions that are actually in the game.
+
+## The story is disappointing at best and nobody knows the world
+
+You may have noticed I've been avoiding talking about the story of a story-focused game. This is where the biggest disappointment lies. Let me preface this by saying, the story didn't always use to be this way. It used to be actually really really good back in the alpha and even at the start of the beta. However, in the last three months, the game underwent five or six complete rewrites of the main story, each worse than the last. As things stand right now, there is no nuance in protagonists or villains, there is a literal diarrhea conversation (like an actual conversation, several scenes long) for no reason, most of the story could be summarized on one page and the rest is pointless bickering that makes every other character utterly unlikable. The main character is an amnesiac going by the title of "Magister Merlin" despite the fact that Merlin from Arthurian myths, whom this is clearly based on, is an existing character in the world of Esperia.
+
+In terms of lore, AFK Journey is not even close to what it promised. It promised to be a game set in the world of AFK Arena – a world with surprisingly rich and interesting lore that has been built up over the years. Unfortunately, it is very much not that. Not only are important world events treated as nonexistent, not only does the writing erase character relationships and dynamics, but the writers couldn't have even been bothered to learn the basics of the world they're working with. Factions get swapped around randomly for no reason, and important factional politics have been flipped on their heads. An organization that is supposed to be an outcast is now the ruling class, the timeline is all over the place, and even the names of things are not only inconsistent with AFK Arena but also inconsistent with Journey's world itself. The loading screen already breaks the world by telling you magic didn't exist until the "Fall of the gods" which is supposed to have happened recently, yet the entire time you will be running around ruins of magical civilizations from ages long past.
+
+Speaking of the gods, there are characters who straight-up don't know what a celestial is. If you know anything about Esperia's lore, you know how important religion is to its history and how jealously the gods guard their authority. The thought of someone having completely no idea of what they were is strange, to say the least. The game also invents new gods instead of using preexisting ones with the same function and even disregards events relating to the gods that changed the course of Esperian history – such as the death of Esperia's primary goddess Dura. In fact, AFK Journey doesn't even consider Dura important enough to have a model. Once again, this is the primary goddess of this world. As for the characters brought over from AFK Arena, they have been butchered beyond recognition. The warlord of an entire country who slew countless enemies is now a pacifist whose only interest lies in spicy food, a hard-working girl who, for the sake of her family, developed her skills until she was recognized by the stars and became the fulfillment of a prophecy is now an angry Mary-sue who was always perfect and didn't actually need to work for anything – and gets offended if you suggest otherwise, the list goes on.
+
+## The sound design is refreshingly good – for the most part
+
+As a game with voices, we have to talk about those first. The voices, for the most part, are alright. None of them really stands out as particularly amazing, though I do like a few of them more than the others. I like Fay's voice quite a bit. Sadly, none of the characters from AFK Arena is voiced by the same person anymore, and in most cases, it is a massive downgrade. And that isn't talking about the worst offender of all – Valen, one of the main characters you'll have to listen to the whole time. Valen used to have a voice that fit his character – suave and kind of bold and full of life. Now he sounds like he's still going through puberty, and he's a whiny crybaby at that.
+
+The sound design outside of the voice acting is great. Once again, this is a very strong point for the game. The music and background noises are great and even the menu sounds are not disruptive in the least. If anything, they feel natural to the world.
+
+## PC client could as well not exist at all
+
+This is coming from second-hand knowledge as I have played AFK Journey on phone but so far the reviews I've seen appear to be as follows: Game lags when walking, freezes when trying to talk to NPCs, and is prone to crashing. Mobile devices perform better for AFK Journey than PCs do.
+
+## The mystery of translation
+
+Back in January, the only publicly admitted localizer has been fired from the project. About a week and a half ago (around 10 days before the game's launch), the official Discord posted an application form looking for translators for the game. Apparently, the game has several translations already out at this moment, but none of them particularly good. Some are even so bad it's sort of funny. In a really... pathetic sad way. It probably doesn't help that they're still looking for translators as we speak.
+
+## In conclusion...
+
+I wish I could recommend AFK Journey, I really do. I've been excited about this game ever since its announcement and I've been providing as much feedback as I could throughout both alpha and beta. The organization has been awful and the game suffers for it. Internal changes happened a few months back and since then, everything about the game just fell apart. Even things that were good before got ruined and now all that remains is pretty visuals and nice music with nothing else worth paying attention to. It is a major letdown when it could've been incredible. The game is nothing it was advertised as – it is not an open-world game, it is not a gacha, and it is most certainly not set in the world of AFK Arena.
+
+I hope the people who decide to play it can still find some fun in it regardless.
+
+
+https://preview.redd.it/rdqaxt4en5rc1.jpeg?width=1179&format=pjpg&auto=webp&s=f50eb074acebbde9bb88a600d3d7d4b4d1616952
+
+I never expected this kind of street slang in a video game lmao
+
+But I ain’t mad lol
+    Low-key isn't much street slang as it's been used for quite some time within the same definition.   
+Charles Dickens used it in the same context for his book Martin Chuzzlewit.
+    It's all over HSR's dialogue
+        Arknights also has some really funny moments and slang like this, just a lot of text to sift through to find it
+        HSR in Chinese has all the Internet slangs you can ever imagine so I guess the translation is probably quite accurate
+        I never notice it IN HSR
+    That's not even street slang dude lol.
+        [deleted]
+            You lost me bro.
+                Just google low key so you can understand
+                    Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+    low-key in that context is not slang. it means subtle. low-key in slang would be "I low-key might have to buy that" or something
+        It slang man lol
+    Low-key has always meant subtle. Like if you were sneaking around you were being low-key even in the 1800s
+        low key definition was “having or producing dark tones only with little contrast”
+
+American slang low key is what you define as sneaking around etc etc
+            "In 1857, the reading primer Introductory Lessons in Reading and Elocution used low-key for the tone of voice that a person uses when speaking softly or whispering. We can see, then, how low-key would, by the 1890s, refer metaphorically to something quiet, restrained, or modest."
+                You trying to go too hard  for an on post bro
+
+is this how you want to waste your Saturday morning?
+                    Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+    [deleted]
+        “Low-key” is a slang
+            [deleted]
+                How is that trolling buddy
+                How is he trolling?
+At the end of the day it is just another AFK game, so anyone who doesn't like that format probably won't like it, but if you like the format it is pretty polished.
+Pros:
+
+You level up slots, not characters, no need for silly swaps and stuff. Also, global equipment beside uniques, for classes, no need to regear etc.
+
+Epic heroes seems very good for an idle game.
+
+Plenty of summons in honeymoon period (dunno how it will go)
+
+Pretty cool exploration and labirynth mode, draft mode etc.
+
+Some twist for a genre like obstacles, traps and stuff
+
+Very polished
+
+Cool characters, not your typical waifu collector (tho it has some waifus)
+
+Game is running like a charm on highest setting and dont suck up battery/heat up (moto edge30 pro), 0 crashes.
+
+Cons:
+
+12421552 servers
+
+Coop is a joke, a bad one
+
+BUY A PACK 80000 value !!!!
+
+Seriously tho tons of packs, some are super overpriced, others seems decent for an idle game.
+
+I find rates and pity quite shitty on regular banner (2%/60pity) for an idle game. Tho 4\*/epics are really good so I guess thats the price.
+
+  
+Tldr: good IDLE game. Really high quality. But still IDLE game so for a love god, dont touch it if you dont like idle games couse its still idle to a core - with QoL, polish and 4\* that arent foddero. 
+
+I rate it 7idles out of 10super value packs.
+    4 stars are A ranks / elite
+    the game still overheats my phone even on lowest setting 💀
+        Same it is on lowest setting and still advices me to change my settings
+            i have an iphone 12 mini . i wonder if thats why lol old AF
+                Mine is vivo Y33T phone
+Not sure what you’re referring to about issues with the PC client, mine seems to work fine and I don’t even have that nice of a setup.
+    Piggybanking off this since it's release. I have a PC I made in 2018 and the PC client is smooth af. No issues at all.
+    Going by the comments here, it seems to be a hit or miss. Either it runs great with no issues ever or it breaks down every two minutes. Definitely not reliable.
+        I have a 10 year old PC and it runs pretty flawlessly so far
+        Seems like 99/100 times it's a hit
+            Yeah but that 1 bad time...holy crap!
+Sadly lillith games are lowkey greedy they gonna be f2p friendly on the first let say 1-3 months then they go surprise wham p2w mechanics after the given months. It's been apparent on their last three games afk arena, dislyte and the worst one is rise of kingdom.
+    That’s why I’ll stay away. I still remember AFK arena. Just power creep after power creep and selling you the solution to the difficulty spikes. No thank you.
+        The 6000% value Uber mega deal but you better buy it in 5 min pop ups were... Something. 
+        Don't forget the fact that all your hard work was meaningless once people started moving to "newbie" server, leaving you alone on an empty server.
+        Everyone in epic seven community is excited for the overlord collab, but I still remember how much it ruined afk arena
+    The solution of course is to just play the game to pass time and not competitively.  I haven’t spent a penny on afk arena.
+    The game is already super p2w now, much worse than how AFK Arena is.
+- Rigged drop rates? I did like 200 pulls, only pities. Same for the rerolled accounts, another 200 pulls where i hit only pity.
+
+- Heavily lowered drop rates, but in general they lowered everything. They reduced the free vip points, removed weekly rewards, reduced daily rewards. In general there's less sources now to get freebies. Without spending once you're done with main campaign your pulls income basically become inexistent
+I was planning to play for a while and spend something eventually since I like idle games, but in this state I'd rather play something else. 
+    Yeah I played AFK Arena and I stopped partly due to the way it was monetized.
+when you said the game isnt a gacha, you completely lost me
+    Yeh it's a gacha alright. They also said the combat didn't have afk elements lol.
+
+And they complain that it's not an open world game with different traversal elements, like wut 😂 the game is literally called AFK journey what an earth were thru expecting
+Oh no. What did they do to Brutus and Lyca?
+
+Also, is Belinda just… not in AFK Journey? Or Talene? Or any of the most iconic AFK Arena characters? 
+
+Well, I guess it makes sense that Lilith wants to save some popular AFK Arena characters to implement later. But looking at the launch characters for AFK Journey, it is noticeable how many iconic “pairs” of characters have been broken up. AFK Journey has Lyca but no Kaz. Lucius but no Belinda. Thoran but no Grezhul. Niru but no Shemira or Damien. Hmmm. Well, at least Antandra and Satrana are both there.
+    Niru is now apparently borderline abusive to Shem and Lucius somehow got even more messed up than ALucius did in AFK Arena. It's baffling to me how they could mess up even something as simple as copy-pasting backstories.
+        Awakened Lucius got messed up? Do you mind if I ask how? I’m terribly curious. Awakened Lucius was implemented after I stopped playing AFK Arena. I’ve been googling for a while, but I can’t seem to find ALucius’s profile story posted anywhere; all I can find is endless copy-paste articles listing his skills.
+            They basically retconned his whole being non-violent thing and his war trauma, treated him joining the church like a random whim, killed his father on the battlefield in front of him and then said that made him want to become a warrior.
+
+They also did pretty much no marketing for him. The next 4f hero (Adrian and Elyse) got more hype than him, showed up in ads and all. And in the VoW they released, they couldn't even check they had the right gender and called him "Your Ladyship" and "ma'am" and stuff.
+>This is coming from second-hand knowledge as I have played AFK Journey on phone but so far the reviews I've seen appear to be as follows: Game lags when walking, freezes when trying to talk to NPCs, and is prone to crashing. 
+
+Playing for a few hours so far I haven't had a single stutter, freeze, or crash issue, so YMMV.
+
+>Apparently, the game has several translations already out at this moment, but none of them particularly good.
+
+I haven't noticed any translation issues in English either yet. There might be some deeper down the line, but so far there's nothing standing out that's a problem.
+
+Being a huge story fan I will say your comments in that regard are pretty concerning, but as someone who knows nothing about AFK Arena it also didn't entirely mean that much to me as a new player either. So I'll just have to see where it goes from there.
+
+Idle games are also a slow burn progression in general, so like... I can't really say I'm that fussed about being "walled" by enemies temporarily. Kind of how the sub-genre usually works. 
+
+I appreciate the comments, but personally I'm still having a blast. I'm well aware it's the early days, but plenty of games can't even manage to grab you for that much, so for what it is out of the gate it's doing a good job. If it isn't as greedy as AFK Arena or troublesome as Dislyte I'll be sticking around for now.
+    [story trailer](https://www.youtube.com/watch?v=OiO6X_zL_w8)
+
+i dont care for gacha stories, but if they continue to drop these animated shorts, that'd be cool
+
+
+i'm also having a great time so far.  it'll be a nice comfy side game
+    The translation is terrible in Portuguese, it's almost too obvious it's machine translated. Sometimes the sentences just don't make sense and sound unnatural. I can't talk about the English translations, but it's probably also a problem with localization (context and flow) rather than typos, grammar and stuff like that.
+Thank you for the review. It's really well put together and since you're very familiar with AFK Arena, I'm glad to read it even more. I have no knowledge of the first game's lore, so I could only get generic story and bad localization from my experience. The lore part might be pretty uncanny for people who like this universe already.
+
+
+
+Also, I wish mobile could have the option to play it on landscape mode, but since their map exploration is sooo simple, like you said (invisible barriers, nothing to do besides a one-button action), it'd probably feel even worse to play it on mobile in that screen orientation.
+I play on PC ,  had some issues during the beta , but not anymore and it runs smooth for me. To be honest I don't really like afk games , but this one is good so far.
+U are completely wrong about the pc client. Its very good, uncapped fps, supports even ultrawide, 0 performance issues, looks great. The translation is also flawless so far...thats just 2 points i noticed skimming through your post...i dont think u have any idea about the game or you're just a typical hater, regret spending your money in afk arena or something?
+    yeah 100%, I opened it up for the first time on 21:9 and it works flawlessly. Never once experienced any lag as well.
+    Nice!
+PC client works great, and I really enjoy the smoothness and quality
+    By translation he meants in other languages, so that depends on the language you are using.   
+  
+By PC bugs, he may have been referring to the beta experience, so yes that's goodfeedback to have your update.  
+  
+Also OP did post a number of arguments along what he said, so I don't think that deserves the words you are using on that part.
+    Ah yes, I'm sure I've been the alpha and beta tester for this game for over a year because I'm a hater. The English translation is okay, I wouldn't call it flawless because there are still issues. But English isn't the only language the game came out in and majority of the others are terrible. If pc client works for you, that's great! There are multiple people in these comments who did not have the same experience and know even more off Reddit.
+I'm having a lot of fun with the game and pretty heavily disagree with most of this post.
+
+Graphics and sound are both amazingly well polished.
+
+English translation is good.
+
+PC client is great.
+
+Co-op does exist, if sparingly. We'll probably get more soon.
+
+PvP feels minimal, but the RNG roguelike PVP mode is actually really fun. You usually don't have the same team and it feels a lot like teamfight tactics.
+
+Story is fine, I've seen a LOOOOOOOT worse.
+
+Gameplay is actually better then some no-auto games I've tried. 
+
+I don't know how you can call it not open world just because there's not jumping and swimming lol. Open world just means you can walk around and do what you want rather then a focus on stage systems.
+    For coop, can you play with friends or other players?
+        For now it's just a few mobs on the overworld you team up with other players or friends to take down, but that does mean the framework is there for further stuff
+This review is pretty much story hate
+
+I just mash the skip button 
+
+Skip works as intended
+
+Game crashes on mobile if you leave it open too long (3+ hours). Not as bad as that other idle game that came out last month with same issue
+
+Gacha pretty much same as any other idle clone or afk arena
+
+Game is very polished will attract mainstream audience
+
+It's basically a mobile mmo-lite with afk arena combat... there are better options but at least it looks/plays nice
+    I like this game so far but am curious about better options. Do you have any recommendations?
+    What are your better options? Trying to choose a new mobile game to farm since Clash Mini is dying.
+Never played afk arena, so the lore its pretty much new to me, also the game din't crashed a single time on my phone. 
+
+12h playing and still liking so far, i will see how they will handle events and stuff like that to make a final judgment.
+On translation part, there's an entire wall of text in japanese in the italian translation at day 1.
+I guess they didn't had time to check? It's not exaclty what I expected lol.
+Hmm I get how some people who played AFK Arena would be pretty biased towards AFK Journey. 
+
+I also don't see a connection with the story between the two games. The only connection are the characters. So in the plus side, those who never played AFK Arena won't feel too bothered with the story. 
+
+I am curious about the revenue though, it was only one day and the game has claimed to make it to #1 spot of highest grossing free game
+What was the story like before the rewrites?
+    During the alpha, it was that the mc doesn't know the world because they were put in a stasis by the goddess of life before she died, approx. 1650~ years ago. They also didn't remember much and had a mild amnesia but it made a lot more sense. And they went around fixing things for her since that was the original reason they were put in the stasis to begin with.
+
+At the start of the beta, the story was that mc didn't actually even have amnesia but rather was the apprentice of a mage named Lady Gray who for one reason or another sealed herself in a painting known as The Last Twilight which was also hinted at being a time portal to the past. Mc's first order of business and main focus was recovering pieces of The Last Twilight to free Lady Gray from the painting.
+        All the rewrites wre insanely different, I wonder what happened at the writing dept
+So why the story changes?  This part I don't get.  Who was upset?
+    Nobody was upset as far as I can tell. They brought in new people instead of the og writer team and then everything fell apart. My theory is the current lore is someone's vanity project and could be okay if not claiming to be Esperia (still very cliché but not upsettingly bad).
+Ah, that's disappointing to hear about the story. I've been trying to stay engaged but it's just kinda boring so far. It sucks to hear that it actually used to be better but was made worse. Especially in regards to the lore; I could never get into AFK originally, but I did really enjoy the character designs! The models, textures, and animation in this game are absolutely fucking stellar, and I was really excited to learn more about the lore of the beautifully designed characters! I hope they're able to turn things around, though I gather that people here aren't too confident in this dev.
+
+Did they ever explain what happened with the story changes?
+    Not as far as I know. I got forwarded between like five different community managers when I asked and nobody was able to give me any answers. That said, there were massive internal changes in the company, can't imagine that helping anything.
+        Ah, well that sucks. Thanks for trying to investigate when it happened!
+Interesting, what about fan services and censorship? I am looking the game because there are monster girls ... and I like monster girls
+    I'm not sure if they count as "monstergirls" as so far there are only waifus and waifus with animal ears but if Dislyte and AFK Arena are anything to go by, we can expect more diverse designs in the future. Or if you take their mistranslations regarding gender as canon, then you have a couple more "ma'ams" and "my ladyships" that are guys everywhere else.
+I really liked it and I continue to use bluestacks, because it’s funny that the PC version doesn’t start normally, so I’m going through the mobile version
+Ive just start Afk Journey, on pc (i dont do mobile gaming at all). Im running it at 4k max everything, flawllesly at 60fps. I dont know how much weight a review should hold over differences over the past title but two of the main gripes you pointed to not recommend are moot to me- game runs great for me and i never played afk arena to bother over changes in lore or whatever.
+
+Btw heres a tip- no one should ever review over hearsay. You make the pc client one of the big headers of your review to then say something as second-hand. Heres another second hand account for you- pc client runs great for me. So whats what?
+
+Anyway no one should be reviewing by second hand. Its pretty much contrary to what a review is. By that logic anyone can review anything, just read some accounts and reviews and mashup a hear-say review, lika an AI would.
+I believe the story change honestly was intentional and why they also further into development dropped the AFK II and went completely with AFK Journey. Familiar faces but a different journey sort of deal. It's related to the main franchise only with names and nods but removed enough it can be it's own thing. Though recent profits on Dislyte too aren't the greatest that was just shown in the recent gacha listings. So maybe this team is playing it safe and trying to make it more for new players who would need a huge lore dive instead of long term fans to help manage growth.
+
+Btw too don't know if it's the chip itself these phones use or their coding. But like Dislyte this is another game I've found even though I can run max settings and 60fps fine. The game becomes a huge battery drain and overheats the phone. Razer Phone 2 and Google Pixel 6 Pro for Dislyte. Google Pixel 7 for AFK Journey.
+Also costs 51$ to buy a 10 pull
+    And you need dupes, a lot of dupes.
+I’ve had a lot of stuttering today too and I have a 3060. Should be good enough to handle it on pc but it doesn’t run smoothly. I am enjoying the game though
+How much time does it requires to clear all dailies/loops?
+    5 to 10 minutes
+Gave the game a try, and it's okay. You'll  basically hit a wall and need to whale for dupes to progress after a day or two.
+Regarding the story, I feel like those who know and played AFK Arena can be bothered, but as something who hasn't played AFK Arena, I'm pretty satisfied by the story and I'm looking forward to future expansions and progressing. I don't mind the 'wall' with enemies, it feels more like something I just need to wait out with the AFK rewards than endless RNG with artifacts that can take up to months to grind out.
+In the story part I had to double-check that you hadn't suddenly started talking about Dislyte lol. Including this line:
+
+
+> However, in the last three months, the game underwent five or six complete rewrites of the main story, each worse than the last.
+
+
+(Admittedly, Dislyte hasn't underwent that many rewrites, just one or two depending on what you count as "rewrite"; but yeah, the point is that the lore is now garbage)
+Wanted to try out this game but the loading times take forever.
+It’s an idle game so expect to be timegated a lot.  That being said, I’ve been enjoying the characters, setting and MMO elements.
+Im having fun most of the time, the only thing I dont like it the fact that at certain point I cant continue till the next day (when the drops and missions and stuff like that reset). I just find myself unable to upgrade anything and so I cant continue even the main story. Im not spending money on this game so... :/ Maybe I would if bundles and things were less expensive but 120euros for 3000 gems? damn no. Guess Ill wait 80hs to get my character 4 levels up.
+I played the Beta of the game a few months ago because I was an avid AFK Arena player, and I just recently revisited the game. I am so shocked at how different the story is now compared to before. And there's not as much charm with Valen as there used to be and that's so disappointing. The first time I saw him recently I was so shocked cause he felt like he was a try hard, wannabe soldier
+I haven't gotten very far into it, but one of my gripes with it is that their in-game store is asking for WAY too damn much money.
+
+That a mobile game is asking for money through their stores in nothing new, but This much?  
+Getting some Diablo Immortal vibes here.
+
+I understand they might need the store to afford the servers and what not, but if the price for a simple Cosmetic is the price for about a weeks food, you know something ain't f\*cking right!  
+And then they have this VIP Level/Loyal Patronage crap, trying to get you to buy more in-game currency to get some minor rewards, it's ridicules.
+Thanks, the emphasis on PVP for a casual game is a real turnoff lately because I can’t opt out like in some MMOs. I wish there was a way to choose PVE/PVP mode during account creation.
+Thanks for the review man, this was really helpful
+I really WANTED to like this game. I love the character design... if only for that, I don't wanna give up yet. But... I don't have high hopes.
+What is afk in gaming
+This game can EFF off. You spamming my feed with ads is definitely not gonna make me want to play this s**t
+I really appreciate your review because it felt honest still respectful. Wish I would be able to see it in it's "peak" but hopefully the game will evolve into something more "AFK" like.
+DISCLAIMER!!!!!!!!!!
+
+If you never liked idle games in the first place you won’t like this, it’s not too hard to understand. It won’t look like Genshin or HSR or have graphics as good as a AAA game. 
+
+Hope this helps for all those who find this 
+
+It’s a fleshed out idle game, with more emphasis on the idle part without looking too cheap but also allowing people to explore and get chest and do side quests in their own mini open world.
+    Can't agree there. The AFK rewards aren't enough to keep up long-term and without spending money or grinding for hours every day, you will fall behind in a couple of months. I love idle games, especially AFK Arena and that's why I was originally so excited for this game, but it's not what it promises.
+        How do you grind if it's an idle game?
+            That guy is literally typing random shit that doesn't make sense. He seems very bitter about the game.
+        you can't grind idle game lol
+Lilith will suck you dry the bad way. GTFO while you can.
+
+This comment will be downvoted to hell. The paid and pitiful unpaid shills are coming.
+    Or just stay F2P and enjoy the game while it’s fun to you. That’s what I’m doing and I’m having a lot of fun.
+        To me, time and effort are valuable. I would not waste them in a game I know will quickly turn to 💩.
+            bro you post in diablo immortal and marvel snap
+
+those companies just as greedy as lillith
+                Mans said his Time and effort is valuable yet posts in reddit lol ok sure it is. This is simply a game u can play while waiting in line at the store or on the bus or train which makes it seem faster
+                    Mans literally playing mobile diablo
+                        Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+                I don’t play DI. Check my post there again. 
+
+Marvel snap is greedy with the bundle prices  but you can compete as F2P without an issue due to good amount of resources. You can have the exact same meta deck vs those paying Millions. I have nothing to really spend my free resources on and I am at the top rank (infinity in ranked and conquest every month).
+
+Try doing it in AFK Arena 🤷 
+Find me one F2P who is at the same rank and above a whale. 🐳
+
+Funny to see Lilith fanboy downvotes. It is sad when even your own AFK Arena reddit is not liking the game lmao.🤣
+
+And let not even started on the lovely Dislyte.
+                    The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+                        If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+                            You still arguing ? So much for "I value my time and effort" 🤣
+                                Btw nice alts :)) 11 post account, the other is 1 post 🤡
+                                This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+            🤣🤣🤡
+                💩
+    I had a great time on dislyte. It was my first Lilith game and I played ftp for months and months it was by far my fav gacha at the time
+        Had. 🤡
+I just got an ad of this game like 10 minutes ago on youtube, and I watched it for a bit and realized the game probably isn't even that fun. I guess I was right
+    Nah its a lot of fun for me. I dont even like idle games and ive been playing a ton over the last few days.
+
+ Try it and form your own opinion or dont
+        ok I'll try it when I have some extra time
+    It was a lot of fun during the alpha. The beta not so much and it was already becoming grindy. Since December, everything's just been falling apart more and more. Even when they reached out about making lore-focused ad videos for them, they didn't even know enough about the lore to specify what they actually wanted. I asked multiple questions regarding the videos they wanted me to help work on, questions in the line of "Do you want me to work with pre-existing lore even though your game contradicts it?" "Do you really want a complete timeline? That's not gonna fit in a 4-minute video, so what parts of the timeline are most important?" "How much detail do you want me to include about the factions?" Everything met with "We don't know nor care, just do whatever you feel is right."
+        💀 my god 
+
+
+it's like straight up telling the CC to fill in the blanks
+        Game falling apart before release it might be cooked ngl🙏🙏
+        I've noticed you keep mentioning in your replies that the game is too grindy however it's an idle game? You can't grind in idle games, that's the whole point. I quite enjoy both this game and grindy games and I haven't found a single way to grind in AFK Journey yet. Sure when you first start playing there are a couple of enemies but nowhere near enough to be able to grind.
+
+Edit: grammar
+        I came because of the beautiful art and designs. knew nothing about this game. I've read both positive and negative reviews, but sadly, I'm seeing more red flags than green ones. Do you think it's worth hanging on? I really wanted to like it... but don't wanna waste my time.
+I'll be honest, after seeing that review from another guy who said the production value of afk journey was better than hoyo's, I can't bring myself to take any afk journey shills seriously.
+
+Are they seriously comparing these?
+
+AFK Journey character trailer: [https://www.youtube.com/watch?v=zMYXoH9QFh0](https://www.youtube.com/watch?v=zMYXoH9QFh0)
+
+Hoyo character trailer: [https://www.youtube.com/watch?v=IQQPDPAvxTg](https://www.youtube.com/watch?v=IQQPDPAvxTg)
+    It's definetely not Hoyo level lol
+
+But the game also gets a lot of undeserved hate from people who are just not into idle or in general against Lilith.
+    kafka's trailer would have been a more direct comparison since that's the vibe they were going for
+The graphical design is beautiful, and I admit it had me hooked on release. However, the combat grew really stale really quickly and the grind was insane. Pulls are pretty hard to get, and emphasis on dupes to REALLY power up is significant. I’d only recommend this game if you really enjoy AFK arena and love spending your money
+    Playing for 30m and afking rest of the day is called "grinding" now?
+        I don't really understand what else an afk game can be. Of it's not grindy whats the point. Afk games are a specific niche for a specific market and while not my thing this release seems to be as good as they come
+You cannot be another Nikke...that one is far better game so why I play this?
+    Sounds like your mind has been corroded from too much coom.
+I am enjoying the game so far as a causal experience. I agree with you, story is quite uninspiring and not very exciting. Characters are quite flat and a wee cliché. I hope it will improve but not expecting much.
+Well the only cons I have read that concern me is the stingy resources but I hope with the introduction of the events this will be fixed, for now is one of the most f2p friendly gacha I have played, they trow at you pulls and resources at the beginning, bought the 1 $ pack and I'm very happy with it, also the pity are very generous, I already have 2 copies of the limited character.
+tldr: OP mixed business with pleasure; unsatisfactory results.
+
+&#x200B;
+
+I like it tho.
+I had a different experience playing the released game. 
+Story is fast paced and seems ok, not the greatest nor terrible, there are no infinite repetitive dialogues (cough genshin), gacha seems ok for now, pc client has no issues but personally I'd prefer all the menus to be in landscape mode. They are giving away lots of summons and all epic and some legendary units for free.
+It has pity, wishlists, new char has different banner with lower pity than standard and the char is guaranteed; sounds weird but for today' standards that's pretty remarkable. 
+
+Gear is shared between classes (thanks F God), the leveling heroes system is the best I've ever experienced in any game of this kind (they really upgraded the AFK arena one to the next lvl) and I love how epic heroes are not all trash fodder, some of them are nuts. 
+
+For context in story I entered the wilder forest and just met lyca  and have yet not unlocked the stargazer.
+
+I hope more and interesting coop stuff, cross server friends and guild will be added and they do not fuck this game like they did with AFK arena.
+Looks like trash
+    coming from a browndust2 player that's bold...
+        Sdorica limbus lost ark defending idle trashLMFAO 🤡🤡🤡🤡
+Low-key isn't much street slang as it's been used for quite some time within the same definition.   
+Charles Dickens used it in the same context for his book Martin Chuzzlewit.
+It's all over HSR's dialogue
+    Arknights also has some really funny moments and slang like this, just a lot of text to sift through to find it
+    HSR in Chinese has all the Internet slangs you can ever imagine so I guess the translation is probably quite accurate
+    I never notice it IN HSR
+That's not even street slang dude lol.
+    [deleted]
+        You lost me bro.
+            Just google low key so you can understand
+                Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+low-key in that context is not slang. it means subtle. low-key in slang would be "I low-key might have to buy that" or something
+    It slang man lol
+Low-key has always meant subtle. Like if you were sneaking around you were being low-key even in the 1800s
+    low key definition was “having or producing dark tones only with little contrast”
+
+American slang low key is what you define as sneaking around etc etc
+        "In 1857, the reading primer Introductory Lessons in Reading and Elocution used low-key for the tone of voice that a person uses when speaking softly or whispering. We can see, then, how low-key would, by the 1890s, refer metaphorically to something quiet, restrained, or modest."
+            You trying to go too hard  for an on post bro
+
+is this how you want to waste your Saturday morning?
+                Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+[deleted]
+    “Low-key” is a slang
+        [deleted]
+            How is that trolling buddy
+            How is he trolling?
+4 stars are A ranks / elite
+the game still overheats my phone even on lowest setting 💀
+    Same it is on lowest setting and still advices me to change my settings
+        i have an iphone 12 mini . i wonder if thats why lol old AF
+            Mine is vivo Y33T phone
+Piggybanking off this since it's release. I have a PC I made in 2018 and the PC client is smooth af. No issues at all.
+Going by the comments here, it seems to be a hit or miss. Either it runs great with no issues ever or it breaks down every two minutes. Definitely not reliable.
+    I have a 10 year old PC and it runs pretty flawlessly so far
+    Seems like 99/100 times it's a hit
+        Yeah but that 1 bad time...holy crap!
+That’s why I’ll stay away. I still remember AFK arena. Just power creep after power creep and selling you the solution to the difficulty spikes. No thank you.
+    The 6000% value Uber mega deal but you better buy it in 5 min pop ups were... Something. 
+    Don't forget the fact that all your hard work was meaningless once people started moving to "newbie" server, leaving you alone on an empty server.
+    Everyone in epic seven community is excited for the overlord collab, but I still remember how much it ruined afk arena
+The solution of course is to just play the game to pass time and not competitively.  I haven’t spent a penny on afk arena.
+The game is already super p2w now, much worse than how AFK Arena is.
+- Rigged drop rates? I did like 200 pulls, only pities. Same for the rerolled accounts, another 200 pulls where i hit only pity.
+
+- Heavily lowered drop rates, but in general they lowered everything. They reduced the free vip points, removed weekly rewards, reduced daily rewards. In general there's less sources now to get freebies. Without spending once you're done with main campaign your pulls income basically become inexistent
+I was planning to play for a while and spend something eventually since I like idle games, but in this state I'd rather play something else. 
+Yeah I played AFK Arena and I stopped partly due to the way it was monetized.
+Yeh it's a gacha alright. They also said the combat didn't have afk elements lol.
+
+And they complain that it's not an open world game with different traversal elements, like wut 😂 the game is literally called AFK journey what an earth were thru expecting
+Niru is now apparently borderline abusive to Shem and Lucius somehow got even more messed up than ALucius did in AFK Arena. It's baffling to me how they could mess up even something as simple as copy-pasting backstories.
+    Awakened Lucius got messed up? Do you mind if I ask how? I’m terribly curious. Awakened Lucius was implemented after I stopped playing AFK Arena. I’ve been googling for a while, but I can’t seem to find ALucius’s profile story posted anywhere; all I can find is endless copy-paste articles listing his skills.
+        They basically retconned his whole being non-violent thing and his war trauma, treated him joining the church like a random whim, killed his father on the battlefield in front of him and then said that made him want to become a warrior.
+
+They also did pretty much no marketing for him. The next 4f hero (Adrian and Elyse) got more hype than him, showed up in ads and all. And in the VoW they released, they couldn't even check they had the right gender and called him "Your Ladyship" and "ma'am" and stuff.
+[story trailer](https://www.youtube.com/watch?v=OiO6X_zL_w8)
+
+i dont care for gacha stories, but if they continue to drop these animated shorts, that'd be cool
+
+
+i'm also having a great time so far.  it'll be a nice comfy side game
+The translation is terrible in Portuguese, it's almost too obvious it's machine translated. Sometimes the sentences just don't make sense and sound unnatural. I can't talk about the English translations, but it's probably also a problem with localization (context and flow) rather than typos, grammar and stuff like that.
+yeah 100%, I opened it up for the first time on 21:9 and it works flawlessly. Never once experienced any lag as well.
+Nice!
+PC client works great, and I really enjoy the smoothness and quality
+By translation he meants in other languages, so that depends on the language you are using.   
+  
+By PC bugs, he may have been referring to the beta experience, so yes that's goodfeedback to have your update.  
+  
+Also OP did post a number of arguments along what he said, so I don't think that deserves the words you are using on that part.
+Ah yes, I'm sure I've been the alpha and beta tester for this game for over a year because I'm a hater. The English translation is okay, I wouldn't call it flawless because there are still issues. But English isn't the only language the game came out in and majority of the others are terrible. If pc client works for you, that's great! There are multiple people in these comments who did not have the same experience and know even more off Reddit.
+For coop, can you play with friends or other players?
+    For now it's just a few mobs on the overworld you team up with other players or friends to take down, but that does mean the framework is there for further stuff
+I like this game so far but am curious about better options. Do you have any recommendations?
+What are your better options? Trying to choose a new mobile game to farm since Clash Mini is dying.
+During the alpha, it was that the mc doesn't know the world because they were put in a stasis by the goddess of life before she died, approx. 1650~ years ago. They also didn't remember much and had a mild amnesia but it made a lot more sense. And they went around fixing things for her since that was the original reason they were put in the stasis to begin with.
+
+At the start of the beta, the story was that mc didn't actually even have amnesia but rather was the apprentice of a mage named Lady Gray who for one reason or another sealed herself in a painting known as The Last Twilight which was also hinted at being a time portal to the past. Mc's first order of business and main focus was recovering pieces of The Last Twilight to free Lady Gray from the painting.
+    All the rewrites wre insanely different, I wonder what happened at the writing dept
+Nobody was upset as far as I can tell. They brought in new people instead of the og writer team and then everything fell apart. My theory is the current lore is someone's vanity project and could be okay if not claiming to be Esperia (still very cliché but not upsettingly bad).
+Not as far as I know. I got forwarded between like five different community managers when I asked and nobody was able to give me any answers. That said, there were massive internal changes in the company, can't imagine that helping anything.
+    Ah, well that sucks. Thanks for trying to investigate when it happened!
+I'm not sure if they count as "monstergirls" as so far there are only waifus and waifus with animal ears but if Dislyte and AFK Arena are anything to go by, we can expect more diverse designs in the future. Or if you take their mistranslations regarding gender as canon, then you have a couple more "ma'ams" and "my ladyships" that are guys everywhere else.
+And you need dupes, a lot of dupes.
+5 to 10 minutes
+Can't agree there. The AFK rewards aren't enough to keep up long-term and without spending money or grinding for hours every day, you will fall behind in a couple of months. I love idle games, especially AFK Arena and that's why I was originally so excited for this game, but it's not what it promises.
+    How do you grind if it's an idle game?
+        That guy is literally typing random shit that doesn't make sense. He seems very bitter about the game.
+    you can't grind idle game lol
+Or just stay F2P and enjoy the game while it’s fun to you. That’s what I’m doing and I’m having a lot of fun.
+    To me, time and effort are valuable. I would not waste them in a game I know will quickly turn to 💩.
+        bro you post in diablo immortal and marvel snap
+
+those companies just as greedy as lillith
+            Mans said his Time and effort is valuable yet posts in reddit lol ok sure it is. This is simply a game u can play while waiting in line at the store or on the bus or train which makes it seem faster
+                Mans literally playing mobile diablo
+                    Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+            I don’t play DI. Check my post there again. 
+
+Marvel snap is greedy with the bundle prices  but you can compete as F2P without an issue due to good amount of resources. You can have the exact same meta deck vs those paying Millions. I have nothing to really spend my free resources on and I am at the top rank (infinity in ranked and conquest every month).
+
+Try doing it in AFK Arena 🤷 
+Find me one F2P who is at the same rank and above a whale. 🐳
+
+Funny to see Lilith fanboy downvotes. It is sad when even your own AFK Arena reddit is not liking the game lmao.🤣
+
+And let not even started on the lovely Dislyte.
+                The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+                    If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+                        You still arguing ? So much for "I value my time and effort" 🤣
+                            Btw nice alts :)) 11 post account, the other is 1 post 🤡
+                            This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+        🤣🤣🤡
+            💩
+I had a great time on dislyte. It was my first Lilith game and I played ftp for months and months it was by far my fav gacha at the time
+    Had. 🤡
+Nah its a lot of fun for me. I dont even like idle games and ive been playing a ton over the last few days.
+
+ Try it and form your own opinion or dont
+    ok I'll try it when I have some extra time
+It was a lot of fun during the alpha. The beta not so much and it was already becoming grindy. Since December, everything's just been falling apart more and more. Even when they reached out about making lore-focused ad videos for them, they didn't even know enough about the lore to specify what they actually wanted. I asked multiple questions regarding the videos they wanted me to help work on, questions in the line of "Do you want me to work with pre-existing lore even though your game contradicts it?" "Do you really want a complete timeline? That's not gonna fit in a 4-minute video, so what parts of the timeline are most important?" "How much detail do you want me to include about the factions?" Everything met with "We don't know nor care, just do whatever you feel is right."
+    💀 my god 
+
+
+it's like straight up telling the CC to fill in the blanks
+    Game falling apart before release it might be cooked ngl🙏🙏
+    I've noticed you keep mentioning in your replies that the game is too grindy however it's an idle game? You can't grind in idle games, that's the whole point. I quite enjoy both this game and grindy games and I haven't found a single way to grind in AFK Journey yet. Sure when you first start playing there are a couple of enemies but nowhere near enough to be able to grind.
+
+Edit: grammar
+    I came because of the beautiful art and designs. knew nothing about this game. I've read both positive and negative reviews, but sadly, I'm seeing more red flags than green ones. Do you think it's worth hanging on? I really wanted to like it... but don't wanna waste my time.
+It's definetely not Hoyo level lol
+
+But the game also gets a lot of undeserved hate from people who are just not into idle or in general against Lilith.
+kafka's trailer would have been a more direct comparison since that's the vibe they were going for
+Playing for 30m and afking rest of the day is called "grinding" now?
+    I don't really understand what else an afk game can be. Of it's not grindy whats the point. Afk games are a specific niche for a specific market and while not my thing this release seems to be as good as they come
+Sounds like your mind has been corroded from too much coom.
+coming from a browndust2 player that's bold...
+    Sdorica limbus lost ark defending idle trashLMFAO 🤡🤡🤡🤡
+Arknights also has some really funny moments and slang like this, just a lot of text to sift through to find it
+HSR in Chinese has all the Internet slangs you can ever imagine so I guess the translation is probably quite accurate
+I never notice it IN HSR
+[deleted]
+    You lost me bro.
+        Just google low key so you can understand
+            Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+It slang man lol
+low key definition was “having or producing dark tones only with little contrast”
+
+American slang low key is what you define as sneaking around etc etc
+    "In 1857, the reading primer Introductory Lessons in Reading and Elocution used low-key for the tone of voice that a person uses when speaking softly or whispering. We can see, then, how low-key would, by the 1890s, refer metaphorically to something quiet, restrained, or modest."
+        You trying to go too hard  for an on post bro
+
+is this how you want to waste your Saturday morning?
+            Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+“Low-key” is a slang
+    [deleted]
+        How is that trolling buddy
+        How is he trolling?
+Same it is on lowest setting and still advices me to change my settings
+    i have an iphone 12 mini . i wonder if thats why lol old AF
+        Mine is vivo Y33T phone
+I have a 10 year old PC and it runs pretty flawlessly so far
+Seems like 99/100 times it's a hit
+    Yeah but that 1 bad time...holy crap!
+The 6000% value Uber mega deal but you better buy it in 5 min pop ups were... Something. 
+Don't forget the fact that all your hard work was meaningless once people started moving to "newbie" server, leaving you alone on an empty server.
+Everyone in epic seven community is excited for the overlord collab, but I still remember how much it ruined afk arena
+Awakened Lucius got messed up? Do you mind if I ask how? I’m terribly curious. Awakened Lucius was implemented after I stopped playing AFK Arena. I’ve been googling for a while, but I can’t seem to find ALucius’s profile story posted anywhere; all I can find is endless copy-paste articles listing his skills.
+    They basically retconned his whole being non-violent thing and his war trauma, treated him joining the church like a random whim, killed his father on the battlefield in front of him and then said that made him want to become a warrior.
+
+They also did pretty much no marketing for him. The next 4f hero (Adrian and Elyse) got more hype than him, showed up in ads and all. And in the VoW they released, they couldn't even check they had the right gender and called him "Your Ladyship" and "ma'am" and stuff.
+For now it's just a few mobs on the overworld you team up with other players or friends to take down, but that does mean the framework is there for further stuff
+All the rewrites wre insanely different, I wonder what happened at the writing dept
+Ah, well that sucks. Thanks for trying to investigate when it happened!
+How do you grind if it's an idle game?
+    That guy is literally typing random shit that doesn't make sense. He seems very bitter about the game.
+you can't grind idle game lol
+To me, time and effort are valuable. I would not waste them in a game I know will quickly turn to 💩.
+    bro you post in diablo immortal and marvel snap
+
+those companies just as greedy as lillith
+        Mans said his Time and effort is valuable yet posts in reddit lol ok sure it is. This is simply a game u can play while waiting in line at the store or on the bus or train which makes it seem faster
+            Mans literally playing mobile diablo
+                Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+        I don’t play DI. Check my post there again. 
+
+Marvel snap is greedy with the bundle prices  but you can compete as F2P without an issue due to good amount of resources. You can have the exact same meta deck vs those paying Millions. I have nothing to really spend my free resources on and I am at the top rank (infinity in ranked and conquest every month).
+
+Try doing it in AFK Arena 🤷 
+Find me one F2P who is at the same rank and above a whale. 🐳
+
+Funny to see Lilith fanboy downvotes. It is sad when even your own AFK Arena reddit is not liking the game lmao.🤣
+
+And let not even started on the lovely Dislyte.
+            The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+                If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+                    You still arguing ? So much for "I value my time and effort" 🤣
+                        Btw nice alts :)) 11 post account, the other is 1 post 🤡
+                        This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+    🤣🤣🤡
+        💩
+Had. 🤡
+ok I'll try it when I have some extra time
+💀 my god 
+
+
+it's like straight up telling the CC to fill in the blanks
+Game falling apart before release it might be cooked ngl🙏🙏
+I've noticed you keep mentioning in your replies that the game is too grindy however it's an idle game? You can't grind in idle games, that's the whole point. I quite enjoy both this game and grindy games and I haven't found a single way to grind in AFK Journey yet. Sure when you first start playing there are a couple of enemies but nowhere near enough to be able to grind.
+
+Edit: grammar
+I came because of the beautiful art and designs. knew nothing about this game. I've read both positive and negative reviews, but sadly, I'm seeing more red flags than green ones. Do you think it's worth hanging on? I really wanted to like it... but don't wanna waste my time.
+I don't really understand what else an afk game can be. Of it's not grindy whats the point. Afk games are a specific niche for a specific market and while not my thing this release seems to be as good as they come
+Sdorica limbus lost ark defending idle trashLMFAO 🤡🤡🤡🤡
+You lost me bro.
+    Just google low key so you can understand
+        Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+"In 1857, the reading primer Introductory Lessons in Reading and Elocution used low-key for the tone of voice that a person uses when speaking softly or whispering. We can see, then, how low-key would, by the 1890s, refer metaphorically to something quiet, restrained, or modest."
+    You trying to go too hard  for an on post bro
+
+is this how you want to waste your Saturday morning?
+        Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+[deleted]
+    How is that trolling buddy
+    How is he trolling?
+i have an iphone 12 mini . i wonder if thats why lol old AF
+    Mine is vivo Y33T phone
+Yeah but that 1 bad time...holy crap!
+They basically retconned his whole being non-violent thing and his war trauma, treated him joining the church like a random whim, killed his father on the battlefield in front of him and then said that made him want to become a warrior.
+
+They also did pretty much no marketing for him. The next 4f hero (Adrian and Elyse) got more hype than him, showed up in ads and all. And in the VoW they released, they couldn't even check they had the right gender and called him "Your Ladyship" and "ma'am" and stuff.
+That guy is literally typing random shit that doesn't make sense. He seems very bitter about the game.
+bro you post in diablo immortal and marvel snap
+
+those companies just as greedy as lillith
+    Mans said his Time and effort is valuable yet posts in reddit lol ok sure it is. This is simply a game u can play while waiting in line at the store or on the bus or train which makes it seem faster
+        Mans literally playing mobile diablo
+            Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+    I don’t play DI. Check my post there again. 
+
+Marvel snap is greedy with the bundle prices  but you can compete as F2P without an issue due to good amount of resources. You can have the exact same meta deck vs those paying Millions. I have nothing to really spend my free resources on and I am at the top rank (infinity in ranked and conquest every month).
+
+Try doing it in AFK Arena 🤷 
+Find me one F2P who is at the same rank and above a whale. 🐳
+
+Funny to see Lilith fanboy downvotes. It is sad when even your own AFK Arena reddit is not liking the game lmao.🤣
+
+And let not even started on the lovely Dislyte.
+        The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+            If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+                You still arguing ? So much for "I value my time and effort" 🤣
+                    Btw nice alts :)) 11 post account, the other is 1 post 🤡
+                    This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+🤣🤣🤡
+    💩
+Just google low key so you can understand
+    Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+You trying to go too hard  for an on post bro
+
+is this how you want to waste your Saturday morning?
+    Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+How is that trolling buddy
+How is he trolling?
+Mine is vivo Y33T phone
+Mans said his Time and effort is valuable yet posts in reddit lol ok sure it is. This is simply a game u can play while waiting in line at the store or on the bus or train which makes it seem faster
+    Mans literally playing mobile diablo
+        Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+I don’t play DI. Check my post there again. 
+
+Marvel snap is greedy with the bundle prices  but you can compete as F2P without an issue due to good amount of resources. You can have the exact same meta deck vs those paying Millions. I have nothing to really spend my free resources on and I am at the top rank (infinity in ranked and conquest every month).
+
+Try doing it in AFK Arena 🤷 
+Find me one F2P who is at the same rank and above a whale. 🐳
+
+Funny to see Lilith fanboy downvotes. It is sad when even your own AFK Arena reddit is not liking the game lmao.🤣
+
+And let not even started on the lovely Dislyte.
+    The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+        If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+            You still arguing ? So much for "I value my time and effort" 🤣
+                Btw nice alts :)) 11 post account, the other is 1 post 🤡
+                This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+💩
+Yeah your reply was confusing. 
+
+Low key isn't even slang. It's used very often. Based or thot is slang. 
+
+Low-key is used often by people but that doesn't make it slang. I hope this helps you.
+
+But I'm not about to argue with someone who spends money on reddit avatars so have a good one lad.
+Lol it was actually a pretty interesting page but I see your point. Have a good weekend
+Mans literally playing mobile diablo
+    Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+The best deck in snap right now features 6 series 5 cards (the most expensive in the game) a series 4 card, and a season pass card. You’re being intentionally disingenuous about the monetization of Snap in order to put down another game and I’m not entirely sure why. 
+
+This is coming from someone who has played a lot of both Snap (CL>15.5k) and AFK Journey.
+    If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+        You still arguing ? So much for "I value my time and effort" 🤣
+            Btw nice alts :)) 11 post account, the other is 1 post 🤡
+            This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+Played that game for 3 days during the release week and stayed in that sub for the fun drama as I am a Diablo fan. Check all my post in that sub and tell me how you would think I would be playing that game still lmao 🤣
+
+Same crap, 3000%, 8000% value bundle, get it now and they pops up everywhere.
+
+P2W af where f2p has absolutely 0 chance of competing is also undeniable. 
+
+Both are high quality games but the greedy developers fucked it up.
+If you played Snap, you know getting those s5 card is easy af. You use Keys for those mostly, and at 15k CL, you would have 100 keys. 
+
+If you have absolutely worst luck, only get the card you want at pity, which is 4 keys, you will have 25 series 5 cards. A deck of 12, using 6 series 5 cards at most would mean you are able to make on minimum, 5 completely different “most expensive” Meta decks.
+
+Now you are on equal ground with everyone.
+
+How is that more p2w than AFK arena? Pass be your copium 🤣
+    You still arguing ? So much for "I value my time and effort" 🤣
+        Btw nice alts :)) 11 post account, the other is 1 post 🤡
+        This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+You still arguing ? So much for "I value my time and effort" 🤣
+    Btw nice alts :)) 11 post account, the other is 1 post 🤡
+    This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩
+Btw nice alts :)) 11 post account, the other is 1 post 🤡
+This is fun and it is not as much of a waste of time comparing to playing Lilith game. 💩

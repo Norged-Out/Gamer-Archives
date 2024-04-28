@@ -20,6 +20,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -75,31 +76,28 @@ public class PseudoWatson {
      * documents hit by the query and their scores.
      * @param query: The query to be run on the index
      * @return List<ResultClass>: The list of results
+     * @throws ParseException 
+     * @throws IOException 
      */
-    private List<ResultClass> runQuery(String query){
+    private List<ResultClass> runQuery(String query) throws ParseException, IOException{
         List<ResultClass>  results = new ArrayList<ResultClass>();
         parser = new QueryParser("docContent", analyzer);
         Query q;
-        try {
-            q = parser.parse(query);
-            System.out.println("Query: " + q.toString());
-            IndexReader reader = DirectoryReader.open(index);
-            IndexSearcher searcher = new IndexSearcher(reader);
-            searcher.setSimilarity(new BM25Similarity());
-            TopDocs docs = searcher.search(q, 10);
-            for (ScoreDoc scoreDoc : docs.scoreDocs) {
-                Document doc = searcher.doc(scoreDoc.doc);
-                ResultClass result = new ResultClass();
-                result.DocName = doc;
-                result.docScore = scoreDoc.score;
-                results.add(result);
-            }
-            reader.close();
-        } catch (ParseException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+
+        q = parser.parse(query);
+        System.out.println("Query: " + q.toString());
+        IndexReader reader = DirectoryReader.open(index);
+        IndexSearcher searcher = new IndexSearcher(reader);
+        searcher.setSimilarity(new BM25Similarity());
+        TopDocs docs = searcher.search(q, 10);
+        for (ScoreDoc scoreDoc : docs.scoreDocs) {
+            Document doc = searcher.doc(scoreDoc.doc);
+            ResultClass result = new ResultClass();
+            result.DocName = doc;
+            result.docScore = scoreDoc.score;
+            results.add(result);
         }
+        reader.close();
         int hits = results.size();
         System.out.println("Found " + hits + " hits");
         int i = 0;
@@ -118,79 +116,75 @@ public class PseudoWatson {
      * Performs queries on the index and compares the retrieved answers with the expected answers.
      * @param filePath the path of the text file
      * @param scanner the scanner object to read user input
+     * @throws InterruptedException 
+     * @throws ParseException 
+     * @throws IOException 
      */
-    private void processQuestions(String filePath, Scanner scanner){
+    private void processQuestions(String filePath, Scanner scanner) throws InterruptedException, IOException, ParseException{
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource(filePath).getFile());
         List<ResultClass> results = null;
         ResultClass topAnswer = null;
-        try {
-            Thread.sleep(1000);
-            BufferedReader reader = new BufferedReader(new FileReader(file));
-            String line; // The line being read from the file
-            String query = null, answer = null; // The query and the expected answer
-            while((line = reader.readLine()) != null){
-                // If the line is not empty, it is either a query or an answer
-                if(!line.isEmpty()){
-                    if(query == null){
-                        query = line;
-                    }
-                    else{
-                        answer = line;
-                    }
+        Thread.sleep(1000);
+        BufferedReader reader = new BufferedReader(new FileReader(file));
+        String line; // The line being read from the file
+        String query = null, answer = null; // The query and the expected answer
+        while((line = reader.readLine()) != null){
+            // If the line is not empty, it is either a query or an answer
+            if(!line.isEmpty()){
+                if(query == null){
+                    query = line;
                 }
-                // If the line is empty, it is the end of the question
-                else if(line.isEmpty()){
-                    // Perform the query
-                    results = runQuery(query);
-                    System.out.println("Query: " + query);
-                    System.out.println("\nRunning Watson...\n");
-                    Thread.sleep(1500);
-                    // If there are results, get the top answer
-                    if (results.size() > 0){
-                        topAnswer = results.get(0);
-                        String docName = topAnswer.DocName.get("docName");
-                        System.out.println("Retrieved answer: " + docName);
-                        // Compare the top answer with the expected answer
-                        if(docName.equals(answer)){
-                            System.out.println("Correct!");
-                        }
-                        // Ask the user if they want to see alternative answers
-                        else{
-                            System.out.println("Incorrect!");
-                            System.out.println("Expected answer: " + answer);
-                            System.out.println("\nWould you like to see alternative answers? (y/n)");
-                            String alt = scanner.nextLine();
-                            // List up to 3 alternative answers
-                            if(alt.equals("y")){
-                                System.out.println("Here are some alternative answers I found:");
-                                int i = 1;
-                                while(i < 4 && i < results.size()){
-                                    System.out.println(results.get(i).DocName.get("docName"));
-                                    i++;
-                                }
-                            }
-                        }
-                        
-                    }
-                    // Reset the query and answer for the next query
-                    query = null;
-                    answer = null;
-                    System.out.println("\nContinue? (y/n)");
-                    String cont = scanner.nextLine();
-                    if (cont.equals("n")){
-                        break;
-                    }
-                    Thread.sleep(1000);
+                else{
+                    answer = line;
                 }
             }
-            reader.close();
+            // If the line is empty, it is the end of the question
+            else if(line.isEmpty()){
+                // Perform the query
+                results = runQuery(query);
+                System.out.println("Query: " + query);
+                System.out.println("\nRunning Watson...\n");
+                Thread.sleep(1500);
+                // If there are results, get the top answer
+                if (results.size() > 0){
+                    topAnswer = results.get(0);
+                    String docName = topAnswer.DocName.get("docName");
+                    System.out.println("Retrieved answer: " + docName);
+                    // Compare the top answer with the expected answer
+                    if(docName.equals(answer)){
+                        System.out.println("Correct!");
+                    }
+                    // Ask the user if they want to see alternative answers
+                    else{
+                        System.out.println("Incorrect!");
+                        System.out.println("Expected answer: " + answer);
+                        System.out.println("\nWould you like to see alternative answers? (y/n)");
+                        String alt = scanner.nextLine();
+                        // List up to 3 alternative answers
+                        if(alt.equals("y")){
+                            System.out.println("Here are some alternative answers I found:");
+                            int i = 1;
+                            while(i < 4 && i < results.size()){
+                                System.out.println(results.get(i).DocName.get("docName"));
+                                i++;
+                            }
+                        }
+                    }
+                    
+                }
+                // Reset the query and answer for the next query
+                query = null;
+                answer = null;
+                System.out.println("\nContinue? (y/n)");
+                String cont = scanner.nextLine();
+                if (cont.equals("n")){
+                    break;
+                }
+                Thread.sleep(1000);
+            }
         }
-        catch (IOException e){
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        reader.close();
 
     }
 
@@ -255,7 +249,11 @@ public class PseudoWatson {
         if (play.equals("y")){
             System.out.println("Great! Let's get started!");
             System.out.println("\n--------------------------------------------\n");
-            watson.processQuestions("questionBank.txt", scanner);
+            try {
+                watson.processQuestions("questionBank.txt", scanner);
+            } catch (InterruptedException | IOException | ParseException e) {
+                e.printStackTrace();
+            }
         }
     }
 
