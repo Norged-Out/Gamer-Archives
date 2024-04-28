@@ -1,0 +1,524 @@
+[[Sekiro's Posture Mechanic is a Fairly Good Representation of Hit Points]]
+
+
+For those unfamiliar with the game, Sekiro features a posture mechanic, and every character has a posture limit along with a regular health bar. When an enemy's posture exceeds their limit, their posture is broken, and they are left open to a deathblow which removes the remainder of their health and kills them. Posture is built up by being hit by attacks but also by having attacks deflected or countered and conversely by blocking attacks. Posture can be recovered if given space, so a sustained effort is required to effectively build up posture damage. However, the more injured a combatant is, the faster their posture meter fills.
+
+To me this seems like a fairly good representation of hit points as an abstract concept. Obviously, your fighter that has 150+ hit points isn't being actually stabbed, bludgeoned, shot, etc every time they get hit. They'd be covered in gaping wounds all the time. Hit points as I see them are more of an abstract idea of how you're being worn down through out the fight. Sure maybe you get hit here and there, but other "hits" are your character being deflected, outmaneuvered, countered, or just trying to block hard attacks. Eventually you get worn down enough that you take one big actual hit that takes you down. Obviously it's not a perfect comparison of the two game systems, but I thought it was a pretty good parallel to the concept of hit points.
+
+
+it's not a bad abstraction, for sure. biggest difference I can see is that you're just as effective at max HP as you are at 1 HP, compared to how reduced your combat effectiveness is at very low stamina/posture, where you might only be able to make one attack before you run out again. Nothing stops a PC with 1 hit point left from making a full attack or using any abilities
+    Plus there’s the fact that there’s no minimum severity to do that last bit of damage to kill somebody (unless you get damage resistance of course, but that’s not inherent to everybody). I remember seeing someone mention a campaign where through an odd series of events a pet chicken did the last 2hp and killed the god of spiders
+
+Edit: wrong god
+        That's why stronger monsters have dr and resistances.
+            I’m thinking more in terms of players. A paladin for example gets damage resistance against evil but a chicken could still get a 1hp peck and kill them. So by the logic in this post (which I mostly like) it seems like there would also be some threshold like say an attack has to do at least 5% of your max hp in excess of your current hp can kill you (not that that specifically would be a good solution, just to convey my thought of a more general threshold. This has the obvious problem that the math isn’t as easy as they usually go for the players and maybe fifty chickens could kill a paladin with enough pecks) so that way a chicken can kill a low level wizard but it at least takes a chicken with a decent sword to kill a 20th level paladin. I’m brainstorming more so than suggesting, by the way
+                Another reason I liked Pathfinders alternate rules to wounds and vitality.
+
+I can really deal with the fact that the chicken's last pick might be what drains your emotional fortitude and knocks you out but it's not enough to kill you.
+
+The chicken criticals though and it might actually hit an artery until the last bit of wound damage to kill you. (Also addresses some why 50 chickens kill you, they are much more likely for one to get the last crit)
+                    I'd really like to read these alternate rules for PF. Got a resource handy?
+                        https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+                            Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+    True, but that's mostly a difference in what's fun in each game.
+
+Posture damage hurts combat effectiveness in Sekiro because it's a game of skill and reflex based mostly around duels with one powerful opponent, so both of you can get worn down depending on how good the player is. Whereas in Pathfinder, you are expected to be fighting several enemies over the course of an adventuring day and much of what happens in combat is down to luck. So if there were mechanics making you weaker at low HP it would become a mostly inescapable death spiral and players would universally use whatever tactics they could to never engage with threats directly
+        A more accurate representation of this posture mechanic could be Mutants and Masterminds, which trades HP for taking penalties to the saving throw to get knocked out, with more damage both making it easier to knock someone out and usually weakening them. And if you blitz them hard enough, you could even take them out fast
+            I love M&M and I really enjoy how the system handles damage. It actually feels like damage much more than HP does
+                I love it too and was a huge advocate for PF2e adopting a lot of M&M 3e's systems, like the Degrees of Success (yep! Crit S/F) and universal Ranks and Measures systems (yup! proficiency is 70% of the way there). 
+
+That said, as cool and flavorful as the M&M HP system is, my experience is that combat DRAGS on. Moderately menacing encounters took PF-levels of hours to resolve. I eventually houseruled it so that instead of "-1 to future saves, plus a penalty depending on the degree of failure", it was "-X to future saves, plus the penalty" with X = the #Degrees of failure which made things close out a little faster when someone got good/terrible rolls.
+                    That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+                        No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+                        > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+        My group uses  [Wound Threshold](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/wound-thresholds-optional-rules/). We like it as it simulates fighting while damage while at the same time doesn't gimp us TOO hard since the enemies also suffer the same penalties. 
+
+Also under this rule set, PCs don't go unconscious unless they go negative equal to their CON modifier, so characters with high Con are more impactful with this rulse set.
+            My group tried these, too. It's certainly more realistic, but having *another* set of modifiers to keep track of was annoying to me. I'd probably get used to it eventually if we stuck with it, though.
+                Our group uses Roll20 and there is an option to enable automatic changes so it's less of a burden for us. It's not for everyone but it's worth giving a shot if people like a little bit more "realism" with their fantasy.
+        >  So if there were mechanics making you weaker at low HP it would become a mostly inescapable death spiral
+
+Mutants & Masterminds uses this mechanic, it actually works well and is much more realistic.  You get clobbered through a wall, you're actually injured and at less than peak fighting capability.  It means even the first hit you take could potentially knock you for a loop, and you are forced to be more tactical.
+
+> players would universally use whatever tactics they could to never engage with threats directly
+
+You say that like its a bad thing.  Fighting gets you killed, finding ways to NOT get squished by the giant are good things.
+
+Simply standing in front of a raging dragon because you know you've got more HP than it does is, frankly, metagaming.
+    Yeah but the posture mechanic in sekiro doesnt affect how many attacks you can make ,only how long will It take for you to be worn down so you're left open for a kill move
+    > compared to how reduced your combat effectiveness is at very low stamina/posture, where you might only be able to make one attack before you run out again
+
+Sekiro, not Dark Souls
+
+Sekiro doesn't have a stamina bar at all, you can attack and dodge as often as you like. The posture bar fills up when you block with bad timing, but the difference between an empty posture bar and a near-full posture bar is nothing, it's only when it fills completely that you stagger.
+        My bad, only played a couple hours of Sekiro and was thinking of DS/Nioh
+    The Wound Thresholds from Pathfinder Unchained go a long way to bridge this 'realism' gap.
+
+Like most realism measures, however, they disproportionately affect martials so I'll never use them.
+Starfinder did this best imo
+Those rationalizations, where hit points partially represent your ability to avoid damage or luck and you only get hurt when close or at zero HP have been around forever and were specifically codified in 4e, but they still have their share of problems where they don't mesh with the system, namely:
+
+Why does a greataxe diminish your stamina more than a dagger or a rapier? Dodging faster weapons should be more difficult than avoiding clumsy and brutish attacks.
+
+How do healing spells work the way they do? How does the high level fighter need, to replenish his abstract abilityto avoid damage, the same amount of actual, real healing that would completely heal a dozen soldiers of all their wounds?
+
+That same fighter, when fresh and at the top of his hit points, fights a humongous spider and is bitten. He takes, relatively to his hit points, little damage but is poisoned. Well, did the massive spider's pincers hit him (and how is being bitten by such massive creature a minor inconvenience), or did they not? (and then how did the venom get into his body?)
+    Getting hit or deflecting a greateaxe is going to take more out of you than the dagger
+
+Healing magic, and especially temporary hit points, mostly just represents extra energy being given to you. You'll notice that most of it won't regrow actual severed limbs or restore damaged eyesight, etc.
+
+Any attack that applies an injury poison can be assumed as one that actually, you know, injured you
+        > Any attack that applies an injury poison can be assumed as one that actually, you know, injured you
+
+That's also a rule. If an attack deals no damage or is fully blocked by DR then it also stops the riders (such as poison) on that attack.
+
+A spider with a max damage of let's say 2 would never be able to poison someone that has DR 5/-.  Not even if they crit. Since they would never be able to deal damage to that person.
+            yeah, i think they were referring to the abstraction. if HP represent energy or stamina rather than actual damage capacity, then you're not actually being injured when you lose HP, so how are you getting poisoned? my answer is that the abstraction includes being nicked, scraped, and bruised. the spider bite didn't really hurt and the dagger blade only nicked your hand; that's still sufficient injury to poison you.
+            I love that the rules codify that normal spiders aren't actually dangerous to most people
+        It still doesn't make much sense to me. Thinking about it hurts my suspension of disbelief harder than just shutting up and calculating hit points.
+            It relies pretty heavily on your GMs ability to illustrate the scene in a believable manner. Remember, there's more than one way for things to happen. A combination of minor wounds, cuts & bruises from near misses constitute a large portion of HP loss as well as loss of composure. Healing those cuts and bruises would do wonders for your ability to avoid damage.
+
+Maybe the spider didn't just jab it's fang through your torso and inject a gallon of poison. Perhaps it went in for a bite, you caught it with your shield, but the fang hooked around and scraped under the shoulder pad on your armor, grazing open the skin. Instead of injecting the poison, the poison dribbles across the wound and causes a burning sensation, diminishing your focus and ability to avoid a death blow.
+            It's a great idea, just not for Pathfinder. Maybe a completely different system.
+    With weapon size differences it might not necessarily be dodging - it might be getting hit in a way that leaves you winded or shaken (not the condition) but not grievously injured. A glancing blow off the shoulder that you know is going to leave a bruise, or striking in a way where the padding under the armor doesn't soften the blow.
+
+Healing spells can both replenish energy/stamina, i.e., the ability to absorb these blows without actual physical harm, as well as closing wounds. They might even close wounds first (going from 5% to 30% hp) before you regain stamina (going from 30% to above half)
+
+A spider bite with poison damage can also be flavored as fatigue or stamina loss. Maybe the bite doesnt cause any physical damage or pain (just a couple of red spots), but the venom drains your stamina and weakens you, making it more likely that the next blow won't be dodged or brushed aside but instead strike true. Not every single "non lethal" hit needs to be described exactly the same way. 
+
+If you still don't like this abstraction then maybe its not for you. But the idea that a 10th level fighter can take 9 full hits from an orc's great axe and still function at full capacity as though they weren't suffering from massive injuries doesnt sit well with some people either.
+
+A middle ground would be having two separate stats like Sekiro: a Vitality or Composure stat, that scales with level and class, and a Health or Body stat that is purely based on highest hit die and constitution score. Normal hits reduce Composure until it's at zero, in which case excess reduces health, and certain types of damage, or critical hits, might deal damage to health directly. Furthermore, maybe some healing spells only affect composure, or not being at max health might impose a penalty on certain checks to varying degrees depending on the amount of damage taken. This does make critical hits and some damage more lethal, but it also allows for "minion" type enemies like in 4th ed that maybe have only health and no vitality, so higher level adventurers can just cleave through them like in LotR and the like.
+
+Having two stats instead of just "hit points" bridges the gap between "hit points are an abstraction" and "damage should cause damage".
+        > A middle ground would be having two separate stats like Sekiro: a Vitality or Composure stat, that scales with level and class, and a Health or Body stat that is purely based on highest hit die and constitution score.
+
+https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor
+            Ah! I knew it was an Unearthed Arcana in 3.X, I didn't realize it was also in PF. Thanks!
+        Don't get me wrong, I've been describing the effects of hit points in that way for many years but it's still riddled with inconsistencies that I ignore as best as I can. It's undeniable that the rules best describe combat where a high level character can suffer wounds that would fell an elephant and somehow still be alive, and retooling it to a stamina/wounds system would take a substantial amount of work.
+            I agree, and similar to what someone else said in a reply, the closer you try to simulate reality, the grittier the numbers get, because reality isn't that simple.
+
+For me as a GM it's one of those things that I have to really really try not to think about, or else I'll stay up all night trying to figure out an alternative that just ends up being a nightmarish spaghetti-tangle of interactions and conditions that no one in their right mind would want to have anything to do with.
+    And therein lies the conceit of, at the end of the day, we're playing a game, and said game is trying to balance simulating reality with having a fun game. Combat is already incredibly involved in PF, probably pretty high on the complexity scale for TTRPGs. The more you add those nuances to combat, the longer combat takes, the longer you wait between turns, and the more you're just better off playing a video game.
+
+I'm a big fan of the wound thresholds system, and the wounds and vigor system for making you play smarter. Any more complexity to do with health and stamina though, and I might just disengage.
+    This is why I always rationalise hitpoints as a reservoir of supernatural resilience. Up to about 20 is normal human resilience, beyond that, it's superhuman resilience.
+
+Think James Bond as an example from another type of media, or Batman. 
+
+Yes, that greataxe critical connected fully. Your fighter survived, not because she dodged most of it, but because she far, far surpasses the capabilities of IRL humans.
+
+But your fighter isn't Superman with a seemingly unlimited reservoir of supernatural endurance, nor is she Wolverine whose wounds heal themselves. She's hurt, she's just neither down nor out, just like Bond or Batman.
+        This made me think of adding a system to “fight on”. The difficulty of willpower checks would be equal to the amount of damage taken, or some such.
+    The only true metric for HP is how many 14-inch shells you can shrug off and nothing else!
+    The big question if you start to abstract hp in a "non damage way" is what does nonlethal damage represent?
+I always imagined something like Hume's levels in SCPs.
+
+Basically Hume is a way to measure reailty itself. A hume of 1 is like normal reality, lower than that and you get stuff like paranormal activities.
+
+An interesting side effect of low levels of humes is that even when someone sustains what should be a deadly wound they manage to survive. My (theory? Headcanon? Don't know I have the right definition) is that when a character becomes more powerful, he gets a bit more detatched from reality, so a wound that would be lethal to a normal person could be sustained easily.
+
+This wpuld also explains the low HPs of casters. In the SCP foundations there are some entities known as Reality Benders which can bend reality (duh).
+
+A reality bender usually have a higher hume value on itself, but has an "aura" that actually decreases the hume level around it, making it possible for them to impose their will on the reality that surrounds them. Having a higher hume has the opposite effect for wounds, meaning wounds are more lethal (the problem is getting to them to do damage in the first place, and the fact that they can manipulate their own wounds to heal themselves).
+
+So basically PF characters are unrealistic in the way that they are so powerful they start to detatch themselves from reality itself, and spellcasters are basically very limited reality benders.
+I usually treat battles in Pathfinder like anime. AC determines how you dodged and damage determines how and where you got hit.
+> Obviously, your fighter that has 150+ hit points isn't being actually stabbed, bludgeoned, shot, etc every time they get hit.  
+
+Why not? It makes the most sense, if we include bleed attacks; poison and other "on-hit" mechanics. Its fantasy after all and we play heros, anti heros and villians. Our characters are like greek godnesses. 
+
+The bodies are just more damage resistant than real ones and they also heal faster. You may say "well thats not realistic", well I have never seen somebody cast a spell in the real world.
+    It makes even more sense because you can survive orbital drop at high level or that you need far stronger healing than a normal low lvl person would need.
+I've always liked HP as Endurance.
+
+Akin what you describe above - when the enemy orc lands a blow with its greataxe, it's not creating a gaping, certainly lethal wound in the PCs chest. Rather, it strikes their armor, grazes their skin, or otherwise causes them to expend an excess of energy to  avoid that fatal blow being dealt.
+
+Regarding the very valid argument that expending such energy would make a PC weaker over time, I invite you to consider classic fantasy media. I'd argue that it's a common trope for the hero to be fighting with all their might to the very last, even dealing killing blows as they themselves reach unconsciousness.
+I tell my players to tell me when they've been dropped below their CON score in HP by a hit. Until then, hits are described as near misses, dramatic weapon blocks, minor cuts/scrapes, or armor softening blows. Once they're below CON score, though, they start getting the real nasty wounds like arrows in the knee or whatnot.
+
+It works fairly well, and it lets characters with high CON scores survive more trauma. Things that depend on actual contact (poisoned weapons, for example, obviously have to hit you to inflict the poison) aren't that common, and in most cases it can be a superficial wound: *you bring your sword up, and your arms buckle under the strain of stopping the axe from tearing into your flesh. for a moment, you imagine you've escaped unscathed, but you notice a hairline cut in your shoulder where the axe just barely made contact. Before you can dismiss it as just a scratch, it begins to burn in pain; make a Fort save.* Falling damage is similarly wonky (thank god its more lethal in 2e), but I find asking the players how their character attempts to survive something helps seed justifying the fact that they took tons of "not really getting hurt" damage but are still above their CON score and not even in danger.
+Yes and No. Mainly no.
+
+I certainly understand where you're coming from but that's also thinking of a world where things only get as strong as real life.
+
+In all fairness it falls apart due if you aren't a medium humanoid. i could use a *magic* longsword on a dragon, stabbing right into it's chest, and that sword wouldn't even be big enough to reach an organ. I did damage, but barely, there's no abstraction to be had. AC already acts as the abstraction of your character's ability to avoid damage (As do Saves).
+
+This falls apart more with Fast Healing and magical healing. You are being hit, you far surpassed real life human reaction to damage. By the point 'being stabbed by a long sword' feels unrealistic to survive, you're character is barely human from a physical standpoint. And if you're a different race, you never were.
+
+While I understand some people find that stupid (somehow, in a game with magic.) A comparison point is: A real life human has 10 con, is level 1, and has a 1d6 hitdie as a commoner. They have 6 health at best. Yes, a sword will kill them in a single blow as it should, or not, they might only take 1-5 damage because they only stabbed them in the arm or leg.
+
+In the end, this comparison only works if you can't imagine the physical feats of your character as something past that of a normal person, both skill-wise, and physically.
+
+Edit: If we're using Sekiro, there's plenty of people who survive a killing blow. They just have more hitdie, simple as that.
+I'd say a pretty good abstraction.
+
+Pathfinders alternate rules for the wound and vitality points is actually one of my favorite because the vitality represents all those things that you dodge but you get worn down.
+
+Well the wounds represent actual physical damage. Being able to target and effect them different was very nice
+Hit points have always been like this, ever since OD&D. It's an abstraction of one's ability to avoid a lethal blow, which includes: stamina, combat ability (parrying, blocking), body endurance, body training, willpower, pain resistance, stance, etc.
+
+That's why fighters have more HP than wizards, because they're trained for combat and not because they're meatier or have bulging muscles. Wizards still have some amount of HP because it's assumed that player wizards have some degree of training.
+Oh yeah, HP are as much about "luck", "you wrenched your back dodging that swing", etc as they are about actually taking physical damage.
+
+My favorite one to point out as a good example of this is actually, of all things, Storm Troopers.  In the first movie, Kenobi clearly calls them out as being precise shots, but they manage to miss Han and Luke from short range, repeatedly.  How do these two facts align?  Is Kenobi full of it?
+
+Nope, Han and Luke just have hitpoints.  The Storm Troopers were probably hitting Han and Luke *repeatedly*, but because they never did enough damage to drop them to 0 or less HP, they were never actually "hit" by the blasters.  Since the blaster is going to do LOTS of damage to flesh, the only time someone can be "hit" is when they go to less than 1 hp and are actually incapacitated.
+
+Its also why Storm Troopers go down so easy, they have very few HP so any solid hit kills them.
+
+Same goes for just about everything in the movie.  Luke gets a TIE fighter on his tail?  He's dodging shots, shots are glancing off his hull, even R2 gets hit, but Luke is fine.  While Porkins?  Porkins goes down like a bag of rocks the first time a TIE gets him in their sights.  Luke had tons of PC hitpoints, Porkins was a lvl 1 NPC.  The TIE hit Luke repeatedly, but never did enough damage to outright destroy his X-Wing.  We just saw the in-universe explanation of near misses and glancing blows.
+    > My favorite one to point out as a good example of this is actually, of all things, Storm Troopers. In the first movie, Kenobi clearly calls them out as being precise shots, but they manage to miss Han and Luke from short range, repeatedly. How do these two facts align? Is Kenobi full of it?
+
+Ahem..
+
+> Tarkin: Are they away?
+
+> Darth Vader: They've just made the jump into hyperspace.
+
+> Tarkin: You're sure the homing beacon is secure aboard their ship? I'm taking an awful risk, Vader. This had better work.
+
+In other words, the Stormtroopers were likely ordered to miss and allow our heroes to escape, so that the Falcon would lead the Deathstar to the last rebel base..
+
+Carry on!
+1e *Player's Handbook*, p. 34:
+
+
+> Each character has a varying number of hit points,' just as monsters do.These hit points represent how much damage (actual or potential) the character can withstand before being killed. **A certain amount of these hit points represent the actual physical punishment which can be sustained. The remainder, a significant portion of hit points at higher levels, stands for skill, luck, and/or magical factors.** A typical man-at-arms can take about 5 hit points of damage before being Killed. Let us suppose that a 10th level fighter has 55 hit points, plus a bonus of 30 hit points for his constitution, for a total of 85 hit points. This IS the equivalent of about 18 hit dice for creatures, about what it would take to kill four huge warhorses. It is ridiculous to assume that even a fantastic flghter can take that much punishment. The some holds true to a lesser extent for clerics, thieves, and the other classes. **Thus, the majority of hit paints aresymbolic of combat skill, luck (bestowed by supernatural powers), and magical forces.**
+Sekiro's is a *bit* more comparable since there are characters that survive one or more Deathblows, but still. No. No. *No.*
+
+ There are more instances where this kind of abstraction *fails* than when it works. There's a reason I hate this discussion every time it comes up. In high fantasy, **Hit Points are Meat Points.**
+
+* Is reaching terminal velocity in a fall an instant death? No; falling damage caps at 20d6, which is easily survivable by a mid-level martial. 
+* Are most damaging magics instant kills? Disintegrate *reduces matter to dust*, yet a character could survive it even if they fail their save. 
+* As discussed by others, damage-over-time effects don't make sense. When you're bleeding, are you just sweating really hard? What about poison? Most poisons require *injuries* to properly apply them. The idea of them fatiguing you is acceptable when they damage physical attributes, maybe...but some damage mental stats. They'd have to enter the bloodstream to do that.
+* If being hit is actually you deflecting a blow, why does armour affect AC? In real life, you still take the momentum of a weapon, even if your armour prevents a lethal blow; you still would get fatigued. A 0 DEX, 0 Dodge fighter should be getting worn down even if their opponent 'misses'.
+* Do you just completely ignore these abstractions when a Barbarian walks into an encounter?
+    Completely agree, also do note how you need far more powerful healing compared to low lvl.
+You can use that abstraction as you like, but I don't think it quite maps onto the HP abstraction, but I think that the HP abstraction is fundamentally a concession towards gameplay, rather then simulation.
+I like the parallel. I've always thought of hitpoints as something like a combination of your luck and skill in combat, like your ability to turn a potentially deadly blow into a less serious one because you know what you are doing. It also explains why martial classes get larger hit die, as a trained warrior is naturally going to be better at deflecting deadly blows than a wizard. It turns out, if you get stabbed in the chest with a sword, you die, regardless of how well trained you are, but your training could allow you to twist out of the way and take a glancing blow, lowering your overall ability to avoid a lethal blow (your hp) but leaving you still fighting at full ability.
+I'm not sure where it's originally from, but the d20 Stargate RPG explains it a bit better by saying that HP is just luck. With only the final hit actually connecting.
+That's how I treat it anyway, mixing in the concept of destiny (characters have some degree of plot armor that's why they have so many hit points and can miraculously avoid that giant's club that could have leveled a house).
+
+But in mechanic, hit points are far too often used as meat points as all the things like sneak attacks are said to hurt more and that bleeding effects are on hit points, HEALING spells used to recover them.
+
+So I threw some house rules in. Basically you gain a level of exhaustion when you fall under 50% or 0% of your HP. You can still move at 0 or under but you can no longer last minute dodge and will be injured if that happens.
+Hero system does it best with Stun, Body and disabling hits.
+I go with ES3 Morrowind stamina system. Of course, Morrowind had a health bar on top of stamina, but if you ran out of stamina and you get hit, you drop to the floor from being worn out. And that's when you actually take lethal hits - when you are prone and defenseless.
+I just describe above-0 hp damage in dnd as potential serious wounds turned into scratches and glancing blows by the skill of the defender. 
+
+"A blow that would crush your skull instead rattles you as you deflect it off your shield, but your arm will be bruised and sprained later" for a hit with a bludgeoning weapon, 
+
+"using a downward stroke of your blade, you expertly turn your opponent's decapitating slash to your neck into a shallow but bloody wound slanting across your chest" for a slashing weapon, stuff like that. It makes the fight feel more alive, since the turn-based nature of the combat creates the mechanical reality that you're just taking turns standing there whacking each other, when as a DM it's your job to create the illusion of a dynamic, constantly-shifting struggle, with momentum and gravitas.
+I love it. It makes so much more sense.
+Imo another good way of seeing it is how Naughty Dogs does it in Uncharted.
+
+Nathan Drake doesn't take bullet damage when being shot at, the red UI that pops up around the screen actually represents his "luck". When enemies get enough near-misses, eventually his luck runs out and they get a clear shot and kill him
+I really never got this desire to imply that you're not taking damage when you take damage,  so much in the game assumes it's an actual hit, poison, spellstrike, grab, rend etc. and that's before we get to how ludicrous it can get with the many things other than attacks, like spells or falling into a pit of lava.
+I agree with OP. I always see HP as how much punishment a PC can take, how resistant they are. And when they go past 0hp they take one blow too many and they're out of combat or disabled for a short time.
+
+HP are not an actual representation of the state of health of a PC
+I do not treat HP as abstraction but simply far stronger life force/body, due to high level characters being able to survive damage that is not dealt by an enemy. You can survive orbital drop with just 121 hp so this is the difference between low level and high level.
+That's explicitly how hit points work. I've always been a bigger fan of vitality and wounds though, vitality working like HP, steadily decreasing as you fought to show the fatigue of near misses. In some systems you become fatigued or exhausted when it hits 0. Wounds in comparision are a secondary health pool that doesn't get touched except for critical or death effects until VP is depleted, and when it hits 0 you die. The neat thing about it us that wounds are hard to heal so while normal light attacks still get brushed off like pathfinder characters usually do sustained combat, heavy hits, and negative energy could possibly drop you stone dead. Makes combat a little more interesting.
+Plus there’s the fact that there’s no minimum severity to do that last bit of damage to kill somebody (unless you get damage resistance of course, but that’s not inherent to everybody). I remember seeing someone mention a campaign where through an odd series of events a pet chicken did the last 2hp and killed the god of spiders
+
+Edit: wrong god
+    That's why stronger monsters have dr and resistances.
+        I’m thinking more in terms of players. A paladin for example gets damage resistance against evil but a chicken could still get a 1hp peck and kill them. So by the logic in this post (which I mostly like) it seems like there would also be some threshold like say an attack has to do at least 5% of your max hp in excess of your current hp can kill you (not that that specifically would be a good solution, just to convey my thought of a more general threshold. This has the obvious problem that the math isn’t as easy as they usually go for the players and maybe fifty chickens could kill a paladin with enough pecks) so that way a chicken can kill a low level wizard but it at least takes a chicken with a decent sword to kill a 20th level paladin. I’m brainstorming more so than suggesting, by the way
+            Another reason I liked Pathfinders alternate rules to wounds and vitality.
+
+I can really deal with the fact that the chicken's last pick might be what drains your emotional fortitude and knocks you out but it's not enough to kill you.
+
+The chicken criticals though and it might actually hit an artery until the last bit of wound damage to kill you. (Also addresses some why 50 chickens kill you, they are much more likely for one to get the last crit)
+                I'd really like to read these alternate rules for PF. Got a resource handy?
+                    https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+                        Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+True, but that's mostly a difference in what's fun in each game.
+
+Posture damage hurts combat effectiveness in Sekiro because it's a game of skill and reflex based mostly around duels with one powerful opponent, so both of you can get worn down depending on how good the player is. Whereas in Pathfinder, you are expected to be fighting several enemies over the course of an adventuring day and much of what happens in combat is down to luck. So if there were mechanics making you weaker at low HP it would become a mostly inescapable death spiral and players would universally use whatever tactics they could to never engage with threats directly
+    A more accurate representation of this posture mechanic could be Mutants and Masterminds, which trades HP for taking penalties to the saving throw to get knocked out, with more damage both making it easier to knock someone out and usually weakening them. And if you blitz them hard enough, you could even take them out fast
+        I love M&M and I really enjoy how the system handles damage. It actually feels like damage much more than HP does
+            I love it too and was a huge advocate for PF2e adopting a lot of M&M 3e's systems, like the Degrees of Success (yep! Crit S/F) and universal Ranks and Measures systems (yup! proficiency is 70% of the way there). 
+
+That said, as cool and flavorful as the M&M HP system is, my experience is that combat DRAGS on. Moderately menacing encounters took PF-levels of hours to resolve. I eventually houseruled it so that instead of "-1 to future saves, plus a penalty depending on the degree of failure", it was "-X to future saves, plus the penalty" with X = the #Degrees of failure which made things close out a little faster when someone got good/terrible rolls.
+                That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+                    No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+                    > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+    My group uses  [Wound Threshold](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/wound-thresholds-optional-rules/). We like it as it simulates fighting while damage while at the same time doesn't gimp us TOO hard since the enemies also suffer the same penalties. 
+
+Also under this rule set, PCs don't go unconscious unless they go negative equal to their CON modifier, so characters with high Con are more impactful with this rulse set.
+        My group tried these, too. It's certainly more realistic, but having *another* set of modifiers to keep track of was annoying to me. I'd probably get used to it eventually if we stuck with it, though.
+            Our group uses Roll20 and there is an option to enable automatic changes so it's less of a burden for us. It's not for everyone but it's worth giving a shot if people like a little bit more "realism" with their fantasy.
+    >  So if there were mechanics making you weaker at low HP it would become a mostly inescapable death spiral
+
+Mutants & Masterminds uses this mechanic, it actually works well and is much more realistic.  You get clobbered through a wall, you're actually injured and at less than peak fighting capability.  It means even the first hit you take could potentially knock you for a loop, and you are forced to be more tactical.
+
+> players would universally use whatever tactics they could to never engage with threats directly
+
+You say that like its a bad thing.  Fighting gets you killed, finding ways to NOT get squished by the giant are good things.
+
+Simply standing in front of a raging dragon because you know you've got more HP than it does is, frankly, metagaming.
+Yeah but the posture mechanic in sekiro doesnt affect how many attacks you can make ,only how long will It take for you to be worn down so you're left open for a kill move
+> compared to how reduced your combat effectiveness is at very low stamina/posture, where you might only be able to make one attack before you run out again
+
+Sekiro, not Dark Souls
+
+Sekiro doesn't have a stamina bar at all, you can attack and dodge as often as you like. The posture bar fills up when you block with bad timing, but the difference between an empty posture bar and a near-full posture bar is nothing, it's only when it fills completely that you stagger.
+    My bad, only played a couple hours of Sekiro and was thinking of DS/Nioh
+The Wound Thresholds from Pathfinder Unchained go a long way to bridge this 'realism' gap.
+
+Like most realism measures, however, they disproportionately affect martials so I'll never use them.
+Getting hit or deflecting a greateaxe is going to take more out of you than the dagger
+
+Healing magic, and especially temporary hit points, mostly just represents extra energy being given to you. You'll notice that most of it won't regrow actual severed limbs or restore damaged eyesight, etc.
+
+Any attack that applies an injury poison can be assumed as one that actually, you know, injured you
+    > Any attack that applies an injury poison can be assumed as one that actually, you know, injured you
+
+That's also a rule. If an attack deals no damage or is fully blocked by DR then it also stops the riders (such as poison) on that attack.
+
+A spider with a max damage of let's say 2 would never be able to poison someone that has DR 5/-.  Not even if they crit. Since they would never be able to deal damage to that person.
+        yeah, i think they were referring to the abstraction. if HP represent energy or stamina rather than actual damage capacity, then you're not actually being injured when you lose HP, so how are you getting poisoned? my answer is that the abstraction includes being nicked, scraped, and bruised. the spider bite didn't really hurt and the dagger blade only nicked your hand; that's still sufficient injury to poison you.
+        I love that the rules codify that normal spiders aren't actually dangerous to most people
+    It still doesn't make much sense to me. Thinking about it hurts my suspension of disbelief harder than just shutting up and calculating hit points.
+        It relies pretty heavily on your GMs ability to illustrate the scene in a believable manner. Remember, there's more than one way for things to happen. A combination of minor wounds, cuts & bruises from near misses constitute a large portion of HP loss as well as loss of composure. Healing those cuts and bruises would do wonders for your ability to avoid damage.
+
+Maybe the spider didn't just jab it's fang through your torso and inject a gallon of poison. Perhaps it went in for a bite, you caught it with your shield, but the fang hooked around and scraped under the shoulder pad on your armor, grazing open the skin. Instead of injecting the poison, the poison dribbles across the wound and causes a burning sensation, diminishing your focus and ability to avoid a death blow.
+        It's a great idea, just not for Pathfinder. Maybe a completely different system.
+With weapon size differences it might not necessarily be dodging - it might be getting hit in a way that leaves you winded or shaken (not the condition) but not grievously injured. A glancing blow off the shoulder that you know is going to leave a bruise, or striking in a way where the padding under the armor doesn't soften the blow.
+
+Healing spells can both replenish energy/stamina, i.e., the ability to absorb these blows without actual physical harm, as well as closing wounds. They might even close wounds first (going from 5% to 30% hp) before you regain stamina (going from 30% to above half)
+
+A spider bite with poison damage can also be flavored as fatigue or stamina loss. Maybe the bite doesnt cause any physical damage or pain (just a couple of red spots), but the venom drains your stamina and weakens you, making it more likely that the next blow won't be dodged or brushed aside but instead strike true. Not every single "non lethal" hit needs to be described exactly the same way. 
+
+If you still don't like this abstraction then maybe its not for you. But the idea that a 10th level fighter can take 9 full hits from an orc's great axe and still function at full capacity as though they weren't suffering from massive injuries doesnt sit well with some people either.
+
+A middle ground would be having two separate stats like Sekiro: a Vitality or Composure stat, that scales with level and class, and a Health or Body stat that is purely based on highest hit die and constitution score. Normal hits reduce Composure until it's at zero, in which case excess reduces health, and certain types of damage, or critical hits, might deal damage to health directly. Furthermore, maybe some healing spells only affect composure, or not being at max health might impose a penalty on certain checks to varying degrees depending on the amount of damage taken. This does make critical hits and some damage more lethal, but it also allows for "minion" type enemies like in 4th ed that maybe have only health and no vitality, so higher level adventurers can just cleave through them like in LotR and the like.
+
+Having two stats instead of just "hit points" bridges the gap between "hit points are an abstraction" and "damage should cause damage".
+    > A middle ground would be having two separate stats like Sekiro: a Vitality or Composure stat, that scales with level and class, and a Health or Body stat that is purely based on highest hit die and constitution score.
+
+https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor
+        Ah! I knew it was an Unearthed Arcana in 3.X, I didn't realize it was also in PF. Thanks!
+    Don't get me wrong, I've been describing the effects of hit points in that way for many years but it's still riddled with inconsistencies that I ignore as best as I can. It's undeniable that the rules best describe combat where a high level character can suffer wounds that would fell an elephant and somehow still be alive, and retooling it to a stamina/wounds system would take a substantial amount of work.
+        I agree, and similar to what someone else said in a reply, the closer you try to simulate reality, the grittier the numbers get, because reality isn't that simple.
+
+For me as a GM it's one of those things that I have to really really try not to think about, or else I'll stay up all night trying to figure out an alternative that just ends up being a nightmarish spaghetti-tangle of interactions and conditions that no one in their right mind would want to have anything to do with.
+And therein lies the conceit of, at the end of the day, we're playing a game, and said game is trying to balance simulating reality with having a fun game. Combat is already incredibly involved in PF, probably pretty high on the complexity scale for TTRPGs. The more you add those nuances to combat, the longer combat takes, the longer you wait between turns, and the more you're just better off playing a video game.
+
+I'm a big fan of the wound thresholds system, and the wounds and vigor system for making you play smarter. Any more complexity to do with health and stamina though, and I might just disengage.
+This is why I always rationalise hitpoints as a reservoir of supernatural resilience. Up to about 20 is normal human resilience, beyond that, it's superhuman resilience.
+
+Think James Bond as an example from another type of media, or Batman. 
+
+Yes, that greataxe critical connected fully. Your fighter survived, not because she dodged most of it, but because she far, far surpasses the capabilities of IRL humans.
+
+But your fighter isn't Superman with a seemingly unlimited reservoir of supernatural endurance, nor is she Wolverine whose wounds heal themselves. She's hurt, she's just neither down nor out, just like Bond or Batman.
+    This made me think of adding a system to “fight on”. The difficulty of willpower checks would be equal to the amount of damage taken, or some such.
+The only true metric for HP is how many 14-inch shells you can shrug off and nothing else!
+The big question if you start to abstract hp in a "non damage way" is what does nonlethal damage represent?
+It makes even more sense because you can survive orbital drop at high level or that you need far stronger healing than a normal low lvl person would need.
+> My favorite one to point out as a good example of this is actually, of all things, Storm Troopers. In the first movie, Kenobi clearly calls them out as being precise shots, but they manage to miss Han and Luke from short range, repeatedly. How do these two facts align? Is Kenobi full of it?
+
+Ahem..
+
+> Tarkin: Are they away?
+
+> Darth Vader: They've just made the jump into hyperspace.
+
+> Tarkin: You're sure the homing beacon is secure aboard their ship? I'm taking an awful risk, Vader. This had better work.
+
+In other words, the Stormtroopers were likely ordered to miss and allow our heroes to escape, so that the Falcon would lead the Deathstar to the last rebel base..
+
+Carry on!
+Completely agree, also do note how you need far more powerful healing compared to low lvl.
+That's why stronger monsters have dr and resistances.
+    I’m thinking more in terms of players. A paladin for example gets damage resistance against evil but a chicken could still get a 1hp peck and kill them. So by the logic in this post (which I mostly like) it seems like there would also be some threshold like say an attack has to do at least 5% of your max hp in excess of your current hp can kill you (not that that specifically would be a good solution, just to convey my thought of a more general threshold. This has the obvious problem that the math isn’t as easy as they usually go for the players and maybe fifty chickens could kill a paladin with enough pecks) so that way a chicken can kill a low level wizard but it at least takes a chicken with a decent sword to kill a 20th level paladin. I’m brainstorming more so than suggesting, by the way
+        Another reason I liked Pathfinders alternate rules to wounds and vitality.
+
+I can really deal with the fact that the chicken's last pick might be what drains your emotional fortitude and knocks you out but it's not enough to kill you.
+
+The chicken criticals though and it might actually hit an artery until the last bit of wound damage to kill you. (Also addresses some why 50 chickens kill you, they are much more likely for one to get the last crit)
+            I'd really like to read these alternate rules for PF. Got a resource handy?
+                https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+                    Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+A more accurate representation of this posture mechanic could be Mutants and Masterminds, which trades HP for taking penalties to the saving throw to get knocked out, with more damage both making it easier to knock someone out and usually weakening them. And if you blitz them hard enough, you could even take them out fast
+    I love M&M and I really enjoy how the system handles damage. It actually feels like damage much more than HP does
+        I love it too and was a huge advocate for PF2e adopting a lot of M&M 3e's systems, like the Degrees of Success (yep! Crit S/F) and universal Ranks and Measures systems (yup! proficiency is 70% of the way there). 
+
+That said, as cool and flavorful as the M&M HP system is, my experience is that combat DRAGS on. Moderately menacing encounters took PF-levels of hours to resolve. I eventually houseruled it so that instead of "-1 to future saves, plus a penalty depending on the degree of failure", it was "-X to future saves, plus the penalty" with X = the #Degrees of failure which made things close out a little faster when someone got good/terrible rolls.
+            That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+                No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+                > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+My group uses  [Wound Threshold](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/wound-thresholds-optional-rules/). We like it as it simulates fighting while damage while at the same time doesn't gimp us TOO hard since the enemies also suffer the same penalties. 
+
+Also under this rule set, PCs don't go unconscious unless they go negative equal to their CON modifier, so characters with high Con are more impactful with this rulse set.
+    My group tried these, too. It's certainly more realistic, but having *another* set of modifiers to keep track of was annoying to me. I'd probably get used to it eventually if we stuck with it, though.
+        Our group uses Roll20 and there is an option to enable automatic changes so it's less of a burden for us. It's not for everyone but it's worth giving a shot if people like a little bit more "realism" with their fantasy.
+>  So if there were mechanics making you weaker at low HP it would become a mostly inescapable death spiral
+
+Mutants & Masterminds uses this mechanic, it actually works well and is much more realistic.  You get clobbered through a wall, you're actually injured and at less than peak fighting capability.  It means even the first hit you take could potentially knock you for a loop, and you are forced to be more tactical.
+
+> players would universally use whatever tactics they could to never engage with threats directly
+
+You say that like its a bad thing.  Fighting gets you killed, finding ways to NOT get squished by the giant are good things.
+
+Simply standing in front of a raging dragon because you know you've got more HP than it does is, frankly, metagaming.
+My bad, only played a couple hours of Sekiro and was thinking of DS/Nioh
+> Any attack that applies an injury poison can be assumed as one that actually, you know, injured you
+
+That's also a rule. If an attack deals no damage or is fully blocked by DR then it also stops the riders (such as poison) on that attack.
+
+A spider with a max damage of let's say 2 would never be able to poison someone that has DR 5/-.  Not even if they crit. Since they would never be able to deal damage to that person.
+    yeah, i think they were referring to the abstraction. if HP represent energy or stamina rather than actual damage capacity, then you're not actually being injured when you lose HP, so how are you getting poisoned? my answer is that the abstraction includes being nicked, scraped, and bruised. the spider bite didn't really hurt and the dagger blade only nicked your hand; that's still sufficient injury to poison you.
+    I love that the rules codify that normal spiders aren't actually dangerous to most people
+It still doesn't make much sense to me. Thinking about it hurts my suspension of disbelief harder than just shutting up and calculating hit points.
+    It relies pretty heavily on your GMs ability to illustrate the scene in a believable manner. Remember, there's more than one way for things to happen. A combination of minor wounds, cuts & bruises from near misses constitute a large portion of HP loss as well as loss of composure. Healing those cuts and bruises would do wonders for your ability to avoid damage.
+
+Maybe the spider didn't just jab it's fang through your torso and inject a gallon of poison. Perhaps it went in for a bite, you caught it with your shield, but the fang hooked around and scraped under the shoulder pad on your armor, grazing open the skin. Instead of injecting the poison, the poison dribbles across the wound and causes a burning sensation, diminishing your focus and ability to avoid a death blow.
+    It's a great idea, just not for Pathfinder. Maybe a completely different system.
+> A middle ground would be having two separate stats like Sekiro: a Vitality or Composure stat, that scales with level and class, and a Health or Body stat that is purely based on highest hit die and constitution score.
+
+https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor
+    Ah! I knew it was an Unearthed Arcana in 3.X, I didn't realize it was also in PF. Thanks!
+Don't get me wrong, I've been describing the effects of hit points in that way for many years but it's still riddled with inconsistencies that I ignore as best as I can. It's undeniable that the rules best describe combat where a high level character can suffer wounds that would fell an elephant and somehow still be alive, and retooling it to a stamina/wounds system would take a substantial amount of work.
+    I agree, and similar to what someone else said in a reply, the closer you try to simulate reality, the grittier the numbers get, because reality isn't that simple.
+
+For me as a GM it's one of those things that I have to really really try not to think about, or else I'll stay up all night trying to figure out an alternative that just ends up being a nightmarish spaghetti-tangle of interactions and conditions that no one in their right mind would want to have anything to do with.
+This made me think of adding a system to “fight on”. The difficulty of willpower checks would be equal to the amount of damage taken, or some such.
+I’m thinking more in terms of players. A paladin for example gets damage resistance against evil but a chicken could still get a 1hp peck and kill them. So by the logic in this post (which I mostly like) it seems like there would also be some threshold like say an attack has to do at least 5% of your max hp in excess of your current hp can kill you (not that that specifically would be a good solution, just to convey my thought of a more general threshold. This has the obvious problem that the math isn’t as easy as they usually go for the players and maybe fifty chickens could kill a paladin with enough pecks) so that way a chicken can kill a low level wizard but it at least takes a chicken with a decent sword to kill a 20th level paladin. I’m brainstorming more so than suggesting, by the way
+    Another reason I liked Pathfinders alternate rules to wounds and vitality.
+
+I can really deal with the fact that the chicken's last pick might be what drains your emotional fortitude and knocks you out but it's not enough to kill you.
+
+The chicken criticals though and it might actually hit an artery until the last bit of wound damage to kill you. (Also addresses some why 50 chickens kill you, they are much more likely for one to get the last crit)
+        I'd really like to read these alternate rules for PF. Got a resource handy?
+            https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+                Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+I love M&M and I really enjoy how the system handles damage. It actually feels like damage much more than HP does
+    I love it too and was a huge advocate for PF2e adopting a lot of M&M 3e's systems, like the Degrees of Success (yep! Crit S/F) and universal Ranks and Measures systems (yup! proficiency is 70% of the way there). 
+
+That said, as cool and flavorful as the M&M HP system is, my experience is that combat DRAGS on. Moderately menacing encounters took PF-levels of hours to resolve. I eventually houseruled it so that instead of "-1 to future saves, plus a penalty depending on the degree of failure", it was "-X to future saves, plus the penalty" with X = the #Degrees of failure which made things close out a little faster when someone got good/terrible rolls.
+        That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+            No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+            > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+My group tried these, too. It's certainly more realistic, but having *another* set of modifiers to keep track of was annoying to me. I'd probably get used to it eventually if we stuck with it, though.
+    Our group uses Roll20 and there is an option to enable automatic changes so it's less of a burden for us. It's not for everyone but it's worth giving a shot if people like a little bit more "realism" with their fantasy.
+yeah, i think they were referring to the abstraction. if HP represent energy or stamina rather than actual damage capacity, then you're not actually being injured when you lose HP, so how are you getting poisoned? my answer is that the abstraction includes being nicked, scraped, and bruised. the spider bite didn't really hurt and the dagger blade only nicked your hand; that's still sufficient injury to poison you.
+I love that the rules codify that normal spiders aren't actually dangerous to most people
+It relies pretty heavily on your GMs ability to illustrate the scene in a believable manner. Remember, there's more than one way for things to happen. A combination of minor wounds, cuts & bruises from near misses constitute a large portion of HP loss as well as loss of composure. Healing those cuts and bruises would do wonders for your ability to avoid damage.
+
+Maybe the spider didn't just jab it's fang through your torso and inject a gallon of poison. Perhaps it went in for a bite, you caught it with your shield, but the fang hooked around and scraped under the shoulder pad on your armor, grazing open the skin. Instead of injecting the poison, the poison dribbles across the wound and causes a burning sensation, diminishing your focus and ability to avoid a death blow.
+It's a great idea, just not for Pathfinder. Maybe a completely different system.
+Ah! I knew it was an Unearthed Arcana in 3.X, I didn't realize it was also in PF. Thanks!
+I agree, and similar to what someone else said in a reply, the closer you try to simulate reality, the grittier the numbers get, because reality isn't that simple.
+
+For me as a GM it's one of those things that I have to really really try not to think about, or else I'll stay up all night trying to figure out an alternative that just ends up being a nightmarish spaghetti-tangle of interactions and conditions that no one in their right mind would want to have anything to do with.
+Another reason I liked Pathfinders alternate rules to wounds and vitality.
+
+I can really deal with the fact that the chicken's last pick might be what drains your emotional fortitude and knocks you out but it's not enough to kill you.
+
+The chicken criticals though and it might actually hit an artery until the last bit of wound damage to kill you. (Also addresses some why 50 chickens kill you, they are much more likely for one to get the last crit)
+    I'd really like to read these alternate rules for PF. Got a resource handy?
+        https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+            Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+I love it too and was a huge advocate for PF2e adopting a lot of M&M 3e's systems, like the Degrees of Success (yep! Crit S/F) and universal Ranks and Measures systems (yup! proficiency is 70% of the way there). 
+
+That said, as cool and flavorful as the M&M HP system is, my experience is that combat DRAGS on. Moderately menacing encounters took PF-levels of hours to resolve. I eventually houseruled it so that instead of "-1 to future saves, plus a penalty depending on the degree of failure", it was "-X to future saves, plus the penalty" with X = the #Degrees of failure which made things close out a little faster when someone got good/terrible rolls.
+    That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+        No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+        > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+Our group uses Roll20 and there is an option to enable automatic changes so it's less of a burden for us. It's not for everyone but it's worth giving a shot if people like a little bit more "realism" with their fantasy.
+I'd really like to read these alternate rules for PF. Got a resource handy?
+    https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+        Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fast -- to the point that the final battle of the most recent campaign was only about 30 minutes long and that was pretty average.
+
+That could be due to my players though because I made sure they always knew exactly what they wanted to do when their turn came around so each turn rarely lasted longer than 40 seconds to a minute.
+    No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+    > That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+https://www.d20pfsrd.com/gamemastering/other-rules/wounds-and-vigor/
+
+Wounds and Vigor, I want to say it was in Ultimate Combat but I'm not sure off the top of my head.
+    Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
+No clue. I found that it took an average of 10 hits to take a PC/main villain down, so that's easily 15 rounds of combat.
+
+In the years since, I've implemented a six-second rule for turns in PF (if you haven't started saying what you're doing by then, it's assumed you total defense until you figure it out -- then you hop back into initiative on the next count; a forgiving version of the Delay action). 
+
+It's done a lot to speed up combat and might've helped M&M (but that has a much higher information burden for learning new characters, so it's probably not practical).
+> That's interesting, I've run two games in M&M and I've found the opposite to be true. For my group, combat is extremely fas
+
+This has been my experience as well.  A lucky crit early on can completely change the flow of battle, and make things go VERY quickly.
+
+To the point I had to houserule that the players couldn't take PL level attacks without drawbacks simply so they weren't throwing out PL 10 blasts every round in order to slow things down enough to last more than a couple rounds.
+Yep definitely where they were... I'm not sure why I didn't get a notice that you these responses happened to me though other wise I would have been handy with them right away
