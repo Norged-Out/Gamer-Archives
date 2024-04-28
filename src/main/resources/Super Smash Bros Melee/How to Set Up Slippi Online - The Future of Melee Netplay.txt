@@ -1,0 +1,590 @@
+[[How to Set Up Slippi Online - The Future of Melee Netplay]]
+
+
+
+
+
+Real shit I am in LA and just played a friend in Denmark and it is not only "playable" but actually very much enjoyable. Holy SHIT man
+    How does it reduce lag?
+        Here's my understanding. Sometimes packets get delayed. The old version of netplay would pause the game for both players while it waits for the missing packets. The new version doesn't stop the game, and just assumed the opponent will keep doing whatever the last input it received is, and if that guess was wrong, it corrects the opponent's position when the missing packets come in. This means controlling your own characters feels the same as offline, and if there's a lag spike the impact is the opponent teleports a little instead of the game itself having a bunch of micro freezes.
+        It doesn't, you can't reduce ping, but by introducing rollback you remove the slowdown caused by dropped packets to the game becomes much smother. So now instead of the game running choppy it would feel more like playing at your friends house with a big laggy flat-screen
+            It's not even like playing a flatscreen, the response time is perfect as far as inputs go, it's just that at greater and greater pings your opponent "corrects" more often with a rollback, they essentially teleport a small amount.
+                Yeah its not like playing on a laggy flat screen at all
+                Sounds like the netcode effects of Call of Duty games. But that is still far and away a massive improvement. So it sounds like it’ll just have a few instances where you’ll know it was lag but it will still play finely, and you’ll just deal with it like you would in any other online game.
+            Don't listen to this guy, there will be a bit of lag but its put in so the game has something to "roll back" to, probably 3 frames at most and its constant. In delay based, the network will not take inputs and will stop the game until it receives the right packets. In roll back, if the net code ever misses packets it simply lets the game continue as it would guess it would and then if its wrong it will "roll back" to what inputs it should have actually received instead of delaying the game. You can't get around the jank of having ping, but this just puts it somewhere else away from your inputs and puts it on the rest of the play environment.
+                Yea looks like I got it wrong here. My understanding was that rollback is capped, so if you have high enough ping the game adds more input lag. looking at the replies now though it looks like it just keep rolling? That does seem like a better situation for developing muscle memory
+                    Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+                [removed]
+                    fm?
+                        Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+                            Is slippi not using FM dolphin under the hood?
+                                It is, that's what the original comment said, too.
+Holy shit this seems like a game changer.
+    It really is. 
+
+Boot up game and immediately in-game matchmaking. 
+
+Netplay code that works well and works cross-continent. 
+
+It’s the Melee HD we always wanted.
+Upvote this boys this should hit /r/all front page
+    Upvote the one in r/SmashBros too.
+        and /r/games
+[deleted]
+    I might have to buy a computer. Two questions for you. First, Can I use the Wii u GameCube adapter ? Second, can I use my he TV or is there gonna be lag ?
+        [deleted]
+            Ok thanks
+        TVs wont have lag for melee on pc, at least not any more than it would have for ps4/xbox/normal pc use. HDTV lag for melee is caused by slow upscaling algorithms that add lag by unnecessarily processing a low res signal from a wii or gamecube, which does not apply to PCs which are natively HD and do not need to be upscaled in the first place. There are actually many HDTVs that upscale quickly and are great for melee, for instance all the bargain bin vizios with built in rokus have near crt tier input lag, whether you believe it or not, and Id imagine many newer HDTVs are also good if those work, but that is the only one I tested myself.
+        If you do end up using your TV, make sure "game mode" is on and any motion smoothing is off. You can Google these for your specific model. It should be fine.
+
+PC mode is likely better than game mode if your TV has such a feature. Most do.
+Complete noob to melee here, anyone wanna play some matches? Looking for other beginners to practice with. Pm me!
+    never played the game before, im down if i can figure out how to set this up
+        I think i got it set up pretty good now, i can help you out if you haven't gotten it to work, PM me and i can send you my discord!
+            This is wholesome and adorable
+
+Have fun kids 🥰
+                <3333
+            i actually did get it set up, butttt unfortunately i have a 3rd party gamecube controller adapter and it wouldnt connect so I can't actually play until i buy a new one :'(
+                If it’s the mayflash adapter you need to set it to “standard controller” instead of GameCube adapter for Wii U.
+                    There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+    There's a newbie discord here :)
+
+https://discord.gg/QqG4FWt
+i have no plans to ever use netplay, and i still watched this whole thing and am blown away. incredible.
+    If you play melee why not try it?
+        I dont have a PC or laptop
+            Aw poop
+        [deleted]
+            you should make a new account called /u/Blueberry-Insecure
+cannot wait to try this (MacOS release when???) but also, great video helping people set things up.
+    dual boot :) it's worth it!
+    > MacOS release when???
+
+Probably never tbh
+        they said a few weeks and to be please patient because they are actively working on it :)
+            Oh wtf, have they said what they're doing about the lack of openGL? MoltenVK was missing some stuff before right or am I just really out of the loop?
+
+That's actually awesome that it'll be ready so soon
+                I think there is MoltenVK support in dolphin for macOS (https://github.com/dolphin-emu/dolphin/pull/7039), but I haven't used it myself. 
+
+Do you know if there were openGL issues on Catalina? I had thought that OGL was depreciated (not removed) as of now. I'm sure it'll be removed on whatever macOS version is installed on the new ARM macs, but that's still a little bit away.
+                    The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+                we are sticking with OpenGL so performance many not be amazing cause it is gutted a bit :/, backporting video backends is tough work.
+            Could you give me a source on that? I can dual boot but I'd waay rather have to not deal with that headache.
+this is blowing my fucking mind
+Is this RIP for Anthers ladder?
+    It’s probably not gonna be great, but being able to play and talk with an opponent will still be something people want so they’ll get that either from discord or a site like smashladder I assume
+        >talk with an opponent will still be something people want 
+
+Not in this scene LUL
+            tbf the only things people say to me on anther's are hi, ggs, and kill yourself, so not a big loss
+Anyone else stuck on the "Save User Profile" option? I can't save any files to my slippi folder.
+    Same here, I don’t see any solution to this. I keep trying to save the file but it saves as an HTML file instead, not sure what to do.
+        Sounds like you are saving the webpage instead of the link. You need to right click the big green button and choose "Save link as..."
+            It was grayed out, I figured it out, you need to make a donation of $0 to bypass that screen first.
+                Yup that was it
+Currently on it, so fuckin smooth bros come join!
+
+Matchmaking is really good, only had a mini-lag moment once out of multiple games.
+Guess I gotta get myself a netplay monitor then...
+[deleted]
+    Server seems to have just gone down.
+    Same
+Macro melee making a comeback and posting youtube videos again! You love to see it.
+    thanks <3 
+
+Gonna try to get back into it. Still having issues after the car accident but trying to make it work
+[deleted]
+    I assume the music isn't out yet cause they haven't figured out to rollback the music.
+I'm unable to get past the "log-in" screen, when I click A I see a tiny CMD box open but it doesn't do anything, I'm assuming it's trying to open my browser to the signup page but it's not working for me.
+
+[Img](https://imgur.com/sKRxGKL)
+
+Any tips?
+    [This vid may help](https://www.youtube.com/watch?v=0XJ_KsIbmiM)
+  
+If pressing A on the log-in screen doesn't pop up the slippi log-in registration page, maybe you need to install drivers for it.
+         Thanks I was able to get it fixed by finding the page it's supposed to open and just doing it that way. If anyone else has the same issue here is the link:
+
+https://slippi.gg/online/enable
+Nintendo about to release the vaccine of covid to stop netplay tournaments from embarrassing their online system.
+This is incredible
+
+I had like 5 minutes of free time and in that small window I was able to log in, play a few games incredibly smoothly and quickly, and be done.
+
+This is the FUTURE man
+It feels amazing to play, I'm loving it.
+
+Only thing is that I've noticed a lot of visual screen tearing. Anyone else notice this?
+    Are you sure you're not referring to the rollback? It will look like people are bouncing around a bit
+        Nah it was screen tearing. I fixed it by switching to a different rendering backend.
+    Try turning on v sync in your graphics settings.
+
+Edit: also check out this sugges ion: https://www.reddit.com/r/SSBM/comments/hdv366/comment/fvohnh8
+        V Sync introduces more input lag which isn't what I want. Thankfully I fixed it by switching to a different backend renderer or whatever it's called.
+Can I use 20xx or some other mod to turn off tapjump while using Slippi?
+    I'm afraid not, there's no built in mod to disable tapjump or remap any standard controls.
+        Whelp, I guess i just gotta deal with it. It's funny being able to do some cooler tricks like wave dash but can't even L cancel or run straight at an opponent properly lol.
+I don't know if I'm the only one here who enjoyed the previous way but it seems like you are fighting someone that isn't there. Spacing goes out the window when Marths sword is actually in tipper range when on your screen they are definitely not in range. The visual definitely lags behind the actual hurt boxes that are there. I will keep playing and see if I get used to it. It definitely makes it easier to connect to people online but I wouldnt say it's better competitively and I wouldn't call it anything close to actual crt local melee
+    Definitely shouldn't be like that. How's your computer?
+        Not too bad. I mean I think the update is great for people being able to play from country to country. But it's not the same as a hardwired low distance connection. Which it isn't trying to be so that's ok. Definitely appreciate it for what it is though.
+             Keep troubleshooting, it should work. Smaller distances should be absolutely lagless.
+                Yea after playing some more it definitely works well. just have to get used to a rollback as opposed to a complete stoppage of frames like old netplay
+Dolphin has a bug on some configurations, at least on multiscreen on Windows, where if you don't use *Render to Main Window* it will cause screen tearing and lag issues. Make sure it's **CHECKED**. 
+
+It doesn't matter if you play in fullscreen, the nature of not having render to main window checked can cause frame issues.
+
+Edit: This may or may not apply to everyone! Bugs are weird like that.
+    where is this option? my game is super laggy still sighs
+    whoa, actually render to main window causes the game to act as "windowed mode" and can actually cause a lot of input delay and frame loss compared to fullscreen. windowed might fix your tearing (vsync) but its not ideal
+
+would not recommend. I keep trying to tell anthersladder to note that down in their guide too, since they recommended it for "multi monitor users" even though it's not needed
+
+to address your screen tearing issues, it's possible you have f.lux or your monitor has screen tearing problems. I used to have screen tears and dealt with it (having screen tears lets me know I was in exclusive fullscreen), but with 144hz monitor and freesync I think my tears went away
+        Complete opposite in my experience. I can see the mouse over my gameplay with it off, which means it's fake fullscreen (window). And switching alt+enter to a boxed rendering window causes a long 5 seconds delay between switching contexts.
+
+I have a 5K monitor and a secondary 1080p@120hz, so it might be a bug from that, or graphics card related.
+My only complaint is that it defaults to sheik instead of Zelda.
+When I save the file location, it doesn't confirm on dolphin. I think it may be because it's saving it as a txt file rather than as a JSON file? How do I fix this?
+    When you paste the location there is a "Save file as" drop-down below the location. Make sure that's set to .json after you paste the location (should be automatic)
+This is insane! Rollback?! That's incredible news!
+Wait, so if you open the vanilla 1.02 file, will slippi run it as having ucf/20xx 4.07 settings?
+    Yup! There's already codes enabled to make sure it's all the same settings that R18 had.
+
+So not 20XX, but it will have UCF enabled and the melee ruleset already setup with only the legal stages available. Polling code is fixed too etc.
+        This is dope
+This may be a stupid question but does anyone know how to get the in game music to work? I looked at the enabled cheats and couldn't find a way to enable it
+    Rollback doesn’t work well with game music so it’s disabled for now. Not sure if it will be possible to enable it in the future as I’m not the dev, but yeah it’s not gonna work currently!
+        (I know you're not the dev but just spitballing here), wouldn't it be possible to have the music be on a different audio output which isn't synced like other game-related outputs? Even if separating music and character inputs can't be done in-game, I would think it'd be possible through dolphin with the raw OSTs while the game is playing (unless that's a potential legal issue to have it running outside of the ISO, but in the emulator itself?).
+            Yeah exactly, there's no reason that the people playing over the internet need to hear the music in sync
+Is this good to run on Mac now?
+    it's not available for mac os yet, but it runs great on my macbook pro with bootcamp
+        Cool, does boot camp get around the Wii U adapter security issue?
+            I'm pretty sure it does, yeah. I keep SIP off on my mac so I haven't ran into too many issues with it in general but I think Windows bypasses that entirely.
+                SIP?
+                    macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+Followed the steps, but when I get to the point where I would need to download and save the json file (7:50 at the video). It just doesn't show up as a link, don't know what is wrong. I live in south america, maybe there is no netcode there yet? Can someone help?
+    Nothing to do with your location, are you saying the button doesn't appear? Make sure you input a value into the donation button! It can still be $0 but if you don't have anything it will not give you green thing to save link as. Also, some people are having issues with Microsoft Edge, and switched to chrome. 
+
+Otherwise, I need a bit of clarification on what you mean by "doesn't show up as a link"
+        That was it, feeling pretty dumb now, not gonna lie, Thanks man!
+How does one setup a doubles match with friends? Is that still possible? Does everyone just enter in the same friend code or w/e?
+    I think it's not available, yet.
+I don't know if I did something wrong but it feels just as laggy as before. Playing my brother with 20 ping and 60 fps but the inputs feel so delayed. Occasionally there is yellow text that pops up in the upper left but I can't even read it because it flashes so quickly. Any ideas?
+    Just to make sure, you're not still hosting netplay lobbies are you? I know some people were doing that and it's no longer necessary. That would basically double up on the buffer unnecessarily
+    I've had those yellow icons pop up before. It's to do with your controller drivers. Redownload zadig and try again
+        I did the zadig thing over but still have the yellow text. Do I need to go in and manually delete the old driver? If so, not sure how to find it in device manager.
+Nope, doing it through the new "direct" online play. I also tried a game of unranked which seemed to have the same delays.
+Any help is greatly appreciated as we can't seem to figure it out. Watching streams and people saying it feels like a crt sounds awesome! Just not sure how to get to that point.
+my game freezes when i press start to find a match, anyone else?
+are there any settings i can change to make slippli online work with less lag? i got a shitty surface pro 3 n want to play online lol. My regular dolphin plays offline with no lag, but i changed the cpu overclocking values/what should i change it to? And Can i chane it in slippi online? or do anything else?
+[deleted]
+    4.07 is a 20XX version so my guess is that you're pointing slippi to a modified 20XX iso rather than the vanilla 1.02 iso
+Why is my FPS going into the 45ish range when playing a game? Never happened on the old version of slippi
+this is the best thing that has happened in all 2020
+dolphin keeps saying im missing vcruntime, i tried to install it but this whole thing might be over my head
+Do we have any info as when doubles and ranked will be add ?
+hi, I'm really excited to play this new melee but when I get to the login screen in dolphin it redirects me to a slippi page where I follow the instructions to login but it just doesn't log me in any help ?? please and thankyou !
+    Hi, 
+
+What specifically is the problem? You try to register for an account and it doesn't let you? You have to make an account first
+        hey well i made the account it gave me my account number ( bend138) then it opens microsoft edge and tells me to copy a link ( save target as) and name the file name after the link, according to slippi it supposed to log me in the dolphin but no gooo :( 
+*ive also used a link where it i download it from chrome but then it says i need an app to download it :(
+            You're supposed to right click save as on the big green button that says "right click save as". You can't do this until you fill out the donation part. Then once you get the popup, paste the filepath you copied into the filename box and save
+I cant get my USB gamecube controller to work the d pad and all this stuff is working but the analog sticks don't do anything in game but when i go to controller settings to configure it shows the little dot moving around as i move them so they're registered is this a Dolphin problem I'm new to emulators..
+I'm getting trouble setting up Slippi Online. I can't get passed the part of the online instruction as it is in an infinite loop and can't proceed past that part.
+Hi there, Im pretty sure Im close to getting this set up, just need a bit of help through the homestretch, any help is appreciated.
+
+When I launch Melee (7:26 of the video) I do not get taken to a log-in screen. Rather I am sent straight to the character select screen. Has anyone else experienced this issue?
+Ouch
+Thumbnail is kinda misleading Faster Melee was still really good but slippi is a decent step up.
+    FM was really good if you lived in a region with decent internet and lots of other netplayers online. Since I live in Cali, it was great for me, but the number of people I can reasonably play with still just shot up at least an order of magnitude, and for some people its gone from a small handful to literally hundreds.  
+
+
+Also in-game matchmaking makes the barrier to entry lower. I bet the number of people playing skyrockets b/c of this.
+    I think Faster Melee seemed good, and I certainly enjoyed it, but by the standards of any other major game it wasn't great. 
+
+- No in-game matchmaking
+- very region locked, best played with people very close to you
+- Lag spikes would often mean dropped punish/losing neutral/sds
+- even just the fact that you have to go to a third party website to find opponents, and then those opponents can just be toxic as fuck lol...most games don't have to do that
+Bro if melee gets better online than ultimate that’s gonna be so sad
+    It was already better, now it's better-er
+        Yea I'm pretty sure with two decent connections you can netplay from europe to east coast and still have less overall input lag than Ultimate because Ultimate has like between 87.87 and 112.87ms of input lag on local.
+            Best case ultimate online is the same as 32 buffer melee
+    It has already had better online for like 4 years at this point.
+        i'd go as far as 6 yrs. even before FM it was better.
+            the experience of netplay has always been better on melee than online smash 4 and ult online which is depressing
+                The one advantage smash 4 and ult had before was fully in-game matchmaking, this release eliminates that advantage \*and\* makes the lag experience incomparably better.
+                    I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+                        At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+[deleted]
+    stages are all random for now. also why should game 1 go to BF lol
+How does it reduce lag?
+    Here's my understanding. Sometimes packets get delayed. The old version of netplay would pause the game for both players while it waits for the missing packets. The new version doesn't stop the game, and just assumed the opponent will keep doing whatever the last input it received is, and if that guess was wrong, it corrects the opponent's position when the missing packets come in. This means controlling your own characters feels the same as offline, and if there's a lag spike the impact is the opponent teleports a little instead of the game itself having a bunch of micro freezes.
+    It doesn't, you can't reduce ping, but by introducing rollback you remove the slowdown caused by dropped packets to the game becomes much smother. So now instead of the game running choppy it would feel more like playing at your friends house with a big laggy flat-screen
+        It's not even like playing a flatscreen, the response time is perfect as far as inputs go, it's just that at greater and greater pings your opponent "corrects" more often with a rollback, they essentially teleport a small amount.
+            Yeah its not like playing on a laggy flat screen at all
+            Sounds like the netcode effects of Call of Duty games. But that is still far and away a massive improvement. So it sounds like it’ll just have a few instances where you’ll know it was lag but it will still play finely, and you’ll just deal with it like you would in any other online game.
+        Don't listen to this guy, there will be a bit of lag but its put in so the game has something to "roll back" to, probably 3 frames at most and its constant. In delay based, the network will not take inputs and will stop the game until it receives the right packets. In roll back, if the net code ever misses packets it simply lets the game continue as it would guess it would and then if its wrong it will "roll back" to what inputs it should have actually received instead of delaying the game. You can't get around the jank of having ping, but this just puts it somewhere else away from your inputs and puts it on the rest of the play environment.
+            Yea looks like I got it wrong here. My understanding was that rollback is capped, so if you have high enough ping the game adds more input lag. looking at the replies now though it looks like it just keep rolling? That does seem like a better situation for developing muscle memory
+                Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+            [removed]
+                fm?
+                    Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+                        Is slippi not using FM dolphin under the hood?
+                            It is, that's what the original comment said, too.
+It really is. 
+
+Boot up game and immediately in-game matchmaking. 
+
+Netplay code that works well and works cross-continent. 
+
+It’s the Melee HD we always wanted.
+Upvote the one in r/SmashBros too.
+    and /r/games
+I might have to buy a computer. Two questions for you. First, Can I use the Wii u GameCube adapter ? Second, can I use my he TV or is there gonna be lag ?
+    [deleted]
+        Ok thanks
+    TVs wont have lag for melee on pc, at least not any more than it would have for ps4/xbox/normal pc use. HDTV lag for melee is caused by slow upscaling algorithms that add lag by unnecessarily processing a low res signal from a wii or gamecube, which does not apply to PCs which are natively HD and do not need to be upscaled in the first place. There are actually many HDTVs that upscale quickly and are great for melee, for instance all the bargain bin vizios with built in rokus have near crt tier input lag, whether you believe it or not, and Id imagine many newer HDTVs are also good if those work, but that is the only one I tested myself.
+    If you do end up using your TV, make sure "game mode" is on and any motion smoothing is off. You can Google these for your specific model. It should be fine.
+
+PC mode is likely better than game mode if your TV has such a feature. Most do.
+never played the game before, im down if i can figure out how to set this up
+    I think i got it set up pretty good now, i can help you out if you haven't gotten it to work, PM me and i can send you my discord!
+        This is wholesome and adorable
+
+Have fun kids 🥰
+            <3333
+        i actually did get it set up, butttt unfortunately i have a 3rd party gamecube controller adapter and it wouldnt connect so I can't actually play until i buy a new one :'(
+            If it’s the mayflash adapter you need to set it to “standard controller” instead of GameCube adapter for Wii U.
+                There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+There's a newbie discord here :)
+
+https://discord.gg/QqG4FWt
+If you play melee why not try it?
+    I dont have a PC or laptop
+        Aw poop
+    [deleted]
+        you should make a new account called /u/Blueberry-Insecure
+dual boot :) it's worth it!
+> MacOS release when???
+
+Probably never tbh
+    they said a few weeks and to be please patient because they are actively working on it :)
+        Oh wtf, have they said what they're doing about the lack of openGL? MoltenVK was missing some stuff before right or am I just really out of the loop?
+
+That's actually awesome that it'll be ready so soon
+            I think there is MoltenVK support in dolphin for macOS (https://github.com/dolphin-emu/dolphin/pull/7039), but I haven't used it myself. 
+
+Do you know if there were openGL issues on Catalina? I had thought that OGL was depreciated (not removed) as of now. I'm sure it'll be removed on whatever macOS version is installed on the new ARM macs, but that's still a little bit away.
+                The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+            we are sticking with OpenGL so performance many not be amazing cause it is gutted a bit :/, backporting video backends is tough work.
+        Could you give me a source on that? I can dual boot but I'd waay rather have to not deal with that headache.
+It’s probably not gonna be great, but being able to play and talk with an opponent will still be something people want so they’ll get that either from discord or a site like smashladder I assume
+    >talk with an opponent will still be something people want 
+
+Not in this scene LUL
+        tbf the only things people say to me on anther's are hi, ggs, and kill yourself, so not a big loss
+Same here, I don’t see any solution to this. I keep trying to save the file but it saves as an HTML file instead, not sure what to do.
+    Sounds like you are saving the webpage instead of the link. You need to right click the big green button and choose "Save link as..."
+        It was grayed out, I figured it out, you need to make a donation of $0 to bypass that screen first.
+            Yup that was it
+Server seems to have just gone down.
+Same
+thanks <3 
+
+Gonna try to get back into it. Still having issues after the car accident but trying to make it work
+I assume the music isn't out yet cause they haven't figured out to rollback the music.
+[This vid may help](https://www.youtube.com/watch?v=0XJ_KsIbmiM)
+  
+If pressing A on the log-in screen doesn't pop up the slippi log-in registration page, maybe you need to install drivers for it.
+     Thanks I was able to get it fixed by finding the page it's supposed to open and just doing it that way. If anyone else has the same issue here is the link:
+
+https://slippi.gg/online/enable
+Are you sure you're not referring to the rollback? It will look like people are bouncing around a bit
+    Nah it was screen tearing. I fixed it by switching to a different rendering backend.
+Try turning on v sync in your graphics settings.
+
+Edit: also check out this sugges ion: https://www.reddit.com/r/SSBM/comments/hdv366/comment/fvohnh8
+    V Sync introduces more input lag which isn't what I want. Thankfully I fixed it by switching to a different backend renderer or whatever it's called.
+I'm afraid not, there's no built in mod to disable tapjump or remap any standard controls.
+    Whelp, I guess i just gotta deal with it. It's funny being able to do some cooler tricks like wave dash but can't even L cancel or run straight at an opponent properly lol.
+Definitely shouldn't be like that. How's your computer?
+    Not too bad. I mean I think the update is great for people being able to play from country to country. But it's not the same as a hardwired low distance connection. Which it isn't trying to be so that's ok. Definitely appreciate it for what it is though.
+         Keep troubleshooting, it should work. Smaller distances should be absolutely lagless.
+            Yea after playing some more it definitely works well. just have to get used to a rollback as opposed to a complete stoppage of frames like old netplay
+where is this option? my game is super laggy still sighs
+whoa, actually render to main window causes the game to act as "windowed mode" and can actually cause a lot of input delay and frame loss compared to fullscreen. windowed might fix your tearing (vsync) but its not ideal
+
+would not recommend. I keep trying to tell anthersladder to note that down in their guide too, since they recommended it for "multi monitor users" even though it's not needed
+
+to address your screen tearing issues, it's possible you have f.lux or your monitor has screen tearing problems. I used to have screen tears and dealt with it (having screen tears lets me know I was in exclusive fullscreen), but with 144hz monitor and freesync I think my tears went away
+    Complete opposite in my experience. I can see the mouse over my gameplay with it off, which means it's fake fullscreen (window). And switching alt+enter to a boxed rendering window causes a long 5 seconds delay between switching contexts.
+
+I have a 5K monitor and a secondary 1080p@120hz, so it might be a bug from that, or graphics card related.
+When you paste the location there is a "Save file as" drop-down below the location. Make sure that's set to .json after you paste the location (should be automatic)
+Yup! There's already codes enabled to make sure it's all the same settings that R18 had.
+
+So not 20XX, but it will have UCF enabled and the melee ruleset already setup with only the legal stages available. Polling code is fixed too etc.
+    This is dope
+Rollback doesn’t work well with game music so it’s disabled for now. Not sure if it will be possible to enable it in the future as I’m not the dev, but yeah it’s not gonna work currently!
+    (I know you're not the dev but just spitballing here), wouldn't it be possible to have the music be on a different audio output which isn't synced like other game-related outputs? Even if separating music and character inputs can't be done in-game, I would think it'd be possible through dolphin with the raw OSTs while the game is playing (unless that's a potential legal issue to have it running outside of the ISO, but in the emulator itself?).
+        Yeah exactly, there's no reason that the people playing over the internet need to hear the music in sync
+it's not available for mac os yet, but it runs great on my macbook pro with bootcamp
+    Cool, does boot camp get around the Wii U adapter security issue?
+        I'm pretty sure it does, yeah. I keep SIP off on my mac so I haven't ran into too many issues with it in general but I think Windows bypasses that entirely.
+            SIP?
+                macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+Nothing to do with your location, are you saying the button doesn't appear? Make sure you input a value into the donation button! It can still be $0 but if you don't have anything it will not give you green thing to save link as. Also, some people are having issues with Microsoft Edge, and switched to chrome. 
+
+Otherwise, I need a bit of clarification on what you mean by "doesn't show up as a link"
+    That was it, feeling pretty dumb now, not gonna lie, Thanks man!
+I think it's not available, yet.
+Just to make sure, you're not still hosting netplay lobbies are you? I know some people were doing that and it's no longer necessary. That would basically double up on the buffer unnecessarily
+I've had those yellow icons pop up before. It's to do with your controller drivers. Redownload zadig and try again
+    I did the zadig thing over but still have the yellow text. Do I need to go in and manually delete the old driver? If so, not sure how to find it in device manager.
+4.07 is a 20XX version so my guess is that you're pointing slippi to a modified 20XX iso rather than the vanilla 1.02 iso
+Hi, 
+
+What specifically is the problem? You try to register for an account and it doesn't let you? You have to make an account first
+    hey well i made the account it gave me my account number ( bend138) then it opens microsoft edge and tells me to copy a link ( save target as) and name the file name after the link, according to slippi it supposed to log me in the dolphin but no gooo :( 
+*ive also used a link where it i download it from chrome but then it says i need an app to download it :(
+        You're supposed to right click save as on the big green button that says "right click save as". You can't do this until you fill out the donation part. Then once you get the popup, paste the filepath you copied into the filename box and save
+FM was really good if you lived in a region with decent internet and lots of other netplayers online. Since I live in Cali, it was great for me, but the number of people I can reasonably play with still just shot up at least an order of magnitude, and for some people its gone from a small handful to literally hundreds.  
+
+
+Also in-game matchmaking makes the barrier to entry lower. I bet the number of people playing skyrockets b/c of this.
+I think Faster Melee seemed good, and I certainly enjoyed it, but by the standards of any other major game it wasn't great. 
+
+- No in-game matchmaking
+- very region locked, best played with people very close to you
+- Lag spikes would often mean dropped punish/losing neutral/sds
+- even just the fact that you have to go to a third party website to find opponents, and then those opponents can just be toxic as fuck lol...most games don't have to do that
+It was already better, now it's better-er
+    Yea I'm pretty sure with two decent connections you can netplay from europe to east coast and still have less overall input lag than Ultimate because Ultimate has like between 87.87 and 112.87ms of input lag on local.
+        Best case ultimate online is the same as 32 buffer melee
+It has already had better online for like 4 years at this point.
+    i'd go as far as 6 yrs. even before FM it was better.
+        the experience of netplay has always been better on melee than online smash 4 and ult online which is depressing
+            The one advantage smash 4 and ult had before was fully in-game matchmaking, this release eliminates that advantage \*and\* makes the lag experience incomparably better.
+                I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+                    At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+stages are all random for now. also why should game 1 go to BF lol
+Here's my understanding. Sometimes packets get delayed. The old version of netplay would pause the game for both players while it waits for the missing packets. The new version doesn't stop the game, and just assumed the opponent will keep doing whatever the last input it received is, and if that guess was wrong, it corrects the opponent's position when the missing packets come in. This means controlling your own characters feels the same as offline, and if there's a lag spike the impact is the opponent teleports a little instead of the game itself having a bunch of micro freezes.
+It doesn't, you can't reduce ping, but by introducing rollback you remove the slowdown caused by dropped packets to the game becomes much smother. So now instead of the game running choppy it would feel more like playing at your friends house with a big laggy flat-screen
+    It's not even like playing a flatscreen, the response time is perfect as far as inputs go, it's just that at greater and greater pings your opponent "corrects" more often with a rollback, they essentially teleport a small amount.
+        Yeah its not like playing on a laggy flat screen at all
+        Sounds like the netcode effects of Call of Duty games. But that is still far and away a massive improvement. So it sounds like it’ll just have a few instances where you’ll know it was lag but it will still play finely, and you’ll just deal with it like you would in any other online game.
+    Don't listen to this guy, there will be a bit of lag but its put in so the game has something to "roll back" to, probably 3 frames at most and its constant. In delay based, the network will not take inputs and will stop the game until it receives the right packets. In roll back, if the net code ever misses packets it simply lets the game continue as it would guess it would and then if its wrong it will "roll back" to what inputs it should have actually received instead of delaying the game. You can't get around the jank of having ping, but this just puts it somewhere else away from your inputs and puts it on the rest of the play environment.
+        Yea looks like I got it wrong here. My understanding was that rollback is capped, so if you have high enough ping the game adds more input lag. looking at the replies now though it looks like it just keep rolling? That does seem like a better situation for developing muscle memory
+            Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+        [removed]
+            fm?
+                Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+                    Is slippi not using FM dolphin under the hood?
+                        It is, that's what the original comment said, too.
+and /r/games
+[deleted]
+    Ok thanks
+TVs wont have lag for melee on pc, at least not any more than it would have for ps4/xbox/normal pc use. HDTV lag for melee is caused by slow upscaling algorithms that add lag by unnecessarily processing a low res signal from a wii or gamecube, which does not apply to PCs which are natively HD and do not need to be upscaled in the first place. There are actually many HDTVs that upscale quickly and are great for melee, for instance all the bargain bin vizios with built in rokus have near crt tier input lag, whether you believe it or not, and Id imagine many newer HDTVs are also good if those work, but that is the only one I tested myself.
+If you do end up using your TV, make sure "game mode" is on and any motion smoothing is off. You can Google these for your specific model. It should be fine.
+
+PC mode is likely better than game mode if your TV has such a feature. Most do.
+I think i got it set up pretty good now, i can help you out if you haven't gotten it to work, PM me and i can send you my discord!
+    This is wholesome and adorable
+
+Have fun kids 🥰
+        <3333
+    i actually did get it set up, butttt unfortunately i have a 3rd party gamecube controller adapter and it wouldnt connect so I can't actually play until i buy a new one :'(
+        If it’s the mayflash adapter you need to set it to “standard controller” instead of GameCube adapter for Wii U.
+            There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+I dont have a PC or laptop
+    Aw poop
+[deleted]
+    you should make a new account called /u/Blueberry-Insecure
+they said a few weeks and to be please patient because they are actively working on it :)
+    Oh wtf, have they said what they're doing about the lack of openGL? MoltenVK was missing some stuff before right or am I just really out of the loop?
+
+That's actually awesome that it'll be ready so soon
+        I think there is MoltenVK support in dolphin for macOS (https://github.com/dolphin-emu/dolphin/pull/7039), but I haven't used it myself. 
+
+Do you know if there were openGL issues on Catalina? I had thought that OGL was depreciated (not removed) as of now. I'm sure it'll be removed on whatever macOS version is installed on the new ARM macs, but that's still a little bit away.
+            The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+        we are sticking with OpenGL so performance many not be amazing cause it is gutted a bit :/, backporting video backends is tough work.
+    Could you give me a source on that? I can dual boot but I'd waay rather have to not deal with that headache.
+>talk with an opponent will still be something people want 
+
+Not in this scene LUL
+    tbf the only things people say to me on anther's are hi, ggs, and kill yourself, so not a big loss
+Sounds like you are saving the webpage instead of the link. You need to right click the big green button and choose "Save link as..."
+    It was grayed out, I figured it out, you need to make a donation of $0 to bypass that screen first.
+        Yup that was it
+ Thanks I was able to get it fixed by finding the page it's supposed to open and just doing it that way. If anyone else has the same issue here is the link:
+
+https://slippi.gg/online/enable
+Nah it was screen tearing. I fixed it by switching to a different rendering backend.
+V Sync introduces more input lag which isn't what I want. Thankfully I fixed it by switching to a different backend renderer or whatever it's called.
+Whelp, I guess i just gotta deal with it. It's funny being able to do some cooler tricks like wave dash but can't even L cancel or run straight at an opponent properly lol.
+Not too bad. I mean I think the update is great for people being able to play from country to country. But it's not the same as a hardwired low distance connection. Which it isn't trying to be so that's ok. Definitely appreciate it for what it is though.
+     Keep troubleshooting, it should work. Smaller distances should be absolutely lagless.
+        Yea after playing some more it definitely works well. just have to get used to a rollback as opposed to a complete stoppage of frames like old netplay
+Complete opposite in my experience. I can see the mouse over my gameplay with it off, which means it's fake fullscreen (window). And switching alt+enter to a boxed rendering window causes a long 5 seconds delay between switching contexts.
+
+I have a 5K monitor and a secondary 1080p@120hz, so it might be a bug from that, or graphics card related.
+This is dope
+(I know you're not the dev but just spitballing here), wouldn't it be possible to have the music be on a different audio output which isn't synced like other game-related outputs? Even if separating music and character inputs can't be done in-game, I would think it'd be possible through dolphin with the raw OSTs while the game is playing (unless that's a potential legal issue to have it running outside of the ISO, but in the emulator itself?).
+    Yeah exactly, there's no reason that the people playing over the internet need to hear the music in sync
+Cool, does boot camp get around the Wii U adapter security issue?
+    I'm pretty sure it does, yeah. I keep SIP off on my mac so I haven't ran into too many issues with it in general but I think Windows bypasses that entirely.
+        SIP?
+            macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+That was it, feeling pretty dumb now, not gonna lie, Thanks man!
+I did the zadig thing over but still have the yellow text. Do I need to go in and manually delete the old driver? If so, not sure how to find it in device manager.
+hey well i made the account it gave me my account number ( bend138) then it opens microsoft edge and tells me to copy a link ( save target as) and name the file name after the link, according to slippi it supposed to log me in the dolphin but no gooo :( 
+*ive also used a link where it i download it from chrome but then it says i need an app to download it :(
+    You're supposed to right click save as on the big green button that says "right click save as". You can't do this until you fill out the donation part. Then once you get the popup, paste the filepath you copied into the filename box and save
+Yea I'm pretty sure with two decent connections you can netplay from europe to east coast and still have less overall input lag than Ultimate because Ultimate has like between 87.87 and 112.87ms of input lag on local.
+    Best case ultimate online is the same as 32 buffer melee
+i'd go as far as 6 yrs. even before FM it was better.
+    the experience of netplay has always been better on melee than online smash 4 and ult online which is depressing
+        The one advantage smash 4 and ult had before was fully in-game matchmaking, this release eliminates that advantage \*and\* makes the lag experience incomparably better.
+            I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+                At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+It's not even like playing a flatscreen, the response time is perfect as far as inputs go, it's just that at greater and greater pings your opponent "corrects" more often with a rollback, they essentially teleport a small amount.
+    Yeah its not like playing on a laggy flat screen at all
+    Sounds like the netcode effects of Call of Duty games. But that is still far and away a massive improvement. So it sounds like it’ll just have a few instances where you’ll know it was lag but it will still play finely, and you’ll just deal with it like you would in any other online game.
+Don't listen to this guy, there will be a bit of lag but its put in so the game has something to "roll back" to, probably 3 frames at most and its constant. In delay based, the network will not take inputs and will stop the game until it receives the right packets. In roll back, if the net code ever misses packets it simply lets the game continue as it would guess it would and then if its wrong it will "roll back" to what inputs it should have actually received instead of delaying the game. You can't get around the jank of having ping, but this just puts it somewhere else away from your inputs and puts it on the rest of the play environment.
+    Yea looks like I got it wrong here. My understanding was that rollback is capped, so if you have high enough ping the game adds more input lag. looking at the replies now though it looks like it just keep rolling? That does seem like a better situation for developing muscle memory
+        Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+    [removed]
+        fm?
+            Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+                Is slippi not using FM dolphin under the hood?
+                    It is, that's what the original comment said, too.
+Ok thanks
+This is wholesome and adorable
+
+Have fun kids 🥰
+    <3333
+i actually did get it set up, butttt unfortunately i have a 3rd party gamecube controller adapter and it wouldnt connect so I can't actually play until i buy a new one :'(
+    If it’s the mayflash adapter you need to set it to “standard controller” instead of GameCube adapter for Wii U.
+        There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+Aw poop
+you should make a new account called /u/Blueberry-Insecure
+Oh wtf, have they said what they're doing about the lack of openGL? MoltenVK was missing some stuff before right or am I just really out of the loop?
+
+That's actually awesome that it'll be ready so soon
+    I think there is MoltenVK support in dolphin for macOS (https://github.com/dolphin-emu/dolphin/pull/7039), but I haven't used it myself. 
+
+Do you know if there were openGL issues on Catalina? I had thought that OGL was depreciated (not removed) as of now. I'm sure it'll be removed on whatever macOS version is installed on the new ARM macs, but that's still a little bit away.
+        The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+    we are sticking with OpenGL so performance many not be amazing cause it is gutted a bit :/, backporting video backends is tough work.
+Could you give me a source on that? I can dual boot but I'd waay rather have to not deal with that headache.
+tbf the only things people say to me on anther's are hi, ggs, and kill yourself, so not a big loss
+It was grayed out, I figured it out, you need to make a donation of $0 to bypass that screen first.
+    Yup that was it
+ Keep troubleshooting, it should work. Smaller distances should be absolutely lagless.
+    Yea after playing some more it definitely works well. just have to get used to a rollback as opposed to a complete stoppage of frames like old netplay
+Yeah exactly, there's no reason that the people playing over the internet need to hear the music in sync
+I'm pretty sure it does, yeah. I keep SIP off on my mac so I haven't ran into too many issues with it in general but I think Windows bypasses that entirely.
+    SIP?
+        macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+You're supposed to right click save as on the big green button that says "right click save as". You can't do this until you fill out the donation part. Then once you get the popup, paste the filepath you copied into the filename box and save
+Best case ultimate online is the same as 32 buffer melee
+the experience of netplay has always been better on melee than online smash 4 and ult online which is depressing
+    The one advantage smash 4 and ult had before was fully in-game matchmaking, this release eliminates that advantage \*and\* makes the lag experience incomparably better.
+        I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+            At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+Yeah its not like playing on a laggy flat screen at all
+Sounds like the netcode effects of Call of Duty games. But that is still far and away a massive improvement. So it sounds like it’ll just have a few instances where you’ll know it was lag but it will still play finely, and you’ll just deal with it like you would in any other online game.
+Yea looks like I got it wrong here. My understanding was that rollback is capped, so if you have high enough ping the game adds more input lag. looking at the replies now though it looks like it just keep rolling? That does seem like a better situation for developing muscle memory
+    Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+[removed]
+    fm?
+        Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+            Is slippi not using FM dolphin under the hood?
+                It is, that's what the original comment said, too.
+<3333
+If it’s the mayflash adapter you need to set it to “standard controller” instead of GameCube adapter for Wii U.
+    There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+I think there is MoltenVK support in dolphin for macOS (https://github.com/dolphin-emu/dolphin/pull/7039), but I haven't used it myself. 
+
+Do you know if there were openGL issues on Catalina? I had thought that OGL was depreciated (not removed) as of now. I'm sure it'll be removed on whatever macOS version is installed on the new ARM macs, but that's still a little bit away.
+    The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+we are sticking with OpenGL so performance many not be amazing cause it is gutted a bit :/, backporting video backends is tough work.
+Yup that was it
+Yea after playing some more it definitely works well. just have to get used to a rollback as opposed to a complete stoppage of frames like old netplay
+SIP?
+    macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+The one advantage smash 4 and ult had before was fully in-game matchmaking, this release eliminates that advantage \*and\* makes the lag experience incomparably better.
+    I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+        At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+Yeah basically. It's a really clever system that makes execution of difficulty stuff actually possible because it's low lag and most importantly consistent lag. Delay can vary the amount of frame lag from second to second which makes one or two frame links borderline impossible.
+fm?
+    Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+        Is slippi not using FM dolphin under the hood?
+            It is, that's what the original comment said, too.
+There are some third party adapters (NYKO ones come to mind) that only work on wiiU/switch for some reason
+The MoltenVK support sadly hasn't been backported (insofar as I can tell) for older Dolphin releases.
+
+Catalina has numerous OpenGL issues but has resolved back to a "playable" state, albeit nowhere near as smooth as other platforms. ARM Macs also will support OpenGL (noted in the docs) - likely due to Safari needing it for WebGL under the hood.
+
+I've been considering seeing if I can help with the macOS Dolphin/Slippi/netplay experience since a good chunk of my background is obscure macOS programming knowledge. Maybe now's a good time, provided Fizzi isn't already on it - dude seems like a madman (in the best way possible).
+
+Edit: for anyone stumbling here, the source was dropped last night - macOS works very well!
+macs have a thing called system integrity protection and it specifically interferes with the wii u gcc adapter
+I would say standardized console hardware is a big deal as well. Can’t get around the fact that most people have old computers and integrated GPUs.
+    At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+Faster Melee.
+
+Iirc it's running Melee at 120 fps and half speed (like how in training mode you can reduce the game speed) so inputs are processed quicker relatively, this reducing input delay and gaining 2 frames that can be used to have a smaller buffer when playing online.
+    Is slippi not using FM dolphin under the hood?
+        It is, that's what the original comment said, too.
+At the release of smash 4, sure (though you could get a computer powerful enough to play netplay for cheaper than a Wii U at the time). At this point if you have a working computer, its most likely powerful enough to play netplay.
+Is slippi not using FM dolphin under the hood?
+    It is, that's what the original comment said, too.
+It is, that's what the original comment said, too.
