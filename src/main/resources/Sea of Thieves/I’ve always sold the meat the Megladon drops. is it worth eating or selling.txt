@@ -1,0 +1,909 @@
+[[I’ve always sold the meat the Megladon drops. is it worth eating or selling]]
+
+
+
+
+
+If you want/need the commendations, sell them
+
+Otherwise, not really worth the gold imo
+    You sell it in batches or in crates? Where do you sell it, the hunters?
+        You sell it to the hunters, and you sell it piecemeal, since it's meat. So, optimally, you can fill your inventory up with up to 5 at a time and sell them to the hunters like that
+            usually what I see people doing most often on fishing trips is fill a storage crate with cooked fish/meg then sell so they don't have to hop back and forth between their boat
+                my advice: store only not cooked meat in storage crates and barrels, otherwise you may feed boarding attackers. Store only uncooked meat, never fruits, there, and cooked stuff only in your pockets.
+
+At the sea posts, you have enough time to cook and sell your meat, if you want to. If you can't spare the time, you are already almost in trouble and not able to stop and sell, anyway.
+                    Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+                    I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+                That works? I didn't even know you could sell storage crates.
+                    You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+                        Oh, duh. Yeah, that makes sense.
+                            Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+                                > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+                                also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+            You should always cook it first as the rewards are a bit more.
+    Is cooked worth more?
+        Definitely worth more. You can't even sell it if it hasn't cooked at least a tiny bit. Full cook is about 2 minutes for a piece of meg. We frequently use this site to keep easy track of it (God bless whoever made it). [https://sot-cooking-timer.herokuapp.com/](https://sot-cooking-timer.herokuapp.com/)
+    whats actually worth in this game?
+
+i got 20 hours or so but i can't play more than a hour a day, last time i did for first time ( red skeletons boss in cloud ) i went to an island and waves of brainless skellys spawned and we just killed them me and my crew it was so underwhelming and after that it took us probably 30 mins to gather the chests from island>ship>outpost just to sell each one for 300 gold or less and get nothing but season pass lvls,?
+
+i closed the game after but I'm really trying to like it and each time i get this feeling that the world is ocean but the fun and content is a needle
+        Unfortunately Sea of Thieves is a game that requires a bit more of a time commitment. It's best when you can dedicate several hours to just sailing around working on voyages or doing emergent events or whatever.
+
+If you only have an hour at a time, at best you're going to squeeze in a single event like a skull fort (the thing you did) or a Flameheart battle or something. That or do a couple of voyages. But it's just not going to be as satisfying if you don't have the time to dedicate to it.
+            i once dedicated 2-3 hours to do the first tale ( the shroud ) me and my friend, when we where almost done game booted us out and the quest progress didn't save, if i have a clear path say like MMO quests type I'd dedicate 6 hours but the game makes you feel lost and not important
+                >almost done game booted us out and the quest progress didn't save, 
+
+Checkpoints are in your voyages which you can vote for on the voyage table in your ship!
+                    damn never knew that
+thanks
+                        The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+                It sounds like you had an uncommon experience with that one. Barring the extremely rare crash, I would say most people have never been arbitrarily booted from a tall tale or any other voyage. Further, the tall tales are supposed to save checkpoints so you can resume later. Though to be fair, sometimes they are still further apart than people would prefer.
+
+As for feeling unguided, the tall tales are *supposed* to be about puzzle solving and exploration. If the game told you exactly where to go and what to do when you got there that would entirely defeat the purpose.
+
+It sounds like this might just not be your kind of game. Sea of Thieves isn't an action-packed narrative experience that keeps the player within tight boundaries. It's all about letting everyone just kind of do their own thing and the unique experiences that arise from unexpected interactions. If you're only able to play the game in short windows it's very unlikely those interactions are going to happen for you, and you end up missing out on the experience the game is trying to capture.
+        This game has fairly little in the way of progression in-game - your pirate is already as strong, mechanically, as they will ever be, and the only difference between you and any other player in a fight will be skill level and loadout.
+
+Forts aren’t very difficult if you’re on either a dead server or on a server with a bunch of people ignoring world events, which is the case if you did one of those forts (a fort of fortune) with no other crew fighting you for it; I’ve rarely, if ever, had a FoF world event spawn and seen only one player go for it.
+
+But yeah if you’re playing and not seeing other people that can be due to a lot of things, from the time of day you play to just luck; additionally the way to make gold quickly is to also fly an emissary quest for one of the trading companies; if you’re going to do world events then usually your best bet is to fly either the Gold Hoarders or Order of Souls emissary flag, or alternatively the Reapers Bones emissary which is higher risk but higher reward;
+
+As a general rule, you end up selling chests and gold trinkets to gold hoarders, skulls to order of souls, and crates to merchant alliance. Usually merchant Alliance crates are all of fairly low value while skulls and chests vary more.
+
+When you fly an emissary flag, you gain ranks based on doing things like quests for that faction or finding treasure that faction wants to buy from you. As you gain emissary rank, you get a bonus payout for items sold; at highest emissary rank, you get 2.5x the base payout (or a bonus payment of 150% on top of the 100% base); additionally, after reaching rank 5 emissary in anything but reapers (more below) the company representative will give you an emissary quest, which is generally like 2-4 of their normal quests, but on steroids. Ex: a normal gold hoarder (non-vault) quest will give you some number of maps with X’s to dig up, and the treasure will be random, while their emissary quest gives 4 maps with 5 x’s each that will contain high-value chests (not as high value as the puzzle chest in vaults but theres more of them); 
+
+Reapers emissary is different, and high risk/reward as said before. Reapers don’t have missions, but you gain rep for almost every treasure (I can’t think of one you don’t gain rep for, so I say almost in case I forgot something) and also are unique in 4 important ways:
+
+1) reaper emissaries are always shown on the map for other players on the server, along with their emissary rank
+
+2) reapers have a unique type of loot available to them through PvP: other players’ emissary flags, which sell for more the higher their rank (this can include other Reaper emissary flags as well)
+
+3) at rank 5 reaper emissary, other ships flying emissary flags will show up on your map table
+
+4) the only place to sell loot and get your bonus as a Reaper emissary is to the Servant of the Flame at Reaper’s Hideout.
+
+This means that for things like forts, all the loot sells for more, but you also put a target on your back, *and* everyone who’s fairly knowledgeable about the game knows that eventually you’ll make your way to Reaper’s Hideout.
+
+As a general rule, the best way to make the most profit on loot is to have a grade 5 emissary flying for the company you’re selling said loot to. But typically you’ll have a mix of loot, so you either end up taking a lower payout on some loot, or putting a target on yourself.
+
+Also: when flying an emissary flag, you get bonus gold for lowering the flag, with a max of 5,000 for lowering a grade 5 emissary flag.
+
+Oh, and finally to the point of the OP: another faction to get rep with is the Hunters Call, they have reps at the tiny seaports on the map and you cant fly an emissary flag to them, and they’ll only buy meat, fish, and mermaid/siren gems.
+            Worth noting lowering a grade 5 flag also gives a nice little hefty chunk of rep
+            [deleted]
+                It's probably due to the time of day/if it's a double gold hour, if I had to guess.
+                    Wouldn’t it be 10k then?
+                        I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+                            Could that have been from stealing/pvp?
+                                Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                                    Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+                    Pretty sure thts for pvp? Or well stealing at any rate
+        Murder other people and take their stuff
+            how I'm always alone in the server i rarely see ppl
+        To add on to this are you raising an emmissary flag? This will increase the amount of gold you get from a specific type of item, if you raise Goal Hoarders for example for each emissary level you get increased gold and experience from gold hoarder items. And usually doing 1 Fortune fort (red skull) will easily get you to the max level of level 5. not sure about regular skull forts as I havent done one in forever but I would be shocked if it didnt get you to at least level 4
+        Gold hoarder vaults are nice, but can take a bit over an hour or more if you run into major issues. The vault at the end is filled with gold & chests and there is a special chest you can grab by completing a puzzle.
+    How much do you get for it?
+    Well, depending on how many pieces you get, it can be worth about as much as a stronghold chest.
+Definitely worth eating if you pvp. It's the best food in the game.
+    I take it with me on PvE runs as well. Very good healing benefits and the Meg drops plenty upon death
+    I thought kraken was the best? Or is it the same as meg
+        It's the same, just easier to obtain.
+            Are you saying meg or kraken is easier to obtain?
+                Meg is easier
+                    Weird cause we've taken down many kraken, but have yet to kill a meg
+                        the last update has been very bugged with megs despawning, might be why.
+                        Megs are much more common. Shoot them with tridents for easy kills.
+                        Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+                        Opposite for me
+                            Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+                                You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                                    Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                                    Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+                                I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+                        Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+                            Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+                        Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+                They are extremely easy to kill when you have a staff, just use the basic shot and you will kill the Meg before it even has time to fully circle your ship.
+        same
+        Kraken heals the same amount, but according to the wiki you get three bites out of it, so I'd say it's better, it's just a massive pain in the ass to ever get
+            only 2 bites
+Both no be honest.
+
+There is a commendation to sell it on the sea posts.
+
+But its also a good combat food. If you have some close to an end game, its always worth to stop at a sea post... I mean why not? "Free" rep + money.
+    Yeah I used to save them to sell for rep, but now I'll just take it any time I'm about to go into PvP.
+
+Whatever's left at the end of the session though, goes to HC.
+For sure cook and eat. If you have 5 pieces, that's basically 10 full heals plus over heals.
+Rah rah Rasputin  
+
+
+Hunter of the Crested Queen
+    Oh my god thank you for giving an idea to change my gamertag since that's the one Megalodon title I have
+        Post a screenshot later if you do it!
+            Of course it's already taken. :(
+                just add n's to the end until it works or something
+                    RaRaRasputin is already at the 12 character limit unfortunately.
+                    Or numbers
+        [removed]
+            Check the vanity chest on your ship and go to titles
+Surely you don’t believe these rumors of The Shrouded Ghost my good lad for they are just stories to scare the children
+    Paid actors by Rare*
+        The paid actors even leave clues for you.  Just look at the name on the image, it's got "Shill" in it.
+    ITS A MYTH.
+    I don't understand why people think he's rare - I've been playing for 4 days now, and I've seen the shrouded ghost (Of course, no screenshot). Thought it was the regular megalodon until I watched a few SoT videos.
+        it's still rare even you got lucky, i know multiple people with 4-9k hours who's not gotten it
+        You probably saw the crested queen or the shadowmaw. They both are mistaken as the shrouded. Either that or you are insanely lucky.
+    Ill let you take a SS with me in game if it will help ease the pain. :)
+    Agreed
+Sell them until you get the commendation if you’re into that, but otherwise eat. 450 gold vs two full health refills and a full regen meter. No contest.
+I had a texture glitch and for a few seconds I thought I got the Shrouded Ghost but it was the Ancient Terror. I have never been more disappointed in my life. To answer your question sell em.
+One of these do not exist
+    *John Cena's theme plays*
+    And if you happen to have the title for it, you are probably hacking
+        I think he means the ancient one, its ancient terror, and second rarest meg in the game
+            Is it actually the second rarest!?
+I’ve seen on 2 separate occasions and killed it on one
+                It’s the second rarest but that doesn’t mean it’s rare. Just more rare than the first 3 but it’s still insanely more common than the shrouded. It’s like if 5 people have a bike race and the first dude wins by 10 hours and the other 4 come in close together.
+                Nice, and yes it's second rarest i checked
+                    Sick
+                    It’s the second rarest but that doesn’t make it rare
+    CLEARLY it's The Ancient One. I never find that bugger
+There's only 4 megalodons there
+you know it says the shadowmaw is rarer than the ancient terror but I've seen 27 shadowmaws  and only 3 ancient terrors in the past year
+    Pretty sure ancient terror is rarer than shadowmaw
+        The word part also is created queen and the hungering one are rarer than the shadowmaw. Yea I have seen like a million shadow maws compared to the 3 hungering ones, 1 ancient terror, and a couple created quens
+    That picture isn’t in order of rarity dummy, the ancient terror is more rare than the shadowmaw
+        lol this was 7 months ago but ummm I think I looked it up when the megalodons were released way back when and the ancient terror was 3rd rarest not 2nd but that info may have been false idk anymore but anyway I thought that picture was accurate to the information I had at the time guess not then my b
+I think this chart is wrong, the Ancient Terror is rarer than Shadowmaw, as it is listed on the commendations page common to rare
+    The chart isn’t meant to be in order of rarity, it’s just showing them all
+I especially like meg meat if I’m swimming out to stealth board someone’s ship. That regen has saved me from sharks lots of times
+    you can dodge sharks too
+        I have about a 40% success rate with my shark dodges.
+For the commendations sell. Otherwise just use it for food cause they are dope to eat in combat
+If you kill the shrouded ghost don’t sell the meat. Triumph over your victory and eat it’s remains.
+Ever since the megs came out I’ve experienced different behavior with each of them, like Crested Queen is really passive and friendly but Shadowmaw is much more aggressive. Is that intentional or are my friends and I just insane?
+The Shrouded Ghost does not exist, so you cannot eat its meat or sell it.
+    It does exist
+        You’re brain cells are non existent
+Once you have the commendations, eat it. It's excellent PvP food.
+I feel like i got attacked by the shrouded when I was newer to the game and just didn’t know
+Nice fan art! Dont think rare will ever add a "shrouded ghost" to the game tho
+Sell for commendations, after that just keep it for the healing.
+Meat allows for 200% health.  And that's only from meat.  Meg meat adds 50% per bite.
+Dont you mean ancient terror?
+The MEAT?!!??!
+
+Edit: Last time I killed one was before the big update
+I see the queen all the time apparently, never tried to kill a megalodon
+What’s the order for rarest to most common
+    Common to rare is:
+
+Hungering, Crested, Shadowmaw, Ancient, -redacted-.
+Why is the Crested Queen listed as only the second most common in the game when it's figuratively the only one I ever see?
+
+Seriously though I see Shadowmaws more often than Hungering Ones.
+I like to eat them to assert dominance to the others.
+What? no
+
+Eat the raw meat and puke in a bucket.
+
+Please dont be so petty
+Don't sell they are the best food in the game (with kraken meat)
+The one time I’ve seen a shrouded ghost was when I first started playing a few days in and my mate was too afraid to fight it even though we didn’t have any loot 
+
+I’m really annoyed that I didn’t just go for it
+I know a lot of people who claim to have seen it, so I think it's real.
+I’ve seen the shrouded ghost in game if anyone’s wondering , yes it’s a real thing , yes it’s INSANELY rare
+    How much is rare paying you to say that
+    Liar
+        You don’t have to believe me , I know what I saw 🤷🏻‍♂️
+            Lies. Who do you work for?
+                I saw it once too, but I didn’t know how rare it was and sailed toward an island instead. So I’ll never see again.
+    No watch out you have to play along with the joke that's 3 fucking years old, you must become one who lies to newbies genuinely questioning because it's haha funny
+        Save some salt for the sea, mate.
+            Take my poor mans gold 🥇 this comment made me laugh so hard.
+            My bad for not finding the same joke being spammed over and over, guess I'll look elsewhere for good jokes
+        No cigar
+I once saw a shrouded ghost and didn't realize until after :/
+    Thats sad, hope you find it one day again!
+Stupid grog sucker, shrouded ghost isnt real
+This is wrong, the Shrouded Ghost isn’t real.
+That bottom one doesn't exist though.
+    It does
+Happy to say i have killed all 4 meg types
+    Now you need the 5th, gl
+        There’s only 4
+            False
+There are 5
+https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+                The joke is that the 5th one is fake
+                    I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+                        Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+                            Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+Dang nice photoshop
+That's weird, theres one extra megalodon on this image
+why are there 5 variants in this picture, only 4 are actually in the game
+Don't expect to find the shrouded anytime soon, it's just a prank of the devs. Kinda like Herobrine for minecraft, everyone knows it doesn't exist at this point.
+    https://vm.tiktok.com/ZMd7KEamw/ in the comments they confirm it actually is in the game but maybe they were kidding I haven’t had this game for very long
+        It was a joke, don't worry. It's in the game.
+
+Thing is, I killed one and I'm playing since ghost ships release. That should say how rare it is
+Selling although when my crew killed shrouded we partook in the raw flesh as we believed it would grant us super powers
+What is that last one, and why is a bad Photoshop?
+Last one is propaganda
+That’s odd the last one shouldn’t be there
+I mena if The shrouded ghost would exist then it would probably be worth as much as the other ones, but we all know that the shrouded ghost doesnt exist
+The shrouded ghost is a lie
+The Shrouded Ghost is a lie.
+Fake picture, only 4 megladons in the game
+Eat vs sell aside, you got the megs wrong
+
+
+
+
+
+The last one doesn't exist
+    It does
+The last one is called THE LIE
+Wait whats the shrouded ghost
+    Its one of the rarest megs and people say he doesnt exist but he does, he only has a really really small spawn chance
+        False he does not exist. Its just a conspiracy put on by rare to make people fight meg
+            https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+                I’m with mighty red. I don’t think this after effects laden video is any proof of its existence.
+                More SG propaganda I will not stand for this!
+                    Lol
+Whomst has awoken the ancient one
+Worth selling for the commendation, but if you’re talking in terms of gold, it’s better to save for pvp
+1st of all, i don't remember how much it sells for, but probably not much, so eating it is better especially for activities like fof, and 2nd, this graph is one of two reasons why i got my megalodon rarities mixed up, the other being a crewmate who got it wrong, presumably from this graph
+Yummy
+Save it for pvp and sell the extra when you log off
+Isn't the Shadowmaw more common than Ancient?
+Eating if your going to PVP. If you're just grinding pve stuff or logging off you should sell it to the hunters call.
+If I remember, cooked Meg meat gives full hp and full regen. I always keep the meat for fights
+Eat
+it's PVP food!!!
+Eating. You don't get much for selling.
+Sell it until you get the commendation then keep to eat
+I honestly sell it when I’m doing runs. But it doesn’t really matter. The gold isn’t substantial really, but that goes for most fish. When I do fishing and Meg hunting I definitely cook and sell though 
+Eating it is very good for PvP and PvE if you are doing bosses or prolonged fights. 
+But it all depends on your goal. Check what commendations you want/need and do what you need to do ;)
+I’ve always wondered what the spawn rate of all of the megalodons are? Can someone give me percents or a website?
+sell :) im grinding out the last few levels of hunters right now and I'm not a fan... fishing just isn't my thing
+Depends.  If I have a good amount of fish and gems to turn in to Hunter's Call, I'll turn them in for the rep (nearly maxed, its so slow :( ).  
+
+But, if I won't end up going by a sea post I eat it because it's amazing.
+the beauty of the hunters call loot is the flexibility! always keep that regen bar up and your inventory full of the fleshy stuff. whenever you sail past a seapost grab a gem and merm back.
+I always eat megalodon meat raw because he would do the same
+I didn’t know they’re were 4 different types of Megladon, very helpful!
+I just cook and eat it. Same with kraken meat
+i don't sell them for the gold, i sell them for the reputation progress.
+
+But if you don't care about the reputation it makes a really good food item.
+Worth selling for the commendations, but once you have them all, bon appetit
+Sells for 450 gold a pop, and must be cooked which is 3.5 minutes each chunk.
+
+Sell for commendations and for rep with hunters call (because holy shit that takes forever). 
+
+Once your done with those, eat it or leave it in the sea to taunt the sharks with your prowess.
+I've got a prostrat when it comes to megalodon and kraken meat.
+So as you play during your session and you get meat you tell your friend that you need to stop by a seapost he agrees. And then you just forget you had the meat until right after you stop playing.
+Works everytime
+Has anyone got shrouded twice or more? Like to know cause I know a guy thats got 2
+See that girl,
+Watch that scene.
+She is the Crested Queen
+People will think you are cheating if you fight with any food other than coconuts and bananas.
+The money is super negligible....but the reputation on the other hand worth, untill you max it than just good food.
+What's that last one?
+Is it the ancient one that looks like the shrouded ghost because I killed one that looked like the shrouded ghost at night red fin and all and it was not it
+After you have the commendations you may as well cook it and eat it
+The shrouded ghost one always shows up we agro it then he just dips most annoying thing
+You get more from it but stick to chicken or pork for the health buff.
+I think the Crested Queen has no white
+Fake News, Shrouded Ghost doesn't exist!
+they aren’t worth the gold honestly.. however you should still sell them for the commendation before eating them. (need to sell 50 to complete commendation) same goes for kraken meat
+Eat it for PvP situations. It's not great gold. Once commendation done, just keep it for if you need it.
+In my experience, at the start you'll be extremely jazzed to sell them. As you play longer and/or do more pvp, you'll be extremely jazzed to eat them. Pineapple+? Sign me up. Great even when you are doing a PvE focused play session where they can be used in intense situations like boat defense.
+I would only sell it for the commendations, the gold ain't worth it
+For those who don't know, or just haven't tried, you can sell gems and siren hearts to any hunters call representative. You still get the same amount of gold as you would to any other Faction. While doing athena runs of thieves heaven, my crew and I like to stockpile the gems and and siren hearts we get. We have gone from 12 hunters rep to just under 30 in a few days.
+You sell it in batches or in crates? Where do you sell it, the hunters?
+    You sell it to the hunters, and you sell it piecemeal, since it's meat. So, optimally, you can fill your inventory up with up to 5 at a time and sell them to the hunters like that
+        usually what I see people doing most often on fishing trips is fill a storage crate with cooked fish/meg then sell so they don't have to hop back and forth between their boat
+            my advice: store only not cooked meat in storage crates and barrels, otherwise you may feed boarding attackers. Store only uncooked meat, never fruits, there, and cooked stuff only in your pockets.
+
+At the sea posts, you have enough time to cook and sell your meat, if you want to. If you can't spare the time, you are already almost in trouble and not able to stop and sell, anyway.
+                Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+                I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+            That works? I didn't even know you could sell storage crates.
+                You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+                    Oh, duh. Yeah, that makes sense.
+                        Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+                            > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+                            also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+        You should always cook it first as the rewards are a bit more.
+Is cooked worth more?
+    Definitely worth more. You can't even sell it if it hasn't cooked at least a tiny bit. Full cook is about 2 minutes for a piece of meg. We frequently use this site to keep easy track of it (God bless whoever made it). [https://sot-cooking-timer.herokuapp.com/](https://sot-cooking-timer.herokuapp.com/)
+whats actually worth in this game?
+
+i got 20 hours or so but i can't play more than a hour a day, last time i did for first time ( red skeletons boss in cloud ) i went to an island and waves of brainless skellys spawned and we just killed them me and my crew it was so underwhelming and after that it took us probably 30 mins to gather the chests from island>ship>outpost just to sell each one for 300 gold or less and get nothing but season pass lvls,?
+
+i closed the game after but I'm really trying to like it and each time i get this feeling that the world is ocean but the fun and content is a needle
+    Unfortunately Sea of Thieves is a game that requires a bit more of a time commitment. It's best when you can dedicate several hours to just sailing around working on voyages or doing emergent events or whatever.
+
+If you only have an hour at a time, at best you're going to squeeze in a single event like a skull fort (the thing you did) or a Flameheart battle or something. That or do a couple of voyages. But it's just not going to be as satisfying if you don't have the time to dedicate to it.
+        i once dedicated 2-3 hours to do the first tale ( the shroud ) me and my friend, when we where almost done game booted us out and the quest progress didn't save, if i have a clear path say like MMO quests type I'd dedicate 6 hours but the game makes you feel lost and not important
+            >almost done game booted us out and the quest progress didn't save, 
+
+Checkpoints are in your voyages which you can vote for on the voyage table in your ship!
+                damn never knew that
+thanks
+                    The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+            It sounds like you had an uncommon experience with that one. Barring the extremely rare crash, I would say most people have never been arbitrarily booted from a tall tale or any other voyage. Further, the tall tales are supposed to save checkpoints so you can resume later. Though to be fair, sometimes they are still further apart than people would prefer.
+
+As for feeling unguided, the tall tales are *supposed* to be about puzzle solving and exploration. If the game told you exactly where to go and what to do when you got there that would entirely defeat the purpose.
+
+It sounds like this might just not be your kind of game. Sea of Thieves isn't an action-packed narrative experience that keeps the player within tight boundaries. It's all about letting everyone just kind of do their own thing and the unique experiences that arise from unexpected interactions. If you're only able to play the game in short windows it's very unlikely those interactions are going to happen for you, and you end up missing out on the experience the game is trying to capture.
+    This game has fairly little in the way of progression in-game - your pirate is already as strong, mechanically, as they will ever be, and the only difference between you and any other player in a fight will be skill level and loadout.
+
+Forts aren’t very difficult if you’re on either a dead server or on a server with a bunch of people ignoring world events, which is the case if you did one of those forts (a fort of fortune) with no other crew fighting you for it; I’ve rarely, if ever, had a FoF world event spawn and seen only one player go for it.
+
+But yeah if you’re playing and not seeing other people that can be due to a lot of things, from the time of day you play to just luck; additionally the way to make gold quickly is to also fly an emissary quest for one of the trading companies; if you’re going to do world events then usually your best bet is to fly either the Gold Hoarders or Order of Souls emissary flag, or alternatively the Reapers Bones emissary which is higher risk but higher reward;
+
+As a general rule, you end up selling chests and gold trinkets to gold hoarders, skulls to order of souls, and crates to merchant alliance. Usually merchant Alliance crates are all of fairly low value while skulls and chests vary more.
+
+When you fly an emissary flag, you gain ranks based on doing things like quests for that faction or finding treasure that faction wants to buy from you. As you gain emissary rank, you get a bonus payout for items sold; at highest emissary rank, you get 2.5x the base payout (or a bonus payment of 150% on top of the 100% base); additionally, after reaching rank 5 emissary in anything but reapers (more below) the company representative will give you an emissary quest, which is generally like 2-4 of their normal quests, but on steroids. Ex: a normal gold hoarder (non-vault) quest will give you some number of maps with X’s to dig up, and the treasure will be random, while their emissary quest gives 4 maps with 5 x’s each that will contain high-value chests (not as high value as the puzzle chest in vaults but theres more of them); 
+
+Reapers emissary is different, and high risk/reward as said before. Reapers don’t have missions, but you gain rep for almost every treasure (I can’t think of one you don’t gain rep for, so I say almost in case I forgot something) and also are unique in 4 important ways:
+
+1) reaper emissaries are always shown on the map for other players on the server, along with their emissary rank
+
+2) reapers have a unique type of loot available to them through PvP: other players’ emissary flags, which sell for more the higher their rank (this can include other Reaper emissary flags as well)
+
+3) at rank 5 reaper emissary, other ships flying emissary flags will show up on your map table
+
+4) the only place to sell loot and get your bonus as a Reaper emissary is to the Servant of the Flame at Reaper’s Hideout.
+
+This means that for things like forts, all the loot sells for more, but you also put a target on your back, *and* everyone who’s fairly knowledgeable about the game knows that eventually you’ll make your way to Reaper’s Hideout.
+
+As a general rule, the best way to make the most profit on loot is to have a grade 5 emissary flying for the company you’re selling said loot to. But typically you’ll have a mix of loot, so you either end up taking a lower payout on some loot, or putting a target on yourself.
+
+Also: when flying an emissary flag, you get bonus gold for lowering the flag, with a max of 5,000 for lowering a grade 5 emissary flag.
+
+Oh, and finally to the point of the OP: another faction to get rep with is the Hunters Call, they have reps at the tiny seaports on the map and you cant fly an emissary flag to them, and they’ll only buy meat, fish, and mermaid/siren gems.
+        Worth noting lowering a grade 5 flag also gives a nice little hefty chunk of rep
+        [deleted]
+            It's probably due to the time of day/if it's a double gold hour, if I had to guess.
+                Wouldn’t it be 10k then?
+                    I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+                        Could that have been from stealing/pvp?
+                            Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                                Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+                Pretty sure thts for pvp? Or well stealing at any rate
+    Murder other people and take their stuff
+        how I'm always alone in the server i rarely see ppl
+    To add on to this are you raising an emmissary flag? This will increase the amount of gold you get from a specific type of item, if you raise Goal Hoarders for example for each emissary level you get increased gold and experience from gold hoarder items. And usually doing 1 Fortune fort (red skull) will easily get you to the max level of level 5. not sure about regular skull forts as I havent done one in forever but I would be shocked if it didnt get you to at least level 4
+    Gold hoarder vaults are nice, but can take a bit over an hour or more if you run into major issues. The vault at the end is filled with gold & chests and there is a special chest you can grab by completing a puzzle.
+How much do you get for it?
+Well, depending on how many pieces you get, it can be worth about as much as a stronghold chest.
+I take it with me on PvE runs as well. Very good healing benefits and the Meg drops plenty upon death
+I thought kraken was the best? Or is it the same as meg
+    It's the same, just easier to obtain.
+        Are you saying meg or kraken is easier to obtain?
+            Meg is easier
+                Weird cause we've taken down many kraken, but have yet to kill a meg
+                    the last update has been very bugged with megs despawning, might be why.
+                    Megs are much more common. Shoot them with tridents for easy kills.
+                    Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+                    Opposite for me
+                        Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+                            You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                                Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                                Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+                            I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+                    Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+                        Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+                    Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+            They are extremely easy to kill when you have a staff, just use the basic shot and you will kill the Meg before it even has time to fully circle your ship.
+    same
+    Kraken heals the same amount, but according to the wiki you get three bites out of it, so I'd say it's better, it's just a massive pain in the ass to ever get
+        only 2 bites
+Yeah I used to save them to sell for rep, but now I'll just take it any time I'm about to go into PvP.
+
+Whatever's left at the end of the session though, goes to HC.
+Oh my god thank you for giving an idea to change my gamertag since that's the one Megalodon title I have
+    Post a screenshot later if you do it!
+        Of course it's already taken. :(
+            just add n's to the end until it works or something
+                RaRaRasputin is already at the 12 character limit unfortunately.
+                Or numbers
+    [removed]
+        Check the vanity chest on your ship and go to titles
+Paid actors by Rare*
+    The paid actors even leave clues for you.  Just look at the name on the image, it's got "Shill" in it.
+ITS A MYTH.
+I don't understand why people think he's rare - I've been playing for 4 days now, and I've seen the shrouded ghost (Of course, no screenshot). Thought it was the regular megalodon until I watched a few SoT videos.
+    it's still rare even you got lucky, i know multiple people with 4-9k hours who's not gotten it
+    You probably saw the crested queen or the shadowmaw. They both are mistaken as the shrouded. Either that or you are insanely lucky.
+Ill let you take a SS with me in game if it will help ease the pain. :)
+Agreed
+*John Cena's theme plays*
+And if you happen to have the title for it, you are probably hacking
+    I think he means the ancient one, its ancient terror, and second rarest meg in the game
+        Is it actually the second rarest!?
+I’ve seen on 2 separate occasions and killed it on one
+            It’s the second rarest but that doesn’t mean it’s rare. Just more rare than the first 3 but it’s still insanely more common than the shrouded. It’s like if 5 people have a bike race and the first dude wins by 10 hours and the other 4 come in close together.
+            Nice, and yes it's second rarest i checked
+                Sick
+                It’s the second rarest but that doesn’t make it rare
+CLEARLY it's The Ancient One. I never find that bugger
+Pretty sure ancient terror is rarer than shadowmaw
+    The word part also is created queen and the hungering one are rarer than the shadowmaw. Yea I have seen like a million shadow maws compared to the 3 hungering ones, 1 ancient terror, and a couple created quens
+That picture isn’t in order of rarity dummy, the ancient terror is more rare than the shadowmaw
+    lol this was 7 months ago but ummm I think I looked it up when the megalodons were released way back when and the ancient terror was 3rd rarest not 2nd but that info may have been false idk anymore but anyway I thought that picture was accurate to the information I had at the time guess not then my b
+The chart isn’t meant to be in order of rarity, it’s just showing them all
+you can dodge sharks too
+    I have about a 40% success rate with my shark dodges.
+It does exist
+    You’re brain cells are non existent
+Common to rare is:
+
+Hungering, Crested, Shadowmaw, Ancient, -redacted-.
+How much is rare paying you to say that
+Liar
+    You don’t have to believe me , I know what I saw 🤷🏻‍♂️
+        Lies. Who do you work for?
+            I saw it once too, but I didn’t know how rare it was and sailed toward an island instead. So I’ll never see again.
+No watch out you have to play along with the joke that's 3 fucking years old, you must become one who lies to newbies genuinely questioning because it's haha funny
+    Save some salt for the sea, mate.
+        Take my poor mans gold 🥇 this comment made me laugh so hard.
+        My bad for not finding the same joke being spammed over and over, guess I'll look elsewhere for good jokes
+    No cigar
+Thats sad, hope you find it one day again!
+It does
+Now you need the 5th, gl
+    There’s only 4
+        False
+There are 5
+https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+            The joke is that the 5th one is fake
+                I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+                    Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+                        Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+https://vm.tiktok.com/ZMd7KEamw/ in the comments they confirm it actually is in the game but maybe they were kidding I haven’t had this game for very long
+    It was a joke, don't worry. It's in the game.
+
+Thing is, I killed one and I'm playing since ghost ships release. That should say how rare it is
+It does
+Its one of the rarest megs and people say he doesnt exist but he does, he only has a really really small spawn chance
+    False he does not exist. Its just a conspiracy put on by rare to make people fight meg
+        https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+            I’m with mighty red. I don’t think this after effects laden video is any proof of its existence.
+            More SG propaganda I will not stand for this!
+                Lol
+You sell it to the hunters, and you sell it piecemeal, since it's meat. So, optimally, you can fill your inventory up with up to 5 at a time and sell them to the hunters like that
+    usually what I see people doing most often on fishing trips is fill a storage crate with cooked fish/meg then sell so they don't have to hop back and forth between their boat
+        my advice: store only not cooked meat in storage crates and barrels, otherwise you may feed boarding attackers. Store only uncooked meat, never fruits, there, and cooked stuff only in your pockets.
+
+At the sea posts, you have enough time to cook and sell your meat, if you want to. If you can't spare the time, you are already almost in trouble and not able to stop and sell, anyway.
+            Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+            I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+        That works? I didn't even know you could sell storage crates.
+            You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+                Oh, duh. Yeah, that makes sense.
+                    Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+                        > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+                        also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+    You should always cook it first as the rewards are a bit more.
+Definitely worth more. You can't even sell it if it hasn't cooked at least a tiny bit. Full cook is about 2 minutes for a piece of meg. We frequently use this site to keep easy track of it (God bless whoever made it). [https://sot-cooking-timer.herokuapp.com/](https://sot-cooking-timer.herokuapp.com/)
+Unfortunately Sea of Thieves is a game that requires a bit more of a time commitment. It's best when you can dedicate several hours to just sailing around working on voyages or doing emergent events or whatever.
+
+If you only have an hour at a time, at best you're going to squeeze in a single event like a skull fort (the thing you did) or a Flameheart battle or something. That or do a couple of voyages. But it's just not going to be as satisfying if you don't have the time to dedicate to it.
+    i once dedicated 2-3 hours to do the first tale ( the shroud ) me and my friend, when we where almost done game booted us out and the quest progress didn't save, if i have a clear path say like MMO quests type I'd dedicate 6 hours but the game makes you feel lost and not important
+        >almost done game booted us out and the quest progress didn't save, 
+
+Checkpoints are in your voyages which you can vote for on the voyage table in your ship!
+            damn never knew that
+thanks
+                The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+        It sounds like you had an uncommon experience with that one. Barring the extremely rare crash, I would say most people have never been arbitrarily booted from a tall tale or any other voyage. Further, the tall tales are supposed to save checkpoints so you can resume later. Though to be fair, sometimes they are still further apart than people would prefer.
+
+As for feeling unguided, the tall tales are *supposed* to be about puzzle solving and exploration. If the game told you exactly where to go and what to do when you got there that would entirely defeat the purpose.
+
+It sounds like this might just not be your kind of game. Sea of Thieves isn't an action-packed narrative experience that keeps the player within tight boundaries. It's all about letting everyone just kind of do their own thing and the unique experiences that arise from unexpected interactions. If you're only able to play the game in short windows it's very unlikely those interactions are going to happen for you, and you end up missing out on the experience the game is trying to capture.
+This game has fairly little in the way of progression in-game - your pirate is already as strong, mechanically, as they will ever be, and the only difference between you and any other player in a fight will be skill level and loadout.
+
+Forts aren’t very difficult if you’re on either a dead server or on a server with a bunch of people ignoring world events, which is the case if you did one of those forts (a fort of fortune) with no other crew fighting you for it; I’ve rarely, if ever, had a FoF world event spawn and seen only one player go for it.
+
+But yeah if you’re playing and not seeing other people that can be due to a lot of things, from the time of day you play to just luck; additionally the way to make gold quickly is to also fly an emissary quest for one of the trading companies; if you’re going to do world events then usually your best bet is to fly either the Gold Hoarders or Order of Souls emissary flag, or alternatively the Reapers Bones emissary which is higher risk but higher reward;
+
+As a general rule, you end up selling chests and gold trinkets to gold hoarders, skulls to order of souls, and crates to merchant alliance. Usually merchant Alliance crates are all of fairly low value while skulls and chests vary more.
+
+When you fly an emissary flag, you gain ranks based on doing things like quests for that faction or finding treasure that faction wants to buy from you. As you gain emissary rank, you get a bonus payout for items sold; at highest emissary rank, you get 2.5x the base payout (or a bonus payment of 150% on top of the 100% base); additionally, after reaching rank 5 emissary in anything but reapers (more below) the company representative will give you an emissary quest, which is generally like 2-4 of their normal quests, but on steroids. Ex: a normal gold hoarder (non-vault) quest will give you some number of maps with X’s to dig up, and the treasure will be random, while their emissary quest gives 4 maps with 5 x’s each that will contain high-value chests (not as high value as the puzzle chest in vaults but theres more of them); 
+
+Reapers emissary is different, and high risk/reward as said before. Reapers don’t have missions, but you gain rep for almost every treasure (I can’t think of one you don’t gain rep for, so I say almost in case I forgot something) and also are unique in 4 important ways:
+
+1) reaper emissaries are always shown on the map for other players on the server, along with their emissary rank
+
+2) reapers have a unique type of loot available to them through PvP: other players’ emissary flags, which sell for more the higher their rank (this can include other Reaper emissary flags as well)
+
+3) at rank 5 reaper emissary, other ships flying emissary flags will show up on your map table
+
+4) the only place to sell loot and get your bonus as a Reaper emissary is to the Servant of the Flame at Reaper’s Hideout.
+
+This means that for things like forts, all the loot sells for more, but you also put a target on your back, *and* everyone who’s fairly knowledgeable about the game knows that eventually you’ll make your way to Reaper’s Hideout.
+
+As a general rule, the best way to make the most profit on loot is to have a grade 5 emissary flying for the company you’re selling said loot to. But typically you’ll have a mix of loot, so you either end up taking a lower payout on some loot, or putting a target on yourself.
+
+Also: when flying an emissary flag, you get bonus gold for lowering the flag, with a max of 5,000 for lowering a grade 5 emissary flag.
+
+Oh, and finally to the point of the OP: another faction to get rep with is the Hunters Call, they have reps at the tiny seaports on the map and you cant fly an emissary flag to them, and they’ll only buy meat, fish, and mermaid/siren gems.
+    Worth noting lowering a grade 5 flag also gives a nice little hefty chunk of rep
+    [deleted]
+        It's probably due to the time of day/if it's a double gold hour, if I had to guess.
+            Wouldn’t it be 10k then?
+                I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+                    Could that have been from stealing/pvp?
+                        Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                            Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+            Pretty sure thts for pvp? Or well stealing at any rate
+Murder other people and take their stuff
+    how I'm always alone in the server i rarely see ppl
+To add on to this are you raising an emmissary flag? This will increase the amount of gold you get from a specific type of item, if you raise Goal Hoarders for example for each emissary level you get increased gold and experience from gold hoarder items. And usually doing 1 Fortune fort (red skull) will easily get you to the max level of level 5. not sure about regular skull forts as I havent done one in forever but I would be shocked if it didnt get you to at least level 4
+Gold hoarder vaults are nice, but can take a bit over an hour or more if you run into major issues. The vault at the end is filled with gold & chests and there is a special chest you can grab by completing a puzzle.
+It's the same, just easier to obtain.
+    Are you saying meg or kraken is easier to obtain?
+        Meg is easier
+            Weird cause we've taken down many kraken, but have yet to kill a meg
+                the last update has been very bugged with megs despawning, might be why.
+                Megs are much more common. Shoot them with tridents for easy kills.
+                Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+                Opposite for me
+                    Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+                        You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                            Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                            Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+                        I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+                Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+                    Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+                Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+        They are extremely easy to kill when you have a staff, just use the basic shot and you will kill the Meg before it even has time to fully circle your ship.
+same
+Kraken heals the same amount, but according to the wiki you get three bites out of it, so I'd say it's better, it's just a massive pain in the ass to ever get
+    only 2 bites
+Post a screenshot later if you do it!
+    Of course it's already taken. :(
+        just add n's to the end until it works or something
+            RaRaRasputin is already at the 12 character limit unfortunately.
+            Or numbers
+[removed]
+    Check the vanity chest on your ship and go to titles
+The paid actors even leave clues for you.  Just look at the name on the image, it's got "Shill" in it.
+it's still rare even you got lucky, i know multiple people with 4-9k hours who's not gotten it
+You probably saw the crested queen or the shadowmaw. They both are mistaken as the shrouded. Either that or you are insanely lucky.
+I think he means the ancient one, its ancient terror, and second rarest meg in the game
+    Is it actually the second rarest!?
+I’ve seen on 2 separate occasions and killed it on one
+        It’s the second rarest but that doesn’t mean it’s rare. Just more rare than the first 3 but it’s still insanely more common than the shrouded. It’s like if 5 people have a bike race and the first dude wins by 10 hours and the other 4 come in close together.
+        Nice, and yes it's second rarest i checked
+            Sick
+            It’s the second rarest but that doesn’t make it rare
+The word part also is created queen and the hungering one are rarer than the shadowmaw. Yea I have seen like a million shadow maws compared to the 3 hungering ones, 1 ancient terror, and a couple created quens
+lol this was 7 months ago but ummm I think I looked it up when the megalodons were released way back when and the ancient terror was 3rd rarest not 2nd but that info may have been false idk anymore but anyway I thought that picture was accurate to the information I had at the time guess not then my b
+I have about a 40% success rate with my shark dodges.
+You’re brain cells are non existent
+You don’t have to believe me , I know what I saw 🤷🏻‍♂️
+    Lies. Who do you work for?
+        I saw it once too, but I didn’t know how rare it was and sailed toward an island instead. So I’ll never see again.
+Save some salt for the sea, mate.
+    Take my poor mans gold 🥇 this comment made me laugh so hard.
+    My bad for not finding the same joke being spammed over and over, guess I'll look elsewhere for good jokes
+No cigar
+There’s only 4
+    False
+There are 5
+https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+        The joke is that the 5th one is fake
+            I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+                Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+                    Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+It was a joke, don't worry. It's in the game.
+
+Thing is, I killed one and I'm playing since ghost ships release. That should say how rare it is
+False he does not exist. Its just a conspiracy put on by rare to make people fight meg
+    https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+        I’m with mighty red. I don’t think this after effects laden video is any proof of its existence.
+        More SG propaganda I will not stand for this!
+            Lol
+usually what I see people doing most often on fishing trips is fill a storage crate with cooked fish/meg then sell so they don't have to hop back and forth between their boat
+    my advice: store only not cooked meat in storage crates and barrels, otherwise you may feed boarding attackers. Store only uncooked meat, never fruits, there, and cooked stuff only in your pockets.
+
+At the sea posts, you have enough time to cook and sell your meat, if you want to. If you can't spare the time, you are already almost in trouble and not able to stop and sell, anyway.
+        Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+        I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+    That works? I didn't even know you could sell storage crates.
+        You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+            Oh, duh. Yeah, that makes sense.
+                Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+                    > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+                    also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+You should always cook it first as the rewards are a bit more.
+i once dedicated 2-3 hours to do the first tale ( the shroud ) me and my friend, when we where almost done game booted us out and the quest progress didn't save, if i have a clear path say like MMO quests type I'd dedicate 6 hours but the game makes you feel lost and not important
+    >almost done game booted us out and the quest progress didn't save, 
+
+Checkpoints are in your voyages which you can vote for on the voyage table in your ship!
+        damn never knew that
+thanks
+            The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+    It sounds like you had an uncommon experience with that one. Barring the extremely rare crash, I would say most people have never been arbitrarily booted from a tall tale or any other voyage. Further, the tall tales are supposed to save checkpoints so you can resume later. Though to be fair, sometimes they are still further apart than people would prefer.
+
+As for feeling unguided, the tall tales are *supposed* to be about puzzle solving and exploration. If the game told you exactly where to go and what to do when you got there that would entirely defeat the purpose.
+
+It sounds like this might just not be your kind of game. Sea of Thieves isn't an action-packed narrative experience that keeps the player within tight boundaries. It's all about letting everyone just kind of do their own thing and the unique experiences that arise from unexpected interactions. If you're only able to play the game in short windows it's very unlikely those interactions are going to happen for you, and you end up missing out on the experience the game is trying to capture.
+Worth noting lowering a grade 5 flag also gives a nice little hefty chunk of rep
+[deleted]
+    It's probably due to the time of day/if it's a double gold hour, if I had to guess.
+        Wouldn’t it be 10k then?
+            I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+                Could that have been from stealing/pvp?
+                    Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                        Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+        Pretty sure thts for pvp? Or well stealing at any rate
+how I'm always alone in the server i rarely see ppl
+Are you saying meg or kraken is easier to obtain?
+    Meg is easier
+        Weird cause we've taken down many kraken, but have yet to kill a meg
+            the last update has been very bugged with megs despawning, might be why.
+            Megs are much more common. Shoot them with tridents for easy kills.
+            Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+            Opposite for me
+                Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+                    You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                        Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                        Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+                    I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+            Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+                Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+            Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+    They are extremely easy to kill when you have a staff, just use the basic shot and you will kill the Meg before it even has time to fully circle your ship.
+only 2 bites
+Of course it's already taken. :(
+    just add n's to the end until it works or something
+        RaRaRasputin is already at the 12 character limit unfortunately.
+        Or numbers
+Check the vanity chest on your ship and go to titles
+Is it actually the second rarest!?
+I’ve seen on 2 separate occasions and killed it on one
+    It’s the second rarest but that doesn’t mean it’s rare. Just more rare than the first 3 but it’s still insanely more common than the shrouded. It’s like if 5 people have a bike race and the first dude wins by 10 hours and the other 4 come in close together.
+    Nice, and yes it's second rarest i checked
+        Sick
+        It’s the second rarest but that doesn’t make it rare
+Lies. Who do you work for?
+    I saw it once too, but I didn’t know how rare it was and sailed toward an island instead. So I’ll never see again.
+Take my poor mans gold 🥇 this comment made me laugh so hard.
+My bad for not finding the same joke being spammed over and over, guess I'll look elsewhere for good jokes
+False
+There are 5
+https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+    The joke is that the 5th one is fake
+        I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+            Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+                Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+https://youtu.be/EIOyeSzPdkE watch at 15:49
+Its a stream
+    I’m with mighty red. I don’t think this after effects laden video is any proof of its existence.
+    More SG propaganda I will not stand for this!
+        Lol
+my advice: store only not cooked meat in storage crates and barrels, otherwise you may feed boarding attackers. Store only uncooked meat, never fruits, there, and cooked stuff only in your pockets.
+
+At the sea posts, you have enough time to cook and sell your meat, if you want to. If you can't spare the time, you are already almost in trouble and not able to stop and sell, anyway.
+    Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+    I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+That works? I didn't even know you could sell storage crates.
+    You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+        Oh, duh. Yeah, that makes sense.
+            Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+                > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+                also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+>almost done game booted us out and the quest progress didn't save, 
+
+Checkpoints are in your voyages which you can vote for on the voyage table in your ship!
+    damn never knew that
+thanks
+        The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+It sounds like you had an uncommon experience with that one. Barring the extremely rare crash, I would say most people have never been arbitrarily booted from a tall tale or any other voyage. Further, the tall tales are supposed to save checkpoints so you can resume later. Though to be fair, sometimes they are still further apart than people would prefer.
+
+As for feeling unguided, the tall tales are *supposed* to be about puzzle solving and exploration. If the game told you exactly where to go and what to do when you got there that would entirely defeat the purpose.
+
+It sounds like this might just not be your kind of game. Sea of Thieves isn't an action-packed narrative experience that keeps the player within tight boundaries. It's all about letting everyone just kind of do their own thing and the unique experiences that arise from unexpected interactions. If you're only able to play the game in short windows it's very unlikely those interactions are going to happen for you, and you end up missing out on the experience the game is trying to capture.
+It's probably due to the time of day/if it's a double gold hour, if I had to guess.
+    Wouldn’t it be 10k then?
+        I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+            Could that have been from stealing/pvp?
+                Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                    Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+    Pretty sure thts for pvp? Or well stealing at any rate
+Meg is easier
+    Weird cause we've taken down many kraken, but have yet to kill a meg
+        the last update has been very bugged with megs despawning, might be why.
+        Megs are much more common. Shoot them with tridents for easy kills.
+        Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+        Opposite for me
+            Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+                You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                    Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                    Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+                I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+        Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+            Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+        Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+They are extremely easy to kill when you have a staff, just use the basic shot and you will kill the Meg before it even has time to fully circle your ship.
+just add n's to the end until it works or something
+    RaRaRasputin is already at the 12 character limit unfortunately.
+    Or numbers
+It’s the second rarest but that doesn’t mean it’s rare. Just more rare than the first 3 but it’s still insanely more common than the shrouded. It’s like if 5 people have a bike race and the first dude wins by 10 hours and the other 4 come in close together.
+Nice, and yes it's second rarest i checked
+    Sick
+    It’s the second rarest but that doesn’t make it rare
+I saw it once too, but I didn’t know how rare it was and sailed toward an island instead. So I’ll never see again.
+The joke is that the 5th one is fake
+    I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+        Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+            Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+I’m with mighty red. I don’t think this after effects laden video is any proof of its existence.
+More SG propaganda I will not stand for this!
+    Lol
+Unless you are doing 3+ hour long fishing trips with 50+ fish found, then cooking in-situ is the only way not to waste an hour cooking at the sea post
+I do all my fishing in the sea of the damned now, no need to worry about boarders or attackers
+You don't sell the crate, you just carry the crate full of meat/fish over to the dock by the hunter. You still have to pull the meat out of the crate, but you can do it right there, instead of having to jump back to the ship to pull it out of the barrel on the ship.
+    Oh, duh. Yeah, that makes sense.
+        Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+            > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+            also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+damn never knew that
+thanks
+    The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+Wouldn’t it be 10k then?
+    I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+        Could that have been from stealing/pvp?
+            Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+                Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+Pretty sure thts for pvp? Or well stealing at any rate
+Weird cause we've taken down many kraken, but have yet to kill a meg
+    the last update has been very bugged with megs despawning, might be why.
+    Megs are much more common. Shoot them with tridents for easy kills.
+    Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+    Opposite for me
+        Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+            You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+                Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+                Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+            I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+    Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+        Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+    Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+RaRaRasputin is already at the 12 character limit unfortunately.
+Or numbers
+Sick
+It’s the second rarest but that doesn’t make it rare
+I see, but this joke is getting annoying to some people like myself, as its being used ever since well it came to be
+    Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+        Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+Lol
+Oh, duh. Yeah, that makes sense.
+    Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+        > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+        also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+The TT checkpoints weren't always a thing. Used to be if you lost the items, or DC'd you'd be out of luck. Now there are set points on the TT's that'll autosave into your TT quest log so you can vote back up. Usually you get them each chapter.
+I've seen it do 1.5x before, tbh I don't really know what the rules are, just that I managed to sell a blue mermaid gem for 1500 at one point
+    Could that have been from stealing/pvp?
+        Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+            Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+the last update has been very bugged with megs despawning, might be why.
+Megs are much more common. Shoot them with tridents for easy kills.
+Megs are generally easy, but you have to stay in place. If you move out of their engagement zone, they de-aggro and then de-spawn.
+
+Also, they're stronger the bigger the ship you're in. If you're under-manned on a brig or especially a galleon, you are likely to take damage faster than you can repair and fight. But then, you shouldn't sail a brig or *especially* a galleon under-manned anyway.
+Opposite for me
+    Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+        You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+            Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+            Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+        I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+Show me your ways
+
+Been playing Sea Of Thieves since early/mid 2020 ish and haven't seen a single Kraken
+    Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+Strange in the past week I’ve killed 3 legs but I haven’t been krakened in two months
+Sorry? Me using a hopelessly oversued joke you don’t like isn’t an excuse to pretend like it isn’t a thing.
+
+Showing me video evidence of something we all know actually exists in the game isn’t going to change the joke.
+    Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+Best way to stock up from an island, too. You just carry it around the whole island to every barrel, put everything from every barrel into it, and have the whole island worth of supplies in couple minutes. Sure as hell beats grabbing 5 fruit and 10 balls at a time and then running to the ship and back.
+    > You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+    also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+Could that have been from stealing/pvp?
+    Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+        Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+Yeah I honestly haven't had a Kraken for months, but Megs every session at some point or another.
+    You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+        Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+        Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+    I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+Krakens can only spawn when there are no other events and when you’re in deep waters, so if you want a kraken encounter sail through deep water when no events are up 🙂
+Thats what you are making of it, but there are some cases that i had people that said it isnt bc they never seen it and some that are joking and now the time you dont know the difference, amd i thought you where someone who just havent happen to find one, so i wish you luck and now we are here, well i do wish you luck on your journey to find it, lets stop arguing before one of us starts to get mean and i didnt mean to come over rude i apologize if i did
+> You just carry it around the whole island
+
+My friend does this all the time, I pick on him so much about it that I call it his "wubbie", it's his security blanket
+also dont bother emptying the filled crates into the ship crates, just place the filled crates near cannons, the ship wheel and other points, you will have acess to fruits and grenades and cannonballs at any given moment, and if your ship sinks, a crewmate can rescue the supplies into a rowboat along with your loot and wait for a pickup from the new ship. just be on the lookout of boarders who might snatch or use up those supplies, tho they often not pay attention to supply crates, especially if placed half hidden near barrels and walls.
+Shouldn't've been; I generally do PvE and only PvP for sport when Reapers are prowling my map.
+    Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+You have to have 2 or more world events worth of loot on your boat, a grade 5 flag, and be fighting 2 player ships and a skelly ship for the kraken to spawn on you. At least that's how I always get krakened.
+    Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+    Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
+I had just finished the fourth tall tale in coral castle and was leaving to go south when I got BOTH as a solo sloop. Fun fun fun
+Hmm 🤷🏻‍♂️😂 only other 50% bonus i could think of thats not obvious
+Hah, yeah! I've been playing some low-key Tall tales for the most part. Nothing to tempt ol' Karen to show up...
+Last time I got krakened was after lowering a grade 5 flag and selling most of my loot and leaving all but like 10 of my cannon balls on the dock in a storage crate and then sailing 2 squares to a seaport to sell mermaid gems and meat lmao
