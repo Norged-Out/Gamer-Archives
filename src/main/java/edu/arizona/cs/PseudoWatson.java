@@ -1,14 +1,10 @@
 package edu.arizona.cs;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
+//import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
-import org.apache.lucene.document.StringField;
-import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
@@ -20,16 +16,12 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * The `PseudoWatson` class represents a Watson-like search engine that performs queries on an index
@@ -82,10 +74,8 @@ public class PseudoWatson {
     private List<ResultClass> runQuery(String query) throws ParseException, IOException{
         List<ResultClass>  results = new ArrayList<ResultClass>();
         parser = new QueryParser("docContent", analyzer);
-        Query q;
-
-        q = parser.parse(query);
-        System.out.println("Query: " + q.toString());
+        Query q = parser.parse(query);
+        //System.out.println("Query: " + q.toString());
         IndexReader reader = DirectoryReader.open(index);
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
@@ -98,17 +88,7 @@ public class PseudoWatson {
             results.add(result);
         }
         reader.close();
-        int hits = results.size();
-        System.out.println("Found " + hits + " hits");
-        int i = 0;
-        for(ResultClass res: results){
-            //System.out.print(res.DocName.get("docName"));
-            //System.out.println(", Score: " + res.docScore);
-            i++;
-            if(i == 10){
-                break;
-            }
-        }
+        System.out.println("Found " + results.size() + " hits");
         return results;
     }
     /**
@@ -166,7 +146,8 @@ public class PseudoWatson {
                             System.out.println("Here are some alternative answers I found:");
                             int i = 1;
                             while(i < 4 && i < results.size()){
-                                System.out.println(results.get(i).DocName.get("docName"));
+                                System.out.print(results.get(i).DocName.get("docName"));
+                                System.err.println(", score: " + results.get(i).docScore);
                                 i++;
                             }
                         }

@@ -1,0 +1,1394 @@
+[[Celebrating my last day as a Cinema Employee playing In the biggest screen we own ☺️]]
+
+
+
+
+
+The seats make it look kinda like a laptop
+    [removed]
+        me too haha until I seen the title.
+            Where do you live where they say “I seen...” instead of “I saw...”? I had a classmate that said it that way and it just hits my ear so wrong, and whenever I see someone do that I can’t help but think of that kid.
+                I seent it
+                    and dont ferget to warsh your pellow. and drink some melk.
+                        “Warsh” kills me every time I hear someone say it.
+                            thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+                                Warsh in the wooder.
+                                    My mom says woof instead of wolf and it really grinds my gears.
+                                    down the crick
+                                Hahaha, that made me chuckle. It’s gotta be generational.
+                            Libary makes me want to stab someone.
+                            It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+                            Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+                                Hahaha I read that in Larry the cable guys voice. Git’er done
+                            my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+                It's common in Australia, too. It makes me shudder. I hear "youse" a lot here as well. And my pet hate, people pronounce the letter 'H' as 'haitch'.  We moved to a state where it's very common, the locals converted my whole family except for me. I'm so disappointed in them.
+                    Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+                        Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+                    I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+                        Singaporean here. Tbh almost everything we say in English sounds odd.
+                North East Pennsylvania
+                It's definitely something you hear pretty often where I am in the south. Not sure if it's a generally southern thing or just a gulf coast thing.
+                Im from michigan and a lot of the "country" kids said it like that in highschool
+                uk
+                I'm sure there are other places but definitely Wales
+
+You get used to it and it starts to sound almost right
+            Saw, not seen.
+            You look at the content before reading/skimming the title? Do you just look at every post, interesting
+    Ikr thats what I thought haha
+    I work from home, and sometimes I use my VR headset while working. You can stream your desktop to your headset, and change your location. Sometimes I'm sitting in a movie theater, with my work on the big screen. Sometimes I'm floating in space working.
+
+It's dope. You all should try if you have VR or are looking to get it.
+        Try sitting in a chair when you're playing.
+        I will as soon as I get the reverb g2 so that maybe I can actually read text and not have eye strain after awhile. What I have now is fine for gaming but I couldn't imagine trying to use it as a desktop
+        It's surprisingly satisfying watching a movie in a vr cinema.  Even at lower resolution you have the same immersive vibe.
+    I can’t unsee it now
+    Especially with the little indent in the stage that look like ventilation holes
+    what is this, a laptop for ants??
+    I saw that too it wasn’t till I read the title i realised
+    I legit opened the picture first and wondered what am i looking, this is just a leaptop with red keyboard.
+    That is gold
+    I don't think your laptop screen is supposed to be curved like that.
+    imagine a curved screen laptop..
+    It's the biggest screen we own!
+    Wait... It is a laptop!
+    Should post this in confusing perspective
+That's awesome! Can't imagine the input lag being great though haha
+    My first thoughts too. Especially with a projector.
+        [Agreed, I’ve done this on an LED Wall on tour and the input lag is near unbearable](https://i.imgur.com/r8UCLZg.jpg)
+            Most LED walls use RS232 for synchronization, which is going to have abysmal latency.
+                For people who don’t know, RS232 is usually used for pretty simple data transmission. Simple instructions—rotate a motor, turn on a display, basic boot sequences for servers—and basic inputs (keyboards and other peripherals used RS232 back in the day). It’s not really designed for the level of throughput or speed that low latency video requires.
+                    It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+                        Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+                        I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+                            Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+                                300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+                        Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+                    instructions unclear, I have disabled V-sync.
+                    Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+                I have to disagree here.      
+Some RGB led like neopixel use a very fast protocol. And even with rs232, it's fast with the right frequency (of course you don't want to use 9600 baud)
+                    It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+                        Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+                            And probably ROE or god forbid Absen tiles.
+                                Can confirm this was indeed a ROE wall.
+            That is a very very nice drum set.
+        Projectors can actually have a lot less input lag than most displays, but yeah this one is probably bad.
+            [deleted]
+                Interesting! I too had a buddy (childhood neighbor) whose father was a techy church dude who coincidentally also set-up his churches projector a/v system and we too got to play video games on it! We played Half Life and Halo mostly. He would have these huge spools of ethernet and would cut us custom lengths depending on how far we were playing whether it just be room to room or full on across the street house to house. It was an awesome introduction to LAN parties and eventually online gaming. Problem was we could never afford what he had and when I eventually tried to get into gaming the quality drop was ultimately discouraging enough to throw it on the backburner. Good times though!
+                Player Tony Hawk on Projector. So ill. It’s cheaper than a flat screen so why not. Lol
+            Yeah I play on an optoma projector that's got about 30ms input lag, no issues whatsoever.
+        Many new home projectors have great input lag today, And some up to 240hz refresh rate
+            I've seen 4k projectors advertising sub 20ms, even as low as 14ms I believe, which is about where I start thinking a home theater projector becomes a pretty attractive solution.
+                Any monitor advertised as 1ms is realistically a lot closer to 12-14ms. So if projector manufactures aren't making the same trumped up claims monitors do that is about as good as it gets
+                    Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+                        its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+                my Optoma HD143X  has 16ms in gaming mode lol... and this thing is old, but good.
+                [I have one. It's pretty dope but I don't use it all the time.](https://imgur.com/nwSihRF)
+            Yep my home projector is fantastic for playing games on.
+                Which one do you have?
+                    I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+                    Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+                    I have Blitzwolf VP2 and played rocket league without problems
+        Nah, input lag on a DCI projector won’t be bad. They have DVI inputs that don’t pass through the security enclosure and they get no post processing on their way through the projector. Assuming you set the color space to rec709 you won’t have any issues playing on one of these.
+        Had a projector for a long time, had lower lag than my tv
+    I played a Guitar Hero 2 tournament in like 2008. It was at a guitar shop, and we played in the back where they had a mini-stage with a small projection screen and yes, the input lag was terrible. I had to press the notes ahead of time just to hit them and solos were pretty much unplayable. I made it to the finals where me and this kid played Buckethead's "Jordan". At the time, that song was the hardest GH song because the solo was insane and long. So even though we both massacred the solo, I perfectly hit the bridge going into the solo even with the input lag. I just remember everyone in the room going HOLY SHIT lmao, it even surprised me. I ended up winning by about 50k points and I won an epiphone guitar. I sold it some years later when I kinda stopped playing guitar. Sorry for ranting off topic lol just wanted to share a memory that I even kind of forgot about
+    Can’t be worse than the Nintendo Switch in dock mode lol
+        I just started playing on my switch when the game went F2P and man, I hate it. At certain moments the game look like 480p, and playing handheld kind of hurts my hands, and holding the ZR trigger is annoying.
+
+I actually refuse to play competitive matches on it cause I think it impacts my ability so much.
+            I just go into freeplay and moreso just hit the ball around to get more of a memory of where the ball will go if it's hit x way or casual 3v3 and don't try hard at all. On a switch lite ita super difficult to play serious. I save that for the pc.
+                Yeah sometimes my hand gets tired and I'm playing and I'm like "why's my car stopped driving?" and then I realize my finger gave up pressing the trigger "button" that's not really a trigger.
+                    If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+            Yeah I'm like plat or diamond level on switch. Its impossible to control because of the delay so the ground game feels clunky and aerials are completely out the question.
+        Oh man, I thought it was just me! I play a lot of PC rocket league with my friend on his PC and I like to think I'm pretty good. I can't control the ball in the air for shit but I can hit some pretty decent aerial shots/saves etc. and rarely come last in my team.
+
+I had it for the switch for about 6 months before my buddy got it on PC so had got to a reasonable level before we started playing together but now when I go back to the switch version I just can't play at anywhere near the level I can on PC. Still, I can't take a PC on a plane so the switch still has it's uses...
+    Yeah.  Would be fun to watch on though.
+        I’d pay to watch the final day of RLCS in a theater
+            You should try to go to a LAN once those roll back around: 100%. It’s unreal!
+                Been to RLCS, it was absolutely insane. Also been to both OWL grand finals in NYC and Philly(not this year considering it's in korea)
+
+Anyone who thinks that eSports don't work as a local event is crazy, some of the best entertainment events I've ever been too.
+                I can only imagine.  Watching the season finals where Kaydop, Fairy Peak and Scrub won was as exciting as any sporting event I’ve seen in 20 years.
+            Watched the final of a csgo tournament in a sold out cinema once. I believe it was called esports in cinemas. Was awesome, would definitely do again.
+            when i lived in nyc a few bars would play RLCS with projectors and all that
+    I used to work at a cinema and we had game night once a quarter. They input lag on the projector we hooked into was better than any of the TV's I've played on and comparable to monitors. It was a super cool experience, and you could read touches perfectly from across the field.
+    no way i would be playing online with the crazy input lag it must have, straight to exhibition! haha
+    I‘ve played games on a Barco cinema projector before and the lag really wasn‘t noticeable.  
+Granted, we only played Super Smash bros, Fall Guys, Rocket League and Last of Us, so no lag-critical FPS or anything, but it was totally fine and playable.
+    The Barco laser projectors we had in our cinema had minimal input lag, it was definitely noticeable if you were trying but 100% playable.
+    Looked great for us! We had HDMI inputs on our projectors, so I’m sure that helped.
+    I have played a few games on an imax theater (with the a non imax projector)
+
+Imput lag was horrible, but we got mario cart working with eight players and it was a great time.
+
+Also original super mario bros was fun, but duck hunt didn't work :(
+    It's *awesome* the guy is being laid off and the increased u employment benefits are expiring with no replacement incoming with "great depression" levels of unemployment???
+    I have managed both an AMC and independent theatre. Input lag on the AMC projectors was generally around 50ms, while the independent theatre I worked at ran around 15ms. You’d be surprised how fast commercial grade projectors are
+Is this the reason it is your last day as a cinema employee or how should we interpret this?
+    Regal is closing all their locations today. 
+
+I assume this is related to that.
+        That sucks to hear
+            It’s temporary though. At least the one where I live is temporarily closing because of COVID.
+
+Edit: shit yo... it was what I read in an article. I could care less if they open up again or not.
+                “Temporary”
+
+They were already in financial trouble pre-covid. I honestly doubt they’ll make it out of this. Shame because I really liked Regal more than AMC
+                    don't worry AMC and Cinemark will be gone soon too.
+                        Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+                            Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+                                [deleted]
+                                    I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                                    I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+                                I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                                    I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+                                Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+                                Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+                                Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+                                I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+                            Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                [deleted]
+                    Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+                    They're closing till the end of the year, at least, yes.
+                That's wishful thinking fam
+                [***couldn't*** care less](https://www.youtube.com/watch?v=om7O0MFkmpw)
+        Cineworld as well (same group I think)
+            I hope they reopen though, I always preferred their popcorn over Odeon and that other place l..
+            Yes Cineworld owns Regal
+Goal explosions will probably make the whole building shake.
+    Thermonuclear goal explosion, checking in
+        I want that one so bad
+            Trade for TW octane? :P
+                Is it actually tradeable? I thought it was account locked?
+                    It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+                    Not tradeable, I was only kidding.
+        Obnoxious dinosaur roar, checking in
+        Giant Nuke goal explosion, checking in
+        Retina meltdown 100%
+    Turn camera shake off plz
+Imagine RLCS being streamed to cinemas
+    The college I go to streamed the last day of rlcs on the movie theater screen on campus, I believe the esports club dibs'd it for the day. I didnt even know about it until i recognized it on a post in this sub.
+        What a time to be alive. How I wish there were esports clubs in college when I went.
+            I’m hoping to be able to play for a esports *team* at college.  Some schools offer substantial scholarships to their esports players (over $5,000 a year)
+                What the actual.. I'm still in uni.. why don't we have something like this 
+
+*Cries in Europe*
+                    Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+                        Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+                            9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+                    My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+                I caught the college rlcs games last weekend and was wondering about scholarships. That's really cool, I know it's not alot, but it's something! Right on man, good luck!
+                I’ve played on my college csgo team and subbed for RL and it was 100% worth. It’s also getting bigger each year so def do it
+            I hear you, man. I went to college in 05-09, right when video games were evolving from nerdy to mainstream. I always wonder how I could have faired in Battlefield 2. That's the only game ever that I could confidently join any server and know that I'd be at the top of my team by the end of the match. I wonder if anything could have come from that...
+    You could be onto something there
+    [Here it is](https://www.reddit.com/r/RocketLeague/comments/eb1gl6/reserved_my_universitys_student_union_theater_for/?utm_medium=android_app&utm_source=share)
+It was a couple season ago I believe.
+    I work at a gaming venue in Berlin. We have a cinema and stream eSports regularly if you have the chance to come by.
+I’d still whiff
+Ok, ok, I want to hear the audio of that going on
+    The music -_-
+        *about-u intensifies*
+            Scregbo magulvie
+            *YES*
+        Rocket league playlists are bomb!
+        "TAKE YOU TO SOME PLACES THAT YOU'VE NEVA BEEP"
+
+&#x200B;
+
+(I know the real lyrics but me and my friends always joke that it's "beep")
+I'm going to miss movie theaters.  It's a shame Regal and AMC will be bankrupt by the end of the year.
+    Don't worry, they'll come back under different names, with more gimmick features, and a higher price.
+
+Enjoy your $60 medium popcorn, sir!
+        [deleted]
+            Medium is the smallest size.  The sizes are Medium, Large, XL, Giant, Gargantuan, and The Popcorninator.  The Popcorninator fits almost a whole gallon of popcorn, for only $160!
+                Fun fact: most theater owners became owners as a cheaper alternative to buying popcorn
+                *Note: A full seat purchased is required with the popcorninator*
+        Now that I think of it, there’s gonna be new companies replacing other companies, and we’ll have distant memories, and new names to remember
+            Yup.  They'll also throw in a bunch of gimmicks to draw people back to the theater (after all, if you've got an 85" home theatre, why would you want to go to a theater and get pop all over the soles of your shoes, and be stuck sitting in the theater for 90 mins knowing that if you have to go to the washroom, that's 10 minutes of the movie you'll miss).  So it'll have shit like reclining seats with haptic feedback, alcoholic drink service direct to your seat, etc when they come back.  But they'll also jack the prices up by 50-100% to compensate for it.
+                Just go to the bathroom before?
+                    I can't piss on command
+        thought you said higher prices
+    AMC won't be bankrupt by the end of the year. Most analysts were saying back in May and June that they wouldn't even be in danger until the middle of next year. And that was before AMC raised $500 million in capital a couple of months ago.
+
+And as for Regal, even if they do fail they'll just be bought out by another company that's doing a better job of weathering the pandemic. One way or another theaters will be back in full force once this is all over. The only question is who will own them.
+Hey all! I've just came back after an emotional day but a great one nonetheless! Thought I'd clarify some things you are asking!
+
+We had the projector on for a Nintendo Switch and a Xbox Console, both 60FPS and Input seemed good! The screen has over 40 audio speakers designed for Dolby Atmos and yes, it did shake the room!
+
+Here's some snaps and videos of how the day went today. Gonna miss this place and the folks I work with! <3
+
+[https://imgur.com/a/5VJ3J3u](https://imgur.com/a/5VJ3J3u)
+
+Edit: Thank you very much for this amazing response! It's really brightened up my day! <3
+    Omg I don't even know you and it made me tear up. My husband worked at Toys R Us..
+# WHAT A SAVE!
+
+# WHAT A SAVE!
+
+# WHAT A SAVE!
+A gamers dream no matter what game! Got that music on flat out!
+    Bro can you imagine solar eclipses playing on those speakers tho
+        Bro you don’t realise how much I want to get a job in a cinema to then leave and do this and live stream it for the world to see! WHAT AN IDEA!
+            Bro!
+Probably takes a whole game for that jump input to register
+    Faking.
+How is the input lag. I'm going to need u/HalfwayDead to verify.
+    Who is halfwaydead?
+        Rocket Science
+This is sick. Hope youre using the popcorn explosion too.
+RIP Cineworld
+As someone in the cruise line industry I share your pain, and envy your last day haha.
+SHOW ME WHAT YOU GOT
+Hmm. What’s the refresh rate on that bad boy?
+Lool that's awesome.
+YESSIR
+bruh
+Life goals
+Beside all the Input lag nonsense it must be really weird to see that main screen so huge !! Would be funny to hear some of the engine sounds super loud too
+SHOW ME WHAT YOU GOT
+Thats awsome dude haha xD i bet screen delay was trash though
+So dope dude. I’ve worked at a movie theater for a couple years and I’ve always wanted to do this
+Need to put on camera shake for the real cinematic experience
+Did it run in 24 fps though? 😄
+    hit dimond today on 26 fps!
+SHOW ME WHAT YOU GOT
+Imagine the delay on this screen
+You: What A Screen!
+
+You: What A Screen!
+
+You: What A Screen!
+
+
+
+(Cinema disabled for 5 hours)
+That refresh rate must be awful! And the neck pain...
+Dude fuck yeah
+Damn, u have that power?
+Imagine d box seats playing rl.
+I love everything about this!
+Legendary.
+Holly!
+No excuses missing the ball. "Savage!"
+Im used to playing on my ultra wide computer screen and tried the switch to a larger projector on the wall and tell you that I could not get used to the giant screen
+omg this is huuuuuge!
+I wish I could rent a theatre and just play games/watch Netflix on a giant ass screen!
+Input lag must be terrible
+That input lag though
+That is realllly cool.
+So what's the FPS like on an IMAX screen (or any projector for that matter)? I hope ping and lag aren't too bad!
+How's input delay and response time? Actually fuck that 15102074 inch screen ftw
+Siiick!
+How's the input lag?
+Cineworld?
+Is there a video of you guys playing (not a replay)
+Jealous.
+What's the input lag lookin' like though?
+N U T S
+Literally MASSIVE for the boys!
+Sweet. But I've always wondered, where do you play from? If the Xbox(?) is inside the projector room, can you only sit in the back row of the theater? How far does the contoller signal reach through the wall?
+what a wonderful way to go out. best of luck in this next chapter, you awesome person you.
+So it is true that people can play there. You should let people in letthem play when there isnt a movie going on so you coluld make more money. You could also make cinemas more fun
+My man what Cineworld you work for? We just had a piss up in screen 12 - should’ve brought my PS4 and done this..!
+Ive always wanted to do this!
+As a person who’s been playing on a monitor basically his whole life my eyes hurt from looking at this
+Can't imagine the bass at the 60 second mark.
+SHOW ME WHAT YOU GOT
+Very dope
+Show me what you got.
+I salute you.
+[Everyone liked that]
+thats one long usb cable.
+Why your last day ?
+😛
+Super jelly bro that's sick
+Damn congrats! But that must be one hell of an experience :D
+Brooooo
+The seats kind of looked like a lit up keyboard and I thought it was a close up of a laptop for a moment.
+how was the input lag?
+Real talk, how was the response?
+Weird that its not even a girl.
+Jesus, how bad is the latency? 
+
+As a PC player that started on PS3 or 4 or something, I can't even go back to console and manage to make contact. I could imagine using this beast
+Still on my bucket list!
+I wish they did this as a service.
+Whats the input lag like?
+Thought it was a gaming laptop.
+Lmaooooo
+God the input lag would must be unbearable
+EPIIIIICCCCCCC
+I just added this to my list of things I need to do before I die.
+laptop for giants
+What’s the refresh rate on that projector
+Now that’s what we call a pro gamer move
+Cineworld?
+That input lag has to be unreal😂 looks so dope though
+So how is the 34 second input delay?
+Thats cool
+the ultimate gamer in whole universe
+im so jealous
+Just imagine the input delay
+Latency must be a pain
+Thinking about the latency between the controller inputs and what's occurring on-screen sends chills down my back.
+rent them out for gamers and watch the sales boom
+you can smell the input lag
+“Faked him”
+How is the refresh rate?
+This is fuckin' awesome. I've always dreamt of doing exactly this when I was a kid.
+I can feel the input lag
+Assume you work for Regal. If so hope job hunting goes well.
+SHOW ME WHAT YOU GOT
+I would love to see “What a save!” over and over on the big screen...
+Dude... that is literally the dream...
+and?
+Input lag x9000
+Too bad they don’t have to two player thing fixed Cinama could become the next gaming centers for these things.
+I got to do this with Guitar Hero 3 and Halo 3 back in 07. A true 50ft screen in 4 player mode, merkin' bitches out the side seat of a wart hog is just too cool.
+High key jealous
+Lucky
+That’s some bucket list stuff right there. GG
+Wow!
+That would be awesome. I got to play Guitar Hero in a movie theater and it was one of the coolest things.
+GAWDAMMIT I've ALWAYs Wanted to do this! So jelly!! Did you guys get to play online?
+That’s sick
+Is this in an empire cinema? Looks somewhat familiar
+Came here to look for comments about input lag.
+SHOW ME WHAT YOU'VE GOT
+What do you play on 
+
+*CINEMA TV*
+Dude i am dreaming of this since i was 9 years old
+The input lag must be INSANE
+The legend of all legends.
+You work at cineworld?
+Hey man you might wanna change your camera settings because your car is kinda big
+Doin it right yo!
+SHOW ME WHAT YOU GOT
+
+I WANT TO SEE WHAT YOU GOT
+A hard time for the industry - good luck
+I LIKE WHAT YOU GOT. GOOD JOB
+Loading up the game and just hear Protostar- Galaxies playing and the choir just going to town
+I heard this used to be pretty common but modern projectors dont have an hdmi slot or something so you cant play on them anymore
+How is this possible? Just ask your boss if you can in an empty theater one night?
+Show me what you got
+When I was going to the university of Memphis they used to leave the psychology auditorium the biggest auditorium on campus equipped with a giant 1080p projector unlocked every night and me and my friends started to call it our home theater. I think that’s what I miss the most about college.
+Sorry about your job. Look forward to demo’ing you soon
+That is legit insane
+What kind of input lag did you have?
+Are you playing because it is your last day or is it your last day because you are playing?
+Legend!
+What is the latency like?
+How was the lag? You can book this now at Cinemark for $99 for a couple hours. Been wanting to try it but skeptical of the lag issues
+Is it difficult to set this up in a theater? Our little two screen theater had to shut back down and I was thinking about asking them if I could rent a screen for a few hours for my son and I to play Xbox on.
+SHOW ME WHAT YOU GOT
+I remember my last day working at a theater, they put my favorite movie on the big screen and served everyone meatball subs. I hope you loved your job in cinema as much as I did!
+Imagine playing RDR2 on one of those
+I use to be a theatre manager at AMC and every so often we would have employee appreciation nights and let the crew members bring in their consoles to hook up in the projection booth. That was an in between job for me since the entertainment industry was never my career niche, but I will admit that was probably one of the funnest jobs I ever had. A sad thing to see an industry die like this and regards to you for losing employment. I hope you get back on your feet soon.
+Running at a crisp 30fps
+Jealous
+Theaters would do well to let people rent a theater for just that.
+What’s the refresh rate like?
+Those are Cineworld seats
+That's awesome. I saw someone playing Mario kart on a massive screen at a music festival (Lost Lands). Literally playing a video game on what I'd imagine to be $1,000,000+ in equipment. I've never been so jealous.
+Thought the seats were a keyboard
+Play some porn
+How many hertz?
+Is it 240hz though?
+employee? the head workers allow this?
+Dude I bet that's a trip
+Now those are gonna be some big oofs
+That’s actually so dope though! I’m mother f***ing peanut butter and jealous
+I can feel the input lag from here.
+Now that is true RPX!
+
+I may or may not have done the same thing
+I goddamn wish that's wicked
+Dooe!!!!
+Could be wrong but is this cineworld in England?
+I’m hatin cause I aintin
+Rocket League at cinematic 24 fps
+What a save!
+Looks like regal 16
+Oooh shit that's awesome
+What will happen to all the old movie theaters?
+
+Do the movie projectors have 0/very low input lag like those little projectors? Probably be great for a big Smash tournament.
+
+
+I also miss Kung Fu movies at the cheap movie theaters with people yelling at the screen. Will those ever happen again or is it not cost effective to have to clean such a small place after each use? Could they have one of those self cleaning rooms like that one episode of Home Improvement when Tim got stuck in inside? Damn covid is like 27/33. I miss the movies, mi mi mi rabble rabble end rant.
+That is awesome. Wow
+My video gets taken down bec it's taken by phone but yours is still here
+I did that once at my local movie theatre! That and Minecraft. Was a bit underwhelming, but still fun!
+Oh... The sound. 
+
+
+Tell me you get to use the sound system :)
+
+
+(Even if it's a lie)
+Just save a step. In disarming a bomb?!
+Bruh
+Was gonna say the seats look like keys on a keyboard, then realised the top comment basically says the same thing. 
+
+Still crazy, audio must have been sweet too. Iltimate gaming set-up :)
+SHOW ME WHAT YOU GOT
+Would love to spectate! Where is This tho?
+The input lag!! But really that’s super awesome
+"How do we tag them?
+Holy shit what’s the input lag like?
+I'm surprised they let u
+Enjoy the 10 second input delay tho
+Im gonna go do this on sunday
+Gonna be some mad input lag
+Bruh this is the coolest set up there is
+woow
+idk man, Mississippi is a pretty powerful spell in my opinion but even that was still a steal at the time we were in the first 3 phases which were more science and gadget focused. Not a real quote? I never thought it comes across as if they don't even get it, they're not police.
+Try sitting in a chair when you're playing.
+Ha! You guys don’t have cinema projectors in your basement????
+Holy shit this is amazing
+Fucking awesome!
+What was the input lag like?
+Oooo nice! Man I wish I could do that, though I have a question: wouldn’t it be hard to see the full view of the screen
+How many fps can you get? 25 max?
+There’s goats be like a 8 second delay
+What's the resolution set to?
+Nice save....
+I thought that was a backlit monitor with a red keyboard
+So much fun to do this.  My first job was at a theater.  We would play Halo CE 16 player in a theater.  16 players was a rarity back then.
+I use to work in a movie theater in college. Still one of my favorite places of employment.
+So lucky, that must have been a sick experience.
+Did this once at a theater I worked at as a teen but with guitar hero Metallica, full band with my coworkers + front row moshing lol good times
+Wow! Calculated.
+Dude- did you get fired? 😥
+I thought the fucking seats were a keyboard...
+I never understood why cinemas didn't offer rentals for gaming competitions. This looks fun as hell.
+God the soundtrack must just THUMP on a movie theater soundsystem. Unheard-of levels of hype
+Lmao
+Imagine the amount of delay you would get playing on that!
+I'm so sorry you're losing your job. I hope this is the best night you ever have there!
+Way to go out with a bang! 💥
+There may be something here to market.
+How was the lag playing on that.
+wtf
+Whats the input lag on that big boy
+I strongly recommend people look into home projectors. I play on a 200" screen (really just a wall in my apartment) and projectors are insane nowadays. I can play in a fully lit room and I have a "short throw" projector so my projector only sits about 7ish feet away from my wall to achieve a 200 inch display. There are also what's called an "ultra short throw" projector which only needs to sit 8-12 inches from a wall to achieve 120" display although those are as much as double the price of standard and short throw projectors. Look at brands like BenQ, Optoma, Epson and Sony. Do not trust most projectors on Amazon unless they are the above brands as there are many many projectors between $80 and $250 that claim to be 1080p and absolutely are not even close. Plan to spend at least $450 For decent picture quality.  I use an Optoma gt1080hdr ($800) and it is full 1080p and actually looks better than my flat screen tv which is also 1080p. No perceivable input lag whatsoever and a replacement bulb is around $110 but is meant to last for over 20,000 hrs. Also these types of projectors have what i think is the best 3d viewing experience for movies that is available, way better than a theater to me. There's also a subreddit for home projectors but the name escapes me at this moment. Single greatest improvement to my home I've ever made and I highly recommend it to anyone in any sized living space.
+execution should be the biggest crime of them all
+did you win
+The response time must be horrible
+Madlad
+That's pretty awesome
+That input lag tho.
+That's crazy
+I take it business has been slow because of the pandemic, and they had to lay you off? Kudos to management for being real bros and letting you do that.
+Back in University, I used to have a lecture in a cinema hall. We once managed to access the screen connectors and got a phone plugged into it, and played Angry Birds on the big screen.
+
+But this, this is way better, haha!
+What a dream
+I would say nice but I realized you played on xbox
+Holy SHIT. Absolute win 😍😍😍😍
+But did you win ?
+I wish I could play on that
+I have wanted to do this for a long time.
+Ayyyy
+Nice
+I worked in college student union and I played in one of the auditoriums during slow time
+Wonder what the screen lag was like
+nice!!
+Might be a little screen delay with that big guy
+Sorry for your loss
+All I see is “show me what you got”, hope you killed it on the big screen!
+Movie theaters are so fucked right now.
+How is the input lag
+Input lag 1000
+By the way,for 99$ you can buy a Jinhoo projector on Amazon that can go up to170inchs wide 1080p.. it's pixelated..but it's big.
+“Hey Dave, want to see the most input lag you could possibly get?”
+Wish i coulda seen the match man looks like it would’ve been a good one
+Haha wtf😂
+Input lag 100?
+how laggy is it
+Wow!
+Jeez thats sick
+What a play......How the hell did you rig up RL on a damn movie screen......You are a beast for that one......I couldn't imagine playing on a screen that big....Must have been dope
+there's gotta be sooo much input delay
+And only 1.5 seconds of input lag!
+Used to be a manager at a theater would host get together playing street fighter and mortal Kombat on those big screens was awesome.
+That’s amazing
+Input lag much?
+Surprised it can run that big
+That’s fucking amazing.
+
+Had a friend who’s family owned (and still owns) the local cinema. One day after hours we hooked up an Xbox 360 to a projector and played the shit out of co-op Halo while using the post mix drink machines to add to our spirits.
+
+Shit was wild. I miss being young! Thank you for letting me reminisce for a minute.
+daaaaaamnnnnn son
+Kinda sad that its ur last day but nice 👋❤️
+all jokes aside, good luck on your new job
+Even thinking about the input delay makes me cry
+(Unless its aprojector)
+Dude you're living the dream
+You should have done a RLCS viewing party :P
+Imagine the input lag on that 😂
+I would be more hyped about the deep surround audio.
+
+Edit: Oh if you had a very expensive computer, you could actually get 8k video output.
+“Ay bro I got an alienware monitor whatchu got bitch”
+Should've played Escape From Tarkov for maximum PTSD
+You’re living the dream bro I’ve always wanted to do that
+This is lit, always wanted to do something like this. Happy that you could do something like this.
+Show me what you got
+Savage!
+omg this would be so lit!
+the input lag would be immense
+Rancio, con esa cabeza vas a jugar
+ 
+Nice
+Show me what you got
+l
+The screen delay must have been insane lol.
+You a troopa
+YOOOOOO THATS AIICK
+Is that a cromulon?
+Enjoy it my dude
+I feel like that giant screen would screw with my gameplay. It's just too much screen.
+I bet the response time on that is terrible, sadly
+You made the rocket league movie
+Woww
+This is so wholesome
+[removed]
+    me too haha until I seen the title.
+        Where do you live where they say “I seen...” instead of “I saw...”? I had a classmate that said it that way and it just hits my ear so wrong, and whenever I see someone do that I can’t help but think of that kid.
+            I seent it
+                and dont ferget to warsh your pellow. and drink some melk.
+                    “Warsh” kills me every time I hear someone say it.
+                        thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+                            Warsh in the wooder.
+                                My mom says woof instead of wolf and it really grinds my gears.
+                                down the crick
+                            Hahaha, that made me chuckle. It’s gotta be generational.
+                        Libary makes me want to stab someone.
+                        It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+                        Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+                            Hahaha I read that in Larry the cable guys voice. Git’er done
+                        my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+            It's common in Australia, too. It makes me shudder. I hear "youse" a lot here as well. And my pet hate, people pronounce the letter 'H' as 'haitch'.  We moved to a state where it's very common, the locals converted my whole family except for me. I'm so disappointed in them.
+                Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+                    Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+                I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+                    Singaporean here. Tbh almost everything we say in English sounds odd.
+            North East Pennsylvania
+            It's definitely something you hear pretty often where I am in the south. Not sure if it's a generally southern thing or just a gulf coast thing.
+            Im from michigan and a lot of the "country" kids said it like that in highschool
+            uk
+            I'm sure there are other places but definitely Wales
+
+You get used to it and it starts to sound almost right
+        Saw, not seen.
+        You look at the content before reading/skimming the title? Do you just look at every post, interesting
+Ikr thats what I thought haha
+I work from home, and sometimes I use my VR headset while working. You can stream your desktop to your headset, and change your location. Sometimes I'm sitting in a movie theater, with my work on the big screen. Sometimes I'm floating in space working.
+
+It's dope. You all should try if you have VR or are looking to get it.
+    Try sitting in a chair when you're playing.
+    I will as soon as I get the reverb g2 so that maybe I can actually read text and not have eye strain after awhile. What I have now is fine for gaming but I couldn't imagine trying to use it as a desktop
+    It's surprisingly satisfying watching a movie in a vr cinema.  Even at lower resolution you have the same immersive vibe.
+I can’t unsee it now
+Especially with the little indent in the stage that look like ventilation holes
+what is this, a laptop for ants??
+I saw that too it wasn’t till I read the title i realised
+I legit opened the picture first and wondered what am i looking, this is just a leaptop with red keyboard.
+That is gold
+I don't think your laptop screen is supposed to be curved like that.
+imagine a curved screen laptop..
+It's the biggest screen we own!
+Wait... It is a laptop!
+Should post this in confusing perspective
+My first thoughts too. Especially with a projector.
+    [Agreed, I’ve done this on an LED Wall on tour and the input lag is near unbearable](https://i.imgur.com/r8UCLZg.jpg)
+        Most LED walls use RS232 for synchronization, which is going to have abysmal latency.
+            For people who don’t know, RS232 is usually used for pretty simple data transmission. Simple instructions—rotate a motor, turn on a display, basic boot sequences for servers—and basic inputs (keyboards and other peripherals used RS232 back in the day). It’s not really designed for the level of throughput or speed that low latency video requires.
+                It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+                    Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+                    I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+                        Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+                            300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+                    Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+                instructions unclear, I have disabled V-sync.
+                Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+            I have to disagree here.      
+Some RGB led like neopixel use a very fast protocol. And even with rs232, it's fast with the right frequency (of course you don't want to use 9600 baud)
+                It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+                    Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+                        And probably ROE or god forbid Absen tiles.
+                            Can confirm this was indeed a ROE wall.
+        That is a very very nice drum set.
+    Projectors can actually have a lot less input lag than most displays, but yeah this one is probably bad.
+        [deleted]
+            Interesting! I too had a buddy (childhood neighbor) whose father was a techy church dude who coincidentally also set-up his churches projector a/v system and we too got to play video games on it! We played Half Life and Halo mostly. He would have these huge spools of ethernet and would cut us custom lengths depending on how far we were playing whether it just be room to room or full on across the street house to house. It was an awesome introduction to LAN parties and eventually online gaming. Problem was we could never afford what he had and when I eventually tried to get into gaming the quality drop was ultimately discouraging enough to throw it on the backburner. Good times though!
+            Player Tony Hawk on Projector. So ill. It’s cheaper than a flat screen so why not. Lol
+        Yeah I play on an optoma projector that's got about 30ms input lag, no issues whatsoever.
+    Many new home projectors have great input lag today, And some up to 240hz refresh rate
+        I've seen 4k projectors advertising sub 20ms, even as low as 14ms I believe, which is about where I start thinking a home theater projector becomes a pretty attractive solution.
+            Any monitor advertised as 1ms is realistically a lot closer to 12-14ms. So if projector manufactures aren't making the same trumped up claims monitors do that is about as good as it gets
+                Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+                    its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+            my Optoma HD143X  has 16ms in gaming mode lol... and this thing is old, but good.
+            [I have one. It's pretty dope but I don't use it all the time.](https://imgur.com/nwSihRF)
+        Yep my home projector is fantastic for playing games on.
+            Which one do you have?
+                I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+                Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+                I have Blitzwolf VP2 and played rocket league without problems
+    Nah, input lag on a DCI projector won’t be bad. They have DVI inputs that don’t pass through the security enclosure and they get no post processing on their way through the projector. Assuming you set the color space to rec709 you won’t have any issues playing on one of these.
+    Had a projector for a long time, had lower lag than my tv
+I played a Guitar Hero 2 tournament in like 2008. It was at a guitar shop, and we played in the back where they had a mini-stage with a small projection screen and yes, the input lag was terrible. I had to press the notes ahead of time just to hit them and solos were pretty much unplayable. I made it to the finals where me and this kid played Buckethead's "Jordan". At the time, that song was the hardest GH song because the solo was insane and long. So even though we both massacred the solo, I perfectly hit the bridge going into the solo even with the input lag. I just remember everyone in the room going HOLY SHIT lmao, it even surprised me. I ended up winning by about 50k points and I won an epiphone guitar. I sold it some years later when I kinda stopped playing guitar. Sorry for ranting off topic lol just wanted to share a memory that I even kind of forgot about
+Can’t be worse than the Nintendo Switch in dock mode lol
+    I just started playing on my switch when the game went F2P and man, I hate it. At certain moments the game look like 480p, and playing handheld kind of hurts my hands, and holding the ZR trigger is annoying.
+
+I actually refuse to play competitive matches on it cause I think it impacts my ability so much.
+        I just go into freeplay and moreso just hit the ball around to get more of a memory of where the ball will go if it's hit x way or casual 3v3 and don't try hard at all. On a switch lite ita super difficult to play serious. I save that for the pc.
+            Yeah sometimes my hand gets tired and I'm playing and I'm like "why's my car stopped driving?" and then I realize my finger gave up pressing the trigger "button" that's not really a trigger.
+                If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+        Yeah I'm like plat or diamond level on switch. Its impossible to control because of the delay so the ground game feels clunky and aerials are completely out the question.
+    Oh man, I thought it was just me! I play a lot of PC rocket league with my friend on his PC and I like to think I'm pretty good. I can't control the ball in the air for shit but I can hit some pretty decent aerial shots/saves etc. and rarely come last in my team.
+
+I had it for the switch for about 6 months before my buddy got it on PC so had got to a reasonable level before we started playing together but now when I go back to the switch version I just can't play at anywhere near the level I can on PC. Still, I can't take a PC on a plane so the switch still has it's uses...
+Yeah.  Would be fun to watch on though.
+    I’d pay to watch the final day of RLCS in a theater
+        You should try to go to a LAN once those roll back around: 100%. It’s unreal!
+            Been to RLCS, it was absolutely insane. Also been to both OWL grand finals in NYC and Philly(not this year considering it's in korea)
+
+Anyone who thinks that eSports don't work as a local event is crazy, some of the best entertainment events I've ever been too.
+            I can only imagine.  Watching the season finals where Kaydop, Fairy Peak and Scrub won was as exciting as any sporting event I’ve seen in 20 years.
+        Watched the final of a csgo tournament in a sold out cinema once. I believe it was called esports in cinemas. Was awesome, would definitely do again.
+        when i lived in nyc a few bars would play RLCS with projectors and all that
+I used to work at a cinema and we had game night once a quarter. They input lag on the projector we hooked into was better than any of the TV's I've played on and comparable to monitors. It was a super cool experience, and you could read touches perfectly from across the field.
+no way i would be playing online with the crazy input lag it must have, straight to exhibition! haha
+I‘ve played games on a Barco cinema projector before and the lag really wasn‘t noticeable.  
+Granted, we only played Super Smash bros, Fall Guys, Rocket League and Last of Us, so no lag-critical FPS or anything, but it was totally fine and playable.
+The Barco laser projectors we had in our cinema had minimal input lag, it was definitely noticeable if you were trying but 100% playable.
+Looked great for us! We had HDMI inputs on our projectors, so I’m sure that helped.
+I have played a few games on an imax theater (with the a non imax projector)
+
+Imput lag was horrible, but we got mario cart working with eight players and it was a great time.
+
+Also original super mario bros was fun, but duck hunt didn't work :(
+It's *awesome* the guy is being laid off and the increased u employment benefits are expiring with no replacement incoming with "great depression" levels of unemployment???
+I have managed both an AMC and independent theatre. Input lag on the AMC projectors was generally around 50ms, while the independent theatre I worked at ran around 15ms. You’d be surprised how fast commercial grade projectors are
+Regal is closing all their locations today. 
+
+I assume this is related to that.
+    That sucks to hear
+        It’s temporary though. At least the one where I live is temporarily closing because of COVID.
+
+Edit: shit yo... it was what I read in an article. I could care less if they open up again or not.
+            “Temporary”
+
+They were already in financial trouble pre-covid. I honestly doubt they’ll make it out of this. Shame because I really liked Regal more than AMC
+                don't worry AMC and Cinemark will be gone soon too.
+                    Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+                        Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+                            [deleted]
+                                I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                                I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+                            I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                                I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+                            Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+                            Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+                            Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+                            I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+                        Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+            [deleted]
+                Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+                They're closing till the end of the year, at least, yes.
+            That's wishful thinking fam
+            [***couldn't*** care less](https://www.youtube.com/watch?v=om7O0MFkmpw)
+    Cineworld as well (same group I think)
+        I hope they reopen though, I always preferred their popcorn over Odeon and that other place l..
+        Yes Cineworld owns Regal
+Thermonuclear goal explosion, checking in
+    I want that one so bad
+        Trade for TW octane? :P
+            Is it actually tradeable? I thought it was account locked?
+                It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+                Not tradeable, I was only kidding.
+    Obnoxious dinosaur roar, checking in
+    Giant Nuke goal explosion, checking in
+    Retina meltdown 100%
+Turn camera shake off plz
+The college I go to streamed the last day of rlcs on the movie theater screen on campus, I believe the esports club dibs'd it for the day. I didnt even know about it until i recognized it on a post in this sub.
+    What a time to be alive. How I wish there were esports clubs in college when I went.
+        I’m hoping to be able to play for a esports *team* at college.  Some schools offer substantial scholarships to their esports players (over $5,000 a year)
+            What the actual.. I'm still in uni.. why don't we have something like this 
+
+*Cries in Europe*
+                Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+                    Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+                        9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+                My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+            I caught the college rlcs games last weekend and was wondering about scholarships. That's really cool, I know it's not alot, but it's something! Right on man, good luck!
+            I’ve played on my college csgo team and subbed for RL and it was 100% worth. It’s also getting bigger each year so def do it
+        I hear you, man. I went to college in 05-09, right when video games were evolving from nerdy to mainstream. I always wonder how I could have faired in Battlefield 2. That's the only game ever that I could confidently join any server and know that I'd be at the top of my team by the end of the match. I wonder if anything could have come from that...
+You could be onto something there
+[Here it is](https://www.reddit.com/r/RocketLeague/comments/eb1gl6/reserved_my_universitys_student_union_theater_for/?utm_medium=android_app&utm_source=share)
+It was a couple season ago I believe.
+I work at a gaming venue in Berlin. We have a cinema and stream eSports regularly if you have the chance to come by.
+The music -_-
+    *about-u intensifies*
+        Scregbo magulvie
+        *YES*
+    Rocket league playlists are bomb!
+    "TAKE YOU TO SOME PLACES THAT YOU'VE NEVA BEEP"
+
+&#x200B;
+
+(I know the real lyrics but me and my friends always joke that it's "beep")
+Don't worry, they'll come back under different names, with more gimmick features, and a higher price.
+
+Enjoy your $60 medium popcorn, sir!
+    [deleted]
+        Medium is the smallest size.  The sizes are Medium, Large, XL, Giant, Gargantuan, and The Popcorninator.  The Popcorninator fits almost a whole gallon of popcorn, for only $160!
+            Fun fact: most theater owners became owners as a cheaper alternative to buying popcorn
+            *Note: A full seat purchased is required with the popcorninator*
+    Now that I think of it, there’s gonna be new companies replacing other companies, and we’ll have distant memories, and new names to remember
+        Yup.  They'll also throw in a bunch of gimmicks to draw people back to the theater (after all, if you've got an 85" home theatre, why would you want to go to a theater and get pop all over the soles of your shoes, and be stuck sitting in the theater for 90 mins knowing that if you have to go to the washroom, that's 10 minutes of the movie you'll miss).  So it'll have shit like reclining seats with haptic feedback, alcoholic drink service direct to your seat, etc when they come back.  But they'll also jack the prices up by 50-100% to compensate for it.
+            Just go to the bathroom before?
+                I can't piss on command
+    thought you said higher prices
+AMC won't be bankrupt by the end of the year. Most analysts were saying back in May and June that they wouldn't even be in danger until the middle of next year. And that was before AMC raised $500 million in capital a couple of months ago.
+
+And as for Regal, even if they do fail they'll just be bought out by another company that's doing a better job of weathering the pandemic. One way or another theaters will be back in full force once this is all over. The only question is who will own them.
+Omg I don't even know you and it made me tear up. My husband worked at Toys R Us..
+Bro can you imagine solar eclipses playing on those speakers tho
+    Bro you don’t realise how much I want to get a job in a cinema to then leave and do this and live stream it for the world to see! WHAT AN IDEA!
+        Bro!
+Faking.
+Who is halfwaydead?
+    Rocket Science
+hit dimond today on 26 fps!
+me too haha until I seen the title.
+    Where do you live where they say “I seen...” instead of “I saw...”? I had a classmate that said it that way and it just hits my ear so wrong, and whenever I see someone do that I can’t help but think of that kid.
+        I seent it
+            and dont ferget to warsh your pellow. and drink some melk.
+                “Warsh” kills me every time I hear someone say it.
+                    thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+                        Warsh in the wooder.
+                            My mom says woof instead of wolf and it really grinds my gears.
+                            down the crick
+                        Hahaha, that made me chuckle. It’s gotta be generational.
+                    Libary makes me want to stab someone.
+                    It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+                    Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+                        Hahaha I read that in Larry the cable guys voice. Git’er done
+                    my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+        It's common in Australia, too. It makes me shudder. I hear "youse" a lot here as well. And my pet hate, people pronounce the letter 'H' as 'haitch'.  We moved to a state where it's very common, the locals converted my whole family except for me. I'm so disappointed in them.
+            Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+                Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+            I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+                Singaporean here. Tbh almost everything we say in English sounds odd.
+        North East Pennsylvania
+        It's definitely something you hear pretty often where I am in the south. Not sure if it's a generally southern thing or just a gulf coast thing.
+        Im from michigan and a lot of the "country" kids said it like that in highschool
+        uk
+        I'm sure there are other places but definitely Wales
+
+You get used to it and it starts to sound almost right
+    Saw, not seen.
+    You look at the content before reading/skimming the title? Do you just look at every post, interesting
+Try sitting in a chair when you're playing.
+I will as soon as I get the reverb g2 so that maybe I can actually read text and not have eye strain after awhile. What I have now is fine for gaming but I couldn't imagine trying to use it as a desktop
+It's surprisingly satisfying watching a movie in a vr cinema.  Even at lower resolution you have the same immersive vibe.
+[Agreed, I’ve done this on an LED Wall on tour and the input lag is near unbearable](https://i.imgur.com/r8UCLZg.jpg)
+    Most LED walls use RS232 for synchronization, which is going to have abysmal latency.
+        For people who don’t know, RS232 is usually used for pretty simple data transmission. Simple instructions—rotate a motor, turn on a display, basic boot sequences for servers—and basic inputs (keyboards and other peripherals used RS232 back in the day). It’s not really designed for the level of throughput or speed that low latency video requires.
+            It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+                Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+                I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+                    Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+                        300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+                Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+            instructions unclear, I have disabled V-sync.
+            Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+        I have to disagree here.      
+Some RGB led like neopixel use a very fast protocol. And even with rs232, it's fast with the right frequency (of course you don't want to use 9600 baud)
+            It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+                Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+                    And probably ROE or god forbid Absen tiles.
+                        Can confirm this was indeed a ROE wall.
+    That is a very very nice drum set.
+Projectors can actually have a lot less input lag than most displays, but yeah this one is probably bad.
+    [deleted]
+        Interesting! I too had a buddy (childhood neighbor) whose father was a techy church dude who coincidentally also set-up his churches projector a/v system and we too got to play video games on it! We played Half Life and Halo mostly. He would have these huge spools of ethernet and would cut us custom lengths depending on how far we were playing whether it just be room to room or full on across the street house to house. It was an awesome introduction to LAN parties and eventually online gaming. Problem was we could never afford what he had and when I eventually tried to get into gaming the quality drop was ultimately discouraging enough to throw it on the backburner. Good times though!
+        Player Tony Hawk on Projector. So ill. It’s cheaper than a flat screen so why not. Lol
+    Yeah I play on an optoma projector that's got about 30ms input lag, no issues whatsoever.
+Many new home projectors have great input lag today, And some up to 240hz refresh rate
+    I've seen 4k projectors advertising sub 20ms, even as low as 14ms I believe, which is about where I start thinking a home theater projector becomes a pretty attractive solution.
+        Any monitor advertised as 1ms is realistically a lot closer to 12-14ms. So if projector manufactures aren't making the same trumped up claims monitors do that is about as good as it gets
+            Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+                its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+        my Optoma HD143X  has 16ms in gaming mode lol... and this thing is old, but good.
+        [I have one. It's pretty dope but I don't use it all the time.](https://imgur.com/nwSihRF)
+    Yep my home projector is fantastic for playing games on.
+        Which one do you have?
+            I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+            Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+            I have Blitzwolf VP2 and played rocket league without problems
+Nah, input lag on a DCI projector won’t be bad. They have DVI inputs that don’t pass through the security enclosure and they get no post processing on their way through the projector. Assuming you set the color space to rec709 you won’t have any issues playing on one of these.
+Had a projector for a long time, had lower lag than my tv
+I just started playing on my switch when the game went F2P and man, I hate it. At certain moments the game look like 480p, and playing handheld kind of hurts my hands, and holding the ZR trigger is annoying.
+
+I actually refuse to play competitive matches on it cause I think it impacts my ability so much.
+    I just go into freeplay and moreso just hit the ball around to get more of a memory of where the ball will go if it's hit x way or casual 3v3 and don't try hard at all. On a switch lite ita super difficult to play serious. I save that for the pc.
+        Yeah sometimes my hand gets tired and I'm playing and I'm like "why's my car stopped driving?" and then I realize my finger gave up pressing the trigger "button" that's not really a trigger.
+            If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+    Yeah I'm like plat or diamond level on switch. Its impossible to control because of the delay so the ground game feels clunky and aerials are completely out the question.
+Oh man, I thought it was just me! I play a lot of PC rocket league with my friend on his PC and I like to think I'm pretty good. I can't control the ball in the air for shit but I can hit some pretty decent aerial shots/saves etc. and rarely come last in my team.
+
+I had it for the switch for about 6 months before my buddy got it on PC so had got to a reasonable level before we started playing together but now when I go back to the switch version I just can't play at anywhere near the level I can on PC. Still, I can't take a PC on a plane so the switch still has it's uses...
+I’d pay to watch the final day of RLCS in a theater
+    You should try to go to a LAN once those roll back around: 100%. It’s unreal!
+        Been to RLCS, it was absolutely insane. Also been to both OWL grand finals in NYC and Philly(not this year considering it's in korea)
+
+Anyone who thinks that eSports don't work as a local event is crazy, some of the best entertainment events I've ever been too.
+        I can only imagine.  Watching the season finals where Kaydop, Fairy Peak and Scrub won was as exciting as any sporting event I’ve seen in 20 years.
+    Watched the final of a csgo tournament in a sold out cinema once. I believe it was called esports in cinemas. Was awesome, would definitely do again.
+    when i lived in nyc a few bars would play RLCS with projectors and all that
+That sucks to hear
+    It’s temporary though. At least the one where I live is temporarily closing because of COVID.
+
+Edit: shit yo... it was what I read in an article. I could care less if they open up again or not.
+        “Temporary”
+
+They were already in financial trouble pre-covid. I honestly doubt they’ll make it out of this. Shame because I really liked Regal more than AMC
+            don't worry AMC and Cinemark will be gone soon too.
+                Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+                    Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+                        [deleted]
+                            I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                            I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+                        I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                            I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+                        Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+                        Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+                        Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+                        I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+                    Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+        [deleted]
+            Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+            They're closing till the end of the year, at least, yes.
+        That's wishful thinking fam
+        [***couldn't*** care less](https://www.youtube.com/watch?v=om7O0MFkmpw)
+Cineworld as well (same group I think)
+    I hope they reopen though, I always preferred their popcorn over Odeon and that other place l..
+    Yes Cineworld owns Regal
+I want that one so bad
+    Trade for TW octane? :P
+        Is it actually tradeable? I thought it was account locked?
+            It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+            Not tradeable, I was only kidding.
+Obnoxious dinosaur roar, checking in
+Giant Nuke goal explosion, checking in
+Retina meltdown 100%
+What a time to be alive. How I wish there were esports clubs in college when I went.
+    I’m hoping to be able to play for a esports *team* at college.  Some schools offer substantial scholarships to their esports players (over $5,000 a year)
+        What the actual.. I'm still in uni.. why don't we have something like this 
+
+*Cries in Europe*
+            Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+                Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+                    9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+            My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+        I caught the college rlcs games last weekend and was wondering about scholarships. That's really cool, I know it's not alot, but it's something! Right on man, good luck!
+        I’ve played on my college csgo team and subbed for RL and it was 100% worth. It’s also getting bigger each year so def do it
+    I hear you, man. I went to college in 05-09, right when video games were evolving from nerdy to mainstream. I always wonder how I could have faired in Battlefield 2. That's the only game ever that I could confidently join any server and know that I'd be at the top of my team by the end of the match. I wonder if anything could have come from that...
+*about-u intensifies*
+    Scregbo magulvie
+    *YES*
+Rocket league playlists are bomb!
+"TAKE YOU TO SOME PLACES THAT YOU'VE NEVA BEEP"
+
+&#x200B;
+
+(I know the real lyrics but me and my friends always joke that it's "beep")
+[deleted]
+    Medium is the smallest size.  The sizes are Medium, Large, XL, Giant, Gargantuan, and The Popcorninator.  The Popcorninator fits almost a whole gallon of popcorn, for only $160!
+        Fun fact: most theater owners became owners as a cheaper alternative to buying popcorn
+        *Note: A full seat purchased is required with the popcorninator*
+Now that I think of it, there’s gonna be new companies replacing other companies, and we’ll have distant memories, and new names to remember
+    Yup.  They'll also throw in a bunch of gimmicks to draw people back to the theater (after all, if you've got an 85" home theatre, why would you want to go to a theater and get pop all over the soles of your shoes, and be stuck sitting in the theater for 90 mins knowing that if you have to go to the washroom, that's 10 minutes of the movie you'll miss).  So it'll have shit like reclining seats with haptic feedback, alcoholic drink service direct to your seat, etc when they come back.  But they'll also jack the prices up by 50-100% to compensate for it.
+        Just go to the bathroom before?
+            I can't piss on command
+thought you said higher prices
+Bro you don’t realise how much I want to get a job in a cinema to then leave and do this and live stream it for the world to see! WHAT AN IDEA!
+    Bro!
+Rocket Science
+Where do you live where they say “I seen...” instead of “I saw...”? I had a classmate that said it that way and it just hits my ear so wrong, and whenever I see someone do that I can’t help but think of that kid.
+    I seent it
+        and dont ferget to warsh your pellow. and drink some melk.
+            “Warsh” kills me every time I hear someone say it.
+                thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+                    Warsh in the wooder.
+                        My mom says woof instead of wolf and it really grinds my gears.
+                        down the crick
+                    Hahaha, that made me chuckle. It’s gotta be generational.
+                Libary makes me want to stab someone.
+                It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+                Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+                    Hahaha I read that in Larry the cable guys voice. Git’er done
+                my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+    It's common in Australia, too. It makes me shudder. I hear "youse" a lot here as well. And my pet hate, people pronounce the letter 'H' as 'haitch'.  We moved to a state where it's very common, the locals converted my whole family except for me. I'm so disappointed in them.
+        Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+            Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+        I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+            Singaporean here. Tbh almost everything we say in English sounds odd.
+    North East Pennsylvania
+    It's definitely something you hear pretty often where I am in the south. Not sure if it's a generally southern thing or just a gulf coast thing.
+    Im from michigan and a lot of the "country" kids said it like that in highschool
+    uk
+    I'm sure there are other places but definitely Wales
+
+You get used to it and it starts to sound almost right
+Saw, not seen.
+You look at the content before reading/skimming the title? Do you just look at every post, interesting
+Most LED walls use RS232 for synchronization, which is going to have abysmal latency.
+    For people who don’t know, RS232 is usually used for pretty simple data transmission. Simple instructions—rotate a motor, turn on a display, basic boot sequences for servers—and basic inputs (keyboards and other peripherals used RS232 back in the day). It’s not really designed for the level of throughput or speed that low latency video requires.
+        It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+            Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+            I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+                Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+                    300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+            Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+        instructions unclear, I have disabled V-sync.
+        Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+    I have to disagree here.      
+Some RGB led like neopixel use a very fast protocol. And even with rs232, it's fast with the right frequency (of course you don't want to use 9600 baud)
+        It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+            Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+                And probably ROE or god forbid Absen tiles.
+                    Can confirm this was indeed a ROE wall.
+That is a very very nice drum set.
+[deleted]
+    Interesting! I too had a buddy (childhood neighbor) whose father was a techy church dude who coincidentally also set-up his churches projector a/v system and we too got to play video games on it! We played Half Life and Halo mostly. He would have these huge spools of ethernet and would cut us custom lengths depending on how far we were playing whether it just be room to room or full on across the street house to house. It was an awesome introduction to LAN parties and eventually online gaming. Problem was we could never afford what he had and when I eventually tried to get into gaming the quality drop was ultimately discouraging enough to throw it on the backburner. Good times though!
+    Player Tony Hawk on Projector. So ill. It’s cheaper than a flat screen so why not. Lol
+Yeah I play on an optoma projector that's got about 30ms input lag, no issues whatsoever.
+I've seen 4k projectors advertising sub 20ms, even as low as 14ms I believe, which is about where I start thinking a home theater projector becomes a pretty attractive solution.
+    Any monitor advertised as 1ms is realistically a lot closer to 12-14ms. So if projector manufactures aren't making the same trumped up claims monitors do that is about as good as it gets
+        Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+            its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+    my Optoma HD143X  has 16ms in gaming mode lol... and this thing is old, but good.
+    [I have one. It's pretty dope but I don't use it all the time.](https://imgur.com/nwSihRF)
+Yep my home projector is fantastic for playing games on.
+    Which one do you have?
+        I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+        Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+        I have Blitzwolf VP2 and played rocket league without problems
+I just go into freeplay and moreso just hit the ball around to get more of a memory of where the ball will go if it's hit x way or casual 3v3 and don't try hard at all. On a switch lite ita super difficult to play serious. I save that for the pc.
+    Yeah sometimes my hand gets tired and I'm playing and I'm like "why's my car stopped driving?" and then I realize my finger gave up pressing the trigger "button" that's not really a trigger.
+        If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+Yeah I'm like plat or diamond level on switch. Its impossible to control because of the delay so the ground game feels clunky and aerials are completely out the question.
+You should try to go to a LAN once those roll back around: 100%. It’s unreal!
+    Been to RLCS, it was absolutely insane. Also been to both OWL grand finals in NYC and Philly(not this year considering it's in korea)
+
+Anyone who thinks that eSports don't work as a local event is crazy, some of the best entertainment events I've ever been too.
+    I can only imagine.  Watching the season finals where Kaydop, Fairy Peak and Scrub won was as exciting as any sporting event I’ve seen in 20 years.
+Watched the final of a csgo tournament in a sold out cinema once. I believe it was called esports in cinemas. Was awesome, would definitely do again.
+when i lived in nyc a few bars would play RLCS with projectors and all that
+It’s temporary though. At least the one where I live is temporarily closing because of COVID.
+
+Edit: shit yo... it was what I read in an article. I could care less if they open up again or not.
+    “Temporary”
+
+They were already in financial trouble pre-covid. I honestly doubt they’ll make it out of this. Shame because I really liked Regal more than AMC
+        don't worry AMC and Cinemark will be gone soon too.
+            Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+                Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+                    [deleted]
+                        I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                        I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+                    I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                        I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+                    Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+                    Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+                    Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+                    I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+                Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    [deleted]
+        Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+        They're closing till the end of the year, at least, yes.
+    That's wishful thinking fam
+    [***couldn't*** care less](https://www.youtube.com/watch?v=om7O0MFkmpw)
+I hope they reopen though, I always preferred their popcorn over Odeon and that other place l..
+Yes Cineworld owns Regal
+Trade for TW octane? :P
+    Is it actually tradeable? I thought it was account locked?
+        It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+        Not tradeable, I was only kidding.
+I’m hoping to be able to play for a esports *team* at college.  Some schools offer substantial scholarships to their esports players (over $5,000 a year)
+    What the actual.. I'm still in uni.. why don't we have something like this 
+
+*Cries in Europe*
+        Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+            Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+                9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+        My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+    I caught the college rlcs games last weekend and was wondering about scholarships. That's really cool, I know it's not alot, but it's something! Right on man, good luck!
+    I’ve played on my college csgo team and subbed for RL and it was 100% worth. It’s also getting bigger each year so def do it
+I hear you, man. I went to college in 05-09, right when video games were evolving from nerdy to mainstream. I always wonder how I could have faired in Battlefield 2. That's the only game ever that I could confidently join any server and know that I'd be at the top of my team by the end of the match. I wonder if anything could have come from that...
+Scregbo magulvie
+*YES*
+Medium is the smallest size.  The sizes are Medium, Large, XL, Giant, Gargantuan, and The Popcorninator.  The Popcorninator fits almost a whole gallon of popcorn, for only $160!
+    Fun fact: most theater owners became owners as a cheaper alternative to buying popcorn
+    *Note: A full seat purchased is required with the popcorninator*
+Yup.  They'll also throw in a bunch of gimmicks to draw people back to the theater (after all, if you've got an 85" home theatre, why would you want to go to a theater and get pop all over the soles of your shoes, and be stuck sitting in the theater for 90 mins knowing that if you have to go to the washroom, that's 10 minutes of the movie you'll miss).  So it'll have shit like reclining seats with haptic feedback, alcoholic drink service direct to your seat, etc when they come back.  But they'll also jack the prices up by 50-100% to compensate for it.
+    Just go to the bathroom before?
+        I can't piss on command
+Bro!
+I seent it
+    and dont ferget to warsh your pellow. and drink some melk.
+        “Warsh” kills me every time I hear someone say it.
+            thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+                Warsh in the wooder.
+                    My mom says woof instead of wolf and it really grinds my gears.
+                    down the crick
+                Hahaha, that made me chuckle. It’s gotta be generational.
+            Libary makes me want to stab someone.
+            It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+            Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+                Hahaha I read that in Larry the cable guys voice. Git’er done
+            my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+It's common in Australia, too. It makes me shudder. I hear "youse" a lot here as well. And my pet hate, people pronounce the letter 'H' as 'haitch'.  We moved to a state where it's very common, the locals converted my whole family except for me. I'm so disappointed in them.
+    Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+        Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+    I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+        Singaporean here. Tbh almost everything we say in English sounds odd.
+North East Pennsylvania
+It's definitely something you hear pretty often where I am in the south. Not sure if it's a generally southern thing or just a gulf coast thing.
+Im from michigan and a lot of the "country" kids said it like that in highschool
+uk
+I'm sure there are other places but definitely Wales
+
+You get used to it and it starts to sound almost right
+For people who don’t know, RS232 is usually used for pretty simple data transmission. Simple instructions—rotate a motor, turn on a display, basic boot sequences for servers—and basic inputs (keyboards and other peripherals used RS232 back in the day). It’s not really designed for the level of throughput or speed that low latency video requires.
+    It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+        Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+        I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+            Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+                300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+        Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+    instructions unclear, I have disabled V-sync.
+    Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+I have to disagree here.      
+Some RGB led like neopixel use a very fast protocol. And even with rs232, it's fast with the right frequency (of course you don't want to use 9600 baud)
+    It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+        Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+            And probably ROE or god forbid Absen tiles.
+                Can confirm this was indeed a ROE wall.
+Interesting! I too had a buddy (childhood neighbor) whose father was a techy church dude who coincidentally also set-up his churches projector a/v system and we too got to play video games on it! We played Half Life and Halo mostly. He would have these huge spools of ethernet and would cut us custom lengths depending on how far we were playing whether it just be room to room or full on across the street house to house. It was an awesome introduction to LAN parties and eventually online gaming. Problem was we could never afford what he had and when I eventually tried to get into gaming the quality drop was ultimately discouraging enough to throw it on the backburner. Good times though!
+Player Tony Hawk on Projector. So ill. It’s cheaper than a flat screen so why not. Lol
+Any monitor advertised as 1ms is realistically a lot closer to 12-14ms. So if projector manufactures aren't making the same trumped up claims monitors do that is about as good as it gets
+    Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+        its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+my Optoma HD143X  has 16ms in gaming mode lol... and this thing is old, but good.
+[I have one. It's pretty dope but I don't use it all the time.](https://imgur.com/nwSihRF)
+Which one do you have?
+    I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+    Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+    I have Blitzwolf VP2 and played rocket league without problems
+Yeah sometimes my hand gets tired and I'm playing and I'm like "why's my car stopped driving?" and then I realize my finger gave up pressing the trigger "button" that's not really a trigger.
+    If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+Been to RLCS, it was absolutely insane. Also been to both OWL grand finals in NYC and Philly(not this year considering it's in korea)
+
+Anyone who thinks that eSports don't work as a local event is crazy, some of the best entertainment events I've ever been too.
+I can only imagine.  Watching the season finals where Kaydop, Fairy Peak and Scrub won was as exciting as any sporting event I’ve seen in 20 years.
+“Temporary”
+
+They were already in financial trouble pre-covid. I honestly doubt they’ll make it out of this. Shame because I really liked Regal more than AMC
+    don't worry AMC and Cinemark will be gone soon too.
+        Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+            Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+                [deleted]
+                    I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                    I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+                I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                    I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+                Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+                Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+                Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+                I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+            Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[deleted]
+    Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+    They're closing till the end of the year, at least, yes.
+That's wishful thinking fam
+[***couldn't*** care less](https://www.youtube.com/watch?v=om7O0MFkmpw)
+Is it actually tradeable? I thought it was account locked?
+    It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+    Not tradeable, I was only kidding.
+What the actual.. I'm still in uni.. why don't we have something like this 
+
+*Cries in Europe*
+    Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+        Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+            9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+    My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+I caught the college rlcs games last weekend and was wondering about scholarships. That's really cool, I know it's not alot, but it's something! Right on man, good luck!
+I’ve played on my college csgo team and subbed for RL and it was 100% worth. It’s also getting bigger each year so def do it
+Fun fact: most theater owners became owners as a cheaper alternative to buying popcorn
+*Note: A full seat purchased is required with the popcorninator*
+Just go to the bathroom before?
+    I can't piss on command
+and dont ferget to warsh your pellow. and drink some melk.
+    “Warsh” kills me every time I hear someone say it.
+        thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+            Warsh in the wooder.
+                My mom says woof instead of wolf and it really grinds my gears.
+                down the crick
+            Hahaha, that made me chuckle. It’s gotta be generational.
+        Libary makes me want to stab someone.
+        It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+        Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+            Hahaha I read that in Larry the cable guys voice. Git’er done
+        my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+Woah, you say youse in Australia? I've always thought of that as a Philadelphia thing.
+    Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+I’ve been to Singapore a few times and you hear a lot of hard H sounds there too. Always sounded odd to me. But then again, I’m pretty sure almost everything I said sounded odd to them.
+    Singaporean here. Tbh almost everything we say in English sounds odd.
+It's used for many gas station inventory and tank monitoring consoles. I have to go in and download reports, in baud rate speeds (9600). Thankfully it's only some text, but dang is it slow. When they're set to 1200 baud rate by default it's enough to make you claw your eyes out.
+    Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+    I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+        Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+            300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+    Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+instructions unclear, I have disabled V-sync.
+Veeeeeeeeeeery long USB with a car battery hooked up to a bunch of resisters hooked up to the controller.
+It's highly unlikely that any concert production companies are using custom neopixel LED walls.  They almost always just slap together a bunch of off-the-shelf Samsung, LG, or NEC panels that sync via RS232, and they usually have latencies in excess of 250ms.
+    Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+        And probably ROE or god forbid Absen tiles.
+            Can confirm this was indeed a ROE wall.
+Monitors don’t advertise their input delay, they show their response time which is most of the time gray to gray. So the 1-2ms is accurate for monitors.
+    its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+I have an Epson home cinema 3700, set up at 120". It's not really top of the line by anyone's standards since it's only 1080p and 60hz but games look great and have no noticeable lag!
+Not OP but I have a BenQ Th585 projecting onto a 100" screen and it feels faster than the TV I was using before.
+I have Blitzwolf VP2 and played rocket league without problems
+If you have a 3d printer you can print out a controller attachment that makes it way easier to play on. It feels more like an xbox controller once that's on
+don't worry AMC and Cinemark will be gone soon too.
+    Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+        Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+            [deleted]
+                I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+                I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+            I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+                I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+            Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+            Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+            Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+            I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+        Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Re-closing. They closed and then opened up again when the government allowed them. Now they're closing voluntarily because there are no movies, and they're not stating a date to reopen. The general thought is they may never reopen.
+They're closing till the end of the year, at least, yes.
+It is.  At least was.  I got it as random drop about a year ago, traded it for a bunch of keys and wasted most of them opening crates
+
+EDIT:  nuke locked, octane not
+Not tradeable, I was only kidding.
+Probably because college in Europe doesn't cost half your organs. $5,000 is not a huge amount considering that many state schools start at around $30k (traditional athletes get full scholarships for these amounts)
+    Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+        9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+My college started a RL team the semester after I graduated. But alas I was still low diamond or high plat so I doubt it would’ve mattered anyways. Would’ve been fun tho
+I can't piss on command
+“Warsh” kills me every time I hear someone say it.
+    thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+        Warsh in the wooder.
+            My mom says woof instead of wolf and it really grinds my gears.
+            down the crick
+        Hahaha, that made me chuckle. It’s gotta be generational.
+    Libary makes me want to stab someone.
+    It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+    Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+        Hahaha I read that in Larry the cable guys voice. Git’er done
+    my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+Only in some groups. Accents and vocabulary in Australia vary much more by social class and ethnicity, not so much location.  
+
+Someone from Perth can be indistinguishable in accent to someone from Sydney, but they could sound completely different to someone from a different socio-economic group who lives in the next suburb.
+
+You'd generally only hear "youse" from the bogan accent (kind of like an Aussie redneck) or wog accent (mildly offensive racial slur for southern European/middle eastern people).
+Singaporean here. Tbh almost everything we say in English sounds odd.
+Jesus Christ yeah, that sounds miserable. My main familiarity with it is as a control method in commercial AV. Stuff like turning on a tv and adjusting volume or lowering a projector screen, for which it’s perfect, and as the previous commenter mentioned, for syncing LED wall panels, for which it’s just fine so long as you’re not that worried about latency. When all it’s sending is basic commands it’s not so bad, and it’s way better than the most common alternative which up to now is still IR, which is miserable and inconsistent in most situations. Ethernet control is a thing now but it’s still relatively new in the grand scheme of things and a lot of displays don’t have it.
+I've accessed the internet at 300 baud before.  After that, 1200 feels like broadband.
+    Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+        300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+Jeez. the only thing I have to deal with baud rate is drone flight controllers, but the lowest I ever have to go is 192,000 (I think that's it, going from memory) lmao. I can't imagine 1200 being fun.
+Concert production companies aren't using rs232 for LED walls.  They are using EtherCon which is just ethernet with a Neutrik connector.
+    And probably ROE or god forbid Absen tiles.
+        Can confirm this was indeed a ROE wall.
+its accurate for a very specific grey to the first time it hits another very specific grey after which it probably swings past and has to bounce around for a another ms or two to settle. Average response time on a random transition is higher, so 1ms is a complete bullshit marketing number that doesn't translate to anything useful. 
+
+But you are right I was mixing up response and delay, either way we're talking about 1-2 frames of delay which ain't bad. Anecdotally I play on my projector from time to time and it doesn't feel any worse then playing on my tv
+Hopefully that means new movies will just release digitally, theaters are hella expensive and the best snacks are the ones in my house
+    Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+        [deleted]
+            I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+            I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+        I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+            I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+        Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+        Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+        Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+        I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+    Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Courses start from 9 grand here in the UK, per year, and that doesnt include your accommodation, learning materials, cost of living etc.
+
+That's definitely about half my organs, maybe a touch more as I have asthma and my lungs probably arent worth that much.
+    9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+thats my mother. ask how to spell it. "w-a-s-h" now say it. WARSH
+    Warsh in the wooder.
+        My mom says woof instead of wolf and it really grinds my gears.
+        down the crick
+    Hahaha, that made me chuckle. It’s gotta be generational.
+Libary makes me want to stab someone.
+It's how the dwarves in snow white say it. One of my favorite things about the silly song is how one of them say "warshed my feet"
+Back in screwl, I always thought it ferny when I herd the kids say, "what are you all doing today." I'd snap back and say, "whatever da fuk y'all are dern."
+    Hahaha I read that in Larry the cable guys voice. Git’er done
+my dad always gets a laugh when he hears that song rain is a good thing, he always emphasizes WARSH
+Damn. I remember having a 28k modem, and that was rough. I don't even think 300 baud was a thing? How long ago was that?
+    300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+And probably ROE or god forbid Absen tiles.
+    Can confirm this was indeed a ROE wall.
+Some movies need to be experienced in a theatre. I’m so glad I got to see the Avengers all in theater.
+    [deleted]
+        I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+        I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+    I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+        I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+    Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+    Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+    Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+    I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+Christopher Nolans movies in the cinema>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+9 grand a year is cheap af. Out of state tuition at a normal state school in the US is 20-30grand a year plus living expenses.
+
+Good private colleges are over 50k a year
+Warsh in the wooder.
+    My mom says woof instead of wolf and it really grinds my gears.
+    down the crick
+Hahaha, that made me chuckle. It’s gotta be generational.
+Hahaha I read that in Larry the cable guys voice. Git’er done
+300 baud was pretty much standard from about the 60s to 80s.  My experience was in the 14.4k era. A storm knocked out power but not phone for a few days. I have a vintage laptop with a built in 300baud modem that I used to dial in to my isp.
+Can confirm this was indeed a ROE wall.
+[deleted]
+    I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+    I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+I caught avatar 3d like a week before it left theaters for good. It was amazing. I actually bought a 3d tv and 3d bluray player just to watch it at home in 3d and it was fucking terrible. I love the movie and still watch the 2d version a few times a year, but nothing really compares to the theater experience.
+
+I think 3d at home could have taken off if it actually looked decent, but it was all fuzzy around the periphery for me.
+    I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
+Any Christopher Nolan movie
+I'll never forget seeing dark knight or inception in theatres. It's just not the same in home. Will miss those ones if all theatres do close down
+Agreed, Infinity War and Endgame, both times in the theater, with my sister (who is also a Marvel nerd) it’s about that experience as a group
+Especially theaters like Dolby Cinema. The giant screen and the insane sound system deliver such a vastly different experience.
+I'm not that big of a movie guy, so I'd prefer to just stay home and watch
+My mom says woof instead of wolf and it really grinds my gears.
+down the crick
+I think Infinity War was better (at least for me). I think most people realized pretty quickly after the movie ended that the dusted characters wouldn’t be gone forever but the feeling in that theater when it was actually happening was like nothing else I’ve ever experienced.
+I saw Dark Knight opening night and everyone went absolutely nuts when the Joker did his pencil trick hahaha
+I was able to see Tenet at a brand new Regal IMAX during the short period where they had re-opened. Watching movies at home is great, but I’ll always enjoy going to the theater.
