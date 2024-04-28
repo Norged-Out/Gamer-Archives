@@ -1,0 +1,733 @@
+[[How to accidentally end a run as Watcher]]
+
+
+
+
+
+Quality content right here. Thanks for the chuckle.
+I play A1 winstreaks and was at 20 when I did exactly this.
+    Your misfortune has improved my mood today.  I appreciate your sacrifice.
+    You just play A1 every time? Have you beaten A20 or do you prefer A1? I'm at A4 right now and lose a lot, so I could see playing A1 if I wanted to win more, might be more relaxing.
+        yea ngl this sounds like a lot more fun than me bashing my head against A17 every time
+            The first thing I did once I beat A20 on all characters was promise myself I'd never play A20 again.
+                I think around A16 is the sweet spot. The "more challenging movesets and abilities" are brutal. Book of stabbing in A20 ended so many runs for me. One bad draw and it's over.
+                    It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+                Are you on PC?
+
+Got a mod for ya. Noticed the bosses, aside from the Final, for this version are more bearable than base game ones and feel quite a bit more fun.
+                    What mod?
+                        Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+                            Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+                                That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                                    I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+                I'm currently think seriously about attempting A20 heart runs and posting them to YouTube
+                Same!
+            Yea I’m on the fence about if I wanna mostly be playing at A15 or at A20. I usually like a challenge but I also kinda like not having to 100% focus on every decision and cram numbers like I’m accountant in tax season.
+            I’ve been at 18 on Ironclad for ages now. Ngl it’s so fun playing that character that I don’t even mind just doing five 10 minute failed runs in one session, at some point I’m bound to get lucky.
+            Agreed, I might have to try it.
+            Man jm bashing mt head on A7 lmao
+        I play A1 to relax. I have beaten A20, I simply prefer an easier game :)
+        You might be interested in the challenge runs as well - getting the minimalist, common sense, infinity, purity, etc. achievements
+        I think what they mean is they start at A1 and go up ascensions every time, but they reset anytime they lose. Like an extra challenge
+        I’m on A10+ with every character now, A1 is usually winnable every time at this point
+Ah yes, distilled chaos and blasphemy.  They go together like sneko eye and runic pyramid.
+    that got me laughing like crazy. thank you good sir
+    [[Runic pyramid]]
+        + [Runic Pyramid](http://slay-the-spire.wikia.com/wiki/Runic%20Pyramid) Boss Relic
+    
+    At the end of your turn, you no longer discard your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+\[\[Distilled chaos\]\] (it's the one that plays the top 3 cards of your draw pile)
+
+\[\[Blasphemy\]\]
+
+\[\[Meditate\]\]
+    + [Distilled Chaos](http://slay-the-spire.wikia.com/wiki/Potions#Distilled_Chaos) Uncommon Potion
+    
+    Play the top 3 ( 6) cards of your draw pile.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    What?! Why does the bot say the potion can be upgraded to play 6 cards?? Hahahaha
+        Sacred Bark.
+            Ohhhh. I don't play much so I forgot there was a way to make potions better. I thought the boy had bugged or something lol
+                Yeah aha. Actually a pretty good boss relic.
+                    I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+                        Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+                            O.o I didn't know ascensions did that lol I've not made it past the first couple.
+                                Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                                    😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                                    And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+                        opportunity cost
+                            ??
+                                the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                                    Ohhh from the other possible choices as a boss drop. Gotcha.
+Blasphemy ALWAYS has lethal*.
+
+*For certain values of lethal.
+    Its always lethal to someone
+        Not if you have two intangible or a [[buffer]] or a [[lizard tail]] or a [[fairy in a bottle]] or you are playing endless and have [[fed]] on an incredibly high amount of enemies
+            + [Buffer](http://slay-the-spire.wikia.com/wiki/Buffer) Defect Rare Power
+    
+    2 Energy | Prevent the next (1(2)) time(s) you would lose HP.
++ [Lizard Tail](http://slay-the-spire.wikia.com/wiki/Lizard%20Tail) Rare Relic
+    
+    When you would die, heal to 50% of your Max HP instead (works once).
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% ( 60%) of your Max HP instead and discard this potion.
++ [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            To be fair, the player technically dies if Lizard Tail or Fairy are procced but is immediately healed to a percentage of their HP (evident with \[\[Mindbloom\]\] and its interactions).
+
+It's also possible to die in an Intangible state if the player literally only has 1HP.
+
+Buffer seems to be the only way to avoid dying to Blasphemy.
+
+Also, is it possible to go beyond 999HP? I've always assumed player values cap at 999 but I'm open to correction.
+                + [Mind Bloom](http://slay-the-spire.wikia.com/wiki/Mind%20Bloom) Event - Act 3 (The Beyond)
+    
+    Mind Bloom is an event found exclusively in Act 3. Your imagination manifests into reality. In this ephemeral moment, all your wishes can come true, though not without consequences.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                I don't know if it's true that you die, your health gets below zero but I wouldn't call that dying. An interpretation of the card text would be instead of dying, you do that but you're still below 0 hp until you heal. So if you have the [[Mark of the Bloom]] and you take lethal damage, you start dying but your lizard tail procs. Your lizard tail doesn't heal you but deactivates, and you're still below 0 so now you do die. 
+
+Intangible with 2 hp then...
+
+And why should player hp have a max when enemy hp doesn't? (except for int_max or something like that I guess)
+                    + [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                    Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+                Even if the game allows you to go beyond 999 HP, it would still be impossible to go beyond 9999, because one of the debuffs, aka Blights, that Endless (because there's no way you can reach than amount of max HP during a normal run) gives you prevents your max HP from increasing.
+        [deleted]
+            + [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Time to call you Juliet.
+    actually, assuming i have the right reference, romeo drank the poison, and juliet stabbed herself with a dagger. 
+
+juliet would be doing that with one of the ironclads hp loss cards
+        You’re right!
+Yeah that almost happened to me with a mayhem, i was a lot more careful after that
+Outstanding move
+<insert goofy meme>
+I'll fckin do it again!
+"I think I did the math right"
+
+The bane of many a watcher run.
+Guess I'll die ¯\\\_(ツ)\_/¯
+Did this once, got blasphemy against byrds, luckily I could finish them off with a Conclude. Phew!
+I'm always scared to use that card, im like "did I do my math wrong???"
+People who use save and quit to redo the combat:
+
+I fear no man
+But that thing...
+
+DISTILLED CHAOS
++
+END TURN
+
+It scares me
+Clueless
+OOOf owie. My bones.
+What happens if they go in the other order?  Does blasphemy play?
+    Nope. Meditate ends the turn, thus ending Distilled Chaos. Same things happens if you call Conclude or Vault with chain Omniscience. I think the Blasphemy just gets dumped in the discard, but I could be mistaken.
+
+You're still probably in a bad spot if Distilled Chaos is forcing out Meditate at all though. The potion is by far at its worst on Watcher because she has so many cards that demand precise use conditions.
+    I’d assume not. If you play Omniscience on Conclude it only plays once bc it ends your turn so I figure the same logic applies
+R.I.P.
+Mobile players watching in horror as the game randomly plays Blasphemy for them
+"Clueless"? Comrade, you can check your deck at any time.
+    check your deck =/= seeing top cards
+    Yeah but people forget
+    I think it’s a new thing called a “joke”
+    Worth noting that without Frozen Eye, all cards are sorted by Rarity not order drawn.
+    Apparently they needed to attach one of those "any resemblance to" warnings to this meme, for the nitpickers in the audience.
+    It's part of the meme lol. Visit /r/hmmtodayiwill to see what I mean
+    LOLL ???
+I'd save scum.
+    You can barely even do that; it ends your turn and then you fucking die lmao
+Watcher pulls down mask, dies of COVID.
+
+Meanwhile, Ironclad asks “am I doing it right??”
+Thanks, laughed way more than I'd like to admit.
+Your misfortune has improved my mood today.  I appreciate your sacrifice.
+You just play A1 every time? Have you beaten A20 or do you prefer A1? I'm at A4 right now and lose a lot, so I could see playing A1 if I wanted to win more, might be more relaxing.
+    yea ngl this sounds like a lot more fun than me bashing my head against A17 every time
+        The first thing I did once I beat A20 on all characters was promise myself I'd never play A20 again.
+            I think around A16 is the sweet spot. The "more challenging movesets and abilities" are brutal. Book of stabbing in A20 ended so many runs for me. One bad draw and it's over.
+                It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+            Are you on PC?
+
+Got a mod for ya. Noticed the bosses, aside from the Final, for this version are more bearable than base game ones and feel quite a bit more fun.
+                What mod?
+                    Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+                        Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+                            That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                                I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+            I'm currently think seriously about attempting A20 heart runs and posting them to YouTube
+            Same!
+        Yea I’m on the fence about if I wanna mostly be playing at A15 or at A20. I usually like a challenge but I also kinda like not having to 100% focus on every decision and cram numbers like I’m accountant in tax season.
+        I’ve been at 18 on Ironclad for ages now. Ngl it’s so fun playing that character that I don’t even mind just doing five 10 minute failed runs in one session, at some point I’m bound to get lucky.
+        Agreed, I might have to try it.
+        Man jm bashing mt head on A7 lmao
+    I play A1 to relax. I have beaten A20, I simply prefer an easier game :)
+    You might be interested in the challenge runs as well - getting the minimalist, common sense, infinity, purity, etc. achievements
+    I think what they mean is they start at A1 and go up ascensions every time, but they reset anytime they lose. Like an extra challenge
+    I’m on A10+ with every character now, A1 is usually winnable every time at this point
+that got me laughing like crazy. thank you good sir
+[[Runic pyramid]]
+    + [Runic Pyramid](http://slay-the-spire.wikia.com/wiki/Runic%20Pyramid) Boss Relic
+    
+    At the end of your turn, you no longer discard your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
++ [Distilled Chaos](http://slay-the-spire.wikia.com/wiki/Potions#Distilled_Chaos) Uncommon Potion
+    
+    Play the top 3 ( 6) cards of your draw pile.
++ [Blasphemy](http://slay-the-spire.wikia.com/wiki/Blasphemy) Watcher Rare Skill
+    
+    1 Energy | **(Retain.)** Enter **Divinity.** Die next turn. **Exhaust.**
++ [Meditate](http://slay-the-spire.wikia.com/wiki/Meditate) Watcher Uncommon Skill
+    
+    1 Energy | Put 1(2) card(s) from your discard pile into your hand and **Retain** it. Enter **Calm.** End your turn.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+What?! Why does the bot say the potion can be upgraded to play 6 cards?? Hahahaha
+    Sacred Bark.
+        Ohhhh. I don't play much so I forgot there was a way to make potions better. I thought the boy had bugged or something lol
+            Yeah aha. Actually a pretty good boss relic.
+                I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+                    Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+                        O.o I didn't know ascensions did that lol I've not made it past the first couple.
+                            Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                                😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                                And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+                    opportunity cost
+                        ??
+                            the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                                Ohhh from the other possible choices as a boss drop. Gotcha.
+Its always lethal to someone
+    Not if you have two intangible or a [[buffer]] or a [[lizard tail]] or a [[fairy in a bottle]] or you are playing endless and have [[fed]] on an incredibly high amount of enemies
+        + [Buffer](http://slay-the-spire.wikia.com/wiki/Buffer) Defect Rare Power
+    
+    2 Energy | Prevent the next (1(2)) time(s) you would lose HP.
++ [Lizard Tail](http://slay-the-spire.wikia.com/wiki/Lizard%20Tail) Rare Relic
+    
+    When you would die, heal to 50% of your Max HP instead (works once).
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% ( 60%) of your Max HP instead and discard this potion.
++ [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        To be fair, the player technically dies if Lizard Tail or Fairy are procced but is immediately healed to a percentage of their HP (evident with \[\[Mindbloom\]\] and its interactions).
+
+It's also possible to die in an Intangible state if the player literally only has 1HP.
+
+Buffer seems to be the only way to avoid dying to Blasphemy.
+
+Also, is it possible to go beyond 999HP? I've always assumed player values cap at 999 but I'm open to correction.
+            + [Mind Bloom](http://slay-the-spire.wikia.com/wiki/Mind%20Bloom) Event - Act 3 (The Beyond)
+    
+    Mind Bloom is an event found exclusively in Act 3. Your imagination manifests into reality. In this ephemeral moment, all your wishes can come true, though not without consequences.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            I don't know if it's true that you die, your health gets below zero but I wouldn't call that dying. An interpretation of the card text would be instead of dying, you do that but you're still below 0 hp until you heal. So if you have the [[Mark of the Bloom]] and you take lethal damage, you start dying but your lizard tail procs. Your lizard tail doesn't heal you but deactivates, and you're still below 0 so now you do die. 
+
+Intangible with 2 hp then...
+
+And why should player hp have a max when enemy hp doesn't? (except for int_max or something like that I guess)
+                + [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+            Even if the game allows you to go beyond 999 HP, it would still be impossible to go beyond 9999, because one of the debuffs, aka Blights, that Endless (because there's no way you can reach than amount of max HP during a normal run) gives you prevents your max HP from increasing.
+    [deleted]
+        + [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+actually, assuming i have the right reference, romeo drank the poison, and juliet stabbed herself with a dagger. 
+
+juliet would be doing that with one of the ironclads hp loss cards
+    You’re right!
+Nope. Meditate ends the turn, thus ending Distilled Chaos. Same things happens if you call Conclude or Vault with chain Omniscience. I think the Blasphemy just gets dumped in the discard, but I could be mistaken.
+
+You're still probably in a bad spot if Distilled Chaos is forcing out Meditate at all though. The potion is by far at its worst on Watcher because she has so many cards that demand precise use conditions.
+I’d assume not. If you play Omniscience on Conclude it only plays once bc it ends your turn so I figure the same logic applies
+check your deck =/= seeing top cards
+Yeah but people forget
+I think it’s a new thing called a “joke”
+Worth noting that without Frozen Eye, all cards are sorted by Rarity not order drawn.
+Apparently they needed to attach one of those "any resemblance to" warnings to this meme, for the nitpickers in the audience.
+It's part of the meme lol. Visit /r/hmmtodayiwill to see what I mean
+LOLL ???
+You can barely even do that; it ends your turn and then you fucking die lmao
+yea ngl this sounds like a lot more fun than me bashing my head against A17 every time
+    The first thing I did once I beat A20 on all characters was promise myself I'd never play A20 again.
+        I think around A16 is the sweet spot. The "more challenging movesets and abilities" are brutal. Book of stabbing in A20 ended so many runs for me. One bad draw and it's over.
+            It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+        Are you on PC?
+
+Got a mod for ya. Noticed the bosses, aside from the Final, for this version are more bearable than base game ones and feel quite a bit more fun.
+            What mod?
+                Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+                    Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+                        That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                            I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+        I'm currently think seriously about attempting A20 heart runs and posting them to YouTube
+        Same!
+    Yea I’m on the fence about if I wanna mostly be playing at A15 or at A20. I usually like a challenge but I also kinda like not having to 100% focus on every decision and cram numbers like I’m accountant in tax season.
+    I’ve been at 18 on Ironclad for ages now. Ngl it’s so fun playing that character that I don’t even mind just doing five 10 minute failed runs in one session, at some point I’m bound to get lucky.
+    Agreed, I might have to try it.
+    Man jm bashing mt head on A7 lmao
+I play A1 to relax. I have beaten A20, I simply prefer an easier game :)
+You might be interested in the challenge runs as well - getting the minimalist, common sense, infinity, purity, etc. achievements
+I think what they mean is they start at A1 and go up ascensions every time, but they reset anytime they lose. Like an extra challenge
+I’m on A10+ with every character now, A1 is usually winnable every time at this point
++ [Runic Pyramid](http://slay-the-spire.wikia.com/wiki/Runic%20Pyramid) Boss Relic
+    
+    At the end of your turn, you no longer discard your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Sacred Bark.
+    Ohhhh. I don't play much so I forgot there was a way to make potions better. I thought the boy had bugged or something lol
+        Yeah aha. Actually a pretty good boss relic.
+            I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+                Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+                    O.o I didn't know ascensions did that lol I've not made it past the first couple.
+                        Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                            😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                            And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+                opportunity cost
+                    ??
+                        the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                            Ohhh from the other possible choices as a boss drop. Gotcha.
+Not if you have two intangible or a [[buffer]] or a [[lizard tail]] or a [[fairy in a bottle]] or you are playing endless and have [[fed]] on an incredibly high amount of enemies
+    + [Buffer](http://slay-the-spire.wikia.com/wiki/Buffer) Defect Rare Power
+    
+    2 Energy | Prevent the next (1(2)) time(s) you would lose HP.
++ [Lizard Tail](http://slay-the-spire.wikia.com/wiki/Lizard%20Tail) Rare Relic
+    
+    When you would die, heal to 50% of your Max HP instead (works once).
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% ( 60%) of your Max HP instead and discard this potion.
++ [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    To be fair, the player technically dies if Lizard Tail or Fairy are procced but is immediately healed to a percentage of their HP (evident with \[\[Mindbloom\]\] and its interactions).
+
+It's also possible to die in an Intangible state if the player literally only has 1HP.
+
+Buffer seems to be the only way to avoid dying to Blasphemy.
+
+Also, is it possible to go beyond 999HP? I've always assumed player values cap at 999 but I'm open to correction.
+        + [Mind Bloom](http://slay-the-spire.wikia.com/wiki/Mind%20Bloom) Event - Act 3 (The Beyond)
+    
+    Mind Bloom is an event found exclusively in Act 3. Your imagination manifests into reality. In this ephemeral moment, all your wishes can come true, though not without consequences.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        I don't know if it's true that you die, your health gets below zero but I wouldn't call that dying. An interpretation of the card text would be instead of dying, you do that but you're still below 0 hp until you heal. So if you have the [[Mark of the Bloom]] and you take lethal damage, you start dying but your lizard tail procs. Your lizard tail doesn't heal you but deactivates, and you're still below 0 so now you do die. 
+
+Intangible with 2 hp then...
+
+And why should player hp have a max when enemy hp doesn't? (except for int_max or something like that I guess)
+            + [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+        Even if the game allows you to go beyond 999 HP, it would still be impossible to go beyond 9999, because one of the debuffs, aka Blights, that Endless (because there's no way you can reach than amount of max HP during a normal run) gives you prevents your max HP from increasing.
+[deleted]
+    + [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+You’re right!
+The first thing I did once I beat A20 on all characters was promise myself I'd never play A20 again.
+    I think around A16 is the sweet spot. The "more challenging movesets and abilities" are brutal. Book of stabbing in A20 ended so many runs for me. One bad draw and it's over.
+        It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+    Are you on PC?
+
+Got a mod for ya. Noticed the bosses, aside from the Final, for this version are more bearable than base game ones and feel quite a bit more fun.
+        What mod?
+            Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+                Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+                    That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                        I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+    I'm currently think seriously about attempting A20 heart runs and posting them to YouTube
+    Same!
+Yea I’m on the fence about if I wanna mostly be playing at A15 or at A20. I usually like a challenge but I also kinda like not having to 100% focus on every decision and cram numbers like I’m accountant in tax season.
+I’ve been at 18 on Ironclad for ages now. Ngl it’s so fun playing that character that I don’t even mind just doing five 10 minute failed runs in one session, at some point I’m bound to get lucky.
+Agreed, I might have to try it.
+Man jm bashing mt head on A7 lmao
+Ohhhh. I don't play much so I forgot there was a way to make potions better. I thought the boy had bugged or something lol
+    Yeah aha. Actually a pretty good boss relic.
+        I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+            Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+                O.o I didn't know ascensions did that lol I've not made it past the first couple.
+                    Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                        😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                        And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+            opportunity cost
+                ??
+                    the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                        Ohhh from the other possible choices as a boss drop. Gotcha.
++ [Buffer](http://slay-the-spire.wikia.com/wiki/Buffer) Defect Rare Power
+    
+    2 Energy | Prevent the next (1(2)) time(s) you would lose HP.
++ [Lizard Tail](http://slay-the-spire.wikia.com/wiki/Lizard%20Tail) Rare Relic
+    
+    When you would die, heal to 50% of your Max HP instead (works once).
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% ( 60%) of your Max HP instead and discard this potion.
++ [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+To be fair, the player technically dies if Lizard Tail or Fairy are procced but is immediately healed to a percentage of their HP (evident with \[\[Mindbloom\]\] and its interactions).
+
+It's also possible to die in an Intangible state if the player literally only has 1HP.
+
+Buffer seems to be the only way to avoid dying to Blasphemy.
+
+Also, is it possible to go beyond 999HP? I've always assumed player values cap at 999 but I'm open to correction.
+    + [Mind Bloom](http://slay-the-spire.wikia.com/wiki/Mind%20Bloom) Event - Act 3 (The Beyond)
+    
+    Mind Bloom is an event found exclusively in Act 3. Your imagination manifests into reality. In this ephemeral moment, all your wishes can come true, though not without consequences.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I don't know if it's true that you die, your health gets below zero but I wouldn't call that dying. An interpretation of the card text would be instead of dying, you do that but you're still below 0 hp until you heal. So if you have the [[Mark of the Bloom]] and you take lethal damage, you start dying but your lizard tail procs. Your lizard tail doesn't heal you but deactivates, and you're still below 0 so now you do die. 
+
+Intangible with 2 hp then...
+
+And why should player hp have a max when enemy hp doesn't? (except for int_max or something like that I guess)
+        + [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+    Even if the game allows you to go beyond 999 HP, it would still be impossible to go beyond 9999, because one of the debuffs, aka Blights, that Endless (because there's no way you can reach than amount of max HP during a normal run) gives you prevents your max HP from increasing.
++ [Feed](http://slay-the-spire.wikia.com/wiki/Feed) Ironclad Rare Attack
+    
+    1 Energy | Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I think around A16 is the sweet spot. The "more challenging movesets and abilities" are brutal. Book of stabbing in A20 ended so many runs for me. One bad draw and it's over.
+    It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+Are you on PC?
+
+Got a mod for ya. Noticed the bosses, aside from the Final, for this version are more bearable than base game ones and feel quite a bit more fun.
+    What mod?
+        Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+            Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+                That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                    I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+I'm currently think seriously about attempting A20 heart runs and posting them to YouTube
+Same!
+Yeah aha. Actually a pretty good boss relic.
+    I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+        Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+            O.o I didn't know ascensions did that lol I've not made it past the first couple.
+                Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                    😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                    And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+        opportunity cost
+            ??
+                the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                    Ohhh from the other possible choices as a boss drop. Gotcha.
++ [Mind Bloom](http://slay-the-spire.wikia.com/wiki/Mind%20Bloom) Event - Act 3 (The Beyond)
+    
+    Mind Bloom is an event found exclusively in Act 3. Your imagination manifests into reality. In this ephemeral moment, all your wishes can come true, though not without consequences.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I don't know if it's true that you die, your health gets below zero but I wouldn't call that dying. An interpretation of the card text would be instead of dying, you do that but you're still below 0 hp until you heal. So if you have the [[Mark of the Bloom]] and you take lethal damage, you start dying but your lizard tail procs. Your lizard tail doesn't heal you but deactivates, and you're still below 0 so now you do die. 
+
+Intangible with 2 hp then...
+
+And why should player hp have a max when enemy hp doesn't? (except for int_max or something like that I guess)
+    + [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+Even if the game allows you to go beyond 999 HP, it would still be impossible to go beyond 9999, because one of the debuffs, aka Blights, that Endless (because there's no way you can reach than amount of max HP during a normal run) gives you prevents your max HP from increasing.
+It's worth remembering that it used to stop at A15, until people who played obsessively were like "I dunno, I can still win consistently on the highest difficulty. Could it be harder?"
+What mod?
+    Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+        Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+            That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+                I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+I don't see any downsides to it, unless you have that potion eliminating relic. The reed pipe or something? I know its part of the typical Asian relaxation area, the bamboo rod that fills with water and then tumbles and empties to be refilled again.
+    Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+        O.o I didn't know ascensions did that lol I've not made it past the first couple.
+            Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+                😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+                And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+    opportunity cost
+        ??
+            the downside of taking sacred bark is the opportunity cost of not having +1 energy
+                Ohhh from the other possible choices as a boss drop. Gotcha.
++ [Mark of the Bloom](http://slay-the-spire.wikia.com/wiki/Mark%20of%20the%20Bloom) Event Relic
+    
+    You can no longer heal.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 12, 2021.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Block and Str are limited to 999. It's reasonable to assume so does HP unless someone digs through the game files and find out.
+Downfall.
+
+There's a confit to let all 7 new characters usable in Normal, as well as adding a Downfall version where you play the villains working down to deal with the intruders. Some of these bosses have awesome gimmicks, like Act 1 Silent having a Shuriken Shiv setup that gives her a free Shiv (2 per turn) every time you play a 0-cost card, which can give her extra strength on the wrong turns or make some worrying scalar damage. An Act 2 Reaper Ironclad who summons Mushrooms he can hit (along with you!) with a non-exhausting Reaper and gaining strength whenever he kills the Mushrooms. And Act 3 Claw Defect that scales... pretty freaking quickly.
+
+New events, new curses, new Relics, did I mention SEVEN new playable characters each with unique gimmicks and ideas, an entire new way to play, a whole 11 new Bosses (Act 1 Silent/Defect/Watcher, Act 2 Silent/Ironclad/Defect, Act 3 Ironclad/Watcher/Defect, Act 4 Neow's Revival phase and Neow themselves), new ways that runs can intermix, new cards for all, and more!
+
+Another mod has even more extensions, called Replay the Spire, which adds some bosses that are just fun. Fable-Spinner, who uses Events to tell a story I'm 99% sure she wasn't meaning to ACTUALLY kill you, along with a pirate captain and his Pondfish, and the ghost train conductor of Hell itself, with an absolute fucking TON of expansions on ideas for characters and the game without being revolutionary. Basically STS 2021 edition.
+    Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+        That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+            I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+Sozu, yeah.
+
+Sacred Bark is definitely pretty crazy though, especially with white beast statue and potion belt. Sadly gets nerfed pretty hard by whichever ascension decreases your potion slots.
+    O.o I didn't know ascensions did that lol I've not made it past the first couple.
+        Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+            😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+            And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+opportunity cost
+    ??
+        the downside of taking sacred bark is the opportunity cost of not having +1 energy
+            Ohhh from the other possible choices as a boss drop. Gotcha.
+Downfall absolutely butchers my FPS in StS, which I don't understand because it's a mostly static card game with minimal animations, and I have no issue playing AAA games at stable FPS.
+    That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+        I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+O.o I didn't know ascensions did that lol I've not made it past the first couple.
+    Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+        😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+        And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+??
+    the downside of taking sacred bark is the opportunity cost of not having +1 energy
+        Ohhh from the other possible choices as a boss drop. Gotcha.
+That sounds like a mod conflict.
+
+The only way my novice code brain could think of is that Downfall and another mod are having a loop. Basically, Downfall does something, another mod detects and does something, Downfall detects and does something, and it repeats with something's until the program becomes too burdened with new processes that it crashes. 
+
+It also helps if you have the BaseMod and STSLib installed, which is always good to double check just in case too.
+    I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+Yeah, they get pretty crazy. You get an ethereal curse added to your starter deck, you have to fight 2 act 3 bosses in a row and you don't know what the 2nd is ahead of time, you lose a potion slot, no full heal at the start of each act...
+
+Pretty tricky stuff.
+    😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+    And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+the downside of taking sacred bark is the opportunity cost of not having +1 energy
+    Ohhh from the other possible choices as a boss drop. Gotcha.
+I only had the required mods for it which were BaseModd and STSlib. I only had one other mod I have on the time which was disabled going in.
+
+Downfall never crashed, but it was never about 15 FPS.
+😱 
+
+I thought ascender's babe was bad enough lol geez..
+
+Edit: I meant BANE, but I'm leaving it as is.
+And those are the insignificant ascension steps, the major difficulty spike is from ascension 17+18+19 (more challenging movesets from normals/elites/bosses).
+Ohhh from the other possible choices as a boss drop. Gotcha.

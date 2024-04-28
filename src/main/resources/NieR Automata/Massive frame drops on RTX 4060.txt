@@ -1,0 +1,26 @@
+[[Massive frame drops on RTX 4060]]
+
+
+I have a R5 7600 and RTX 4060. Most games run smooth on a 1080p high. Even NieR Automata ran pretty smooth till a couple of days ago. 
+
+Today I started a new game from a discontinued save. After crashing finishing the aerial combat sequence. And reaching that quarry machine boss fight I drop from 60 to 33 to 28 to 20 FPS gradually. 
+
+I tried uninstalling and installing. Disabling full screen optimisation. Running compatibility in Win8 and verified files on Steam. 
+
+During that verification it fails to fetch 4 files and downloads around 17.4 MB of data and I start the game and face the issue again and I close it. 
+
+I verify again. It downloads again. 
+
+Today this has been a headache. 
+
+I would sincerely appreciate help on this. I bought this game with my hard-earned money. Please help 🥹
+
+
+FXAA not SMAA x8
+    FXAA is available? 
+The fact it downloads those 4 files each time you verify the game files is normal: the game files include 2 different game exe files(one for win10, the other for win7), plus one OS veririfcation file and one batch script file. When you launch the game for the first time(or right after verifying the files), it actually launches the OS verificaction file, which detects which windows version you're running, and then launches the batch scripts, which will automatically keep the appropriate game exe, delete the other, and then deletes the OS verification files and itself. This means that whenever you verify the game files in steam, these 4 files will always be seen as missing, and will be downloaded again, so this is normal.
+
+For the performance slowly degrading, i doubt this is the source(cause if that was the case you should get bad performance all the times rather than slowly degrading over time), but ALL the MSAA settings in this game are incredibly taxing and **can** tank performance even on high end PCs, so you can try to either use SMAA, or no AA at all.
+    I am at the first anti aliasing setting. 
+FXAA is available? 
+I am at the first anti aliasing setting. 

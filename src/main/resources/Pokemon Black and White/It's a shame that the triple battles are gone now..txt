@@ -1,0 +1,1075 @@
+[[It's a shame that the triple battles are gone now.]]
+
+
+I just got to the point where you are battling with Hau and Gladion at Aether Paradise and it would have been so awesome to have a couple triple battles in there instead of switching between Hau and Gladion in doubles. 
+
+
+I'm just bummed I keep having to fight all of the team skull grunts one-on-one. Seriously, are a few two-vs-one matches too much to ask for?
+    Double battles are my favorite format like wtf every time we run into the 2 team skull clowns I get excited for a double battle and just get crushed by disappointed. 
+        I'm wondering if it's related to the limitations of the hardware.  On the old 3DS models at least, double battles with trainers and the Battle Royal are very nearly unplayable, and totem pokemon auras slow things down a lot.  As it is, it's largely a non issue unless you were really set on playing Battle Royals a lot (personally I don't care for it). If they were more regular fights in the game, though, it would get annoying pretty quickly.
+            If there were 2 trainer models along with 6 Pokemon models, I think the 3ds would melt.
+                Kind of like how when the Ice Climbers were being tested for Smash 4 3DS and one of the test units melted.
+                    Wait what? So thats why they cut them out
+                        Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+            the battle royal seems to have lag issues in general, probably because it's contacting 4 consoles at once and not 2
+            It almost certainly is related to the limitations of the hardware. This is upsetting as I literally upgraded to a new 3ds for SM, but I understand that they don't want to alienate players with older systems or force them to buy new ones to play the game. I'm currently on the third island, but if there is anything like the Battle Maison (where I can double battle till I puke) available at end game I will be completely content. 
+            Yeah I tried a battle royal on my old 3ds and it was painful, it dropped to like 10 fps
+    Well to be fair (I'm using my 3DS XL [Groudon edition](http://i.imgur.com/pdDJtD2h.jpg)) and sometimes (like the second totem pokémon battle for instance) lags the hell out of my 3DS, even after i've already chosen my next attack it takes good 5 seconds for the game to react. 
+
+I mean yeah it would have been amazing to have triple grunt battles or even those grunt hordes (with all those team skull grunts posing like some ginyu force members lol) but i think they knew the game would lag with all the new graphics and battle scnarios so they removed them this time.
+        They must be doing something different for the free-for-all battle mode then. Maybe a lower-resolution background?
+            I would assume that the map of the area is smaller due to being in a building instead of in a portion of the island, while also reusing as many assets as possible to reduce the resources required, making more of the map have areas with less overall polygons to keep the costs low, and eliminating the trainer models. 
+                Dang, I forgot about the trainer models. That's probably the main performance difference there.
+                    Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+                This is what i was thinking, in the wild you see all these plants, rocks, weather conditions, Pokémon and trainers animations, shadows, and backgrounds. I might be wrong about the next statement, but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+                    > but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+                        Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+                        That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+                            Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+                                I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+                    It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+                        This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+                            I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+                                I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+            For me the royal is even worse. It makes me wonder if they originally wanted to release this on the switch
+        MI NA SO DA TE!
+            Yeah that works too :)
+    how about a horde battle? fighting all 5 at once at that one point would've been awesome!
+        yeah instead you fight one grunt with 5 mon
+            They're all called Grunt, sooo... EX-Fusion?
+    Considering how bad my framerate drops when I get into any double battle, I'm kind of glad there aren't more. Would be nice though. I'm headed to Po town for the first time and the amount of times I've thought I'd get into a double battle against Team Skull and haven't has been a little disappointing.
+    In Gen VI, you can't do a double battle if you have only one party member, and I assume it's the same in Gen VII. The reasoning I've given for it is, since there's a chance you might have only one in your party, they do one-on-ones for story, cutscene-initiated battles. Is it a good reason? No, but it's all I've got.
+
+On the bright side, I know there's a double battle against two Grunts in Po Town.
+    The Horde battle with the Magma/Aqua grunts in ORAS was so much fun.
+    Spoilers: there's a part in the game with 5 grunts and I was like oh god. 5 one by one? 
+
+The main one used all the other 4 Pokemon so it was just one trainer with 5 Pokemon, so nice! 
+    There is at least one battle, on Poni Island, where a group of five Skull Grunts is battled as a single Grunt with 5 Pokémon.
+    Like SOS Totem battles?
+I hate that Horde battles aren't in the game and in Poni you have to battle 5 grunts at the same time... But then the battle is against only one grunt with five Pokémon. I think they tried to implement Hordes again, but as the 3ds couldn't work they had to change that battle. Why would they make a 5v1 if not that?
+    yeah it seems like that was an experiment which went poorly
+
+having a double battle would have been an ok replacement
+Yeah, I would love having 3 fps 
+    Are you sure? I think we could go lower, as long as there's a weather effect in play. Triple battle with rain feels very promising to reach one fps!
+        What about triple battle with weather and totem aura effect in place? Think we can drop even lower??
+            Add a Mega Evolution and a Z Move in there for good measure.
+                And let's make sure we have the 6 largest models in the game all on the field at the same time. 
+                    Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+                    More like Moltres so you can literally melt your 3DS with fire.
+                    Moltres
+    I know they were restricted with hardware but it would have been cool if they could have done it without a frame rate issue. 
+        There's always the rumoured Switch version to look out for, surely that thing has to be more powerful than the 3DS.
+            It would have to try really hard to not be.
+                If it was just a straight port, it's not even remotely unheard of for performance issues to be a thing. That said, I kind of doubt Game Freak will make the mistake of just porting the game and not optimizing.
+                    Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+                        I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+                            I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+                                Well both will be using ARM processors now.
+                            PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+                                No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+                            Oh god, is that why the PC version was so cheap? I just bought it as well.
+                                You can find fan-made patches that address those issues, so you should be fine.
+                        Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+                    Here's hoping for a sequel or third version, not just a port.
+        Or, make the trainer visual optional. I mean I don't need to see the other trainer on screen all the time, having an option to turn it off would be great. All this makes Battle Royals a pain in the ass to play.
+    triple battles triple frames in a second
+        Three times the battle , three times the speed.
+    That was my reasoning with why they didn't have more double battles or any triples or hordes.
+
+As fun as those battles are, it's never fun to end up making the game only available for much newer systems.
+Imagine 6 moltres in wifi. You'd get a clean 1 FPS.
+    All you need is a Mega Rayquaza on each side. Most elaborate 3d model ever.
+        Ok Mega ray with sparkly flames 
+While I was in a double battle with Hau and the Aether grunts my 3ds XL actually froze after I went into my items with only the music still playing, so triple battles would probably make 3ds' explode.
+    Yup. Saw a speedrunner in that same fight get a crash and force a reset. Luckily that's really the only known place it happens.
+        People actually speedrun S/M or was it a speedrunner just playing the game?
+            People do. Run is about 6 hours long and they're still finding a good route. You should check out Keizaron and epicdudeguy.
+    They did it in X and Y so I don't see how it could work a bit better on the N3DS?
+        The difference is this time the trainers are on screen too, so that's actually twice the amount of models the 3DS has to render at once. Double battles already lagged sometimes and that was without the trainers. As it is it's not surprising that there's so much lag. 
+            I still don't get it, why did they do that if even the New 3DS can't handle it without dropping frames all over the place? I can understand that most in-game battles are in the singles format and that runs smoothly enough since they got rid of 3D, but their official competitive format is DOUBLES and it's gonna look awful with that framerate! Not to mention it's gonna be so embarrassing playing battle tree multi-battles with a friend and watch the game turn into a slideshow.
+                The real problem is I think they were planning too far ahead.  
+
+Look at it this way, IIRC in Battle Revolution we still had a few models that persisted from the N64 era despite being nearly a decade old, and after the Pikipek modeling video people have been saying that the models are *way* beyond what is necessary for a portable game.  Looking at the amount of detail, polish, polygons, and the sheer number of animations for each Pokemon, I believe that these were made with longevity in mind to make them last as long as possible and to look good even on a console (with high-res textures, of course).
+
+I predict we'll see these models in every single one of the main games for *at least* another 10 years before we get a massive update like this again (which should coincide with both the 10th generation of Pokémon and the 30th anniversary).  They're pushing the 3DS to its limits to make sure everything looks great on the next system, like they did with Twilight Princess or Breath of the Wild.
+
+I also believe now they are working on a collection of overworld sprites to bring back Pokemon followers, although that seems to be an idea that was scrapped due to either time constraints or pathting issues with larger Pokemon.  Expect to see something with this feature in the Gen 4 remakes, but don't be too disappointed if it turns out to only be within Amity Square.
+                    [deleted]
+                         I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+                            alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+            True. I totally forgot they also put in the trainers.
+        Better graphics = more rendering = strain on shitty handheld's GPU. X and Y wasn't full of high-poly models like SuMo is, and on top of that, it's rendering not just the Pokemon, but the trainer you're battling, too. In X and Y, you never saw the trainer's model in-battle. Only in the intro to the battle, if it was a gym leader or rival--some kind of special character. All others were just a 2D still image that would pop up on screen.
+
+There's so much more being rendered in SuMo. There's a reason you can't use 3D functionality this gen. It's barely capable of rendering one iteration of everything on screen, let alone two. Consider that multi-battles in X and Y would disable the 3D setting if you were using it, for the same reason.
+            Didn't realize how weak the 3ds was. I know it's like 5 years old but I would think the N3ds would do a little better.
+
+Ah well if it comes out on the switch it could possibly feature it.
+                The N3DS is more powerful, sure, but they also have to maintain parity across the platforms.  This is why I never got a N3DS.    It's definitely going to render the game more smoothly, but they're also going to intentionally hamstring any major releases anyway to ensure the experience is enjoyable for the larger base of old 3DS users.
+                    I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+                        Thatd be a marketing nightmare
+                             Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+                                While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+                I thought that the game doesn't use the N3DS's new hardware other than the extra ram
+                    it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+                Yeah, thats why whenever anyone says "The 3Ds has lots of life left in it" I shake my head
+
+Its had a good run, and solid devs are still getting good products out, but it's been showing its age since Sm4sh at least. Even on the New it still struggles often on a lot of major new releases
+        the areas and everything are a lot more detailed now, that is the issue
+            They could've just made it a generic battle arena but that wouldn't be as fun and also like another person replied that they also are rendering the trainers on the screen as well.
+I miss fighting against 3 Blisseys.
+    3 Miltanks.   3 uses of Roll Out each turn.  
+        Nightmare.
+I was sad the 5 skull grunts before plumeria weren't a horde battle....
+    Remember hoard trainers?Yeah, wasn't fun
+        I miss them for ev training, but ya they sucked if you didn't have discharge or earthquake at the ready.
+I think they will come back for the remake. Honestly I think the reason they took them out was hardware related. Too many pokemon and trainer models showing at once would make it chug even on the new 3ds. 
+    Imagine if they made the Gen 4 remakes N3DS only...
+        Lol no that won't happen. they will probably be Switch only. 
+Only thing that disappointed me was the fact that they got rid of the hoard battles with skull...I forgot where it was but it was before you got posionium thing where I was expecting a hoard trainer battle
+I'm fine with it. 
+
+The last thing I need is two fucking extra Beldum when I just want to catch one.
+I don't think the game would be able to handle it, it seems to struggle a bit with 2 v 2 on the New 3DS as is, FFAs as well, maybe it could work on the New 3DS but the older 3DS might not been able to handle it and they probably didn't want that.
+
+My guess is they didn't plan to, but HAD to scrap them, heck I wouldn't be surprised if that fight where you have to fight "all their pokemon at once" but end up fighting just one guy with 5 was supposed to actually be a special "horde fight" like in ORAS with the quintuplets.
+
+I mean to be fair they did update quite a bit from gen 6.
+- All trainers are animated 3d models instead of just a few and are actually in the battle doing little animations now and then.
+- All pokemon are rendered together in the actual field instead of being in their weird little circles.
+- The field/ background are a lot more detailed, and there's more variety.
+- The HUD also got a nice upgrade as well.
+
+Also I'm not so sure but almost looks like the models of the pokemon themselves look nicer, maybe they were updated too, or it might just be me seeing things. 
+
+(*Tinfoil time, maybe that's why there's so few pokemon in the game and Pokebank is not updating until next year, they didn't have time to update all models yet but didn't wanna delay the game? But more than likely I'm just being crazy.)
+
+But yeah the way the 3DS can barely handle 4 Pokemon in the field makes it seem like it wouldn't be such a great idea to add 2 more.
+I don't know if you have seen this game on the old 3ds but I, for one, am glad that the battles don't extend past 4 total pokemon. My poor ds.
+    My 3DSXL looked like it was going to give out when the first totem raticate summoned some help. That totem effect plus an extra Pokemon = low low low FPS...
+I feel like they would've if it wouldn't explode your ds.  Double battles are pushing it even on the new 3DS.
+    For real. I dunno if it happens to anybody else but whenever I enter a double battle the two trainers just stand there completely still for about a second before they begin the ball throw animation. Like the game needs to catch up with itself. 
+        Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+            Nah, no chance. The double battles already lag to hell and it definitely looks like it's just some graphical slowdown. It doesn't happen in single battles so it doesn't make sense for it to be an intentional double battle feature. It's the only time in the game that the characters stand completely still as if somebody's paused their animation, even when they're just stood around in the overworld the NPCs all 'bob' slightly to simulate breathing. 
+                I don't think that's what they meant.
+
+It is likely intentional on the old 3DS to prevent as much lag as possible during the battle. We know part of the reason it starts up slower on the old 3DS is that it has to reset the system in the background to free up RAM.
+
+So it's likely doing the same in that split second when a Double Battle starts to make sure the battle itself is smooth.
+
+I don't know for certain that's what the pause is about, but I do know it doesn't happen on the N3DS/XL at all. Knowing they have the games do it once combined with that means it's at least possible they have it happen at other times too when they think it might need some extra processing space.
+                    Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+            > Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+
+~ */u/regulus_corneas*
+        That's just because it's loading animations
+its because of the trainer models being in battle and the more detialed battle backrounds the game already is laggy in doubles it would be unplayble in tripples
+would kill for horde battles against skull grunts tho
+
+they got to do it in the anime when kiawe went 6 on 1
+The game can barely handle 2v2.
+
+I can't believe how demanding this game is, either that or the 3DS XL hardware is trash.
+I never cared much for triples or rotation, allthough I'm sad to see them go. But inverse battles D: And just to spite us, they have a mission in the festival plaza for inverse type matchups......
+I think the game would drop to like 1 fps in a triple battle
+The game lags even with 2v2
+They're not gone, they're just lagging so bad that it's taking an eternity for the option to load up.
+
+Oh how I wish Switch would have capabilities close to Vita
+    I'm pretty sure it will be better than the Vita if it can play Skyrim.
+    The main issue with the Switch isn't performance, it's battery usage.  It's actually quite powerful but that kind of processing eats up battery like nobody's business and the estimated battery time is about 3 hours right now.  As it stands you'd have to carry either several portable chargers or one *large* battery bank with you in a backpack at all times or be forced to find a plug basically anywhere you go - any quick play session would easily take 1/3rd or more of your battery.
+Imagine the framerate in a 3v3 fight in S/M. Slideshow.
+The 3ds can barely even handle double battles. I think a triple battle would kill the poor thing. 
+Smh everyone saying they couldnt do triple battles cause of lag. Solution is simple, in SuMo 2 trainers + 4 pokemon = 6 models. In a triple battle just dont show trainers like they did in xy so you only have 0 trainers + 6 pokemon = 6 models. This is why xy had triple battles and SuMo didnt. They were to lazy to code triples without the trainers thats all.
+i dont think there have ever been triple multi battles?
+
+also, remember, the number of models onscreen at any one time is double that of gen 6 games.
+[removed]
+    [removed]
+Double battles are my favorite format like wtf every time we run into the 2 team skull clowns I get excited for a double battle and just get crushed by disappointed. 
+    I'm wondering if it's related to the limitations of the hardware.  On the old 3DS models at least, double battles with trainers and the Battle Royal are very nearly unplayable, and totem pokemon auras slow things down a lot.  As it is, it's largely a non issue unless you were really set on playing Battle Royals a lot (personally I don't care for it). If they were more regular fights in the game, though, it would get annoying pretty quickly.
+        If there were 2 trainer models along with 6 Pokemon models, I think the 3ds would melt.
+            Kind of like how when the Ice Climbers were being tested for Smash 4 3DS and one of the test units melted.
+                Wait what? So thats why they cut them out
+                    Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+        the battle royal seems to have lag issues in general, probably because it's contacting 4 consoles at once and not 2
+        It almost certainly is related to the limitations of the hardware. This is upsetting as I literally upgraded to a new 3ds for SM, but I understand that they don't want to alienate players with older systems or force them to buy new ones to play the game. I'm currently on the third island, but if there is anything like the Battle Maison (where I can double battle till I puke) available at end game I will be completely content. 
+        Yeah I tried a battle royal on my old 3ds and it was painful, it dropped to like 10 fps
+Well to be fair (I'm using my 3DS XL [Groudon edition](http://i.imgur.com/pdDJtD2h.jpg)) and sometimes (like the second totem pokémon battle for instance) lags the hell out of my 3DS, even after i've already chosen my next attack it takes good 5 seconds for the game to react. 
+
+I mean yeah it would have been amazing to have triple grunt battles or even those grunt hordes (with all those team skull grunts posing like some ginyu force members lol) but i think they knew the game would lag with all the new graphics and battle scnarios so they removed them this time.
+    They must be doing something different for the free-for-all battle mode then. Maybe a lower-resolution background?
+        I would assume that the map of the area is smaller due to being in a building instead of in a portion of the island, while also reusing as many assets as possible to reduce the resources required, making more of the map have areas with less overall polygons to keep the costs low, and eliminating the trainer models. 
+            Dang, I forgot about the trainer models. That's probably the main performance difference there.
+                Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+            This is what i was thinking, in the wild you see all these plants, rocks, weather conditions, Pokémon and trainers animations, shadows, and backgrounds. I might be wrong about the next statement, but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+                > but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+                    Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+                    That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+                        Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+                            I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+                It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+                    This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+                        I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+                            I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+        For me the royal is even worse. It makes me wonder if they originally wanted to release this on the switch
+    MI NA SO DA TE!
+        Yeah that works too :)
+how about a horde battle? fighting all 5 at once at that one point would've been awesome!
+    yeah instead you fight one grunt with 5 mon
+        They're all called Grunt, sooo... EX-Fusion?
+Considering how bad my framerate drops when I get into any double battle, I'm kind of glad there aren't more. Would be nice though. I'm headed to Po town for the first time and the amount of times I've thought I'd get into a double battle against Team Skull and haven't has been a little disappointing.
+In Gen VI, you can't do a double battle if you have only one party member, and I assume it's the same in Gen VII. The reasoning I've given for it is, since there's a chance you might have only one in your party, they do one-on-ones for story, cutscene-initiated battles. Is it a good reason? No, but it's all I've got.
+
+On the bright side, I know there's a double battle against two Grunts in Po Town.
+The Horde battle with the Magma/Aqua grunts in ORAS was so much fun.
+Spoilers: there's a part in the game with 5 grunts and I was like oh god. 5 one by one? 
+
+The main one used all the other 4 Pokemon so it was just one trainer with 5 Pokemon, so nice! 
+There is at least one battle, on Poni Island, where a group of five Skull Grunts is battled as a single Grunt with 5 Pokémon.
+Like SOS Totem battles?
+yeah it seems like that was an experiment which went poorly
+
+having a double battle would have been an ok replacement
+Are you sure? I think we could go lower, as long as there's a weather effect in play. Triple battle with rain feels very promising to reach one fps!
+    What about triple battle with weather and totem aura effect in place? Think we can drop even lower??
+        Add a Mega Evolution and a Z Move in there for good measure.
+            And let's make sure we have the 6 largest models in the game all on the field at the same time. 
+                Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+                More like Moltres so you can literally melt your 3DS with fire.
+                Moltres
+I know they were restricted with hardware but it would have been cool if they could have done it without a frame rate issue. 
+    There's always the rumoured Switch version to look out for, surely that thing has to be more powerful than the 3DS.
+        It would have to try really hard to not be.
+            If it was just a straight port, it's not even remotely unheard of for performance issues to be a thing. That said, I kind of doubt Game Freak will make the mistake of just porting the game and not optimizing.
+                Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+                    I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+                        I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+                            Well both will be using ARM processors now.
+                        PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+                            No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+                        Oh god, is that why the PC version was so cheap? I just bought it as well.
+                            You can find fan-made patches that address those issues, so you should be fine.
+                    Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+                Here's hoping for a sequel or third version, not just a port.
+    Or, make the trainer visual optional. I mean I don't need to see the other trainer on screen all the time, having an option to turn it off would be great. All this makes Battle Royals a pain in the ass to play.
+triple battles triple frames in a second
+    Three times the battle , three times the speed.
+That was my reasoning with why they didn't have more double battles or any triples or hordes.
+
+As fun as those battles are, it's never fun to end up making the game only available for much newer systems.
+All you need is a Mega Rayquaza on each side. Most elaborate 3d model ever.
+    Ok Mega ray with sparkly flames 
+Yup. Saw a speedrunner in that same fight get a crash and force a reset. Luckily that's really the only known place it happens.
+    People actually speedrun S/M or was it a speedrunner just playing the game?
+        People do. Run is about 6 hours long and they're still finding a good route. You should check out Keizaron and epicdudeguy.
+They did it in X and Y so I don't see how it could work a bit better on the N3DS?
+    The difference is this time the trainers are on screen too, so that's actually twice the amount of models the 3DS has to render at once. Double battles already lagged sometimes and that was without the trainers. As it is it's not surprising that there's so much lag. 
+        I still don't get it, why did they do that if even the New 3DS can't handle it without dropping frames all over the place? I can understand that most in-game battles are in the singles format and that runs smoothly enough since they got rid of 3D, but their official competitive format is DOUBLES and it's gonna look awful with that framerate! Not to mention it's gonna be so embarrassing playing battle tree multi-battles with a friend and watch the game turn into a slideshow.
+            The real problem is I think they were planning too far ahead.  
+
+Look at it this way, IIRC in Battle Revolution we still had a few models that persisted from the N64 era despite being nearly a decade old, and after the Pikipek modeling video people have been saying that the models are *way* beyond what is necessary for a portable game.  Looking at the amount of detail, polish, polygons, and the sheer number of animations for each Pokemon, I believe that these were made with longevity in mind to make them last as long as possible and to look good even on a console (with high-res textures, of course).
+
+I predict we'll see these models in every single one of the main games for *at least* another 10 years before we get a massive update like this again (which should coincide with both the 10th generation of Pokémon and the 30th anniversary).  They're pushing the 3DS to its limits to make sure everything looks great on the next system, like they did with Twilight Princess or Breath of the Wild.
+
+I also believe now they are working on a collection of overworld sprites to bring back Pokemon followers, although that seems to be an idea that was scrapped due to either time constraints or pathting issues with larger Pokemon.  Expect to see something with this feature in the Gen 4 remakes, but don't be too disappointed if it turns out to only be within Amity Square.
+                [deleted]
+                     I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+                        alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+        True. I totally forgot they also put in the trainers.
+    Better graphics = more rendering = strain on shitty handheld's GPU. X and Y wasn't full of high-poly models like SuMo is, and on top of that, it's rendering not just the Pokemon, but the trainer you're battling, too. In X and Y, you never saw the trainer's model in-battle. Only in the intro to the battle, if it was a gym leader or rival--some kind of special character. All others were just a 2D still image that would pop up on screen.
+
+There's so much more being rendered in SuMo. There's a reason you can't use 3D functionality this gen. It's barely capable of rendering one iteration of everything on screen, let alone two. Consider that multi-battles in X and Y would disable the 3D setting if you were using it, for the same reason.
+        Didn't realize how weak the 3ds was. I know it's like 5 years old but I would think the N3ds would do a little better.
+
+Ah well if it comes out on the switch it could possibly feature it.
+            The N3DS is more powerful, sure, but they also have to maintain parity across the platforms.  This is why I never got a N3DS.    It's definitely going to render the game more smoothly, but they're also going to intentionally hamstring any major releases anyway to ensure the experience is enjoyable for the larger base of old 3DS users.
+                I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+                    Thatd be a marketing nightmare
+                         Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+                            While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+            I thought that the game doesn't use the N3DS's new hardware other than the extra ram
+                it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+            Yeah, thats why whenever anyone says "The 3Ds has lots of life left in it" I shake my head
+
+Its had a good run, and solid devs are still getting good products out, but it's been showing its age since Sm4sh at least. Even on the New it still struggles often on a lot of major new releases
+    the areas and everything are a lot more detailed now, that is the issue
+        They could've just made it a generic battle arena but that wouldn't be as fun and also like another person replied that they also are rendering the trainers on the screen as well.
+3 Miltanks.   3 uses of Roll Out each turn.  
+    Nightmare.
+Remember hoard trainers?Yeah, wasn't fun
+    I miss them for ev training, but ya they sucked if you didn't have discharge or earthquake at the ready.
+Imagine if they made the Gen 4 remakes N3DS only...
+    Lol no that won't happen. they will probably be Switch only. 
+My 3DSXL looked like it was going to give out when the first totem raticate summoned some help. That totem effect plus an extra Pokemon = low low low FPS...
+For real. I dunno if it happens to anybody else but whenever I enter a double battle the two trainers just stand there completely still for about a second before they begin the ball throw animation. Like the game needs to catch up with itself. 
+    Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+        Nah, no chance. The double battles already lag to hell and it definitely looks like it's just some graphical slowdown. It doesn't happen in single battles so it doesn't make sense for it to be an intentional double battle feature. It's the only time in the game that the characters stand completely still as if somebody's paused their animation, even when they're just stood around in the overworld the NPCs all 'bob' slightly to simulate breathing. 
+            I don't think that's what they meant.
+
+It is likely intentional on the old 3DS to prevent as much lag as possible during the battle. We know part of the reason it starts up slower on the old 3DS is that it has to reset the system in the background to free up RAM.
+
+So it's likely doing the same in that split second when a Double Battle starts to make sure the battle itself is smooth.
+
+I don't know for certain that's what the pause is about, but I do know it doesn't happen on the N3DS/XL at all. Knowing they have the games do it once combined with that means it's at least possible they have it happen at other times too when they think it might need some extra processing space.
+                Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+        > Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+
+~ */u/regulus_corneas*
+    That's just because it's loading animations
+I'm pretty sure it will be better than the Vita if it can play Skyrim.
+The main issue with the Switch isn't performance, it's battery usage.  It's actually quite powerful but that kind of processing eats up battery like nobody's business and the estimated battery time is about 3 hours right now.  As it stands you'd have to carry either several portable chargers or one *large* battery bank with you in a backpack at all times or be forced to find a plug basically anywhere you go - any quick play session would easily take 1/3rd or more of your battery.
+[removed]
+I'm wondering if it's related to the limitations of the hardware.  On the old 3DS models at least, double battles with trainers and the Battle Royal are very nearly unplayable, and totem pokemon auras slow things down a lot.  As it is, it's largely a non issue unless you were really set on playing Battle Royals a lot (personally I don't care for it). If they were more regular fights in the game, though, it would get annoying pretty quickly.
+    If there were 2 trainer models along with 6 Pokemon models, I think the 3ds would melt.
+        Kind of like how when the Ice Climbers were being tested for Smash 4 3DS and one of the test units melted.
+            Wait what? So thats why they cut them out
+                Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+    the battle royal seems to have lag issues in general, probably because it's contacting 4 consoles at once and not 2
+    It almost certainly is related to the limitations of the hardware. This is upsetting as I literally upgraded to a new 3ds for SM, but I understand that they don't want to alienate players with older systems or force them to buy new ones to play the game. I'm currently on the third island, but if there is anything like the Battle Maison (where I can double battle till I puke) available at end game I will be completely content. 
+    Yeah I tried a battle royal on my old 3ds and it was painful, it dropped to like 10 fps
+They must be doing something different for the free-for-all battle mode then. Maybe a lower-resolution background?
+    I would assume that the map of the area is smaller due to being in a building instead of in a portion of the island, while also reusing as many assets as possible to reduce the resources required, making more of the map have areas with less overall polygons to keep the costs low, and eliminating the trainer models. 
+        Dang, I forgot about the trainer models. That's probably the main performance difference there.
+            Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+        This is what i was thinking, in the wild you see all these plants, rocks, weather conditions, Pokémon and trainers animations, shadows, and backgrounds. I might be wrong about the next statement, but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+            > but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+                Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+                That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+                    Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+                        I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+            It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+                This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+                    I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+                        I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+    For me the royal is even worse. It makes me wonder if they originally wanted to release this on the switch
+MI NA SO DA TE!
+    Yeah that works too :)
+yeah instead you fight one grunt with 5 mon
+    They're all called Grunt, sooo... EX-Fusion?
+What about triple battle with weather and totem aura effect in place? Think we can drop even lower??
+    Add a Mega Evolution and a Z Move in there for good measure.
+        And let's make sure we have the 6 largest models in the game all on the field at the same time. 
+            Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+            More like Moltres so you can literally melt your 3DS with fire.
+            Moltres
+There's always the rumoured Switch version to look out for, surely that thing has to be more powerful than the 3DS.
+    It would have to try really hard to not be.
+        If it was just a straight port, it's not even remotely unheard of for performance issues to be a thing. That said, I kind of doubt Game Freak will make the mistake of just porting the game and not optimizing.
+            Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+                I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+                    I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+                        Well both will be using ARM processors now.
+                    PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+                        No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+                    Oh god, is that why the PC version was so cheap? I just bought it as well.
+                        You can find fan-made patches that address those issues, so you should be fine.
+                Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+            Here's hoping for a sequel or third version, not just a port.
+Or, make the trainer visual optional. I mean I don't need to see the other trainer on screen all the time, having an option to turn it off would be great. All this makes Battle Royals a pain in the ass to play.
+Three times the battle , three times the speed.
+Ok Mega ray with sparkly flames 
+People actually speedrun S/M or was it a speedrunner just playing the game?
+    People do. Run is about 6 hours long and they're still finding a good route. You should check out Keizaron and epicdudeguy.
+The difference is this time the trainers are on screen too, so that's actually twice the amount of models the 3DS has to render at once. Double battles already lagged sometimes and that was without the trainers. As it is it's not surprising that there's so much lag. 
+    I still don't get it, why did they do that if even the New 3DS can't handle it without dropping frames all over the place? I can understand that most in-game battles are in the singles format and that runs smoothly enough since they got rid of 3D, but their official competitive format is DOUBLES and it's gonna look awful with that framerate! Not to mention it's gonna be so embarrassing playing battle tree multi-battles with a friend and watch the game turn into a slideshow.
+        The real problem is I think they were planning too far ahead.  
+
+Look at it this way, IIRC in Battle Revolution we still had a few models that persisted from the N64 era despite being nearly a decade old, and after the Pikipek modeling video people have been saying that the models are *way* beyond what is necessary for a portable game.  Looking at the amount of detail, polish, polygons, and the sheer number of animations for each Pokemon, I believe that these were made with longevity in mind to make them last as long as possible and to look good even on a console (with high-res textures, of course).
+
+I predict we'll see these models in every single one of the main games for *at least* another 10 years before we get a massive update like this again (which should coincide with both the 10th generation of Pokémon and the 30th anniversary).  They're pushing the 3DS to its limits to make sure everything looks great on the next system, like they did with Twilight Princess or Breath of the Wild.
+
+I also believe now they are working on a collection of overworld sprites to bring back Pokemon followers, although that seems to be an idea that was scrapped due to either time constraints or pathting issues with larger Pokemon.  Expect to see something with this feature in the Gen 4 remakes, but don't be too disappointed if it turns out to only be within Amity Square.
+            [deleted]
+                 I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+                    alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+    True. I totally forgot they also put in the trainers.
+Better graphics = more rendering = strain on shitty handheld's GPU. X and Y wasn't full of high-poly models like SuMo is, and on top of that, it's rendering not just the Pokemon, but the trainer you're battling, too. In X and Y, you never saw the trainer's model in-battle. Only in the intro to the battle, if it was a gym leader or rival--some kind of special character. All others were just a 2D still image that would pop up on screen.
+
+There's so much more being rendered in SuMo. There's a reason you can't use 3D functionality this gen. It's barely capable of rendering one iteration of everything on screen, let alone two. Consider that multi-battles in X and Y would disable the 3D setting if you were using it, for the same reason.
+    Didn't realize how weak the 3ds was. I know it's like 5 years old but I would think the N3ds would do a little better.
+
+Ah well if it comes out on the switch it could possibly feature it.
+        The N3DS is more powerful, sure, but they also have to maintain parity across the platforms.  This is why I never got a N3DS.    It's definitely going to render the game more smoothly, but they're also going to intentionally hamstring any major releases anyway to ensure the experience is enjoyable for the larger base of old 3DS users.
+            I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+                Thatd be a marketing nightmare
+                     Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+                        While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+        I thought that the game doesn't use the N3DS's new hardware other than the extra ram
+            it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+        Yeah, thats why whenever anyone says "The 3Ds has lots of life left in it" I shake my head
+
+Its had a good run, and solid devs are still getting good products out, but it's been showing its age since Sm4sh at least. Even on the New it still struggles often on a lot of major new releases
+the areas and everything are a lot more detailed now, that is the issue
+    They could've just made it a generic battle arena but that wouldn't be as fun and also like another person replied that they also are rendering the trainers on the screen as well.
+Nightmare.
+I miss them for ev training, but ya they sucked if you didn't have discharge or earthquake at the ready.
+Lol no that won't happen. they will probably be Switch only. 
+Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+    Nah, no chance. The double battles already lag to hell and it definitely looks like it's just some graphical slowdown. It doesn't happen in single battles so it doesn't make sense for it to be an intentional double battle feature. It's the only time in the game that the characters stand completely still as if somebody's paused their animation, even when they're just stood around in the overworld the NPCs all 'bob' slightly to simulate breathing. 
+        I don't think that's what they meant.
+
+It is likely intentional on the old 3DS to prevent as much lag as possible during the battle. We know part of the reason it starts up slower on the old 3DS is that it has to reset the system in the background to free up RAM.
+
+So it's likely doing the same in that split second when a Double Battle starts to make sure the battle itself is smooth.
+
+I don't know for certain that's what the pause is about, but I do know it doesn't happen on the N3DS/XL at all. Knowing they have the games do it once combined with that means it's at least possible they have it happen at other times too when they think it might need some extra processing space.
+            Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+    > Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+
+~ */u/regulus_corneas*
+That's just because it's loading animations
+If there were 2 trainer models along with 6 Pokemon models, I think the 3ds would melt.
+    Kind of like how when the Ice Climbers were being tested for Smash 4 3DS and one of the test units melted.
+        Wait what? So thats why they cut them out
+            Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+the battle royal seems to have lag issues in general, probably because it's contacting 4 consoles at once and not 2
+It almost certainly is related to the limitations of the hardware. This is upsetting as I literally upgraded to a new 3ds for SM, but I understand that they don't want to alienate players with older systems or force them to buy new ones to play the game. I'm currently on the third island, but if there is anything like the Battle Maison (where I can double battle till I puke) available at end game I will be completely content. 
+Yeah I tried a battle royal on my old 3ds and it was painful, it dropped to like 10 fps
+I would assume that the map of the area is smaller due to being in a building instead of in a portion of the island, while also reusing as many assets as possible to reduce the resources required, making more of the map have areas with less overall polygons to keep the costs low, and eliminating the trainer models. 
+    Dang, I forgot about the trainer models. That's probably the main performance difference there.
+        Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+    This is what i was thinking, in the wild you see all these plants, rocks, weather conditions, Pokémon and trainers animations, shadows, and backgrounds. I might be wrong about the next statement, but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+        > but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+            Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+            That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+                Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+                    I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+        It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+            This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+                I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+                    I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+For me the royal is even worse. It makes me wonder if they originally wanted to release this on the switch
+Yeah that works too :)
+They're all called Grunt, sooo... EX-Fusion?
+Add a Mega Evolution and a Z Move in there for good measure.
+    And let's make sure we have the 6 largest models in the game all on the field at the same time. 
+        Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+        More like Moltres so you can literally melt your 3DS with fire.
+        Moltres
+It would have to try really hard to not be.
+    If it was just a straight port, it's not even remotely unheard of for performance issues to be a thing. That said, I kind of doubt Game Freak will make the mistake of just porting the game and not optimizing.
+        Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+            I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+                I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+                    Well both will be using ARM processors now.
+                PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+                    No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+                Oh god, is that why the PC version was so cheap? I just bought it as well.
+                    You can find fan-made patches that address those issues, so you should be fine.
+            Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+        Here's hoping for a sequel or third version, not just a port.
+People do. Run is about 6 hours long and they're still finding a good route. You should check out Keizaron and epicdudeguy.
+I still don't get it, why did they do that if even the New 3DS can't handle it without dropping frames all over the place? I can understand that most in-game battles are in the singles format and that runs smoothly enough since they got rid of 3D, but their official competitive format is DOUBLES and it's gonna look awful with that framerate! Not to mention it's gonna be so embarrassing playing battle tree multi-battles with a friend and watch the game turn into a slideshow.
+    The real problem is I think they were planning too far ahead.  
+
+Look at it this way, IIRC in Battle Revolution we still had a few models that persisted from the N64 era despite being nearly a decade old, and after the Pikipek modeling video people have been saying that the models are *way* beyond what is necessary for a portable game.  Looking at the amount of detail, polish, polygons, and the sheer number of animations for each Pokemon, I believe that these were made with longevity in mind to make them last as long as possible and to look good even on a console (with high-res textures, of course).
+
+I predict we'll see these models in every single one of the main games for *at least* another 10 years before we get a massive update like this again (which should coincide with both the 10th generation of Pokémon and the 30th anniversary).  They're pushing the 3DS to its limits to make sure everything looks great on the next system, like they did with Twilight Princess or Breath of the Wild.
+
+I also believe now they are working on a collection of overworld sprites to bring back Pokemon followers, although that seems to be an idea that was scrapped due to either time constraints or pathting issues with larger Pokemon.  Expect to see something with this feature in the Gen 4 remakes, but don't be too disappointed if it turns out to only be within Amity Square.
+        [deleted]
+             I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+                alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+True. I totally forgot they also put in the trainers.
+Didn't realize how weak the 3ds was. I know it's like 5 years old but I would think the N3ds would do a little better.
+
+Ah well if it comes out on the switch it could possibly feature it.
+    The N3DS is more powerful, sure, but they also have to maintain parity across the platforms.  This is why I never got a N3DS.    It's definitely going to render the game more smoothly, but they're also going to intentionally hamstring any major releases anyway to ensure the experience is enjoyable for the larger base of old 3DS users.
+        I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+            Thatd be a marketing nightmare
+                 Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+                    While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+    I thought that the game doesn't use the N3DS's new hardware other than the extra ram
+        it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+    Yeah, thats why whenever anyone says "The 3Ds has lots of life left in it" I shake my head
+
+Its had a good run, and solid devs are still getting good products out, but it's been showing its age since Sm4sh at least. Even on the New it still struggles often on a lot of major new releases
+They could've just made it a generic battle arena but that wouldn't be as fun and also like another person replied that they also are rendering the trainers on the screen as well.
+Nah, no chance. The double battles already lag to hell and it definitely looks like it's just some graphical slowdown. It doesn't happen in single battles so it doesn't make sense for it to be an intentional double battle feature. It's the only time in the game that the characters stand completely still as if somebody's paused their animation, even when they're just stood around in the overworld the NPCs all 'bob' slightly to simulate breathing. 
+    I don't think that's what they meant.
+
+It is likely intentional on the old 3DS to prevent as much lag as possible during the battle. We know part of the reason it starts up slower on the old 3DS is that it has to reset the system in the background to free up RAM.
+
+So it's likely doing the same in that split second when a Double Battle starts to make sure the battle itself is smooth.
+
+I don't know for certain that's what the pause is about, but I do know it doesn't happen on the N3DS/XL at all. Knowing they have the games do it once combined with that means it's at least possible they have it happen at other times too when they think it might need some extra processing space.
+        Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+> Don't quote me on this, but I think that's intentional. I've noticed it too, and it seems to be consistent, with duration, and when it happens. I see it as the game is trying to give one last look at the trainers before they send out their Pokemon.
+
+~ */u/regulus_corneas*
+Kind of like how when the Ice Climbers were being tested for Smash 4 3DS and one of the test units melted.
+    Wait what? So thats why they cut them out
+        Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+Dang, I forgot about the trainer models. That's probably the main performance difference there.
+    Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+This is what i was thinking, in the wild you see all these plants, rocks, weather conditions, Pokémon and trainers animations, shadows, and backgrounds. I might be wrong about the next statement, but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+    > but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+        Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+        That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+            Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+                I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+    It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+        This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+            I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+                I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+And let's make sure we have the 6 largest models in the game all on the field at the same time. 
+    Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+    More like Moltres so you can literally melt your 3DS with fire.
+    Moltres
+If it was just a straight port, it's not even remotely unheard of for performance issues to be a thing. That said, I kind of doubt Game Freak will make the mistake of just porting the game and not optimizing.
+    Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+        I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+            I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+                Well both will be using ARM processors now.
+            PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+                No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+            Oh god, is that why the PC version was so cheap? I just bought it as well.
+                You can find fan-made patches that address those issues, so you should be fine.
+        Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+    Here's hoping for a sequel or third version, not just a port.
+The real problem is I think they were planning too far ahead.  
+
+Look at it this way, IIRC in Battle Revolution we still had a few models that persisted from the N64 era despite being nearly a decade old, and after the Pikipek modeling video people have been saying that the models are *way* beyond what is necessary for a portable game.  Looking at the amount of detail, polish, polygons, and the sheer number of animations for each Pokemon, I believe that these were made with longevity in mind to make them last as long as possible and to look good even on a console (with high-res textures, of course).
+
+I predict we'll see these models in every single one of the main games for *at least* another 10 years before we get a massive update like this again (which should coincide with both the 10th generation of Pokémon and the 30th anniversary).  They're pushing the 3DS to its limits to make sure everything looks great on the next system, like they did with Twilight Princess or Breath of the Wild.
+
+I also believe now they are working on a collection of overworld sprites to bring back Pokemon followers, although that seems to be an idea that was scrapped due to either time constraints or pathting issues with larger Pokemon.  Expect to see something with this feature in the Gen 4 remakes, but don't be too disappointed if it turns out to only be within Amity Square.
+    [deleted]
+         I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+            alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+The N3DS is more powerful, sure, but they also have to maintain parity across the platforms.  This is why I never got a N3DS.    It's definitely going to render the game more smoothly, but they're also going to intentionally hamstring any major releases anyway to ensure the experience is enjoyable for the larger base of old 3DS users.
+    I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+        Thatd be a marketing nightmare
+             Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+                While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+I thought that the game doesn't use the N3DS's new hardware other than the extra ram
+    it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+Yeah, thats why whenever anyone says "The 3Ds has lots of life left in it" I shake my head
+
+Its had a good run, and solid devs are still getting good products out, but it's been showing its age since Sm4sh at least. Even on the New it still struggles often on a lot of major new releases
+I don't think that's what they meant.
+
+It is likely intentional on the old 3DS to prevent as much lag as possible during the battle. We know part of the reason it starts up slower on the old 3DS is that it has to reset the system in the background to free up RAM.
+
+So it's likely doing the same in that split second when a Double Battle starts to make sure the battle itself is smooth.
+
+I don't know for certain that's what the pause is about, but I do know it doesn't happen on the N3DS/XL at all. Knowing they have the games do it once combined with that means it's at least possible they have it happen at other times too when they think it might need some extra processing space.
+    Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+Wait what? So thats why they cut them out
+    Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+Yeah, I'm a little surprised actually that they didn't include an option to turn opposing trainer models off and reduce/remove Totem effects.  That would be a handy option that I would actually take advantage of, considering how significant the slow down is.
+> but it looks like the game was designed to take full advantage of the new 3DS hardware, and to draw every single bit of energy from the Old 3DS. Might need word on how it works in the 2DS though.
+
+All it is doing is the Smash Bros. 3DS trick.  [To quote what the difference is:](http://www.ssbwiki.com/Home_button)
+
+> Due to the high amount of RAM required to run Super Smash Bros. for Nintendo 3DS, users cannot use the Internet Browser or Miiverse during gameplay, unless one uses a New Nintendo 3DS, which features more RAM than the 3DS, 3DS XL, and 2DS, and can run these applications when Smash 4 is being played. This means that only players with a New 3DS can post screenshots of the game to Miiverse in the middle of the match, but you can still upload saved screenshots to Miiverse on both the New 3DS and the normal 3DS. All other functions, however, can still be used with the regular 3DS while Smash 4 is being played.
+
+---
+
+Edit: For context as to what the trick is, the game forces most of the 3DS to run in a special system to save resources at the cost of several 3DS functions.  This is why closing the game causes the 3DS to hang for a few seconds as it has to switch modes.  [For a second quote:](https://smashboards.com/threads/3ds-home-button-crash.387036/#post-18421291)
+
+> * When a CPU intensive game like Smash 4 or Monster Hunter 4 is booted, the 3DS is sliently rebooted into an expanded memory mode. This is why the game takes longer than other 3DS games to start up.
+
+> * When in this high memory usage mode, the home screen's allocated memory is reduced (Or so I believe), hence why it takes longer for the HOME menu to appear, and also explains why you can't use the Internet Browser nor Miiverse.
+
+> * The 3DS cannot exit this mode unless it is restarted. So, when you exit Smash 4, the game is programmed to reset the 3DS so that it can "refresh" it and put it back in standard memory mode, ready for whatever you're going to do next.
+
+---
+
+Edit 2: For my hopefully final edit, I also want to note that using the expanded memory mode apparently causes the battery to drain faster, which is why only a handful of titles use it.
+    Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+    That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+        Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+            I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+It CHUGS on the 2ds, every totem battle is a drag, double battles are rough, even using Z moves causes a pretty noticeable slowdown. Literally my only complaint about the game, which is sad because I want to experiment with battle tree doubles
+    This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+        I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+            I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+Don't forget to balance it out with your Zubats, though.  Gotta have that hyper wing - flapping action in there too.
+More like Moltres so you can literally melt your 3DS with fire.
+Moltres
+Even then...the new 3DS is less powerful than the Wii, as we can see from Xenoblade, and the Switch will be two console generations later and likely comparable (if not better than) the XB1 and PS4. Yeah.
+    I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+        I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+            Well both will be using ARM processors now.
+        PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+            No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+        Oh god, is that why the PC version was so cheap? I just bought it as well.
+            You can find fan-made patches that address those issues, so you should be fine.
+    Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+Here's hoping for a sequel or third version, not just a port.
+[deleted]
+     I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+        alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+I wouldn't even be upset if they did a limited run of N3DS-only copies that had a lot of the more GPU-intensive things applied and then released most of the copies more or less the way they are now.  That being said the N3DS still struggles in certain situations and it's surprising how often I notice the framerate drop.
+    Thatd be a marketing nightmare
+         Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+            While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+it does do better on n3DS but still drops frames like it is a PS4 or xBoxOne port of Fallout 4
+Actually, it does indeed happen on the N3DS XL, at least in my case. That's what I've been using, which was why it lead me to believe it was an intentional thing for double battles. 
+Officially, the 3DS was unable to process 8 separate CPU players if you had a 4 player all CPU all Ice Climbers game. 
+Huh, today I learned. I had wondered why it hangs on the Home/closing. Makes sense.
+That's the best read of the day, thank you for the link :) 
+
+I was in a phase of denial at first, i don't want to replace my 3DS (Back to X/Y release countdown days) but it seems inevitable, at some point nintendo  will release their new handheld (Probably and somehow compatible with the Switch?) And then the history will repeat istelf. I haven't really tested this, but do you happen to know if DS games run "Smoother" on 3DS? Wich leads me to believe: does this "Smooth/Enhanced gaming experience" hints strongly towards Nintendo DS games remakes? 
+    Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+        I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+This is unfortunate for both 3DS and 2DS users out there, perhaps Gamefreak is aware of this issue and maybe relase a patch? a hefty update to somehow fix this issue? because from what i've learned today i learned that the only way to fix the slowdowns is to improve the Hardware capacities of our handhelds, or (maybe a little crazy) downloading the Game Cache data in order to make the battles somewhat smoother? (i am not an expert, i just read about this issues when i face a problem, so any expert word will be appreciated).
+    I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+        I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+I mean, take a look at the Dark Souls: Prepare to Die edition port. PCs are vastly stronger than XB360 and PS3 but it was still a horrific port. The power of the console doesn't matter if the developer doesn't use it.
+    I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+        Well both will be using ARM processors now.
+    PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+        No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+    Oh god, is that why the PC version was so cheap? I just bought it as well.
+        You can find fan-made patches that address those issues, so you should be fine.
+Will it be better? I mean its just a tablet, the xb1 and ps4 are massive blocks of hardware even if 2 years old.
+ I think the problem comes down to the sheer number of models  they'd have to create low-poly versions of, not to mention the customization options making things complicated.
+    alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+Thatd be a marketing nightmare
+     Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+        While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+Some DS games should have better support on DSi+ handhelds, but that is all I know outside of the 3DS seeming to have a better battery life versus the original DS.
+
+As for remake speculation, I would say that there is no proof that it hints at anything.
+    I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+I assumed it was just a hardware program, but if they were was some downloadable software fix that would be great. 
+
+I wouldn't really mind if it was triple battles or some uncommon part of the game, but double battles, totems, and z-moves are incredibly common, and somewhat unavoidable. I don't know what the split is of how many people are affected by this, but for hypothetically 25-30% of people to have subpar experience because of this is a shame, and the only blot on an otherwise stellar game
+    I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+I'd imagine the 3DS and Switch architectures would be similar, not a completely different paradigm like PS3 -> PC, so that'll help them port it.
+    Well both will be using ARM processors now.
+PC ports are consistently bad because there is such a variety of different systems that the game will run on, so the devs can't tailor it to one specific set of hardware. 
+    No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+Oh god, is that why the PC version was so cheap? I just bought it as well.
+    You can find fan-made patches that address those issues, so you should be fine.
+alright, I guess it boils down to: why did they add trainer models on screen when the 3DS can't handle it? I'd trade that for stable FPS anyday. At least give an option to turn them off or something...
+ Right now the awful frame rate is a marketing nightmare...   I'd rather have an optimized and not as fancy version that ran well rather than one that will crash my system if I so much as go into a double battle.
+    While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+
+I agree with you, sure there are good reasons to remake Gen IV For instance (Better performance, Expanded areas, New mechanics, new soundtrack, expanded lore, Etc, etc...). But there's no rock solid proof, there's not an official confirmation yet. However about the Comparison between DSi and 3DS XL I've made a little research and got some results:
+
+- [Comparison between Nintendo DSi and 3DS](https://www.youtube.com/watch?v=XQVITiCGLcg)
+
+- [Gameplay comparison](https://www.youtube.com/watch?v=h0rWS6dMM2I).
+
+TL;DW: Best for 3DS games = New 3DS XL, Best for DS games = DSi XL, Best for GBA games = DS lite﻿.
+
+This means: "Final" Handhelds often bring the best performance overall, like DSi being the final step before jumping into 3DS, and how DSi manages to bring us the best experience (almost on par with 3DS) it seems like a natural process, this time [3DS is struggling against New 3DS](https://www.youtube.com/watch?v=CRhA5GX03NE), it comes as no surprise they released that [Black New 3DS](http://www.cpokemon.com/wp-content/uploads/2016/11/cpokemon.com_new-3ds-black-friday.jpg).
+I seriously was hopin' that the "full game" didn't had the lag of the demo totem battle, since i played the demo i thougth (What if my 3DS Lags?) and that thought haunted my mind until november 18th to end in a reality. 
+
+However this detail can stop the game from being Amazing, because is like playing a pc game on 30-40 fps instead 60. which is good but could be better.
+Well both will be using ARM processors now.
+No, they're consistently bad because most devs don't bother. Look at GTA V. It runs on an incredibly large array of systems.
+You can find fan-made patches that address those issues, so you should be fine.
+While I agree the crashing is a problem, it's worth noting that so far it happens inconsostently snd only at one specific instance (multi battle with hau on aether foundation)
+
+But it's not a marketing nightmare at all because they dont need to address it to sell the game. They won't have people buying the wrong product and being literally unable to play it (no, the frame rate does not make it literally unplayable) in a mass market scenario on the biggest sales season of the year where the name of the game is simplify.
+
+In order for this product to be successful from both a financial and consumer perspective
+
+- you'd need a major ad campaign to explain the differences between the two versions 
+
+- you'd need to upsell to the N3ds crowd without alienating the 3ds users. This has been a major issue for awhile with people holding off on purchasing the base game until the special edition version (ie emerald, platinum) came out, which is why they moved away from that formula with gens 5 and 6
+
+- you'd need to convince retailers to effectively double their stock of pokemon titles without any feasible increase in revenue (aside from a tiny handful of collectors)
+
+- you'd need to produce enough to satisfy the demand beyond scalping (as this is a specific niche market product rather than a general market one)
+
+- you'd need to make sure not to overproduce for the small market
+
+- you'd need to make sure there is enough in said small market to actually be worth development costs
+
+- you'd need to be able to reassure late adopters thst the standard edition works fine enough (something they've been adapting to with how they've handled event for instance)
+
+And that's jsut off the top of my head for super obvious glaring struggles thst wouldn't alleviate much of anything for the vast majority of users. And for what gain, a few more double battles?
+
+

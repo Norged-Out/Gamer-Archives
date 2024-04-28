@@ -136,7 +136,7 @@ public class WatsonIndex {
                 try {
                     Document newDoc = new Document();
                     newDoc.add(new StringField("docName", directoryName, Field.Store.YES));
-                    newDoc.add(new TextField("docData", accumulatedContent, Field.Store.YES));
+                    newDoc.add(new TextField("docContent", accumulatedContent, Field.Store.YES));
                     writer.addDocument(newDoc);
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -210,7 +210,7 @@ public class WatsonIndex {
      */
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        WatsonIndex engine = new WatsonIndex("testindex");
+        WatsonIndex engine = new WatsonIndex("watsonindex");
         
         try {
             System.out.println("Reading index");
@@ -218,7 +218,7 @@ public class WatsonIndex {
             for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
-                //System.out.println("text: " + doc.get("docData"));
+                //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
             }
             reader.close();

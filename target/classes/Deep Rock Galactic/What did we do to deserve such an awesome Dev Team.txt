@@ -1,0 +1,1988 @@
+[[What did we do to deserve such an awesome Dev Team]]
+
+
+
+
+
+Just wanted to add my two cents and a little clarification here:
+
+Firstly, we are truly humbled by the response we're seeing to the DLC update. Thank you all, from the bottom of our hearts. The entire team in here is super stoked about it - and relieved.
+
+Secondly, let me make it completely clear, since I get the impression there is some confusion on this topic still: We are adding just the PAINTJOB of the "old" DLC to the Performance Pass - not the entire DLC. Why? Simply because we thought it was a rockin' Paintjob, regardless of the initial public response. We trust you'll agree in time.
+
+The Framework (that is, the actual new meshes for the guns) is still the main attraction of the new DLC, and is the same one you saw originally, but now with new, added detail, and a brand new and sexier Paintjob. The less-detailed version of this will NOT be added to the Performance Pass.
+
+And thirdly, on a personal note, since I'm a dev myself: My heart goes out to the devs of all those big-profile games we see having a rough time out there. The devs are very rarely to blame for the delays or bugs. It is an exceptionally complicated process getting a game out - and infinitely more so the bigger a game gets. So, so many factors. This is in no way meant to be an \*excuse\* to release an unfinished game - but I do urge all gamers to realise just how much work and love and blood and sweat and tears go into every one of these games, on the part of the devs.
+
+Rock and Stone, Miners. Looking forward to sharing Season 04 with you, very soon. :)
+GSG Reaction to the promotion bug resetting the weekly core event:
+
+"Hey, you know what, this bug was well received, so we're reincorporating it as a feature."
+
+GSG Reaction to double jump being removed:
+
+"Look, I know it's a hard decision, but we really can't have auto-pick perks. We'll tinker with this, and maybe bring it back in a new form if we can balance it."
+
+GSG Reaction to save editing:
+
+"We don't care. I mean, you're kind of cheating yourself, progressively earning stuff is part of the game, but I mean, whatever -- just don't ruin anyone else's game."
+
+Blizzard's reaction to literally anything:
+
+"We're going to add another three paragraphs to our Terms of Use to make sure this never happens again."
+    Blizzard claims they'll listen to player feedback; then tell users to pound sand when they raise any issues.
+
+"WhY aRe We LoSInG pLaYeRs!?"
+        Oh, you reminded me of a funny Blizzard story.
+
+So, back in the Warcraft 3 days, their map editor was pretty legendary, and the arcade mode boasted all sorts of custom maps that became mainstays today, including an epic Helm's Deep map, the original concept of Tower Defense, and the original DotA.
+
+The guys who made DotA were a bunch of enthusiastic nerds, and of course they go on to make League of Legends.
+
+Blizzard sues, wanting a piece of the pie and saying, "no, wait, that was originally made in the Warcraft 3 engine, this is ours! League of Legends is our property!"
+
+Of course, they lose the lawsuit because they didn't make beans: neither the concept or the game were made by a Blizzard individual, they can't possibly claim ownership.
+
+Since then, they amended their Terms of Use on nearly all of their games: anything created using one of their map makers belongs to Blizzard, and the map maker surrenders all rights to what they create. You agree to these terms of use as you buy the game, and this is now a condition to buying and playing Starcraft 2, Warcraft 3 reforged, etc: Blizzard owns anything in their map editor; this is legal because you agree to this when you buy their game, and if you don't agree, you don't get to buy the game.
+
+...So out comes the map maker enthusiasts. They read the terms of service and are like "okay, sure", because the average map maker doesn't really care about owning their own map, they just want to play. Hey! I just got a great idea for a Warcraft map, I'm going to make an amazing RPG involving Snow White fighting off the 7 Evil Dwarves, and you'll be able to play as Mickey, Donald, and Goofy!
+
+Taking this hypothetical Disney map, pretend a hypothetical Blizzard lawyer just had their phone ring. They pick up: it's a hypothetical Disney lawyer.
+
+Disney: "Hey, why are you claiming ownership rights over our characters?"
+
+Blizzard: "What ownership rights? We didn't use any of your characters."
+
+Disney: "Yes you did, one of your players made a Disney themed map."
+
+Blizzard: "Well hold on, that's one of our players who did that, we don't claim ownership over- wait- shit, we *do* own that, don't we?"
+
+Anyways, Blizzard realized that since they *own* the things map makers create, they need to make sure their map makers are following copyright and licensing laws, and *good luck with that*. Classic maps like Helms Deep couldn't be rebuilt in Warcraft Reforged because, well, Lord of the Rings belongs to the Tolkien Estate. Runling Run in Starcraft 2 ran into a mess because they used a James Bond song. Forget remaking DotA 1, Valve owns that name now. Heroes of the Storm was supposed to have an arcade mode at some point, but they axed it; as a free-to-play game, they decided they couldn't control it if players just made new accounts to reupload 'banned' maps.
+
+Blizzard wanting ownership over what they didn't make lead them to completely stiffling their arcade modes, just because they wanted to snap up the rights to whatever new League of Legends tier game one of their fans decided to create.
+            I wasn’t expecting blizzard lore that could possibly make me dislike them more but here we are, thank you
+                Just when you think they reached a new low, you get reminded of the "don't you guys have phones" guy, and of the scandals regarding harassment on the workplace.
+                    I saw a post about that recently, it’s insane to see people so detached
+            You're a bit off. League of Legends was made in part by one of the original dota authors, but not the one who made DotA into it's most popular incarnation (icefrog). 
+
+Blizzard didn't sue Riot over League of Legends. They sued Valve over DotA 2, which was made by IceFrog. 
+
+As a result of that lawsuit, though not a victory for blizzard by any means several heroes which were closeish to blizzard IP were changed in lore and name (though moreso out of caution by Valve).
+                I'll never fucking forgive them for the skeleton king debacle. Would they truly have fought valve over ownership of the concept of a skeleton king??? Valve is pretty good in my book but they're not off the hook for selling skeleton king back to players as a limited time only exclusive cosmetic. I hate the games industry sometimes. Bless DRG and its devs...
+            This is peak Blizzard lol
+            Just more proof to show that the more a game company tries to tighten its grip on its own community, the more the community falls apart in their hands.
+            Man, this just makes me more and more depressed about how awesome Blizzard was in the late 90s and early 00s. Their fall from grace guts me everytime I hear about their company...
+            I was sort of referring to how blizz handled the Mercy changes years ago. They said they would listen to feedback and the community filled 4 mega-threads worth of discussion and complaints and we got basically told "haha fuck you!" by Jeff Kaplan.
+
+It wasn't the only case of that sort of behavior though, it honestly amazes me that ANYONE would support them. Between how they view customers, coworkers and human rights vs. China dollars.... they deserve to be boycotted out of business.
+        Do YoU gUyS nOt HaVe PhOnEs??
+            Hahaha i just wrote that in an answer, literally now.  
+I confirmed the comment and saw yours instead, truly an unforgettable moment, at least, i will be sure to remind people of this forever.
+    > "Look, I know it's a hard decision, but we really can't have auto-pick perks. We'll tinker with this, and maybe bring it back in a new form if we can balance it."
+
+Yet we still have auto-pick perks, and some that are less than useless.
+
+Not to take away from your praise and argument
+        They've explicitly said that they're aware that the perk system is outdated and in need of an overhaul. However, the sheer volume of work required to actually fix the system is more than they can spare at the moment. GSG is, for better or worse, an extremely small team for what they're running atm which means stuff that works "well enough" unfortunately has to take a back seat to other more pressing content. I imagine they're going to iteratively redesign the perk system internally over a couple of seasons and tell us about it when it's ready.
+            I would be fine if they just added more perks and fix some of the useless ones.
+                I wish there were some options for perks that are obviously intended for one class over another; that'd almost guarantee variety.
+
+As they are now they're all so general, and the good ones are so good, that everybody picks the same ones.
+                    I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+                        *downgrades platform gun to mk1*
+                            I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+                                Your laser pointer is your friend.
+                                    Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+                                Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+                        Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+                            Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+                                Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                                    And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                                    Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+                                But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+                                The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                                    I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+                        They could just make only stable OCs? I dunno
+                        Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+                    I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+                        And a big, bushy mustache.
+                        You really want to turn this game into a jump'n'run, don't you?
+                            No, they want Trolldier from TF2 added to the game
+                        Or maybe temporarily enables power attack if you're flying through the air fast enough
+                    I often pick the less used one for variety and nothing else
+                    I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+                        These are all really good ideas
+                            Of course there'd also be a few more options for each class
+                > just added more perks 
+
+I wish they made a pick nick active perk.
+
+You would use it and put down a bunch of food and beer that you could consume for HP.
+
+Would be good for when there is no red sugar and you don't want to use a resupply just to get full hp.
+                "just add" is *way* more balance work than you are implying.
+                    I'm saying compared to an overhaul
+            One thing I would love with the perks is having them much stronger then they are (for most) and putting all perks on the table against iron will or double jump vs bringing things down to the level of medic (I think to be on par with iron will it needs more charges) but that’s not a great example I just don’t remember the names that well outside what I run there’s a somthing hell that could be the median level of the game and I don’t want that reality I want them to be strong where it’s hard to pick perks because they’re all such good options but that’s just my take
+            If they will overhaul perks, i hope they put perks that gives bonus when you tag enemies like the one in Back4Blood. It's a way to better define the role of a scout.
+            And I will patiently wait for the day it gets an overhaul. It will be glorious
+        They mentioned perks in the anniversary stream a couple months ago, I feel like they are definitely aware of it and are working on it in the background. I wouldn’t say expect it for season 5 or anything but I just feel like it’s reassuring to know that they know about it and aren’t just going to ignore it or sweep it under the rug. Heck the new jet boots could possibly be introducing a new mechanic which will be expanded on to help tackle the perk system
+        They're less auto-pick than they were before, at least.
+
+Iron Will is still nuts, but at least it's capped out at once per mission. It used to have a (fairly short if I recall) cooldown.
+            [deleted]
+                I think Dash shouldn't be a perk, just a mechanic at all times. I'm too used to playing with it that I can never remove it.
+                    I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+                        i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+                            It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+                                I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+                        Same. My feet aren’t on the ground long enough to bother sprinting.
+                    Make it an armor upgrade
+                    I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+                    Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+                I play solo most of the time so medic has perished for me
+                I always pick medic to all my loadouts because of its passive.
+                Dash is the best perk imo, but I feel like every team needs 1-2 iron wills.
+                    I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+            I wouldn't be mad if they removed the active part of both IW and FM and gave everyone a single "Revive Charge" that can be used once per mission to either revive yourself temporarily or an ally instantly
+                Yup, this is the way to do it; that would fix IW being mandatory.
+        I'm fairly certain DRG runs into the same issue as any other game with "meta-sheep" regarding perks or buildpaths. They don't understand why they pick the perks they do, they just know someone who told them it was good and they will also tell others with different perks that they chose wrong, perpetuating a majority that follows a perk religiously despite not actually understanding the nuance of various perks.
+
+Because of this sort of scenario, even if GSG reworks the perk system from the ground up, "meta-sheep" will force a specific perk setup narrative regardless of the data, especially after watching a single Tier List video.
+            Where there's choice with mechanical consequences, there will be "meta" options, even if its a 1% difference
+            Idk, since the game isn't pvp, there is much less incentive to "play what works".
+
+I've tried berserker just as a challenge or wanting to try something new, it just sucks too much for me to enjoy it.
+                Berserk may be bad on its own, but it becomes worth thinking about if you're gonna combo it with vampire and iron will.
+                    I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+                    But then I'd have to give up Strong Arm!
+                        I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+                            Almost as addictive as red sugar.
+                        It's not that bad solo with anything but scout.
+                I think thats fair. Berserker is hard to use optimally, but combined with the armor rig upgrade for boosted limited time invulnerability upon revival and/or vampirism, you can get back up into a fight and clear a large creature or big swarm with a melee drill build. Or even just the Better Weight Balance mod, you get a power attack every .90 seconds.
+
+But for my Ganondwarf melee Driller? Would be really sad if it got nerfed/removed.👍
+            Absolutely this.
+
+Many people think hover boots are a crutch perk, but the level of complete autonomy it gives my scout means we mine more nitra faster and that I can get a bird's eye view of the swarm, tag and hit important targets quickly, all while being at little to no risk (mactera permitting). And hey, if I mistime a grapple + power attack, I've got my own back and my team doesn't need to divert attention to rezzing me
+                I think the key is do you play with buddy’s or do you random it? Idk, only reason I ask is because I do pick perks differently myself depending.
+
+What you describe here is how I play when I’m on voice shooting the ~~shit~~ bugs with the bros. We normally all pick steve because it’s steve, and that’s the only reason we ever really have had.
+
+Vs. when I am just playing in a random group; I much prefer to stick to the dash+iron will combo in case of the “worst case scenario” I can make it to the resupply pod/red sugar and then save the team…in theory ;)
+        The core difference is the current auto-picks (iron will and dash) very rarely result in a player being completely screwed the entire mission if they don't have it and everyone else does. Dash has a decent cooldown and when it comes to navigation it can in niche areas make an impossible jump.
+
+Double jump however completely changes how people use their team mobility tools and basically made anyone who didn't take them drag the entire team down
+        GSG should definitely buff the underwhelming ones instead of nerfing the good ones. Perks like Iron Will are balanced as they are, they just need some actual competition.
+        there are certainly clear and definite high tier and low tier perks, but its really not all *that* bad. sure, it may be easier to just slap on the meta perks 24/7 and have a consistently good build; but basically every perk in the game has at least some situational value that can make it worthwhile to replace an S tier perk. with just some minor buffs to the niche perks it could be perfect; no major reworks necessary.
+        What's an auto pick perk?
+            A perk that is very good compared to all of the others, so there is little to no reason not to take it
+                So like field medic and iron will?
+
+I always take vampire, thorns, and elemental resistance for the red ones. Bc the trade off fpr not having them is better then the other perks imo. Do I got that right?
+                    Auto reload as third for gunner
+                    IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+                        I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+                    Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+                        resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+                            Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+            Perks that most people pick because they are the best ones
+            A perk so good that you'd be a fool not to include it in your build. Biggest example is Iron Will, since it allows you to clutch when your whole team goes down. Most other perks do not have the universal usefulness of this one, so that's why Iron Will is considered an "auto-pick."
+            Iron Will. Not taking it risks wasting everybody's time on haz5 (and haz4 if you're playing with greenbeards.)
+
+People have been autopicking it since it got added to the game.
+
+It should just be a core mechanic tbh (1 free self-revive, no buffs or anything necessary.)
+            It's a Bug Thing
+        Idk, I truly don't have any auto pick perks that go on every single dwarf. I guess I have class auto picks? But like, idk. Kinda fine with that.
+
+Like, I'll always take iron will on most things minus scout, I'm always gonna take heightened senses in a scout build, and I'll always take dash on engi.
+
+But idk, I'm kinda fine with that?
+        Yea, it's a bug thing is waaaay too strong atm. It is absolutely an auto pick for me.
+        Perk system has needed an overhaul for a while. But they've been pumping out quality content for so long that it really doesn't bother me that much. GSG can take their time, they've earned it.
+        Which ones are auto picks? There's some that are auto picks for me personally, but I can't see them being auto picks for everyone.
+    blizzards reaction to their own promises for overwatch 2: nah
+    Normally I don't take sides for devs, many games grabbed me by the wrong beard, but man, GSG seems so passionate about DRG it is unreal! Im glad that we get to have such a nice Devteam working on such a good game, it reminds me a bit about older times
+If someone of GSG reads this: I love you guys, take care, do breaks and never forget to ROCK AND STONE!
+        Rock and Stone, Miner.
+        Rock and roll and stone!
+            Did I hear a rock and stone brother?!
+    >Blizzard's reaction to literally anything:
+
+> Guess which Overwatch character was [insert random characteristic] all along!
+    I liked how the community respond which is people themselves don't want to cheat.
+    I really appreciate the save editing. This allowed me to by the game on steam again and convert my progress from PC Xbox to steam without to start from the beginning.
+    blizzard "your fun was unintended" entertainment
+    Slight amendment; 
+
+GSG reaction to save editing: "So long as you don't unlock Overclocks, you're good."
+    Promotion resets weekly core quest?
+        I'm pretty sure it just gives you some cores when you promote now and doesn't reset the core hunt like it did in the bug.
+        Yeah idk, I’ve heard about it but this doesn’t happen to me.
+    Bungie:
+
+Ah yes players can get a good chunk of materials in a super tedious boring grind that is infinitely more rewarding than our actual game because we’re so damn stingy. Patch it in less than 12 hours. Oh? Audio bug so bad some console players can’t hear because it’s a sound loop playing at max volume infinitely? We’ll get to it. Next season. Until then just mute your game audio in a PvPvE game 🥰 good luck and get fucked
+    Fatsharks Reply:
+
+"........"
+GSG sticking to the old school idea that a happy customer is a loyal customer and loyal customers will want to keep buying your products. It's a rare mentality today, sadly.
+    Yeah. I don't normally buy DLC's purely for cosmetics, but I have bought the supporter stuff for DRG because the game is awesome and the team is awesome.
+        Me and my buddy do this, or did for a long while, because he felt guilty platoon the game so much and paying them so little for the entertainment it provided. He eventually fell off and I don't play like I used to, but I've got over 800 hours in it. It was worth every penny.
+        DRG is one of those games where I wish it had more cosmetic DLC because I want to give them more of my money for the hundreds of hours of joy this game has brought me.
+        When my paycheck from the new job arrives Im gonna buy everything full price.
+
+These mfs deserve it.
+    Old school? Yeah. Does it work? Absolutely.
+        I don't think it pulls in as much $$$ as the scumbag strategy though. Loyal fans will always be outnumbered by idiot fans
+            Unfortunately that is really true, which is why (many) triple A companies keep doing this
+                Idk, market research is not exactly scientific in its standards of evidence and rooted in tradition and "it works before." Which is empirically better given a matched game, matched advertising budget... etc. 
+
+It'd be a hard question to actually empirically answer, and maybe I'm just being nieave, but it idk.
+            That's why voting with your wallet doesn't really work these days. When it comes to things like microtransactions, there will always be enough whales willing to dump hundreds into a game to make up for a handful of people sticking with their morals and not spending their money.
+    The funny thing is that many of my business classes talked about this when I was getting my degree like 15 years ago. In retrospect from meeting a lot of other people with business degrees, I appear to be one of the few that paid attention to this rather than doing lines of coke along with forgetting that revenue - expenses = profit/loss.
+    Well that won't do, would someone think of the poor starving shareholders?!??!!
+    I know we're biased but it seems to be working. DRG is the only time I've bought a supporter dlc solely to support the devs.
+    I normally have 0% interest in cosmetic dlc, but I buy every DRG release to show support. And then I figure if I have em, I'll use em! I'm not really buying the cosmetics, though, just paying my optional DRG subscription fee. It just comes with free cosmetics when you do that. I wish they'd charge me more often, though.
+    Just like old school runescape.
+        I don't know if it's the same now, but when I played Warframe I would also put that in the same tier of actually seemingly to care about the player base.
+    I got this game for free on PS4 like 2 years ago thinking I'd barely play it
+
+I'm still playing it on PS5, nearly a 3 star silver driller. It's so simple but fun, great break from salty and competitive multiplayer games. Rock and stone comraderie ftw
+        Rock and Stone!
+When I went to university, they offered a specialty semester of game development. It was a pretty cool semester with cross functional teams, lots of talked from industry people, etc.
+
+The guy who led it was a super cool dude who was obviously super passionate about games and the industry in general. He was also super candid about some of the working conditions which ultimately was part of what led me away from that industry. But such a cool program with such good people.
+
+Anyway, that guy is now the CEO of Ghost Ship Games.
+    [deleted]
+        I'm just glad nobody got thrown off of hell in a cell and plummeted 16ft through an announcer's table.
+            Or beat with a pair of jumper cables
+        Albert Einstein is the CEO of ghostship games? Amazing, I had no idea he was even real. Everyone always told me he was theoretical.
+    Yeah I love game development, but I'm so glad I never pursued it as a career path. Cybersecurity pays great and I still enjoy game development because it's a fun hobby to have.
+I appreciate how much the devs actually listen to their community 
+
+It reminds me of how active landfall's social media person is and how she answered questions and even poked gun at things
+    Tabs is great
+        Tabg is great
+            SWAWS
+                *I know what this means*
+                SWAWS
+
+*°throws white box with SWAWS on it°*
+
+***EXPLODES***
+    FLOP AND WOBBLE!
+Correct me if I’m wrong, but we’re *just* getting the old **Paint job** not the old framework, correct? I’ve seen a few people point that out and tbh I wanna make sure.
+    Yes, just the paintjob.
+    Correct. The reason(I assume) is because it’s the same framework but improved. If you look underneath the new vials and all that it’s the same framework.(not criticizing btw, I’m loving it)
+        Yeah, the DLC framework is the previous one but with more detailing, greebles and glowy bits. It's impressive how much it makes a difference though, especially with the higher contrast paint job.
+Don't hit on the poor overworked and underpaid ant workers from AAA studios. All they can do is follow direction from upper management.
+
+(I do like the meme tho)
+    That's fair and I agree. I should've framed it differently.
+        Hey, dwarf! You make this team really wholesome!
+    Rock and stone union man
+    For real, blame the arseholes in charge not the abused workers
+    [removed]
+        [botted/copied comment](https://www.reddit.com/r/DeepRockGalactic/comments/13vz50i/what_did_we_do_to_deserve_such_an_awesome_dev_team/jm8uuyh/)
+Nothing they chose us to bless we owe them everything
+Did I hear a rock and stone?
+    Rock and Stone everyone!
+        Good bot
+            Thank you, Bondorian, for voting on WanderingDwarfMiner.
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).
+
+***
+
+^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)
+        Rock and stone!
+            For Karl!
+                For rock and stone!
+What happened with the DLC? To which DLC?
+    [deleted]
+        I'm a little sad for the guy who worked on the original concept though, maybe he really liked it.  
+I can understand that, not everyone has the same tastes in anything, even game's skins.
+            That's why they added the original paintjob back!
+
+"And don’t worry, those of you already cracking your knuckles to tell us you liked the old Paintjob: The Paintjob you saw in the first trailer will be added to the next Performance Pass, because dang it, we really liked it!" - from the Steam post.
+        The Yellow power tool skins? And they remade them? Oh nice.
+
+(Also releasing the old ones for free is a really good move since adds content at no cost since well... they already made the skins why delete them.)
+
+I want the yellow beam cutter, just because it looks like an actual tool space engineer tool that became weaponized like in Dead Space.
+        What were the community complaints? I watched the reveal and thought they looked pretty great. Hell, I think I might have been the most excited I had been for a DLC, or close to it.
+    Yeah, im kinda lost too.
+    https://www.reddit.com/r/DeepRockGalactic/comments/13vvza7/made_a_comparasion_between_the_old_and_the_new/
+The devs actually want to foster and make a game that you want to play, instead of trying to just fleece you for more money without putting in effort
+
+Im looking squarely at you *Apex Legends*
+    the sad part is that if your skin isn't a gold skin, and its epic or below it becomes a lazy recolor.
+To the dev team: ROCK AND STONE YEW BEAUTIFOL DWORFS
+    Rockity Rock and Stone!
+        Good bot
+        For Karl!
+This is doubly scathing having come from Dark Tides recent Update #10 where they gave a bunch of "new" cosmetics to an in game credit shop which are all existing gear from progression but recolored, AMD GPU users can't launch the game at all without it crashing instantly. And one of the two new maps/missions they added they put behind a community challenge to do 900k missions in game.
+    Don't forget, one of the community goals is a hat. The same hat they've given the community three times now, but with a skulls decal on it, because it was "skulls week"
+
+When the goal unlocked, and people started claiming the hat, it was quickly realized that fat shark forgot to put the skulls on it. So it's just a hat.
+        Ironically and sadly there's something so very 40k about that.
+    I was excited about the new update and could not even start the game because of the AMD GPU. And the helmet with skull skin not actually having the skull skin in game is cherry on top. It is a shame. I am huge 40k fan and playing missions is so fun but the rest of the game is kind of awful. I tell everyone who ask me about the game to not buy it until it is worth the money.
+        Its why I jumped over to DRG, because Darktide on release was so underbakedand rushed to meet release quotas. Don't know what state its in right now, not good I bet.
+            It is better now. I think right now it is about the level it should have beeen at lunch. It went from really bad to mediocre rating on steam and I think that it is pretty accurate. I would give the game more time for the devs to properly fix all the stuff.
+To G.S.G: as one googly eyed YouTube said "I LOVE YA PIMPS"
+
+ROCK AND STONE M8. your the best out there.
+    Who said that if I may ask?
+        Here you go mate: https://youtu.be/ZJvyhulnAlA
+To be fair GGG could just be swapping another skin from the season pass with the DLC one and we wouldn't be the wiser. But they are cool about it, so even if it's true, it's okay
+    I mean, it's a free pass with a couple dozen other cosmetics to enjoy, so I'm all for it regardless
+Don't play much these days, but terraria devs and drg devs deserve a pizza party
+    All of them are cracked. 90% of indie devs are really. Smaller games and teams, that are more often than not better than most AAA titles.
+        Last I checked terraria was the 11th most sold game worldwide
+            Wow! I knew it was popular, but jesus
+                Lol
+Fuck off with the devs being the problem, it's the higher ups giving the devs impossible deadlines for the game to be complete
+    OP already stated that they should have made it the higher ups and not the devs in a reply to the second top comment
+    Indeed. It wasn't intended to shame the honest Game Devs out there that try their best.  
+It was a mistake on my part
+    bro why are you so mad?
+    Some dev teams are just legitimately incompetent, but more often than not it is the higher-ups Especially dev teams that act like a revolving door, where as soon as a dev learns how the game is balanced and releases a legitamately good change, they leave the team. *Cough BHVR Interactive cough*.
+
+Unrelatedly it honestly feels like the plot to Hitchhiker's Guide to the Galaxy, where as soon as someone figures out how to fix all the problems without getting put on a cross, aliens come to destroy the entire planet to build a superhighway in space.
+Lol "we know, we don't care."
+
+Classic.
+Idk, but I want more of this. Quality games with room to grow that actually DO grow, and devs that care about their product and have control over the project and monetization. 
+
+There's a reason DRG is basically the GOAT when it comes to player enthusiasm.
+Such a breath of fresh air. I have to deal with Niantic and it’s night and day how well Ghost Ship treats their player base compared with Niantic’s subpar offerings.
+    ROCK AND STONE!
+    Rock and Stone!
+        For Karl
+Goated devs as the youth would say
+v
+    V!
+GSG being awesome is why I haven’t completely given up on gaming as a hobby.
+Oh wait, are they adding the original dlc paintjob for free?
+    yeap, will be one of the season pass rewards
+The day AAA studios understand that happy customers spend more it's going to be glorious.
+I still can’t believe that these kind of devs still exist… 
+ 
+ 
+Truly a rock and stone moment
+    If you don't Rock and Stone, you ain't comin' home!
+I saw a picture on a video game subreddit talking about various gripes with the game industry the other day. Games being massive, games promising graphic quality and then falling short, glitches, etc. And while reading it I just thought 'I'm glad DRG doesn't have these problems.'
+Sorry I'm out of the loop, what are they doing with DLC stuff?
+    No need to be sorry. I should've added the [original Dev post](https://www.reddit.com/r/DeepRockGalactic/comments/13vsn3j/decontaminator_pack_changes/?utm_source=share&utm_medium=web2x&context=3) for better context.
+        big thank
+Totaly agree with you but just a quick reminder that most AAA games are ruined by marketing or executives and not the devs.
+
+Cyberpunk 2077 and Overwatch 2 had realy passionate teams working on them, but greed ruined everything.
+
+Imagine working for 6 years with the awful blizzard working conditions only to be told that we don't need all your work because it's not as profitable than diablo immoral.
+Fuck Blizzard.
+
+Rock and Stone brothers and sisters
+    Did I hear a Rock and Stone?
+One thing i would like to say is that it is rarely the devs fault when a game is bad, corporate is almost always to blame.
+DRG Devs making a bad DLC or Update Challenge (Impossible)
+
+ROCK AND STONE!!
+    For Karl!
+Next I hope they listen to feedback on Overclock and weapon balance. Hopefully some good nerfs and buffs in Season 4.
+
+OCs I think are too strong: NTP, Hellfire, Embedded Dets/Cryo Minelets, Hipster, Burning Hell, Volatile Bullets, Volatile Impact Reactor, Lead Storm, Stick Fuel, RJ250 Compound
+
+Honorable mention: Cold/Heat radiance mods
+
+OCs I think could be better: Minimal Clips, Active Stability System, Thinned Drum Walls, **BULLET HELL,** Sticky Additive, Flow Rate Expansion, AG Mixture, Mega Power Supply, Gamma Contamination, Super-Slim Rounds, Light-Weight Rounds, (all LOK-1 OCs besides Explosive Chemical Rounds and Executioner), Magic Bullets, Micro Flechettes, (all Armskore OCs except Mole and Hellfire), Battery Shield Booster, **Double Barrel,** Plasma Missiles, Fire Bolt.
+
+*Note: many of these aren't "bad" per say, but just outshined by better Overclocks. I'm sure some of these are someone's favorites but in general they're just rarely picked.*
+
+Honorable mentions: LOK-1 could use an extra 25~ish base ammo.
+
+Things I'd just like removed/fixed/changed:
+
+
+- Fire Rate affecting reload time, making stuff like Boomstick's T2A objectively worse than its T2B mod.
+
+
+- Armor Break is just a pretty weak pick in most builds. If breaking armor caused bonus damage to the enemy then this would make Armor Break a sexier option.
+
+
+- All instances of Homebrew Powder (mods or OCs) just removed and replaced with a 1.2x damage multiplier, or something more interesting.
+
+
+- Subata Auto-fire should be a base effect, replace Auto-fire OC with a Balanced OC that buffs rate of fire with a less harsh spread penalty
+
+
+- Most Jury-Rigged Boomstick OCs are just plain boring. This is a bit of an extreme request, but I wouldn't mind if GSG just re-did most of the "Gen 1" Overclocks to be a little more interesting. OCs that *are* interesting like Special Powder can, of course, stay as they are.
+    Hard to tell since they don’t really announce weapon balances like how they tease new enemies but I definitely do feel like they are always listening and searching for things and ways to balance
+    Not wanting to rain on your parade but want you to have expectations set accordingly. The only major change the devs have talked about is coming for the Subata and they haven’t mentioned anything else so I wouldn’t get your hopes up for a lot of changes on the weapon and overclock front.
+    Can someone really explain how the F to use plasma bursters? As a Gunner main I still can't figure it out. Is it really JUST THIS BAD? Or does it have any niche use at all? Is it really only good for flying enemies that you can keep your rocket launcher pointed at?
+
+Sorry but everything, even no overclock, is better than plasma bursters.
+        I heard someone tell me that Plasma Bursters are supposed to be used more like a guided death cloud instead of one off missiles. I enjoy it in that capacity, but the singular missile are really weak.
+            the problem is that if they hit the ground (hey most bugs are on the ground, right?) that they disappear... so it's like, maybe good for mactera plague or phase 2 of the heartstone.... but I can't figure out anything else.. Maybe season 4 will give it more use.
+    You leave my RJ250 compound alone.
+        Don't wanna nerf any of the rocket jumping ability, just think the ammo bonus is too good. You can use RJ250 without rocket jumping at all and it's still pretty much a base upgrade to the weapon.
+    Active Stability System, Bullet Hell and Fire Bolt definitely don't really need any buffs. The only change or buff to Scout would probably be more ammo to his weapons.
+        Bullet Hell certainly needs a buff. It struggles to perform better than a non-Overclocked Minigun, that's saying quite a bit. As for Stability and Fire Bolt, I'm only talking very minor buffs. super teeny. Nothing big.
+            Bullet Hell allows you to hit weakpoints and enemies that you can't see, stun an entire horde in seconds, and has enough ammo to challenge God himself.
+
+Sure, it's no Neurotoxin, but if you think with portals a little it's a surprisingly effective blast.
+                Why stun an entire horde when you could just be killing the entire horde instead? Bulldog with explosive rounds can easily stun a wave while also doing decent damage and not wasting a ton of ammo to kill stuff.
+
+Look, if you already think Bullet Hell is good, then a buff to it wouldn't be bad, right? The damage penalty is just too much.
+    never nerf unless it is completely broken, always buff
+    Man, I’ve been wanting a lol rework for so long. Every almost every OC and mod screams “wave clear” and yet it doesn’t have the ammo for that, making the only viable builds slight variations of 1,1,1,1,1/2,1,1,1,1.
+Triple a devs should have crying mask with smug face, still 10/10 meme
+    I thought the same thing. Pretend to care, but don't, like the box says
+*cries in heresy*
+ROCK AND FUCKING STOOOOOOONE!
+
+Honestly, you guys are the best.
+Rock and Stone my friend rock and Stone
+Chad to Chad communication
+Rock and stone you beautiful dwarf!!!
+    !lraK roF
+Should both be saying rock and stone.
+I'm just saying, dont blame AAA devs please.  They're already being crunched and abused in the workplace, dont blame them for the decisions and deadlines of their superiors.
+The developers don’t get to decide shit like this, guys.
+Sorry, this rings really hollow to me when female PCs are considered too much work and "in limbo" . I really enjoyed the game when I played it, but I can't say the devs are listening to feedback when they still aren't making this a priority.
+
+> [“We will not be able to promise that it'll ever come, but we will not say that it will never come either. So it's in limbo.”](https://www.thegamer.com/deep-rock-galactic-female-dwarf/)
+
+I know I'm gonna be downvoted. Idc. It's straight up mysgnostic BS.
+    not every game needs a checkbox of representation for every gender/race/sexuality, if thats such a big hurdle to you, then nothing is stopping you from playing other games with an actual character creator, just saying.
+
+tbh, i for one,see no problem in playing female characters on female character only games(hell even games that let me choose to be either female or male, going female is sometimes fun)  you should try the same, it won't make you any less feminine or diminish your identity as a woman just because you are playing a male dwarf on funny "rock and stone, shoot bug, mine bismor simulator".
+        Rock and Stone, Brother!
+        “checkbox of representation” lmao ok not sure how you extrapolated that from someone asking for female characters
+        Yeah, as 50% of the world population I'm a real special snowflake. 🙄
+
+> going female is sometimes fun
+
+But not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again? If it was such an obvious assumption that charcters are girls that there some game devs would even forget males exist? Totally ignoring the concept. If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded". 
+
+> You should try the same
+
+I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+You're not the "default" person.
+            >but not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again?
+
+I do play female characters when im giving the option from time to time, whenever i play MMOs i pick girl avatars cause they look cool, also some of my favorite games you are locked in playing a female protagonist only such as:
+
+* Touhou Project (all the cast is female)
+* Portal 1 & 2
+* Slime Rancher 1 & 2
+* Control
+* Tomb Raider
+* Transistor
+* Senran Kagura series(everyone is a female there too)
+* Nier Automata (you play as 2B for the most part)
+* Horizon Zero Dawn
+
+just to name a few...
+
+>If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded".
+
+no, not everything is made for me,i'm open minded, i don't mind at all if there are no males in a game, in fact my most beloved franchise is the *touhou project*, and almost everyone there is a female(except rinnosuke which is just an unimportant shopkeeper) the game is a 99:1 ratio female to male, and you don't see it's fandom having a meltdown or a tantrum over that.
+
+in fact, i would go as far as saying you only see girls like you having a meltdown over "lack of female representation" in video games. Funny how you don't see male gamers spewing chauvinist discontent whenever we are in the opposite side of the coin.
+
+>I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+no, actually not really, i cannot think of many games where playing male is your only option.
+
+* deep rock galactic
+* team fortress 2
+* Super Mario Games?
+
+yeah, i think thats it.
+    You assume space dwarves even have human-like genders. Pretty sure they identify as "dwarf". Except for the driller, who identifies as "insane dwarf".
+        > It's easier for me to pretend women don't exist than to acknowledge criticism of a game.
+    The lack of female characters in a game like this is easily justifiable by handwaving (corporate only hires men, there are no such things as female dwarves, etc.), but that's so unsatisfying if you feel like you aren't represented, and there's no reason you couldn't be. And compared to some of the stuff I've seen on this subreddit, I have no reason to do anything but upvote you.
+    Feels like an extreme reaction but rock and stone. Maybe some day we'll get female dwarves and you can join us in Hoxes.
+        Rock and Stone everyone!
+I use mods to make the game a bit easier. I use an inf ammo mod cause having to stress about ammo doesn’t really make the fun that fun to me. But I don’t spam fat boys cause I know that probably takes the fun out of the game. I also give myself resources so I can infinitely buy people beers, R&S, and buy all the cosmetics. Some people notice and most didn’t care but a few people got really mad over it. I’m not changing the game, just making it more enjoyable in my opinion.
+people didn't like the cosmetic dlc????
+
+I was ready to buy that up
+    I thought it was good. Colors weren't my thing, but neither were most of the other color schemes, and that's ok, I could change it anyway. Still excited for new frameworks
+*inserts FatShark.png*
+What happened?
+    Take a peek at the thread currently stickied on the front page by GSG_Jacob.
+        Thanks friend!
+You bought the game fellow miner!
+I am coping so hard for diablo 4, but in the end i know i will be back here 😭
+They're adding the others for free?! Bruh i cannot give these Devs enough money
+Honestly, it's just always nice seeing studios who are driven by passion, maybe money to some extent, but mostly passion.
+what was the feedback?
+    the original season 04 DLC weapon/skin pack looked mid af 5/10" so they improved the bling on it, whilst making the original bling free on the next seasonal battle pass.
+Legendary DevTeam, one for the ages
+Shoutout to games with great devs!
+
+DRG obviously
+
+Rimworld
+
+Worldbox
+
+All devs that know what's up. Worldbox progress has been slow since the war started, but that's more than fair lol.
+GsG is just the representation of a Gigachad this game needs more love 
+
+ROCK AND STONE!
+    To Rock and Stone!
+DRG DLC is the only cosmetic DLC I've ever bought and I don't regret it one bit.
+Bullying works!
+WHERE THE FUNGUS BOGS IS THE OTHER ROCK AND STONE?
+    Did I hear a Rock and Stone?
+Gimme a Rock and Stone!
+    Can I get a Rock and Stone?
+        Good bot
+Rock and Stone!
+    For Rock and Stone!
+Rock and stone.
+    Rock and Stone everyone!
+Chad developers
+Developers don’t make these decisions…
+This company is wat too good for us, im seriously wondering how they make enough money to be able to keep pushing out updates
+Darktide and their nothing patches in a nutshell.
+Wow this is great, I wonder how my other favorite space coop shooter r/darktide is doing with their cosmet- oh no.
+Hmmm... Let me get my wallet ready...
+Though I do find that even the updated DLC is still underwhelming (Not bad by any means but not great either), just isn't different enough from what we already have nor does it really stand out in terms of the decontaminator theme and the lack of new armour kinda sucks, I think in terms of cosmetics armour is the one lacking the most since we have so few options not to mention so many of the paintjobs for armour look the same, armour is in desperate need of an update.
+
+That being said it is great that the devs listened and made tweaks and even gave us new paintjobs as well, will definitely buy the DLC to support good developers, great job by GSG and thanks for such an awesome game.
+I also love GSG for letting us mix the Cosmetic DLC.
+I love my Biohazard Dark Future Driller.
+Rock and Stone brothers and sisters
+    Rock and Stone!
+ROCK AND STONE
+    Did I hear a Rock and Stone?
+This is proof GSG is the BEST game devs out there, Bethesda is nothing compared to them, not EA, not Microsoft
+Hmm. As soon as I pass my exam I'll install steam and DRG again and buy one of the DLCs. Just to throw some money at these guys. I don't even care about cosmetics that much, but I care about supporting business practices I'd like to see more of.
+What?
+
+Wait so the yellow paintjobs which were announced will be added in the battlepass/gamepass/whateveryouwannacallit??
+Not just answering the feedback, not just improving the DLC, but then including the OG cosmetics. I would buy a T-shirt if they had a merch shop!
+We fight - for Rock and Stone! (sorry I just couldn't hold it)
+    !traeH eht ni enotS dna kcoR
+I wasn't around for the initial wave of comments, but I honestly thought the first iteration of the designs and colour schemes were appropriate enough.
+
+Didn't realize that the community went reeling over it. But I'm also very happy with the new visual updates, GSG is too good to this community sometimes. Rock and stone, brotha!
+    !enotS dna kcoR !sdal ti s'tahT
+ROBERT!!!
+ROCK AND STONE OR YOU AINT COMING HOME
+Rock and Stone! I salute for the best game devs in the world!
+    Did I hear a Rock and Stone?
+        Aye! ROCK AND STONE!
+We played the game at it is very silly
+Honestly I've been asking this for years.
+Gosh I love GSG. I have no regrets about purchasing both supporter packs just to say and show that I’m a supporter.
+[deleted]
+    Rock and Stone, Brother!
+How does this game perform on the Steam Deck?
+GhostShip and Velan Studios are the only ones I trust amazing folks.
+FOR ROCK AND STONE
+    Rock and Stone everyone!
+Blizzard claims they'll listen to player feedback; then tell users to pound sand when they raise any issues.
+
+"WhY aRe We LoSInG pLaYeRs!?"
+    Oh, you reminded me of a funny Blizzard story.
+
+So, back in the Warcraft 3 days, their map editor was pretty legendary, and the arcade mode boasted all sorts of custom maps that became mainstays today, including an epic Helm's Deep map, the original concept of Tower Defense, and the original DotA.
+
+The guys who made DotA were a bunch of enthusiastic nerds, and of course they go on to make League of Legends.
+
+Blizzard sues, wanting a piece of the pie and saying, "no, wait, that was originally made in the Warcraft 3 engine, this is ours! League of Legends is our property!"
+
+Of course, they lose the lawsuit because they didn't make beans: neither the concept or the game were made by a Blizzard individual, they can't possibly claim ownership.
+
+Since then, they amended their Terms of Use on nearly all of their games: anything created using one of their map makers belongs to Blizzard, and the map maker surrenders all rights to what they create. You agree to these terms of use as you buy the game, and this is now a condition to buying and playing Starcraft 2, Warcraft 3 reforged, etc: Blizzard owns anything in their map editor; this is legal because you agree to this when you buy their game, and if you don't agree, you don't get to buy the game.
+
+...So out comes the map maker enthusiasts. They read the terms of service and are like "okay, sure", because the average map maker doesn't really care about owning their own map, they just want to play. Hey! I just got a great idea for a Warcraft map, I'm going to make an amazing RPG involving Snow White fighting off the 7 Evil Dwarves, and you'll be able to play as Mickey, Donald, and Goofy!
+
+Taking this hypothetical Disney map, pretend a hypothetical Blizzard lawyer just had their phone ring. They pick up: it's a hypothetical Disney lawyer.
+
+Disney: "Hey, why are you claiming ownership rights over our characters?"
+
+Blizzard: "What ownership rights? We didn't use any of your characters."
+
+Disney: "Yes you did, one of your players made a Disney themed map."
+
+Blizzard: "Well hold on, that's one of our players who did that, we don't claim ownership over- wait- shit, we *do* own that, don't we?"
+
+Anyways, Blizzard realized that since they *own* the things map makers create, they need to make sure their map makers are following copyright and licensing laws, and *good luck with that*. Classic maps like Helms Deep couldn't be rebuilt in Warcraft Reforged because, well, Lord of the Rings belongs to the Tolkien Estate. Runling Run in Starcraft 2 ran into a mess because they used a James Bond song. Forget remaking DotA 1, Valve owns that name now. Heroes of the Storm was supposed to have an arcade mode at some point, but they axed it; as a free-to-play game, they decided they couldn't control it if players just made new accounts to reupload 'banned' maps.
+
+Blizzard wanting ownership over what they didn't make lead them to completely stiffling their arcade modes, just because they wanted to snap up the rights to whatever new League of Legends tier game one of their fans decided to create.
+        I wasn’t expecting blizzard lore that could possibly make me dislike them more but here we are, thank you
+            Just when you think they reached a new low, you get reminded of the "don't you guys have phones" guy, and of the scandals regarding harassment on the workplace.
+                I saw a post about that recently, it’s insane to see people so detached
+        You're a bit off. League of Legends was made in part by one of the original dota authors, but not the one who made DotA into it's most popular incarnation (icefrog). 
+
+Blizzard didn't sue Riot over League of Legends. They sued Valve over DotA 2, which was made by IceFrog. 
+
+As a result of that lawsuit, though not a victory for blizzard by any means several heroes which were closeish to blizzard IP were changed in lore and name (though moreso out of caution by Valve).
+            I'll never fucking forgive them for the skeleton king debacle. Would they truly have fought valve over ownership of the concept of a skeleton king??? Valve is pretty good in my book but they're not off the hook for selling skeleton king back to players as a limited time only exclusive cosmetic. I hate the games industry sometimes. Bless DRG and its devs...
+        This is peak Blizzard lol
+        Just more proof to show that the more a game company tries to tighten its grip on its own community, the more the community falls apart in their hands.
+        Man, this just makes me more and more depressed about how awesome Blizzard was in the late 90s and early 00s. Their fall from grace guts me everytime I hear about their company...
+        I was sort of referring to how blizz handled the Mercy changes years ago. They said they would listen to feedback and the community filled 4 mega-threads worth of discussion and complaints and we got basically told "haha fuck you!" by Jeff Kaplan.
+
+It wasn't the only case of that sort of behavior though, it honestly amazes me that ANYONE would support them. Between how they view customers, coworkers and human rights vs. China dollars.... they deserve to be boycotted out of business.
+    Do YoU gUyS nOt HaVe PhOnEs??
+        Hahaha i just wrote that in an answer, literally now.  
+I confirmed the comment and saw yours instead, truly an unforgettable moment, at least, i will be sure to remind people of this forever.
+> "Look, I know it's a hard decision, but we really can't have auto-pick perks. We'll tinker with this, and maybe bring it back in a new form if we can balance it."
+
+Yet we still have auto-pick perks, and some that are less than useless.
+
+Not to take away from your praise and argument
+    They've explicitly said that they're aware that the perk system is outdated and in need of an overhaul. However, the sheer volume of work required to actually fix the system is more than they can spare at the moment. GSG is, for better or worse, an extremely small team for what they're running atm which means stuff that works "well enough" unfortunately has to take a back seat to other more pressing content. I imagine they're going to iteratively redesign the perk system internally over a couple of seasons and tell us about it when it's ready.
+        I would be fine if they just added more perks and fix some of the useless ones.
+            I wish there were some options for perks that are obviously intended for one class over another; that'd almost guarantee variety.
+
+As they are now they're all so general, and the good ones are so good, that everybody picks the same ones.
+                I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+                    *downgrades platform gun to mk1*
+                        I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+                            Your laser pointer is your friend.
+                                Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+                            Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+                    Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+                        Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+                            Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                                And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                                Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+                            But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+                            The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                                I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+                    They could just make only stable OCs? I dunno
+                    Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+                I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+                    And a big, bushy mustache.
+                    You really want to turn this game into a jump'n'run, don't you?
+                        No, they want Trolldier from TF2 added to the game
+                    Or maybe temporarily enables power attack if you're flying through the air fast enough
+                I often pick the less used one for variety and nothing else
+                I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+                    These are all really good ideas
+                        Of course there'd also be a few more options for each class
+            > just added more perks 
+
+I wish they made a pick nick active perk.
+
+You would use it and put down a bunch of food and beer that you could consume for HP.
+
+Would be good for when there is no red sugar and you don't want to use a resupply just to get full hp.
+            "just add" is *way* more balance work than you are implying.
+                I'm saying compared to an overhaul
+        One thing I would love with the perks is having them much stronger then they are (for most) and putting all perks on the table against iron will or double jump vs bringing things down to the level of medic (I think to be on par with iron will it needs more charges) but that’s not a great example I just don’t remember the names that well outside what I run there’s a somthing hell that could be the median level of the game and I don’t want that reality I want them to be strong where it’s hard to pick perks because they’re all such good options but that’s just my take
+        If they will overhaul perks, i hope they put perks that gives bonus when you tag enemies like the one in Back4Blood. It's a way to better define the role of a scout.
+        And I will patiently wait for the day it gets an overhaul. It will be glorious
+    They mentioned perks in the anniversary stream a couple months ago, I feel like they are definitely aware of it and are working on it in the background. I wouldn’t say expect it for season 5 or anything but I just feel like it’s reassuring to know that they know about it and aren’t just going to ignore it or sweep it under the rug. Heck the new jet boots could possibly be introducing a new mechanic which will be expanded on to help tackle the perk system
+    They're less auto-pick than they were before, at least.
+
+Iron Will is still nuts, but at least it's capped out at once per mission. It used to have a (fairly short if I recall) cooldown.
+        [deleted]
+            I think Dash shouldn't be a perk, just a mechanic at all times. I'm too used to playing with it that I can never remove it.
+                I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+                    i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+                        It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+                            I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+                    Same. My feet aren’t on the ground long enough to bother sprinting.
+                Make it an armor upgrade
+                I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+                Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+            I play solo most of the time so medic has perished for me
+            I always pick medic to all my loadouts because of its passive.
+            Dash is the best perk imo, but I feel like every team needs 1-2 iron wills.
+                I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+        I wouldn't be mad if they removed the active part of both IW and FM and gave everyone a single "Revive Charge" that can be used once per mission to either revive yourself temporarily or an ally instantly
+            Yup, this is the way to do it; that would fix IW being mandatory.
+    I'm fairly certain DRG runs into the same issue as any other game with "meta-sheep" regarding perks or buildpaths. They don't understand why they pick the perks they do, they just know someone who told them it was good and they will also tell others with different perks that they chose wrong, perpetuating a majority that follows a perk religiously despite not actually understanding the nuance of various perks.
+
+Because of this sort of scenario, even if GSG reworks the perk system from the ground up, "meta-sheep" will force a specific perk setup narrative regardless of the data, especially after watching a single Tier List video.
+        Where there's choice with mechanical consequences, there will be "meta" options, even if its a 1% difference
+        Idk, since the game isn't pvp, there is much less incentive to "play what works".
+
+I've tried berserker just as a challenge or wanting to try something new, it just sucks too much for me to enjoy it.
+            Berserk may be bad on its own, but it becomes worth thinking about if you're gonna combo it with vampire and iron will.
+                I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+                But then I'd have to give up Strong Arm!
+                    I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+                        Almost as addictive as red sugar.
+                    It's not that bad solo with anything but scout.
+            I think thats fair. Berserker is hard to use optimally, but combined with the armor rig upgrade for boosted limited time invulnerability upon revival and/or vampirism, you can get back up into a fight and clear a large creature or big swarm with a melee drill build. Or even just the Better Weight Balance mod, you get a power attack every .90 seconds.
+
+But for my Ganondwarf melee Driller? Would be really sad if it got nerfed/removed.👍
+        Absolutely this.
+
+Many people think hover boots are a crutch perk, but the level of complete autonomy it gives my scout means we mine more nitra faster and that I can get a bird's eye view of the swarm, tag and hit important targets quickly, all while being at little to no risk (mactera permitting). And hey, if I mistime a grapple + power attack, I've got my own back and my team doesn't need to divert attention to rezzing me
+            I think the key is do you play with buddy’s or do you random it? Idk, only reason I ask is because I do pick perks differently myself depending.
+
+What you describe here is how I play when I’m on voice shooting the ~~shit~~ bugs with the bros. We normally all pick steve because it’s steve, and that’s the only reason we ever really have had.
+
+Vs. when I am just playing in a random group; I much prefer to stick to the dash+iron will combo in case of the “worst case scenario” I can make it to the resupply pod/red sugar and then save the team…in theory ;)
+    The core difference is the current auto-picks (iron will and dash) very rarely result in a player being completely screwed the entire mission if they don't have it and everyone else does. Dash has a decent cooldown and when it comes to navigation it can in niche areas make an impossible jump.
+
+Double jump however completely changes how people use their team mobility tools and basically made anyone who didn't take them drag the entire team down
+    GSG should definitely buff the underwhelming ones instead of nerfing the good ones. Perks like Iron Will are balanced as they are, they just need some actual competition.
+    there are certainly clear and definite high tier and low tier perks, but its really not all *that* bad. sure, it may be easier to just slap on the meta perks 24/7 and have a consistently good build; but basically every perk in the game has at least some situational value that can make it worthwhile to replace an S tier perk. with just some minor buffs to the niche perks it could be perfect; no major reworks necessary.
+    What's an auto pick perk?
+        A perk that is very good compared to all of the others, so there is little to no reason not to take it
+            So like field medic and iron will?
+
+I always take vampire, thorns, and elemental resistance for the red ones. Bc the trade off fpr not having them is better then the other perks imo. Do I got that right?
+                Auto reload as third for gunner
+                IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+                    I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+                Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+                    resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+                        Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+        Perks that most people pick because they are the best ones
+        A perk so good that you'd be a fool not to include it in your build. Biggest example is Iron Will, since it allows you to clutch when your whole team goes down. Most other perks do not have the universal usefulness of this one, so that's why Iron Will is considered an "auto-pick."
+        Iron Will. Not taking it risks wasting everybody's time on haz5 (and haz4 if you're playing with greenbeards.)
+
+People have been autopicking it since it got added to the game.
+
+It should just be a core mechanic tbh (1 free self-revive, no buffs or anything necessary.)
+        It's a Bug Thing
+    Idk, I truly don't have any auto pick perks that go on every single dwarf. I guess I have class auto picks? But like, idk. Kinda fine with that.
+
+Like, I'll always take iron will on most things minus scout, I'm always gonna take heightened senses in a scout build, and I'll always take dash on engi.
+
+But idk, I'm kinda fine with that?
+    Yea, it's a bug thing is waaaay too strong atm. It is absolutely an auto pick for me.
+    Perk system has needed an overhaul for a while. But they've been pumping out quality content for so long that it really doesn't bother me that much. GSG can take their time, they've earned it.
+    Which ones are auto picks? There's some that are auto picks for me personally, but I can't see them being auto picks for everyone.
+blizzards reaction to their own promises for overwatch 2: nah
+Normally I don't take sides for devs, many games grabbed me by the wrong beard, but man, GSG seems so passionate about DRG it is unreal! Im glad that we get to have such a nice Devteam working on such a good game, it reminds me a bit about older times
+If someone of GSG reads this: I love you guys, take care, do breaks and never forget to ROCK AND STONE!
+    Rock and Stone, Miner.
+    Rock and roll and stone!
+        Did I hear a rock and stone brother?!
+>Blizzard's reaction to literally anything:
+
+> Guess which Overwatch character was [insert random characteristic] all along!
+I liked how the community respond which is people themselves don't want to cheat.
+I really appreciate the save editing. This allowed me to by the game on steam again and convert my progress from PC Xbox to steam without to start from the beginning.
+blizzard "your fun was unintended" entertainment
+Slight amendment; 
+
+GSG reaction to save editing: "So long as you don't unlock Overclocks, you're good."
+Promotion resets weekly core quest?
+    I'm pretty sure it just gives you some cores when you promote now and doesn't reset the core hunt like it did in the bug.
+    Yeah idk, I’ve heard about it but this doesn’t happen to me.
+Bungie:
+
+Ah yes players can get a good chunk of materials in a super tedious boring grind that is infinitely more rewarding than our actual game because we’re so damn stingy. Patch it in less than 12 hours. Oh? Audio bug so bad some console players can’t hear because it’s a sound loop playing at max volume infinitely? We’ll get to it. Next season. Until then just mute your game audio in a PvPvE game 🥰 good luck and get fucked
+Fatsharks Reply:
+
+"........"
+Yeah. I don't normally buy DLC's purely for cosmetics, but I have bought the supporter stuff for DRG because the game is awesome and the team is awesome.
+    Me and my buddy do this, or did for a long while, because he felt guilty platoon the game so much and paying them so little for the entertainment it provided. He eventually fell off and I don't play like I used to, but I've got over 800 hours in it. It was worth every penny.
+    DRG is one of those games where I wish it had more cosmetic DLC because I want to give them more of my money for the hundreds of hours of joy this game has brought me.
+    When my paycheck from the new job arrives Im gonna buy everything full price.
+
+These mfs deserve it.
+Old school? Yeah. Does it work? Absolutely.
+    I don't think it pulls in as much $$$ as the scumbag strategy though. Loyal fans will always be outnumbered by idiot fans
+        Unfortunately that is really true, which is why (many) triple A companies keep doing this
+            Idk, market research is not exactly scientific in its standards of evidence and rooted in tradition and "it works before." Which is empirically better given a matched game, matched advertising budget... etc. 
+
+It'd be a hard question to actually empirically answer, and maybe I'm just being nieave, but it idk.
+        That's why voting with your wallet doesn't really work these days. When it comes to things like microtransactions, there will always be enough whales willing to dump hundreds into a game to make up for a handful of people sticking with their morals and not spending their money.
+The funny thing is that many of my business classes talked about this when I was getting my degree like 15 years ago. In retrospect from meeting a lot of other people with business degrees, I appear to be one of the few that paid attention to this rather than doing lines of coke along with forgetting that revenue - expenses = profit/loss.
+Well that won't do, would someone think of the poor starving shareholders?!??!!
+I know we're biased but it seems to be working. DRG is the only time I've bought a supporter dlc solely to support the devs.
+I normally have 0% interest in cosmetic dlc, but I buy every DRG release to show support. And then I figure if I have em, I'll use em! I'm not really buying the cosmetics, though, just paying my optional DRG subscription fee. It just comes with free cosmetics when you do that. I wish they'd charge me more often, though.
+Just like old school runescape.
+    I don't know if it's the same now, but when I played Warframe I would also put that in the same tier of actually seemingly to care about the player base.
+I got this game for free on PS4 like 2 years ago thinking I'd barely play it
+
+I'm still playing it on PS5, nearly a 3 star silver driller. It's so simple but fun, great break from salty and competitive multiplayer games. Rock and stone comraderie ftw
+    Rock and Stone!
+[deleted]
+    I'm just glad nobody got thrown off of hell in a cell and plummeted 16ft through an announcer's table.
+        Or beat with a pair of jumper cables
+    Albert Einstein is the CEO of ghostship games? Amazing, I had no idea he was even real. Everyone always told me he was theoretical.
+Yeah I love game development, but I'm so glad I never pursued it as a career path. Cybersecurity pays great and I still enjoy game development because it's a fun hobby to have.
+Tabs is great
+    Tabg is great
+        SWAWS
+            *I know what this means*
+            SWAWS
+
+*°throws white box with SWAWS on it°*
+
+***EXPLODES***
+FLOP AND WOBBLE!
+Yes, just the paintjob.
+Correct. The reason(I assume) is because it’s the same framework but improved. If you look underneath the new vials and all that it’s the same framework.(not criticizing btw, I’m loving it)
+    Yeah, the DLC framework is the previous one but with more detailing, greebles and glowy bits. It's impressive how much it makes a difference though, especially with the higher contrast paint job.
+That's fair and I agree. I should've framed it differently.
+    Hey, dwarf! You make this team really wholesome!
+Rock and stone union man
+For real, blame the arseholes in charge not the abused workers
+[removed]
+    [botted/copied comment](https://www.reddit.com/r/DeepRockGalactic/comments/13vz50i/what_did_we_do_to_deserve_such_an_awesome_dev_team/jm8uuyh/)
+Rock and Stone everyone!
+    Good bot
+        Thank you, Bondorian, for voting on WanderingDwarfMiner.
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).
+
+***
+
+^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)
+    Rock and stone!
+        For Karl!
+            For rock and stone!
+[deleted]
+    I'm a little sad for the guy who worked on the original concept though, maybe he really liked it.  
+I can understand that, not everyone has the same tastes in anything, even game's skins.
+        That's why they added the original paintjob back!
+
+"And don’t worry, those of you already cracking your knuckles to tell us you liked the old Paintjob: The Paintjob you saw in the first trailer will be added to the next Performance Pass, because dang it, we really liked it!" - from the Steam post.
+    The Yellow power tool skins? And they remade them? Oh nice.
+
+(Also releasing the old ones for free is a really good move since adds content at no cost since well... they already made the skins why delete them.)
+
+I want the yellow beam cutter, just because it looks like an actual tool space engineer tool that became weaponized like in Dead Space.
+    What were the community complaints? I watched the reveal and thought they looked pretty great. Hell, I think I might have been the most excited I had been for a DLC, or close to it.
+Yeah, im kinda lost too.
+https://www.reddit.com/r/DeepRockGalactic/comments/13vvza7/made_a_comparasion_between_the_old_and_the_new/
+the sad part is that if your skin isn't a gold skin, and its epic or below it becomes a lazy recolor.
+Rockity Rock and Stone!
+    Good bot
+    For Karl!
+Don't forget, one of the community goals is a hat. The same hat they've given the community three times now, but with a skulls decal on it, because it was "skulls week"
+
+When the goal unlocked, and people started claiming the hat, it was quickly realized that fat shark forgot to put the skulls on it. So it's just a hat.
+    Ironically and sadly there's something so very 40k about that.
+I was excited about the new update and could not even start the game because of the AMD GPU. And the helmet with skull skin not actually having the skull skin in game is cherry on top. It is a shame. I am huge 40k fan and playing missions is so fun but the rest of the game is kind of awful. I tell everyone who ask me about the game to not buy it until it is worth the money.
+    Its why I jumped over to DRG, because Darktide on release was so underbakedand rushed to meet release quotas. Don't know what state its in right now, not good I bet.
+        It is better now. I think right now it is about the level it should have beeen at lunch. It went from really bad to mediocre rating on steam and I think that it is pretty accurate. I would give the game more time for the devs to properly fix all the stuff.
+Who said that if I may ask?
+    Here you go mate: https://youtu.be/ZJvyhulnAlA
+I mean, it's a free pass with a couple dozen other cosmetics to enjoy, so I'm all for it regardless
+All of them are cracked. 90% of indie devs are really. Smaller games and teams, that are more often than not better than most AAA titles.
+    Last I checked terraria was the 11th most sold game worldwide
+        Wow! I knew it was popular, but jesus
+            Lol
+OP already stated that they should have made it the higher ups and not the devs in a reply to the second top comment
+Indeed. It wasn't intended to shame the honest Game Devs out there that try their best.  
+It was a mistake on my part
+bro why are you so mad?
+Some dev teams are just legitimately incompetent, but more often than not it is the higher-ups Especially dev teams that act like a revolving door, where as soon as a dev learns how the game is balanced and releases a legitamately good change, they leave the team. *Cough BHVR Interactive cough*.
+
+Unrelatedly it honestly feels like the plot to Hitchhiker's Guide to the Galaxy, where as soon as someone figures out how to fix all the problems without getting put on a cross, aliens come to destroy the entire planet to build a superhighway in space.
+Rock and Stone!
+    For Karl
+V!
+yeap, will be one of the season pass rewards
+If you don't Rock and Stone, you ain't comin' home!
+No need to be sorry. I should've added the [original Dev post](https://www.reddit.com/r/DeepRockGalactic/comments/13vsn3j/decontaminator_pack_changes/?utm_source=share&utm_medium=web2x&context=3) for better context.
+    big thank
+Did I hear a Rock and Stone?
+For Karl!
+Hard to tell since they don’t really announce weapon balances like how they tease new enemies but I definitely do feel like they are always listening and searching for things and ways to balance
+Not wanting to rain on your parade but want you to have expectations set accordingly. The only major change the devs have talked about is coming for the Subata and they haven’t mentioned anything else so I wouldn’t get your hopes up for a lot of changes on the weapon and overclock front.
+Can someone really explain how the F to use plasma bursters? As a Gunner main I still can't figure it out. Is it really JUST THIS BAD? Or does it have any niche use at all? Is it really only good for flying enemies that you can keep your rocket launcher pointed at?
+
+Sorry but everything, even no overclock, is better than plasma bursters.
+    I heard someone tell me that Plasma Bursters are supposed to be used more like a guided death cloud instead of one off missiles. I enjoy it in that capacity, but the singular missile are really weak.
+        the problem is that if they hit the ground (hey most bugs are on the ground, right?) that they disappear... so it's like, maybe good for mactera plague or phase 2 of the heartstone.... but I can't figure out anything else.. Maybe season 4 will give it more use.
+You leave my RJ250 compound alone.
+    Don't wanna nerf any of the rocket jumping ability, just think the ammo bonus is too good. You can use RJ250 without rocket jumping at all and it's still pretty much a base upgrade to the weapon.
+Active Stability System, Bullet Hell and Fire Bolt definitely don't really need any buffs. The only change or buff to Scout would probably be more ammo to his weapons.
+    Bullet Hell certainly needs a buff. It struggles to perform better than a non-Overclocked Minigun, that's saying quite a bit. As for Stability and Fire Bolt, I'm only talking very minor buffs. super teeny. Nothing big.
+        Bullet Hell allows you to hit weakpoints and enemies that you can't see, stun an entire horde in seconds, and has enough ammo to challenge God himself.
+
+Sure, it's no Neurotoxin, but if you think with portals a little it's a surprisingly effective blast.
+            Why stun an entire horde when you could just be killing the entire horde instead? Bulldog with explosive rounds can easily stun a wave while also doing decent damage and not wasting a ton of ammo to kill stuff.
+
+Look, if you already think Bullet Hell is good, then a buff to it wouldn't be bad, right? The damage penalty is just too much.
+never nerf unless it is completely broken, always buff
+Man, I’ve been wanting a lol rework for so long. Every almost every OC and mod screams “wave clear” and yet it doesn’t have the ammo for that, making the only viable builds slight variations of 1,1,1,1,1/2,1,1,1,1.
+I thought the same thing. Pretend to care, but don't, like the box says
+!lraK roF
+not every game needs a checkbox of representation for every gender/race/sexuality, if thats such a big hurdle to you, then nothing is stopping you from playing other games with an actual character creator, just saying.
+
+tbh, i for one,see no problem in playing female characters on female character only games(hell even games that let me choose to be either female or male, going female is sometimes fun)  you should try the same, it won't make you any less feminine or diminish your identity as a woman just because you are playing a male dwarf on funny "rock and stone, shoot bug, mine bismor simulator".
+    Rock and Stone, Brother!
+    “checkbox of representation” lmao ok not sure how you extrapolated that from someone asking for female characters
+    Yeah, as 50% of the world population I'm a real special snowflake. 🙄
+
+> going female is sometimes fun
+
+But not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again? If it was such an obvious assumption that charcters are girls that there some game devs would even forget males exist? Totally ignoring the concept. If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded". 
+
+> You should try the same
+
+I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+You're not the "default" person.
+        >but not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again?
+
+I do play female characters when im giving the option from time to time, whenever i play MMOs i pick girl avatars cause they look cool, also some of my favorite games you are locked in playing a female protagonist only such as:
+
+* Touhou Project (all the cast is female)
+* Portal 1 & 2
+* Slime Rancher 1 & 2
+* Control
+* Tomb Raider
+* Transistor
+* Senran Kagura series(everyone is a female there too)
+* Nier Automata (you play as 2B for the most part)
+* Horizon Zero Dawn
+
+just to name a few...
+
+>If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded".
+
+no, not everything is made for me,i'm open minded, i don't mind at all if there are no males in a game, in fact my most beloved franchise is the *touhou project*, and almost everyone there is a female(except rinnosuke which is just an unimportant shopkeeper) the game is a 99:1 ratio female to male, and you don't see it's fandom having a meltdown or a tantrum over that.
+
+in fact, i would go as far as saying you only see girls like you having a meltdown over "lack of female representation" in video games. Funny how you don't see male gamers spewing chauvinist discontent whenever we are in the opposite side of the coin.
+
+>I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+no, actually not really, i cannot think of many games where playing male is your only option.
+
+* deep rock galactic
+* team fortress 2
+* Super Mario Games?
+
+yeah, i think thats it.
+You assume space dwarves even have human-like genders. Pretty sure they identify as "dwarf". Except for the driller, who identifies as "insane dwarf".
+    > It's easier for me to pretend women don't exist than to acknowledge criticism of a game.
+The lack of female characters in a game like this is easily justifiable by handwaving (corporate only hires men, there are no such things as female dwarves, etc.), but that's so unsatisfying if you feel like you aren't represented, and there's no reason you couldn't be. And compared to some of the stuff I've seen on this subreddit, I have no reason to do anything but upvote you.
+Feels like an extreme reaction but rock and stone. Maybe some day we'll get female dwarves and you can join us in Hoxes.
+    Rock and Stone everyone!
+I thought it was good. Colors weren't my thing, but neither were most of the other color schemes, and that's ok, I could change it anyway. Still excited for new frameworks
+Take a peek at the thread currently stickied on the front page by GSG_Jacob.
+    Thanks friend!
+the original season 04 DLC weapon/skin pack looked mid af 5/10" so they improved the bling on it, whilst making the original bling free on the next seasonal battle pass.
+To Rock and Stone!
+Did I hear a Rock and Stone?
+Can I get a Rock and Stone?
+    Good bot
+For Rock and Stone!
+Rock and Stone everyone!
+Rock and Stone!
+Did I hear a Rock and Stone?
+!traeH eht ni enotS dna kcoR
+!enotS dna kcoR !sdal ti s'tahT
+Did I hear a Rock and Stone?
+    Aye! ROCK AND STONE!
+Rock and Stone, Brother!
+Rock and Stone everyone!
+Oh, you reminded me of a funny Blizzard story.
+
+So, back in the Warcraft 3 days, their map editor was pretty legendary, and the arcade mode boasted all sorts of custom maps that became mainstays today, including an epic Helm's Deep map, the original concept of Tower Defense, and the original DotA.
+
+The guys who made DotA were a bunch of enthusiastic nerds, and of course they go on to make League of Legends.
+
+Blizzard sues, wanting a piece of the pie and saying, "no, wait, that was originally made in the Warcraft 3 engine, this is ours! League of Legends is our property!"
+
+Of course, they lose the lawsuit because they didn't make beans: neither the concept or the game were made by a Blizzard individual, they can't possibly claim ownership.
+
+Since then, they amended their Terms of Use on nearly all of their games: anything created using one of their map makers belongs to Blizzard, and the map maker surrenders all rights to what they create. You agree to these terms of use as you buy the game, and this is now a condition to buying and playing Starcraft 2, Warcraft 3 reforged, etc: Blizzard owns anything in their map editor; this is legal because you agree to this when you buy their game, and if you don't agree, you don't get to buy the game.
+
+...So out comes the map maker enthusiasts. They read the terms of service and are like "okay, sure", because the average map maker doesn't really care about owning their own map, they just want to play. Hey! I just got a great idea for a Warcraft map, I'm going to make an amazing RPG involving Snow White fighting off the 7 Evil Dwarves, and you'll be able to play as Mickey, Donald, and Goofy!
+
+Taking this hypothetical Disney map, pretend a hypothetical Blizzard lawyer just had their phone ring. They pick up: it's a hypothetical Disney lawyer.
+
+Disney: "Hey, why are you claiming ownership rights over our characters?"
+
+Blizzard: "What ownership rights? We didn't use any of your characters."
+
+Disney: "Yes you did, one of your players made a Disney themed map."
+
+Blizzard: "Well hold on, that's one of our players who did that, we don't claim ownership over- wait- shit, we *do* own that, don't we?"
+
+Anyways, Blizzard realized that since they *own* the things map makers create, they need to make sure their map makers are following copyright and licensing laws, and *good luck with that*. Classic maps like Helms Deep couldn't be rebuilt in Warcraft Reforged because, well, Lord of the Rings belongs to the Tolkien Estate. Runling Run in Starcraft 2 ran into a mess because they used a James Bond song. Forget remaking DotA 1, Valve owns that name now. Heroes of the Storm was supposed to have an arcade mode at some point, but they axed it; as a free-to-play game, they decided they couldn't control it if players just made new accounts to reupload 'banned' maps.
+
+Blizzard wanting ownership over what they didn't make lead them to completely stiffling their arcade modes, just because they wanted to snap up the rights to whatever new League of Legends tier game one of their fans decided to create.
+    I wasn’t expecting blizzard lore that could possibly make me dislike them more but here we are, thank you
+        Just when you think they reached a new low, you get reminded of the "don't you guys have phones" guy, and of the scandals regarding harassment on the workplace.
+            I saw a post about that recently, it’s insane to see people so detached
+    You're a bit off. League of Legends was made in part by one of the original dota authors, but not the one who made DotA into it's most popular incarnation (icefrog). 
+
+Blizzard didn't sue Riot over League of Legends. They sued Valve over DotA 2, which was made by IceFrog. 
+
+As a result of that lawsuit, though not a victory for blizzard by any means several heroes which were closeish to blizzard IP were changed in lore and name (though moreso out of caution by Valve).
+        I'll never fucking forgive them for the skeleton king debacle. Would they truly have fought valve over ownership of the concept of a skeleton king??? Valve is pretty good in my book but they're not off the hook for selling skeleton king back to players as a limited time only exclusive cosmetic. I hate the games industry sometimes. Bless DRG and its devs...
+    This is peak Blizzard lol
+    Just more proof to show that the more a game company tries to tighten its grip on its own community, the more the community falls apart in their hands.
+    Man, this just makes me more and more depressed about how awesome Blizzard was in the late 90s and early 00s. Their fall from grace guts me everytime I hear about their company...
+    I was sort of referring to how blizz handled the Mercy changes years ago. They said they would listen to feedback and the community filled 4 mega-threads worth of discussion and complaints and we got basically told "haha fuck you!" by Jeff Kaplan.
+
+It wasn't the only case of that sort of behavior though, it honestly amazes me that ANYONE would support them. Between how they view customers, coworkers and human rights vs. China dollars.... they deserve to be boycotted out of business.
+Do YoU gUyS nOt HaVe PhOnEs??
+    Hahaha i just wrote that in an answer, literally now.  
+I confirmed the comment and saw yours instead, truly an unforgettable moment, at least, i will be sure to remind people of this forever.
+They've explicitly said that they're aware that the perk system is outdated and in need of an overhaul. However, the sheer volume of work required to actually fix the system is more than they can spare at the moment. GSG is, for better or worse, an extremely small team for what they're running atm which means stuff that works "well enough" unfortunately has to take a back seat to other more pressing content. I imagine they're going to iteratively redesign the perk system internally over a couple of seasons and tell us about it when it's ready.
+    I would be fine if they just added more perks and fix some of the useless ones.
+        I wish there were some options for perks that are obviously intended for one class over another; that'd almost guarantee variety.
+
+As they are now they're all so general, and the good ones are so good, that everybody picks the same ones.
+            I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+                *downgrades platform gun to mk1*
+                    I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+                        Your laser pointer is your friend.
+                            Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+                        Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+                Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+                    Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+                        Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                            And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                            Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+                        But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+                        The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                            I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+                They could just make only stable OCs? I dunno
+                Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+            I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+                And a big, bushy mustache.
+                You really want to turn this game into a jump'n'run, don't you?
+                    No, they want Trolldier from TF2 added to the game
+                Or maybe temporarily enables power attack if you're flying through the air fast enough
+            I often pick the less used one for variety and nothing else
+            I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+                These are all really good ideas
+                    Of course there'd also be a few more options for each class
+        > just added more perks 
+
+I wish they made a pick nick active perk.
+
+You would use it and put down a bunch of food and beer that you could consume for HP.
+
+Would be good for when there is no red sugar and you don't want to use a resupply just to get full hp.
+        "just add" is *way* more balance work than you are implying.
+            I'm saying compared to an overhaul
+    One thing I would love with the perks is having them much stronger then they are (for most) and putting all perks on the table against iron will or double jump vs bringing things down to the level of medic (I think to be on par with iron will it needs more charges) but that’s not a great example I just don’t remember the names that well outside what I run there’s a somthing hell that could be the median level of the game and I don’t want that reality I want them to be strong where it’s hard to pick perks because they’re all such good options but that’s just my take
+    If they will overhaul perks, i hope they put perks that gives bonus when you tag enemies like the one in Back4Blood. It's a way to better define the role of a scout.
+    And I will patiently wait for the day it gets an overhaul. It will be glorious
+They mentioned perks in the anniversary stream a couple months ago, I feel like they are definitely aware of it and are working on it in the background. I wouldn’t say expect it for season 5 or anything but I just feel like it’s reassuring to know that they know about it and aren’t just going to ignore it or sweep it under the rug. Heck the new jet boots could possibly be introducing a new mechanic which will be expanded on to help tackle the perk system
+They're less auto-pick than they were before, at least.
+
+Iron Will is still nuts, but at least it's capped out at once per mission. It used to have a (fairly short if I recall) cooldown.
+    [deleted]
+        I think Dash shouldn't be a perk, just a mechanic at all times. I'm too used to playing with it that I can never remove it.
+            I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+                i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+                    It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+                        I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+                Same. My feet aren’t on the ground long enough to bother sprinting.
+            Make it an armor upgrade
+            I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+            Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+        I play solo most of the time so medic has perished for me
+        I always pick medic to all my loadouts because of its passive.
+        Dash is the best perk imo, but I feel like every team needs 1-2 iron wills.
+            I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+    I wouldn't be mad if they removed the active part of both IW and FM and gave everyone a single "Revive Charge" that can be used once per mission to either revive yourself temporarily or an ally instantly
+        Yup, this is the way to do it; that would fix IW being mandatory.
+I'm fairly certain DRG runs into the same issue as any other game with "meta-sheep" regarding perks or buildpaths. They don't understand why they pick the perks they do, they just know someone who told them it was good and they will also tell others with different perks that they chose wrong, perpetuating a majority that follows a perk religiously despite not actually understanding the nuance of various perks.
+
+Because of this sort of scenario, even if GSG reworks the perk system from the ground up, "meta-sheep" will force a specific perk setup narrative regardless of the data, especially after watching a single Tier List video.
+    Where there's choice with mechanical consequences, there will be "meta" options, even if its a 1% difference
+    Idk, since the game isn't pvp, there is much less incentive to "play what works".
+
+I've tried berserker just as a challenge or wanting to try something new, it just sucks too much for me to enjoy it.
+        Berserk may be bad on its own, but it becomes worth thinking about if you're gonna combo it with vampire and iron will.
+            I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+            But then I'd have to give up Strong Arm!
+                I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+                    Almost as addictive as red sugar.
+                It's not that bad solo with anything but scout.
+        I think thats fair. Berserker is hard to use optimally, but combined with the armor rig upgrade for boosted limited time invulnerability upon revival and/or vampirism, you can get back up into a fight and clear a large creature or big swarm with a melee drill build. Or even just the Better Weight Balance mod, you get a power attack every .90 seconds.
+
+But for my Ganondwarf melee Driller? Would be really sad if it got nerfed/removed.👍
+    Absolutely this.
+
+Many people think hover boots are a crutch perk, but the level of complete autonomy it gives my scout means we mine more nitra faster and that I can get a bird's eye view of the swarm, tag and hit important targets quickly, all while being at little to no risk (mactera permitting). And hey, if I mistime a grapple + power attack, I've got my own back and my team doesn't need to divert attention to rezzing me
+        I think the key is do you play with buddy’s or do you random it? Idk, only reason I ask is because I do pick perks differently myself depending.
+
+What you describe here is how I play when I’m on voice shooting the ~~shit~~ bugs with the bros. We normally all pick steve because it’s steve, and that’s the only reason we ever really have had.
+
+Vs. when I am just playing in a random group; I much prefer to stick to the dash+iron will combo in case of the “worst case scenario” I can make it to the resupply pod/red sugar and then save the team…in theory ;)
+The core difference is the current auto-picks (iron will and dash) very rarely result in a player being completely screwed the entire mission if they don't have it and everyone else does. Dash has a decent cooldown and when it comes to navigation it can in niche areas make an impossible jump.
+
+Double jump however completely changes how people use their team mobility tools and basically made anyone who didn't take them drag the entire team down
+GSG should definitely buff the underwhelming ones instead of nerfing the good ones. Perks like Iron Will are balanced as they are, they just need some actual competition.
+there are certainly clear and definite high tier and low tier perks, but its really not all *that* bad. sure, it may be easier to just slap on the meta perks 24/7 and have a consistently good build; but basically every perk in the game has at least some situational value that can make it worthwhile to replace an S tier perk. with just some minor buffs to the niche perks it could be perfect; no major reworks necessary.
+What's an auto pick perk?
+    A perk that is very good compared to all of the others, so there is little to no reason not to take it
+        So like field medic and iron will?
+
+I always take vampire, thorns, and elemental resistance for the red ones. Bc the trade off fpr not having them is better then the other perks imo. Do I got that right?
+            Auto reload as third for gunner
+            IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+                I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+            Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+                resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+                    Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+    Perks that most people pick because they are the best ones
+    A perk so good that you'd be a fool not to include it in your build. Biggest example is Iron Will, since it allows you to clutch when your whole team goes down. Most other perks do not have the universal usefulness of this one, so that's why Iron Will is considered an "auto-pick."
+    Iron Will. Not taking it risks wasting everybody's time on haz5 (and haz4 if you're playing with greenbeards.)
+
+People have been autopicking it since it got added to the game.
+
+It should just be a core mechanic tbh (1 free self-revive, no buffs or anything necessary.)
+    It's a Bug Thing
+Idk, I truly don't have any auto pick perks that go on every single dwarf. I guess I have class auto picks? But like, idk. Kinda fine with that.
+
+Like, I'll always take iron will on most things minus scout, I'm always gonna take heightened senses in a scout build, and I'll always take dash on engi.
+
+But idk, I'm kinda fine with that?
+Yea, it's a bug thing is waaaay too strong atm. It is absolutely an auto pick for me.
+Perk system has needed an overhaul for a while. But they've been pumping out quality content for so long that it really doesn't bother me that much. GSG can take their time, they've earned it.
+Which ones are auto picks? There's some that are auto picks for me personally, but I can't see them being auto picks for everyone.
+Rock and Stone, Miner.
+Rock and roll and stone!
+    Did I hear a rock and stone brother?!
+I'm pretty sure it just gives you some cores when you promote now and doesn't reset the core hunt like it did in the bug.
+Yeah idk, I’ve heard about it but this doesn’t happen to me.
+Me and my buddy do this, or did for a long while, because he felt guilty platoon the game so much and paying them so little for the entertainment it provided. He eventually fell off and I don't play like I used to, but I've got over 800 hours in it. It was worth every penny.
+DRG is one of those games where I wish it had more cosmetic DLC because I want to give them more of my money for the hundreds of hours of joy this game has brought me.
+When my paycheck from the new job arrives Im gonna buy everything full price.
+
+These mfs deserve it.
+I don't think it pulls in as much $$$ as the scumbag strategy though. Loyal fans will always be outnumbered by idiot fans
+    Unfortunately that is really true, which is why (many) triple A companies keep doing this
+        Idk, market research is not exactly scientific in its standards of evidence and rooted in tradition and "it works before." Which is empirically better given a matched game, matched advertising budget... etc. 
+
+It'd be a hard question to actually empirically answer, and maybe I'm just being nieave, but it idk.
+    That's why voting with your wallet doesn't really work these days. When it comes to things like microtransactions, there will always be enough whales willing to dump hundreds into a game to make up for a handful of people sticking with their morals and not spending their money.
+I don't know if it's the same now, but when I played Warframe I would also put that in the same tier of actually seemingly to care about the player base.
+Rock and Stone!
+I'm just glad nobody got thrown off of hell in a cell and plummeted 16ft through an announcer's table.
+    Or beat with a pair of jumper cables
+Albert Einstein is the CEO of ghostship games? Amazing, I had no idea he was even real. Everyone always told me he was theoretical.
+Tabg is great
+    SWAWS
+        *I know what this means*
+        SWAWS
+
+*°throws white box with SWAWS on it°*
+
+***EXPLODES***
+Yeah, the DLC framework is the previous one but with more detailing, greebles and glowy bits. It's impressive how much it makes a difference though, especially with the higher contrast paint job.
+Hey, dwarf! You make this team really wholesome!
+[botted/copied comment](https://www.reddit.com/r/DeepRockGalactic/comments/13vz50i/what_did_we_do_to_deserve_such_an_awesome_dev_team/jm8uuyh/)
+Good bot
+    Thank you, Bondorian, for voting on WanderingDwarfMiner.
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).
+
+***
+
+^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)
+Rock and stone!
+    For Karl!
+        For rock and stone!
+I'm a little sad for the guy who worked on the original concept though, maybe he really liked it.  
+I can understand that, not everyone has the same tastes in anything, even game's skins.
+    That's why they added the original paintjob back!
+
+"And don’t worry, those of you already cracking your knuckles to tell us you liked the old Paintjob: The Paintjob you saw in the first trailer will be added to the next Performance Pass, because dang it, we really liked it!" - from the Steam post.
+The Yellow power tool skins? And they remade them? Oh nice.
+
+(Also releasing the old ones for free is a really good move since adds content at no cost since well... they already made the skins why delete them.)
+
+I want the yellow beam cutter, just because it looks like an actual tool space engineer tool that became weaponized like in Dead Space.
+What were the community complaints? I watched the reveal and thought they looked pretty great. Hell, I think I might have been the most excited I had been for a DLC, or close to it.
+Good bot
+For Karl!
+Ironically and sadly there's something so very 40k about that.
+Its why I jumped over to DRG, because Darktide on release was so underbakedand rushed to meet release quotas. Don't know what state its in right now, not good I bet.
+    It is better now. I think right now it is about the level it should have beeen at lunch. It went from really bad to mediocre rating on steam and I think that it is pretty accurate. I would give the game more time for the devs to properly fix all the stuff.
+Here you go mate: https://youtu.be/ZJvyhulnAlA
+Last I checked terraria was the 11th most sold game worldwide
+    Wow! I knew it was popular, but jesus
+        Lol
+For Karl
+big thank
+I heard someone tell me that Plasma Bursters are supposed to be used more like a guided death cloud instead of one off missiles. I enjoy it in that capacity, but the singular missile are really weak.
+    the problem is that if they hit the ground (hey most bugs are on the ground, right?) that they disappear... so it's like, maybe good for mactera plague or phase 2 of the heartstone.... but I can't figure out anything else.. Maybe season 4 will give it more use.
+Don't wanna nerf any of the rocket jumping ability, just think the ammo bonus is too good. You can use RJ250 without rocket jumping at all and it's still pretty much a base upgrade to the weapon.
+Bullet Hell certainly needs a buff. It struggles to perform better than a non-Overclocked Minigun, that's saying quite a bit. As for Stability and Fire Bolt, I'm only talking very minor buffs. super teeny. Nothing big.
+    Bullet Hell allows you to hit weakpoints and enemies that you can't see, stun an entire horde in seconds, and has enough ammo to challenge God himself.
+
+Sure, it's no Neurotoxin, but if you think with portals a little it's a surprisingly effective blast.
+        Why stun an entire horde when you could just be killing the entire horde instead? Bulldog with explosive rounds can easily stun a wave while also doing decent damage and not wasting a ton of ammo to kill stuff.
+
+Look, if you already think Bullet Hell is good, then a buff to it wouldn't be bad, right? The damage penalty is just too much.
+Rock and Stone, Brother!
+“checkbox of representation” lmao ok not sure how you extrapolated that from someone asking for female characters
+Yeah, as 50% of the world population I'm a real special snowflake. 🙄
+
+> going female is sometimes fun
+
+But not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again? If it was such an obvious assumption that charcters are girls that there some game devs would even forget males exist? Totally ignoring the concept. If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded". 
+
+> You should try the same
+
+I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+You're not the "default" person.
+    >but not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again?
+
+I do play female characters when im giving the option from time to time, whenever i play MMOs i pick girl avatars cause they look cool, also some of my favorite games you are locked in playing a female protagonist only such as:
+
+* Touhou Project (all the cast is female)
+* Portal 1 & 2
+* Slime Rancher 1 & 2
+* Control
+* Tomb Raider
+* Transistor
+* Senran Kagura series(everyone is a female there too)
+* Nier Automata (you play as 2B for the most part)
+* Horizon Zero Dawn
+
+just to name a few...
+
+>If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded".
+
+no, not everything is made for me,i'm open minded, i don't mind at all if there are no males in a game, in fact my most beloved franchise is the *touhou project*, and almost everyone there is a female(except rinnosuke which is just an unimportant shopkeeper) the game is a 99:1 ratio female to male, and you don't see it's fandom having a meltdown or a tantrum over that.
+
+in fact, i would go as far as saying you only see girls like you having a meltdown over "lack of female representation" in video games. Funny how you don't see male gamers spewing chauvinist discontent whenever we are in the opposite side of the coin.
+
+>I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+no, actually not really, i cannot think of many games where playing male is your only option.
+
+* deep rock galactic
+* team fortress 2
+* Super Mario Games?
+
+yeah, i think thats it.
+> It's easier for me to pretend women don't exist than to acknowledge criticism of a game.
+Rock and Stone everyone!
+Thanks friend!
+Good bot
+Aye! ROCK AND STONE!
+I wasn’t expecting blizzard lore that could possibly make me dislike them more but here we are, thank you
+    Just when you think they reached a new low, you get reminded of the "don't you guys have phones" guy, and of the scandals regarding harassment on the workplace.
+        I saw a post about that recently, it’s insane to see people so detached
+You're a bit off. League of Legends was made in part by one of the original dota authors, but not the one who made DotA into it's most popular incarnation (icefrog). 
+
+Blizzard didn't sue Riot over League of Legends. They sued Valve over DotA 2, which was made by IceFrog. 
+
+As a result of that lawsuit, though not a victory for blizzard by any means several heroes which were closeish to blizzard IP were changed in lore and name (though moreso out of caution by Valve).
+    I'll never fucking forgive them for the skeleton king debacle. Would they truly have fought valve over ownership of the concept of a skeleton king??? Valve is pretty good in my book but they're not off the hook for selling skeleton king back to players as a limited time only exclusive cosmetic. I hate the games industry sometimes. Bless DRG and its devs...
+This is peak Blizzard lol
+Just more proof to show that the more a game company tries to tighten its grip on its own community, the more the community falls apart in their hands.
+Man, this just makes me more and more depressed about how awesome Blizzard was in the late 90s and early 00s. Their fall from grace guts me everytime I hear about their company...
+I was sort of referring to how blizz handled the Mercy changes years ago. They said they would listen to feedback and the community filled 4 mega-threads worth of discussion and complaints and we got basically told "haha fuck you!" by Jeff Kaplan.
+
+It wasn't the only case of that sort of behavior though, it honestly amazes me that ANYONE would support them. Between how they view customers, coworkers and human rights vs. China dollars.... they deserve to be boycotted out of business.
+Hahaha i just wrote that in an answer, literally now.  
+I confirmed the comment and saw yours instead, truly an unforgettable moment, at least, i will be sure to remind people of this forever.
+I would be fine if they just added more perks and fix some of the useless ones.
+    I wish there were some options for perks that are obviously intended for one class over another; that'd almost guarantee variety.
+
+As they are now they're all so general, and the good ones are so good, that everybody picks the same ones.
+        I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+            *downgrades platform gun to mk1*
+                I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+                    Your laser pointer is your friend.
+                        Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+                    Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+            Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+                Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+                    Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                        And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                        Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+                    But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+                    The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                        I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+            They could just make only stable OCs? I dunno
+            Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+        I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+            And a big, bushy mustache.
+            You really want to turn this game into a jump'n'run, don't you?
+                No, they want Trolldier from TF2 added to the game
+            Or maybe temporarily enables power attack if you're flying through the air fast enough
+        I often pick the less used one for variety and nothing else
+        I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+            These are all really good ideas
+                Of course there'd also be a few more options for each class
+    > just added more perks 
+
+I wish they made a pick nick active perk.
+
+You would use it and put down a bunch of food and beer that you could consume for HP.
+
+Would be good for when there is no red sugar and you don't want to use a resupply just to get full hp.
+    "just add" is *way* more balance work than you are implying.
+        I'm saying compared to an overhaul
+One thing I would love with the perks is having them much stronger then they are (for most) and putting all perks on the table against iron will or double jump vs bringing things down to the level of medic (I think to be on par with iron will it needs more charges) but that’s not a great example I just don’t remember the names that well outside what I run there’s a somthing hell that could be the median level of the game and I don’t want that reality I want them to be strong where it’s hard to pick perks because they’re all such good options but that’s just my take
+If they will overhaul perks, i hope they put perks that gives bonus when you tag enemies like the one in Back4Blood. It's a way to better define the role of a scout.
+And I will patiently wait for the day it gets an overhaul. It will be glorious
+[deleted]
+    I think Dash shouldn't be a perk, just a mechanic at all times. I'm too used to playing with it that I can never remove it.
+        I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+            i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+                It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+                    I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+            Same. My feet aren’t on the ground long enough to bother sprinting.
+        Make it an armor upgrade
+        I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+        Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+    I play solo most of the time so medic has perished for me
+    I always pick medic to all my loadouts because of its passive.
+    Dash is the best perk imo, but I feel like every team needs 1-2 iron wills.
+        I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+I wouldn't be mad if they removed the active part of both IW and FM and gave everyone a single "Revive Charge" that can be used once per mission to either revive yourself temporarily or an ally instantly
+    Yup, this is the way to do it; that would fix IW being mandatory.
+Where there's choice with mechanical consequences, there will be "meta" options, even if its a 1% difference
+Idk, since the game isn't pvp, there is much less incentive to "play what works".
+
+I've tried berserker just as a challenge or wanting to try something new, it just sucks too much for me to enjoy it.
+    Berserk may be bad on its own, but it becomes worth thinking about if you're gonna combo it with vampire and iron will.
+        I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+        But then I'd have to give up Strong Arm!
+            I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+                Almost as addictive as red sugar.
+            It's not that bad solo with anything but scout.
+    I think thats fair. Berserker is hard to use optimally, but combined with the armor rig upgrade for boosted limited time invulnerability upon revival and/or vampirism, you can get back up into a fight and clear a large creature or big swarm with a melee drill build. Or even just the Better Weight Balance mod, you get a power attack every .90 seconds.
+
+But for my Ganondwarf melee Driller? Would be really sad if it got nerfed/removed.👍
+Absolutely this.
+
+Many people think hover boots are a crutch perk, but the level of complete autonomy it gives my scout means we mine more nitra faster and that I can get a bird's eye view of the swarm, tag and hit important targets quickly, all while being at little to no risk (mactera permitting). And hey, if I mistime a grapple + power attack, I've got my own back and my team doesn't need to divert attention to rezzing me
+    I think the key is do you play with buddy’s or do you random it? Idk, only reason I ask is because I do pick perks differently myself depending.
+
+What you describe here is how I play when I’m on voice shooting the ~~shit~~ bugs with the bros. We normally all pick steve because it’s steve, and that’s the only reason we ever really have had.
+
+Vs. when I am just playing in a random group; I much prefer to stick to the dash+iron will combo in case of the “worst case scenario” I can make it to the resupply pod/red sugar and then save the team…in theory ;)
+A perk that is very good compared to all of the others, so there is little to no reason not to take it
+    So like field medic and iron will?
+
+I always take vampire, thorns, and elemental resistance for the red ones. Bc the trade off fpr not having them is better then the other perks imo. Do I got that right?
+        Auto reload as third for gunner
+        IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+            I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+        Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+            resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+                Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+Perks that most people pick because they are the best ones
+A perk so good that you'd be a fool not to include it in your build. Biggest example is Iron Will, since it allows you to clutch when your whole team goes down. Most other perks do not have the universal usefulness of this one, so that's why Iron Will is considered an "auto-pick."
+Iron Will. Not taking it risks wasting everybody's time on haz5 (and haz4 if you're playing with greenbeards.)
+
+People have been autopicking it since it got added to the game.
+
+It should just be a core mechanic tbh (1 free self-revive, no buffs or anything necessary.)
+It's a Bug Thing
+Did I hear a rock and stone brother?!
+Unfortunately that is really true, which is why (many) triple A companies keep doing this
+    Idk, market research is not exactly scientific in its standards of evidence and rooted in tradition and "it works before." Which is empirically better given a matched game, matched advertising budget... etc. 
+
+It'd be a hard question to actually empirically answer, and maybe I'm just being nieave, but it idk.
+That's why voting with your wallet doesn't really work these days. When it comes to things like microtransactions, there will always be enough whales willing to dump hundreds into a game to make up for a handful of people sticking with their morals and not spending their money.
+Or beat with a pair of jumper cables
+SWAWS
+    *I know what this means*
+    SWAWS
+
+*°throws white box with SWAWS on it°*
+
+***EXPLODES***
+Thank you, Bondorian, for voting on WanderingDwarfMiner.
+
+This bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).
+
+***
+
+^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)
+For Karl!
+    For rock and stone!
+That's why they added the original paintjob back!
+
+"And don’t worry, those of you already cracking your knuckles to tell us you liked the old Paintjob: The Paintjob you saw in the first trailer will be added to the next Performance Pass, because dang it, we really liked it!" - from the Steam post.
+It is better now. I think right now it is about the level it should have beeen at lunch. It went from really bad to mediocre rating on steam and I think that it is pretty accurate. I would give the game more time for the devs to properly fix all the stuff.
+Wow! I knew it was popular, but jesus
+    Lol
+the problem is that if they hit the ground (hey most bugs are on the ground, right?) that they disappear... so it's like, maybe good for mactera plague or phase 2 of the heartstone.... but I can't figure out anything else.. Maybe season 4 will give it more use.
+Bullet Hell allows you to hit weakpoints and enemies that you can't see, stun an entire horde in seconds, and has enough ammo to challenge God himself.
+
+Sure, it's no Neurotoxin, but if you think with portals a little it's a surprisingly effective blast.
+    Why stun an entire horde when you could just be killing the entire horde instead? Bulldog with explosive rounds can easily stun a wave while also doing decent damage and not wasting a ton of ammo to kill stuff.
+
+Look, if you already think Bullet Hell is good, then a buff to it wouldn't be bad, right? The damage penalty is just too much.
+>but not all the time? Since you have the option to, why not mix it up and play female? It's not like you are being forced to play girls in most games. Wouldn't it be wild if all games had female charcters and people would condensingly tell you to "try new things" when it's literally the same thing over and over again?
+
+I do play female characters when im giving the option from time to time, whenever i play MMOs i pick girl avatars cause they look cool, also some of my favorite games you are locked in playing a female protagonist only such as:
+
+* Touhou Project (all the cast is female)
+* Portal 1 & 2
+* Slime Rancher 1 & 2
+* Control
+* Tomb Raider
+* Transistor
+* Senran Kagura series(everyone is a female there too)
+* Nier Automata (you play as 2B for the most part)
+* Horizon Zero Dawn
+
+just to name a few...
+
+>If asking for a charcter like you would ALWAYS be condensingly met with "not everything is for you" and "how do you know males even exist in this universe? Be open minded".
+
+no, not everything is made for me,i'm open minded, i don't mind at all if there are no males in a game, in fact my most beloved franchise is the *touhou project*, and almost everyone there is a female(except rinnosuke which is just an unimportant shopkeeper) the game is a 99:1 ratio female to male, and you don't see it's fandom having a meltdown or a tantrum over that.
+
+in fact, i would go as far as saying you only see girls like you having a meltdown over "lack of female representation" in video games. Funny how you don't see male gamers spewing chauvinist discontent whenever we are in the opposite side of the coin.
+
+>I'm a 34 year old female gamer. Really try and think about how many times this was the only option. You don't really think deep rock is the first time this cneario has come up... do you?
+
+no, actually not really, i cannot think of many games where playing male is your only option.
+
+* deep rock galactic
+* team fortress 2
+* Super Mario Games?
+
+yeah, i think thats it.
+Just when you think they reached a new low, you get reminded of the "don't you guys have phones" guy, and of the scandals regarding harassment on the workplace.
+    I saw a post about that recently, it’s insane to see people so detached
+I'll never fucking forgive them for the skeleton king debacle. Would they truly have fought valve over ownership of the concept of a skeleton king??? Valve is pretty good in my book but they're not off the hook for selling skeleton king back to players as a limited time only exclusive cosmetic. I hate the games industry sometimes. Bless DRG and its devs...
+I wish there were some options for perks that are obviously intended for one class over another; that'd almost guarantee variety.
+
+As they are now they're all so general, and the good ones are so good, that everybody picks the same ones.
+    I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+        *downgrades platform gun to mk1*
+            I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+                Your laser pointer is your friend.
+                    Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+                Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+        Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+            Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+                Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                    And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                    Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+                But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+                The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                    I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+        They could just make only stable OCs? I dunno
+        Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+    I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+        And a big, bushy mustache.
+        You really want to turn this game into a jump'n'run, don't you?
+            No, they want Trolldier from TF2 added to the game
+        Or maybe temporarily enables power attack if you're flying through the air fast enough
+    I often pick the less used one for variety and nothing else
+    I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+        These are all really good ideas
+            Of course there'd also be a few more options for each class
+> just added more perks 
+
+I wish they made a pick nick active perk.
+
+You would use it and put down a bunch of food and beer that you could consume for HP.
+
+Would be good for when there is no red sugar and you don't want to use a resupply just to get full hp.
+"just add" is *way* more balance work than you are implying.
+    I'm saying compared to an overhaul
+I think Dash shouldn't be a perk, just a mechanic at all times. I'm too used to playing with it that I can never remove it.
+    I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+        i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+            It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+                I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+        Same. My feet aren’t on the ground long enough to bother sprinting.
+    Make it an armor upgrade
+    I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+    Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+I play solo most of the time so medic has perished for me
+I always pick medic to all my loadouts because of its passive.
+Dash is the best perk imo, but I feel like every team needs 1-2 iron wills.
+    I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+Yup, this is the way to do it; that would fix IW being mandatory.
+Berserk may be bad on its own, but it becomes worth thinking about if you're gonna combo it with vampire and iron will.
+    I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+    But then I'd have to give up Strong Arm!
+        I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+            Almost as addictive as red sugar.
+        It's not that bad solo with anything but scout.
+I think thats fair. Berserker is hard to use optimally, but combined with the armor rig upgrade for boosted limited time invulnerability upon revival and/or vampirism, you can get back up into a fight and clear a large creature or big swarm with a melee drill build. Or even just the Better Weight Balance mod, you get a power attack every .90 seconds.
+
+But for my Ganondwarf melee Driller? Would be really sad if it got nerfed/removed.👍
+I think the key is do you play with buddy’s or do you random it? Idk, only reason I ask is because I do pick perks differently myself depending.
+
+What you describe here is how I play when I’m on voice shooting the ~~shit~~ bugs with the bros. We normally all pick steve because it’s steve, and that’s the only reason we ever really have had.
+
+Vs. when I am just playing in a random group; I much prefer to stick to the dash+iron will combo in case of the “worst case scenario” I can make it to the resupply pod/red sugar and then save the team…in theory ;)
+So like field medic and iron will?
+
+I always take vampire, thorns, and elemental resistance for the red ones. Bc the trade off fpr not having them is better then the other perks imo. Do I got that right?
+    Auto reload as third for gunner
+    IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+        I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+    Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+        resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+            Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+Idk, market research is not exactly scientific in its standards of evidence and rooted in tradition and "it works before." Which is empirically better given a matched game, matched advertising budget... etc. 
+
+It'd be a hard question to actually empirically answer, and maybe I'm just being nieave, but it idk.
+*I know what this means*
+SWAWS
+
+*°throws white box with SWAWS on it°*
+
+***EXPLODES***
+For rock and stone!
+Lol
+Why stun an entire horde when you could just be killing the entire horde instead? Bulldog with explosive rounds can easily stun a wave while also doing decent damage and not wasting a ton of ammo to kill stuff.
+
+Look, if you already think Bullet Hell is good, then a buff to it wouldn't be bad, right? The damage penalty is just too much.
+I saw a post about that recently, it’s insane to see people so detached
+I’d be curious to hear some of your specific ideas because, depending on what you mean by "obviously intended for one class," you might start to run up against the same core design principle that makes support/traversal OCs a bad idea. That is, players should be able to rely on the fact that their teammates' tools will, aside from minor tweaks, perform in predictable ways.
+    *downgrades platform gun to mk1*
+        I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+            Your laser pointer is your friend.
+                Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+            Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+    Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+        Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+            Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+                And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+                Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+            But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+            The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+                I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+    They could just make only stable OCs? I dunno
+    Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+I need a perk that reduces fall damage when landing on an enemy, that also does moderate damage. 
+
+Also one that increases power attack damage/AoE based on current velocity
+    And a big, bushy mustache.
+    You really want to turn this game into a jump'n'run, don't you?
+        No, they want Trolldier from TF2 added to the game
+    Or maybe temporarily enables power attack if you're flying through the air fast enough
+I often pick the less used one for variety and nothing else
+I've always thought it would be cool for class-specific perks like driller hitting faster with a pickaxe or Scout having faster flare cooldowns or engi repairing things faster or maybe even gunner getting a little bit more per resupply
+    These are all really good ideas
+        Of course there'd also be a few more options for each class
+I'm saying compared to an overhaul
+I don't play with it on my scout. I consider the scouts manoeuvring already quite excellent
+    i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+        It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+            I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+    Same. My feet aren’t on the ground long enough to bother sprinting.
+Make it an armor upgrade
+I think that would be way too much of a power creep to be able to use it at all times.
+
+So no.
+
+Make other perks way better instead.
+Same but with hover boots. I can't unequip it because I'll jump to my death every 5 seconds
+I have abused my desk long and hard because people don’t like running iron will sometimes. I get that it’s not the most fun perk on some classes, but we’re on a 3 Dread Haz 5 Elimination with Mactera Plague, so pick fucking iron will for one of your perk slots.
+I have a build with driller that focuses on Drill damage. Berserk, Damage driller and Vampire is a fucking health MACHINE combined with the most brutal, dangerous playstyle I could think of. Short: It's fucking nuts! It makes me wonder why we don't have more close range weapons
+But then I'd have to give up Strong Arm!
+    I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+        Almost as addictive as red sugar.
+    It's not that bad solo with anything but scout.
+Auto reload as third for gunner
+IMO, Resupplier is the best red perk by far. The faster resupply speed is no joke. There are so many times where it has allowed me to resupply in the middle of the swarm for health/ammo and it makes using pods to stay up after Iron Will a whole lot easier. The extra healing is also top tier in Haz 5 where you get very little natural health regen after being taken to near 0.  It's CRAZY good.
+
+Honorable mention goes to unstoppable. It says environmental slows but it works against enemy slows too, like slashers, naedocytes, and goo bomber goo. Given the importance of mobility it's actually a decent choice.
+
+As for your picks,
+
+Thorns: Good at haz 3, ok-ish at haz 4, not good at haz 5. When there are more bugs that can overwhelm Thorns's cooldown, and when those bug bites start hitting like trucks, it just becomes a lot less desirable.
+
+Elemental resistance is... eh. The worst part about standing in molten core lava is less the damage and more that it prevents your shield regen. It does help vs Praetorian spit/gas, acid spitter DoT, and all variants of glyphid radiation, so it's not terrible.
+
+Vampire is ok and can be very good. Works well with Iron Will. Is amazing for Cryo Drillers. Other than those situations it's not terribly broken.
+    I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+Personally...
+
+Born Ready: almost always when I have two reloadable weapons, 100% always on autocannon gunner.
+
+Thorns: almost always.
+
+Vampire: always on driller, sometimes on particular builds that tend to leave bugs on low health (NTP gunner), or paired with berserker on builds where I run out of ammo sometimes.
+
+Friendly: always on fat boy engi unless I'm feeling real funni today, occasionally otherwise.
+
+Veteran depositor: to stack DR when I'm running the damage reduction upgrades on autocannon and coil gun. I think this is probably sleeper OP on particular mission types.
+
+Resupplier: if I don't especially need anything else.
+    resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+        Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+*downgrades platform gun to mk1*
+    I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+        Your laser pointer is your friend.
+            Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+        Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+Well it's like, hover boots end up being infinitely more useful on Scout than other classes.
+    Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+        Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+            And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+            Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+        But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+        The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+            I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+They could just make only stable OCs? I dunno
+Simple things like you take less fall damage if you've been off the ground for longer some time period, like 5 or 10 seconds - likely most beneficial to a gunner or scout, but could technically be used by anybody. Or maybe something like jumping off a platform makes you jump slightly higher or farther, or running across a platform gives you a slight speed boost.
+And a big, bushy mustache.
+You really want to turn this game into a jump'n'run, don't you?
+    No, they want Trolldier from TF2 added to the game
+Or maybe temporarily enables power attack if you're flying through the air fast enough
+These are all really good ideas
+    Of course there'd also be a few more options for each class
+i'm a huge dash believer, and i just don't get dash scout players. is the three second recharge of the grapple not enough?
+    It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+        I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+Same. My feet aren’t on the ground long enough to bother sprinting.
+I never used strong arm, is it worth it? I mean, how good can it be to 'throw your flares further'?
+    Almost as addictive as red sugar.
+It's not that bad solo with anything but scout.
+I think all the red perks are pretty mid other then vampire being the only one better then the rest. Everything else is pretty trash but I'll take 30% dmg resistance over the others for sure and maybe consider resupplier over thorns. I don't need to resupply faster when I can kite a swarm away from a resupply pod and then double back in less time then they can get to me on scout. Other classes sure, could be useful.
+resupplier is the most OP perk out of all of these.
+
+veteran depositor is very bad, maybe if the range was far wider but less dmg reduction? Fighting on rigs is bad since the bugs get buggier there.
+
+It's funny because when I started playing I thought resupplier was bad and veteran was insane.
+    Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+I've gotten knocked a few times by jumping down on a platform when I didn't realize the random engineer was like level 5
+    Your laser pointer is your friend.
+        Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+    Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+Not true, actually! Scout has a built in fall damage reduction, two overclocks that negate fall damage, and the grappling hook can negate fall damage. 
+
+If anyons needs Hover boots, it's Driller and Gunner, who can either dig into the top of a cave or fall off a zipline to their doom.
+    Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+        And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+        Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+    But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+    The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+        I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+No, they want Trolldier from TF2 added to the game
+Of course there'd also be a few more options for each class
+It's not good.
+
+But it's fun, and people feel the need to justify it with anything other than "it's fun", so they make up bad excuses.
+    I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+Almost as addictive as red sugar.
+Resupplier is definitely the most generally useful, you can never go wrong with it. 
+
+Depositor is mostly useful if you're with teammates who understand you have it and will allow you to park Molly somewhere strategic. Definitely weak on point extraction and refining for the reason you describe. Quite strong on escort since you can park Molly next to Doretta at the Heartstone stage. I mostly just run it on autocannon/coilgun gunner for maximum tankiness.
+Your laser pointer is your friend.
+    Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+Looool. I'm so dumb. I dindn't realize this was the reason why im dying after jumping in a random engineer's platform
+Okay let me rephrase, I am zooming around so much on Scout with the blood alcohol level of a white woman after a bottle of wine that it is infinitely more useful to me personally than it is on other classes.
+
+I get way too cocky.
+    And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+    Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+But with hover boots on scout you can easily mine the minerals on the celing all by yourself.
+The main utility of hover boots is not to mitigate fall damage, but to sustain a midair position for securing minerals or materials in the ceiling or a wall that's very high up
+    I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.
+I mean, my justification is literally just that.
+
+It's a game, the point of a game is to have fun. So I bundle all of the Scout's fun mobility tools into one build, not because it's meta-defining, but because it's - get this - **fun** to reach the Drop Pod at 4:50 with Special Powder and Dash.
+
+I flare and hit my Classic shots, and that's basically enough for Haz4 anyway.
+Does it tell you if it's an upgraded platform? I never even thought to try that because my friends and myself all run Mk.2 platforms.
+And then inevitably, you miscalculate your recharge and fall to your death.
+
+Not that I speak from experience...
+Getting my dwarf white girl wasted and entering the drop ship and rinsing ammo shooting hangover blurs :D
+I can see how it could be used like that, but I really don't feel like it's very good at that. 
+
+I always feel like the activation is somewhat inconsistent due to having to hold a button that has a different use, so trying to stop at the right height to get all of a nitra vein is.... tough, to say the least. You have like 7 meters of clearance for negating fall damage, at least.

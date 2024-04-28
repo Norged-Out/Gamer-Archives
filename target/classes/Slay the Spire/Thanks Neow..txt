@@ -1,0 +1,1089 @@
+[[Thanks Neow.]]
+
+
+
+
+
+Random rare card might as well say, start with a random curse in your deck
+    Unless you're Watcher. Watcher's Rares are all great and give you a good jumping off point to build around. Except for Conjure Blade, but CB's still a passable card.
+        Conjure blade becomes funny once you get a lot of energy, but kinda sucks early unless you aren't attacked when you draw it
+            It’s definitely a win more card because you probably had something better and more immediate to do with all that energy. It’s quite satisfying to play it though for the bloody murder it causes
+                Most of the time sure. But [[Deva Form]] is a thing and the rest of your deck can simply be defense with CB sorting out your damage scaling. That said, I still feel that build would require either an [[Ice Cream]] or using [[Omniscience]] on Deva Form in order to not be stupidly slow.
+                    + [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            It especially sucks when unupgraded because playing it with 0 energy adds what might as well be a wound into your deck. At least an upgraded Conjure Blade essentially gives a Strike+ if you can’t save any energy for it.
+
+Also it’s flipping bonkers with master reality, as the upgrade gets a 66% damage buff
+                Had no idea it did 15 damage per hit. Deva form + Divinity + Conjure blade must be something
+        In theory yes, but in pratice I allways end up with [[establishment]] or [[master reality]] :')
+            + [Establishment](http://slay-the-spire.wikia.com/wiki/Establishment) Watcher Rare Power
+    
+    1 Energy | **(Innate.)** Whenever a card is **Retained,** lower its cost by 1.
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            Establishment and meditate can make the cost of any card in your deck go down for the remainder of the fight. Great combo, and pretty safe.
+            Establishment + upgraded battle hymn is definitely very passable combo.
+
+Both are Innate.
+
+problem comes then with the turn 1 onslaughts of damage coming my way...
+                Personally I prefer a non-upgraded battle hymn. Battle hymn isn't very effective at bursting enemies down so you don't need to worry about block, and at that point I'd rather set up my defense/defensive scaling first, and I don't care too terribly much how quickly I start attacking.
+                    It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+            Estabilishment is great card tho. You just then go and look for [[windmill strike]] and a lot of [[carve reality]].
+
+Or go for any other end use estabilishment to keep the stances for future turns to make great combos.
+
+The only "problem" is that getting Estabilishment isn't hard because even though it's rare, you can get that in victory draws quite often (which is not that bad of a thing IMO).
+
+EDIT: Forgot about [[battle hymn]]
+                Yes, but it functions as a curse until you get the combo going. Even if you get windmill before the first elite it might replace a defend or give you a strike less in the first 3+ hallway fights. 
+
+At that point it is no longer free, it cost you 10-20 health
+
+It is one of my favorite watcher cards, but I wouldnt want it before the end of act 1 unless I get an early battle hymn
+                + [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Carve Reality](http://slay-the-spire.wikia.com/wiki/Carve%20Reality) Watcher Uncommon Attack
+    
+    1 Energy | Deal 6(10) damage. Add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                    [deleted]
+                        + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Well yeah, watcher is OP in every way, so of course they’d have the best odds with random rare starting gift on top of all the other silliness.
+        I gotta say, master reality is a pretty dead draw without a dead branch
+        Watcher's rares are easily her worst pool of cards to pick from lol, are we playing the same game? Choosing a rare card / random rare is strong on all characters except watcher.
+            You're definitely playing a different game.
+                Blasphemy, scrawl, vault, lesson learned, ragnarok are what you'd want. Even then, ragnarok is bad against lagavulin and sentries. Scrawl is questionable against nob and needs an upgrade / retain stuff to function. So that leaves lesson learned, vault, blasphemy, and ragnarok as relevant rares to start with.. keeping in mind that they almost all demand upgrades. 
+
+Spirit shield, omniscience, wish, master reality, judgment, establishment, conjure blade, brilliance, deus ex machina, alpha, deva form, and Devotion are the ones you wouldn't want. They will function as curses in most fights, except spirit shield, but Deceive Reality is better than it anyway.
+
+That's ~5 rare cards that aren't curses and 12 that are. Choose a rare card / random rare card on watcher are bad options. Of course, reroll relic is best every time for the character. And watcher trivializes the entire game with just commons and uncommons. Just bc the card is gold and shiny doesn't mean it's good. I'd sooner take a colorless card as neow bonus just to try to find Trip. 
+
+And you're right, I am playing a different game - I wonder if anyone who disliked my comment is also a top 20 Watcher on the ascension leaderboards. Go ahead and downvote tho. Hivemind too real.
+                    It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+                        Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+        Weird because Watcher's best cards are common and uncommon cards. It is more likely the extra energy is making rare cards easier to use.
+            Yup, Flurry of Blows in particular might be the best common in the game. But her rares are still solid additions to your deck. Especially in Act 1.
+    Unless it’s [[die die die]] then it’s just a free kill for all the louses
+        That's how I feel when I get an [[Immolate]] as a reward. Fuck you louse and minion rooms
+            + [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Silent has a lot of good rares, but it's a 50/50 to get something good or be stuck with a [[bullet time]], [[envenom]], [[burst]] which all suck early in act 1. At that point it's better odds to just trade starting relics
+            I've been bricked by [[grand finale]] too many times before being able to manipulate my deck well enough to use it.
+                + [Grand Finale](http://slay-the-spire.wikia.com/wiki/Grand%20Finale) Silent Rare Attack
+    
+    0 Energy | Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                I have never figured that card out. I'm up to Ascension 12 with Silent now and I still ignore that card. Someday I'm sure I'll need to learn to progress, but not yet!
+                    It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+            Is bullet time that bad early? It’s basically 4 cards played for free at the cost of drawing it.
+                I think i judged too harshly. 4 cards isn't that good early when u got all strikes and defend. But silent has a good chance to draw it first turn and play 6 while motovating to draft more costly cards. I still think it will make you take more damage in the early hallway fights, but it wil be a bigger reward than the other cards
+                    It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+                        I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+                            That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+            + [Bullet Time](http://slay-the-spire.wikia.com/wiki/Bullet%20Time) Silent Rare Skill
+    
+    3(2) Energy | You cannot draw additional cards this turn. Reduce the cost of cards in your hand to 0 this turn.
++ [Envenom](http://slay-the-spire.wikia.com/wiki/Envenom) Silent Rare Power
+    
+    2(1) Energy | Whenever an attack deals unblocked damage, apply 1 **Poison.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            After boss relics rework swapping relics seems like better start then most other things...
+        + [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    \*starts with Adrenaline\*
+
+\-**VICTORY**\-
+        Had a Watcher run where I started with Ragnarok and got bottled flame from the first elite
+            Building STR never felt better
+                Just need tantrum and it's over
+                    Just need akabeko and wreath of flames and shit would be STUPID
+    [[Immolate]], [[Die Die Die]], [[Fiend Fire]], [[Hyperbeam]], [[Electrodynamics]] and [[Echo Form]] say otherwise...
+
+Or a good portion of the Watcher cards, the only ones being bad is [[Wish]] and [[Alpha]].
+        + [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** into your discard pile.
++ [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
++ [Fiend Fire](http://slay-the-spire.wikia.com/wiki/Fiend%20Fire) Ironclad Rare Attack
+    
+    2 Energy | **Exhaust** all cards in your hand. Deal 7(10) damage for each **Exhausted** card. **Exhaust.**
++ [Hyperbeam](http://slay-the-spire.wikia.com/wiki/Hyperbeam) Defect Rare Attack
+    
+    2 Energy | Deal 26(34) damage to ALL enemies. Lose 3 **Focus.**
++ [Electrodynamics](http://slay-the-spire.wikia.com/wiki/Electrodynamics) Defect Rare Power
+    
+    2 Energy | **Lightning** now hits ALL enemies. **Channel** 2(3) **Lightning.**
++ [Echo Form](http://slay-the-spire.wikia.com/wiki/Echo%20Form) Defect Rare Power
+    
+    3 Energy | **Ethereal.** (not **Ethereal.)** The first card you play each turn is played twice.
++ [Wish](http://slay-the-spire.wikia.com/wiki/Wish) Watcher Rare Skill
+    
+    3 Energy | Choose one: Gain 6(8) Plated Armor, 3(4) **Strength,** or 25(30) Gold. **Exhaust.**
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 6, 2022.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Lol I don't understand this design choice. Rare cards should be good always almost.
+Truly an amazing post
+Defect rare cards are truly awful on average. There are only a couple which are actually good on floor 1, and a couple more which are bad early but strong later. You only have about 3 or 4 in the pool which feel like you really “got away” with anything (compared to, say, watcher or Ironclad rares, which are fantastic)
+    Oh really? There are a few duds in it. Getting an Amplify, Rainbow, Creative AI or Machine Learning is pretty much an extra course in the beginning. Similar to Meteor Strike, 
+
+But All for One, Hyberbeam and Core Surge are just decent attacks and can easily help overcome more tougher fights. 
+
+Electrodynamics, Fission, Biased Cognition or Multicast are amazing and help shred through Act 1.
+
+Seek, Reboot and Echo Form are I think relatively neutral in the start, with potentially being amazing by the end of the act.
+
+I like the extra rare card from neow on Defect. My winrates are also absolutely shit. But I don't think the options are that bad.
+        My take is that Rainbow is absolutely fine on floor 1, but not especially powerful and weaker as the run goes on. All for one can be good but takes work to be better than strikes. Fission is great later but pretty meh on floor 1, same with seek and reboot, since you don’t have any good cards to justify their clunkiness. Echo form can be really powerful but is also clunky in that it’s very hard to play in act 1.
+            I find that for rainbow to be good long term it needs to be upgraded to allow repeat draws. But then it becomes fantastic for a frost turtle deck because it allows you to cycle 3 orbs fast.
+                It’s a pretty good way to channel orbs in the short fights in act 1- does some damage, blocks a bit, etc. and lets you use your energy. Later on it’s a bit unfocused even if upgraded, but still on par with other orb generation e.g. ball lightning.
+        Getting hyperbeam from neow is superb. Hyperbeam is a great card, with terrible synergy with most other cards. Gaining it _before_ you worry about synergy is superb as it has no downside.
+
+If Neow gives you a hyperbeam, build around it, and win.
+        I agree with most of this except I think Fission and multicast aren’t great on floor 1. You have 3 energy so multi is like a bad dualcast before an upgrade or before finding a dark orb. Fission needs an upgrade and is only ok after it. Both are bad vs the Nob.
+Hmm today I will replace my starting relic with a random boss relic
+
+Tiny house
+
+Vanquished
+    [here you go](https://i.redd.it/bufiwivsxz161.jpg)
+        There it is!
+What year is it
+    2009gag
+        Damn they predicted STS!
+    Old is the new new. Get with the times old(young) man!
+Just you wait till Snecko.
+Dank
+I got that as my random rare card, f2 i transformed and got a second, f3 I got [[ice cream], ez win
+In my eyes, the best Neow choice when playing defect is " Lose 99 gold ; Get a rare card "
+It’s meteor strike the current most expensive card (excluding X energy cost cards)? I feel masterful stab is more expensive over time
+    Over time is key. It f you draw masterful strike on turn one it’s free at least
+        True. And if you don’t take any damage, it can stay free. It’s a little funny to see it reach 33 energy because you’re not very good
+            33 is actually impressive. Usually you'd be dead by then.
+                You could have those 5 intangible cards in your deck and it might be possible. I got that recently in one of the question rooms.
+                True. But if the enemy does very little damage, it’s going to add up on masterful stab
+                I think LifeCoach had a masterful stab that cost 34 or something recently.
+Yesterday got Nightmare on silent 🙃
+    I’ve never got nightmare to work.
+
+Can someone tell me some situations it works great in? Preferably ones that don’t require you having insane amounts of energy to start with.
+        Like most 2+ cost cards its pretty great with snecko eye. Without relics though it can work well enough with poison and catalyst to kill bosses.
+            Didn’t think of snecko, that makes a ton of sense, thanks!
+        Blur or dodge and roll so you have some black from last turn (maybe augmented with footwork). Or when the enemies aren't attacking. Or any intangible. Or concentrate. Runic pyramid makes the timing on nightmare much easier. 
+
+It's pretty bad Act 1 like many rare cards, but becomes more viable Act 2 ish and becomes potentially broken in Act 3.
+
+One broken combo is just nightmaring footwork for inifinite dex. I've also seen jorbs with 2 nightmares and alchemize for infinite potion refreshes.
+            Ah, runic would be a good place to start, to be able to manipulate hand better, thanks for the tips. I’m poor with the pyramid though too! 
+
+But thanks, these strategies all sound great so I’ll keep a closer eye out for them to try them out. Thanks.
+        It's especially good with [[snecko eye]] (and other cards that you would want to play multiple times). If you draw a nightmare with a zero cost [[wraith form]] (this is a best-case scenario), you get three free wraith forms on the next turn. It's hard to use without either snecko eye or insane energy. There are other scenarios in which it can be effective though. Nightmare on [[adrenaline]] is a better [[doppelganger]]. If you play it on [[alchemize]] you can try and fish for a [[fairy in a bottle]] or [[ghost in a jar]]. Most insane poison levels involve [[catalyst]] with nightmare or [[burst]] or both.
+            + [Snecko Eye](http://slay-the-spire.wikia.com/wiki/Snecko%20Eye) Boss Relic
+    
+    Draw 2 additional cards each turn. Start each combat Confused.
++ [Wraith Form](http://slay-the-spire.wikia.com/wiki/Wraith%20Form) Silent Rare Power
+    
+    3 Energy | Gain 2(3) **Intangible.** At the end of your turn, lose 1 **Dexterity.**
++ [Adrenaline](http://slay-the-spire.wikia.com/wiki/Adrenaline) Silent Rare Skill
+    
+    1 Energy | Gain 1(2) Energy. Draw 2 cards. **Exhaust.**
++ [Doppelganger](http://slay-the-spire.wikia.com/wiki/Doppelganger) Silent Rare Skill
+    
+    X Energy | Next turn, draw X(+1) cards and gain X(+1) Energy.
++ [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.
++ [Ghost In A Jar](http://slay-the-spire.wikia.com/wiki/Potions#Ghost_In_A_Jar) Rare (Silent only) Potion
+    
+    Gain 1 (2) **Intangible.**
++ [Catalyst](http://slay-the-spire.wikia.com/wiki/Catalyst) Silent Uncommon Skill
+    
+    1 Energy | Double(Triple) an enemy's **Poison.** **Exhaust.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            I’ve deffo leaned into burst and catalyst before, didn’t really consider that nightmare is pretty much just as good for it.
+
+I’ll try it with snecko, that makes a ton of sense, thanks
+        It works a lot better if you have well laid plans. Then use is on apparition, wraith form, catalyst, footwork, after image.
+        Nightmare wraith form, nightmare catalyst are both pretty much free wins. Nightmare on any scaling card is pretty good (footwork) also
+        If you nightmare a catalyst you will win next turn against virtually anything.
+Too bad it wasn’t Amplify
+I see a lot of hate on meteor strike in this sub. Am I the only one who thinks it's great? Obviously it's not great from meow but sometimes I grab an early meteor strike before I have any way to play it and start looking for turbo, or charge battery, or recycle. Sometimes it bites me but sometimes it works out. I think it's one of the funnest defect cards.
+This literally just happened to me today
+Lmao
+Just pick up a turbo, forehead
+This is good. We need more memes on this sub.
+I transformed into this yesterday. Almost abandoned my run right away.
+    You abandoned a run because of a single Injury?
+I see this is old, but this happened to me yesterday and I was sad
+I played 2 Meteor Strikes and 3 Sunders in a deck with Enlighten+ so they were just 1 cost cards
+Also playing Tempest after two Meteor strikes and either a turbo or that one card that doubles your energy was pretty cool
+The only win I had was a deck that abused meteor strike funny enough. Pretty new but thought it was humorous
+Unless you're Watcher. Watcher's Rares are all great and give you a good jumping off point to build around. Except for Conjure Blade, but CB's still a passable card.
+    Conjure blade becomes funny once you get a lot of energy, but kinda sucks early unless you aren't attacked when you draw it
+        It’s definitely a win more card because you probably had something better and more immediate to do with all that energy. It’s quite satisfying to play it though for the bloody murder it causes
+            Most of the time sure. But [[Deva Form]] is a thing and the rest of your deck can simply be defense with CB sorting out your damage scaling. That said, I still feel that build would require either an [[Ice Cream]] or using [[Omniscience]] on Deva Form in order to not be stupidly slow.
+                + [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        It especially sucks when unupgraded because playing it with 0 energy adds what might as well be a wound into your deck. At least an upgraded Conjure Blade essentially gives a Strike+ if you can’t save any energy for it.
+
+Also it’s flipping bonkers with master reality, as the upgrade gets a 66% damage buff
+            Had no idea it did 15 damage per hit. Deva form + Divinity + Conjure blade must be something
+    In theory yes, but in pratice I allways end up with [[establishment]] or [[master reality]] :')
+        + [Establishment](http://slay-the-spire.wikia.com/wiki/Establishment) Watcher Rare Power
+    
+    1 Energy | **(Innate.)** Whenever a card is **Retained,** lower its cost by 1.
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        Establishment and meditate can make the cost of any card in your deck go down for the remainder of the fight. Great combo, and pretty safe.
+        Establishment + upgraded battle hymn is definitely very passable combo.
+
+Both are Innate.
+
+problem comes then with the turn 1 onslaughts of damage coming my way...
+            Personally I prefer a non-upgraded battle hymn. Battle hymn isn't very effective at bursting enemies down so you don't need to worry about block, and at that point I'd rather set up my defense/defensive scaling first, and I don't care too terribly much how quickly I start attacking.
+                It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+        Estabilishment is great card tho. You just then go and look for [[windmill strike]] and a lot of [[carve reality]].
+
+Or go for any other end use estabilishment to keep the stances for future turns to make great combos.
+
+The only "problem" is that getting Estabilishment isn't hard because even though it's rare, you can get that in victory draws quite often (which is not that bad of a thing IMO).
+
+EDIT: Forgot about [[battle hymn]]
+            Yes, but it functions as a curse until you get the combo going. Even if you get windmill before the first elite it might replace a defend or give you a strike less in the first 3+ hallway fights. 
+
+At that point it is no longer free, it cost you 10-20 health
+
+It is one of my favorite watcher cards, but I wouldnt want it before the end of act 1 unless I get an early battle hymn
+            + [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Carve Reality](http://slay-the-spire.wikia.com/wiki/Carve%20Reality) Watcher Uncommon Attack
+    
+    1 Energy | Deal 6(10) damage. Add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+                [deleted]
+                    + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Well yeah, watcher is OP in every way, so of course they’d have the best odds with random rare starting gift on top of all the other silliness.
+    I gotta say, master reality is a pretty dead draw without a dead branch
+    Watcher's rares are easily her worst pool of cards to pick from lol, are we playing the same game? Choosing a rare card / random rare is strong on all characters except watcher.
+        You're definitely playing a different game.
+            Blasphemy, scrawl, vault, lesson learned, ragnarok are what you'd want. Even then, ragnarok is bad against lagavulin and sentries. Scrawl is questionable against nob and needs an upgrade / retain stuff to function. So that leaves lesson learned, vault, blasphemy, and ragnarok as relevant rares to start with.. keeping in mind that they almost all demand upgrades. 
+
+Spirit shield, omniscience, wish, master reality, judgment, establishment, conjure blade, brilliance, deus ex machina, alpha, deva form, and Devotion are the ones you wouldn't want. They will function as curses in most fights, except spirit shield, but Deceive Reality is better than it anyway.
+
+That's ~5 rare cards that aren't curses and 12 that are. Choose a rare card / random rare card on watcher are bad options. Of course, reroll relic is best every time for the character. And watcher trivializes the entire game with just commons and uncommons. Just bc the card is gold and shiny doesn't mean it's good. I'd sooner take a colorless card as neow bonus just to try to find Trip. 
+
+And you're right, I am playing a different game - I wonder if anyone who disliked my comment is also a top 20 Watcher on the ascension leaderboards. Go ahead and downvote tho. Hivemind too real.
+                It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+                    Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+    Weird because Watcher's best cards are common and uncommon cards. It is more likely the extra energy is making rare cards easier to use.
+        Yup, Flurry of Blows in particular might be the best common in the game. But her rares are still solid additions to your deck. Especially in Act 1.
+Unless it’s [[die die die]] then it’s just a free kill for all the louses
+    That's how I feel when I get an [[Immolate]] as a reward. Fuck you louse and minion rooms
+        + [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Silent has a lot of good rares, but it's a 50/50 to get something good or be stuck with a [[bullet time]], [[envenom]], [[burst]] which all suck early in act 1. At that point it's better odds to just trade starting relics
+        I've been bricked by [[grand finale]] too many times before being able to manipulate my deck well enough to use it.
+            + [Grand Finale](http://slay-the-spire.wikia.com/wiki/Grand%20Finale) Silent Rare Attack
+    
+    0 Energy | Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            I have never figured that card out. I'm up to Ascension 12 with Silent now and I still ignore that card. Someday I'm sure I'll need to learn to progress, but not yet!
+                It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+        Is bullet time that bad early? It’s basically 4 cards played for free at the cost of drawing it.
+            I think i judged too harshly. 4 cards isn't that good early when u got all strikes and defend. But silent has a good chance to draw it first turn and play 6 while motovating to draft more costly cards. I still think it will make you take more damage in the early hallway fights, but it wil be a bigger reward than the other cards
+                It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+                    I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+                        That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+        + [Bullet Time](http://slay-the-spire.wikia.com/wiki/Bullet%20Time) Silent Rare Skill
+    
+    3(2) Energy | You cannot draw additional cards this turn. Reduce the cost of cards in your hand to 0 this turn.
++ [Envenom](http://slay-the-spire.wikia.com/wiki/Envenom) Silent Rare Power
+    
+    2(1) Energy | Whenever an attack deals unblocked damage, apply 1 **Poison.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        After boss relics rework swapping relics seems like better start then most other things...
+    + [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+\*starts with Adrenaline\*
+
+\-**VICTORY**\-
+    Had a Watcher run where I started with Ragnarok and got bottled flame from the first elite
+        Building STR never felt better
+            Just need tantrum and it's over
+                Just need akabeko and wreath of flames and shit would be STUPID
+[[Immolate]], [[Die Die Die]], [[Fiend Fire]], [[Hyperbeam]], [[Electrodynamics]] and [[Echo Form]] say otherwise...
+
+Or a good portion of the Watcher cards, the only ones being bad is [[Wish]] and [[Alpha]].
+    + [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** into your discard pile.
++ [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
++ [Fiend Fire](http://slay-the-spire.wikia.com/wiki/Fiend%20Fire) Ironclad Rare Attack
+    
+    2 Energy | **Exhaust** all cards in your hand. Deal 7(10) damage for each **Exhausted** card. **Exhaust.**
++ [Hyperbeam](http://slay-the-spire.wikia.com/wiki/Hyperbeam) Defect Rare Attack
+    
+    2 Energy | Deal 26(34) damage to ALL enemies. Lose 3 **Focus.**
++ [Electrodynamics](http://slay-the-spire.wikia.com/wiki/Electrodynamics) Defect Rare Power
+    
+    2 Energy | **Lightning** now hits ALL enemies. **Channel** 2(3) **Lightning.**
++ [Echo Form](http://slay-the-spire.wikia.com/wiki/Echo%20Form) Defect Rare Power
+    
+    3 Energy | **Ethereal.** (not **Ethereal.)** The first card you play each turn is played twice.
++ [Wish](http://slay-the-spire.wikia.com/wiki/Wish) Watcher Rare Skill
+    
+    3 Energy | Choose one: Gain 6(8) Plated Armor, 3(4) **Strength,** or 25(30) Gold. **Exhaust.**
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 6, 2022.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Lol I don't understand this design choice. Rare cards should be good always almost.
+Oh really? There are a few duds in it. Getting an Amplify, Rainbow, Creative AI or Machine Learning is pretty much an extra course in the beginning. Similar to Meteor Strike, 
+
+But All for One, Hyberbeam and Core Surge are just decent attacks and can easily help overcome more tougher fights. 
+
+Electrodynamics, Fission, Biased Cognition or Multicast are amazing and help shred through Act 1.
+
+Seek, Reboot and Echo Form are I think relatively neutral in the start, with potentially being amazing by the end of the act.
+
+I like the extra rare card from neow on Defect. My winrates are also absolutely shit. But I don't think the options are that bad.
+    My take is that Rainbow is absolutely fine on floor 1, but not especially powerful and weaker as the run goes on. All for one can be good but takes work to be better than strikes. Fission is great later but pretty meh on floor 1, same with seek and reboot, since you don’t have any good cards to justify their clunkiness. Echo form can be really powerful but is also clunky in that it’s very hard to play in act 1.
+        I find that for rainbow to be good long term it needs to be upgraded to allow repeat draws. But then it becomes fantastic for a frost turtle deck because it allows you to cycle 3 orbs fast.
+            It’s a pretty good way to channel orbs in the short fights in act 1- does some damage, blocks a bit, etc. and lets you use your energy. Later on it’s a bit unfocused even if upgraded, but still on par with other orb generation e.g. ball lightning.
+    Getting hyperbeam from neow is superb. Hyperbeam is a great card, with terrible synergy with most other cards. Gaining it _before_ you worry about synergy is superb as it has no downside.
+
+If Neow gives you a hyperbeam, build around it, and win.
+    I agree with most of this except I think Fission and multicast aren’t great on floor 1. You have 3 energy so multi is like a bad dualcast before an upgrade or before finding a dark orb. Fission needs an upgrade and is only ok after it. Both are bad vs the Nob.
+[here you go](https://i.redd.it/bufiwivsxz161.jpg)
+    There it is!
+2009gag
+    Damn they predicted STS!
+Old is the new new. Get with the times old(young) man!
+Over time is key. It f you draw masterful strike on turn one it’s free at least
+    True. And if you don’t take any damage, it can stay free. It’s a little funny to see it reach 33 energy because you’re not very good
+        33 is actually impressive. Usually you'd be dead by then.
+            You could have those 5 intangible cards in your deck and it might be possible. I got that recently in one of the question rooms.
+            True. But if the enemy does very little damage, it’s going to add up on masterful stab
+            I think LifeCoach had a masterful stab that cost 34 or something recently.
+I’ve never got nightmare to work.
+
+Can someone tell me some situations it works great in? Preferably ones that don’t require you having insane amounts of energy to start with.
+    Like most 2+ cost cards its pretty great with snecko eye. Without relics though it can work well enough with poison and catalyst to kill bosses.
+        Didn’t think of snecko, that makes a ton of sense, thanks!
+    Blur or dodge and roll so you have some black from last turn (maybe augmented with footwork). Or when the enemies aren't attacking. Or any intangible. Or concentrate. Runic pyramid makes the timing on nightmare much easier. 
+
+It's pretty bad Act 1 like many rare cards, but becomes more viable Act 2 ish and becomes potentially broken in Act 3.
+
+One broken combo is just nightmaring footwork for inifinite dex. I've also seen jorbs with 2 nightmares and alchemize for infinite potion refreshes.
+        Ah, runic would be a good place to start, to be able to manipulate hand better, thanks for the tips. I’m poor with the pyramid though too! 
+
+But thanks, these strategies all sound great so I’ll keep a closer eye out for them to try them out. Thanks.
+    It's especially good with [[snecko eye]] (and other cards that you would want to play multiple times). If you draw a nightmare with a zero cost [[wraith form]] (this is a best-case scenario), you get three free wraith forms on the next turn. It's hard to use without either snecko eye or insane energy. There are other scenarios in which it can be effective though. Nightmare on [[adrenaline]] is a better [[doppelganger]]. If you play it on [[alchemize]] you can try and fish for a [[fairy in a bottle]] or [[ghost in a jar]]. Most insane poison levels involve [[catalyst]] with nightmare or [[burst]] or both.
+        + [Snecko Eye](http://slay-the-spire.wikia.com/wiki/Snecko%20Eye) Boss Relic
+    
+    Draw 2 additional cards each turn. Start each combat Confused.
++ [Wraith Form](http://slay-the-spire.wikia.com/wiki/Wraith%20Form) Silent Rare Power
+    
+    3 Energy | Gain 2(3) **Intangible.** At the end of your turn, lose 1 **Dexterity.**
++ [Adrenaline](http://slay-the-spire.wikia.com/wiki/Adrenaline) Silent Rare Skill
+    
+    1 Energy | Gain 1(2) Energy. Draw 2 cards. **Exhaust.**
++ [Doppelganger](http://slay-the-spire.wikia.com/wiki/Doppelganger) Silent Rare Skill
+    
+    X Energy | Next turn, draw X(+1) cards and gain X(+1) Energy.
++ [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.
++ [Ghost In A Jar](http://slay-the-spire.wikia.com/wiki/Potions#Ghost_In_A_Jar) Rare (Silent only) Potion
+    
+    Gain 1 (2) **Intangible.**
++ [Catalyst](http://slay-the-spire.wikia.com/wiki/Catalyst) Silent Uncommon Skill
+    
+    1 Energy | Double(Triple) an enemy's **Poison.** **Exhaust.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        I’ve deffo leaned into burst and catalyst before, didn’t really consider that nightmare is pretty much just as good for it.
+
+I’ll try it with snecko, that makes a ton of sense, thanks
+    It works a lot better if you have well laid plans. Then use is on apparition, wraith form, catalyst, footwork, after image.
+    Nightmare wraith form, nightmare catalyst are both pretty much free wins. Nightmare on any scaling card is pretty good (footwork) also
+    If you nightmare a catalyst you will win next turn against virtually anything.
+You abandoned a run because of a single Injury?
+Conjure blade becomes funny once you get a lot of energy, but kinda sucks early unless you aren't attacked when you draw it
+    It’s definitely a win more card because you probably had something better and more immediate to do with all that energy. It’s quite satisfying to play it though for the bloody murder it causes
+        Most of the time sure. But [[Deva Form]] is a thing and the rest of your deck can simply be defense with CB sorting out your damage scaling. That said, I still feel that build would require either an [[Ice Cream]] or using [[Omniscience]] on Deva Form in order to not be stupidly slow.
+            + [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    It especially sucks when unupgraded because playing it with 0 energy adds what might as well be a wound into your deck. At least an upgraded Conjure Blade essentially gives a Strike+ if you can’t save any energy for it.
+
+Also it’s flipping bonkers with master reality, as the upgrade gets a 66% damage buff
+        Had no idea it did 15 damage per hit. Deva form + Divinity + Conjure blade must be something
+In theory yes, but in pratice I allways end up with [[establishment]] or [[master reality]] :')
+    + [Establishment](http://slay-the-spire.wikia.com/wiki/Establishment) Watcher Rare Power
+    
+    1 Energy | **(Innate.)** Whenever a card is **Retained,** lower its cost by 1.
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    Establishment and meditate can make the cost of any card in your deck go down for the remainder of the fight. Great combo, and pretty safe.
+    Establishment + upgraded battle hymn is definitely very passable combo.
+
+Both are Innate.
+
+problem comes then with the turn 1 onslaughts of damage coming my way...
+        Personally I prefer a non-upgraded battle hymn. Battle hymn isn't very effective at bursting enemies down so you don't need to worry about block, and at that point I'd rather set up my defense/defensive scaling first, and I don't care too terribly much how quickly I start attacking.
+            It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+    Estabilishment is great card tho. You just then go and look for [[windmill strike]] and a lot of [[carve reality]].
+
+Or go for any other end use estabilishment to keep the stances for future turns to make great combos.
+
+The only "problem" is that getting Estabilishment isn't hard because even though it's rare, you can get that in victory draws quite often (which is not that bad of a thing IMO).
+
+EDIT: Forgot about [[battle hymn]]
+        Yes, but it functions as a curse until you get the combo going. Even if you get windmill before the first elite it might replace a defend or give you a strike less in the first 3+ hallway fights. 
+
+At that point it is no longer free, it cost you 10-20 health
+
+It is one of my favorite watcher cards, but I wouldnt want it before the end of act 1 unless I get an early battle hymn
+        + [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Carve Reality](http://slay-the-spire.wikia.com/wiki/Carve%20Reality) Watcher Uncommon Attack
+    
+    1 Energy | Deal 6(10) damage. Add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+            [deleted]
+                + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Well yeah, watcher is OP in every way, so of course they’d have the best odds with random rare starting gift on top of all the other silliness.
+I gotta say, master reality is a pretty dead draw without a dead branch
+Watcher's rares are easily her worst pool of cards to pick from lol, are we playing the same game? Choosing a rare card / random rare is strong on all characters except watcher.
+    You're definitely playing a different game.
+        Blasphemy, scrawl, vault, lesson learned, ragnarok are what you'd want. Even then, ragnarok is bad against lagavulin and sentries. Scrawl is questionable against nob and needs an upgrade / retain stuff to function. So that leaves lesson learned, vault, blasphemy, and ragnarok as relevant rares to start with.. keeping in mind that they almost all demand upgrades. 
+
+Spirit shield, omniscience, wish, master reality, judgment, establishment, conjure blade, brilliance, deus ex machina, alpha, deva form, and Devotion are the ones you wouldn't want. They will function as curses in most fights, except spirit shield, but Deceive Reality is better than it anyway.
+
+That's ~5 rare cards that aren't curses and 12 that are. Choose a rare card / random rare card on watcher are bad options. Of course, reroll relic is best every time for the character. And watcher trivializes the entire game with just commons and uncommons. Just bc the card is gold and shiny doesn't mean it's good. I'd sooner take a colorless card as neow bonus just to try to find Trip. 
+
+And you're right, I am playing a different game - I wonder if anyone who disliked my comment is also a top 20 Watcher on the ascension leaderboards. Go ahead and downvote tho. Hivemind too real.
+            It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+                Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+Weird because Watcher's best cards are common and uncommon cards. It is more likely the extra energy is making rare cards easier to use.
+    Yup, Flurry of Blows in particular might be the best common in the game. But her rares are still solid additions to your deck. Especially in Act 1.
+That's how I feel when I get an [[Immolate]] as a reward. Fuck you louse and minion rooms
+    + [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Silent has a lot of good rares, but it's a 50/50 to get something good or be stuck with a [[bullet time]], [[envenom]], [[burst]] which all suck early in act 1. At that point it's better odds to just trade starting relics
+    I've been bricked by [[grand finale]] too many times before being able to manipulate my deck well enough to use it.
+        + [Grand Finale](http://slay-the-spire.wikia.com/wiki/Grand%20Finale) Silent Rare Attack
+    
+    0 Energy | Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        I have never figured that card out. I'm up to Ascension 12 with Silent now and I still ignore that card. Someday I'm sure I'll need to learn to progress, but not yet!
+            It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+    Is bullet time that bad early? It’s basically 4 cards played for free at the cost of drawing it.
+        I think i judged too harshly. 4 cards isn't that good early when u got all strikes and defend. But silent has a good chance to draw it first turn and play 6 while motovating to draft more costly cards. I still think it will make you take more damage in the early hallway fights, but it wil be a bigger reward than the other cards
+            It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+                I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+                    That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+    + [Bullet Time](http://slay-the-spire.wikia.com/wiki/Bullet%20Time) Silent Rare Skill
+    
+    3(2) Energy | You cannot draw additional cards this turn. Reduce the cost of cards in your hand to 0 this turn.
++ [Envenom](http://slay-the-spire.wikia.com/wiki/Envenom) Silent Rare Power
+    
+    2(1) Energy | Whenever an attack deals unblocked damage, apply 1 **Poison.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    After boss relics rework swapping relics seems like better start then most other things...
++ [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Had a Watcher run where I started with Ragnarok and got bottled flame from the first elite
+    Building STR never felt better
+        Just need tantrum and it's over
+            Just need akabeko and wreath of flames and shit would be STUPID
++ [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** into your discard pile.
++ [Die Die Die](http://slay-the-spire.wikia.com/wiki/Die%20Die%20Die) Silent Rare Attack
+    
+    1 Energy | Deal 13(17) damage to ALL enemies. **Exhaust.**
++ [Fiend Fire](http://slay-the-spire.wikia.com/wiki/Fiend%20Fire) Ironclad Rare Attack
+    
+    2 Energy | **Exhaust** all cards in your hand. Deal 7(10) damage for each **Exhausted** card. **Exhaust.**
++ [Hyperbeam](http://slay-the-spire.wikia.com/wiki/Hyperbeam) Defect Rare Attack
+    
+    2 Energy | Deal 26(34) damage to ALL enemies. Lose 3 **Focus.**
++ [Electrodynamics](http://slay-the-spire.wikia.com/wiki/Electrodynamics) Defect Rare Power
+    
+    2 Energy | **Lightning** now hits ALL enemies. **Channel** 2(3) **Lightning.**
++ [Echo Form](http://slay-the-spire.wikia.com/wiki/Echo%20Form) Defect Rare Power
+    
+    3 Energy | **Ethereal.** (not **Ethereal.)** The first card you play each turn is played twice.
++ [Wish](http://slay-the-spire.wikia.com/wiki/Wish) Watcher Rare Skill
+    
+    3 Energy | Choose one: Gain 6(8) Plated Armor, 3(4) **Strength,** or 25(30) Gold. **Exhaust.**
++ [Alpha](http://slay-the-spire.wikia.com/wiki/Alpha) Watcher Rare Skill
+    
+    1 Energy | **(Innate.)** Shuffle a Beta into your draw pile. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(February 6, 2022.) ^Notice ^something ^wrong? ^The ^easiest ^way ^to ^contribute ^is ^to ^update ^the ^[Wiki.](https://slay-the-spire.fandom.com/wiki/) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+My take is that Rainbow is absolutely fine on floor 1, but not especially powerful and weaker as the run goes on. All for one can be good but takes work to be better than strikes. Fission is great later but pretty meh on floor 1, same with seek and reboot, since you don’t have any good cards to justify their clunkiness. Echo form can be really powerful but is also clunky in that it’s very hard to play in act 1.
+    I find that for rainbow to be good long term it needs to be upgraded to allow repeat draws. But then it becomes fantastic for a frost turtle deck because it allows you to cycle 3 orbs fast.
+        It’s a pretty good way to channel orbs in the short fights in act 1- does some damage, blocks a bit, etc. and lets you use your energy. Later on it’s a bit unfocused even if upgraded, but still on par with other orb generation e.g. ball lightning.
+Getting hyperbeam from neow is superb. Hyperbeam is a great card, with terrible synergy with most other cards. Gaining it _before_ you worry about synergy is superb as it has no downside.
+
+If Neow gives you a hyperbeam, build around it, and win.
+I agree with most of this except I think Fission and multicast aren’t great on floor 1. You have 3 energy so multi is like a bad dualcast before an upgrade or before finding a dark orb. Fission needs an upgrade and is only ok after it. Both are bad vs the Nob.
+There it is!
+Damn they predicted STS!
+True. And if you don’t take any damage, it can stay free. It’s a little funny to see it reach 33 energy because you’re not very good
+    33 is actually impressive. Usually you'd be dead by then.
+        You could have those 5 intangible cards in your deck and it might be possible. I got that recently in one of the question rooms.
+        True. But if the enemy does very little damage, it’s going to add up on masterful stab
+        I think LifeCoach had a masterful stab that cost 34 or something recently.
+Like most 2+ cost cards its pretty great with snecko eye. Without relics though it can work well enough with poison and catalyst to kill bosses.
+    Didn’t think of snecko, that makes a ton of sense, thanks!
+Blur or dodge and roll so you have some black from last turn (maybe augmented with footwork). Or when the enemies aren't attacking. Or any intangible. Or concentrate. Runic pyramid makes the timing on nightmare much easier. 
+
+It's pretty bad Act 1 like many rare cards, but becomes more viable Act 2 ish and becomes potentially broken in Act 3.
+
+One broken combo is just nightmaring footwork for inifinite dex. I've also seen jorbs with 2 nightmares and alchemize for infinite potion refreshes.
+    Ah, runic would be a good place to start, to be able to manipulate hand better, thanks for the tips. I’m poor with the pyramid though too! 
+
+But thanks, these strategies all sound great so I’ll keep a closer eye out for them to try them out. Thanks.
+It's especially good with [[snecko eye]] (and other cards that you would want to play multiple times). If you draw a nightmare with a zero cost [[wraith form]] (this is a best-case scenario), you get three free wraith forms on the next turn. It's hard to use without either snecko eye or insane energy. There are other scenarios in which it can be effective though. Nightmare on [[adrenaline]] is a better [[doppelganger]]. If you play it on [[alchemize]] you can try and fish for a [[fairy in a bottle]] or [[ghost in a jar]]. Most insane poison levels involve [[catalyst]] with nightmare or [[burst]] or both.
+    + [Snecko Eye](http://slay-the-spire.wikia.com/wiki/Snecko%20Eye) Boss Relic
+    
+    Draw 2 additional cards each turn. Start each combat Confused.
++ [Wraith Form](http://slay-the-spire.wikia.com/wiki/Wraith%20Form) Silent Rare Power
+    
+    3 Energy | Gain 2(3) **Intangible.** At the end of your turn, lose 1 **Dexterity.**
++ [Adrenaline](http://slay-the-spire.wikia.com/wiki/Adrenaline) Silent Rare Skill
+    
+    1 Energy | Gain 1(2) Energy. Draw 2 cards. **Exhaust.**
++ [Doppelganger](http://slay-the-spire.wikia.com/wiki/Doppelganger) Silent Rare Skill
+    
+    X Energy | Next turn, draw X(+1) cards and gain X(+1) Energy.
++ [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.
++ [Ghost In A Jar](http://slay-the-spire.wikia.com/wiki/Potions#Ghost_In_A_Jar) Rare (Silent only) Potion
+    
+    Gain 1 (2) **Intangible.**
++ [Catalyst](http://slay-the-spire.wikia.com/wiki/Catalyst) Silent Uncommon Skill
+    
+    1 Energy | Double(Triple) an enemy's **Poison.** **Exhaust.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I’ve deffo leaned into burst and catalyst before, didn’t really consider that nightmare is pretty much just as good for it.
+
+I’ll try it with snecko, that makes a ton of sense, thanks
+It works a lot better if you have well laid plans. Then use is on apparition, wraith form, catalyst, footwork, after image.
+Nightmare wraith form, nightmare catalyst are both pretty much free wins. Nightmare on any scaling card is pretty good (footwork) also
+If you nightmare a catalyst you will win next turn against virtually anything.
+It’s definitely a win more card because you probably had something better and more immediate to do with all that energy. It’s quite satisfying to play it though for the bloody murder it causes
+    Most of the time sure. But [[Deva Form]] is a thing and the rest of your deck can simply be defense with CB sorting out your damage scaling. That said, I still feel that build would require either an [[Ice Cream]] or using [[Omniscience]] on Deva Form in order to not be stupidly slow.
+        + [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+It especially sucks when unupgraded because playing it with 0 energy adds what might as well be a wound into your deck. At least an upgraded Conjure Blade essentially gives a Strike+ if you can’t save any energy for it.
+
+Also it’s flipping bonkers with master reality, as the upgrade gets a 66% damage buff
+    Had no idea it did 15 damage per hit. Deva form + Divinity + Conjure blade must be something
++ [Establishment](http://slay-the-spire.wikia.com/wiki/Establishment) Watcher Rare Power
+    
+    1 Energy | **(Innate.)** Whenever a card is **Retained,** lower its cost by 1.
++ [Master Reality](http://slay-the-spire.wikia.com/wiki/Master%20Reality) Watcher Rare Power
+    
+    1(0) Energy | Whenever a card is created during combat, Upgrade it.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Establishment and meditate can make the cost of any card in your deck go down for the remainder of the fight. Great combo, and pretty safe.
+Establishment + upgraded battle hymn is definitely very passable combo.
+
+Both are Innate.
+
+problem comes then with the turn 1 onslaughts of damage coming my way...
+    Personally I prefer a non-upgraded battle hymn. Battle hymn isn't very effective at bursting enemies down so you don't need to worry about block, and at that point I'd rather set up my defense/defensive scaling first, and I don't care too terribly much how quickly I start attacking.
+        It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+Estabilishment is great card tho. You just then go and look for [[windmill strike]] and a lot of [[carve reality]].
+
+Or go for any other end use estabilishment to keep the stances for future turns to make great combos.
+
+The only "problem" is that getting Estabilishment isn't hard because even though it's rare, you can get that in victory draws quite often (which is not that bad of a thing IMO).
+
+EDIT: Forgot about [[battle hymn]]
+    Yes, but it functions as a curse until you get the combo going. Even if you get windmill before the first elite it might replace a defend or give you a strike less in the first 3+ hallway fights. 
+
+At that point it is no longer free, it cost you 10-20 health
+
+It is one of my favorite watcher cards, but I wouldnt want it before the end of act 1 unless I get an early battle hymn
+    + [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Carve Reality](http://slay-the-spire.wikia.com/wiki/Carve%20Reality) Watcher Uncommon Attack
+    
+    1 Energy | Deal 6(10) damage. Add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+        [deleted]
+            + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+You're definitely playing a different game.
+    Blasphemy, scrawl, vault, lesson learned, ragnarok are what you'd want. Even then, ragnarok is bad against lagavulin and sentries. Scrawl is questionable against nob and needs an upgrade / retain stuff to function. So that leaves lesson learned, vault, blasphemy, and ragnarok as relevant rares to start with.. keeping in mind that they almost all demand upgrades. 
+
+Spirit shield, omniscience, wish, master reality, judgment, establishment, conjure blade, brilliance, deus ex machina, alpha, deva form, and Devotion are the ones you wouldn't want. They will function as curses in most fights, except spirit shield, but Deceive Reality is better than it anyway.
+
+That's ~5 rare cards that aren't curses and 12 that are. Choose a rare card / random rare card on watcher are bad options. Of course, reroll relic is best every time for the character. And watcher trivializes the entire game with just commons and uncommons. Just bc the card is gold and shiny doesn't mean it's good. I'd sooner take a colorless card as neow bonus just to try to find Trip. 
+
+And you're right, I am playing a different game - I wonder if anyone who disliked my comment is also a top 20 Watcher on the ascension leaderboards. Go ahead and downvote tho. Hivemind too real.
+        It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+            Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+Yup, Flurry of Blows in particular might be the best common in the game. But her rares are still solid additions to your deck. Especially in Act 1.
++ [Immolate](http://slay-the-spire.wikia.com/wiki/Immolate) Ironclad Rare Attack
+    
+    2 Energy | Deal 21(28) damage to ALL enemies. Add a **Burn** to your discard pile.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I've been bricked by [[grand finale]] too many times before being able to manipulate my deck well enough to use it.
+    + [Grand Finale](http://slay-the-spire.wikia.com/wiki/Grand%20Finale) Silent Rare Attack
+    
+    0 Energy | Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    I have never figured that card out. I'm up to Ascension 12 with Silent now and I still ignore that card. Someday I'm sure I'll need to learn to progress, but not yet!
+        It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+Is bullet time that bad early? It’s basically 4 cards played for free at the cost of drawing it.
+    I think i judged too harshly. 4 cards isn't that good early when u got all strikes and defend. But silent has a good chance to draw it first turn and play 6 while motovating to draft more costly cards. I still think it will make you take more damage in the early hallway fights, but it wil be a bigger reward than the other cards
+        It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+            I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+                That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
++ [Bullet Time](http://slay-the-spire.wikia.com/wiki/Bullet%20Time) Silent Rare Skill
+    
+    3(2) Energy | You cannot draw additional cards this turn. Reduce the cost of cards in your hand to 0 this turn.
++ [Envenom](http://slay-the-spire.wikia.com/wiki/Envenom) Silent Rare Power
+    
+    2(1) Energy | Whenever an attack deals unblocked damage, apply 1 **Poison.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+After boss relics rework swapping relics seems like better start then most other things...
+Building STR never felt better
+    Just need tantrum and it's over
+        Just need akabeko and wreath of flames and shit would be STUPID
+I find that for rainbow to be good long term it needs to be upgraded to allow repeat draws. But then it becomes fantastic for a frost turtle deck because it allows you to cycle 3 orbs fast.
+    It’s a pretty good way to channel orbs in the short fights in act 1- does some damage, blocks a bit, etc. and lets you use your energy. Later on it’s a bit unfocused even if upgraded, but still on par with other orb generation e.g. ball lightning.
+33 is actually impressive. Usually you'd be dead by then.
+    You could have those 5 intangible cards in your deck and it might be possible. I got that recently in one of the question rooms.
+    True. But if the enemy does very little damage, it’s going to add up on masterful stab
+    I think LifeCoach had a masterful stab that cost 34 or something recently.
+Didn’t think of snecko, that makes a ton of sense, thanks!
+Ah, runic would be a good place to start, to be able to manipulate hand better, thanks for the tips. I’m poor with the pyramid though too! 
+
+But thanks, these strategies all sound great so I’ll keep a closer eye out for them to try them out. Thanks.
++ [Snecko Eye](http://slay-the-spire.wikia.com/wiki/Snecko%20Eye) Boss Relic
+    
+    Draw 2 additional cards each turn. Start each combat Confused.
++ [Wraith Form](http://slay-the-spire.wikia.com/wiki/Wraith%20Form) Silent Rare Power
+    
+    3 Energy | Gain 2(3) **Intangible.** At the end of your turn, lose 1 **Dexterity.**
++ [Adrenaline](http://slay-the-spire.wikia.com/wiki/Adrenaline) Silent Rare Skill
+    
+    1 Energy | Gain 1(2) Energy. Draw 2 cards. **Exhaust.**
++ [Doppelganger](http://slay-the-spire.wikia.com/wiki/Doppelganger) Silent Rare Skill
+    
+    X Energy | Next turn, draw X(+1) cards and gain X(+1) Energy.
++ [Alchemize](http://slay-the-spire.wikia.com/wiki/Alchemize) Silent Rare Skill
+    
+    1(0) Energy | Obtain a random potion. **Exhaust.**
++ [Fairy in a Bottle](http://slay-the-spire.wikia.com/wiki/Potions#Fairy_in_a_Bottle) Rare Potion
+    
+    When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.
++ [Ghost In A Jar](http://slay-the-spire.wikia.com/wiki/Potions#Ghost_In_A_Jar) Rare (Silent only) Potion
+    
+    Gain 1 (2) **Intangible.**
++ [Catalyst](http://slay-the-spire.wikia.com/wiki/Catalyst) Silent Uncommon Skill
+    
+    1 Energy | Double(Triple) an enemy's **Poison.** **Exhaust.**
++ [Burst](http://slay-the-spire.wikia.com/wiki/Burst) Silent Rare Skill
+    
+    1 Energy | This turn your next 1(2) Skill(s) is(are) played twice.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I’ve deffo leaned into burst and catalyst before, didn’t really consider that nightmare is pretty much just as good for it.
+
+I’ll try it with snecko, that makes a ton of sense, thanks
+Most of the time sure. But [[Deva Form]] is a thing and the rest of your deck can simply be defense with CB sorting out your damage scaling. That said, I still feel that build would require either an [[Ice Cream]] or using [[Omniscience]] on Deva Form in order to not be stupidly slow.
+    + [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Had no idea it did 15 damage per hit. Deva form + Divinity + Conjure blade must be something
+Personally I prefer a non-upgraded battle hymn. Battle hymn isn't very effective at bursting enemies down so you don't need to worry about block, and at that point I'd rather set up my defense/defensive scaling first, and I don't care too terribly much how quickly I start attacking.
+    It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+Yes, but it functions as a curse until you get the combo going. Even if you get windmill before the first elite it might replace a defend or give you a strike less in the first 3+ hallway fights. 
+
+At that point it is no longer free, it cost you 10-20 health
+
+It is one of my favorite watcher cards, but I wouldnt want it before the end of act 1 unless I get an early battle hymn
++ [Windmill Strike](http://slay-the-spire.wikia.com/wiki/Windmill%20Strike) Watcher Uncommon Attack
+    
+    2 Energy | **Retain.** Deal 7(10) damage. Whenever this card is **Retained,** increase its damage by 4(5).
++ [Carve Reality](http://slay-the-spire.wikia.com/wiki/Carve%20Reality) Watcher Uncommon Attack
+    
+    1 Energy | Deal 6(10) damage. Add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+    [deleted]
+        + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Blasphemy, scrawl, vault, lesson learned, ragnarok are what you'd want. Even then, ragnarok is bad against lagavulin and sentries. Scrawl is questionable against nob and needs an upgrade / retain stuff to function. So that leaves lesson learned, vault, blasphemy, and ragnarok as relevant rares to start with.. keeping in mind that they almost all demand upgrades. 
+
+Spirit shield, omniscience, wish, master reality, judgment, establishment, conjure blade, brilliance, deus ex machina, alpha, deva form, and Devotion are the ones you wouldn't want. They will function as curses in most fights, except spirit shield, but Deceive Reality is better than it anyway.
+
+That's ~5 rare cards that aren't curses and 12 that are. Choose a rare card / random rare card on watcher are bad options. Of course, reroll relic is best every time for the character. And watcher trivializes the entire game with just commons and uncommons. Just bc the card is gold and shiny doesn't mean it's good. I'd sooner take a colorless card as neow bonus just to try to find Trip. 
+
+And you're right, I am playing a different game - I wonder if anyone who disliked my comment is also a top 20 Watcher on the ascension leaderboards. Go ahead and downvote tho. Hivemind too real.
+    It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+        Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
++ [Grand Finale](http://slay-the-spire.wikia.com/wiki/Grand%20Finale) Silent Rare Attack
+    
+    0 Energy | Can only be played if there are no cards in your draw pile. Deal 50(60) damage to ALL enemies.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+I have never figured that card out. I'm up to Ascension 12 with Silent now and I still ignore that card. Someday I'm sure I'll need to learn to progress, but not yet!
+    It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+I think i judged too harshly. 4 cards isn't that good early when u got all strikes and defend. But silent has a good chance to draw it first turn and play 6 while motovating to draft more costly cards. I still think it will make you take more damage in the early hallway fights, but it wil be a bigger reward than the other cards
+    It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+        I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+            That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+Just need tantrum and it's over
+    Just need akabeko and wreath of flames and shit would be STUPID
+It’s a pretty good way to channel orbs in the short fights in act 1- does some damage, blocks a bit, etc. and lets you use your energy. Later on it’s a bit unfocused even if upgraded, but still on par with other orb generation e.g. ball lightning.
+You could have those 5 intangible cards in your deck and it might be possible. I got that recently in one of the question rooms.
+True. But if the enemy does very little damage, it’s going to add up on masterful stab
+I think LifeCoach had a masterful stab that cost 34 or something recently.
++ [Deva Form](http://slay-the-spire.wikia.com/wiki/Deva%20Form) Watcher Rare Power
+    
+    3 Energy | **Ethereal.** At the start of your turn, gain Energy and increase this gain by 1. (not **Ethereal.)**
++ [Ice Cream](http://slay-the-spire.wikia.com/wiki/Ice%20Cream) Rare Relic
+    
+    Energy is now conserved between turns.
++ [Omniscience](http://slay-the-spire.wikia.com/wiki/Omniscience) Watcher Rare Skill
+    
+    4(3) Energy | Choose a card in your draw pile. Play the chosen card twice and **Exhaust** it. **Exhaust.**
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+It's nice, but if you had establishment, you can build up a few zero cost smites or smite+ cards, and wait until you're in rage or divinity to really mess 'em up while still having the Mana to enter calm and get some block after. 
+
+Nothing worse than miscalculating and thinking I'm about to kill an enemy in rage only for them to have 1 hp left and deal double damage
+[deleted]
+    + [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+It's just hard to take you seriously when you say cards like brilliance, deus ex machina, or JUDGMENT are cards you don't want from the get go. These cards excel in the early game. Master reality and establishment don't really demand a lot to be good and compliment already good cards like battle hymn, deceive reality, and blasphemy. Spirit shield is great and watcher has a lot of ways to have a big hand. You're being dishonest with your evaluations here.
+    Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+It just needs a lot of controlled card draw. It works when you can do something like see you have seven cards in your draw pile and then play Acrobatics+, backflip, prepared. You want to be able to flexibly draw precise amounts. Well laid plans helps a lot too.
+It can’t hurt you at all.
+Ordinarily you have 3 energy, so can play 3 strikes/defends. Or spend it on bullet time and play 4 of them, which is better.
+
+The only time it is even remotely problematic is the card draw reduction, you either play a card draw card and can’t play bullet time (no energy) or play bullet time and lose the card draw. Usually the latter isn’t too bad as you still get the other card effect, unless that card *only* draws. This is a pretty unusual scenario early on, and can be mitigated by upgrading bullet time as soon as you can.
+
+Bullet time is ostensibly awesome, it stuffs up shiv decks, but not consistently. It’s almost always a decent card to have.
+    I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+        That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+Just need akabeko and wreath of flames and shit would be STUPID
++ [Battle Hymn](http://slay-the-spire.wikia.com/wiki/Battle%20Hymn) Watcher Uncommon Power
+    
+    1 Energy | **(Innate.)** At the start of each turn add a Smite into your hand.
+
+
+    ^Call ^me ^with ^up ^to ^10 ^([[ name ]],) ^where ^name ^is ^a ^card, ^relic, ^event, ^or ^potion. ^Data ^accurate ^as ^of ^(December 21.) ^[Questions?](https://www.reddit.com/message/compose/?to=ehmohteeoh&subject=SpireScan%20Inquiry)
+Ok brilliance is fine frontloaded damage but as a neow bonus it's underwhelming at best. Watcher's early game problem isn't even damage; she basically has no early game problems anyway. And brilliance isn't gonna scale unless you're doing mantra things, which is not consistent/guaranteed, and even then, you do triple damage in divinity and you'll delete everything with or without brilliance.
+
+Deux ex machina is horrible vs elites in act 1 in addition to being bad against time eater and chosen. It's straight up terrible against nob, and sentries unless you have wheel kick.
+
+Judgment is completely unnecessary, doesn't scale with wrath, and is a curse in boss and elite fights. Sure it deletes orb walker in act 2. You're still adding a curse to your deck. The thought process for watcher deckbuilding isn't "how do I get through act 1", it's "will this help kill bosses and elites in future acts". You don't need to make act 1 easier.
+
+Master reality does demand a lot to be good, why would you want to spend a card draw on making your potential smites (keeping in mind you aren't guaranteed to find battle hymn) do 3 more damage? Master reality is a wasted card draw when you could've drawn wallop or conclude or a card that actually does something. Watcher's main bottleneck is card draw. MR is almost always a card you wish was something else. When was the last time you thought "I wish I had master reality in my hand right now"?
+
+Spirit shield is a good pick, sure, but for neow bonus? Let's not pretend that deciding to pick up spirit shield makes or breaks a watcher run. Like I said, deceive reality tends to be better.
+
+I'm being honest with my evaluations. Her rares are generally bad. I'd rather have wallop, ttth, conclude, and plenty other commons and uncommons over her rares generally. And all this aside, like I said, reroll relic should always be better than choose a rare. Hope this explanation helps "take me more seriously" lol.
+I disagree that draw reduction is th problem. It gives me less options. Having 3 strike + 1 defend over 3 strikes + 2 defends. If I need to block for 10 bullet time cost me 5 health. I am probably underpicking it atm but I dont thinks its good early act 1
+    That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.
+That’s fair. Didn’t consider that bullet time takes the place of another card in my equation. That makes a lot of sense about it’s negatives.

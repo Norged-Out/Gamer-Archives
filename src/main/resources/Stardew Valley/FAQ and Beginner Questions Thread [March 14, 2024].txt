@@ -1,0 +1,1508 @@
+[[FAQ and Beginner Questions Thread [March 14, 2024]]]
+
+
+Welcome to Stardew Valley! Here are some common answers to get you started. Feel free to ask beginner questions here rather than making a full post on the subreddit. 
+
+# General questions
+* **[Common gameplay questions](https://www.reddit.com/r/StardewValley/wiki/faq/)**
+* [Tips and guides](https://www.reddit.com/r/StardewValley/search?sort=top&q=flair:Resource&restrict_sr=on)
+* Official [wiki](http://www.stardewvalleywiki.com/), [website](http://stardewvalley.net/), and [forums](https://forums.stardewvalley.net)
+* [Stardew Valley Discord](https://discord.gg/stardewvalley)
+* [Using mods](https://stardewvalleywiki.com/Modding:Player_Guide)
+
+# Previous pinned posts, subreddit announcements, and new rules
+* Want to look through old FAQ threads for an answer to your question? Here is our [old FAQ thread](https://www.reddit.com/r/StardewValley/comments/16jt60y/faq_and_beginner_questions_thread_september_16/)
+* [Animated Custom Flairs and Prestige Flairs](https://reddit.com/r/StardewValley/comments/sju1h5/announcing_custom_user_flairsand_animated/)
+* [Community Updates and Inclusivity Reminders](https://reddit.com/r/StardewValley/comments/w7pzoh/community_reminders_and_updates_inclusivity/)
+* [/r/StardewValley left /r/ popular and /r/ all](https://reddit.com/r/StardewValley/comments/w7ppsm/rstardewvalley_is_leaving_rpopular_and_rall/)
+* [After user voting, AI generated content will be added to the list of removed topics](https://reddit.com/r/StardewValley/comments/x9963t/rule_update_aigenerated_content_will_be_removed/)
+* [Simple questions are welcome](https://www.reddit.com/r/StardewValley/comments/ymdiko/mushrooms_or_fruit_bats_simple_questions_are/)
+* [Content warning rules](https://www.reddit.com/r/StardewValley/comments/1367xy8/spoiler_tags_content_warnings_sensitive_topics/)
+* [New mods announcement](https://www.reddit.com/r/StardewValley/comments/15rfn3q/our_new_mods_have_joined_the_team/)
+* [Metrics for IRL posts and relativity](https://www.reddit.com/r/StardewValley/comments/15ooqfe/is_this_relevant_to_stardew_valley_on_giant_crops/)
+* [Userflairs for bot bouncers](https://www.reddit.com/r/StardewValley/comments/166och5/new_userflairs_for_bot_bouncers/) 
+
+# Very common FAQs / removed topics 
+* **[insert item here] showed up on my farm, what is it?**
+     It could be a a few different items that are >!relatively rare but have a high enough spawn rate!< that they are included in our removed topics. Check out our [list of removed topics here](https://www.reddit.com/r/StardewValley/wiki/removed_topics)
+
+* **
+
+
+# Game updates
+* **What was in the last update?**  
+  See release notes [for PC](https://stardewvalleywiki.com/Version_History), [for consoles](https://stardewvalleywiki.com/Console_Version_History), and [for mobile](https://stardewvalleywiki.com/Mobile_Version_History).
+
+   See also a table of [which version and features each platform has](https://stardewvalleywiki.com/Stardew_Valley#Current_versions).
+
+* **Are future releases planned?**  
+Stardew Valley 1.5 was released on PC in late December 2020 and console in February 2021. Android/iOS received the 1.5 update in early January 2023. Stardew Valley 1.6 released on 19 March 2024 on PC. [Console release to follow ASAP](https://twitter.com/ConcernedApe/status/1762192764899627457).
+
+* **Does every platform get the same content/updates?**  
+  Mostly yes. Updates are developed for Linux/Mac/Windows first, then ported to other platforms. There are customizations for each platform (like tap to move on mobile), but otherwise content is identical across all platforms. See also a table of [which version and features each platform has](https://stardewvalleywiki.com/Stardew_Valley#Current_versions).
+
+  The exceptions are PS Vita (which won't get any further content updates [due to platform limitations](https://twitter.com/ConcernedApe/status/1232797409010278400)), and Android/iOS (which will continue getting all updates, but [don't support multiplayer](https://twitter.com/ConcernedApe/status/1262068497086967808) or Chinese translations).
+
+* **Is Stardew Valley on XBox GamePass?**
+
+     Stardew Valley is on XBox GamePass as of December 2, 2021. See [here](https://news.xbox.com/en-us/2021/12/01/coming-soon-xbox-game-pass-december-2021/) for details.
+
+# Multiplayer
+* **How does multiplayer work?**  
+  See [Multiplayer](https://stardewvalleywiki.com/Multiplayer) on the wiki.
+
+* **Is crossplay supported?**  
+   All PC players can play together, whether they're on Linux/Mac/Windows or GOG/Steam. [Console crossplay isn't supported](https://twitter.com/ConcernedApe/status/1036993838613651459), and mobile versions don't have multiplayer.
+
+* **Is split-screen supported?**  
+  Yep, split-screen was added on PC and console in Stardew Valley 1.5.
+
+* **Will Android/iOS get multiplayer?**  
+  There are [no current plans for multiplayer on mobile](https://twitter.com/ConcernedApe/status/1262068497086967808) (including split-screen multiplayer).
+
+* **Will the 1.6 update apply to my current game?**  
+  Yes! New updates always apply to existing saves.
+
+# Other
+* **Can I transfer saves between devices?**  
+   You can [transfer saves](https://stardewvalleywiki.com/Saves#Transfer_a_save) between Android, iOS, and PC (Linux/Mac/Windows).
+
+   Consoles unfortunately don't let you access the save files. The Switch version also has a different format that's not compatible with other platforms (the format used by other consoles is unknown).
+
+* **How do I take a screenshot of my full farm?**  
+  See [this guide to taking farm screenshots](https://forums.stardewvalley.net/threads/how-to-share-your-farm-and-use-stardew-planner.152/).
+
+* **If I buy the game on one platform, can I get it for free on a different one?**  
+   If you buy it on PC, you get the Linux + macOS + Windows versions; if you buy it on PS4, you get the PS4 + PS Vita versions. Otherwise each platform is a different edition with separate development, so you'll need to buy it again if you want it on a different platform.
+
+* **Where can I report bugs?**  
+  1. If you use mods, see the [troubleshooting guide](https://stardewvalleywiki.com/Modding:Player_Guide/Troubleshooting) first.
+  2. If you use mods and the bug disappears when playing without them (by running `Stardew Valley.exe` directly in [your game folder](https://stardewvalleywiki.com/Modding:Game_folder)), report it to r/SMAPI or see [Modding:Help](https://stardewvalleywiki.com/Modding:Help).
+  2. If it happens without mods, report it in the official [bug report forum](https://forums.stardewvalley.net/forums/help-bug-reports.12/), which the game developers keep an eye on.
+
+* **How do I use or create mods?**  
+   See the pinned thread in r/SMAPI for more info, and feel free to ask questions in r/SMAPI!
+
+
+I just laid down to sleep and I can see the layout of my farm burned into the back of my eyelids. It may be time to take a little break from the game. ...But, me won't.
+    first playthrough?  that's so fun!  I have small children so my gaming experience is maximizing everything which is not really how sdv is meant to be played.
+
+Maybe when 1.6 comes out on the switch I'll get that and the wife and I can play co-op on the couch.
+Our save games will be fine once the 1.6 upgrade happens right?! People on the sub are talking like “I finished x before 1.6” and “I’d better hurry up and do abc before 1.6”
+
+But the save games will be fine right? (Thinking of the devastation of my 7y/o if it didn’t work)
+    Your save file will be totally fine! People are just finishing up stuff because they want to start a new save with the 1.6 update :)
+    You should be fine.  
+
+https://old.reddit.com/r/StardewValley/comments/1b0pqwn/16_release_date_o/
+The post still says there's no release date for 1.6, but it's been announced it's now March 19th, at least for PC.
+    Thanks for the heads up! This has been corrected now.
+I started a new save on the new meadow farm, and I keep getting "You've got some new ideas to sleep on..." message what does this mean?
+    New level on foraging, mining, fishing, etc.
+do we know what blue grass does?  
+i tried to look on the wiki but only get  "Has a chewy blue grass that animals love"
+Can dogs randomly give you sticks now? I just now went to go pet my dog and I ended up getting a piece of driftwood in my inventory as if my dog had found a stick and had given it to me, much like dogs do Irl.
+    yes! pets with maxed out friendship can give you gifts randomly!! it's so cute, I was very happy when my cat brought me a fish
+Is it worth getting more than 20 lightning rods? Heard they give diminishing returns
+    They do give diminishing returns. It still might be worth it.
+
+[https://www.reddit.com/r/StardewValley/comments/jlbfce/answering\_the\_question\_of\_how\_many\_lightning\_rods/](https://www.reddit.com/r/StardewValley/comments/jlbfce/answering_the_question_of_how_many_lightning_rods/)
+    I use them a lot, to act s fences that also anchor as many grass starters as I have animals - to be sure there's enough food for them.  
+
+By that point the outlay is fairly trivial.
+I'm struggling to figure out what to even do on a most basic level. I've cleared some ground, planted and harvested turnips, and walked to the town. I don't know what comes next. I talk to people and the general vibe is "hey you're new, fuck off!". It also seems that by the time I walk to town, my character needs to sleep, so then it's time to walk home. I see screen shots of elaborate farms and stuff and I don't know how that's possible.
+    Please know that when you see screenshots of elaborate farms, they are generally from people who have played this game for many hours, on many different playthroughs, and are very aware of what they're doing. Don't compare yourself to that if you're new, it's unfair to you!
+
+The beginning of the game is very basic and slow. You clear your farm a bit, plant some seeds, level your skills. Explore, talk to villagers (even the mean ones), do quests from the bulletin board, go into the mines, do the community centre when that opens up, etc.
+
+There is no right or wrong way to play, but it CAN seem overwhelming at first, especially if you don't know the game well enough to have any kind of set plan in mind. You'll get there.
+What should i have done by the end of the second year?
+    Well for your grandfather's side of things it's rather simple actually. Have high relationship with many different villagers, at least 8, max out pet, make at least 1m gold, level up your skills to at least 30 in total, complete the community center, get to bottom of the mines, have access to the sewer, then completely ship every crop or artisan good, catch every fish, complete the museum, upgrade the house at least twice and be married. Now not all of this needs to be done. If you have made 1m gold then you are more than half way to the requirement to max out your grandfather. Even if you don't max him you can always just go to his shrine again and he will judge again till he is happy. Best part of the game is you can go at your pace. No rush to do anything, can always try again next year.
+
+But If your trying to get the most stuff done, I would at least focus on planting 15 of every crop and shipping them and making all the artisan goods you can and ship those also. plus try and catch all the legendary fish, because the fifth one can only be caught in spring but have to get all the others from each season first, and the sewer naturally. Maxing out all your skills will help, fishing gets easier with more skill points and better fishing poles.
+    Really depends on how you're playing. Optimized playthrough you can have max hearts with everyone (14 on spouse, 8 on other romance options, 10 on everyone else), shipped one of everything, polyculture+monoculture achievements (shipping 15 of every farm crop, shipping 100 of one farm crop), completed CC, reached 100+ in Skull Cavern, crafted one of everything, fished one of everything, fully upgraded house, have a kid or two (optional), completed museum (unless you have one or two artifacts that keep eluding you), and reached Perfection (or nearly there). Plus a bunch of other spoiler-ly stuff that's part of the path of reaching all those goals.
+
+Basically it's possible to nearly 100% the game by end of year two. But odds are if this is your first playthrough, you're likely not close to that, so just set your own goals based on the above stuff.
+
+One tip though: if you want to go for Perfection, that requires a ton of money. There are a number of ways to go about this, but one common method is to set up an Ancient Fruit farm in the Greenhouse, since it produces high-value fruit year-round in there. Getting that up and running takes a lot of time since you need to start with a single Ancient Fruit plant and turn its recurring production into more seeds through the Seed Maker until you eventually fill the Greenhouse completely with Ancient Fruit plants. So it's best to get started early on that if you want to go that route.
+        > completed museum (unless you have one or two artifacts that keep eluding you)
+
+I completed the museum within year 2 this playthrough without any trouble - >!treasure totems!< are neat :)
+Just had a cutscene with Shane where he has these blue/purple chickens. Is it possible for me to get ones of that color?! If so, how?? :o
+    Yes! Just as you would normally get chickens from Marnie, but sometimes they’ll be blue instead of white or brown. (Cancel purchase if it’s a color you don’t want and try again until you do want the color)
+        Ooo I’ll go do this asap 🐔🤩 thank you!! ☺️ army of blue chickens UNITE!
+            Have fun! The blue chickens are adorable
+I started a new save and I have the «Getting Started» quest but for another type of farm.. Usually I’d get the one for Harvesting Parsnips, but I have one about chickens..
+
+Edit: I have the normal standard farm. I have updated to 1.6
+I am getting to the winter of year 2 and am really enjoying the game while taking my time but I have a question.
+
+I keep getting various rarities of crops, and animal products.
+
+Is it best to keep the gold ones and sell the lower quality ones? Is it best to sell the lower quality ones and keep the higher ones? Should I be saving x of each item for the future? My cash is flowing pretty nicely due to the amount of jams, pickles and wine I am selling but I dont know what the next step is.
+
+I have no idea, is there an optimal route?
+    you can probably process the regular ones and keep the gold ones for gifts--or sell them directly 
+
+if you process it doesn't take into account the quality of the item you put in, so it's best to put lower quality items there
+
+however selling higher quality crops directly will yield more gold, and giving higher quality items to villagers gives you a multiplier for friendship points
+Does anyone know of an alternative mod for the misophonia accessibility mod or another mod that also does the same thing? 
+
+I had been using it because the sound of the kegs drives me absolutely crazy (as embarrassing as it is to say that) but it hasn’t been updated for 1.6 and I don’t know if it will be.
+https://preview.redd.it/1undzb1hb4rc1.png?width=404&format=png&auto=webp&s=d3ff7e3b3217742dd2ae76b49eaad17407f5af36
+
+Did the "Max Luck" sprite change in the last update? As far as i remember, it did'nt have this stary background
+    think so actually. The old background is still on the wiki
+        Probably not, checking on it
+
+This sprite appeared to me in a certain day, but in another "stardrop" day, the old sprite still appeared
+
+It seems that this was a "extra super duper luck" day? Idk, just assumptions
+I’m in mid summer of my first year, and my partner and I have had literally 2-3 total days of rain since we started, and bad luck nearly every day. What is going on?!
+
+I played a year once before (a few years ago) and I remember much more rain and balanced luck. Are we just being… unlucky? Or did chances change?
+    Gotta be luck. I got like 10-12 days of rain in my first spring and summer.
+I'm playing on the medowlands farm and i cannot for the life of me find where the fruit/mushroom cave entrance is, i've googled everywhere and i can't find any answers. i know its next to the greenhouse on normal farms but i guess its different on medowlands? perhaps i'm just very blind.
+    It's down to the lower right in a cubby across from the smaller lake.
+        THANK YOU SO MUCH. i'm nearing end of autumn yr1 and i've been searching for so long.
+            A good way of finding your way round is to take a screenshot. It helps a lot when you're in the Volcano. ;)
+            Go to Robin and choose to paint or move your building. You can scroll around your whole farm live with time frozen.
+I don't have much of a comment, but I am getting back at Stardew Valley now, and I just wanted to say that I really appreciate this post! As someone who hasnt played in years, the "console/PC patches" link is a god sent!
+What should I focus on in year 2?
+
+In Summer Year 2. I have a garden growing one batch of every crop with most covered by sprinklers. 8 kegs always brewing, plus 4 chickens, 4 cows, 4 bee hives. I’ve reached the bottom of the mines, started exploring skull cavern, unlocked the Quarry, and gone to the secret part of the forest. have 10 heart relationship with Leah and steadily progressing relationships with most villagers. 
+
+I’m able to make about 3k+ a day without much effort, so what should be my next focus now the farm is pretty self sufficient?
+
+Relationships, community centre, new farm buildings, skull cavern? Feels like I need a new focus.
+    It depends on what you want to do! Personally, I would focus on community center because something big happens after you finish it. That plus akull cavern runs on good luck days, and working on the farm should keep you busy.
+    My advice would be pigs. Get your barn fully upgraded and get as many pigs as you can. I will say they are an expensive initial investment and make no money during winter so maybe start with just one or two. But they are the big money makers in the game. My current year two farm is making about 26k a day almost exclusively from pigs.
+        Thanks 😊 just upgraded the barn for goats so might put that next on my list
+Can you move tea saplings that have been planted already into the ground? I put mine in quite an awkward place and really want to move them but I’m guessing I can’t? 
+    You cannot.  
+
+
+One of the patch note CA posted for 1.6 will allow you to move fruit trees. Tea Saplings aren't fruit trees, but they act kind of similar, so maybe they'll be included in this update.
+How do I temporarily remove mods so I can play 1.6 vanilla? (Steam and windows)
+    You can rename the 'mods' folder if you don't want SMAPI to access them.   Just putting a dot "." in front of the word is apparently enough.  
+
+Or you can redirect Steam to play through Stardew rather than through SMAPI - the place where you had to copy and paste a link to get SMAPI to work, I can't remember where it is.
+    I would uninstall SMAPI. Your mods will stay in place, but the game won't be able to access them so they are essentially off. When you want mods again, reinstall SMAPI. Don't forget to change the steam launch options!
+What companion app do people use to keep track of items of quests while playing? I remember downloading one when I did my main playthrough a few years ago, but I can't remember which it was.
+    Mine is just called Assistant and the icon is purple with a sunflower. It cost a little bit but it was so worth it. Think I searched Stardew Valley Assistant on Google Play for it.
+I have been playing this game for sometime now, well compared to other it's very less. I'm at Winter year 1. After the 1.6 update, should I continue playing this save since I barely started or should I go for new save?
+The link concerned ape posted for  the mod compatibility, any mod that says "use latest version".. does that mean i have to download them again or are they already automatically compatible with the new update.
+
+Link here : [https://smapi.io/mods](https://smapi.io/mods)
+Am I tripping or did CA say something about an iridium Scythe?
+My gf only has a phone, and I cant afford to gift her a pc. It woudl be really great to play with her on muliplayer.
+
+  
+Will that ever be possible ?
+    There are no plans for stardew multiplayer to come to the mobile version. Even if it did, it wouldn’t necessarily have cross platform ability with pc. Split screen should still work on pc, all she needs is a controller. I do not know about the current status of stardew on Linux, which could be installed on a Chromebook (by Steam for Linux, not Android app version) and could be played with others running it on windows or Mac. I mention this because the game doesn’t require particularly heavy hardware, there are relatively inexpensive Chromebooks out there.
+**What is some general tip you would give a new player during early game?** e.g. Save certain items? Spend stamina/time on Farming/fishing first? Raise friendliness on certain NPC before anyone else? etc
+
+I played this game back ion 2019-ish. I have Forgotten most of the mechanics. I saw the 1.6 update and wanted to come back and give it another go. Thank you veterans :)
+    Definitely keep at least 1 of every item for the community centre if you aren't sure what is required, also every season plant at least 1 of every crop.
+
+Fishing is a great money-maker at the start.
+        hi hi i'm also a Stardew newbie - why do you say to plant at least one of every crop? i'm in y1 summer and have only planted the most profitable crops + what's needed for the community center :p
+Is the update available for me? I'm playing Stardew Valley through Microsoft Store, not Gamepass just to clairfy.
+Can anybody give me any basic advice?
+
+I've tried playing a few times and I always feel overwhelmed by not knowing which crops to grow or what I should be doing.
+
+Can I just play and not give much concern or will I miss out on a lot of things?
+    You should play in whatever way gives you joy! :3 I feel the game also guides you a bit so you progress slowly in the "plot" if you can call it that.
+        Thanks!
+
+Do you have a limited number of seasons/years to complete everything or can you basically take as long as you want?
+            You can take as long as you want. There is no disadvantage to taking your time. You might come across people posting things like "I achieved this in only x years", but that is just people challenging themselves so the game still feels fresh and exciting. 
+
+I know the game doesn't do all that much handholding, but there is literally no wrong way to play this and no penalties for doing stuff wrong. Even if you accidentally sell your tools, you can get them back. There are a few beginner mistakes you could consider. A common one is to plant crops to late in the season. The seeds tell you the time they will take. Every month is 28 days. Don't plant a crop if the season ends before the crop is ready, it'll just die.
+Hello everyone! first time poster but I used to play Stardew several years ago. The 1.6 got me so excited to get back in since it blew up in my FYP. But I’m kinda wary on starting up since I never played the last big updates. I played at the time there was no volcano, ginger island, and not even the witch’s area. I’m wondering now how best to go about it. I browsed through some of the resources here, are these still valid (read: up to date)? like the permanent missable content i have to watch out for? Is there any youtube channel that post fairly recent beginner guides? I’ve tried googling myself and am just overwhelmed with all the available content, getting a bit old now, and am struggling to comb through all the videos. Happy to receive any leads! thank you!
+    My advice would just be to go play the game. Look up stuff if you get stuck or want to make it easier on yourself, but don't worry about following a guide to minmax every interaction, especially if you're already feeling overwhelmed by the content.
+
+It will probably take a while for new beginner guides to get made because the update was just released. I don't think any content like cutscenes was removed so old ones will still be relevant, just maybe missing some new things.
+        If I’m new to the game should
+I start on the new farm or no?
+            Hmmm perhaps the best way to go about making this decision is to watch a YouTube video(s) that covers the basics of each farm layout, what the positives and negatives are for each, and pick which one appeals to you the most. The two things that you get with the newest farm type are blue grass and a free chicken coop w/ 2 chickens, however these things can be bought in the game on any of the farm types at one point so it’s not like you’re restricting yourself from any of the content.
+                I went new game type lol
+                    The new farm? Nothing wrong with that!
+        alright! i’ll give it a try later. i guess the best way is really to try and avoid min maxing! but there arent any permanent missable content at present? aside from choosing center over mart?
+🐓 I was gifted stardew valley for switch but never played it because the clock gave me anxiety? I’d like to give it a try - do you think that I should wait to start until the update comes out for switch? Or will playing it for a few weeks without the update make the update more exciting when it arrives for switch?
+    If you don't think you'll want to restart after updating, go ahead.
+
+If you think you'll want to restart, it depends on how long it will be until the update.
+I just want to say, I play this the first time this week, and when I saw Abigail design, it's instant "that's the one!"
+my cat stepped on my keyboard while playing stardew valley and now the menu on the bottom of the screen when I walked that has the tools has disappeared, I can't retrace his steps to try and get it back please help
+    I figured it out, it's F4 if anyone has the same problem!
+I've been trying not to spoil myself too much so I can be pleasantly surprised while playing when it arrives on switch but can anyone let me know if there are outdoor fairy lights in the new update?
+Is there somewhere a table that shows what is better to put in jar and what is better to put in keg?
+    https://www.reddit.com/r/StardewValley/s/lZQgMkDFvO
+
+I found this recently and saved it. Hope you find it helpful!
+What does it mean when I try to cut down a tree and it says “I shouldn’t cut down trees in town.”  It lets me actually chop once, then shows me the message…?  
+    New update makes those trees unchoppable.
+When looking at inspiration for forest farm layouts to plan out my farm, I see a lot of people putting stuff where I normally get hardwood from those stumps. How are people able to get hardwood if they put buildings in those areas?
+    there is another area you can find with the regrowing stumps, they also have a chance to drop mahogany seeds, which will grow a tree that gives a bunch of hardwood when chopped
+In previous farms I vaguely recall being able to stop fruit from spawning in the bat cave with a crafted floor but that no longer seems to be the case? Am I just misremembering? (I checked previous saves but it looks like I only kept saves with the mushroom cave.)
+    You're saying fruit is spawning on top of flooring? That would be new, yes.
+        Yep, fruit on the flooring. Thanks!
+I'm looking into planting rows of fruit trees and i got a question about the planting process:
+
+I know that you have to space out the trees that the 8 tiles around it are free and not occupied with other plants. Does it matter if one of those free spaces is occupied with water or will that stop the tree from growing to its full height?
+    Fruit trees need 2 tiles in each direction but thats for removable objects.
+        So the one tile of water doesn't matter. Thanks for the info, man.
+Will traveling cart random stock part change if you reload friday morning save ?
+    No, it's seeded at the veey beginning of the game.
+Hi everyone.
+
+I can't tell if my file has more trees spawning than default, I don't remember what the norm is and I have 100+ mods (my game runs fine) and I'm wondering if one of them could be responsible for what feels like an increase in trees.  Anyone have any ideas of what mod it could be?
+>Petting a farm animal, milking a cow or goat, shearing a sheep, or picking up an animal product inside a coop gives 5 experience points each.
+
+I'm assuming that you don't get the experience/mastery when using Auto-Grabber?
+>The Auto-Grabber automatically harvests milk from cows and goats, wool from sheep and Ostrich Eggs from Ostriches when placed in a Barn.
+I’m on year one winter day 20 and don’t know what to give Lewis for secret gift exchange I look at the gift list on the fan wiki and do think I can get any of his loved gifts in time. What should I get him
+Question about this change in the 1.6.3 patch
+
+>! Adult mossy green rain trees boost the moss growth rate of nearby trees !<
+
+Do the >!fiddle head trees!< count as >!adult mossy green rain trees!< or do only the other 2 types count.
+    The fern trees die after the rain, so the buff would only apply to actual *moss* trees that spawn/transform from other trees during the green rain, or the ones you grow from the moss seeds.
+Has anyone got a full screenshot of the fully upgraded farmhouse in 1.6 but without any decoration or with the least possible?
+I just finished year 1 today. I also just saw a tips and tricks video saying to keep all normal quality fruits and vegetables…and I did the exact opposite this whole time where I sold everything and kept one gold star crop of everything for quests, festivals, or turned them into the community center. I know it’s to turn goods into artisan goods but at this point I’m scared to sell anything and truly don’t know what to keep or sell. Should I now keep all normal crops and sell high quality ones?
+    Yes, you should sell your high quality crops unless you have a truly ridiculous amount of processing equipment. Bundles (with one or two exceptions ie quality crops) and quests also ignore quality. Gifting, however, is more effective with high quality items.
+
+In any case, it's not a huge deal. When it comes to crops, you can always grow more, and it's difficult to set up enough artisan equipment to deal with even a modest crop output. And you're making money either way. What you really want to hang on to is crafting materials - I promise you'll eventually come to regret ever having sold off large quantities of wood, stone, fibre, etc.
+        Ah okay, I actually like having my relationships development slowly so for year two I’ll make that adjustment. I’ll keep some high quality items for the stardew valley fair too. Thank you :)
+Has anyone else had a ton of trouble finding the >!Treasure Appraisal Guide book!<? I've already got perfection on my save and just missing this for the achievement. Slept through multiple years checking the bookseller, broken 100+ Artifact Troves, 200+ Mystery boxes, just is not turning up anywhere and I'm getting so bored of grinding for it
+    Yes, it seems to be missing in my game too.  
+
+*eta* = just checked the predictor again, and it's due in an Artefact Trove item number 1,004.  
+
+I searched using the word '*guide*'. It hadn't shown up with 'treasure appraisal' or 'book'.
+        Thanks for weighing in, I eventually found it with the predictor as well, it appeared in the bookseller finally in Year 9. When I finished sleeping my wife hated me for not speaking to her several hundred days in a row >.<. It seems that there's only a 1 in 11 chance for each bookseller so with only 8 attempted each in-game year it's quite possible to have to wait a very long time for it.
+Hi  
+I would like to start a game with my mom, she's very depressed and I thought to motivate her to play together, she liked Cleopatra a lot.  
+Can I somehow create a stable server where we can play online together but it's permanent?   
+A farm where she doesn't have to wait for me to be online to play and viceversa? like a mmorpg experience basically
+    The host doesn't have to wait for other people to be online to play, but the other players would. This might be possible with a mod though? I feel like there might be something. Good luck :)
+        yeah. I wanted something to be online always so our shared farm would grow together
+Does anyone tested if the new happinness bonus for closing the coop door before sleeping makes a huge difference?
+Played on switch for years. Just got a steamdeck and planning to start over with the ridgeside valley and scarp mods since it’ll feel brand new. Is it necessary though? Is the pc or steam version different than what’s currently on the switch?
+    Big update coming to pc in a few days, presumably to consoles in a few weeks. ConcernedApe works with the modding community to try to be sure that nothing breaks with updates.
+[deleted]
+    Yes. There is an option to use an invite code rather than invite via friends list.
+I haven't been paying super close attention, is there an estimated release date for 1.6 on consoles and mobile?
+    Not yet. Historically, consoles within weeks. mobile probably won’t be a year+ this time around.
+https://preview.redd.it/te7knqx4s7pc1.jpeg?width=414&format=pjpg&auto=webp&s=8a28e2a68e9c0dcbd18acd9da32555f352e1af6c
+
+What are these snow covered things? I can't put any decorations (except flooring) on this spot but one morning these appeared
+    That area is what most people call the "spouse patio", those decorations were added by your spouse. I believe that these ones specifically are flower planters, hence why they're covered in snow since it's winter.
+        OH that makes sense cause I just got married! Thank you!
+First time player here, waiting for the update. Do mods work easily on Steam Deck? Or is it a lot of manual file management that I'll need a keyboard and mouse for
+If I update SMAPI to 1.6 but then want to downgrade to 1.5 beta branch, will I need to reinstall SMAPI back to 1.5 or is 1.6 backwards compatible with the 1.5 game branch?
+Maybe a silly question. 
+
+I set up mods on my steam deck a while ago but want to play 1.6 vanilla without uninstalling everything. Is there a way I can toggle between vanilla and modded without uninstalling and reinstalling every time? I think I installed them manually.
+1.6 question, as I'm restarting the game for the first time in forever... according to patch notes, >!tea saplings have had their sell price cut in half (500 to 250)!<. How are newbies planning to get rich quick early on in a new farm now?
+I know CA said to consider starting a new farm to see the new content but I just started a new one a few months ago and I’m on fall year 1. Wondering if it’s worth restarting yet again for 1.6. How much new stuff could there be for the first 3 seasons?
+1.6 Question: Is there a way to get / buy the new "blue chewy grass" on the new farm? I know you start with a lot of it but if you want to cut it to make space, is there a way to get it back? Except waiting for an entire year of course
+Does the pc game pass version work yet?
+Anyone have any real idea of when it'll be coming to game pass? (Xbox for PC) I'm hearing anywhere from later today to two weeks. I may buy the Steam version if it's not coming today or tomorrow.
+Does Grandpas Farm still exist? I can’t find it but I found IFR2 and a standard farm expanded mod on nexus.
+I already have the Infinity Sword. And chance I can get the achievement without having to go through the hell of re-earning the sword?
+
+**Edit:** will the Dagger & Hammer count?
+Haven’t played in ages, want to try again with the update. What farm would you reccomend?
+Hi. Does anybody know if there is mod that allows you to click a little further away from your character instead of right next to yourself. it's frustrating how close you need to be to where you want to place things.
+    right here my friend
+
+https://www.nexusmods.com/stardewvalley/mods/6935
+        Thank You So Much
+https://preview.redd.it/gk6ig4wzlppc1.png?width=385&format=png&auto=webp&s=d90ce1bd273b22a96aa22715e53c26a4399b3826
+
+Whats Slime Slayer and Crusader ??
+Is it normal to be fishing iridium quality fish on spring 9 on a new save? (Fishing skill at lvl 4)
+    Yes.
+
+
+Fish quality is determined mostly by the distance your bobber is away from land (docks count as land). Perfect catches will also increase the quality by 1 stage. 
+Guys, do we know if 1.6's spouse portraits addition also applies for 14 hearts with roommate Krobus?
+Is there any mod that brightens hair that works in 1.6? The only one I know of was Kat's Brighter Hair mod, but that one doesn't seem to work in 1.6, and I don't know any other to check in https://smapi.io/mods
+hi yall. this is my farm on year three, i finally got the community center fixed and my house is getting the second upgrade :) thank you for the help. where do i go from here? i still have a lot of content to unlock. my current shed has some furnaces, charcoal kilns, the computer, wood chipper, and two crystalariums. i think i need more iridium
+
+* i don't really know how to do farm layouts but i assume having more sheds is good? i plan to keep land open for trees to grow though
+* are these enough spaces for crops? the one in front of the greenhouse is used for fiber (although i am running out of mixed seeds)
+* should i focus on getting to the 100th floor of the skull cavern? i think i can collect jades to exchange for staircases
+* what's the best way to get bombs? crafting them takes too many iron ores for me. is desert trader better than the dwarf's store?
+* what food do you guys use in the caverns? i switch between scrambled eggs, hashbrowns, and salads. i also like cactus fruits because i have the botanist profession
+* fishing is the only thing i dont have maxed levels, what fishing tackle is good? i like the one that makes the bar bigger
+
+https://preview.redd.it/uzh94w3b21qc1.png?width=1080&format=pjpg&auto=webp&s=9e0cbe549603fb05f30336d1a12bbcc06bbeca86
+    Look at /r/FarmsofStardewValley for planning inspiration. Remember that the farms there have been prettied up for sharing.   
+
+Grow jades in a crystalarium, it's safer than visiting Skull Cavern!  
+
+Spicy Eel *and* Triple Shot Espresso stack, top up with something like salad or cheese - cactus fruit is also fine.  
+
+I like the iridium rod and I think it's the trap thingy, the metal cube.
+        thank you!
+    honestly, I don't have a ton of advice for you, but I do recommend using cows to produce cheese for your foods! they provide a good amount of health and energy, even the worst quality, and when you have a few cows you can get a steady, quick supply of it going! 
+
+after you get your farmhouse basement, you can age it too, and when you have max relationship with cows you're going to get gold cheese from large milk, so it only takes a week to age the cheese to iridium, which gives you 325 energy/146 health!!! I think it's super underrated.
+Can you smoke legendary fish? I caught the Legend on Spring 16 Year 1, so I'm wondering if it's worth it to buy the smoker recipe just to double its value and sell it.
+    Yes you can. Someone made about post about how they purposely went and caught the legend as a quick as possible in a new save so they could smoke it and sell it for an early profit.
+I got a Dinosaur egg artifact back in spring and donated it to the library. Could I have hatched that egg with a deluxe coop or is that a different kind of dinosaur egg
+    It's the same egg.  
+
+You'll find another.  :)
+Quickest way to farm rock? Just realized how useful staircases are in yr 3 :(
+    Put jade into a crystalarium, convert to stairs with the desert merchant on ... I think Sundays.  
+
+https://stardewvalleywiki.com/Desert_Trader  
+
+Rock - any of the rocky floors, repeat levels with a 5 because you're straight onto the floor. Leave via the ladder to reset.
+    charge through levels 5-20 of the mines.  All the rocks will take 1 hit if your pickaxe is upgrades and enemies won't really bother you.
+
+Also bombs.
+Why can't we post photos anymore?
+    It's temporary, for two months.  
+
+https://old.reddit.com/r/StardewValley/comments/1birbzi/stardew_valley_16_released_on_pc/
+        Oh thank you!!
+Hi friends! I bought Stardew Valley on console (played but not completed before on PC) and console isn't updated to 1.6 yet. Without spoilers, is there any reason why I should hold off on playing before 1.6 is released there? Like, major missables if I get through spring and/or summer year 1 on 1.5.x?
+can anybody help? im using cbj item spawner mod and wanted to see how a fish tank would look in the nursery, without realizing it's the community center fish tank. i accidentally placed two in the attempt to remove one, and neither of them will be removed. i really don't know what to do.
+
+https://preview.redd.it/k0n92ue96yqc1.png?width=1507&format=png&auto=webp&s=07f23e2f200a3cd923f52b6c8e3f43181720a97b
+    Have you tried blowing them up?
+So might be a stupid question but I dont seem to get any tickets from doing sidequests in my friends coop world, is it that only the host gets them or am I experiencing a bug?
+how do i feed my animals through the winter ?
+    1. Buy hay from Marnie 2. Cut hay in other seasons if you built a silo 3. Or... simply don't and take the friendship damage + no product.
+Why isn't this tree growing? I planted it over two months ago in-game and the other ones I put near it have grown completely already. It has an empty space on all sides (I checked behind it already) and it's fertilized. Am I just unlucky or did I do something wrong?
+
+https://preview.redd.it/dmxmc9d7i9rc1.png?width=403&format=png&auto=webp&s=24d86a353d93ac345f97d37d16fb7e84924b59fd
+Hi! I hope this is the right place to ask this question. I was curious if anyone has a Steam Deck they use to play Stardew Valley? I use a lower end pc with mods and am thinking about getting a Steam Deck so I can play with my mods (unlike with a Switch). Does anyone have a recommendation for a Steam Deck model I should look at? I'm wanting to get a used one not the newest one for price reasons. I would love to hear anyone's advice or recommendations.
+    I've got the original steam deck, and it works fine.  I have noticed an occasional stutter while running around at times, where the game with freeze for a split second.  Other than that, I did have the game lock up once, which was annoying since it was 830 pm in game, and I'd already spent the day doing tons of farm work, just to have to do it again.
+
+One huge benefit of playing it on steamdeck over PC is the fact you can just put your steam deck to sleep mid-game day instead of having to play through the entire day in order to save.  That was previously the factor that caused me to drop SDV, since real life would intrude and being unable to just save and quit while playing on my PC led to shelving the game instead of drawing wife aggro.
+    I have the OLED and it runs great. I'm not sure how mods would impact performance.
+[deleted]
+I just got a giant Qi Fruit while doing the one quest. Will it disappear with the rest of them when I complete the quest?
+very recently i decided i wanted to start hunting for the living hat, i've been trying to allow weeds to grow for a couple seasons, mainly in cindersnap forest and the ginger island jungle and dig site
+[i've got the golden clock already, i could demolish it but it's a hassle]
+i didn't quite account for green rain though, is it helpful or a hinderance in this?
+do the mossy weeds also have the drop available? they disappear by the next day don't they? i'm hesitant to continue past it incase it's like a really good opportunity to get it as there're a lot more weeds about, i might do a couple rounds and see what happens but i figured i might try asking and see if anyone knows anything
+[apologies as i'm not a common reddit user, i hope this is a valid question'']
+    More weeds = more drop chances, so it can only be helpful. Don't get discouraged if you don't see results at first though, I have an ungodly amount of hours in the game and have never gotten it in any of my savefiles... Good luck!
+        thank you!! and yeah i've yet to get it on any of mine too, worst part is as much as i love it i would probably think it looks silly on my farmer-- i've put a couple hours in as is with no signs yet, and it's tough to figure out if i even have hope, cause i think daily luck affects it? but the tv doesn't have signal,, we'll see how it goes though, and good luck if you ever choose to look for it too!
+            Daily luck/luck buffs don't affect it, so don't sweat about that. Unchangeable 0.001% (no, I did not add any zeroes by mistake, it really is 1/1000) chance to get it by cutting weeds
+            after 50, 20 minute runs of roughly a thousand weeds each cycle, i managed to actually get it, typing this the moment i caught it in my inventory and am now processing it, i still don't fully know if green rain helped as it seems to have popped up on the ginger island dig site [or jungle and i saw it late?] either way, thank you for the reassurance i've finally made it
+I've recently gotten back into playing again and just started decorating my house. I haven't been able to place wood panels on the most outer bit of wall next to doorways/stairs and can't remember if it's always been like that or if it is a bug or something? Or is it a mod? \^\^' I've been looking at images of other peoples houses and many have panels in those spots?
+Is there a guide for optimal sprinkler, scarecrow and bee house placement (as in using all of them together)?
+Ive always done the regular layout, the green forest-looking areas on the Meadowlands map are not farmable correct?  
+
+Separate question, can you upgrade the cabins like you can the main house?  If I'm doing multiplayer, can my friends also get a cellar?
+I am trying to help the raccoons and they need dried morels. I have a Dehydrator. Over the course of Spring, I collected 9 Morels - 4 normal quality, 3 silver quality and 2 gold quality.
+
+But I can't make dried morels because it seems to need 5 of the same quality?
+
+Is there a way to use 5 of these morels no matter what the quality is? Am I doing something wrong?
+    if you have spare moss, I'd recommend making a few mushroom logs, if you place them exclusively near oak trees they have a decent chance of producing morels
+        that worked! I got 12 morels doing that. I didn't know you could get morels from them (I had my logs near wild trees and it was only giving the other mushrooms)
+
+thank you so much <3
+    Like you mentioned, it needs the morels to be of the same quality.
+What is the best trinket for exploring mines?
+    I like the parrot and the quiver.
+what would be kind of a good early-mid game progression? I#ve last played very early, around 1.0 so A LOT has changed
+
+I'm in the middle of summer 1 building up my farm (crops) bit by bit (so far around 100, half blueberry, half random stuff/melons). 
+
+Meanwhile I've started upgrading my tools( copper so far) and am planning on getting a large(36 slot) backpack/steel watering can/pickaxe asap.
+
+I've also just unlocked floor 120 on the mine. 
+
+I'm nowwhere near at the point of having enough money to unlock the desert, so right now I'd focus on more crops to unlock quality sprinklers, then extend my crops and start going into animals for cheese (at least when I last played the game 8 years ago(?) cheese was one of the best, and esp. easiest to access, food for sustainment). 
+
+At that point going into desert/other new content?
+    You're doing great so far! There is no "x things complete by y time" goal unless you set one. Definitely focus on animals if it's something you'd like to do. Pigs for truffles/oil and goats for cheese are great options. 
+
+For me, I like to have a copper axe/pickaxe by the end of spring, steel if I can swing it. I try to get a baic barn and coop by the third week or so and keep about 100 crops in rotation if I can. Also heavily focusing on the mines to reach 120.
+    Bro, you know you're having a good game progression if u are having fun!
+        thats not what I meant :D 
+
+I rather meant: where to best go next?
+            I think the obvious next step is to unlock the Desert. 
+
+Fall is usually my most lucrative season with Cranberries. Mid-Fall after the first Cranberry harvest you’ll have enough to repair the Bus Stop. In the meantime, I usually go caving in 110-120 repeatedly until I get a Prismatic Shard.
+Is anyone else having lagging issues since the update on PC?
+Can you do Sam's concert heart event any day or do you have to do it the day he comes to your house? He came by my house on the day of the Luau....
+    Any day. None of those events are time-specific, even though the conversation indicates they are.
+Has Stardew Predictor been working correctly for anyone else after the 1.6 update? It's been wildly inaccurate for me since the update. I've managed without it, but it would've been nice to be able to use it
+    Yeah like...supposedly it was updated to work with 1.6 but it's been *way* off for me.
+Are there any missable achievements and events?
+    You can miss two heart cutscenes with Sam and Clint. Sam's happens in year one only, and Clint's won't trigger if you have already seen Emily's six-heart event.
+
+Edit: Clint's won't trigger if you have seen Emily's eight heart event, not six.
+I saw this line in the [Pans](https://stardewvalleywiki.com/Pans#Items_Obtained) wiki article.
+
+>Shimmering lights will appear at least every half hour at the Dig Site river.
+
+Is this still true? Doesn't seem like it when I was trying to farm Lucky Ring.
+    I don't know 100% for sure, but it certainly seems like it has changed. It was definitely true in 1.5 I would get a dozen or two pans per day there (also for the lucky ring)
+
+In 1.6 I got maybe 3 per day then I'd have to wait for another super high luck day just to get another 2/3 attempts.
+Does anyone know if "spawn" rates (for lack of a better word) for prismatic shards have changed? I started a new save on release of 1.6 and am now in summer year 2. I've got lvl 9 combat, reached the bottom of the mines and got my gold scythe from the dangerous mines. Also reached lvl 28 from the skull caverns. Been in the mines and/or skull caverns at least 3 times a week and still no prismatic shard 😢
+    It actually has. Drop rate of prismatic shards from iridium nodes has been nerfed to a 3.5% chance, from a 4% in pre-1.6 (drop rate from enemies is unchanged). 
+
+My advice though, try to get deeper in Skull Caverns. Lv 28 is not that deep and you get more iridium nodes (ergo more possibilities for a shard) the deeper you go. Also, the droprate from enemies in the regular mines is almost nothing (0.005%) so never try to grind prismatic shards there, SC is your best shot. Good luck!
+        Thank you for your answer! I'll focus on the Skull Caverns more 👍
+            The big tips with skull caverns are:
+
+You can get a desert totem by trading 3 omni geodes for it from the desert trader. This will help you start your next skull cavern run earlier in the day. (every hour makes a difference) You can get staircases by trading Jade on Saturdays. You can also get spicy eel (which is a great buff for a deep run) by trading rubies.
+
+You need a large stack of highly healing food. Most people either use gold star cheese (which you can make in bulk from large milks) or they buy food from Gus. Comparing the cost and healing of various options, salad is the easiest option to just buy in bulk.
+
+You also need bombs. The key to go quickly is bombs. Buy a bunch from the dwarf - for a full day if you want to make it down to level 100, you probably want 100 or more bombs. If there's more than two or three rocks within bomb distance, throw down a bomb.
+
+If you totem in at 6-630am, then just bomb your way down with the rare staircases (primarily for infested levels), you can hit level 100+ relatively easily. You don't need to be quite that aggressive to get plenty of iridium and stone, but even 60+ should get you a good amount. Deeper is better though - iridium spawns go up aggressively with depth.
+
+Don't worry about hitting yourself with the bombs by the way. You can just eat a salad later to get up. Oh, and last tip is just keep fighting till 2am - passing out due to time just gets you 1000g penalty (never items lost), and you'll likely get far more than 1000g worth of stuff with an extra couple hours in there.
+hello! this may be a stupid question but does anyone know if the green rain event water your crops?
+    It does
+I've recently gotten 2 Prismatic Shards- one from reaching the volcano in Ginger Island and one from a mystic stone. Should I donate them to the museum, finish the missing bundle (I have another option: 5 gold-star ancient fruits), or get the Galaxy sword? I'd really like to save one for the Jumino Hut haha.
+    Galaxy sword is generally the best use for the first shard. If you don't have a better weapon somehow, it will really speed your mines runs and make it easier to get more.
+
+
+Museum donation really only matters if you have everything else. It's not high priority.
+
+
+Likewise, if you have ancientfruits going already, I wouldn't bother putting it in the bundle.
+Hello. Do I have to start a new play through to enjoy the new update more and its features? Or I can start a play through now and just wait until it comes out on console in time,
+    if you have a playthrough that's late in the game you'll be able to blow through all the new stuff pretty quickly, a lot of it modifies the whole journey of the playthrough so I'd recommend starting a new one when it comes out. though nothing is stopping you from starting a new file now AND another new one when you get the update
+I can’t figure out what this is. I played so much but haven’t played in a few years and can’t remember what this is. I tried reverse search and just sticking stuff into it but it won’t take anything.
+
+https://preview.redd.it/hf1w803wvvtc1.jpeg?width=1140&format=pjpg&auto=webp&s=90503b0ea2b24855319c8fd2b72b777352995db7
+    looks like a woodchipper that you can buy from robin
+Any good QOL mods that don't ruin the difficulty too much?
+    There's a new mod called Recycling Crafts that allows you to upgrade items likes sprinkles etc. instead of having to discard them when you get better ones. It's fairly balanced and there are a lot of options...
+        There's a deconstructor to get (some) raw materials out of crafts in vanilla, but it's super late game.
+    auto open fences and no crows.  One does not afect dificulty the other one a  little more since you get to save those resources and get the extra free spot
+        Instead of no crows I found a mod that makes your pet fight off crows the more friendship points it has, at full friendship you get no crows ever. I think it's more fair because you have to earn it.
+            That's adorable, do you have the name? Also there is pet animation or it is automatic?
+                It's called Pet against crows, but it doesn't have animations, it's all automatic.
+I remember seeing we can craft vinegar in 1.6... does anyone know how to do this? Something involving preserve kegs?
+    Rice
+Can't decide between using iridium bars for repairing boat or upgrading pickaxe first?
+    Pickaxe, if you ask me. Having the iridium pickaxe makes it easier to gather more iridium and it makes breaking rocks on ginger island essier.
+        Ah to late I already did repairing not realizing that I dont have 5 battery yet,I mean I did had it but I shipped some and give some for the quests :'( so now I pray to get stormy day before winter begin but there only 10 day left
+            Best of luck! You can get battery packs from Pam as a gift or as a drop in skull cavern from iridium bats. They get more common the further down you go.
+I just harvested cauliflower only 1 day after being planted. What caused this? Luck or something else?
+    Luck, specifically you got a visit from the Crop Fairy, one of the random over-night events. 
+
+This event checks 100 random tiles, if one of them is a non-wild-seed unmature crop the Crop Fairy grows everything in a 5\*5 area around the selected crop to full maturity.
+Can legendary fish be caught in the last day of their respective seasons?
+    Yes, as long as that day meets any other prerequisites the fish has for appearing >!namely, that it's raining if you're trying to catch the Legend, or you have Magic Bait to bypass the weather requirement.!<
+Got a question about Emily's perception in the Stardew fandom - was it a common opinion that her default portrait's stare was oddly intense? I remember that was my first impression of her back in the day and I kind of want to run with it for some doodles I'm doing, heh.
+    Yes! People say her old portrait makes her look like she has "crazy eyes"
+Question, I've been putting the same beginning green slime egg in my starting slime incubator in my slime hutch for half a month and it keeps spitting out the green slime egg and I don't get a slime. I've never used this before but this doesn't seem right. Am I doing something wrong? Is it a known bug with a solution?
+Please help!! I play on Steam with mods. I played offline for a few hours today. When I came back online, I synched my cloud to my local file. Now when I attempt to load my farm, my game crashes! Any idea how I can fix this?
+Edit for others: updating SMAPI fixed it :)
+    good luck :/
+        ty!! i fixed it but that was a terrifying 30 minutes XD
+Anyone know where I can find characters schedule for winter wiki doesn't seem to get it correctly I'm playing 1.6
+
+Edit: Nvm I didn't look at deviations
+    In additions to deviations, keep in mind that if you have the resort unlocked in Ginger Island they can also go there out of schedule.
+I had a message saying a pufferfish frenzy has started. What does it mean? I can't find anything about it on the wiki or anywhere else.
+    It's a 1.6.4 addition so only a couple days old, which is why it's not on the wiki yet. I suppose it means you can catch a lot of pufferfish that day! Someone on here said that bubbles specific to that fish will appear in the area mentioned.
+All my wines/juices and pickled/jellies come out with no stars regardless of what quality I put in, is this how things are supposed to work? I see different quality wines on the wiki and so am confused.
+    That is normal. Wines get stars through aging them in your cellar in casks.
+In the 1.6.4 hotfix #1 patchnotes it says that mine levels 45 and 85 get refreshed at the start of each year   
+What does that mean? I just went to these mine floors and there's nothing special there that would need to be refreshed. Wiki doesn't say anything about it either.
+I’ve returned to my main save after awhile and I’m going for True Perfection. Right now my biggest obstacle is money; I’ve got 7.5m but still need the golden clock plus island obelisk. 
+
+My farmable land is a mess bc I stopped farming way back when I didn’t need money anymore… but I do have lots of iridium sprinklers, and I do have a greenhouse of ancient fruit (with some casks going for wine). I don’t have any ancient seeds lying around currently. I also have 2 big barns (mostly pigs, mix of the rest) and one big coop. 
+
+What’s the fastest way to get that last ~3.5m with where I’m at? Start churning ancient seeds from fruit and prep for a massive planting next Spring? Is it worth mass planting something in Fall? Animals? 
+    Fill the island with starfruit. Mass make tappers and then kegs so you can keg as many starfruit and ancientfruit as you can.
+        Absolutely
+
+With Artisan and Starfruit, one keg will generate just over 10k profit per month. Ancient Fruit is 19% slower, 8k per month 
+
+So for 3.5M you need 350 keg-months. So if you have 50 kegs, it will take 7 months. If you have 175 kegs it will take 2 months (assuming no other income sources). 
+
+So for OP, they should plant some Starfruit and if they're short on kegs, tap some oaks.
+27/28, who am I missing?
+
+I’m new to the game. Introductions quest requires me to meet all of the villagers but there’s this one guy at the bottom of the list who I can’t find. He’s bald, looks to be wearing some sort of sunglasses, and fair-skinned. Any help would be much appreciated.
+    George probably. He sits in a wheelchair, and spends 99% of his time in his house in front of the TV. His house is to the right of the Saloon.
+so at level five you can either choose to sell fish for more money or crab pots cost less materials.   
+what I was wondering is that if you choose to sell fish for more money, if you smoke the fish in the new fish smoker do you still keep that bonus from the lv 5 perk?
+    Yes, smoked fish benefit from the 25% bonus. They can be boosted even further by Angler (fishing level 10) and Artisan (farming level 10).
+        That is amazing, I am happy
+            It's really great. Also try out the bait maker.
+The iridium fishing rod is supposed to be able to have tackle and bait, correct? My rod won't allow for both. I'm not using any mods that alter the fishing rods as far as I'm aware. I have the CJB Cheat to allow for Instant catch because I get frustrated at fishing.
+    Are you sure you're using the right things?
+
+
+When you check the rod, does it have two "slots"?
+
+
+When you check the bait and tackle, is one listed as bait and one as tackle? 
+What's the best way to handle the mines? I absolutely hate mining AND combat in my farming games but I'm halfway through year 2 and still haven't gotten to floor 5 (I saw a rock crab and it freaked me out so I've been avoiding the mine ever since).
+    Just bring along some good food and you'll be absolutely fine, I promise. You're really missing out on some amazing unlocks if you've reached level 10 in farming/foraging/fishing but not mining and combat. Gotta get after it.
+    if you’re mining lvl 2 then you’ve unlocked the staircase recipe, you can try crafting a few and go slowly through the mines. it saves your progress every five floors via the elevator. if i were you id place a staircase as soon as i reach a level and then mine/fight until you get overwhelmed, that way you have an easy way out if you want to leave. 
+How do relationship hearts work? Is there a chance of the hearts going down if I don’t maintain them? And is this the same for the animals and my dog?
+    hearts will slowly decay overtime if you don't interact with them each day, this can be negated by talking to them (or petting for animals). though this decay rate is very little and you really don't need to worry about interacting with everyone every day
+        Me grinding on Ginger Island for weeks and coming home to a very pissed off wife
+        Ah thank you!
+            Just to add on to the other comment, relationship decay stops after reaching max hearts with a villager. The exception to this is your spouse - after getting married, your relationship with your spouse will decay if you don’t maintain it. Also, if you’ve reached the max of 8 hearts with a dateable villager and then give them a bouquet, relationship decay will start back up again.
+What's the area with the stoney floor in the top right of the farm?
+    When you get married your spouse places something there and they like to hang out there, e.g. Abigail stands there to play her flute
+Should i start modding the game or wait until we stop getting hotfixes?
+    Most of the obvious bugs have been fixed in the first 3 updates. I started playing after 1.6.2 with mods and didn't face any problem.
+Picked up 1.6 by loading my old perfection save, slowly having fun discovering the new content.
+
+My infinity blade seems to be missing its damage bonus from rubies though. It's only showing 80-100 and I'm unable to add new rubies to it.
+
+Making one from scratch lets me pump it up to 104-130 as per normal, but requires me to sink more resources in to redo the blade including the 3x galaxy souls, all the cinder shards, and as many prismatic shards as needed to get my preferred enchantment (crusader)
+
+Not a huge deal, but is there a way to fix the preexisting sword?
+
+Edit: Yeah, it's totally borked. I found the "unforge" button, and it makes my infinity blade 56-70 damage. Gotta remake it from scratch I guess. Annoying, but an excuse to go farm some cinder shards.
+Looking for personal opinions from Stardew valley vets: 1.6 just came out, my sister told me about it and convinced me to start playing again. I like playing on mobile though. 1.5 update took 2 years to come to mobile. Do you all think 1.6 will take that long too, or sooner? I would love to play the new meadow farm layout.
+    CA said that gap was horrible and a massive mistake, and wouldn't happen again.
+
+
+I'd expect probably a couple more weeks, maybe a couple months if something goes screwy.
+    Tbh ever since I learned that I can connect my joycons to my laptop I’ve been playing on my laptop ever since (and having an absolute blast with mods)
+Is there a way I can find my anniversary without waiting and checking the calendar everyday/season? i dont even know what season its in
+Didn’t close my laptop properly and skipped two seasons by sleeping apparently. I’m devastated
+    Oof. I am sorry that happened. ;/ 
+
+Not sure if this is a looking for a solution type of post, but you can download a mod to change the year, season and day back to where you started. The day you change it gets a bit wonky but, once you sleep, all will return to normal. 
+
+The mod is called CJB Cheats Menu if you are interested. :)
+silly question - why is the space to the right of the house limited as to the items can be placed? i'm talking about the little cubby with cobblestone behind the donation box. it seems like such a nice place to put things
+    There are no silly questions! That spot is reserved for your spouse if you decide to marry.
+        OHHHH. that makes so much sense, i'm playing multiplayer and married them instead of an npc lol - thank you!!
+I recently purchased this game, maybe the day before the 1.6 announcemen, and with all the posts about achieving perfection before the patch, I'm wondering if I will need to start a new game when the patch comes out or if I'll be fine continuing the game I already started?
+I bought this when it was on sale when 1.6 was annunced
+
+Should I install now or do clean install of 1.6?
+    Either way. Install+update vs. clean install after update get the same result. It may be easier to install now and let it autoupdate on the day.
+I've heard that there's a pirate cove on Ginger Island but haven't figured out how to find it yet. Could someone provide me with a non-spoilery hint?
+    How many walnuts have you collected so far?  What have you unlocked?
+I made like 3 egg machines/mayo machines or whatever they’re called and the game glitched and deleted them all the next day 😭😭😭
+If you plant wild seeds, do you have to water them?
+    Yes. All seeds must be watered unless you have sprinklers or they can be irrigated like rice and taro root.
+If I play on my Mac with mods, can I continue playing the same save file on my Steam Deck without installing the mods? The two mods I will be using are: [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) & [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+    As long as you have cloud saves turned on, you can pick up a save on any steam device. Mods don't (typically) alter the save in any way, so if they're present on Mac and not present on Steam Deck, it won't cause any problems.
+The quality sprinkler in my greenhouse won't water the pots around it, whether they have plants in them or not. What's the catch? I've tried removing the sprinkler and putting it back on its place to no avail. It's surrounded by eight planting pots.
+    The sprinklers don't work on pots, unfortunately. Only the tillable soil on the greenhouse floor.
+        Omg, the soil is tillable in the greenhouse?! Thank you! 
+I have a problem regarding the professions. Basically, by mistake, I chose the rancher skill and got coopmaster and shepherd by level 10. I spent gold on the statue of uncertainty and slept. After that I chose tiller for lvl 5, but what came next was still coopmaster and shepherd. How do i get the other set for artisans?
+    Are you running mods? That sounds like a serious glitch. Could you screenshot your skills menu twice, hovering over the level 5 and 10 professions- tiller and whatever you chose?
+In order to build my first coop, do I just walk into the barn building with the materials and money and the option will automatically appear? Do I have to do anything before that? I already got the quest to build one. TIA!
+    you go to Robin's house while she's at her desk and talk to her. You'll see the option to build other buildings as well.
+Do we know when the update will drop tomorrow? If it drops at midnight I'm calling i in sick. 
+    He said it will as soon as he has his coffee and checks there’s not some massive issue
+Wait does the switch not get this update today ?
+just dropped six minutes ago for my steam folks 🎉🎉🎉
+[deleted]
+what's so good about the meadowlands farm for livestock? i'm not sure i understand how longer lasting grass is a good trade for way less farmable land and a lot of pond chokepoints.
+    The blue grass probably has more benefits that we havent found yet. Plus the free coop and chickens saves you about 5k and building materials. The short term benefits are obvious, any potential long term ones havent been found
+new player here, mods or no mods
+    I’d suggest no mods first so that you can experience the base game first. Also if you download a bunch of mods and then jump into the game without having played it before, it can be overwhelming learning how to play the base game on top of learning all the mods.
+I was wondering if I could play the game without updating it. I want to finish my current save then experience a whole new game with all the updates. How do I freeze the version?
+will compatibility version on steam be getting 1.6?
+This is my fifth farm and I've been playing since 2016. I have not been able to go through Joja route, and I'm planning to for my meadow farm. I can't bring myself to do it,.how do you guys do it?
+    Quite easily - just remember that Pierre wants a monopoly, and by keeping Joja supermarket he doesn't have one *and* poorer villagers have a choice of where to shop.
+        Tru. >!IIRC he also raises the price for his items at some point!< . Fuck Pierre. Thanks
+            Yes, he makes some fancy claims about the produce and raises the price so high that everybody complains. That's what he'd love to do, but permanently, if he had no competition.  
+
+And he never sells autopetters! :D
+If I know nothing about modding, and heard modding was easier(?) With this update, is there a guide for dummies to creating simple new dialogues or events?
+Ages ago -- I think pre-pandemic? -- a bug cropped up on Switch that crashed your game if you cooked with ingredients from the fridge. Does anyone know if that's been fixed?
+    I have only played on Switch and I don't ever recall my game crashing (I'm on Year 7 with over 200 hours on my primary save).
+        That's reassuring, thank you!
+            Yes! I forgot the most important piece- I have only played since the pandemic (2021), so you should for sure be okay.
+I'm new to the game, and i just found an iridium quality herring should i keep it for something or just sell it?
+Looking to play the new update vanilla on a brand new farm. Is there any way I can disable/deactivate/toggle mods to achieve this?
+    Yes. If you go into your files for Stardew, locate the mods folder and either make a copy of it on your desktop and delete it or just rename it, Stardew will load up without mods
+I remember I changed my pet appearance at the Wizard’s Shrine of Illusions, but for some reason, that isn’t the case anymore. Can someone please confirm?
+Hey all! I have heard that it is possible to get a >!pet bird!< in SDV. Is this true and, if so, how can I go about doing it?? I have one in real life, and would love to get one here, even if it is instead of a dog/cat. (I'm on Switch btw so no mods.) I've looked on the wiki, but no luck! Please help!
+Can I move my Android farm to my PC even though they're on different versions or do I have to wait for 1.6 on mobile?
+https://preview.redd.it/5xv6p1ilzipc1.png?width=2384&format=png&auto=webp&s=2915c81aee2cf77a18006ab24799a621af518869
+
+Can someone tell me what that skull offering thing is? I’ve tried looking it up but nothing comes up
+I was wondering does the blue grass that is already spawned on the new farm spread? Does putting a fence post on top of a tile of it make it so animals cant eat it and it will already spread?
+Got a slimey/ green tree all of a sudden anyone knows what that is?
+
+https://preview.redd.it/n1j8dewh9jpc1.png?width=1920&format=png&auto=webp&s=8473f4f1a9842e272d442eda9ef5bc1f35a3d4ec
+[deleted]
+Question for steam deck users. When we start stardew up it never recognizes a controller until we restart the system. Doesn’t matter if the system was fully shutdown before start up the game. A restart is needed. Anyone found a way to fix this?
+Is anyone already having problems with the “Feeding the Animals” quest? I made a silo and they still ask me to make it, I don't know what to do lol
+How do I activate the mine carts?
+    It's a reward for one of the community center bundles. 
+
+It's this one:>!The boiler room!<
+I know the answer is most likely "You are just incredibly unlucky" but I am on Spring 18th on a new farm and I haven't had a single day better than neutral luck. Anyone else??? 
+
+Is this CA punishing me for using the Automate mod? Or like a weird bug. It's literally never even been decent luck.
+I have two friends getting into stardew just now; i play with mods, they wanna play fresh, understandably. If one of THEM hosts, will I be able to join a multiplayer world with them without uninstalling my mods? I have mostly aesthetic things but a few bigger ones (like SVE). I dont mind if i cant access SVE and stuff when playing with them, but will it still allow me to play?
+I really want to try mods. I was primarily interested in PPJA - Artisan Valley, Chocolatier, and PPJA - Khadija's Recipe Shop. Because I really like the idea of expanding Artisan goods as a whole and playing around with those.  
+
+
+I've installed the mods and their prerequisites, but they don't seem to work. SMAPI is showing that I have 24 mods loaded when I should only really have 20.
+
+I'm extracting them into the Mods folder created by SMAPI. They must be working on some level because I can see Khadija's shop and can interact with some parts of it, but not open the shop itself, etc. I did read and follow the guide to the best of my ability. I manually downloaded all of the mods & their prerequisites and extracted them.
+
+Should I just try downloading them all again? Maybe the update made some of them unusable?
+    Some mods have been updated in nexus mods but you have to download them and replace the old ones, not all mods works just the ones that are compatible with Smapi 4 and the new 1.6 update (you need to update smapi too)
+I have only played until winter year 1 and am fairly new to the game.
+Is it still worth starting a new save for the 1.6 update? I don't want to lose my progress
+    It depends, if you wanna play in the new farm yes, it is significantly bigger than the other ones and comes with a coop and two chickens. But if you want to play with the new features an old save will do just fine, you'll still get to collect new items, discover new recipes, new requests and you can add more pets to your farm as well. Basically starting a new save it's just needed if you want to play in the new farm.
+I just found a book that says it gives +1 defence but I can’t figure out how to read it?
+    Select it in your inventory (so it's in your hands) and then use whatever input you'd use to do something like eating food (at least, I'm *pretty* sure that's how I did it).
+Can you upgrade coops?
+I've been playing some mulitplayer today on the new update on PC through steam. Been having times where the game pauses for me (not the host), drops stop picking up, and transitions between areas can take anywhere between 10-60 seconds. After that, everything rubberbands back to where it should be, but it's costing me actual in game hours every day just loading.
+
+Has anyone else been having this issue? I'm playing with the same person I used to pre-update and we never had anything like this.
+Anyone here playing on steam deck?
+I dunno why but the grass footsteps sound on my Steam Deck really hurts my ears. It‘s really „sizzling“ in a unpleasant way. Even worse now with the new farm type where there are a lot of grass tiles.
+
+Is there any way to muffle or replace the sound? Anyone here with the same problem on the Deck?
+Can you cut down the bush by coop on the new farm?
+Heya, I've just bought SDV for a friend and we're planning to play co-op soon for me to check out 1.6 and for them to experience the game. I've played the game enough in 1.5 to nearly see the 100% (screw the clock), and they are completely new to the game. Does anyone have any tips for playing co-op to make the experience more enjoyable? Any helpful advice would be appreciated, thanks!
+hello, i just wanted someone to verify that my museum collection was completed? i thought i completed it but i didnt get the achievement for it nor the stardrop. am i missing something?
+
+[https://sta.sh/0i07joqwq3e](https://sta.sh/0i07joqwq3e)
+    There's a picture in the wiki as well as the full list of donations. Hovering a mouse/cursor over an item displays the name if it's been donated. Otherwise Gunther's name will be mentioned.    
+
+https://stardewvalleywiki.com/Museum#Notes  
+
+>There is a total of 102 spaces available for donations to be placed but a total of only 95 available items to be donated.  
+
+If you're using Mac/Windows/Linus/OSX you can run Stardew Checkup to see your progress.  
+
+https://mouseypounds.github.io/stardew-checkup/
+Is something wrong with online co-op? Been trying to play online with a friend on PS5 and when you click Co-op from the main menu it just takes us back to the main menu? Never experienced this before.
+Can pigs dig up truffles if I planted grass in their pen?
+    Only on bare land. So if their pen is 100% grass with no bare tiles, you won’t get truffles.
+How do you open the dresser on switch? Been trying every button and cannot find it!
+    Isn't it the same button you would use to open any other chest?
+Uninstalled SMAPI to play the new update vanilla. I want to go back to using mods, so I reinstalled SMAPI, and made sure I had the correct launch options, but still nothing. Any ideas what I can do?
+What's the deal with placing chests in cabins? I got a cabin to possibly make into a workshop (I shoulda just shelled out for the shed, I know) and I tried twice to place a chest in it. When I do, I get an overlay of a flower pot on top of the chest and it sorta vibrates. Can't open it, can't destroy it, move it or anything.
+Hi there! I am working on a Perfection in 1 Year (Starting Year 2) challenge for myself, in version 1.5 for PC, but I'd also like to try the new 1.6 update!
+
+**Am I able to easily switch between versions 1.5 and 1.6 somehow?**
+
+I do not have any mods. Should I still back up & refresh the save files each time, somewhere?
+I accidentally trapped my chicken, help
+Just got this from fishing chest. What are the star icons and their effects?
+
+https://preview.redd.it/ucdgzealvvpc1.png?width=453&format=png&auto=webp&s=9e110995a464a0c5b1c8697e07bdce900a840deb
+    Weapons found in the world or through fishing will now randomly have enchantments on them. Something that was only available before from the forge on Ginger Island before.
+Am I missing something about the 1.6 update?
+
+I know we were supposed to be able to >!eat/drink/slurp mayonnaise and eat pickles!< in 1.6, but it doesn't seem to work for me?
+
+I'm pretty sure I updated since my >!potato pickles now look super appetizing...!< and I had the glitch >!where my tea bushes where invisible!< (until I updated again this morning). Is it because these items where from 1.5, do I need to make more and they would have their new effect?
+    i read someone say they had to put their mayo in a chest, make a new mayo, then add the old mayo from the chest back to their inventory into the stack with the new mayo.
+
+YMMV, I don't have 1.6, just going by a comment I saw
+I really wish CA gave a timeframe for 1.6 on consoles. I would really rather play on my switch, but if it’s not going to be out for a few months I might as well just go to computer!
+Anyone not get the animal cutscene on a new save? I’m in Spring day 9 and didn’t get my animal yet
+    A cutscene will trigger where Marnie will be waiting outside the farm's door with a dog or cat on the first sunny Wednesday or Friday morning in Spring after earning 1,000g. The Farmhouse must be exited between 6am and 9:30am to trigger this event. By the 20th of Spring the event will trigger, regardless of if the player made enough money
+
+Source: https://stardewvalleywiki.com/Animals
+I'm looking into building a safe Slime Hutch, so i got 2 questions:
+
+1. Does it matter what I use to block the slimes or don't they attack the fences?
+
+2. Do the slimes need to access the 4 waterbowls or is enough just to fill them without them possible to physically access them?
+    It doesn't matter what you use to hold them in. They don't attack fences or machines.
+
+
+They do not need physical access to the water.
+
+
+Keep in mind that crafted floors will prevent slime piles from spawning.
+Anyone know of a 1.6 compat mod similar to Better Crafting? https://www.nexusmods.com/stardewvalley/mods/11115?tab=files
+It changes the crafting menu into separate categories and makes it so much easier to find things for crafing
+HD Anime Portraits 1.6 Port?  
+  
+Hey, I was trying to download the HD Anime Portraits mod (https://www.nexusmods.com/stardewvalley/mods/16208) and I saw that it isnt updated yet (which isnt a big problem bc I can wait), but I also saw that you need Aero Core for it to work and AC doesn't get updated anymore, nor can you download it on nexus, so I was wondering if this mod will ever be available for 1.6 and if not, is there is a way to port it myself?
+Starting a new save with a couple mods. Looking to use CJB Cheats Menu to increase the player speed, ideally to that of the speed on a horse. What should I set the "Move Speed" value in the cheat menu to in order to match (roughly) horse speed?
+    It's the first time I've used that mod, and left it as it was.  
+
+You may get more answers over on /r/SMAPI because your question is a bit hidden here, and the sub is a bit crazy at the moment.   
+
+Be sure to mention the mod name in your post title. :)
+Do any of the title screen easter eggs work on switch? I could have sworn they did, but I haven't found any clear answers on google...
+How do some players manage to reach floor 40 in the mines on their first trip? I get the going on a good luck day, bring healing/energy, etc. but still. I consider myself to be fair enough at the game but god damn. I usually can barely make it to 15-20 on my first ttip.
+    you honestly just dive straight into ladders instead of harvesting everything you see on the floor, like I leave ores and just hunt for ladders until i complete the mines and then go back in my playthroughs
+        Makes sense! Are you able to gather enough ore for pickaxe upgrades or do you buy them?
+does anyone know what the two new giant crops are ?
+Hey all! I'm not really a new player, but I have a newbie question. Can someone ELI5 exactly how buffs affect skills, or point me in the direction of that information? Specifically, does +1 fishing give me a temporary LEVEL in fishing or temporarily increase my PROFICIENCY? Or are those the same thing and I'm just silly? Thanks in advance :)
+I'm looking into Crits and trying to make a build based around it. Can somebody tell me what the optimal loadout is?
+
+I'm personally thinking  2x Aquamarine Ring (if they stack) paired with the Scout combat skill and the Iridium Needle as the weapon.
+Whats the best way for purple mushrooms? From googling apparently they spawn on floors 80+ on mines and go down a floor every day, but at same time i found peopel saying now thats not the case. What is the best way for purple mushrooms? I need 5 for the raccoons.
+I just started playing recently and am still learning the game. I was keeping some storage chests in the cave, and Demetrius showed up and turned it into a mushroom cave, which is great, but now my storage chests are gone. 
+
+Are they lost forever?
+    They're either at the mayor's lost and found or gone forever
+Is the staircase shorts bug gone or do you need to get Lewis's quest first?
+    Its gone however there is a way to get another pair of pants.
+Is it better to buff your Farming skill when you plant seeds, or when you harvest them? I know buffing Farming improves watering can and hoe proficiency, but if you're only concerned with the quality of the crop, when should you make sure the buff is applied?
+    Harvest
+
+Buffing when planting does nothing
+Is it possible to softlock yourself on the Ginger Island pirate quest involving Kent? I got a war memento or whatever it was from the lady on the island ages ago, but i have NO IDEA where it is despite going over all my chests with a fine tooth comb. Is it possible that I sold it, or is it not sellable?
+I just started my 2nd playthrough with the new update but this time I'll be playing using a controller, is there any way to change the default Xbox controller button layout to a Playstation button layout? Any mods available?
+Sorry if this has been asked before - I will be starting a new save when the update is released on PS5 and I think I’ll go the JoJa route. Is it possible to, before purchasing the membership, complete a few bundles of the CC or will this remove the option of purchasing the membership? 
+
+Thanks in advance.
+    Yes, that's what I'm doing.  
+
+I've completed some of the craft room bundles and some of the aquarium bundles and will buy the Joja membership after I've done the vault - which gives me a crystalarium.
+Is there a place where I can get the original Stardew Valley portaits that are of a larger size? The ones on the wiki are only 128 x 128
+    It's pixel art, I don't think the originals would be any larger than 128 x 128. Just upscale them with no interpolation.
+what are "wild trees" in terms of the mushroom log? are they the ones grown by the mossy seeds? or are they naturally occuring trees like in cindersap forest? if i plant more trees in cindersap forest, will they count as "wild trees"?
+    Anything but fruit trees
+        oh so i can just surround it with pine trees? that’s easy enough
+Anyone got any strategies for catching a lot of jellies quickly in the new update, in terms of lures/bait combos? 
+
+Trying to pad out my smokers as I only have the one.
+    The book that gives you the Roe in fishing chests perk can be swapped at the book seller for 3x Jelly. Which Jelly he offers seems to vary, but I've seen more copies of that book than I have Cave Jelly drops, so when it came up I jumped at it.
+When I accept a Help Wanted Quest, The journal says 2 days left to complete the quest. But the next day, it says final day. The wiki says the player has time to do the quest on the current say and the next day. Is this the standard timeline for help Wanted Quest or am I facing a bug?
+    You can complete the quest in the day you accept it and the day after. They have counts The day you accept as Day 1 and the next day Day 2.
+From a worldbuilding standpoint, how far is the distance from the Bus Stop in Pelican Town to Calico Desert? And how long would the trip take?
+How do foraging itme spawns work? Can i leave them for like a week to gather up and colelct them once a week? Or each new spawn removes the old ones?
+    I *believe* they gather over the course of the week until Saturday. When you go to bed on Saturday everything despawns and starts all over on Sunday morning. Although if someone more knowledgeable could confirm or refute that, I would appreciate it. 
+Are we still allowed to post created content? I don't see the "self-promo" pinned post anymore
+How do you move buildings now? The option doesn't appear when you're in the usual menu at Robin's (the build buildings option)
+    It's in the same menu where you buy new buildings, look at the small icons underneath the image of any building, one of them lets you move any buildings on the farm.
+anyone in multiplayer, noticing that the other players are not getting hay? we just cleared the new farm land with the sithe, and got no hay.
+    Just because you didn't mention the obvious, is there a silo? If so, is the silo full?
+i think i remember that you used to be able to prove to the mods here that you 100% the game and then got access to a lil emoji on your flair, is that still possible? if so, where do i submit?
+why cant we post pictures right now?
+I noticed that you cannot get rested anymore by simply laying in bed for a while - it used to work but it doesn't anymore. It's not really important in later stages at the game but I used to find it useful during Spring Y1 when you don't have that many food items yet. Is this a confirmed glitch or an intended fix? Has anyone noticed this too?
+    Rest in bed to restore stamina only work in coop
+I completed the mines but it's incredibly boring to keep going back to it to collect missing artifacts - what else can i do to find them?
+    You can get them from fishing or tilling artifact spots. And don't worry, you'll find another mine soon that will take a loooooong time to get to the bottom of.
+Playing in the new meadow farm, just randomly cutting trees in my farm and i suddenly got a shirt. The design seems to be one from using salmon dinner. Anyone know how it happened? maybe its a glitch, easter egg or a random drop from trees? im in summer rn if it matters
+Can anyone suggest a mod manager, for me I am pretty new to the modding scene of stardew, and I am wondering if something simple exists, where I could just click install or add on nexus or the mod manager client and it puts the mod in for me.
+    I use Stardrop, a mod manager specifically made for SDV. It requires some amount of interaction (you still need to download + unzip the mods from Nexus, just that) but it supports having different mod loadouts, having the links for updating mods is very handy *and* it's way less prone to errors than Nexus' own mod manager in my own experience. 
+
+You can get it here: https://www.nexusmods.com/stardewvalley/mods/10455
+So I bought Stardew Valley years ago and I really enjoyed it when I started off. I never got past the first year but the whole farm concept was really enjoyable. However, I think I kept bouncing off the game due to the mines. I found them too difficult and a little frustrating after a while. Are there any techniques or anything different after 1.6 that I can use to be better?
+    Hey! Have you tried going to the mines only on lucky days? That helped me immensely.
+Hey! I did two playthroughs ages ago, probably more than 5 years ago at this point. I'm eager to start a new one with 1.6, but I hear there are some bugs which the dev is working on fixing. Should I wait a little bit more until everything is ironed out, or the bugs are not that severe and I could start?
+Note, this time I want to play with my steam deck (and I also added a couple of mods for the first time), so patching the game could break something (SMAPI, mods or whatever) so I would probably refrain from updating.
+    Most of the bugs seem to be coming from mods rather than the 1.6.  
+
+If you're really worried and want to check, look at the official forum.  
+
+https://forums.stardewvalley.net/
+Did the devs raise the chance of getting higher quality fish? I just started and I am getting a lot of gold and iridium fish, also, is it worth to focus on doing quests early for the prize tickets?
+    you get higher quality fish when you get a perfect catch, they get upgraded one quality level. just fishing in deeper waters when you're a decent level is enough to get gold quality
+how does one find a prismatic shard? im struggling
+Is it possible to marry Wizard without SVE atm?
+Whats the best way to farm tons of iron ore? I am somehow now lacking iron ore and i cant figure out a good way to farm tons of it.
+    Skull Cavern runs, same way you farm iridium ore
+
+Or repeat floor 41 of the mines
+I bought the slime hutch in 1.5.x, when slime hutch finished building in 1.6.2, I didn't get a slime incubator in the hutch, is this a bug/glitch? If so, how likely would this be fixed?
+What's a decent way to earn money early in multiplayer? I typically just fish when I'm solo, but I think fishing sucks in multiplayer since time doesn't stop. And no, I'm not clay farming.
+    clay farming got nerfed in 1.6 so you don't have to worry :p
+
+people seem to like tea sapling shenanigans but i've never really done it myself so i can't comment
+I got prismatic shard from meteorite what's the chance for this?
+    iirc it's the same chance as a normal iridium node, so 3.5% chance if you're playing in 1.6, 4% if not
+since the new update i decide to try new start and try the new map, almost year 3 and no alien crash, meteorite, or the void egg witch did my save file bugged or glitch?
+I got a day 2 catfish quest from Elliott, I can't clear it right? He stays all day in his shack when it's raining.
+Hello, does anyone of you know how to remove this fish tank \[CCFishTank\] ? Thank you in advance!
+
+https://preview.redd.it/m7vac4ftqoqc1.jpeg?width=426&format=pjpg&auto=webp&s=bbc8dd8103bff6c36d7d62a0f162230920b95d01
+hey so with the Mossy seed what do you get if you use a tapper on them?    
+
+
+when it's fully grown into a tree
+    Depends on what tree it grows into. They grow into 2 different trees based on RNG, and I know one of them can be tapped for fiddle head ferns. Not sure about the other.
+What is the purpose of the stoned rectangle at the top right corner of all the farms (up from the house and shipping container)?
+    It's a little space for your spouse once you're married
+I’m about halfway to getting the golden clock for perfection, and I’m in year seven or so. How can I earn more money quickly? Wine/jellies don’t seem to do too much, and aging ancient fruit wine takes so long (try to speed it up with fairy dust, but that still take a while with having to grow so many fairy rose flowers for it).
+My game doesn't want to run in 32:9
+https://preview.redd.it/0z7yxq8w8qqc1.png?width=474&format=png&auto=webp&s=bd713ba87fec4ab052611519b05b8686108b4a5c
+
+Has this been addressed yet? so many quality of life upgrades, and yet there is this one particular situation where you cannot interact with robin when she's building something. I know maybe planning ahead to not require a new building if her birthday is coming up etc, but being able to interact with her when she's building would be a nice small update, maybe move her to the side of the construction so that you can click on her.
+Not sure if this will get seen but are the new achievements going to be added to pc game pass and xbox versions? Seems like the update is out on pc game pass but no new achievements so far
+Is there any easier way to water crops than Arrow button > water button?  in some Harvest Moon style games you can hold down the watering can button and just walk over the spots that need to be watered... but in SDV it looks to be trying to water previously watered tiles.
+    As you upgrade your tools, you can hold down the water button and it will water more tiles in one go. At max upgrade, you can water 18 tiles at once. Once you get sprinklers, you won't even need your watering can except for the first day of spring really.
+Has anybody been able to change their pet color on 1.6? I went to the shrine of illusion but I don't have that option
+Is there a "best" use for the greenhouse? I was thinking either trees or crops that can be harvested multiple times, or the ones with really long grow times
+    Most people seem to end up with a greenhouse full of Ancient Fruit, with trees in the paving round the edge and maybe a few other repeat crops.  
+
+Planting fruit trees - https://stardewvalleywiki.com/Greenhouse  
+
+I like to also plant some coffee, and add some casks to use the beans, but at the beginning I'll plant stuff I need for selling targets and maybe some wheat because it grows quickly and makes a good profit when brewed.
+is anyone’s game a little laggy with mods added? my biggest one is seasonal outfits - slightly cuter aesthetic and it’s only like 34mb. the rest of them are framework and utility mods like json assets and spacecore
+Is there any way to relocate fruit trees after you've planted them?
+    As of 1.6, you can cut down a fully grown fruit tree to get a sapling back to plant. You’ll have to wait another 28 days for it to regrow after you replant it in your new spot. 
+Were spawn rates for artifact spots changed in 1.6? I started a new game for the update but I've barely seen any other than the new green spots.
+Is there any way to get a truffle beyond pigs and luck with the merchant?
+    nope, sorry.  you waited too long to buy your pig and now it's winter, isn't it?
+        In my defence, i am not very smart and didn’t realize pigs didnt work in winter
+So i have a legendary fish. Is there any reason to keep it or can i sell it
+    You can sell it if you want, however if you do you may want to hold off a bit as there is a new item in 1.6 that will double the value. Alternatively, because legendary fish are a one time catch, some players opt to display the fish in fish tanks.
+After tea sapling price cut is it still profitable to sell the saplings vs other starting options? Or maybe big leaf farm to then sell that until kegs roll in? No watering early on seems tempting.
+Been trying to look for wild plum with no success does it only spawn in certain locations or special places?
+    it only spawns in the fall
+        Or in fruit bat cave
+does anyone know what this means?
+
+so i wanted to add some new mods to stardew, but it told me that i needed smapi 4.0 so i updated it and it gave me this, after that i uninstalled and reinstalled smapi but its still here!
+
+https://preview.redd.it/ad5ggfwp6wqc1.jpeg?width=1102&format=pjpg&auto=webp&s=34de95fd989df077c8bb1a01a49c9f2a0acee944
+How do i get mods on MacOS if it wont let me download smapi? due to unknown creators, i cant download it.
+    I had that same issue with my mac laptop. To
+fix it, when you get that message open the settings, go to privacy and security and scroll down. You should see an option that says something like “[file name] could not be opened because it’s not from a trusted developer”. Below that message should be a button that says “open anyway”. Click on it and enter your admin password and it will open the file.
+Question about mods, probably asked a lot but if I want to start a farm without mods, I remove the mods from folder. But if I want to use mods again on another farm that uses it, does it affect anything? on the non moded farm? its just QOL mods.
+Anybody know what's up with the woody's secret book? I've deforested the entire stardew valley twice since 1.6 and a bunch of trees on my farm as well and no book. Last one I need
+    RNG will RNG.  I got one just trying to clear out the meadowlands farm of trees in the spring 1.
+Hi everyone!!! does anybody that plays with mods can tell me why I don't have the chest recipe?? :') Is there something I'm missing..? I looked through all my mods and the config. files all seem ok. Does anyone have an idea of where i can look or what it might be?  
+thankkkss <3
+    you would have to share your mod list for that
+For some reason when I start a Meadowlands farm I'm not starting with any chickens. I've got the coop and hay and it shows I have two chickens in the menu but they're no where to be found. Any ideas? I do have mods on but they haven't caused me any trouble so far.
+    the chickens start as babies, are you sure they're not just hiding in the grass?
+what's the deal with prize tickets? As in - why haven't I got any yet? Do I need to do/activate something in order for them to start being issued to me? I read on the wiki you get one for winning the egg hunt and I did win it, yet no prize tickets? I'm almost in fall year 1 and still no tickets >:(
+    you get them from doing the mini-quests on the noticeboard outside of Pierre's (next to the door to his shop), it'll have a little icon in the corner if you're going to get one for doing it. you also get them from the bigger quest board that you get a cutscene for at the start of winter 1. egg hunt only gives you one in the second year, you always get the hat in the first year
+I think it would be fun to try a "100% Community Center in the first year" run. Which would be the easiest farm to try this on, and which would be the hardest?
+    Forest is probably the easiest since it gives you forage on the farm, so less hassle trying to find stuff through other means (especially forage like Morels and Purple Mushrooms.
+
+
+Riverland the most difficult just by virtue of being the most constraining map.
+Is anyone else having issues with the Overgrown Flowery Interface mod and the trinket slot? 
+
+I was missing the trinket slot and after tinkering with my mods, I figured out Overgrown Flowery Interface is the issue. Except it seems like the mod author updated it for 1.6 so I'm assuming it should be working correctly? I'm doing without in the meantime but. :(
+1.6:>! I just got to Desert Festival and it's raining all 3 days for me in my game. Is it the same for everyone or just me? Just curious if this is a trend! !<
+[removed]
+Since the new update, I started to play stardew again after a long time and im not sure if this is a new thing or if it has been in the game for a while but, what is this thing in the south of cindersap forest that says something about the master of the 5 paths (i have translanted that from spanish so idk if its the right way) and I have looked it up in the stardew valley wiki, in google and nothing, so if someone can tell me a bit of that please?
+
+(its like a sign in the wall of the forest, near the sewer)
+
+https://preview.redd.it/ndgcgllrb5rc1.png?width=1920&format=png&auto=webp&s=519d654a1784f257675ebcfa7e31e17744632431
+    oops i found it already im sorry, it just wasnt in spanish in the wiki page XD
+I've restarted on the PC with the 1.6 update and want to know if there is any repercussions about ignoring anything relationship wise til I got my farm up and running proper? Like not doing any quests til I got a good steady stream of money coming in?
+Does anyone know of a mod that can speed up cutscenes without skipping them?  I am on PC and I have the latest version of the game :)
+
+edit:  The mod 'Event Repeater' does this -- there's a regular skip and an emergency skip.
+So... how am I supposed to get 10 hay for the community center? I have 240 in a silo and no way to take any. 
+
+Is there really no way to just grab hay?? Seems bizarre I need to either exploit empty feed slots in a coop or buy it from Marnie, I have to be missing the obvious easy way.
+Hello good! I have a question regarding the food I get from planting: what is better, selling it immediately, or processing those vegetables and fruits, and then selling it? I can sell vegetables and fruit instantly, but if I process them, it takes longer since I can't have infinite machines to do it in a chain.
+
+Thanks for your help 😬
+    On the wiki there are charts of what it actually worth processing or selling, but the main ideia is: always process the expansive plants (starfruit, ancient fruit, melon. Pumpkin strawberries) and always process the low quality, but if you need money now just sell the gold quality ones without processing
+I’ve been eyeing the mod that shows you where villagers are on the map… if I install it will steam achievements still work?
+    You need to configure it (if you're on windows) for it to work, but once it's done, yes, absolutely! Most of mine were achieved on modded playthroughs and Steam recognizes them all the same
+
+See here on how to do it: https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client
+Can I mix speed grow with fertilizer? I was thinking of using speed grow first, then fertilizer in the following day. Does that work?
+    speed grow is a fertilizer so
+Hey! So I encountered a weird thing: after the update I updated all the mods that got updated, made a new game, picked a meadow farm and went on my regular business but there's a thing: my character had no recipes in craft menu at all. No chest, no paths, no nothing. I thought that after the update you'll have to learn them first, but half of the spring down and no chests :(
+And life IS hard with no storage 
+Old characters know the recipes, no change there
+Kinda afraid of making another new game out of fear  its forever broken xD Anyone had that? 
+    Some mods have been updated more than once since the 1.6 release. If you updated your mods immediately after 1.6 came out, I would suggest double checking again to make sure all your mods are updated to the newest version.
+Hi! I would like some advice on how to play stardew valley as a first timer. Originally, I picked up a ton of mods including gameplay mods that allow you to fast travel anywhere and including friends locations, move around faster,  crops that show when they're ready to be harvested, etc. But this seemed too much and I'm curious if people play the game without such mods. To me, the game feels like a slug fest without them. But then too broken with them. So it leaves me conflicted on how to play the game.
+
+Also, is it better to play solo or with friends? I found that I wasn't able to focus as much when I was playing online with friends. Perhaps it's better to play online AFTER learning the basics. And now that the new 1.6 update is out, all I can see is a game that I feel casted away from because of some complications on how I should play it. 
+
+How do I play this game and enjoy it at its best? Is it enjoyable with absolutely no mods, or do you like having at least some quality of life mods in the mix?
+    I play with a few quality of life mods like Lookup Anything and Improved Ranching. I avoid stuff like teleportation and item spawning.
+    Yeah, you utterly broke the game with all those mods.
+
+Get rid of them all, start a new farm with the default configuration, and play through it **solo**.  
+ 
+Don't fuck with anything until AFTER you've already experienced all the game has to offer.   
+I'd stick to playing solo, because multiplayer, IMO, adds very little to the experience while severely breaking the game's economy (unless you're proactive about debuffing those effects in the advanced options tab of the New Farm creation screen (which you, as a noob, shouldn't even be looking at (Seriously, leave **everything** on its default configuration! Don't even change the farm type.)))
+
+It's *supposed* to be a slow-paced, relaxing, and immersive experience.   
+The fun comes from building up an amazing farm, step by grueling baby step, starting from nothing but fifteen parsnips and a dream. 
+
+I wrote a much longer comment going into detail about all the different ways your mods were unbalancing the game and spoiling your experience, but then accidentally refreshed the tab and lost it all... ಠ⁠_⁠ಠ
+
+So I'll just leave you with that famous Sid Meyer quote:
+
+> “Given the opportunity, players will optimize the fun out of a game”
+
+So start again, and don't even think about mods until your first farm has gotten to at least year 4 and you're playing with the late-game content on Ginger Island.
+How do void chickens compare to normal chickens, profit wise?
+    Better than normal ones, worse than large ones. Both egg and mayo.
+Does selling items in the chest on our farm give the same amount of gold as selling them to the stores in town?
+    Shipping is same as selling to a merchant.
+        Thank you! Been wasting so much time running around to merchants.
+Hi hopefully the right place. I was curious if anyone know of people that sold or if there was a process to adding in a replacement npc? Wanted to add in my partner!
+Is there a fishing doc/infographic that includes all the different farm layouts?
+
+Different farms have different fish (e.g. Woodskip on Forest Farm, Beach farm letting you fish out Corals) but none of the docs I've found include it. The "Fishing Strategy" wiki page doesn't list anything for Farms. The "Farm Maps" wiki page does list some of the fish you can catch, but it's very vague - for example, it says that Riverland Farm lets you catch Cindersap Forest fish; but the forest has two possible fish locations with different pools, river and pond, and it doesn't specify which.
+In the shipping collection tab, does anyone have any idea what item is between the dried fruit and the mystic syrup?
+    That is raisins. You get them from drying 5 grapes.
+I recently downloaded LetsMoveIt mod to rearrange foliage in my new 1.6 playthrough but forgot about the shadow person event in winter and now I can’t find the item I need to be able to find the notes. Reset Terrain Features hasn’t been updated and its unofficial version doesn’t work for me. Does anyone know the name of the item because I can’t seem to find it in the Item Spawner under its previous name. Thanks!
+    it's [magnifying glass](https://stardewvalleywiki.com/Magnifying_Glass)
+Is there a mod that tells you the best way to sell your fruit/crops etc? Like if it's best in the keg, the jar, the dehydrator or to sell on it's own?
+Just did my first legit skull cavern run and was able to farm about 80 iridium ore (16 iridium bars) what should I do with my first couple iridium? I fear I might not go back into the skull cavern for a while since I had to farm lots of cheese, bombs, and wait for a best luck day just to do a legit attempt, so I kind of want to make sure I use this Iridium in the best way possible. Should I buy the desert warp totem, create some crystalariums for jades, use it for willy's boat, or should I save them for the desert obelisk?
+first playthrough?  that's so fun!  I have small children so my gaming experience is maximizing everything which is not really how sdv is meant to be played.
+
+Maybe when 1.6 comes out on the switch I'll get that and the wife and I can play co-op on the couch.
+Your save file will be totally fine! People are just finishing up stuff because they want to start a new save with the 1.6 update :)
+You should be fine.  
+
+https://old.reddit.com/r/StardewValley/comments/1b0pqwn/16_release_date_o/
+Thanks for the heads up! This has been corrected now.
+New level on foraging, mining, fishing, etc.
+yes! pets with maxed out friendship can give you gifts randomly!! it's so cute, I was very happy when my cat brought me a fish
+They do give diminishing returns. It still might be worth it.
+
+[https://www.reddit.com/r/StardewValley/comments/jlbfce/answering\_the\_question\_of\_how\_many\_lightning\_rods/](https://www.reddit.com/r/StardewValley/comments/jlbfce/answering_the_question_of_how_many_lightning_rods/)
+I use them a lot, to act s fences that also anchor as many grass starters as I have animals - to be sure there's enough food for them.  
+
+By that point the outlay is fairly trivial.
+Please know that when you see screenshots of elaborate farms, they are generally from people who have played this game for many hours, on many different playthroughs, and are very aware of what they're doing. Don't compare yourself to that if you're new, it's unfair to you!
+
+The beginning of the game is very basic and slow. You clear your farm a bit, plant some seeds, level your skills. Explore, talk to villagers (even the mean ones), do quests from the bulletin board, go into the mines, do the community centre when that opens up, etc.
+
+There is no right or wrong way to play, but it CAN seem overwhelming at first, especially if you don't know the game well enough to have any kind of set plan in mind. You'll get there.
+Well for your grandfather's side of things it's rather simple actually. Have high relationship with many different villagers, at least 8, max out pet, make at least 1m gold, level up your skills to at least 30 in total, complete the community center, get to bottom of the mines, have access to the sewer, then completely ship every crop or artisan good, catch every fish, complete the museum, upgrade the house at least twice and be married. Now not all of this needs to be done. If you have made 1m gold then you are more than half way to the requirement to max out your grandfather. Even if you don't max him you can always just go to his shrine again and he will judge again till he is happy. Best part of the game is you can go at your pace. No rush to do anything, can always try again next year.
+
+But If your trying to get the most stuff done, I would at least focus on planting 15 of every crop and shipping them and making all the artisan goods you can and ship those also. plus try and catch all the legendary fish, because the fifth one can only be caught in spring but have to get all the others from each season first, and the sewer naturally. Maxing out all your skills will help, fishing gets easier with more skill points and better fishing poles.
+Really depends on how you're playing. Optimized playthrough you can have max hearts with everyone (14 on spouse, 8 on other romance options, 10 on everyone else), shipped one of everything, polyculture+monoculture achievements (shipping 15 of every farm crop, shipping 100 of one farm crop), completed CC, reached 100+ in Skull Cavern, crafted one of everything, fished one of everything, fully upgraded house, have a kid or two (optional), completed museum (unless you have one or two artifacts that keep eluding you), and reached Perfection (or nearly there). Plus a bunch of other spoiler-ly stuff that's part of the path of reaching all those goals.
+
+Basically it's possible to nearly 100% the game by end of year two. But odds are if this is your first playthrough, you're likely not close to that, so just set your own goals based on the above stuff.
+
+One tip though: if you want to go for Perfection, that requires a ton of money. There are a number of ways to go about this, but one common method is to set up an Ancient Fruit farm in the Greenhouse, since it produces high-value fruit year-round in there. Getting that up and running takes a lot of time since you need to start with a single Ancient Fruit plant and turn its recurring production into more seeds through the Seed Maker until you eventually fill the Greenhouse completely with Ancient Fruit plants. So it's best to get started early on that if you want to go that route.
+    > completed museum (unless you have one or two artifacts that keep eluding you)
+
+I completed the museum within year 2 this playthrough without any trouble - >!treasure totems!< are neat :)
+Yes! Just as you would normally get chickens from Marnie, but sometimes they’ll be blue instead of white or brown. (Cancel purchase if it’s a color you don’t want and try again until you do want the color)
+    Ooo I’ll go do this asap 🐔🤩 thank you!! ☺️ army of blue chickens UNITE!
+        Have fun! The blue chickens are adorable
+you can probably process the regular ones and keep the gold ones for gifts--or sell them directly 
+
+if you process it doesn't take into account the quality of the item you put in, so it's best to put lower quality items there
+
+however selling higher quality crops directly will yield more gold, and giving higher quality items to villagers gives you a multiplier for friendship points
+think so actually. The old background is still on the wiki
+    Probably not, checking on it
+
+This sprite appeared to me in a certain day, but in another "stardrop" day, the old sprite still appeared
+
+It seems that this was a "extra super duper luck" day? Idk, just assumptions
+Gotta be luck. I got like 10-12 days of rain in my first spring and summer.
+It's down to the lower right in a cubby across from the smaller lake.
+    THANK YOU SO MUCH. i'm nearing end of autumn yr1 and i've been searching for so long.
+        A good way of finding your way round is to take a screenshot. It helps a lot when you're in the Volcano. ;)
+        Go to Robin and choose to paint or move your building. You can scroll around your whole farm live with time frozen.
+It depends on what you want to do! Personally, I would focus on community center because something big happens after you finish it. That plus akull cavern runs on good luck days, and working on the farm should keep you busy.
+My advice would be pigs. Get your barn fully upgraded and get as many pigs as you can. I will say they are an expensive initial investment and make no money during winter so maybe start with just one or two. But they are the big money makers in the game. My current year two farm is making about 26k a day almost exclusively from pigs.
+    Thanks 😊 just upgraded the barn for goats so might put that next on my list
+You cannot.  
+
+
+One of the patch note CA posted for 1.6 will allow you to move fruit trees. Tea Saplings aren't fruit trees, but they act kind of similar, so maybe they'll be included in this update.
+You can rename the 'mods' folder if you don't want SMAPI to access them.   Just putting a dot "." in front of the word is apparently enough.  
+
+Or you can redirect Steam to play through Stardew rather than through SMAPI - the place where you had to copy and paste a link to get SMAPI to work, I can't remember where it is.
+I would uninstall SMAPI. Your mods will stay in place, but the game won't be able to access them so they are essentially off. When you want mods again, reinstall SMAPI. Don't forget to change the steam launch options!
+Mine is just called Assistant and the icon is purple with a sunflower. It cost a little bit but it was so worth it. Think I searched Stardew Valley Assistant on Google Play for it.
+There are no plans for stardew multiplayer to come to the mobile version. Even if it did, it wouldn’t necessarily have cross platform ability with pc. Split screen should still work on pc, all she needs is a controller. I do not know about the current status of stardew on Linux, which could be installed on a Chromebook (by Steam for Linux, not Android app version) and could be played with others running it on windows or Mac. I mention this because the game doesn’t require particularly heavy hardware, there are relatively inexpensive Chromebooks out there.
+Definitely keep at least 1 of every item for the community centre if you aren't sure what is required, also every season plant at least 1 of every crop.
+
+Fishing is a great money-maker at the start.
+    hi hi i'm also a Stardew newbie - why do you say to plant at least one of every crop? i'm in y1 summer and have only planted the most profitable crops + what's needed for the community center :p
+You should play in whatever way gives you joy! :3 I feel the game also guides you a bit so you progress slowly in the "plot" if you can call it that.
+    Thanks!
+
+Do you have a limited number of seasons/years to complete everything or can you basically take as long as you want?
+        You can take as long as you want. There is no disadvantage to taking your time. You might come across people posting things like "I achieved this in only x years", but that is just people challenging themselves so the game still feels fresh and exciting. 
+
+I know the game doesn't do all that much handholding, but there is literally no wrong way to play this and no penalties for doing stuff wrong. Even if you accidentally sell your tools, you can get them back. There are a few beginner mistakes you could consider. A common one is to plant crops to late in the season. The seeds tell you the time they will take. Every month is 28 days. Don't plant a crop if the season ends before the crop is ready, it'll just die.
+My advice would just be to go play the game. Look up stuff if you get stuck or want to make it easier on yourself, but don't worry about following a guide to minmax every interaction, especially if you're already feeling overwhelmed by the content.
+
+It will probably take a while for new beginner guides to get made because the update was just released. I don't think any content like cutscenes was removed so old ones will still be relevant, just maybe missing some new things.
+    If I’m new to the game should
+I start on the new farm or no?
+        Hmmm perhaps the best way to go about making this decision is to watch a YouTube video(s) that covers the basics of each farm layout, what the positives and negatives are for each, and pick which one appeals to you the most. The two things that you get with the newest farm type are blue grass and a free chicken coop w/ 2 chickens, however these things can be bought in the game on any of the farm types at one point so it’s not like you’re restricting yourself from any of the content.
+            I went new game type lol
+                The new farm? Nothing wrong with that!
+    alright! i’ll give it a try later. i guess the best way is really to try and avoid min maxing! but there arent any permanent missable content at present? aside from choosing center over mart?
+If you don't think you'll want to restart after updating, go ahead.
+
+If you think you'll want to restart, it depends on how long it will be until the update.
+I figured it out, it's F4 if anyone has the same problem!
+https://www.reddit.com/r/StardewValley/s/lZQgMkDFvO
+
+I found this recently and saved it. Hope you find it helpful!
+New update makes those trees unchoppable.
+there is another area you can find with the regrowing stumps, they also have a chance to drop mahogany seeds, which will grow a tree that gives a bunch of hardwood when chopped
+You're saying fruit is spawning on top of flooring? That would be new, yes.
+    Yep, fruit on the flooring. Thanks!
+Fruit trees need 2 tiles in each direction but thats for removable objects.
+    So the one tile of water doesn't matter. Thanks for the info, man.
+No, it's seeded at the veey beginning of the game.
+The fern trees die after the rain, so the buff would only apply to actual *moss* trees that spawn/transform from other trees during the green rain, or the ones you grow from the moss seeds.
+Yes, you should sell your high quality crops unless you have a truly ridiculous amount of processing equipment. Bundles (with one or two exceptions ie quality crops) and quests also ignore quality. Gifting, however, is more effective with high quality items.
+
+In any case, it's not a huge deal. When it comes to crops, you can always grow more, and it's difficult to set up enough artisan equipment to deal with even a modest crop output. And you're making money either way. What you really want to hang on to is crafting materials - I promise you'll eventually come to regret ever having sold off large quantities of wood, stone, fibre, etc.
+    Ah okay, I actually like having my relationships development slowly so for year two I’ll make that adjustment. I’ll keep some high quality items for the stardew valley fair too. Thank you :)
+Yes, it seems to be missing in my game too.  
+
+*eta* = just checked the predictor again, and it's due in an Artefact Trove item number 1,004.  
+
+I searched using the word '*guide*'. It hadn't shown up with 'treasure appraisal' or 'book'.
+    Thanks for weighing in, I eventually found it with the predictor as well, it appeared in the bookseller finally in Year 9. When I finished sleeping my wife hated me for not speaking to her several hundred days in a row >.<. It seems that there's only a 1 in 11 chance for each bookseller so with only 8 attempted each in-game year it's quite possible to have to wait a very long time for it.
+The host doesn't have to wait for other people to be online to play, but the other players would. This might be possible with a mod though? I feel like there might be something. Good luck :)
+    yeah. I wanted something to be online always so our shared farm would grow together
+Big update coming to pc in a few days, presumably to consoles in a few weeks. ConcernedApe works with the modding community to try to be sure that nothing breaks with updates.
+Yes. There is an option to use an invite code rather than invite via friends list.
+Not yet. Historically, consoles within weeks. mobile probably won’t be a year+ this time around.
+That area is what most people call the "spouse patio", those decorations were added by your spouse. I believe that these ones specifically are flower planters, hence why they're covered in snow since it's winter.
+    OH that makes sense cause I just got married! Thank you!
+right here my friend
+
+https://www.nexusmods.com/stardewvalley/mods/6935
+    Thank You So Much
+Yes.
+
+
+Fish quality is determined mostly by the distance your bobber is away from land (docks count as land). Perfect catches will also increase the quality by 1 stage. 
+Look at /r/FarmsofStardewValley for planning inspiration. Remember that the farms there have been prettied up for sharing.   
+
+Grow jades in a crystalarium, it's safer than visiting Skull Cavern!  
+
+Spicy Eel *and* Triple Shot Espresso stack, top up with something like salad or cheese - cactus fruit is also fine.  
+
+I like the iridium rod and I think it's the trap thingy, the metal cube.
+    thank you!
+honestly, I don't have a ton of advice for you, but I do recommend using cows to produce cheese for your foods! they provide a good amount of health and energy, even the worst quality, and when you have a few cows you can get a steady, quick supply of it going! 
+
+after you get your farmhouse basement, you can age it too, and when you have max relationship with cows you're going to get gold cheese from large milk, so it only takes a week to age the cheese to iridium, which gives you 325 energy/146 health!!! I think it's super underrated.
+Yes you can. Someone made about post about how they purposely went and caught the legend as a quick as possible in a new save so they could smoke it and sell it for an early profit.
+It's the same egg.  
+
+You'll find another.  :)
+Put jade into a crystalarium, convert to stairs with the desert merchant on ... I think Sundays.  
+
+https://stardewvalleywiki.com/Desert_Trader  
+
+Rock - any of the rocky floors, repeat levels with a 5 because you're straight onto the floor. Leave via the ladder to reset.
+charge through levels 5-20 of the mines.  All the rocks will take 1 hit if your pickaxe is upgrades and enemies won't really bother you.
+
+Also bombs.
+It's temporary, for two months.  
+
+https://old.reddit.com/r/StardewValley/comments/1birbzi/stardew_valley_16_released_on_pc/
+    Oh thank you!!
+Have you tried blowing them up?
+1. Buy hay from Marnie 2. Cut hay in other seasons if you built a silo 3. Or... simply don't and take the friendship damage + no product.
+I've got the original steam deck, and it works fine.  I have noticed an occasional stutter while running around at times, where the game with freeze for a split second.  Other than that, I did have the game lock up once, which was annoying since it was 830 pm in game, and I'd already spent the day doing tons of farm work, just to have to do it again.
+
+One huge benefit of playing it on steamdeck over PC is the fact you can just put your steam deck to sleep mid-game day instead of having to play through the entire day in order to save.  That was previously the factor that caused me to drop SDV, since real life would intrude and being unable to just save and quit while playing on my PC led to shelving the game instead of drawing wife aggro.
+I have the OLED and it runs great. I'm not sure how mods would impact performance.
+More weeds = more drop chances, so it can only be helpful. Don't get discouraged if you don't see results at first though, I have an ungodly amount of hours in the game and have never gotten it in any of my savefiles... Good luck!
+    thank you!! and yeah i've yet to get it on any of mine too, worst part is as much as i love it i would probably think it looks silly on my farmer-- i've put a couple hours in as is with no signs yet, and it's tough to figure out if i even have hope, cause i think daily luck affects it? but the tv doesn't have signal,, we'll see how it goes though, and good luck if you ever choose to look for it too!
+        Daily luck/luck buffs don't affect it, so don't sweat about that. Unchangeable 0.001% (no, I did not add any zeroes by mistake, it really is 1/1000) chance to get it by cutting weeds
+        after 50, 20 minute runs of roughly a thousand weeds each cycle, i managed to actually get it, typing this the moment i caught it in my inventory and am now processing it, i still don't fully know if green rain helped as it seems to have popped up on the ginger island dig site [or jungle and i saw it late?] either way, thank you for the reassurance i've finally made it
+if you have spare moss, I'd recommend making a few mushroom logs, if you place them exclusively near oak trees they have a decent chance of producing morels
+    that worked! I got 12 morels doing that. I didn't know you could get morels from them (I had my logs near wild trees and it was only giving the other mushrooms)
+
+thank you so much <3
+Like you mentioned, it needs the morels to be of the same quality.
+I like the parrot and the quiver.
+You're doing great so far! There is no "x things complete by y time" goal unless you set one. Definitely focus on animals if it's something you'd like to do. Pigs for truffles/oil and goats for cheese are great options. 
+
+For me, I like to have a copper axe/pickaxe by the end of spring, steel if I can swing it. I try to get a baic barn and coop by the third week or so and keep about 100 crops in rotation if I can. Also heavily focusing on the mines to reach 120.
+Bro, you know you're having a good game progression if u are having fun!
+    thats not what I meant :D 
+
+I rather meant: where to best go next?
+        I think the obvious next step is to unlock the Desert. 
+
+Fall is usually my most lucrative season with Cranberries. Mid-Fall after the first Cranberry harvest you’ll have enough to repair the Bus Stop. In the meantime, I usually go caving in 110-120 repeatedly until I get a Prismatic Shard.
+Any day. None of those events are time-specific, even though the conversation indicates they are.
+Yeah like...supposedly it was updated to work with 1.6 but it's been *way* off for me.
+You can miss two heart cutscenes with Sam and Clint. Sam's happens in year one only, and Clint's won't trigger if you have already seen Emily's six-heart event.
+
+Edit: Clint's won't trigger if you have seen Emily's eight heart event, not six.
+I don't know 100% for sure, but it certainly seems like it has changed. It was definitely true in 1.5 I would get a dozen or two pans per day there (also for the lucky ring)
+
+In 1.6 I got maybe 3 per day then I'd have to wait for another super high luck day just to get another 2/3 attempts.
+It actually has. Drop rate of prismatic shards from iridium nodes has been nerfed to a 3.5% chance, from a 4% in pre-1.6 (drop rate from enemies is unchanged). 
+
+My advice though, try to get deeper in Skull Caverns. Lv 28 is not that deep and you get more iridium nodes (ergo more possibilities for a shard) the deeper you go. Also, the droprate from enemies in the regular mines is almost nothing (0.005%) so never try to grind prismatic shards there, SC is your best shot. Good luck!
+    Thank you for your answer! I'll focus on the Skull Caverns more 👍
+        The big tips with skull caverns are:
+
+You can get a desert totem by trading 3 omni geodes for it from the desert trader. This will help you start your next skull cavern run earlier in the day. (every hour makes a difference) You can get staircases by trading Jade on Saturdays. You can also get spicy eel (which is a great buff for a deep run) by trading rubies.
+
+You need a large stack of highly healing food. Most people either use gold star cheese (which you can make in bulk from large milks) or they buy food from Gus. Comparing the cost and healing of various options, salad is the easiest option to just buy in bulk.
+
+You also need bombs. The key to go quickly is bombs. Buy a bunch from the dwarf - for a full day if you want to make it down to level 100, you probably want 100 or more bombs. If there's more than two or three rocks within bomb distance, throw down a bomb.
+
+If you totem in at 6-630am, then just bomb your way down with the rare staircases (primarily for infested levels), you can hit level 100+ relatively easily. You don't need to be quite that aggressive to get plenty of iridium and stone, but even 60+ should get you a good amount. Deeper is better though - iridium spawns go up aggressively with depth.
+
+Don't worry about hitting yourself with the bombs by the way. You can just eat a salad later to get up. Oh, and last tip is just keep fighting till 2am - passing out due to time just gets you 1000g penalty (never items lost), and you'll likely get far more than 1000g worth of stuff with an extra couple hours in there.
+It does
+Galaxy sword is generally the best use for the first shard. If you don't have a better weapon somehow, it will really speed your mines runs and make it easier to get more.
+
+
+Museum donation really only matters if you have everything else. It's not high priority.
+
+
+Likewise, if you have ancientfruits going already, I wouldn't bother putting it in the bundle.
+if you have a playthrough that's late in the game you'll be able to blow through all the new stuff pretty quickly, a lot of it modifies the whole journey of the playthrough so I'd recommend starting a new one when it comes out. though nothing is stopping you from starting a new file now AND another new one when you get the update
+looks like a woodchipper that you can buy from robin
+There's a new mod called Recycling Crafts that allows you to upgrade items likes sprinkles etc. instead of having to discard them when you get better ones. It's fairly balanced and there are a lot of options...
+    There's a deconstructor to get (some) raw materials out of crafts in vanilla, but it's super late game.
+auto open fences and no crows.  One does not afect dificulty the other one a  little more since you get to save those resources and get the extra free spot
+    Instead of no crows I found a mod that makes your pet fight off crows the more friendship points it has, at full friendship you get no crows ever. I think it's more fair because you have to earn it.
+        That's adorable, do you have the name? Also there is pet animation or it is automatic?
+            It's called Pet against crows, but it doesn't have animations, it's all automatic.
+Rice
+Pickaxe, if you ask me. Having the iridium pickaxe makes it easier to gather more iridium and it makes breaking rocks on ginger island essier.
+    Ah to late I already did repairing not realizing that I dont have 5 battery yet,I mean I did had it but I shipped some and give some for the quests :'( so now I pray to get stormy day before winter begin but there only 10 day left
+        Best of luck! You can get battery packs from Pam as a gift or as a drop in skull cavern from iridium bats. They get more common the further down you go.
+Luck, specifically you got a visit from the Crop Fairy, one of the random over-night events. 
+
+This event checks 100 random tiles, if one of them is a non-wild-seed unmature crop the Crop Fairy grows everything in a 5\*5 area around the selected crop to full maturity.
+Yes, as long as that day meets any other prerequisites the fish has for appearing >!namely, that it's raining if you're trying to catch the Legend, or you have Magic Bait to bypass the weather requirement.!<
+Yes! People say her old portrait makes her look like she has "crazy eyes"
+good luck :/
+    ty!! i fixed it but that was a terrifying 30 minutes XD
+In additions to deviations, keep in mind that if you have the resort unlocked in Ginger Island they can also go there out of schedule.
+It's a 1.6.4 addition so only a couple days old, which is why it's not on the wiki yet. I suppose it means you can catch a lot of pufferfish that day! Someone on here said that bubbles specific to that fish will appear in the area mentioned.
+That is normal. Wines get stars through aging them in your cellar in casks.
+Fill the island with starfruit. Mass make tappers and then kegs so you can keg as many starfruit and ancientfruit as you can.
+    Absolutely
+
+With Artisan and Starfruit, one keg will generate just over 10k profit per month. Ancient Fruit is 19% slower, 8k per month 
+
+So for 3.5M you need 350 keg-months. So if you have 50 kegs, it will take 7 months. If you have 175 kegs it will take 2 months (assuming no other income sources). 
+
+So for OP, they should plant some Starfruit and if they're short on kegs, tap some oaks.
+George probably. He sits in a wheelchair, and spends 99% of his time in his house in front of the TV. His house is to the right of the Saloon.
+Yes, smoked fish benefit from the 25% bonus. They can be boosted even further by Angler (fishing level 10) and Artisan (farming level 10).
+    That is amazing, I am happy
+        It's really great. Also try out the bait maker.
+Are you sure you're using the right things?
+
+
+When you check the rod, does it have two "slots"?
+
+
+When you check the bait and tackle, is one listed as bait and one as tackle? 
+Just bring along some good food and you'll be absolutely fine, I promise. You're really missing out on some amazing unlocks if you've reached level 10 in farming/foraging/fishing but not mining and combat. Gotta get after it.
+if you’re mining lvl 2 then you’ve unlocked the staircase recipe, you can try crafting a few and go slowly through the mines. it saves your progress every five floors via the elevator. if i were you id place a staircase as soon as i reach a level and then mine/fight until you get overwhelmed, that way you have an easy way out if you want to leave. 
+hearts will slowly decay overtime if you don't interact with them each day, this can be negated by talking to them (or petting for animals). though this decay rate is very little and you really don't need to worry about interacting with everyone every day
+    Me grinding on Ginger Island for weeks and coming home to a very pissed off wife
+    Ah thank you!
+        Just to add on to the other comment, relationship decay stops after reaching max hearts with a villager. The exception to this is your spouse - after getting married, your relationship with your spouse will decay if you don’t maintain it. Also, if you’ve reached the max of 8 hearts with a dateable villager and then give them a bouquet, relationship decay will start back up again.
+When you get married your spouse places something there and they like to hang out there, e.g. Abigail stands there to play her flute
+Most of the obvious bugs have been fixed in the first 3 updates. I started playing after 1.6.2 with mods and didn't face any problem.
+CA said that gap was horrible and a massive mistake, and wouldn't happen again.
+
+
+I'd expect probably a couple more weeks, maybe a couple months if something goes screwy.
+Tbh ever since I learned that I can connect my joycons to my laptop I’ve been playing on my laptop ever since (and having an absolute blast with mods)
+Oof. I am sorry that happened. ;/ 
+
+Not sure if this is a looking for a solution type of post, but you can download a mod to change the year, season and day back to where you started. The day you change it gets a bit wonky but, once you sleep, all will return to normal. 
+
+The mod is called CJB Cheats Menu if you are interested. :)
+There are no silly questions! That spot is reserved for your spouse if you decide to marry.
+    OHHHH. that makes so much sense, i'm playing multiplayer and married them instead of an npc lol - thank you!!
+Either way. Install+update vs. clean install after update get the same result. It may be easier to install now and let it autoupdate on the day.
+How many walnuts have you collected so far?  What have you unlocked?
+Yes. All seeds must be watered unless you have sprinklers or they can be irrigated like rice and taro root.
+As long as you have cloud saves turned on, you can pick up a save on any steam device. Mods don't (typically) alter the save in any way, so if they're present on Mac and not present on Steam Deck, it won't cause any problems.
+The sprinklers don't work on pots, unfortunately. Only the tillable soil on the greenhouse floor.
+    Omg, the soil is tillable in the greenhouse?! Thank you! 
+Are you running mods? That sounds like a serious glitch. Could you screenshot your skills menu twice, hovering over the level 5 and 10 professions- tiller and whatever you chose?
+you go to Robin's house while she's at her desk and talk to her. You'll see the option to build other buildings as well.
+He said it will as soon as he has his coffee and checks there’s not some massive issue
+The blue grass probably has more benefits that we havent found yet. Plus the free coop and chickens saves you about 5k and building materials. The short term benefits are obvious, any potential long term ones havent been found
+I’d suggest no mods first so that you can experience the base game first. Also if you download a bunch of mods and then jump into the game without having played it before, it can be overwhelming learning how to play the base game on top of learning all the mods.
+Quite easily - just remember that Pierre wants a monopoly, and by keeping Joja supermarket he doesn't have one *and* poorer villagers have a choice of where to shop.
+    Tru. >!IIRC he also raises the price for his items at some point!< . Fuck Pierre. Thanks
+        Yes, he makes some fancy claims about the produce and raises the price so high that everybody complains. That's what he'd love to do, but permanently, if he had no competition.  
+
+And he never sells autopetters! :D
+I have only played on Switch and I don't ever recall my game crashing (I'm on Year 7 with over 200 hours on my primary save).
+    That's reassuring, thank you!
+        Yes! I forgot the most important piece- I have only played since the pandemic (2021), so you should for sure be okay.
+Yes. If you go into your files for Stardew, locate the mods folder and either make a copy of it on your desktop and delete it or just rename it, Stardew will load up without mods
+It's a reward for one of the community center bundles. 
+
+It's this one:>!The boiler room!<
+Some mods have been updated in nexus mods but you have to download them and replace the old ones, not all mods works just the ones that are compatible with Smapi 4 and the new 1.6 update (you need to update smapi too)
+It depends, if you wanna play in the new farm yes, it is significantly bigger than the other ones and comes with a coop and two chickens. But if you want to play with the new features an old save will do just fine, you'll still get to collect new items, discover new recipes, new requests and you can add more pets to your farm as well. Basically starting a new save it's just needed if you want to play in the new farm.
+Select it in your inventory (so it's in your hands) and then use whatever input you'd use to do something like eating food (at least, I'm *pretty* sure that's how I did it).
+There's a picture in the wiki as well as the full list of donations. Hovering a mouse/cursor over an item displays the name if it's been donated. Otherwise Gunther's name will be mentioned.    
+
+https://stardewvalleywiki.com/Museum#Notes  
+
+>There is a total of 102 spaces available for donations to be placed but a total of only 95 available items to be donated.  
+
+If you're using Mac/Windows/Linus/OSX you can run Stardew Checkup to see your progress.  
+
+https://mouseypounds.github.io/stardew-checkup/
+Only on bare land. So if their pen is 100% grass with no bare tiles, you won’t get truffles.
+Isn't it the same button you would use to open any other chest?
+Weapons found in the world or through fishing will now randomly have enchantments on them. Something that was only available before from the forge on Ginger Island before.
+i read someone say they had to put their mayo in a chest, make a new mayo, then add the old mayo from the chest back to their inventory into the stack with the new mayo.
+
+YMMV, I don't have 1.6, just going by a comment I saw
+A cutscene will trigger where Marnie will be waiting outside the farm's door with a dog or cat on the first sunny Wednesday or Friday morning in Spring after earning 1,000g. The Farmhouse must be exited between 6am and 9:30am to trigger this event. By the 20th of Spring the event will trigger, regardless of if the player made enough money
+
+Source: https://stardewvalleywiki.com/Animals
+It doesn't matter what you use to hold them in. They don't attack fences or machines.
+
+
+They do not need physical access to the water.
+
+
+Keep in mind that crafted floors will prevent slime piles from spawning.
+It's the first time I've used that mod, and left it as it was.  
+
+You may get more answers over on /r/SMAPI because your question is a bit hidden here, and the sub is a bit crazy at the moment.   
+
+Be sure to mention the mod name in your post title. :)
+you honestly just dive straight into ladders instead of harvesting everything you see on the floor, like I leave ores and just hunt for ladders until i complete the mines and then go back in my playthroughs
+    Makes sense! Are you able to gather enough ore for pickaxe upgrades or do you buy them?
+They're either at the mayor's lost and found or gone forever
+Its gone however there is a way to get another pair of pants.
+Harvest
+
+Buffing when planting does nothing
+Yes, that's what I'm doing.  
+
+I've completed some of the craft room bundles and some of the aquarium bundles and will buy the Joja membership after I've done the vault - which gives me a crystalarium.
+It's pixel art, I don't think the originals would be any larger than 128 x 128. Just upscale them with no interpolation.
+Anything but fruit trees
+    oh so i can just surround it with pine trees? that’s easy enough
+The book that gives you the Roe in fishing chests perk can be swapped at the book seller for 3x Jelly. Which Jelly he offers seems to vary, but I've seen more copies of that book than I have Cave Jelly drops, so when it came up I jumped at it.
+You can complete the quest in the day you accept it and the day after. They have counts The day you accept as Day 1 and the next day Day 2.
+I *believe* they gather over the course of the week until Saturday. When you go to bed on Saturday everything despawns and starts all over on Sunday morning. Although if someone more knowledgeable could confirm or refute that, I would appreciate it. 
+It's in the same menu where you buy new buildings, look at the small icons underneath the image of any building, one of them lets you move any buildings on the farm.
+Just because you didn't mention the obvious, is there a silo? If so, is the silo full?
+Rest in bed to restore stamina only work in coop
+You can get them from fishing or tilling artifact spots. And don't worry, you'll find another mine soon that will take a loooooong time to get to the bottom of.
+I use Stardrop, a mod manager specifically made for SDV. It requires some amount of interaction (you still need to download + unzip the mods from Nexus, just that) but it supports having different mod loadouts, having the links for updating mods is very handy *and* it's way less prone to errors than Nexus' own mod manager in my own experience. 
+
+You can get it here: https://www.nexusmods.com/stardewvalley/mods/10455
+Hey! Have you tried going to the mines only on lucky days? That helped me immensely.
+Most of the bugs seem to be coming from mods rather than the 1.6.  
+
+If you're really worried and want to check, look at the official forum.  
+
+https://forums.stardewvalley.net/
+you get higher quality fish when you get a perfect catch, they get upgraded one quality level. just fishing in deeper waters when you're a decent level is enough to get gold quality
+Skull Cavern runs, same way you farm iridium ore
+
+Or repeat floor 41 of the mines
+clay farming got nerfed in 1.6 so you don't have to worry :p
+
+people seem to like tea sapling shenanigans but i've never really done it myself so i can't comment
+iirc it's the same chance as a normal iridium node, so 3.5% chance if you're playing in 1.6, 4% if not
+Depends on what tree it grows into. They grow into 2 different trees based on RNG, and I know one of them can be tapped for fiddle head ferns. Not sure about the other.
+It's a little space for your spouse once you're married
+As you upgrade your tools, you can hold down the water button and it will water more tiles in one go. At max upgrade, you can water 18 tiles at once. Once you get sprinklers, you won't even need your watering can except for the first day of spring really.
+Most people seem to end up with a greenhouse full of Ancient Fruit, with trees in the paving round the edge and maybe a few other repeat crops.  
+
+Planting fruit trees - https://stardewvalleywiki.com/Greenhouse  
+
+I like to also plant some coffee, and add some casks to use the beans, but at the beginning I'll plant stuff I need for selling targets and maybe some wheat because it grows quickly and makes a good profit when brewed.
+As of 1.6, you can cut down a fully grown fruit tree to get a sapling back to plant. You’ll have to wait another 28 days for it to regrow after you replant it in your new spot. 
+nope, sorry.  you waited too long to buy your pig and now it's winter, isn't it?
+    In my defence, i am not very smart and didn’t realize pigs didnt work in winter
+You can sell it if you want, however if you do you may want to hold off a bit as there is a new item in 1.6 that will double the value. Alternatively, because legendary fish are a one time catch, some players opt to display the fish in fish tanks.
+it only spawns in the fall
+    Or in fruit bat cave
+I had that same issue with my mac laptop. To
+fix it, when you get that message open the settings, go to privacy and security and scroll down. You should see an option that says something like “[file name] could not be opened because it’s not from a trusted developer”. Below that message should be a button that says “open anyway”. Click on it and enter your admin password and it will open the file.
+RNG will RNG.  I got one just trying to clear out the meadowlands farm of trees in the spring 1.
+you would have to share your mod list for that
+the chickens start as babies, are you sure they're not just hiding in the grass?
+you get them from doing the mini-quests on the noticeboard outside of Pierre's (next to the door to his shop), it'll have a little icon in the corner if you're going to get one for doing it. you also get them from the bigger quest board that you get a cutscene for at the start of winter 1. egg hunt only gives you one in the second year, you always get the hat in the first year
+Forest is probably the easiest since it gives you forage on the farm, so less hassle trying to find stuff through other means (especially forage like Morels and Purple Mushrooms.
+
+
+Riverland the most difficult just by virtue of being the most constraining map.
+oops i found it already im sorry, it just wasnt in spanish in the wiki page XD
+On the wiki there are charts of what it actually worth processing or selling, but the main ideia is: always process the expansive plants (starfruit, ancient fruit, melon. Pumpkin strawberries) and always process the low quality, but if you need money now just sell the gold quality ones without processing
+You need to configure it (if you're on windows) for it to work, but once it's done, yes, absolutely! Most of mine were achieved on modded playthroughs and Steam recognizes them all the same
+
+See here on how to do it: https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client
+speed grow is a fertilizer so
+Some mods have been updated more than once since the 1.6 release. If you updated your mods immediately after 1.6 came out, I would suggest double checking again to make sure all your mods are updated to the newest version.
+I play with a few quality of life mods like Lookup Anything and Improved Ranching. I avoid stuff like teleportation and item spawning.
+Yeah, you utterly broke the game with all those mods.
+
+Get rid of them all, start a new farm with the default configuration, and play through it **solo**.  
+ 
+Don't fuck with anything until AFTER you've already experienced all the game has to offer.   
+I'd stick to playing solo, because multiplayer, IMO, adds very little to the experience while severely breaking the game's economy (unless you're proactive about debuffing those effects in the advanced options tab of the New Farm creation screen (which you, as a noob, shouldn't even be looking at (Seriously, leave **everything** on its default configuration! Don't even change the farm type.)))
+
+It's *supposed* to be a slow-paced, relaxing, and immersive experience.   
+The fun comes from building up an amazing farm, step by grueling baby step, starting from nothing but fifteen parsnips and a dream. 
+
+I wrote a much longer comment going into detail about all the different ways your mods were unbalancing the game and spoiling your experience, but then accidentally refreshed the tab and lost it all... ಠ⁠_⁠ಠ
+
+So I'll just leave you with that famous Sid Meyer quote:
+
+> “Given the opportunity, players will optimize the fun out of a game”
+
+So start again, and don't even think about mods until your first farm has gotten to at least year 4 and you're playing with the late-game content on Ginger Island.
+Better than normal ones, worse than large ones. Both egg and mayo.
+Shipping is same as selling to a merchant.
+    Thank you! Been wasting so much time running around to merchants.
+That is raisins. You get them from drying 5 grapes.
+it's [magnifying glass](https://stardewvalleywiki.com/Magnifying_Glass)
+> completed museum (unless you have one or two artifacts that keep eluding you)
+
+I completed the museum within year 2 this playthrough without any trouble - >!treasure totems!< are neat :)
+Ooo I’ll go do this asap 🐔🤩 thank you!! ☺️ army of blue chickens UNITE!
+    Have fun! The blue chickens are adorable
+Probably not, checking on it
+
+This sprite appeared to me in a certain day, but in another "stardrop" day, the old sprite still appeared
+
+It seems that this was a "extra super duper luck" day? Idk, just assumptions
+THANK YOU SO MUCH. i'm nearing end of autumn yr1 and i've been searching for so long.
+    A good way of finding your way round is to take a screenshot. It helps a lot when you're in the Volcano. ;)
+    Go to Robin and choose to paint or move your building. You can scroll around your whole farm live with time frozen.
+Thanks 😊 just upgraded the barn for goats so might put that next on my list
+hi hi i'm also a Stardew newbie - why do you say to plant at least one of every crop? i'm in y1 summer and have only planted the most profitable crops + what's needed for the community center :p
+Thanks!
+
+Do you have a limited number of seasons/years to complete everything or can you basically take as long as you want?
+    You can take as long as you want. There is no disadvantage to taking your time. You might come across people posting things like "I achieved this in only x years", but that is just people challenging themselves so the game still feels fresh and exciting. 
+
+I know the game doesn't do all that much handholding, but there is literally no wrong way to play this and no penalties for doing stuff wrong. Even if you accidentally sell your tools, you can get them back. There are a few beginner mistakes you could consider. A common one is to plant crops to late in the season. The seeds tell you the time they will take. Every month is 28 days. Don't plant a crop if the season ends before the crop is ready, it'll just die.
+If I’m new to the game should
+I start on the new farm or no?
+    Hmmm perhaps the best way to go about making this decision is to watch a YouTube video(s) that covers the basics of each farm layout, what the positives and negatives are for each, and pick which one appeals to you the most. The two things that you get with the newest farm type are blue grass and a free chicken coop w/ 2 chickens, however these things can be bought in the game on any of the farm types at one point so it’s not like you’re restricting yourself from any of the content.
+        I went new game type lol
+            The new farm? Nothing wrong with that!
+alright! i’ll give it a try later. i guess the best way is really to try and avoid min maxing! but there arent any permanent missable content at present? aside from choosing center over mart?
+Yep, fruit on the flooring. Thanks!
+So the one tile of water doesn't matter. Thanks for the info, man.
+Ah okay, I actually like having my relationships development slowly so for year two I’ll make that adjustment. I’ll keep some high quality items for the stardew valley fair too. Thank you :)
+Thanks for weighing in, I eventually found it with the predictor as well, it appeared in the bookseller finally in Year 9. When I finished sleeping my wife hated me for not speaking to her several hundred days in a row >.<. It seems that there's only a 1 in 11 chance for each bookseller so with only 8 attempted each in-game year it's quite possible to have to wait a very long time for it.
+yeah. I wanted something to be online always so our shared farm would grow together
+OH that makes sense cause I just got married! Thank you!
+Thank You So Much
+thank you!
+Oh thank you!!
+thank you!! and yeah i've yet to get it on any of mine too, worst part is as much as i love it i would probably think it looks silly on my farmer-- i've put a couple hours in as is with no signs yet, and it's tough to figure out if i even have hope, cause i think daily luck affects it? but the tv doesn't have signal,, we'll see how it goes though, and good luck if you ever choose to look for it too!
+    Daily luck/luck buffs don't affect it, so don't sweat about that. Unchangeable 0.001% (no, I did not add any zeroes by mistake, it really is 1/1000) chance to get it by cutting weeds
+    after 50, 20 minute runs of roughly a thousand weeds each cycle, i managed to actually get it, typing this the moment i caught it in my inventory and am now processing it, i still don't fully know if green rain helped as it seems to have popped up on the ginger island dig site [or jungle and i saw it late?] either way, thank you for the reassurance i've finally made it
+that worked! I got 12 morels doing that. I didn't know you could get morels from them (I had my logs near wild trees and it was only giving the other mushrooms)
+
+thank you so much <3
+thats not what I meant :D 
+
+I rather meant: where to best go next?
+    I think the obvious next step is to unlock the Desert. 
+
+Fall is usually my most lucrative season with Cranberries. Mid-Fall after the first Cranberry harvest you’ll have enough to repair the Bus Stop. In the meantime, I usually go caving in 110-120 repeatedly until I get a Prismatic Shard.
+Thank you for your answer! I'll focus on the Skull Caverns more 👍
+    The big tips with skull caverns are:
+
+You can get a desert totem by trading 3 omni geodes for it from the desert trader. This will help you start your next skull cavern run earlier in the day. (every hour makes a difference) You can get staircases by trading Jade on Saturdays. You can also get spicy eel (which is a great buff for a deep run) by trading rubies.
+
+You need a large stack of highly healing food. Most people either use gold star cheese (which you can make in bulk from large milks) or they buy food from Gus. Comparing the cost and healing of various options, salad is the easiest option to just buy in bulk.
+
+You also need bombs. The key to go quickly is bombs. Buy a bunch from the dwarf - for a full day if you want to make it down to level 100, you probably want 100 or more bombs. If there's more than two or three rocks within bomb distance, throw down a bomb.
+
+If you totem in at 6-630am, then just bomb your way down with the rare staircases (primarily for infested levels), you can hit level 100+ relatively easily. You don't need to be quite that aggressive to get plenty of iridium and stone, but even 60+ should get you a good amount. Deeper is better though - iridium spawns go up aggressively with depth.
+
+Don't worry about hitting yourself with the bombs by the way. You can just eat a salad later to get up. Oh, and last tip is just keep fighting till 2am - passing out due to time just gets you 1000g penalty (never items lost), and you'll likely get far more than 1000g worth of stuff with an extra couple hours in there.
+There's a deconstructor to get (some) raw materials out of crafts in vanilla, but it's super late game.
+Instead of no crows I found a mod that makes your pet fight off crows the more friendship points it has, at full friendship you get no crows ever. I think it's more fair because you have to earn it.
+    That's adorable, do you have the name? Also there is pet animation or it is automatic?
+        It's called Pet against crows, but it doesn't have animations, it's all automatic.
+Ah to late I already did repairing not realizing that I dont have 5 battery yet,I mean I did had it but I shipped some and give some for the quests :'( so now I pray to get stormy day before winter begin but there only 10 day left
+    Best of luck! You can get battery packs from Pam as a gift or as a drop in skull cavern from iridium bats. They get more common the further down you go.
+ty!! i fixed it but that was a terrifying 30 minutes XD
+Absolutely
+
+With Artisan and Starfruit, one keg will generate just over 10k profit per month. Ancient Fruit is 19% slower, 8k per month 
+
+So for 3.5M you need 350 keg-months. So if you have 50 kegs, it will take 7 months. If you have 175 kegs it will take 2 months (assuming no other income sources). 
+
+So for OP, they should plant some Starfruit and if they're short on kegs, tap some oaks.
+That is amazing, I am happy
+    It's really great. Also try out the bait maker.
+Me grinding on Ginger Island for weeks and coming home to a very pissed off wife
+Ah thank you!
+    Just to add on to the other comment, relationship decay stops after reaching max hearts with a villager. The exception to this is your spouse - after getting married, your relationship with your spouse will decay if you don’t maintain it. Also, if you’ve reached the max of 8 hearts with a dateable villager and then give them a bouquet, relationship decay will start back up again.
+OHHHH. that makes so much sense, i'm playing multiplayer and married them instead of an npc lol - thank you!!
+Omg, the soil is tillable in the greenhouse?! Thank you! 
+Tru. >!IIRC he also raises the price for his items at some point!< . Fuck Pierre. Thanks
+    Yes, he makes some fancy claims about the produce and raises the price so high that everybody complains. That's what he'd love to do, but permanently, if he had no competition.  
+
+And he never sells autopetters! :D
+That's reassuring, thank you!
+    Yes! I forgot the most important piece- I have only played since the pandemic (2021), so you should for sure be okay.
+Makes sense! Are you able to gather enough ore for pickaxe upgrades or do you buy them?
+oh so i can just surround it with pine trees? that’s easy enough
+In my defence, i am not very smart and didn’t realize pigs didnt work in winter
+Or in fruit bat cave
+Thank you! Been wasting so much time running around to merchants.
+Have fun! The blue chickens are adorable
+A good way of finding your way round is to take a screenshot. It helps a lot when you're in the Volcano. ;)
+Go to Robin and choose to paint or move your building. You can scroll around your whole farm live with time frozen.
+You can take as long as you want. There is no disadvantage to taking your time. You might come across people posting things like "I achieved this in only x years", but that is just people challenging themselves so the game still feels fresh and exciting. 
+
+I know the game doesn't do all that much handholding, but there is literally no wrong way to play this and no penalties for doing stuff wrong. Even if you accidentally sell your tools, you can get them back. There are a few beginner mistakes you could consider. A common one is to plant crops to late in the season. The seeds tell you the time they will take. Every month is 28 days. Don't plant a crop if the season ends before the crop is ready, it'll just die.
+Hmmm perhaps the best way to go about making this decision is to watch a YouTube video(s) that covers the basics of each farm layout, what the positives and negatives are for each, and pick which one appeals to you the most. The two things that you get with the newest farm type are blue grass and a free chicken coop w/ 2 chickens, however these things can be bought in the game on any of the farm types at one point so it’s not like you’re restricting yourself from any of the content.
+    I went new game type lol
+        The new farm? Nothing wrong with that!
+Daily luck/luck buffs don't affect it, so don't sweat about that. Unchangeable 0.001% (no, I did not add any zeroes by mistake, it really is 1/1000) chance to get it by cutting weeds
+after 50, 20 minute runs of roughly a thousand weeds each cycle, i managed to actually get it, typing this the moment i caught it in my inventory and am now processing it, i still don't fully know if green rain helped as it seems to have popped up on the ginger island dig site [or jungle and i saw it late?] either way, thank you for the reassurance i've finally made it
+I think the obvious next step is to unlock the Desert. 
+
+Fall is usually my most lucrative season with Cranberries. Mid-Fall after the first Cranberry harvest you’ll have enough to repair the Bus Stop. In the meantime, I usually go caving in 110-120 repeatedly until I get a Prismatic Shard.
+The big tips with skull caverns are:
+
+You can get a desert totem by trading 3 omni geodes for it from the desert trader. This will help you start your next skull cavern run earlier in the day. (every hour makes a difference) You can get staircases by trading Jade on Saturdays. You can also get spicy eel (which is a great buff for a deep run) by trading rubies.
+
+You need a large stack of highly healing food. Most people either use gold star cheese (which you can make in bulk from large milks) or they buy food from Gus. Comparing the cost and healing of various options, salad is the easiest option to just buy in bulk.
+
+You also need bombs. The key to go quickly is bombs. Buy a bunch from the dwarf - for a full day if you want to make it down to level 100, you probably want 100 or more bombs. If there's more than two or three rocks within bomb distance, throw down a bomb.
+
+If you totem in at 6-630am, then just bomb your way down with the rare staircases (primarily for infested levels), you can hit level 100+ relatively easily. You don't need to be quite that aggressive to get plenty of iridium and stone, but even 60+ should get you a good amount. Deeper is better though - iridium spawns go up aggressively with depth.
+
+Don't worry about hitting yourself with the bombs by the way. You can just eat a salad later to get up. Oh, and last tip is just keep fighting till 2am - passing out due to time just gets you 1000g penalty (never items lost), and you'll likely get far more than 1000g worth of stuff with an extra couple hours in there.
+That's adorable, do you have the name? Also there is pet animation or it is automatic?
+    It's called Pet against crows, but it doesn't have animations, it's all automatic.
+Best of luck! You can get battery packs from Pam as a gift or as a drop in skull cavern from iridium bats. They get more common the further down you go.
+It's really great. Also try out the bait maker.
+Just to add on to the other comment, relationship decay stops after reaching max hearts with a villager. The exception to this is your spouse - after getting married, your relationship with your spouse will decay if you don’t maintain it. Also, if you’ve reached the max of 8 hearts with a dateable villager and then give them a bouquet, relationship decay will start back up again.
+Yes, he makes some fancy claims about the produce and raises the price so high that everybody complains. That's what he'd love to do, but permanently, if he had no competition.  
+
+And he never sells autopetters! :D
+Yes! I forgot the most important piece- I have only played since the pandemic (2021), so you should for sure be okay.
+I went new game type lol
+    The new farm? Nothing wrong with that!
+It's called Pet against crows, but it doesn't have animations, it's all automatic.
+The new farm? Nothing wrong with that!

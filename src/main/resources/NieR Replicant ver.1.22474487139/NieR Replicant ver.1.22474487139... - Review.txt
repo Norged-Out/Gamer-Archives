@@ -1,0 +1,287 @@
+[[NieR Replicant ver.1.22474487139... - Review]]
+
+
+I've heard a lot of good things about NieR: Automata and decided to give the first game a shot before I tried Automata, especially since it's a remaster and was pretty recent (\~1.5 years ago). 
+
+I went into the game pretty much blind - not knowing what type of game it was or what it was about.
+
+**Overall Score: 4.5 / 10.** The rating may seem low, but I try to give these scores for games that are simply OK and good enough to finish, but tend to not be super engaging throughout and/or have a sizeable amount of flaws. (As opposed to not even finishing the game at all). 
+
+NieR Replicant definitely kept me engaged to finish all the endings, but I did put it down at points / delayed in finishing it (i.e. it didn't really hook me). I also think there were quite a lot of things that I'd consider flaws in the game (see the third section). Obviously, the original game is 12 years old and this version is primarily a graphics remaster (with just a couple of exceptions, to my knowledge) - so I think some of this is to be expected.
+
+My review will contain "gameplay spoilers" / mechanics and references to the ending(s), but story spoilers will be in the appropriate tags.
+
+# What I Liked
+
+* I thought the general universe/world-building was quite interesting - I was always wanting to learn more about the world and what exactly was going on. This is primarily the reason I decided to stick around and complete all the endings (see below point).
+* The game has 5 different playthroughs/endings (A/B/C/D/E). These involved playing through parts of the game again (not the entire game). While one could consider seeing the first ending (A) as \*beating\* the game, I'd say it's not the same as \*completing\* the game. This was a novel concept to me that I hadn't really seen before - where playing through part of the game again would reveal/unlock other story segments that added more color/lore to the game. 
+   * While I think there \*were\* plenty of issues with this (which I'll cover in a below section), I thought Playthroughs B & E were quite worth it (i.e. they were worth having to replay parts of the game).
+* I thought the general character building / interactions were well done and probably one of the stronger points of the game. I also enjoyed the banter between the MC and Grimoire Weiss was fun and added some nice color/humor to the game, especially during side quests. It reminded me a bit of God of War (2018) where the player learned about random Norse mythology during the game (although I think GoW did it better - I would have liked NieR Replicant to talk more about the lore/world).
+   * Although I did find some of Kaine's dialog a bit too edgy/cringey =/ I guess that was part of the point, though. 
+
+# What Was OK
+
+* Combat was... passable. It's basically just a hack and slash with some magic thrown in. I think the combat *looked* flashy and complicated but honestly it was pretty repetitive and didn't really require much thought or strategy. It was good enough to keep engaged, but honestly most of the time I felt like I was just button mashing and doing fine (this is on Normal difficulty - I'll expand on the Hard difficulty in the below section). 
+   * The "Bullet Hell" aspects of the combat didn't really seem well done. I honestly never felt like I had to bother dealing with them too much and I could just heal through the attacks and/or there was just so much going on in the screen it was a nightmare to dodge (or maybe I'm just bad). 
+   * Parrying was cool and felt rewarding, but really just didn't feel necessary at all most of the time.
+* The DLC (>!World of the Recycled Vessel!<) was interesting and a bit more challenging/fun, but it still didn't really hook me too much. 
+* The graphics & music were solid as expected for a remaster. I don't usually put too much emphasis on these unless they really stand out (positively or negatively). The game ran perfectly fine (besides some loading times - see below) on my PS4 Base. 
+
+# What I Didn't Like / What Could Have Been Better
+
+* While it may sound contradictory that I played on 'Normal' and then said the combat was essentially too easy, I actually started the game on 'Hard'. However, 'Hard' difficulty increases the HP of enemies by insane amounts and the combat was incredibly tedious. Outside of bosses there still didn't seem like much skill required, but now everything just took insanely long to kill and it became a massive chore. I eventually decided to turn it down due to the tedium. I feel like the difficulty levels could have been adjusted a bit better. 
+* A very common criticism of the game, which I agree with, is that the vast majority of side quests are incredibly dull and just tedious fetch quests. Somewhat ironically, I did end up doing a large portion of them (90% total) but it was mostly to experience what the full game offered and see if anything improved (spoiler: it didn't). 
+   * Most of the quests also required a lot of traversing and re-traversing between towns/areas which became a chore.
+   * I think a problem was that the rewards for many/most of the quests was simply just money. I think they could have been more creative in the rewards - rare materials, different Words, etc...
+   * Some of the Side Quests *did* lead to some fun character interactions or had multiple parts which made them a bit more immersive - so I'll give some credit to that. 
+* As I talked about above - I did quite enjoy playthroughs/endings B/E and thought they were generally worth the investment of having to play through parts of the game again. However, playthroughs C/D got quite tedious and I think didn't really add enough. C/D *did* go through relatively quick (maybe \~4 hours combined) but it still felt quite tedious. 
+   *  I wouldn't fault anyone for basically just stopping after A or B if they knew what was ahead of them and just watching the rest on Youtube. (Although I had a friend explain to me it's basically all or nothing which I agree with - one should probably decide between just doing A or doing A-E). 
+* While I did like the general lore/universe, the story was still quite cryptic and hard to follow. Many things were not explained in the game ever, and I had to look-up some videos (and make sure they didn't contain Automata spoilers) / articles to try to understand more. It seems a lot of material was released in other media - which is really something I don't like. I'd rather have more of the story/all of the story contained in the actual game. 
+   * >!Major story spoiler example: While the Gestalt lore drop towards the end of the game was quite cool, they never explained the Black Scrawl (which is literally the focus of the first half of the game), what the heck Grimoire Weiss/Noir were, what happened in the world to lead to Gestalt, etc..!<
+* The fast travel in the game was quite useless. I believe there's a meta comment in the game around not including it (it's not available for about \~60% of the game) so maybe it's the developer's intention - but it doesn't change the fact that the traversing was pretty cumbersome and I think a solid fast travel system would have significantly changed the tedium of some of the main/side quests. 
+* I thought Weapon Upgrading and the general "resource collection" was poorly done. Not only did most weapons feel similar to each other, but upgrading each one seemed like a significant investment (and often times without a significant improvement). Even with completing 90% of side quests and playing the game on multiple playthroughs, I think I was only able to upgrade half the weapons by one level (they can be upgraded three times). I was able to upgrade my main weapon an extra time (so not even max level) and then I just stopped caring. 
+   * It seemed there were quite a lot of rare resources needed, and the drop rates were pretty low. It seems like the game expected you to just straight up grind for a lot of these.
+* Similarly, the "Words" system was also pretty uninspiring. They were just collected randomly by killing enemies (from what I could tell) and a lot seemed pretty useless. I basically just batch assigned the best ones every once in a while and called it a day.
+   * I think it would have been cool if some of the side quests rewarded the player with more powerful or unique Words. 
+* Most of the magic didn't feel that different from each other - again I felt like there was a lot of flash but not much substance here. I experimented with all of them as I got them and ended up just going back to the first two because Dark Lance is one of them that lets the player drop enemies so they could be executed, and Dark Blast could be spammed with little/0 mana. 
+* The tutorial system was very clowny - basically the player unlocks tutorials by killing enemies which is pretty non-sensical. Sometimes I wouldn't know about certain mechanics until after completing a few areas. Also, the tutorials were often 1-2 sentences and required me to hunt through the logbook to read them. If they are so short, why not just display them immediately than having to remember to read them later?
+   * There was even an instance in the game that felt impossible to continue because a certain move/button combination was never taught.
+* There are parts of the story that were just giant text novels (not even a visual novel - just words on a black screen). While some of them I did appreciate the lore/story knowledge, the way it was done was just so weird and...boring. Some of them even had a quiz at the end and if the player failed they had to basically button mash through the entire novel again. 
+* There were parts of the game that were in a different perspective / forced the player to walk around slowly. I didn't really see the purpose of this and generally it felt annoying to me, but I can see how it adds some uniqueness to the gameplay / style of the game. 
+* This might be a PS4 Base problem, but loading times were pretty slow and only added to the tedium of having to traverse between multiple areas/cities constantly.
+* Some animations were also pretty slow - e.g. picking up certain items. Gardening, while already a chore, was made so much worse because of the animations required to plant/harvest/water crops. While it probably only adds a few minutes, it just felt really frustrating and killed a lot of enthusiasm.
+
+# Conclusion / Stats
+
+I know I have a lot of criticism for the game, but the main point to takeaway is that I still enjoyed the game enough to not only beat it once but to fully complete all the endings and experience the full game. 
+
+I'm not sure I would go out of my way to recommend NieR Replicant to everyone, but I think it's a pretty unique game overall and can be worth a shot if you're interested in a unique Universe/setting and characters (or interested in NieR: Automata - not that I've played it yet). It reminds me a bit of The Witcher 3, which IMO is carried mostly by the story/lore/characters and less so by the actual gameplay. 
+
+I'll definitely be giving NieR: Automata a shot soon (not immediately, but soon enough before I forget NieR Replicant). 
+
+General Stats/Information:
+
+* Played on Base PS4
+* Normal Difficulty (besides maybe the first couple of hours on Hard)
+* \~40 total hours of playtime
+* 90% Quest Completion (somehow I had the patience for this)
+* 75% Trophy Completion (I basically didn't bother with any grindy trophy - some of these can be real insane and props to anyone who manages to Platinum this game)
+
+
+Pretty fair review. It's a fun game but it is repetitive. Automata solved it to some extent. I platinumed the game and getting the 'Eagle egg' from the nest in Aerie is really frustrating along with some other rare materials.
+    Yeah I've heard Automata definitely improves on it a lot, so I'm excited for that.
+
+That's super impressive that you platinumed haha, I saw one of the achievements was to fully upgrade all the weapons which just looked insane.
+        > Yeah I've heard Automata definitely improves on it a lot, so I'm excited for that.
+
+Eh. Nier had better themes, but wasn't able to execute them very well. Automata doesn't have the same glaring design problems that Nier has, but its gameplay still isn't particularly good, and its themes are both shallower and more pretentious (unless you're still stuck in that phase of *meta* ∴ *genius*).
+            Name me another game that >!goes through every single possible meaning of life and shits on them all!<
+
+That's pretty unique imo
+                [removed]
+                    Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+    tbf, this is not something that the developers failed to "solve". A lot of the tedium in this game is intentional because >!it adds to the nihilism of the story.!< There are many moments where >!the game makes you reflect on the pointlessness of what you're doing until Ending D literally erases tens of hours of progress! This moment would not be as effective and thematically round if traveling, sidequests, and minigames were all smooth and engaging.!<
+        While it could be intentional, I don't think that necessarily excuses it. i.e. Just because something is intentionally "bad" doesn't make it better.
+        This goes for plenty of games in addition to just Nier, but if you ever find yourself wanting to spin something that is obviously bad as actually being good, then just suppress that thought and keep scrolling. Everyone (including yourself) benefits.
+            >This goes for plenty of games
+
+No it doesnt. Ending D and Nier's multi-level thematic coherence are pretty unique.
+                Yes it absolutely does.
+
+Saying ending D and Nier's multilevel thematic coherence (I'm not sure I know what that even means) are unique doesn't prove your point, it seems more likely you just disagree that the intentional mundanity is uninteresting or too tedious.
+                    it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
+As someone who gave Automata a 10/10, I found Replicant to be very underwhelming. It's basically Automat but worse. The combat is simpler, the moves are less flashy, the map is smaller, the OST doesn't hit as hard, the side quests are more mundane, the endings are more repetitive. Seems like a lot of people like Replicant better though. Judging by your critique I doubt you'll have a much better time with Automata.
+
+One thing that became very obvious to me is that Yoko Taro definitely places more focus on the story and the tone of the game than the actual gameplay and he would sacrifice gameplay if the story requires it. That's why you see people doing crazy moves in these games even though the game doesn't require you to perform these tricks at all.
+    > Judging by your critique I doubt you'll have a much better time with Automata.
+
+Does Automata still have the same level of repetition for all the endings? 
+
+> One thing that became very obvious to me is that Yoko Taro definitely places more focus on the story
+
+I just wish a bit more was explained within the actual game haha. The general story/lore from what I've read has been quite interesting.
+        > Does Automata still have the same level of repetition for all the endings?
+
+Not the endings. There is some repetition, but I personally thought it was not nearly as bad.
+        Repitition is there, not as bad as Replicant, but still quite bad IMO for the "second" playthrough because 70% of the game doesn't really add much to the overall experience
+            You can run through second route very quickly and you play as completely different character with entirely new mechanic and most enemy placement is remixed. This is more than most games with second character offer
+                Mechanic is fun at first, but kinda get stale in the middle-end, with the limited variation
+
+But yeah, avoiding spoiler, i just think second one is a bit too long without presenting not a lot of new stuff, at least until the end
+For me I would say Replicant has a better story and main characters and Automata has better combat and overall gameplay is better.
+Very fair review ! Glad you've played it, its one of my personal GOAT !
+
+I'd like to share some production trivia, dunno if it was already mentioned here so sorry if it was : 
+
+The 2010 OG was made with very little budget and most production was centered around the main story. The youth/adult story was actually a way to re-use twice the same few environments they had, while kinda giving a sense of progress through evolution (they "basically ripped off ocarina of time" to quote game director Yoko Taro)
+
+Lots of poor design decisions were made out of budget limitations actually, like the chunky text "levels" or the absence of fast travel to artificially stretch the game length. 
+
+Even with that, publisher Square Enix found the game way too short to be sold at full price. Since they were running out of time and money and did not want to stretch the story, they've added 15 hours of pointless side fetch quests with little to no reward to actually dissuade the players to do them. Even Weiss frequently say to Nier that doing them is a drag/waste of time. 
+
+And that was a huge mistake imo haha, those side quests are the biggest flaw of the game, of course as a player you'd want to side quest in a RPG :p
+
+Hopefully they fixed this in Automata, that is filled with very cool and narrative-driven side quests, and early fast travel ! 
+
+Source : lots of interviews/conference i've read along the years, most of them are still on Youtube I believe
+
+Edit : just for the record im not saying that this excuses the bad things of the game, when its bad its bad, I just want to share the trivia :p
+    Not mentioned already, and didn't know about a lot of this - thanks for sharing it!
+
+Yeah based on what you've said / what I experienced in the game I'm not too surprised - it's unfortunate the budget limitations hampered the game. 
+
+It definitely felt the game was trying to discourage certain things haha - I think the Platinum trophy was especially insane.
+In reference to what happened that lead to the events of Nier replicant, you may not know this, but Nier replicant is actually a sequel. There is another game series called Drakengard. Nier replicant is a sequel to one of the endings of the first Drakengard game.
+
+There is also a published collection of short stories, which is pretty good, that explains other things like the origin of the grimoires.
+    I only found this out after finishing the game and looking up some explanations! My understanding though is that most of the events after Drakengard and before Replicant were only explained in the short stories right? After reading some summaries I really wish they had put it into a game somehow.
+        Yes youre correct. In Drakengard you only see the event that lead to all the shit hitting the fan like the black scrawl. The thousands of years in between isnt in any game yes. I agree id love to see a game about the downfall of humanity after that ending of Drakengard 1.
+Definitely a fair review. I think you'll enjoy *Automata* a lot more.
+No Papa Nier. 0/10
+I started Automata first and got about 2 hours in before i was hounded to finish replicant first.
+
+I started Replicant and i'm just not digging it at all. The soundtrack is great but so far the story is kinda meh? I'm not very far in but overall i'm not really sold on it.
+    Yeah... so the main Replicant story is going to be meh. It's more of the lore and backstory that makes up for it IMO. Unfortunately most/all of this gets dropped at the very end. 
+
+If you're not sold I think that's pretty reasonable. I mostly went through because I was interested enough in the lore + I knew it was a shorter game on average. 
+
+I'd say if you ignore literally all the side quests you can try to get to the 50% mark (it will be pretty obvious when you do) and see if it changes anything as that's when the story picks up *a little*. The main story is generally pretty short. 
+
+But otherwise if you don't find the combat at least passable/somewhat interesting then I'd say it's not worth the time - could just watch YouTube recaps or something.
+    There is one major character and some minor reference, but I can 100% say that it's safe to just skip to Automata if you don't dig it :)
+Came here from your Automata review. Honestly, I don't feel as bad for dropping it now.   
+
+I really loved the "idea" of this game and the story, but the general vibe of everything felt monotonous. I definitely feel like I only beat the game because of the pandemic and there not being much else to do.   
+
+Once I completed ending B and found out I had to collect all the weapons for C, my motivation to play just plummeted to 0. Not to say it's a hard task but a good chunk of the weapons were locked behind those boring and mundane side-quests you mentioned.   
+
+Automata was definitely a step up in every regard
+    Route C was definitely too much, even I'm surprised I bothered. I'm really glad Automata didn't do this.
+The audio part of the game isn't worth a mention? For me it's definitely a positive.
+    Ah I only briefly mentioned it in the middle section:
+
+> The graphics & music were solid as expected for a remaster. I don't usually put too much emphasis on these unless they really stand out (positively or negatively). The game ran perfectly fine (besides some loading times - see below) on my PS4 Base.
+
+Basically I thought it was solid, but I tend to not care as much about the music unless it really blows me away. Mostly just a personal thing. I did enjoy it though!
+Yeah I've heard Automata definitely improves on it a lot, so I'm excited for that.
+
+That's super impressive that you platinumed haha, I saw one of the achievements was to fully upgrade all the weapons which just looked insane.
+    > Yeah I've heard Automata definitely improves on it a lot, so I'm excited for that.
+
+Eh. Nier had better themes, but wasn't able to execute them very well. Automata doesn't have the same glaring design problems that Nier has, but its gameplay still isn't particularly good, and its themes are both shallower and more pretentious (unless you're still stuck in that phase of *meta* ∴ *genius*).
+        Name me another game that >!goes through every single possible meaning of life and shits on them all!<
+
+That's pretty unique imo
+            [removed]
+                Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+tbf, this is not something that the developers failed to "solve". A lot of the tedium in this game is intentional because >!it adds to the nihilism of the story.!< There are many moments where >!the game makes you reflect on the pointlessness of what you're doing until Ending D literally erases tens of hours of progress! This moment would not be as effective and thematically round if traveling, sidequests, and minigames were all smooth and engaging.!<
+    While it could be intentional, I don't think that necessarily excuses it. i.e. Just because something is intentionally "bad" doesn't make it better.
+    This goes for plenty of games in addition to just Nier, but if you ever find yourself wanting to spin something that is obviously bad as actually being good, then just suppress that thought and keep scrolling. Everyone (including yourself) benefits.
+        >This goes for plenty of games
+
+No it doesnt. Ending D and Nier's multi-level thematic coherence are pretty unique.
+            Yes it absolutely does.
+
+Saying ending D and Nier's multilevel thematic coherence (I'm not sure I know what that even means) are unique doesn't prove your point, it seems more likely you just disagree that the intentional mundanity is uninteresting or too tedious.
+                it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
+> Judging by your critique I doubt you'll have a much better time with Automata.
+
+Does Automata still have the same level of repetition for all the endings? 
+
+> One thing that became very obvious to me is that Yoko Taro definitely places more focus on the story
+
+I just wish a bit more was explained within the actual game haha. The general story/lore from what I've read has been quite interesting.
+    > Does Automata still have the same level of repetition for all the endings?
+
+Not the endings. There is some repetition, but I personally thought it was not nearly as bad.
+    Repitition is there, not as bad as Replicant, but still quite bad IMO for the "second" playthrough because 70% of the game doesn't really add much to the overall experience
+        You can run through second route very quickly and you play as completely different character with entirely new mechanic and most enemy placement is remixed. This is more than most games with second character offer
+            Mechanic is fun at first, but kinda get stale in the middle-end, with the limited variation
+
+But yeah, avoiding spoiler, i just think second one is a bit too long without presenting not a lot of new stuff, at least until the end
+Not mentioned already, and didn't know about a lot of this - thanks for sharing it!
+
+Yeah based on what you've said / what I experienced in the game I'm not too surprised - it's unfortunate the budget limitations hampered the game. 
+
+It definitely felt the game was trying to discourage certain things haha - I think the Platinum trophy was especially insane.
+I only found this out after finishing the game and looking up some explanations! My understanding though is that most of the events after Drakengard and before Replicant were only explained in the short stories right? After reading some summaries I really wish they had put it into a game somehow.
+    Yes youre correct. In Drakengard you only see the event that lead to all the shit hitting the fan like the black scrawl. The thousands of years in between isnt in any game yes. I agree id love to see a game about the downfall of humanity after that ending of Drakengard 1.
+Yeah... so the main Replicant story is going to be meh. It's more of the lore and backstory that makes up for it IMO. Unfortunately most/all of this gets dropped at the very end. 
+
+If you're not sold I think that's pretty reasonable. I mostly went through because I was interested enough in the lore + I knew it was a shorter game on average. 
+
+I'd say if you ignore literally all the side quests you can try to get to the 50% mark (it will be pretty obvious when you do) and see if it changes anything as that's when the story picks up *a little*. The main story is generally pretty short. 
+
+But otherwise if you don't find the combat at least passable/somewhat interesting then I'd say it's not worth the time - could just watch YouTube recaps or something.
+There is one major character and some minor reference, but I can 100% say that it's safe to just skip to Automata if you don't dig it :)
+Route C was definitely too much, even I'm surprised I bothered. I'm really glad Automata didn't do this.
+Ah I only briefly mentioned it in the middle section:
+
+> The graphics & music were solid as expected for a remaster. I don't usually put too much emphasis on these unless they really stand out (positively or negatively). The game ran perfectly fine (besides some loading times - see below) on my PS4 Base.
+
+Basically I thought it was solid, but I tend to not care as much about the music unless it really blows me away. Mostly just a personal thing. I did enjoy it though!
+> Yeah I've heard Automata definitely improves on it a lot, so I'm excited for that.
+
+Eh. Nier had better themes, but wasn't able to execute them very well. Automata doesn't have the same glaring design problems that Nier has, but its gameplay still isn't particularly good, and its themes are both shallower and more pretentious (unless you're still stuck in that phase of *meta* ∴ *genius*).
+    Name me another game that >!goes through every single possible meaning of life and shits on them all!<
+
+That's pretty unique imo
+        [removed]
+            Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+While it could be intentional, I don't think that necessarily excuses it. i.e. Just because something is intentionally "bad" doesn't make it better.
+This goes for plenty of games in addition to just Nier, but if you ever find yourself wanting to spin something that is obviously bad as actually being good, then just suppress that thought and keep scrolling. Everyone (including yourself) benefits.
+    >This goes for plenty of games
+
+No it doesnt. Ending D and Nier's multi-level thematic coherence are pretty unique.
+        Yes it absolutely does.
+
+Saying ending D and Nier's multilevel thematic coherence (I'm not sure I know what that even means) are unique doesn't prove your point, it seems more likely you just disagree that the intentional mundanity is uninteresting or too tedious.
+            it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
+> Does Automata still have the same level of repetition for all the endings?
+
+Not the endings. There is some repetition, but I personally thought it was not nearly as bad.
+Repitition is there, not as bad as Replicant, but still quite bad IMO for the "second" playthrough because 70% of the game doesn't really add much to the overall experience
+    You can run through second route very quickly and you play as completely different character with entirely new mechanic and most enemy placement is remixed. This is more than most games with second character offer
+        Mechanic is fun at first, but kinda get stale in the middle-end, with the limited variation
+
+But yeah, avoiding spoiler, i just think second one is a bit too long without presenting not a lot of new stuff, at least until the end
+Yes youre correct. In Drakengard you only see the event that lead to all the shit hitting the fan like the black scrawl. The thousands of years in between isnt in any game yes. I agree id love to see a game about the downfall of humanity after that ending of Drakengard 1.
+Name me another game that >!goes through every single possible meaning of life and shits on them all!<
+
+That's pretty unique imo
+    [removed]
+        Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+>This goes for plenty of games
+
+No it doesnt. Ending D and Nier's multi-level thematic coherence are pretty unique.
+    Yes it absolutely does.
+
+Saying ending D and Nier's multilevel thematic coherence (I'm not sure I know what that even means) are unique doesn't prove your point, it seems more likely you just disagree that the intentional mundanity is uninteresting or too tedious.
+        it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
+You can run through second route very quickly and you play as completely different character with entirely new mechanic and most enemy placement is remixed. This is more than most games with second character offer
+    Mechanic is fun at first, but kinda get stale in the middle-end, with the limited variation
+
+But yeah, avoiding spoiler, i just think second one is a bit too long without presenting not a lot of new stuff, at least until the end
+[removed]
+    Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+Yes it absolutely does.
+
+Saying ending D and Nier's multilevel thematic coherence (I'm not sure I know what that even means) are unique doesn't prove your point, it seems more likely you just disagree that the intentional mundanity is uninteresting or too tedious.
+    it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
+Mechanic is fun at first, but kinda get stale in the middle-end, with the limited variation
+
+But yeah, avoiding spoiler, i just think second one is a bit too long without presenting not a lot of new stuff, at least until the end
+Your comment was removed because spoiler tags that don't touch the text do not work properly on some platforms. Please try again with any spoilers written like: `normal text >!spoilertext!< normal text`
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/patientgamers) if you have any questions or concerns.*
+it means that its themes are coherent and synergetic across multiple levels (e.g. design, gameplay, story, music, ...). As I said, for example, the tediousness and repetitiveness of the gameplay >!resonate with the big nihilistic "everything you do is for nothing" theme of the story and makes it more powerful, most prominently through Ending D.!< You are right when you say that this *doesn't* make the quests any less boring or annoying, but there is also something gained that a few people here don't consider. This gain is why you can't compare the sidequests in this game with the boring sidequests from your typical run-of-the-mill open world game.
