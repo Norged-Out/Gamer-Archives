@@ -1,0 +1,736 @@
+[[A quick guide to the Meta Teams you see everywhere in the early game]]
+
+
+
+
+
+As someone who hasn't been paying much attention to meta until now (trying to push AFK stages a bit more and my haphazard collection of favorite characters can only carry me so far), these infographics (and the reasoning behind them) are super helpful!
+    Thanks!
+    My fave tank is not meta...
+I posted this a little while ago on discord and just wanted to repost it here, hopefully this helps some people!
+
+**Some additional notes:**
+
+On reddit I saw that u/drakonath posted something similar a while ago, you should check out their guide for some other tips! (https://www.reddit.com/r/AFKJourney/comments/1bwo2bx/afk\_progression\_quick\_guide/)
+
+The set up for this comp is **very variable**, the wrong placement of just one unit can cause it to completely fall apart, check replays!
+
+This team starts to change more and more as you progress later in to the game, with Reiner sometimes being quite useful (stealing enemies and throwing distractions is strong), Thoran replacing Antandra (sometimes), Hewynn becoming a really good healer for longer stages, Odie/Marilee doing more DPS, etc. Stages where you have to fight multiple teams of enemies with different comps also make this a lot harder run.
+
+**Starshard artifact is often better than confining!**
+
+**Theres a setting under settings--> battle --> Manual control called "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.**
+
+On the Thoran vs Antandra debate here is a quick summary of some of the discussion under by original discord post (Shoutout to: Dj7up and Alccarion):
+
+* **Antandra is better than Thoran for most of the early game**, he only really takes over once he's **mythic+** and can do his pact
+* Antandra stays back in the beginning of the round, letting her use Smokey for sustain vs Thoran going forward (sometimes good for distraction)
+* Antandra has faction bonus with Brutus, Koko and Smokey, this is often also just better than low level Thoran
+* Antandra's ult can also practically nullify other ults
+* Double revive + healer protection is however very useful once aquired at Mythic+ for Thoran
+    Also this team has now carried me to stage 700! My smokey is only Epic still (I cry) and my Thoran is Mythic at the moment so I still use Antandra, buying Rowan and Cecia copies in the arena store has been my saving grace.
+        How much arena do you play? I’m Epic II and I think I’ve only been able to make 2 purchases total, capping attempts each day.
+            I speedran Arena in the start of my server which really helped me out and now I play a lot less,  I'm hovering around Legendary II at the moment and I think I've made 3 purchases
+                How leveled is your koko,  mine is still purple and severely lets down the team atm,  the team in General is just overall weak for me atm
+                    What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+                        140 res,  624 stage, and i can still push abit atm,  been busy today
+                    I used purple koko all they way till afk stage 720 , just positionnwiselt
+        Hi - this is awesome, thanks for this. Do you have any other dps higher than cecia ? I’m at about 720 using Vala and Shakir at mythic+ but thinking I may have gone the wrong route focusing on them rather than building cecia.
+            Vala at a high rarity is really strong, I didnt invest too heavily in her cause Im mostly F2P and she really shines when shes Mythic+. Honestly you can do pretty well with most comps so youll most likely have no issue. + Cecia will start to fall off in the future and Vala is great for pvp
+        Does this mean that the prio for copies is Cecia and Rowan?
+            It depends, but for early game advancement I’d say yes. If youre looking more long term, then Hewynn might be better
+        what is your character tier level and reso level when you reach stage 700? congrats btw!
+            My Reso level is 150 at the moment, and my highest ascension character is my Cecia at Supreme!
+        Is Rowan really worth the extra copies? I think mine's Legendary and that feels like plenty.
+            Cecia is probably better to focus on around now, but it depends on how good healers you have!
+    So helpful!
+    Any thoughts on PvP comps?
+        None at the moment, haven’t quite cracked it yet, but I’ll see if theres any consensus. I’ve hear Eironn is really good in PVP
+    I bought the "battle pass" so I'll have a chest that offers me Thoran or Smokey. I have 3 Thorans (1 away from Legendary+) and 0 Smokeys, and I'm wondering if I should use the chest to work towards Mythic+ Thoran or get Smokey (since I can't seem to pull one and only pull Bryon's). 
+
+My situation is even more peculiar given I dropped Legendary Cecia for Supreme Bryon. Res 91 / AFK 363 if that's relevant.
+        100% Id get smokey. At your current stage smokey will provide you a lot of healing, and hes a huge help in dream realm and is in all the main comps! Supreme Bryon is most likely going to be doing a lot more damage than cecia so that also makes a lot of sense
+    Do you have the discord link?
+I saw people saying I should switch to odie when I get him to mythic+ is that true even if Cecilia and mythic+?
+    Getting Odie to Mythic+ usually takes quite sometime with the amount of dupes needed, so you'll most likely be later in the game but I would agree. At Mythic+ he gets an ability that lets him insta kill enemies after a certain amount of damage done to them which is really strong against team comps high in heals.
+        Odie is the vala killer when he’s that highly ascended
+            And Igor
+                And brutus. Heart crusher goes right through brutus barrier
+                    yeah, but he is not as annoying of an opponent as igor
+                        Very true 😂😂
+                        Mythic+ grannie will stop him
+                            yeah i barely have epic granny :D
+            The fact that I'm sitting at 11/12 odie and being completely out of guarantee odie from the store is annoying me ngl lol , I'm completely at the mercy of RNG now with pulls to get my last odie.. :(
+                My first 3 pity pulls in the all hero banner where odie 😂 I have one more left to buy, just watching for dream currency to do so
+                I’m 7/12 on Odie too. I find it’s more time consuming to get the elites to mythic+ than it is the epics
+        I am 1 away. I got lucky with a lot of dupes for him in summons. 
+
+I left in dream realm shop and that’s the last one I need luckily.
+    I'd take Cecilia off your wish lists, she's not good end game. M+ is good stopping point. Get Odie to supreme+
+I don't understand the love for Thoran. I've used Brutus / Antandra for a while and it seems so much better. Thoran and Brutus are at the same ascencion (Mythic+ I think?) and Thoran just dies as fast, but because of the delay in his rez they can go through and target my healers. 
+
+Brutus doesn't "die". By the time his shield expires, Smokey is healing like crazy enough to heal him + Brutus will ultimate and regen too.
+    I've used thoran a lot and he tanks, but also gets off a lot of reflect damage. I'll use Odie, Cecia, Vala, rowan, and thoran for a lot of fights. It's usually pretty explosive for the wins. I sometimes go to 2 tank 1 heal 2 dps for certain fights/defenses. 
+
+It feels comparable as it covers the weakness to the stall comp here like how igor can mess things up.
+        Same here. I sub cecia for hewynn sometimes, or for Antandra for the 2 tanks.
+Just got Odie to mythic plus and his weapon is super close to +10. My Rowan is supreme plus weapon is +2. Everyone else is only regular mythic. Been doing really good through the game and I'm currently top 100 on my server for dream and made it to the gold rating of arena where everyone is a whale. I Spent a little bit. Somewhere under $200. So Im not a Whale, but not a light spender either.
+            How did you get the orange mats for the exclusive wep? I can’t get them anywhere it seems
+                Ranking highly in dream realm, guild chests, Arena rewards and I think high ranks in legend trial!
+                    Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+                        Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+                            Also guild rewards
+                            It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+                            Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+                        Doing it the moment it starts helps get to top
+                            That’s midnight for me unfortunately
+    I cover some of it in my comment below the post, but I also still run Antandra/Brutus at the moment. Thoran requires a pretty high amount of investment (luck) to be a replacement at this stage. The main reason to run Thoran is the 50% damage reduction pact which against comps with high AOE damage/silvina/vala/igor will absolutely save a healer or cecia if placed well.
+        Thanks for the reply :) I'm currently at AFK 775 and I don't like the meta it puts us through right now... even while spending, essence is so hard to get you're behind on levels constantly, and running 2 tanks / 2 healers / 1 DPS isn't super fun imo...
+            Agreed, I get the feeling that devs expected us to spend more time afk and levelling up our characters in order be much closer in level to enemy teams and letting us play around with different comps, but this meta lets you bridge the gap even in some cases where the level gap is like 100k.
+    I was in the same boat until I got my thoran more invested. I think around mythic+ it was still a little shakey, but now that i'm further invested with a lot of supreme+'s, thoran is performing extremely well. I know that at this point in time, this is kind of whale territory, but in the long run when your box as a whole is approaching closer to supreme+, having a solid tank like thoran is really nice especially when you hit double team stages at the higher afk levels.
+    In my game Brutus always dies first. Thoran outlives everyone including the DPS and supports. lol everyone would be dead, but he'd still be running around the field chasing after enemies.
+        Because he dies a loose agro during his res animation.
+    I'm pushing deficit 700s with a thoran that is only mythic as my main tank.  It's not about dying fast or not, its about killing fast, entirely different than the much slower stall comps like this thread is talking about, its about his upgrade at like level 100 something that let's him ult when interrupted so it still goes off when he dies.  With a rowan especially to heal large initial burst and give energy, it basically turns thoran into a dps character that one shots the Frontline, until you are pushing omega deficits he should wirh a rowan giving him an extra like 60% health and energy always ult, and then the reflection always goes off once he is at that level.  Then all you need are dps that clean up the backline and just go for a nuking strategy of damage over survivability. I'm using a Vala as my primary dps as she will wipe the floor with the backline herself while thoran nukes the Frontline and she is basically invulnerable even if thoran dies while your backline tanks one by one until thoran revives and she still has hidden.
+        This sounds like a pretty interesting set up, what comp do you use?
+            Thoran, Vala, rowan as the core, korin for the lightbringer bonus cause he is my next highest lightbringer and the shield helps absorb the burst damage to allow thoran to ult.  Then last slot is kinda up to whatever I need.  Just finished mythic + odie so usually him just cause he executes the only problem units for Vala like Igor.  Before it was cecia just cause she sometimes cleans up though 99% of the time her ult is to slow with such a fast burst team of Vala rowan and thoran, so last slot is basically whatever you need, second support, odie, sometimes reinier swapping Vala or korin etc.  Honestly Vala rowan thoran is all you need rest is just extra.
+                What ascension is your Vala? In my experience shes a little easy to kill at Legendary!
+                    I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+                        Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+    Epic Thoran is pretty much a delayed Brutus I have found, and the only time I have used him is in conjunction with a Brutus and Antandra where I Really need to survive a couple of extra seconds and the enemy has no healers. Thoran does look pretty good later on, but for now, with a single copy, not so much.
+    He's tankier than both of them, has two life bars, and can deal damage
+i have had terrible rng and STILL don't have smokey despite him being in my wishlist
+    I had the exact same issue, I didn't have smokey until somewhere in the 300s and it was a pain watching all the replays have him. Don't underestimate a good rowan/hewynn though, rowan often fully replaces smokey in the 2 tank + Koko + Cecia + Healer comp esp if hes mythic+ and can use his Great Bargain ability. Rowan + Hewynn is also good so she can use her ult faster!
+        i don't have Rowan at Mythic+ quite yet unfortunately. im still 2 soul tokens away from that.
+    I didnt have smokey for the first 9 days and now I randomly have him at mythic within 2 days😆. Day 11 and still dont have a single copy of Brutus tho :/
+        i feel like im gonna have to buy a token for Smokey like i did for Brutus, i didn't get any tokens for him either until i bought one, and then i got one almost immediately after, and i bumped him up to legendary
+            Im one copy away from M+ Cicia but im honestly considering buying  Brutus so I can push AFK levels😆
+                okay so, i rolled a stack of 10 epic invites, and snagged Smokey, and it wasn't even the pity pull from 30 rolls, i guess complaining about it got RNG to give him up just so i'd stop bitching
+Just sharing a tip from personal experience - sometimes all it takes is to manually time cecia's ult, especially against enemy units with cc like cecia/caroline. It helps to slow the game to 1x and then activate cecia ult right after the opponent backline, doing so will cancel the cecia/caroline ult and help your team survive.
+
+Remember if your smokey is cc'd, your team has no healing and just dies
+
+Also for any other f2ps out there, you unlock ironwall and starshard on 2-7, both are very clutch spells. Sometimes ppl in replays would have ironwall just because they got it from first recharge bonus. Ironwall is for times when your antandra just dies even with brutus, and the attack speed debuff with starshard is really nice.
+    Completely agree with everything! Theres a setting under settings--> battle --> Manual control called "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+        This is huge info lol thank you.
+        Massive info. Thanks
+Wait what stages consider to be early game ? I'm at 540ish stages and I pull out this comp everytime I get stuck lol.
+    The definitions are a little vague, but this comp is pretty much exactly made for when you're stuck. Its a little finicky to get to pop off with all the ults, but can beat really high level differences when set up correctly. In terms of whats early game, its changing as we progress further and further into the game, but its probably before you get your first Mythic+ characters / up to stage 400. Once a lot more of your characters are M+ with good EX weapons there are a lot of sub ins.
+        Now that you mentioned the ever changing "early stage" in one my accounts I manage to reach 320 extremely unbothered by going full mauler with Shakir, antandra, smokey, odie and surprisingly satrana with little investment (as a bonus I found satrana performing extremely well against the  enemies with the crystal protection type of battle) the positioning was everything on that team but still it was fun to try something new besides the same comp
+            That sounds like a pretty fun comp, especially early game. Smokey can really help Satrana shine in my experience, and Shakir is a really interesting character too play with!
+                Yeah we shouldn't be limited to the same comp having so many characters, but In my experience with this type of games the more we test the more we will find rogue types of comp that falls under the "in theory it shouldn't work but somehow it does" category
+Sometimes for extra obnoxious backlines swap Koko for Eironn. Stall Cecias ult, let him pull everything then Cecia ult on top of that for a full team nuke, or at least wipe all the squishies.
+
+Just imo, tanking artifact is rock solid when there is a massive level gap, damage is useless if Antandra dies in first 5 seconds.
+    Fully agree, especially with two tanks. The haste artifact however helps characters speed up in building ult charge + increases hp making it pretty useful in large level gaps to get the ult engine running.
+I’m currently at stage 635 or so and I will agree that this comp is highly flexible. 
+
+As I got three Thoran’s in a row while summoning, my Thoran is supreme and is the best tank I have. I also have a supreme Eironn and he actually works well instead of a 2nd tank like Antandra or Brutus as he insta casts his ult to delay the enemies. If he survives for a 2nd/3rd cast it often syncs well with Cecia’a ult so it hits everyone. 
+
+Then I use Koko and Smokey. On some stages, switching Eironn for Reiner/Brutus/Antandra helps, but feel like Eironn just usually works better for now.
+    My Eironn is weak, but that seems like a pretty good strategy! Usually going for your highest ascension characters is also good
+        Yeah it works pretty well! Eironn definitely gotta be mythic+ for his insta ult or it wont work I’m pretty sure.
+What are the best artifacts for each mode. I got all but don’t know what to use where.
+    I wish I could say it wasn't the case but it really depends on the battle itself, less on the mode, they each have their use cases. Usually **Starshard/Confining** are the best two to run regardless of the mode (**don't run Confining on Bosses** though). I have however seen Healing be used on some of the heavy damage dealing bosses in rare cases (necrodrakon/snowstomper). While Ironwall is often ranked really low in tierlists, I have found it to be pretty useful in a few afk stages. Replays are your best friend if you're struggling though.
+        It’s situational, if your heroes are struggling to tank damage then use the healers, if your not doing enough damage use the attack boost, if they are hitting you faster than you hit them then use the haste buff, as op said, they all have uses
+I often put my Cecia in the front to tank some damage and also run Hewynn instead of Koko. That works quite well most of the times. Talking about AFK Stages 600-650; having 10-15% more power score than the best replays. So my go-to team is Antandra, Cecia, Rowan, Smokey and Hewynn. 
+    This is also a really valid strat, Hewynn is just sometimes a bit of a weak healer until she uses her ult but gets a lot better as she ascends. Koko's damage reduction being up to 55% for all allies is just so strong
+Is it worth using an Epic Antandra over a Legendary+ Thoran? I know Koko is good at 1 copy, but I've got M+ Cecia, L+ Thoran, L Brutus, L Smokey, L Rowan, and E+ Koko, but only Epic Antandra.
+    I'd personally still run Antandra, her faction bonus with Brutus/Smokey/Koko are probably going to makeup for any extra tankiness Thoran has. Depending on your AFK stage M+ Cecia will likely carry you a good bit regardless.
+    I have an Epic+ Antandra, and I prefer using her over my mythic Thoran. The fact that she stays back inside Meerkat's heals is a game changer.
+Thanks for that, I’ve always had a hard time with strategy and characters compatibility
+I'm at afk 310 fighting enemies 20 levels above me with almost Mythic Viperion, Igor, Cecilia and yet I still don't have Thoren, Smokey, or Brutus. And I've been wanting to use all of them. Literally any of them would solve 90% of my issues; I have to switch out at least one of my main units every two AFKs because of Setts that just delete Viperions or Smokeys every fight making Igor worthless.
+
+The Smokey stunlock in this game is real. Devs definitely know how busted he is so they put him in every important milestone fight with assassins that are tanks because of all the afk buffs/level differences.
+    All the numbers in your comment added up to 420. Congrats!
+
+      310
+    + 20
+    + 90
+    = 420
+
+^([Click here](https://www.reddit.com/message/compose?to=LuckyNumber-Bot&subject=Stalk%20Me%20Pls&message=%2Fstalkme) to have me scan all your future comments.) \
+^(Summon me on specific comments with u/LuckyNumber-Bot.)
+    Thats pretty tough, honestly I'd recommend buying a single copy of Brutus in the Arena store over other characters at that point. You probably already have, but make sure your wishlist is set up just in case. But yeah Smokey is really busted, and while Rowan or Hewynn can sometimes make up for it, without Brutus its much tougher. Thoran probably isn't that useful for AFK stages at the moment, but dream realm also becomes a lot easier with Thoran + Smokey so I feel your pain.
+        Yeah, I was gonna use my next arena purchase on Brutus or Thoran. I can get by without Smokey via Rowan in certain stages. So far I've only gotten the points for one of them and I used it on Igor because I thought he was fun and I assumed I'd get at least one decent meta stall unit by now. And then I pulled 2 more Igors in rapid succession.
+
+Main reason I'd be fine with Thoran at lower rarities is because 4x Grave bonus is nice and he fits perfectly with Igor thematically since I generally only need about 5 seconds for Igor to take over as the real tank; even without Mythic bonuses, the health + stall passive should be enough in my experience. I've been coping pretty well until now, it's just annoying.
+            I sadly don't think you can get Thoran in the Arena store so you might have to go for Brutus. Brutus should however synergise pretty well with Igor as he becomes invulnerable for 5 seconds + regularly taunts which basically deletes all single target damage towards other characters and should let your Igor pop off.
+I saw it in the tutorial but immediately forgot -- how do I get the target lines to show up pre-fight?
+    Click the 3 dots below the chat function and then press the top button that shows up to cycle through the different targeting :)
+Brutus dies in 6 seconds!
+    If you place him near a smokey, he can last for another 5 seconds, and tbh thats his point. For 5 seconds he takes all of the enemies damage and nullifies it, letting your healers + Cecia use their ults!
+ok so my team of all Graveborns (and Hewynn) is not meta? 😞
+    Graveborns and Maulers are currently the two strongest factions in my opinion, and depending on the mode and ascensions a full graveborn team will probably outcompete this team, this is mostly just for AFK stages!
+        Yeah Ik haha. It has worked really well honestly. Just had to ditch the Graveborn support bc the healing was just not there.
+super helpful, i imagine it’s better not to run auto ult with this? at least when ur trying to do rotations properly?
+    Honestly if you're somewhat decently levelled relative to the stage and its not a massive difference of like 50k+ you'll probably be fine with auto ult. If you do want to manually control though, go to your setting and select the optional battle mode which lets you pick which characters you want to manually control ults for in battle.
+        ooo i didn’t know u could pick an choose thank u sm
+For a whale perspective the best team I found was antandra+0, thoran+5, smokie+5, rowan+0 and odie+15. I was pushing stages 1.2m power above me. I finished 1125 at level 190 and odie at 200. Having rowan/antandra with higher weapons would have been nice but I was prioritizing other characters.
+I was accidentally running this comp minus Koko for the first few weeks just because I liked the heroes, but then I sort of hit a wall before entering Vedusa Mountains and saw the (i), clicked it, and saw all these comps using my team but Koko instead of Odie (who is my favorite character mostly because he does the ChuDat).
+
+Then I finally got a purple Koko. On so many fights just slotting in the purple Koko caused them to be faceroll easy. It was insane. This base-tier kid on a bear was just flat-out winning dozens of AFK stages and other map fights I was stuck on. Not a single other upgrade. Just Koko.
+    The 45% damage reduction at base is insane + lifesteal pretty much doubles your HP
+Weird question, but in what main story do I get the rest of the artifact? I've already got a lot of the level up mats, but still no new artifact. I'm on the 7th dark forest, well trying to open it
+Just to add to this, some units are extremely good for specific cases for some stages. If I see a front line that either hits me hard or is beefy, marilee is actually a very strong choice for her mini stun and dps alongside rowan. I think Lucius is also very slept on. I used him in some stages leading up to 665. And temesia if you have her high ascension is a very good DPS that can juggle aggro for your tank.
+    What Ascension is your marilee? Mines legendary+ and I keep getting told not to use her until she’s mythic. I fully agree with Temesia, shes a really interesting tank
+        Mine is Legendary+.
+            So is mine, guess I got to experiment with her more!
+I'll add a little bit:
+
+If you have strong Cecia then the default placement is Cecia tank with shield artifact, Antandra second tank, Koko behind Antandra (to throw meat), Rowan behind Cecia, Smokey in the middle.
+
+If the opponent team is pressuring too much early, then no-Smokey setup may be the best (Brutus/Antandra/Cecia/Rowan/Koko).
+When I finally got stuck on the AFK stage progression, clicking the records button blew my mind. Brutus + Antandra + Smokey + Rowan + Cecia is very good, and once you get EX Weapon on Odie you can replace Cecia for Odie who needs less time to kill someone and get the ball rolling
+just added to our megathread, thank you! great work!!
+    Thanks, glad to help!
+damn that’s crazy… this is cool and all but Igor supremacy so yall stay smooth
+everybody keeps touting this comp and I'm destroying stages 100k in power over me with strategically placed vala.
+
+  
+It's good but it's definitely not necessary.
+    Its def not necessary for progressing, but it can help close the gap for many players! Vala is also a beast
+I've been using this comp since the beginning, it never failed me. Stage 845 right now. Ex weapon on smokey deals tons of damage
+
+https://preview.redd.it/u78onh6u1puc1.png?width=1440&format=pjpg&auto=webp&s=70ac3780e809fd22d2e0e3263f4c4f52add28239
+I've also been having a lot of success with Damian+5, Hewynn+5, Antandra chained to Thoran+5, and either Cecia or Vala.
+WTH is even this game man...I've played AFK Arena for years. I picked this up and it's beautiful..but I get confused on how some things work. Will there be more heroes added or...
+    Yep, a new hero just came out today!
+        Sweeeeet, I'll check it out now!
+I appreciate you putting this together, made my life much easier!
+I just started a couple days ago, man I wish I saw this earlier. Still much appreciated as a noob!
+I'm on afk 860 and finished 1125 on the PTR. Brutus is simply better than Thoran the whole way until 900. The stall is far better as he keeps tanking while unkillable, Thoran actually dying to rez makes the rest of the team get wiped easily.
+Pretty much yeah I been playing a week and have 459k power and the meta is already stale it's always the same 5 or 6 units jfc
+    Yeah its pretty stale for a good portion of those levels, stage 700 starts to force you to make some more interesting decisions though.
+Personally I haven’t ever seen someone using koko against me, nor do I have enough of them to use them myself, so this is surprising.
+    You'll most likely not see this run in PvP or from enemy teams your facing. This team is very much a glass cannon, needing 3-4 ults to survive but then doing high DPS at early stages (or bosses) which is only really useful in big power gaps. If your team is close in level to the enemy team (like in pvp) its probably better to run something that is more well-rounded to decrease the risk.
+        Ah so this is more like for people who try to... *shudders* play the game manually?
+            Not necessary. Most of the just the correct formation is enough to clean stages 30-50k over your power. The only times i’ve needed to take off the auto button are just to place Cecia summon in a specific spot , which has happened less than 5 times lol
+            It can be played by anyone if you reduce the level gap a bit, but if you're pushing hard *I fear that you are correct*. Btw theres a setting that lets you control what specific characters you want to play manually. Settings--> battle --> Manual control, "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+Koko going first isn’t always easy, especially if you haven’t got rowan, and a lot of people don’t understand using ults in specific order! Also this is one of the first games that hasn’t been pay to win as the ‘meta’ teams, or at least not yet!
+    No reason it shouldn’t be easy - you can have specific characters set for manual trigger even if you leave everyone else on auto.
+        I mean koko can take a while to have enough energy to hit her ult, you may need to pop other heroes skills to stay in the battle, and yes I am aware but not everybody will be
+            Well if they're going to employ these strategies, don't you think they should find out 😉?
+    Completely agree, usually just getting both ults off in any order is enough, but sometimes you need them to go in a very specific order depending on the battle. And yes! The fact that this team has 2/3 core team members be elite and 5/6 (7 if you count Thoran) of the team members be purchased directly for in-game currency is great.
+        You’re also right, and I also agree!
+so what im getting from this is i shouldnt auto play afk stages... right? lol
+    If you've been struggling for a while, and have one of the comps above but then get Cecia and Antandras resonance up 10 levels you can easily auto battle and auto play a good amount of stages. This guide more for if you're on like stage 499 and are trying to minmax as hard as possible to unlock the next area (or something along those lines).
+        im currently level 91 of the resonance hall and managed to push to afk stage 304... not sure how good that is tbh. i dont have a lot of time to focus on afk stages farm so im doing around 3-5 afk stages per day
+            Thats great! And honestly it depends on how much you play and how lucky you are with your summons, its very possible that you pull and use arena coins to get a Mythic+ Cecia/Rowan/Smokey and shred for 50 afk stages.
+                I'm currently working on marilee mythic+ from dream currency, i like her a lot lol. Next up would be odie since he seems to be pretty OP with his weapon, having an execute abilty. But yeah i really wanna go for mythical+ Cecia as well, she's carrying me hard; also looking forward to having the Eironn comp available since that seems fun!
+
+thanks for the advice.
+                    Of course, glad to help! :)
+I've never seen Koko in my life and I'm afk 140 😭😭😭
+    In your summons or vs enemies?
+        Yes
+            If its a summons issue you can buy her in dream store + make sure your wishlist is set up for her. You're unlikely to find her in enemy team comps as while shes pretty strong, her value goes up as you face larger and larger enemy power differences and usually your enemies are higher level than you. Also unlikely to see her in pvp and honor duel as she gets destroyed by a well placed silvina, vala or a speedy ult with cecia. She is however very useful when fighting bosses! You're still in the early game though, so thats likely to change. Hope that helps!
+    Legit question what makes Koko good?
+
+because I have her parked and my comp is usually Rowan, thoran, Cecia, Vala and the last slot for Ant but I’ve never considered Koko in my wildest dreams
+
+To add, I am at 707 atm and I haven’t struggled much since Vala, Rowan, thoran and cecia are mythic+
+        I once did a battle for someone else (AFK 350 I think) and no matter what combo I did with them, they died to an aoe burst comp. Koko completely negated that when timed with Rowan and gave enough time to take down a unit each ult. The guy's team was a bunch of mythics and yet a basic gold Koko, while not even running a couple of his mythics, made him go from 0 kills each match to a win pretty easily
+            Yoooo that’s neat! I take it you have to manual then or can you full auto with Koko ?
+                I just did it on autoplay because I'm lazy. Because she was always hit by Rowan, she pretty much always timed her ult with the only other important ult I needed with her
+                    Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+                        Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+                            Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+                        No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+                            Gotcha, thanks fam! Appreciate you and the info !
+How do people have so many antandras? I’ve been having koko and odie on my wishlist and gotten hardly any of her
+    You might have already done this but you can also customise your all hero recruitment wishlist in the top right corner and select two elites and epics. Besides that, a high level ascension antandra isn't that important in my opinion, and the Odie will 100% pay off esp in dream realm.
+The only character I am not getting is coco lool. She is more difficult to get than the epic.
+The only character I am not getting is coco lool. She is more difficult to get than the epic.
+This is barely related, but what is considered early/mid/late game? I see that used a lot, but it's never explained. I have no idea where I fall.
+    I'm pretty sure I replied to another comment a bit ago about it, but it depends on a few factors. The age of your server, your AFK Stage and the amount of highly ranked characters. I'd put say early game is up to stage 400 where dark forest progression starts to slow down a lot more and you start getting your first mythic characters, then mid game is probably anything up until you finish AFK stages, and late game follows that! This comp will probably serve you pretty well until you get a heavily invested Odie, Thoran, Marilee, Caroline, Hewynn, Eironn or some other characters and you'll want to start switching out characters. So far its been good up till 700 though!
+I’m currently at afk 700 using this team comp so I’d say they’re still useful. Lol
+    Im in the 700s and its still working, but its around now that other characters start to become more viable
+        Yeah. The 2-team mechanics will really slow you down especially if you’re f2p focused on 2-3 heroes. :(
+The Koko meta team is still working for me in the mid 800's
+Man when you have most of these heroes still at epic, it's not working at all .
+Antandra is bae, that is all xD also Smokey+rowan is undefeated
+    Faster ult and constant healing is beautiful
+        I just got smokey/rowan/cecia to supreme+ and holy shit have I been able to push far now.  Just trying to get antandra to that point.  I'm 1 away with Mirael as well, I feel like she's slept on.
+Vala targeting cecia scares me.
+Not sure about meta, but I’m having a lot of success with a team formed by thoran, korin, Rowan, vala and cecia
+thanks, this is pretty helpful. is mythic rowan better or worse than legendary smokey?
+    They would def both have their situations, my smokey just turned legendary, but I often run smokey over Rowan even though my rowan is mythic. Smokey has consistent heals - Rowan has fast ult
+I just wanna afk dude
+Need a PvP version.
+Should I switch to Thoran since I have him M+? What kind of formation should I use him in?
+    Once I have more characters at M+ I’ll post an updated version answering that!
+Pro tipp not many mention and is a game changer… change in settings auto ults so that you can turn on and off auto ults for each champ. It is crucial that you wait for cecia to ult before koko ult so Carlyle her summon gets the buffs and is much more tanky! Turn kokos auto ult off until cecia ults then turn it on asap. 
+
+Will be a game changer you’ll see
+    Is it under manual control? Can't seem to find anything labeled auto ults
+        https://preview.redd.it/vvf66019yruc1.jpeg?width=1290&format=pjpg&auto=webp&s=2a8dc950f3666121d30495d44b0dac78b18522b8
+
+It’s in manual control, optional for battles thing
+When I get smokey it's over for all of you
+Everyone and their Smokey meanwhile I relay on my legendary Rowan 😩
+This was super helpful!
+i’m in the 880s, can cfm this team works up to about this point, probably would continue working if i can up their tiers. my antandra is Epic+ , brutus and smokey are L, koko is L+…
+[deleted]
+    Hmm, depends on the character tbh. Some characters benefit a lot more from ascension than others (Thoran, Smokey, Rowan, Hewynn, Odie are examples of this)
+i find antandria too squishy so i substitue her with thoran.anything i can do abt this?
+    She becomes a lot less squishy when she gets her ult going, so maybe try to distribute out the damage among multiple characters initially, and then have her take over?
+        hmmmm nice idea imma try that 👌
+If you dont have a Brutus and you need a double tank for a stage, would you use Thoran thats not M+ in his spot or someone else ?
+    I’d use a Thoran, but it depends on what other characters you have too! If your granny, lucius or temesia are higher ascension, theyre also good!
+Thanks.
+I use that first team comp and just swap antandra with brutus when needed and its gotten me so far. So heavily skewed towards that team comp for progressing then i struggle to beat a map boss and get a 110 level gear while im sitting at 150+. 🙃
+    The map rewards are insanely low, and don’t even match resonance levels at all, some people are talking about them potentially not being updated after a balance change
+Good guide, except you should use cecia as one of the tanks when no Brutus, it gives her her ult faster.
+    Yep! I mention that in the guide
+My meta is: all members of the same faction, at least one tank and one healer.
+
+
+Are you telling me that mixing factions is better?
+    You still get some faction bonus with 3 characters, but yes some characters are just more worth it than the faction bonus. 45% dmg reduction > 10% dmg increase
+I really want an infographic for lightbringer/necro setup too
+This comp is gold
+My smokey is always getting silenced and I don't really understand why. Any explanation would be very helpful. I usually put him behind my tanks
+    It might be worth it to swap for Rowan in those cases. A good amount of enemies have abilities that interrupt his healing and will hit him via APE and hes only really useful when hes healing. Maybe move him to a different corner, or switch him out!
+So glad I loved Cecia from the start. She was my first gold character and I’ve been able to get so many copies of her and Thoran. Still waiting on Smokey tho 🥲
+What order should i level them? Theyre all at 130  now and i can only level one to 140 per day at this rate. Who should be prioritized?
+Thanks
+The only bad thing about this game that this team is the only reliable way to push high deficits.
+
+For example my "bad pull luck" led me to an early Shakir M+ but I cant make him work against higher deficits and all the videos I see for this game are honestly just the same info vomited up.
+
+Like yeah I get its the meta team but even in AFK Arena I could push high deficits with "no meta" teams and here it seems impossible.
+Insane! Thanks a lot
+Great infographic OP! I used this meta team all the way up to 1050ish, then I switched to odie as my carry. Note that this was preferable because I built him to +15 for Dream Realm, otherwise Cecia probably would’ve been just as effective and I subbed her in a couple of times when her AOE damage and CC felt more impactful than his insta kills. 
+
+Also for those asking why Thoran over Brutus? I would personally say that it is because Thoran has more longevity in the late game and your Mauler resources are better spent on 3 or 4 heroes before you get to Brutus. Pound for pound, Thoran is more than slightly better, imo, but even if he wasn’t, in a game of limited resources, there’s not much reason to spend on building Brutus. I’m in the trial of abyss and my Brutus is still L+.
+very helpful, do you have one for pvp?
+Thanks!
+My fave tank is not meta...
+Also this team has now carried me to stage 700! My smokey is only Epic still (I cry) and my Thoran is Mythic at the moment so I still use Antandra, buying Rowan and Cecia copies in the arena store has been my saving grace.
+    How much arena do you play? I’m Epic II and I think I’ve only been able to make 2 purchases total, capping attempts each day.
+        I speedran Arena in the start of my server which really helped me out and now I play a lot less,  I'm hovering around Legendary II at the moment and I think I've made 3 purchases
+            How leveled is your koko,  mine is still purple and severely lets down the team atm,  the team in General is just overall weak for me atm
+                What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+                    140 res,  624 stage, and i can still push abit atm,  been busy today
+                I used purple koko all they way till afk stage 720 , just positionnwiselt
+    Hi - this is awesome, thanks for this. Do you have any other dps higher than cecia ? I’m at about 720 using Vala and Shakir at mythic+ but thinking I may have gone the wrong route focusing on them rather than building cecia.
+        Vala at a high rarity is really strong, I didnt invest too heavily in her cause Im mostly F2P and she really shines when shes Mythic+. Honestly you can do pretty well with most comps so youll most likely have no issue. + Cecia will start to fall off in the future and Vala is great for pvp
+    Does this mean that the prio for copies is Cecia and Rowan?
+        It depends, but for early game advancement I’d say yes. If youre looking more long term, then Hewynn might be better
+    what is your character tier level and reso level when you reach stage 700? congrats btw!
+        My Reso level is 150 at the moment, and my highest ascension character is my Cecia at Supreme!
+    Is Rowan really worth the extra copies? I think mine's Legendary and that feels like plenty.
+        Cecia is probably better to focus on around now, but it depends on how good healers you have!
+So helpful!
+Any thoughts on PvP comps?
+    None at the moment, haven’t quite cracked it yet, but I’ll see if theres any consensus. I’ve hear Eironn is really good in PVP
+I bought the "battle pass" so I'll have a chest that offers me Thoran or Smokey. I have 3 Thorans (1 away from Legendary+) and 0 Smokeys, and I'm wondering if I should use the chest to work towards Mythic+ Thoran or get Smokey (since I can't seem to pull one and only pull Bryon's). 
+
+My situation is even more peculiar given I dropped Legendary Cecia for Supreme Bryon. Res 91 / AFK 363 if that's relevant.
+    100% Id get smokey. At your current stage smokey will provide you a lot of healing, and hes a huge help in dream realm and is in all the main comps! Supreme Bryon is most likely going to be doing a lot more damage than cecia so that also makes a lot of sense
+Do you have the discord link?
+Getting Odie to Mythic+ usually takes quite sometime with the amount of dupes needed, so you'll most likely be later in the game but I would agree. At Mythic+ he gets an ability that lets him insta kill enemies after a certain amount of damage done to them which is really strong against team comps high in heals.
+    Odie is the vala killer when he’s that highly ascended
+        And Igor
+            And brutus. Heart crusher goes right through brutus barrier
+                yeah, but he is not as annoying of an opponent as igor
+                    Very true 😂😂
+                    Mythic+ grannie will stop him
+                        yeah i barely have epic granny :D
+        The fact that I'm sitting at 11/12 odie and being completely out of guarantee odie from the store is annoying me ngl lol , I'm completely at the mercy of RNG now with pulls to get my last odie.. :(
+            My first 3 pity pulls in the all hero banner where odie 😂 I have one more left to buy, just watching for dream currency to do so
+            I’m 7/12 on Odie too. I find it’s more time consuming to get the elites to mythic+ than it is the epics
+    I am 1 away. I got lucky with a lot of dupes for him in summons. 
+
+I left in dream realm shop and that’s the last one I need luckily.
+I'd take Cecilia off your wish lists, she's not good end game. M+ is good stopping point. Get Odie to supreme+
+I've used thoran a lot and he tanks, but also gets off a lot of reflect damage. I'll use Odie, Cecia, Vala, rowan, and thoran for a lot of fights. It's usually pretty explosive for the wins. I sometimes go to 2 tank 1 heal 2 dps for certain fights/defenses. 
+
+It feels comparable as it covers the weakness to the stall comp here like how igor can mess things up.
+    Same here. I sub cecia for hewynn sometimes, or for Antandra for the 2 tanks.
+Just got Odie to mythic plus and his weapon is super close to +10. My Rowan is supreme plus weapon is +2. Everyone else is only regular mythic. Been doing really good through the game and I'm currently top 100 on my server for dream and made it to the gold rating of arena where everyone is a whale. I Spent a little bit. Somewhere under $200. So Im not a Whale, but not a light spender either.
+        How did you get the orange mats for the exclusive wep? I can’t get them anywhere it seems
+            Ranking highly in dream realm, guild chests, Arena rewards and I think high ranks in legend trial!
+                Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+                    Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+                        Also guild rewards
+                        It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+                        Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+                    Doing it the moment it starts helps get to top
+                        That’s midnight for me unfortunately
+I cover some of it in my comment below the post, but I also still run Antandra/Brutus at the moment. Thoran requires a pretty high amount of investment (luck) to be a replacement at this stage. The main reason to run Thoran is the 50% damage reduction pact which against comps with high AOE damage/silvina/vala/igor will absolutely save a healer or cecia if placed well.
+    Thanks for the reply :) I'm currently at AFK 775 and I don't like the meta it puts us through right now... even while spending, essence is so hard to get you're behind on levels constantly, and running 2 tanks / 2 healers / 1 DPS isn't super fun imo...
+        Agreed, I get the feeling that devs expected us to spend more time afk and levelling up our characters in order be much closer in level to enemy teams and letting us play around with different comps, but this meta lets you bridge the gap even in some cases where the level gap is like 100k.
+I was in the same boat until I got my thoran more invested. I think around mythic+ it was still a little shakey, but now that i'm further invested with a lot of supreme+'s, thoran is performing extremely well. I know that at this point in time, this is kind of whale territory, but in the long run when your box as a whole is approaching closer to supreme+, having a solid tank like thoran is really nice especially when you hit double team stages at the higher afk levels.
+In my game Brutus always dies first. Thoran outlives everyone including the DPS and supports. lol everyone would be dead, but he'd still be running around the field chasing after enemies.
+    Because he dies a loose agro during his res animation.
+I'm pushing deficit 700s with a thoran that is only mythic as my main tank.  It's not about dying fast or not, its about killing fast, entirely different than the much slower stall comps like this thread is talking about, its about his upgrade at like level 100 something that let's him ult when interrupted so it still goes off when he dies.  With a rowan especially to heal large initial burst and give energy, it basically turns thoran into a dps character that one shots the Frontline, until you are pushing omega deficits he should wirh a rowan giving him an extra like 60% health and energy always ult, and then the reflection always goes off once he is at that level.  Then all you need are dps that clean up the backline and just go for a nuking strategy of damage over survivability. I'm using a Vala as my primary dps as she will wipe the floor with the backline herself while thoran nukes the Frontline and she is basically invulnerable even if thoran dies while your backline tanks one by one until thoran revives and she still has hidden.
+    This sounds like a pretty interesting set up, what comp do you use?
+        Thoran, Vala, rowan as the core, korin for the lightbringer bonus cause he is my next highest lightbringer and the shield helps absorb the burst damage to allow thoran to ult.  Then last slot is kinda up to whatever I need.  Just finished mythic + odie so usually him just cause he executes the only problem units for Vala like Igor.  Before it was cecia just cause she sometimes cleans up though 99% of the time her ult is to slow with such a fast burst team of Vala rowan and thoran, so last slot is basically whatever you need, second support, odie, sometimes reinier swapping Vala or korin etc.  Honestly Vala rowan thoran is all you need rest is just extra.
+            What ascension is your Vala? In my experience shes a little easy to kill at Legendary!
+                I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+                    Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+Epic Thoran is pretty much a delayed Brutus I have found, and the only time I have used him is in conjunction with a Brutus and Antandra where I Really need to survive a couple of extra seconds and the enemy has no healers. Thoran does look pretty good later on, but for now, with a single copy, not so much.
+He's tankier than both of them, has two life bars, and can deal damage
+I had the exact same issue, I didn't have smokey until somewhere in the 300s and it was a pain watching all the replays have him. Don't underestimate a good rowan/hewynn though, rowan often fully replaces smokey in the 2 tank + Koko + Cecia + Healer comp esp if hes mythic+ and can use his Great Bargain ability. Rowan + Hewynn is also good so she can use her ult faster!
+    i don't have Rowan at Mythic+ quite yet unfortunately. im still 2 soul tokens away from that.
+I didnt have smokey for the first 9 days and now I randomly have him at mythic within 2 days😆. Day 11 and still dont have a single copy of Brutus tho :/
+    i feel like im gonna have to buy a token for Smokey like i did for Brutus, i didn't get any tokens for him either until i bought one, and then i got one almost immediately after, and i bumped him up to legendary
+        Im one copy away from M+ Cicia but im honestly considering buying  Brutus so I can push AFK levels😆
+            okay so, i rolled a stack of 10 epic invites, and snagged Smokey, and it wasn't even the pity pull from 30 rolls, i guess complaining about it got RNG to give him up just so i'd stop bitching
+Completely agree with everything! Theres a setting under settings--> battle --> Manual control called "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+    This is huge info lol thank you.
+    Massive info. Thanks
+The definitions are a little vague, but this comp is pretty much exactly made for when you're stuck. Its a little finicky to get to pop off with all the ults, but can beat really high level differences when set up correctly. In terms of whats early game, its changing as we progress further and further into the game, but its probably before you get your first Mythic+ characters / up to stage 400. Once a lot more of your characters are M+ with good EX weapons there are a lot of sub ins.
+    Now that you mentioned the ever changing "early stage" in one my accounts I manage to reach 320 extremely unbothered by going full mauler with Shakir, antandra, smokey, odie and surprisingly satrana with little investment (as a bonus I found satrana performing extremely well against the  enemies with the crystal protection type of battle) the positioning was everything on that team but still it was fun to try something new besides the same comp
+        That sounds like a pretty fun comp, especially early game. Smokey can really help Satrana shine in my experience, and Shakir is a really interesting character too play with!
+            Yeah we shouldn't be limited to the same comp having so many characters, but In my experience with this type of games the more we test the more we will find rogue types of comp that falls under the "in theory it shouldn't work but somehow it does" category
+Fully agree, especially with two tanks. The haste artifact however helps characters speed up in building ult charge + increases hp making it pretty useful in large level gaps to get the ult engine running.
+My Eironn is weak, but that seems like a pretty good strategy! Usually going for your highest ascension characters is also good
+    Yeah it works pretty well! Eironn definitely gotta be mythic+ for his insta ult or it wont work I’m pretty sure.
+I wish I could say it wasn't the case but it really depends on the battle itself, less on the mode, they each have their use cases. Usually **Starshard/Confining** are the best two to run regardless of the mode (**don't run Confining on Bosses** though). I have however seen Healing be used on some of the heavy damage dealing bosses in rare cases (necrodrakon/snowstomper). While Ironwall is often ranked really low in tierlists, I have found it to be pretty useful in a few afk stages. Replays are your best friend if you're struggling though.
+    It’s situational, if your heroes are struggling to tank damage then use the healers, if your not doing enough damage use the attack boost, if they are hitting you faster than you hit them then use the haste buff, as op said, they all have uses
+This is also a really valid strat, Hewynn is just sometimes a bit of a weak healer until she uses her ult but gets a lot better as she ascends. Koko's damage reduction being up to 55% for all allies is just so strong
+I'd personally still run Antandra, her faction bonus with Brutus/Smokey/Koko are probably going to makeup for any extra tankiness Thoran has. Depending on your AFK stage M+ Cecia will likely carry you a good bit regardless.
+I have an Epic+ Antandra, and I prefer using her over my mythic Thoran. The fact that she stays back inside Meerkat's heals is a game changer.
+All the numbers in your comment added up to 420. Congrats!
+
+      310
+    + 20
+    + 90
+    = 420
+
+^([Click here](https://www.reddit.com/message/compose?to=LuckyNumber-Bot&subject=Stalk%20Me%20Pls&message=%2Fstalkme) to have me scan all your future comments.) \
+^(Summon me on specific comments with u/LuckyNumber-Bot.)
+Thats pretty tough, honestly I'd recommend buying a single copy of Brutus in the Arena store over other characters at that point. You probably already have, but make sure your wishlist is set up just in case. But yeah Smokey is really busted, and while Rowan or Hewynn can sometimes make up for it, without Brutus its much tougher. Thoran probably isn't that useful for AFK stages at the moment, but dream realm also becomes a lot easier with Thoran + Smokey so I feel your pain.
+    Yeah, I was gonna use my next arena purchase on Brutus or Thoran. I can get by without Smokey via Rowan in certain stages. So far I've only gotten the points for one of them and I used it on Igor because I thought he was fun and I assumed I'd get at least one decent meta stall unit by now. And then I pulled 2 more Igors in rapid succession.
+
+Main reason I'd be fine with Thoran at lower rarities is because 4x Grave bonus is nice and he fits perfectly with Igor thematically since I generally only need about 5 seconds for Igor to take over as the real tank; even without Mythic bonuses, the health + stall passive should be enough in my experience. I've been coping pretty well until now, it's just annoying.
+        I sadly don't think you can get Thoran in the Arena store so you might have to go for Brutus. Brutus should however synergise pretty well with Igor as he becomes invulnerable for 5 seconds + regularly taunts which basically deletes all single target damage towards other characters and should let your Igor pop off.
+Click the 3 dots below the chat function and then press the top button that shows up to cycle through the different targeting :)
+If you place him near a smokey, he can last for another 5 seconds, and tbh thats his point. For 5 seconds he takes all of the enemies damage and nullifies it, letting your healers + Cecia use their ults!
+Graveborns and Maulers are currently the two strongest factions in my opinion, and depending on the mode and ascensions a full graveborn team will probably outcompete this team, this is mostly just for AFK stages!
+    Yeah Ik haha. It has worked really well honestly. Just had to ditch the Graveborn support bc the healing was just not there.
+Honestly if you're somewhat decently levelled relative to the stage and its not a massive difference of like 50k+ you'll probably be fine with auto ult. If you do want to manually control though, go to your setting and select the optional battle mode which lets you pick which characters you want to manually control ults for in battle.
+    ooo i didn’t know u could pick an choose thank u sm
+The 45% damage reduction at base is insane + lifesteal pretty much doubles your HP
+What Ascension is your marilee? Mines legendary+ and I keep getting told not to use her until she’s mythic. I fully agree with Temesia, shes a really interesting tank
+    Mine is Legendary+.
+        So is mine, guess I got to experiment with her more!
+Thanks, glad to help!
+Its def not necessary for progressing, but it can help close the gap for many players! Vala is also a beast
+Yep, a new hero just came out today!
+    Sweeeeet, I'll check it out now!
+Yeah its pretty stale for a good portion of those levels, stage 700 starts to force you to make some more interesting decisions though.
+You'll most likely not see this run in PvP or from enemy teams your facing. This team is very much a glass cannon, needing 3-4 ults to survive but then doing high DPS at early stages (or bosses) which is only really useful in big power gaps. If your team is close in level to the enemy team (like in pvp) its probably better to run something that is more well-rounded to decrease the risk.
+    Ah so this is more like for people who try to... *shudders* play the game manually?
+        Not necessary. Most of the just the correct formation is enough to clean stages 30-50k over your power. The only times i’ve needed to take off the auto button are just to place Cecia summon in a specific spot , which has happened less than 5 times lol
+        It can be played by anyone if you reduce the level gap a bit, but if you're pushing hard *I fear that you are correct*. Btw theres a setting that lets you control what specific characters you want to play manually. Settings--> battle --> Manual control, "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+No reason it shouldn’t be easy - you can have specific characters set for manual trigger even if you leave everyone else on auto.
+    I mean koko can take a while to have enough energy to hit her ult, you may need to pop other heroes skills to stay in the battle, and yes I am aware but not everybody will be
+        Well if they're going to employ these strategies, don't you think they should find out 😉?
+Completely agree, usually just getting both ults off in any order is enough, but sometimes you need them to go in a very specific order depending on the battle. And yes! The fact that this team has 2/3 core team members be elite and 5/6 (7 if you count Thoran) of the team members be purchased directly for in-game currency is great.
+    You’re also right, and I also agree!
+If you've been struggling for a while, and have one of the comps above but then get Cecia and Antandras resonance up 10 levels you can easily auto battle and auto play a good amount of stages. This guide more for if you're on like stage 499 and are trying to minmax as hard as possible to unlock the next area (or something along those lines).
+    im currently level 91 of the resonance hall and managed to push to afk stage 304... not sure how good that is tbh. i dont have a lot of time to focus on afk stages farm so im doing around 3-5 afk stages per day
+        Thats great! And honestly it depends on how much you play and how lucky you are with your summons, its very possible that you pull and use arena coins to get a Mythic+ Cecia/Rowan/Smokey and shred for 50 afk stages.
+            I'm currently working on marilee mythic+ from dream currency, i like her a lot lol. Next up would be odie since he seems to be pretty OP with his weapon, having an execute abilty. But yeah i really wanna go for mythical+ Cecia as well, she's carrying me hard; also looking forward to having the Eironn comp available since that seems fun!
+
+thanks for the advice.
+                Of course, glad to help! :)
+In your summons or vs enemies?
+    Yes
+        If its a summons issue you can buy her in dream store + make sure your wishlist is set up for her. You're unlikely to find her in enemy team comps as while shes pretty strong, her value goes up as you face larger and larger enemy power differences and usually your enemies are higher level than you. Also unlikely to see her in pvp and honor duel as she gets destroyed by a well placed silvina, vala or a speedy ult with cecia. She is however very useful when fighting bosses! You're still in the early game though, so thats likely to change. Hope that helps!
+Legit question what makes Koko good?
+
+because I have her parked and my comp is usually Rowan, thoran, Cecia, Vala and the last slot for Ant but I’ve never considered Koko in my wildest dreams
+
+To add, I am at 707 atm and I haven’t struggled much since Vala, Rowan, thoran and cecia are mythic+
+    I once did a battle for someone else (AFK 350 I think) and no matter what combo I did with them, they died to an aoe burst comp. Koko completely negated that when timed with Rowan and gave enough time to take down a unit each ult. The guy's team was a bunch of mythics and yet a basic gold Koko, while not even running a couple of his mythics, made him go from 0 kills each match to a win pretty easily
+        Yoooo that’s neat! I take it you have to manual then or can you full auto with Koko ?
+            I just did it on autoplay because I'm lazy. Because she was always hit by Rowan, she pretty much always timed her ult with the only other important ult I needed with her
+                Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+                    Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+                        Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+                    No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+                        Gotcha, thanks fam! Appreciate you and the info !
+You might have already done this but you can also customise your all hero recruitment wishlist in the top right corner and select two elites and epics. Besides that, a high level ascension antandra isn't that important in my opinion, and the Odie will 100% pay off esp in dream realm.
+I'm pretty sure I replied to another comment a bit ago about it, but it depends on a few factors. The age of your server, your AFK Stage and the amount of highly ranked characters. I'd put say early game is up to stage 400 where dark forest progression starts to slow down a lot more and you start getting your first mythic characters, then mid game is probably anything up until you finish AFK stages, and late game follows that! This comp will probably serve you pretty well until you get a heavily invested Odie, Thoran, Marilee, Caroline, Hewynn, Eironn or some other characters and you'll want to start switching out characters. So far its been good up till 700 though!
+Im in the 700s and its still working, but its around now that other characters start to become more viable
+    Yeah. The 2-team mechanics will really slow you down especially if you’re f2p focused on 2-3 heroes. :(
+Faster ult and constant healing is beautiful
+    I just got smokey/rowan/cecia to supreme+ and holy shit have I been able to push far now.  Just trying to get antandra to that point.  I'm 1 away with Mirael as well, I feel like she's slept on.
+They would def both have their situations, my smokey just turned legendary, but I often run smokey over Rowan even though my rowan is mythic. Smokey has consistent heals - Rowan has fast ult
+Once I have more characters at M+ I’ll post an updated version answering that!
+Is it under manual control? Can't seem to find anything labeled auto ults
+    https://preview.redd.it/vvf66019yruc1.jpeg?width=1290&format=pjpg&auto=webp&s=2a8dc950f3666121d30495d44b0dac78b18522b8
+
+It’s in manual control, optional for battles thing
+Hmm, depends on the character tbh. Some characters benefit a lot more from ascension than others (Thoran, Smokey, Rowan, Hewynn, Odie are examples of this)
+She becomes a lot less squishy when she gets her ult going, so maybe try to distribute out the damage among multiple characters initially, and then have her take over?
+    hmmmm nice idea imma try that 👌
+I’d use a Thoran, but it depends on what other characters you have too! If your granny, lucius or temesia are higher ascension, theyre also good!
+The map rewards are insanely low, and don’t even match resonance levels at all, some people are talking about them potentially not being updated after a balance change
+Yep! I mention that in the guide
+You still get some faction bonus with 3 characters, but yes some characters are just more worth it than the faction bonus. 45% dmg reduction > 10% dmg increase
+It might be worth it to swap for Rowan in those cases. A good amount of enemies have abilities that interrupt his healing and will hit him via APE and hes only really useful when hes healing. Maybe move him to a different corner, or switch him out!
+How much arena do you play? I’m Epic II and I think I’ve only been able to make 2 purchases total, capping attempts each day.
+    I speedran Arena in the start of my server which really helped me out and now I play a lot less,  I'm hovering around Legendary II at the moment and I think I've made 3 purchases
+        How leveled is your koko,  mine is still purple and severely lets down the team atm,  the team in General is just overall weak for me atm
+            What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+                140 res,  624 stage, and i can still push abit atm,  been busy today
+            I used purple koko all they way till afk stage 720 , just positionnwiselt
+Hi - this is awesome, thanks for this. Do you have any other dps higher than cecia ? I’m at about 720 using Vala and Shakir at mythic+ but thinking I may have gone the wrong route focusing on them rather than building cecia.
+    Vala at a high rarity is really strong, I didnt invest too heavily in her cause Im mostly F2P and she really shines when shes Mythic+. Honestly you can do pretty well with most comps so youll most likely have no issue. + Cecia will start to fall off in the future and Vala is great for pvp
+Does this mean that the prio for copies is Cecia and Rowan?
+    It depends, but for early game advancement I’d say yes. If youre looking more long term, then Hewynn might be better
+what is your character tier level and reso level when you reach stage 700? congrats btw!
+    My Reso level is 150 at the moment, and my highest ascension character is my Cecia at Supreme!
+Is Rowan really worth the extra copies? I think mine's Legendary and that feels like plenty.
+    Cecia is probably better to focus on around now, but it depends on how good healers you have!
+None at the moment, haven’t quite cracked it yet, but I’ll see if theres any consensus. I’ve hear Eironn is really good in PVP
+100% Id get smokey. At your current stage smokey will provide you a lot of healing, and hes a huge help in dream realm and is in all the main comps! Supreme Bryon is most likely going to be doing a lot more damage than cecia so that also makes a lot of sense
+Odie is the vala killer when he’s that highly ascended
+    And Igor
+        And brutus. Heart crusher goes right through brutus barrier
+            yeah, but he is not as annoying of an opponent as igor
+                Very true 😂😂
+                Mythic+ grannie will stop him
+                    yeah i barely have epic granny :D
+    The fact that I'm sitting at 11/12 odie and being completely out of guarantee odie from the store is annoying me ngl lol , I'm completely at the mercy of RNG now with pulls to get my last odie.. :(
+        My first 3 pity pulls in the all hero banner where odie 😂 I have one more left to buy, just watching for dream currency to do so
+        I’m 7/12 on Odie too. I find it’s more time consuming to get the elites to mythic+ than it is the epics
+I am 1 away. I got lucky with a lot of dupes for him in summons. 
+
+I left in dream realm shop and that’s the last one I need luckily.
+Same here. I sub cecia for hewynn sometimes, or for Antandra for the 2 tanks.
+Just got Odie to mythic plus and his weapon is super close to +10. My Rowan is supreme plus weapon is +2. Everyone else is only regular mythic. Been doing really good through the game and I'm currently top 100 on my server for dream and made it to the gold rating of arena where everyone is a whale. I Spent a little bit. Somewhere under $200. So Im not a Whale, but not a light spender either.
+    How did you get the orange mats for the exclusive wep? I can’t get them anywhere it seems
+        Ranking highly in dream realm, guild chests, Arena rewards and I think high ranks in legend trial!
+            Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+                Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+                    Also guild rewards
+                    It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+                    Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+                Doing it the moment it starts helps get to top
+                    That’s midnight for me unfortunately
+Thanks for the reply :) I'm currently at AFK 775 and I don't like the meta it puts us through right now... even while spending, essence is so hard to get you're behind on levels constantly, and running 2 tanks / 2 healers / 1 DPS isn't super fun imo...
+    Agreed, I get the feeling that devs expected us to spend more time afk and levelling up our characters in order be much closer in level to enemy teams and letting us play around with different comps, but this meta lets you bridge the gap even in some cases where the level gap is like 100k.
+Because he dies a loose agro during his res animation.
+This sounds like a pretty interesting set up, what comp do you use?
+    Thoran, Vala, rowan as the core, korin for the lightbringer bonus cause he is my next highest lightbringer and the shield helps absorb the burst damage to allow thoran to ult.  Then last slot is kinda up to whatever I need.  Just finished mythic + odie so usually him just cause he executes the only problem units for Vala like Igor.  Before it was cecia just cause she sometimes cleans up though 99% of the time her ult is to slow with such a fast burst team of Vala rowan and thoran, so last slot is basically whatever you need, second support, odie, sometimes reinier swapping Vala or korin etc.  Honestly Vala rowan thoran is all you need rest is just extra.
+        What ascension is your Vala? In my experience shes a little easy to kill at Legendary!
+            I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+                Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+i don't have Rowan at Mythic+ quite yet unfortunately. im still 2 soul tokens away from that.
+i feel like im gonna have to buy a token for Smokey like i did for Brutus, i didn't get any tokens for him either until i bought one, and then i got one almost immediately after, and i bumped him up to legendary
+    Im one copy away from M+ Cicia but im honestly considering buying  Brutus so I can push AFK levels😆
+        okay so, i rolled a stack of 10 epic invites, and snagged Smokey, and it wasn't even the pity pull from 30 rolls, i guess complaining about it got RNG to give him up just so i'd stop bitching
+This is huge info lol thank you.
+Massive info. Thanks
+Now that you mentioned the ever changing "early stage" in one my accounts I manage to reach 320 extremely unbothered by going full mauler with Shakir, antandra, smokey, odie and surprisingly satrana with little investment (as a bonus I found satrana performing extremely well against the  enemies with the crystal protection type of battle) the positioning was everything on that team but still it was fun to try something new besides the same comp
+    That sounds like a pretty fun comp, especially early game. Smokey can really help Satrana shine in my experience, and Shakir is a really interesting character too play with!
+        Yeah we shouldn't be limited to the same comp having so many characters, but In my experience with this type of games the more we test the more we will find rogue types of comp that falls under the "in theory it shouldn't work but somehow it does" category
+Yeah it works pretty well! Eironn definitely gotta be mythic+ for his insta ult or it wont work I’m pretty sure.
+It’s situational, if your heroes are struggling to tank damage then use the healers, if your not doing enough damage use the attack boost, if they are hitting you faster than you hit them then use the haste buff, as op said, they all have uses
+Yeah, I was gonna use my next arena purchase on Brutus or Thoran. I can get by without Smokey via Rowan in certain stages. So far I've only gotten the points for one of them and I used it on Igor because I thought he was fun and I assumed I'd get at least one decent meta stall unit by now. And then I pulled 2 more Igors in rapid succession.
+
+Main reason I'd be fine with Thoran at lower rarities is because 4x Grave bonus is nice and he fits perfectly with Igor thematically since I generally only need about 5 seconds for Igor to take over as the real tank; even without Mythic bonuses, the health + stall passive should be enough in my experience. I've been coping pretty well until now, it's just annoying.
+    I sadly don't think you can get Thoran in the Arena store so you might have to go for Brutus. Brutus should however synergise pretty well with Igor as he becomes invulnerable for 5 seconds + regularly taunts which basically deletes all single target damage towards other characters and should let your Igor pop off.
+Yeah Ik haha. It has worked really well honestly. Just had to ditch the Graveborn support bc the healing was just not there.
+ooo i didn’t know u could pick an choose thank u sm
+Mine is Legendary+.
+    So is mine, guess I got to experiment with her more!
+Sweeeeet, I'll check it out now!
+Ah so this is more like for people who try to... *shudders* play the game manually?
+    Not necessary. Most of the just the correct formation is enough to clean stages 30-50k over your power. The only times i’ve needed to take off the auto button are just to place Cecia summon in a specific spot , which has happened less than 5 times lol
+    It can be played by anyone if you reduce the level gap a bit, but if you're pushing hard *I fear that you are correct*. Btw theres a setting that lets you control what specific characters you want to play manually. Settings--> battle --> Manual control, "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+I mean koko can take a while to have enough energy to hit her ult, you may need to pop other heroes skills to stay in the battle, and yes I am aware but not everybody will be
+    Well if they're going to employ these strategies, don't you think they should find out 😉?
+You’re also right, and I also agree!
+im currently level 91 of the resonance hall and managed to push to afk stage 304... not sure how good that is tbh. i dont have a lot of time to focus on afk stages farm so im doing around 3-5 afk stages per day
+    Thats great! And honestly it depends on how much you play and how lucky you are with your summons, its very possible that you pull and use arena coins to get a Mythic+ Cecia/Rowan/Smokey and shred for 50 afk stages.
+        I'm currently working on marilee mythic+ from dream currency, i like her a lot lol. Next up would be odie since he seems to be pretty OP with his weapon, having an execute abilty. But yeah i really wanna go for mythical+ Cecia as well, she's carrying me hard; also looking forward to having the Eironn comp available since that seems fun!
+
+thanks for the advice.
+            Of course, glad to help! :)
+Yes
+    If its a summons issue you can buy her in dream store + make sure your wishlist is set up for her. You're unlikely to find her in enemy team comps as while shes pretty strong, her value goes up as you face larger and larger enemy power differences and usually your enemies are higher level than you. Also unlikely to see her in pvp and honor duel as she gets destroyed by a well placed silvina, vala or a speedy ult with cecia. She is however very useful when fighting bosses! You're still in the early game though, so thats likely to change. Hope that helps!
+I once did a battle for someone else (AFK 350 I think) and no matter what combo I did with them, they died to an aoe burst comp. Koko completely negated that when timed with Rowan and gave enough time to take down a unit each ult. The guy's team was a bunch of mythics and yet a basic gold Koko, while not even running a couple of his mythics, made him go from 0 kills each match to a win pretty easily
+    Yoooo that’s neat! I take it you have to manual then or can you full auto with Koko ?
+        I just did it on autoplay because I'm lazy. Because she was always hit by Rowan, she pretty much always timed her ult with the only other important ult I needed with her
+            Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+                Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+                    Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+                No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+                    Gotcha, thanks fam! Appreciate you and the info !
+Yeah. The 2-team mechanics will really slow you down especially if you’re f2p focused on 2-3 heroes. :(
+I just got smokey/rowan/cecia to supreme+ and holy shit have I been able to push far now.  Just trying to get antandra to that point.  I'm 1 away with Mirael as well, I feel like she's slept on.
+https://preview.redd.it/vvf66019yruc1.jpeg?width=1290&format=pjpg&auto=webp&s=2a8dc950f3666121d30495d44b0dac78b18522b8
+
+It’s in manual control, optional for battles thing
+hmmmm nice idea imma try that 👌
+I speedran Arena in the start of my server which really helped me out and now I play a lot less,  I'm hovering around Legendary II at the moment and I think I've made 3 purchases
+    How leveled is your koko,  mine is still purple and severely lets down the team atm,  the team in General is just overall weak for me atm
+        What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+            140 res,  624 stage, and i can still push abit atm,  been busy today
+        I used purple koko all they way till afk stage 720 , just positionnwiselt
+Vala at a high rarity is really strong, I didnt invest too heavily in her cause Im mostly F2P and she really shines when shes Mythic+. Honestly you can do pretty well with most comps so youll most likely have no issue. + Cecia will start to fall off in the future and Vala is great for pvp
+It depends, but for early game advancement I’d say yes. If youre looking more long term, then Hewynn might be better
+My Reso level is 150 at the moment, and my highest ascension character is my Cecia at Supreme!
+Cecia is probably better to focus on around now, but it depends on how good healers you have!
+And Igor
+    And brutus. Heart crusher goes right through brutus barrier
+        yeah, but he is not as annoying of an opponent as igor
+            Very true 😂😂
+            Mythic+ grannie will stop him
+                yeah i barely have epic granny :D
+The fact that I'm sitting at 11/12 odie and being completely out of guarantee odie from the store is annoying me ngl lol , I'm completely at the mercy of RNG now with pulls to get my last odie.. :(
+    My first 3 pity pulls in the all hero banner where odie 😂 I have one more left to buy, just watching for dream currency to do so
+    I’m 7/12 on Odie too. I find it’s more time consuming to get the elites to mythic+ than it is the epics
+How did you get the orange mats for the exclusive wep? I can’t get them anywhere it seems
+    Ranking highly in dream realm, guild chests, Arena rewards and I think high ranks in legend trial!
+        Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+            Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+                Also guild rewards
+                It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+                Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+            Doing it the moment it starts helps get to top
+                That’s midnight for me unfortunately
+Agreed, I get the feeling that devs expected us to spend more time afk and levelling up our characters in order be much closer in level to enemy teams and letting us play around with different comps, but this meta lets you bridge the gap even in some cases where the level gap is like 100k.
+Thoran, Vala, rowan as the core, korin for the lightbringer bonus cause he is my next highest lightbringer and the shield helps absorb the burst damage to allow thoran to ult.  Then last slot is kinda up to whatever I need.  Just finished mythic + odie so usually him just cause he executes the only problem units for Vala like Igor.  Before it was cecia just cause she sometimes cleans up though 99% of the time her ult is to slow with such a fast burst team of Vala rowan and thoran, so last slot is basically whatever you need, second support, odie, sometimes reinier swapping Vala or korin etc.  Honestly Vala rowan thoran is all you need rest is just extra.
+    What ascension is your Vala? In my experience shes a little easy to kill at Legendary!
+        I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+            Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+Im one copy away from M+ Cicia but im honestly considering buying  Brutus so I can push AFK levels😆
+    okay so, i rolled a stack of 10 epic invites, and snagged Smokey, and it wasn't even the pity pull from 30 rolls, i guess complaining about it got RNG to give him up just so i'd stop bitching
+That sounds like a pretty fun comp, especially early game. Smokey can really help Satrana shine in my experience, and Shakir is a really interesting character too play with!
+    Yeah we shouldn't be limited to the same comp having so many characters, but In my experience with this type of games the more we test the more we will find rogue types of comp that falls under the "in theory it shouldn't work but somehow it does" category
+I sadly don't think you can get Thoran in the Arena store so you might have to go for Brutus. Brutus should however synergise pretty well with Igor as he becomes invulnerable for 5 seconds + regularly taunts which basically deletes all single target damage towards other characters and should let your Igor pop off.
+So is mine, guess I got to experiment with her more!
+Not necessary. Most of the just the correct formation is enough to clean stages 30-50k over your power. The only times i’ve needed to take off the auto button are just to place Cecia summon in a specific spot , which has happened less than 5 times lol
+It can be played by anyone if you reduce the level gap a bit, but if you're pushing hard *I fear that you are correct*. Btw theres a setting that lets you control what specific characters you want to play manually. Settings--> battle --> Manual control, "Auto Battle Settings", selecting optional battle mode lets you pick which characters you want to manually control in battle.
+Well if they're going to employ these strategies, don't you think they should find out 😉?
+Thats great! And honestly it depends on how much you play and how lucky you are with your summons, its very possible that you pull and use arena coins to get a Mythic+ Cecia/Rowan/Smokey and shred for 50 afk stages.
+    I'm currently working on marilee mythic+ from dream currency, i like her a lot lol. Next up would be odie since he seems to be pretty OP with his weapon, having an execute abilty. But yeah i really wanna go for mythical+ Cecia as well, she's carrying me hard; also looking forward to having the Eironn comp available since that seems fun!
+
+thanks for the advice.
+        Of course, glad to help! :)
+If its a summons issue you can buy her in dream store + make sure your wishlist is set up for her. You're unlikely to find her in enemy team comps as while shes pretty strong, her value goes up as you face larger and larger enemy power differences and usually your enemies are higher level than you. Also unlikely to see her in pvp and honor duel as she gets destroyed by a well placed silvina, vala or a speedy ult with cecia. She is however very useful when fighting bosses! You're still in the early game though, so thats likely to change. Hope that helps!
+Yoooo that’s neat! I take it you have to manual then or can you full auto with Koko ?
+    I just did it on autoplay because I'm lazy. Because she was always hit by Rowan, she pretty much always timed her ult with the only other important ult I needed with her
+        Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+            Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+                Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+            No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+                Gotcha, thanks fam! Appreciate you and the info !
+How leveled is your koko,  mine is still purple and severely lets down the team atm,  the team in General is just overall weak for me atm
+    What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+        140 res,  624 stage, and i can still push abit atm,  been busy today
+    I used purple koko all they way till afk stage 720 , just positionnwiselt
+And brutus. Heart crusher goes right through brutus barrier
+    yeah, but he is not as annoying of an opponent as igor
+        Very true 😂😂
+        Mythic+ grannie will stop him
+            yeah i barely have epic granny :D
+My first 3 pity pulls in the all hero banner where odie 😂 I have one more left to buy, just watching for dream currency to do so
+I’m 7/12 on Odie too. I find it’s more time consuming to get the elites to mythic+ than it is the epics
+Ranking highly in dream realm, guild chests, Arena rewards and I think high ranks in legend trial!
+    Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+        Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+            Also guild rewards
+            It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+            Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+        Doing it the moment it starts helps get to top
+            That’s midnight for me unfortunately
+What ascension is your Vala? In my experience shes a little easy to kill at Legendary!
+    I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+        Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+okay so, i rolled a stack of 10 epic invites, and snagged Smokey, and it wasn't even the pity pull from 30 rolls, i guess complaining about it got RNG to give him up just so i'd stop bitching
+Yeah we shouldn't be limited to the same comp having so many characters, but In my experience with this type of games the more we test the more we will find rogue types of comp that falls under the "in theory it shouldn't work but somehow it does" category
+I'm currently working on marilee mythic+ from dream currency, i like her a lot lol. Next up would be odie since he seems to be pretty OP with his weapon, having an execute abilty. But yeah i really wanna go for mythical+ Cecia as well, she's carrying me hard; also looking forward to having the Eironn comp available since that seems fun!
+
+thanks for the advice.
+    Of course, glad to help! :)
+I just did it on autoplay because I'm lazy. Because she was always hit by Rowan, she pretty much always timed her ult with the only other important ult I needed with her
+    Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+        Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+            Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+        No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+            Gotcha, thanks fam! Appreciate you and the info !
+What afk stage are you on, and whats your resonance level/ ascension level. And my koko is red
+    140 res,  624 stage, and i can still push abit atm,  been busy today
+I used purple koko all they way till afk stage 720 , just positionnwiselt
+yeah, but he is not as annoying of an opponent as igor
+    Very true 😂😂
+    Mythic+ grannie will stop him
+        yeah i barely have epic granny :D
+Thanks! I can’t get higher than 200 in dream realm at the mo, guessing it’s like top 100? Feels defeating as I can’t break into top 100, and they all get stronger from the orange mats making me even further away. Weird way to gate a resource
+    Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+        Also guild rewards
+        It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+        Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+    Doing it the moment it starts helps get to top
+        That’s midnight for me unfortunately
+I focused her banner to supreme + when game started so that's why lol.  If only works with mythic + Vala, cause with thoran him plus rowan burst heal absorb the initial burst while Vala gets off her first ult and starts killing then even if thoran dies and your backline wipes while he revives, she is invisible then he revives and keeps her hidden.  When he revives by then he has ulted and Vala has been killing back line so even alone he can tank the remaining couple units while Vala is invis with mythic + buff cleaning up.
+    Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+Of course, glad to help! :)
+Ima test this out later, I’m guessing haste rune+ rowan would make her combo roll. How’s Koko in PvP though ?
+    Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+        Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+    No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+        Gotcha, thanks fam! Appreciate you and the info !
+140 res,  624 stage, and i can still push abit atm,  been busy today
+Very true 😂😂
+Mythic+ grannie will stop him
+    yeah i barely have epic granny :D
+Yeahh unfortunately I think thats kind of the point, people who spend a lot + spend a lot of time in the game get rewarded more and more, which makes closing the gap pretty hard. And yes its the top 100 who get it. You can also get it from the stargaze station, but thats might require a little whaling.
+    Also guild rewards
+    It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+    Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+Doing it the moment it starts helps get to top
+    That’s midnight for me unfortunately
+Yeah Supreme+ Vala is really good. I didn’t focus her banner at all, just getting her to legendary which was useful for like 100 stages, but sounds like a solid comp!
+Gilgamesh is right, Koko really shines against enemies that are a lot stronger than you as her ult reduces dmg by high percentage, which if you use haste rune + rowan comes out quick. In PvP she does ok in my experience, don't use her in defence though as a Silvina/Vala will destroy her. If she can use her ult in PvP shes pretty good, but shes pretty squishy, and without smokey's heals she sometimes struggle.
+    Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+No idea on the PvP front. I think she'd get targeted by assassins too easily since you need at least another healer/shield guy with her to stop units from dying after her ult ends. But I can't see her being bad. Just not Smokey
+    Gotcha, thanks fam! Appreciate you and the info !
+yeah i barely have epic granny :D
+Also guild rewards
+It's really stupid. You shouldn't be rewarding people with progression resources for already being ahead.
+
+It should be top 10% for the highest amt of resources, then higher than that get the cape/title. 
+
+They really just decided to make the only f2p source of these in the game be based on top 20-100 rankings...lol. Spoiler: only the whales who most likely already bought both 100 packs and will continue to do so every 2 weeks are going to be getting 3 per day from dream realm. Making them just snowball even further ahead, while the rest of us are lucky if we get 1 or 2 per day maybe if you're a dolphin. That translates to progressing at 2-3x the speed essentially...
+Thanks mate. Guess they will make them more available eventually. Just have to wait for that point
+That’s midnight for me unfortunately
+Thanks OP great write up as usual and thank you for the infograph. I’ve gotten good with team comps but I honestly try to not stray too far from my comfort zone so I haven’t really experimented with the base characters aside from the comps recommended for raids
+Gotcha, thanks fam! Appreciate you and the info !

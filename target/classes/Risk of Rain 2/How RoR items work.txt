@@ -1,0 +1,671 @@
+[[How RoR items work]]
+
+
+
+
+
+Is the 0.5% additive or exponential? 
+
+More importantly, does this jump height increase also give you fall damage protection?
+    No you would need to consume mustard for the fall damage reduction
+        Although consuming mayonnaise items by the gallon will increase your fall damage against others, the combo of these three is a deadly challenge for opponents
+            Do you have to consume all 3 at the same time to stack all the effects
+                Yes
+                    Mix em first, make a stew
+                        Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+                        You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+                            That's closer to in an outs sauce in my understanding.
+                                We don't have that franchise in Australia and from looking at their menu we're really missing out
+                                    It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+                        Or just eat hotdogs on the daily.
+                        Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+            And this is how condiment man is born, saving 1 family picnic at a time
+            Headstomper..
+            Are you saying if I down gallons of mustard, ketchup and mayo, I become Mario?
+        Well i did just drink a mustard pickle beer 2 days ago sooo
+        If its risk of rain you never get the fall damage reduction
+    Ror moment
+        this is exactly what I was thinking
+            Just be sure to pick up an additional Hopoo feather
+                gotta get a H34D-5T just in case
+    Neither, it's hyperbolic.
+        So it's 1/1-(ammount of bottles*0,5)?
+            No its "1-(1/(1+0,5·X))", where X its the amount of bottles consumed.
+                Alright, so it's calculation to bonus hight because if never ate ketchup it's 0. I was talking about the whole height. I can't calculate how this would be in my version
+                    Just add one so it would be 2-(1/(1+0.005*x))
+                I failed calculus
+                    I don't know how to add or spel
+                        I don't know how to read
+                    This is conic sections though, so precalc
+    Doesn't say what the volume of the ketchup bottle is..
+        Just buy the smallest ketchup bottles you can find
+            Or biggest
+    Exponential but it falls off after 45%
+        Fucking soft-caps, ruining fun builds for decades.
+            My only real gripe with Borderlands 3: Badass Rank soft caps.
+    Hard to say. All I know is I drank 200 ketchup bottles and now I can touch the moon.
+    Exponential and I'll be a god
+    Its a multiplier
+Get smth like moon gravity or headset and its stoated
+This honestly doesn't seem that shitty (unless he literally means the entire bottle, meaning the plastic) since there's no time limit for consuming it. Over the course of say a year you could have significantly increased your maximum jump height
+    But still relatively shitty in terms of superpowers. It also has the adverse effect: you jump too high, whenever you eat ketchup, it gets higher. Nobody said you’d have the capability to land from great heights
+        It does say "can'" jump higher. Sounds like it just increases your max height
+            But then if you consume too much, one could eventually incur type 2 diabetes which decreases max health and slowly bleeds. Also after landing from such great heights you heal slower.
+                You don't have to eat ketchup more for this to work, just eat it like sauce in normal occasions. + the size of bottle isn't stated, so it can also be super smol baby bottles
+
+Also, falling deals damage instead of slowing your healing. It technically does slow healing, but it's just because you've been damaged
+
+Edit: also, they said that it increases *maximum* hight, which means you *can* jump higher. If you can do something you don't have to do that, you still can jump like a normal human
+                    I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+                        That way it's fair enough
+                    [deleted]
+                        I-... I don't get it..?
+            You always jump your max height in ror
+        How high can you jump, tops, now? Can you also jump about a centimetre?
+
+Also it'd take a *lot* of ketchup to start jumping to dangerous heights
+            Let's say I eat a ketchup a week. That's 520 over 10 years. If my vertical was 0.5m I'm assuming it stacks linearly, that's 0.0025m*520 = 130cm taller.
+
+Then I would have the highest vertical in the world by far. Pog
+                Either you eat a lot of ketchup or your ketchup bottles are really really small.
+                    I would have significantly more motivation to eat ketchup if I got superpowers from it
+        I’d rather just not eat ketchup than dying lol
+        I know so many athletes that would just be chugging ketchup. I can think of at least 3 sports where there is built in protection for jumping higher and increased jumps is highly desired (high jump, diving, ski jumping)
+        Something something Scrolls of Icarian Flight
+        I mean, when was the last time you jumped? Especially anywhere close to your max height
+    It would take a little longer than a year, but over your lifetime it would eventually be pretty significant.
+
+The average per capita consumption of ketchup in the USA in 2021 was 5.2 liters annually. The average bottle of ketchup is 14 oz. That means the average American consumes 12.5 bottles per year. Assuming you how about your powers and go a little hard, we'll round up to consuming 13 bottles annually. Then, let's assume your standing vertical jump is a very average 18 inches. Finally, let's assume you got your powers as a teen, say 15 years old. By the time you're 30, you will be the world record holder for standing high jump at 48". But it gets better because since it's compounding, by the time you're 40 you'll be able to jump over seven and a half feet straight up. And by 45, you can jump over 10 feet straight up. And none of this even converting to, say, running long jump distances.
+
+So, it's a pretty slow burn super power, but as long as you don't think about it and just keep eating a slightly above average amount of ketchup, you'll be insanely good at jumping later in life with basically zero effort.
+        > assuming you know about your powers and go a little hard, we'll round up
+
+If you knew about your powers, you wouldn't be going *a half a bottle above the average* number of bottles consumed. You could easily easily easily get double or triple average if you just incorporate ketchup into every meal instead of every 9 meals (which is what I'd imagine is about average).
+            You're not wrong, but the point I'm trying to make is that due to the compounding nature of the 0.5% you would eventually have incredible jump height basically doing nothing. Or nothing out of the ordinary. Any gains beyond that are up to you and how much ketchup you can stomach.
+        > The average per capita consumption of ketchup in the USA in 2021 was 5.2 liters annually.
+
+What the fuck?? If that's the AVERAGE no wonder why the US is the Diabetes Nation
+        Or you could just find a semi-palatable tomato soup recipe made from ketchup, drink two bottles a week, and attain greatness.
+            Hell, just incorporate it into damn near any meal you can, especially if you can't taste it
+    if they mean entire tomato sauce bottle like the plastic and all, just put little shrapnels of plastic into your sauce, that easy
+        Aell human jumping is an analog input, not a digital one. You don’t have to jump your max height any time you jump.
+    Also dosent say what size bottle.
+        Exactly. Make several batches of homemade ketchup, put them in those mini-liquor bottles, and you’ve got a great thing going. 
+
+Unfortunately since it is permanent and stackable, you’d need to be very careful with your ketchup consumption afterwards, or move to alternate methods like packets to stop yourself from getting out of hand with the jump height.
+    its secretly a curse. the more ketchup you at eat, the more uncontrollable your jumps become. at some point you could never jump again out or risk falling to you death.
+        Just don't eat as much ketchup then. Have you ever tried saracha mayo?
+            Hell, you tried Kewpie?? I dip everything in that bad boy
+        Humans are really good at controlling their strength. Like, you can easily go through the motion of jumping right now but with little enough force that you never even leave the ground.
+
+Also my assumption was that all the ketchup from the one bottle needs to be consumed by you but I suppose that isn't explicitly stated
+    That's a lot of fries.
+    My 6-year-old would be unstoppable already.
+Linear, Hyperbolic, Exponential, or Special stacking rules?
+    The important questions.
+    What's the difference between hyperbolic and exponential? I'm guessing linear is additive (1+0.005x) and one of these is multiplicative (1.005^x)?
+        Hyperbolic is the inverse of exponential.  So for example, one stack = 50% chance, 2 stacks = 75%, 3 = 87.5%, and so on.  This is to prevent items like Tougher Times hitting 100% chance but just becoming more and more likely with each stack.
+
+The actual formula is f(x) = 1-1/1(1+a*x), where a is the % chance for 1 stack and x is the number of stacks.  
+
+More info https://riskofrain2.fandom.com/wiki/Item_Stacking
+            wait why don't they use a logarithmic scale? (which is the actual inverse of exponential)
+                Hyperbolic curves have a smoother scaling than logarithmic curves in the same way parabolic curves have smoother scaling than exponential ones.
+                    I don't see how that matters at all but 👍
+                        It makes the first couple stacks less extreme and the later stacks less useless.
+                            so would a logarithmic scale
+                                In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+Then the logbook entry be like
+
+> We have transpired the eclipse of worlds
+
+> 142536
+
+> The scouts have returned from the planet's surface
+
+> 7082931
+
+> Reporting no signs of significant life
+
+> 001...000
+
+> He's really gone then, the beloved jailer
+
+> 0...0...
+
+> His brother's tears fallen upon the cold ground like sweetened tomato reduction
+    TRUE
+
+I laughed way too hard at that.
+20 bottles for a 10% increase? If you want a useful bonus you'll probably wind up with diabetes...
+    Over a few years this would be incredible though.
+        500 bottles would be an increase of 3.5 times, assuming linear stacking.which which means that an out of shape person could probably jump a few meters high at best.
+
+Idk, that sounds like a very painful amount of ketchup. More than a bottle every other day for two years.
+            But a few meters is also way more than necessary, because you would still have to mitigate the fall, so a decent amount of bottles could make everyone professional dunkers.
+            I’d want to eat like 500 thousand bottles and jump with a parachute. 
+
+Edit: checked the math and it’s only around 480 thousand bottles! You can possibly go fewer than that but it’s less safe
+            [deleted]
+                They said "assuming linear stacking"
+                    [deleted]
+                        We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+                        Because that’s how linear stacking works
+    What if I told you that you could probably increase your vertical more than 10% if you just spent a week or so training
+    Sugar free ketchup it is.
+    just put ketchup in every meal and have patience  
+if you start young you could probably take advantage of it by your late twenties and then never eat ketchup again
+But do you take fall damage?
+If so then yea this power sucks
+    For fall damage resistance, you need to consume lots of pure worcestershire sauce.
+        Worcestershire sauce hidden effect: the more you consume, the less likely for you to be able to pronounce, write, or read it, making you unable to order it after a certain amount.
+    You do realize whenever you jump you don’t go to your maximum height? You can control how high you jump
+    yeah i would absolutely hate to become the best olympian of all time in the High jump category for the low low price of drinking a bunch of ketchup
+the effect is permanent until either you throw it up into a paper shredder or a god from the moon rips it from your throat
+Lets find some small ketchup bottles then.
+    Ketchup printer, LESGOO!
+        That's what I call my butt after drinking 500 bottles of ketchup.
+Now I understand Sans, that's why he drinks ketchup right?
+    Whenever he takes a "shortcut", it's not teleportation. He just jumps very high.
+Here I fucking come mithrix
+If this were real I could jump to the moon
+    That's like... A lot. Seriously the distance between the earth and our moon is much more than most people realize.
+        tbf it doesn't say anything about time of jump increasing, so maybe it reaches the new height in the exact same time as the old height would have taken, this meaning your velocity must have increased, and therefore it could be possible to reach escape velocity and not have to stack enough ketchup bottles to have your jump height be the same as the moon's orbit
+If Ketchup increase's jump height and if we go by the logic of this shitty superpower what does the other condiments do ? 
+
+Mustard increase's walk speed and Mayo damage reduction ?
+    Consuming a bottle of mayo decreases your life span by 0.05%
+        Mayo is a lunar. you get the damage reduction and reduced life span
+If you get enough jump height you could become a reusable rocket to transport things to space and make billions of dollars doing it.
+    You might need to chug some horseradish to get the heat resistance you need to survive reentry.
+        Nah you would probably be handed equipment to handle the heat by companies and space organizations who want your services
+How is that a shitty super power? That's kind of op. Every day just eat a bottle of ketchup. Yeah it would suck but after a year you can jump almost 3x as high.
+    diabetes+is it really worth it
+        Well, you don't just get diabetes from a high sugar or even calorie intake. Even for type 2 you have to have some degree of genetic susceptibility.  The susceptibility is relatively common, likely because our ancestors didn't have an abundance of calories (especially fructose derivatives) to induce the hyperglycemia necessary to trigger insulin resistance.
+
+And even so, you could balance out your diet around that. Or just do half a bottle of ketchup a day. That's about nutritionally equivalent to a chick fil a milkshake a day. If you start at a young enough age, you can easily get your jump height to 10x-20x a normal human over 5-10 years.
+
+Would it be useful in day to day life? Not really. But assuming you balance your ketchup diet to increase your jump height by 100% a year, you'd be able to jump 28 feet in 10 years. And that's assuming the increase isn't exponential but adds a flat 0.5% to your base jump height.
+
+You could hide your true abilities and go be a gold medalist long jumper. You would jump so much farther simply by increasing your arc.
+
+And jumping over small to eventually large buildings would be pretty hilarious.
+        This comment tells me that you dont have a slightest clue what diabetes is without outright saying it.
+@hopoo found the next white item for the next expansion
+Ayo modders?
+Fast food restaurants just became my go to.
+Also just like ror, if you stack it enough you’ll die from fall damage 🙂
+That doesn’t sound too bad, it doesn’t say how fast you have to consume the bottle. So surely yo it e just naturally over time increasing your jump height. Over years that can add up.
+
+Doesn’t say how big the bottle has to be either so you could just get the smallest one
+BRB sprinting to Costco
+Do those tiny bottles of ketchup count as a full bottle?
+I'd be unstoppable in the NBA, but only in the first 20 minutes before I have the mother of all diarrheas.
+important question: does the boost apply to only your jump height, or do you simply gain enough explosive strength in your legs to jump .5% higher? if its the latter this is pretty op since you'll also increase your running speed
+maybe this is real. i mean how many ketchup bottles did you eat and how high can you jump?
+This is even better if everyone knows about it
+FINALLY A GOOD REASON TO DRINK KETCHUP STRAIGHT FROM THE BOTTLE!
+After only 430 bottles of ketchup you could easily jump to the moon, incredible super power.
+Pasta, pasta every day... with warmed up bottle of ketchup, Parma cheese and pepper
+JUST GIVE THE CONSUMED POWER ELIXIR THIS PASSIVE EFFECT PLEASE I SWEAR IT WILL BE FUNNY
+I found a mod for this
+Orders tiny ketchup bottle gummies and begins devouring them
+Do the effects remain even after I barf up all the ketchup I just consumed?
+do you think drinking the bottles would be easier or harder the more you drank?
+Does it take into account the bottles of ketchup I've already eaten throughout my life? I was really into ketchup when I was younger, but I'm more of a bbq kind of person rn
+I'd become an athlete at the Olympics but yeah if there's no damage reduction it's not very good
+Are subsequent increases equal to .5% of the original jump height or the newly improved height?
+Nice an item to synergies with headstomper
+You can jump as high as you want but your knees develop arthritis
+Does this apply to any ketchup bottle or a certain quantity of ketchup? If I break one large bottle down into multiple small bottles does it still count?
+If you find a printer, you can vomit it up to get something else .
+Do I have to eat it neat? And in one sitting?
+Sauce
+The ketch-UP
+PSA: you have to eat the bottle, too.
+As in eating all the ketchup inside or the entirety of the bottle itself?
+Permanent and stackable? That’s not shitty! Give me a year and I’ll be flying.
+How big of a bottle? Could i manufacture itty bitty bottles (maybe 1 milliliter?) And consume those?
+Does it decrease fall damage as well?
+Rule
+i would fucking do that
+I would mix ketchup into everything… everything.
+I'd straight up take it, 40 bottles and I'm the new Kobe Bryant. I'll have you know, I'm a 300 lbs 32 year old failure of a human being and with this power I could Excel.
+But do you have to consume an entire bottle at once to stack it or can you just have small portions until it completes the measurement of a bottle?
+
+And if it can increase your maximum jump height, it wouldn't help that much since there would be a certain height that you'd have to test how high you could jump to see you're potential. And by strengthening your base stats, shit could go kinda crazy...
+the bottle or the ketchup inside?
+All these jump boosts but no fall damage reduction
+Stack enough to win the Olympics everytime
+Everything everywhere all at once
+Do small novelty bottles count?
+INTERNET GIVE ME A SOUPER POWERADE
+u/mikeman7918 So what you are saying is I can Jump 100% higher if I Consume 200 bottles of ketchup so Is this any kind of ketchup bottle ?[https://www.google.de/search?q=smallest+ketchup+bottle&ie=UTF-8&oe=UTF-8&hl=de-de&client=safari](https://www.google.de/search?q=smallest+ketchup+bottle&ie=UTF-8&oe=UTF-8&hl=de-de&client=safari)
+Condiment kings actual lore story
+If you shaped glass you lose half you health but do double demage and this is permanent item and you can never heal up
+    When stubbing your toe will kill you, but you have enough power to kill God.
+        ***~~When talking, you will be able to hurt enemies~~*** [***~~0.000.000.000~~***](https://0.000.000.000)***~~% and when enemies hit you, you instantly die.~~***
+Di ypu need to keep it down?because if not imma just chug ketchup bottle after ketchup bottle andjust puke violently but then afterwards i will become a nba player
+Well call me sans undertale then
+    🌽
+No you would need to consume mustard for the fall damage reduction
+    Although consuming mayonnaise items by the gallon will increase your fall damage against others, the combo of these three is a deadly challenge for opponents
+        Do you have to consume all 3 at the same time to stack all the effects
+            Yes
+                Mix em first, make a stew
+                    Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+                    You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+                        That's closer to in an outs sauce in my understanding.
+                            We don't have that franchise in Australia and from looking at their menu we're really missing out
+                                It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+                    Or just eat hotdogs on the daily.
+                    Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+        And this is how condiment man is born, saving 1 family picnic at a time
+        Headstomper..
+        Are you saying if I down gallons of mustard, ketchup and mayo, I become Mario?
+    Well i did just drink a mustard pickle beer 2 days ago sooo
+    If its risk of rain you never get the fall damage reduction
+Ror moment
+    this is exactly what I was thinking
+        Just be sure to pick up an additional Hopoo feather
+            gotta get a H34D-5T just in case
+Neither, it's hyperbolic.
+    So it's 1/1-(ammount of bottles*0,5)?
+        No its "1-(1/(1+0,5·X))", where X its the amount of bottles consumed.
+            Alright, so it's calculation to bonus hight because if never ate ketchup it's 0. I was talking about the whole height. I can't calculate how this would be in my version
+                Just add one so it would be 2-(1/(1+0.005*x))
+            I failed calculus
+                I don't know how to add or spel
+                    I don't know how to read
+                This is conic sections though, so precalc
+Doesn't say what the volume of the ketchup bottle is..
+    Just buy the smallest ketchup bottles you can find
+        Or biggest
+Exponential but it falls off after 45%
+    Fucking soft-caps, ruining fun builds for decades.
+        My only real gripe with Borderlands 3: Badass Rank soft caps.
+Hard to say. All I know is I drank 200 ketchup bottles and now I can touch the moon.
+Exponential and I'll be a god
+Its a multiplier
+Get smth like moon gravity or headset and its stoated
+But still relatively shitty in terms of superpowers. It also has the adverse effect: you jump too high, whenever you eat ketchup, it gets higher. Nobody said you’d have the capability to land from great heights
+    It does say "can'" jump higher. Sounds like it just increases your max height
+        But then if you consume too much, one could eventually incur type 2 diabetes which decreases max health and slowly bleeds. Also after landing from such great heights you heal slower.
+            You don't have to eat ketchup more for this to work, just eat it like sauce in normal occasions. + the size of bottle isn't stated, so it can also be super smol baby bottles
+
+Also, falling deals damage instead of slowing your healing. It technically does slow healing, but it's just because you've been damaged
+
+Edit: also, they said that it increases *maximum* hight, which means you *can* jump higher. If you can do something you don't have to do that, you still can jump like a normal human
+                I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+                    That way it's fair enough
+                [deleted]
+                    I-... I don't get it..?
+        You always jump your max height in ror
+    How high can you jump, tops, now? Can you also jump about a centimetre?
+
+Also it'd take a *lot* of ketchup to start jumping to dangerous heights
+        Let's say I eat a ketchup a week. That's 520 over 10 years. If my vertical was 0.5m I'm assuming it stacks linearly, that's 0.0025m*520 = 130cm taller.
+
+Then I would have the highest vertical in the world by far. Pog
+            Either you eat a lot of ketchup or your ketchup bottles are really really small.
+                I would have significantly more motivation to eat ketchup if I got superpowers from it
+    I’d rather just not eat ketchup than dying lol
+    I know so many athletes that would just be chugging ketchup. I can think of at least 3 sports where there is built in protection for jumping higher and increased jumps is highly desired (high jump, diving, ski jumping)
+    Something something Scrolls of Icarian Flight
+    I mean, when was the last time you jumped? Especially anywhere close to your max height
+It would take a little longer than a year, but over your lifetime it would eventually be pretty significant.
+
+The average per capita consumption of ketchup in the USA in 2021 was 5.2 liters annually. The average bottle of ketchup is 14 oz. That means the average American consumes 12.5 bottles per year. Assuming you how about your powers and go a little hard, we'll round up to consuming 13 bottles annually. Then, let's assume your standing vertical jump is a very average 18 inches. Finally, let's assume you got your powers as a teen, say 15 years old. By the time you're 30, you will be the world record holder for standing high jump at 48". But it gets better because since it's compounding, by the time you're 40 you'll be able to jump over seven and a half feet straight up. And by 45, you can jump over 10 feet straight up. And none of this even converting to, say, running long jump distances.
+
+So, it's a pretty slow burn super power, but as long as you don't think about it and just keep eating a slightly above average amount of ketchup, you'll be insanely good at jumping later in life with basically zero effort.
+    > assuming you know about your powers and go a little hard, we'll round up
+
+If you knew about your powers, you wouldn't be going *a half a bottle above the average* number of bottles consumed. You could easily easily easily get double or triple average if you just incorporate ketchup into every meal instead of every 9 meals (which is what I'd imagine is about average).
+        You're not wrong, but the point I'm trying to make is that due to the compounding nature of the 0.5% you would eventually have incredible jump height basically doing nothing. Or nothing out of the ordinary. Any gains beyond that are up to you and how much ketchup you can stomach.
+    > The average per capita consumption of ketchup in the USA in 2021 was 5.2 liters annually.
+
+What the fuck?? If that's the AVERAGE no wonder why the US is the Diabetes Nation
+    Or you could just find a semi-palatable tomato soup recipe made from ketchup, drink two bottles a week, and attain greatness.
+        Hell, just incorporate it into damn near any meal you can, especially if you can't taste it
+if they mean entire tomato sauce bottle like the plastic and all, just put little shrapnels of plastic into your sauce, that easy
+    Aell human jumping is an analog input, not a digital one. You don’t have to jump your max height any time you jump.
+Also dosent say what size bottle.
+    Exactly. Make several batches of homemade ketchup, put them in those mini-liquor bottles, and you’ve got a great thing going. 
+
+Unfortunately since it is permanent and stackable, you’d need to be very careful with your ketchup consumption afterwards, or move to alternate methods like packets to stop yourself from getting out of hand with the jump height.
+its secretly a curse. the more ketchup you at eat, the more uncontrollable your jumps become. at some point you could never jump again out or risk falling to you death.
+    Just don't eat as much ketchup then. Have you ever tried saracha mayo?
+        Hell, you tried Kewpie?? I dip everything in that bad boy
+    Humans are really good at controlling their strength. Like, you can easily go through the motion of jumping right now but with little enough force that you never even leave the ground.
+
+Also my assumption was that all the ketchup from the one bottle needs to be consumed by you but I suppose that isn't explicitly stated
+That's a lot of fries.
+My 6-year-old would be unstoppable already.
+The important questions.
+What's the difference between hyperbolic and exponential? I'm guessing linear is additive (1+0.005x) and one of these is multiplicative (1.005^x)?
+    Hyperbolic is the inverse of exponential.  So for example, one stack = 50% chance, 2 stacks = 75%, 3 = 87.5%, and so on.  This is to prevent items like Tougher Times hitting 100% chance but just becoming more and more likely with each stack.
+
+The actual formula is f(x) = 1-1/1(1+a*x), where a is the % chance for 1 stack and x is the number of stacks.  
+
+More info https://riskofrain2.fandom.com/wiki/Item_Stacking
+        wait why don't they use a logarithmic scale? (which is the actual inverse of exponential)
+            Hyperbolic curves have a smoother scaling than logarithmic curves in the same way parabolic curves have smoother scaling than exponential ones.
+                I don't see how that matters at all but 👍
+                    It makes the first couple stacks less extreme and the later stacks less useless.
+                        so would a logarithmic scale
+                            In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+TRUE
+
+I laughed way too hard at that.
+Over a few years this would be incredible though.
+    500 bottles would be an increase of 3.5 times, assuming linear stacking.which which means that an out of shape person could probably jump a few meters high at best.
+
+Idk, that sounds like a very painful amount of ketchup. More than a bottle every other day for two years.
+        But a few meters is also way more than necessary, because you would still have to mitigate the fall, so a decent amount of bottles could make everyone professional dunkers.
+        I’d want to eat like 500 thousand bottles and jump with a parachute. 
+
+Edit: checked the math and it’s only around 480 thousand bottles! You can possibly go fewer than that but it’s less safe
+        [deleted]
+            They said "assuming linear stacking"
+                [deleted]
+                    We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+                    Because that’s how linear stacking works
+What if I told you that you could probably increase your vertical more than 10% if you just spent a week or so training
+Sugar free ketchup it is.
+just put ketchup in every meal and have patience  
+if you start young you could probably take advantage of it by your late twenties and then never eat ketchup again
+For fall damage resistance, you need to consume lots of pure worcestershire sauce.
+    Worcestershire sauce hidden effect: the more you consume, the less likely for you to be able to pronounce, write, or read it, making you unable to order it after a certain amount.
+You do realize whenever you jump you don’t go to your maximum height? You can control how high you jump
+yeah i would absolutely hate to become the best olympian of all time in the High jump category for the low low price of drinking a bunch of ketchup
+Ketchup printer, LESGOO!
+    That's what I call my butt after drinking 500 bottles of ketchup.
+Whenever he takes a "shortcut", it's not teleportation. He just jumps very high.
+That's like... A lot. Seriously the distance between the earth and our moon is much more than most people realize.
+    tbf it doesn't say anything about time of jump increasing, so maybe it reaches the new height in the exact same time as the old height would have taken, this meaning your velocity must have increased, and therefore it could be possible to reach escape velocity and not have to stack enough ketchup bottles to have your jump height be the same as the moon's orbit
+Consuming a bottle of mayo decreases your life span by 0.05%
+    Mayo is a lunar. you get the damage reduction and reduced life span
+You might need to chug some horseradish to get the heat resistance you need to survive reentry.
+    Nah you would probably be handed equipment to handle the heat by companies and space organizations who want your services
+diabetes+is it really worth it
+    Well, you don't just get diabetes from a high sugar or even calorie intake. Even for type 2 you have to have some degree of genetic susceptibility.  The susceptibility is relatively common, likely because our ancestors didn't have an abundance of calories (especially fructose derivatives) to induce the hyperglycemia necessary to trigger insulin resistance.
+
+And even so, you could balance out your diet around that. Or just do half a bottle of ketchup a day. That's about nutritionally equivalent to a chick fil a milkshake a day. If you start at a young enough age, you can easily get your jump height to 10x-20x a normal human over 5-10 years.
+
+Would it be useful in day to day life? Not really. But assuming you balance your ketchup diet to increase your jump height by 100% a year, you'd be able to jump 28 feet in 10 years. And that's assuming the increase isn't exponential but adds a flat 0.5% to your base jump height.
+
+You could hide your true abilities and go be a gold medalist long jumper. You would jump so much farther simply by increasing your arc.
+
+And jumping over small to eventually large buildings would be pretty hilarious.
+    This comment tells me that you dont have a slightest clue what diabetes is without outright saying it.
+When stubbing your toe will kill you, but you have enough power to kill God.
+    ***~~When talking, you will be able to hurt enemies~~*** [***~~0.000.000.000~~***](https://0.000.000.000)***~~% and when enemies hit you, you instantly die.~~***
+🌽
+Although consuming mayonnaise items by the gallon will increase your fall damage against others, the combo of these three is a deadly challenge for opponents
+    Do you have to consume all 3 at the same time to stack all the effects
+        Yes
+            Mix em first, make a stew
+                Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+                You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+                    That's closer to in an outs sauce in my understanding.
+                        We don't have that franchise in Australia and from looking at their menu we're really missing out
+                            It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+                Or just eat hotdogs on the daily.
+                Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+    And this is how condiment man is born, saving 1 family picnic at a time
+    Headstomper..
+    Are you saying if I down gallons of mustard, ketchup and mayo, I become Mario?
+Well i did just drink a mustard pickle beer 2 days ago sooo
+If its risk of rain you never get the fall damage reduction
+this is exactly what I was thinking
+    Just be sure to pick up an additional Hopoo feather
+        gotta get a H34D-5T just in case
+So it's 1/1-(ammount of bottles*0,5)?
+    No its "1-(1/(1+0,5·X))", where X its the amount of bottles consumed.
+        Alright, so it's calculation to bonus hight because if never ate ketchup it's 0. I was talking about the whole height. I can't calculate how this would be in my version
+            Just add one so it would be 2-(1/(1+0.005*x))
+        I failed calculus
+            I don't know how to add or spel
+                I don't know how to read
+            This is conic sections though, so precalc
+Just buy the smallest ketchup bottles you can find
+    Or biggest
+Fucking soft-caps, ruining fun builds for decades.
+    My only real gripe with Borderlands 3: Badass Rank soft caps.
+It does say "can'" jump higher. Sounds like it just increases your max height
+    But then if you consume too much, one could eventually incur type 2 diabetes which decreases max health and slowly bleeds. Also after landing from such great heights you heal slower.
+        You don't have to eat ketchup more for this to work, just eat it like sauce in normal occasions. + the size of bottle isn't stated, so it can also be super smol baby bottles
+
+Also, falling deals damage instead of slowing your healing. It technically does slow healing, but it's just because you've been damaged
+
+Edit: also, they said that it increases *maximum* hight, which means you *can* jump higher. If you can do something you don't have to do that, you still can jump like a normal human
+            I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+                That way it's fair enough
+            [deleted]
+                I-... I don't get it..?
+    You always jump your max height in ror
+How high can you jump, tops, now? Can you also jump about a centimetre?
+
+Also it'd take a *lot* of ketchup to start jumping to dangerous heights
+    Let's say I eat a ketchup a week. That's 520 over 10 years. If my vertical was 0.5m I'm assuming it stacks linearly, that's 0.0025m*520 = 130cm taller.
+
+Then I would have the highest vertical in the world by far. Pog
+        Either you eat a lot of ketchup or your ketchup bottles are really really small.
+            I would have significantly more motivation to eat ketchup if I got superpowers from it
+I’d rather just not eat ketchup than dying lol
+I know so many athletes that would just be chugging ketchup. I can think of at least 3 sports where there is built in protection for jumping higher and increased jumps is highly desired (high jump, diving, ski jumping)
+Something something Scrolls of Icarian Flight
+I mean, when was the last time you jumped? Especially anywhere close to your max height
+> assuming you know about your powers and go a little hard, we'll round up
+
+If you knew about your powers, you wouldn't be going *a half a bottle above the average* number of bottles consumed. You could easily easily easily get double or triple average if you just incorporate ketchup into every meal instead of every 9 meals (which is what I'd imagine is about average).
+    You're not wrong, but the point I'm trying to make is that due to the compounding nature of the 0.5% you would eventually have incredible jump height basically doing nothing. Or nothing out of the ordinary. Any gains beyond that are up to you and how much ketchup you can stomach.
+> The average per capita consumption of ketchup in the USA in 2021 was 5.2 liters annually.
+
+What the fuck?? If that's the AVERAGE no wonder why the US is the Diabetes Nation
+Or you could just find a semi-palatable tomato soup recipe made from ketchup, drink two bottles a week, and attain greatness.
+    Hell, just incorporate it into damn near any meal you can, especially if you can't taste it
+Aell human jumping is an analog input, not a digital one. You don’t have to jump your max height any time you jump.
+Exactly. Make several batches of homemade ketchup, put them in those mini-liquor bottles, and you’ve got a great thing going. 
+
+Unfortunately since it is permanent and stackable, you’d need to be very careful with your ketchup consumption afterwards, or move to alternate methods like packets to stop yourself from getting out of hand with the jump height.
+Just don't eat as much ketchup then. Have you ever tried saracha mayo?
+    Hell, you tried Kewpie?? I dip everything in that bad boy
+Humans are really good at controlling their strength. Like, you can easily go through the motion of jumping right now but with little enough force that you never even leave the ground.
+
+Also my assumption was that all the ketchup from the one bottle needs to be consumed by you but I suppose that isn't explicitly stated
+Hyperbolic is the inverse of exponential.  So for example, one stack = 50% chance, 2 stacks = 75%, 3 = 87.5%, and so on.  This is to prevent items like Tougher Times hitting 100% chance but just becoming more and more likely with each stack.
+
+The actual formula is f(x) = 1-1/1(1+a*x), where a is the % chance for 1 stack and x is the number of stacks.  
+
+More info https://riskofrain2.fandom.com/wiki/Item_Stacking
+    wait why don't they use a logarithmic scale? (which is the actual inverse of exponential)
+        Hyperbolic curves have a smoother scaling than logarithmic curves in the same way parabolic curves have smoother scaling than exponential ones.
+            I don't see how that matters at all but 👍
+                It makes the first couple stacks less extreme and the later stacks less useless.
+                    so would a logarithmic scale
+                        In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+500 bottles would be an increase of 3.5 times, assuming linear stacking.which which means that an out of shape person could probably jump a few meters high at best.
+
+Idk, that sounds like a very painful amount of ketchup. More than a bottle every other day for two years.
+    But a few meters is also way more than necessary, because you would still have to mitigate the fall, so a decent amount of bottles could make everyone professional dunkers.
+    I’d want to eat like 500 thousand bottles and jump with a parachute. 
+
+Edit: checked the math and it’s only around 480 thousand bottles! You can possibly go fewer than that but it’s less safe
+    [deleted]
+        They said "assuming linear stacking"
+            [deleted]
+                We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+                Because that’s how linear stacking works
+Worcestershire sauce hidden effect: the more you consume, the less likely for you to be able to pronounce, write, or read it, making you unable to order it after a certain amount.
+That's what I call my butt after drinking 500 bottles of ketchup.
+tbf it doesn't say anything about time of jump increasing, so maybe it reaches the new height in the exact same time as the old height would have taken, this meaning your velocity must have increased, and therefore it could be possible to reach escape velocity and not have to stack enough ketchup bottles to have your jump height be the same as the moon's orbit
+Mayo is a lunar. you get the damage reduction and reduced life span
+Nah you would probably be handed equipment to handle the heat by companies and space organizations who want your services
+Well, you don't just get diabetes from a high sugar or even calorie intake. Even for type 2 you have to have some degree of genetic susceptibility.  The susceptibility is relatively common, likely because our ancestors didn't have an abundance of calories (especially fructose derivatives) to induce the hyperglycemia necessary to trigger insulin resistance.
+
+And even so, you could balance out your diet around that. Or just do half a bottle of ketchup a day. That's about nutritionally equivalent to a chick fil a milkshake a day. If you start at a young enough age, you can easily get your jump height to 10x-20x a normal human over 5-10 years.
+
+Would it be useful in day to day life? Not really. But assuming you balance your ketchup diet to increase your jump height by 100% a year, you'd be able to jump 28 feet in 10 years. And that's assuming the increase isn't exponential but adds a flat 0.5% to your base jump height.
+
+You could hide your true abilities and go be a gold medalist long jumper. You would jump so much farther simply by increasing your arc.
+
+And jumping over small to eventually large buildings would be pretty hilarious.
+This comment tells me that you dont have a slightest clue what diabetes is without outright saying it.
+***~~When talking, you will be able to hurt enemies~~*** [***~~0.000.000.000~~***](https://0.000.000.000)***~~% and when enemies hit you, you instantly die.~~***
+Do you have to consume all 3 at the same time to stack all the effects
+    Yes
+        Mix em first, make a stew
+            Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+            You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+                That's closer to in an outs sauce in my understanding.
+                    We don't have that franchise in Australia and from looking at their menu we're really missing out
+                        It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+            Or just eat hotdogs on the daily.
+            Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+And this is how condiment man is born, saving 1 family picnic at a time
+Headstomper..
+Are you saying if I down gallons of mustard, ketchup and mayo, I become Mario?
+Just be sure to pick up an additional Hopoo feather
+    gotta get a H34D-5T just in case
+No its "1-(1/(1+0,5·X))", where X its the amount of bottles consumed.
+    Alright, so it's calculation to bonus hight because if never ate ketchup it's 0. I was talking about the whole height. I can't calculate how this would be in my version
+        Just add one so it would be 2-(1/(1+0.005*x))
+    I failed calculus
+        I don't know how to add or spel
+            I don't know how to read
+        This is conic sections though, so precalc
+Or biggest
+My only real gripe with Borderlands 3: Badass Rank soft caps.
+But then if you consume too much, one could eventually incur type 2 diabetes which decreases max health and slowly bleeds. Also after landing from such great heights you heal slower.
+    You don't have to eat ketchup more for this to work, just eat it like sauce in normal occasions. + the size of bottle isn't stated, so it can also be super smol baby bottles
+
+Also, falling deals damage instead of slowing your healing. It technically does slow healing, but it's just because you've been damaged
+
+Edit: also, they said that it increases *maximum* hight, which means you *can* jump higher. If you can do something you don't have to do that, you still can jump like a normal human
+        I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+            That way it's fair enough
+        [deleted]
+            I-... I don't get it..?
+You always jump your max height in ror
+Let's say I eat a ketchup a week. That's 520 over 10 years. If my vertical was 0.5m I'm assuming it stacks linearly, that's 0.0025m*520 = 130cm taller.
+
+Then I would have the highest vertical in the world by far. Pog
+    Either you eat a lot of ketchup or your ketchup bottles are really really small.
+        I would have significantly more motivation to eat ketchup if I got superpowers from it
+You're not wrong, but the point I'm trying to make is that due to the compounding nature of the 0.5% you would eventually have incredible jump height basically doing nothing. Or nothing out of the ordinary. Any gains beyond that are up to you and how much ketchup you can stomach.
+Hell, just incorporate it into damn near any meal you can, especially if you can't taste it
+Hell, you tried Kewpie?? I dip everything in that bad boy
+wait why don't they use a logarithmic scale? (which is the actual inverse of exponential)
+    Hyperbolic curves have a smoother scaling than logarithmic curves in the same way parabolic curves have smoother scaling than exponential ones.
+        I don't see how that matters at all but 👍
+            It makes the first couple stacks less extreme and the later stacks less useless.
+                so would a logarithmic scale
+                    In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+But a few meters is also way more than necessary, because you would still have to mitigate the fall, so a decent amount of bottles could make everyone professional dunkers.
+I’d want to eat like 500 thousand bottles and jump with a parachute. 
+
+Edit: checked the math and it’s only around 480 thousand bottles! You can possibly go fewer than that but it’s less safe
+[deleted]
+    They said "assuming linear stacking"
+        [deleted]
+            We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+            Because that’s how linear stacking works
+Yes
+    Mix em first, make a stew
+        Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+        You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+            That's closer to in an outs sauce in my understanding.
+                We don't have that franchise in Australia and from looking at their menu we're really missing out
+                    It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+        Or just eat hotdogs on the daily.
+        Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+gotta get a H34D-5T just in case
+Alright, so it's calculation to bonus hight because if never ate ketchup it's 0. I was talking about the whole height. I can't calculate how this would be in my version
+    Just add one so it would be 2-(1/(1+0.005*x))
+I failed calculus
+    I don't know how to add or spel
+        I don't know how to read
+    This is conic sections though, so precalc
+You don't have to eat ketchup more for this to work, just eat it like sauce in normal occasions. + the size of bottle isn't stated, so it can also be super smol baby bottles
+
+Also, falling deals damage instead of slowing your healing. It technically does slow healing, but it's just because you've been damaged
+
+Edit: also, they said that it increases *maximum* hight, which means you *can* jump higher. If you can do something you don't have to do that, you still can jump like a normal human
+    I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+        That way it's fair enough
+    [deleted]
+        I-... I don't get it..?
+Either you eat a lot of ketchup or your ketchup bottles are really really small.
+    I would have significantly more motivation to eat ketchup if I got superpowers from it
+Hyperbolic curves have a smoother scaling than logarithmic curves in the same way parabolic curves have smoother scaling than exponential ones.
+    I don't see how that matters at all but 👍
+        It makes the first couple stacks less extreme and the later stacks less useless.
+            so would a logarithmic scale
+                In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+They said "assuming linear stacking"
+    [deleted]
+        We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+        Because that’s how linear stacking works
+Mix em first, make a stew
+    Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+    You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+        That's closer to in an outs sauce in my understanding.
+            We don't have that franchise in Australia and from looking at their menu we're really missing out
+                It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+    Or just eat hotdogs on the daily.
+    Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+Just add one so it would be 2-(1/(1+0.005*x))
+I don't know how to add or spel
+    I don't know how to read
+This is conic sections though, so precalc
+I think the previous commenter means that since you have diabetes from all the ketchup, you heal the fall damage more slowly
+    That way it's fair enough
+[deleted]
+    I-... I don't get it..?
+I would have significantly more motivation to eat ketchup if I got superpowers from it
+I don't see how that matters at all but 👍
+    It makes the first couple stacks less extreme and the later stacks less useless.
+        so would a logarithmic scale
+            In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+[deleted]
+    We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+    Because that’s how linear stacking works
+Eat 50 mayonnaise bottles then anyone thta walks near you breaks both there legs
+You jest but tomato sauce, Dijon mustard and Mayo along with paprika and a small onion makes a killer burger sauce not too different from a big mac.
+    That's closer to in an outs sauce in my understanding.
+        We don't have that franchise in Australia and from looking at their menu we're really missing out
+            It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+Or just eat hotdogs on the daily.
+Thats just thousand island with a bit of zip to it. Probably wouldn't be all that bad if it can be combined with tendies
+I don't know how to read
+That way it's fair enough
+I-... I don't get it..?
+It makes the first couple stacks less extreme and the later stacks less useless.
+    so would a logarithmic scale
+        In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+We're on the risk of rain subreddit. There's items like goat hooves or crit glasses that stack linearly. [The only item in the game that increases exponentially is shaped glass.](https://riskofrain2.fandom.com/wiki/Items) (Please note increases, all other exponential scaling is applying negative percentages)
+
+So we assume because of the context of the subreddit. But sure, you're correct, if we assume that consuming a bottle of ketchup is a multiplicative change, rather than an additive change to a modifier, then yes, it would be exponential stacking.
+Because that’s how linear stacking works
+That's closer to in an outs sauce in my understanding.
+    We don't have that franchise in Australia and from looking at their menu we're really missing out
+        It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+so would a logarithmic scale
+    In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+We don't have that franchise in Australia and from looking at their menu we're really missing out
+    It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.
+In comparison to a logarithmic scale, the first couple stacks are less extreme and the later stacks are less useless.
+It's pretty dank, especially if you order "animal style." Nothing hugely special, but definitely one of my favorite cheap burger places.

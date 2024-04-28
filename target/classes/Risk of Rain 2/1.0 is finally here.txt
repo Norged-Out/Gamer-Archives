@@ -1,0 +1,667 @@
+[[1.0 is finally here]]
+
+
+
+
+
+Known issues: lore isn’t complete ;-;
+    No alt secondary for huntress :(
+
+I love the glaive but i want to see what they come up with for the alt skill
+        The glaive is so god damn good that they need to come up with something equal for it to be of any use developing it lol
+            Maybe another glaive but different. More bounces but less bounce distance. Or bouncing sets targets on fire.
+                Hits an initial target and sends up to 5 glaives to nearby enemies that dont bounce for a slightly higher damage, which considers the default glaives higher damage per bounce
+                    Nice idea
+                    Less damage, but bounces one extra time per cit bounce, up to 12.
+                They probably want it to be a bit more unique than just a slightly different glaive.
+                    It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+                        Like something similar to the crowd funder, but a non-money-draining ability instead?
+                            More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+                                I'm sorry but I have no idea what that is. I think I get the idea though.
+                                    Mans never seen Guardians of the Galaxy, what a shame.
+                                    Half life 2 rocket launcher
+                        I’d be down with a wire-guided missile
+                Would love some sort of talent system to customize skills more just like this
+                Split-glaive: instead of bouncing, the glaive breaks and splits into two smaller glaives when it hits an enemy.  Each smaller glaive deals 50% of the damage the "parent" glaive had.  The glaives can split infinitely, with damage decreasing as the number of glaives increases, but the glaives are not able to target the same enemy twice.
+
+This would make the alt-skill very good at spreading DoT effects with the trade-off being much lower single-target damage due to the decreasing on-hit damage and inability for a target to be hit more than once.
+            Cluster bomb from the first game
+            They could give her something that’s functionally a shotgun for example, for better single target damage early on.
+
+Like throwing 10 throwing knives at once or something, there’s ways to make it functionally a shotgun without being entirely off-theme for her
+            Maybe a glaive that shatters and hits everything in bounce range but doesn't keep bouncing
+            Fair enough but its still sad to see
+            Glaive that spins on spot. Would be a lot of fun tbh
+            Here's a question. I tend to use Huntress' secondary primary weapon, but I don't know why. Can someone tell me scenarios where each one is better?
+                Scenarios in which her first primary is better.
+
+1.  You haven't unlocked her alternate primary.
+
+That's it.  Otherwise, her alt is better.  It's got a faintly faster base attack speed (.7 second compared to 1 second, or base 214% DPS compared to base 300% DPS on the alternate), that is more than made up for in the multi-shot, let alone it's 4x synergy with crit effects.  They both overall have the same proc coeffecient per second before crit, but after you get any crit at all the alternate has a higher proc co-effecient.
+        Bring back explosive arrow
+        [deleted]
+            Wish theyd take her alt special and make it the alt utility amd reduce the damage or something then make a new special. Also Rex alt special when? Probably my favorite survivor aside from huntress and its sad to not see it happen.
+
+Lets not bring mul-T into this the poor guy is just devastated he didnt get a single alt skill
+        There’s no alt secondary for huntress because no one would use it lol
+            Could provide more of a challenge to players and who knows with proper adjustment could be a viable alternative
+                I guess, it would have to be pretty strong to rival the glaive though. It’s kind of the huntress bread and butter
+                    I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+                        Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+                            Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+        Nothing is enough for some people. In RoR1 we didn’t have secondaries, and we liked it. We also walked uphill both ways in the snow to the teleporter in Ancient Valley.
+            As good as huntress' skills are, for the last how many months ive played the game i saw a wrench where an alt secondary *couldve* been, indicating that was in the works, and i just had my hopes up and am a little sad, but we'll survive
+    Known issue: Plant demands sacrifice
+I love this game, and this is hilarious, but I'm still pissed that my friend and I lost our first run getting to the last level because I got stuck on the island. They really need to fix that bug.
+    The one right before the arena right?
+        The one on the left doesn't have a way to return without double jump or high mobility. That level in general needs a lot of mobility items to be traversed tbh
+            Yea my engg friend had to give up 20 items to get enough hoppos to hip back up
+    Yeah it seems weird that there's a hard barrier at the end that can fuck you if you don't have enough mobility items. And also fuck the whole team if ONE GUY gets stuck.
+    Ot is it intentional to lure in the greedy ones (like myself) ?
+        No, you can come back if you fall close enough to the beginning of the map, but i don't think that Commando without mobility item can do it tho
+    If you can't get off the island you probably can't beat the end anyway but it should still be fixed.
+        That’s what I thought too but I was still able to beat the boss as Engi with only one wax quail and two hopoo feathers
+    It been fixed
+I love Hopoo. They never take themselves too seriously.
+    And are amazing devs on top of that
+    They still have that /agdg/ spark in them
+It's a feture that if you use a single scrap at the lunar cauldrons it will give you a red without taking any items
+    I just had this happen to me, and I was very confused. Now I might have to do it on purpose next time.
+    Does it have to be blue scrap? Or any scrap?
+        Correct scrap color, so green scrap for free red.
+
+You also need to have enough items, of the right category, so you still need 5 total greens for a free red.
+
+And it will take upto the "right" amount of scrap, so bringing more than 1 green/white scrap to the bazaar is a waste
+        You cannot turn Lunars into scrap, scrap color is specific to its color tier. Green scrap = green items, red = red items, etc.
+    Wait I don’t understand exactly what you mean… I only need a single scrap? I thought you needed five greens
+The boss is amazing but the lead-up to it is a bit of a let-down. The first game's lead-up was extremely intense with the timed gates and loot rooms bur it just feels... barren. Maybe this is intentional, given the themes of nothingness and stuff? Still wish there was more.
+    I actually really like the lead up. It's eerie, blank, and you can just tell some shit is coming up.
+
+The side shops there, however, are bugged. Its impossible to get back up if you don't have flight/jumps/mobility.
+    Have you beaten the boss yet? I don’t wanna spoil anything
+        not yet, will return when i have. maybe my opinion will change then haha
+
+edit: beat the boss, I get it now but it still doesn't excuse the first part of the lv being boring esp w/ low mobility. they could still put stuff to do - ex maybe the bridges are fucked and you have to charge beacons to repair them ala the first RoR's doors or something idk. maybe gravity fuckery that makes getting there a bit more interesting like the distortion world from pokemon platinum or something could be neat.
+            Without spoiling too much, there's a reason why it's long and empty.
+                yeah that's kind of what I figured, I just miss the impending-doom-but-chill vibe of the Risk of Rain level. I guess a sequel shouldn't be an exact copy of the first game and hot damn the boss is fucking awesome - gives chronobauble a use haha
+                    One chronobauble is a must take for me ever since death mark arrived
+                Is the reason in the log books for the final area and/or final boss?
+                    The reason they're talking about is much more literal. You find out after you beat the boss.
+                        Alright, I must have completely missed that when I beat the boss. What's the reason?
+                            The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+                                Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+    I know im 2 yars later - they fixed the lead-up about a year ago :)
+        yeah its absolutely incredible now
+    I think it's mostly because they want to pull most of the focus towards the boss, because hot damn that fight is so damn good
+Aw yeah merc going through walls is intentional
+    I've actually encountered more issues after the update than with 4 months of early access. Nothing game breaking tho
+        Thats what big updates do
+    All characters with a dash can pull that off. You can also use the egg ti clip anywhere as well
+I got teleported to a floating island when I fel off the map with no way back to the main part of the map during the ENDING SEQUENCE but go off
+I mean one oversight is the devs forgot to put a jump pad at the final boss level where all the green and red items are
+So Captain not being able to use his beacon in hidden realms is intentional?
+    Might make sense! The beacon thing is related to ship orbitting the planet (I think? Haven't played as him yet) and like, hidden realms are *hidden* and possibly in different dimensions sort of
+        The problem comes when you pick up strides of heresy and your ability still doesn't work in hidden realms.
+        I mean, they've never really had gameplay line up with the lore before
+        I understand that it makes sense thematically , but still I think the mechanics and gameplay of RoR2 is much more important than realism.and lore
+        So? You can still use them indoors on certain maps.
+        Using Lore to justify an objectively bad mechanic in a game is one of the most absurd things I have ever heard in my life. This is a fucking action rogue-like game, not some hardcore realism survival simulator where you need to do stuff like eat and sleep in-game or you die. Miss me with that anti-fun bullshit.
+            Damn you got nuked with downvotes lol. I agree with you, though I probably wouldn't put it as harshly as you. It is prob a bug but we'll have to see.
+            you sound pretty anti fun yourself
+            Please insert $2 into the swear jar good sir! This helps to fund the hugs you desperately need!
+            I mean yeah you're right but no need to be this angry lmao
+    If you mouse over the abilities in the hidden realms, it says something like "cannot connect to ship" so I'm assuming its intentional.
+    Captain also can't use gorgos opus for some reason.
+    It's probably because the hack beacon makes stuff free, and they didn't want you to get 5 free lunar items
+
+So they just disabled the whole ability, and like someone else said the realm *is* hidden after all
+So, to NOT go to the final level I have to do the Artifact thingie or there's a normal teleport? I couldn't find a normal one when I wanted to loop more
+    you have to realign the 5th stage's teleporter, interact with the pillars surrounding the teleporter before hitting the center.
+    slight spoiler: >!you can also use a newt altar/blue portal and then
+ pick an exit besides the final level at the bazaar!<
+
+edit: turns out this isn't necessary -- you can enable looping
+        It's because in ROR1 you can just choose, to end loop or to continue, here it seems you have to do other stuff... It's jsut weird
+            I just read a few minutes ago that there's stones you can interact with next to the teleporter to enable looping.
+
+
+I didn't notice them despite playing all day, lol
+                Yeah I had to look that up myself. To go on to the final level you activate the teleporter center but to loop you activate the edge first
+They didnt deliver on the secondaries...
+
+I hope they're updated. I love the fight with the last boss and want more.
+Opening ROR2
+
+Get hit with 20 achievements 
+
+fucking litttttttttttttt
+known issues: merc secondary ult still impossible to unlock :(
+the new drums equipment and gesture lag the game
+    That's nothing compared to Gesture-Soulbound Catalyst-Forgive-Me-Nots combo.
+
+SBC and Forgive Me Not can scale to an infinite function where you gain more CDR per use than it's overall CD, and Gesture forces it to go off on CD.  Each cast causes more cast that steadily makes it so you're producing an infinite number of the Forgive Me Nots per second.
+
+It should work at just 1 of each of the listed items, but if not, any extra CDR will get it the rest of the way there to self-sustaining and accelerate the infinite growth function.
+
+Even if you don't get Gesture, you can stack a few Fuel Cells and hit an infinite growth function that is only gated by how fast you can input the active item command.  At least you can stop casting so your frames come back after a few seconds.
+        [https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg](https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg)
+
+Here's what it looks like when you do a big fucken oopsie and combo your game into crash.
+        I'm trying this right now and nobody can stop me
+comedy island
+I’m actually pretty disappointed with 1.0 given how great the game has been prior to this point. Last level is both underwhelming and broken af, and I am hearing that the new character has a weird gimmick that makes him not fun to play due to having his abilities restricted depending on stage.
+    If you try and go to any of the hidden areas (not normal stages) you can’t use his shift or alt. 
+
+That being said, his primary especially but also his secondary are both extremely satisfying.
+        If you stack the right items you dont need anything but S H O T G U N to kill. Enough on hit effects and shit just dies
+        Ok, good to know. Thanks!
+Has anyone had any luck with the dedicated server?
+Aside all other issues, the one that is most annoying is multiplayer. They made some good looking matchmaking menu, but as of now you can't join random lobbies. Filtering doesn't work and you can only join as spectator already ongoing games.
+And they made a softlock situation on the last level -\_-
+There’s that bug with Brass contraption corpses where if you smack them as acrid loader or mercenary it rapidly plays the hit effect and sound and it destroys your ears
+Funny, i thought moon\`s powerup exchange island SOFTLOCK was a issue.
+[deleted]
+    Agree completely. Why would you put a long, empty, monotonous linear boring nothing of a stage at the end of a game designed for high replayability? It's an extremely confusing design choice.
+        My friends and I think it's cool. It feels epic. Great homage to ror1.
+        The last level is designed to bring a very specific feeling to players, it is supposed to feel barren and empty. “King of Nothing” and all that
+        Have you beaten the boss yet?
+
+EDIT: END GAME SPOILERS BELOW
+            The run back doesn't really do anything to make the final level interesting. The hazards aren't dangerous enough for it to be challenging and it's not interesting enough to look at to be much of a spectacle. It's basically just going back the way you came, but maybe a bit faster.
+                I thought the run made it interesting, especially with all the chaos happening and the countdown.
+    I’m confused af and don’t know if ur being serious or not...
+
+But me and all my friends loved the final map and especially the boss fight.
+        [deleted]
+            It does if you've played RoR 1
+                How so? (I haven't played ROR1)
+                    It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+                        [deleted]
+                            No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+                                Temple of the elders equivalent in this game is actually Sky meadow.
+                                    Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+    The last level sets a very specific theme for the upcoming fight, and it sets up the theme well. “King of nothing” after all
+At work right now I’m excited to get home and play this. Haven’t been on ror2 for a few months.
+I'm fuckin dead, this is hilarious
+They deserve it
+has anyone found the red item that shows up between deskplant and scrap in the logbook? it doesn't show up with command for me. I thought it might be the elite aspects but i got the ice one and the log didn't unlock.
+    People are saying that it's the Captains microbots. 
+
+And apparently, to unlock it, use Doppelganger artifact, pick up no items, kill your doppelganger, pick up microbots.
+
+Havent tested it myself tho
+EDIT: seems like its supposedly a normal legendary item if you are not playing the Captain. According to the wikis
+I found a visual glitch
+Guys, haven't played the game in a while. Is it still as repetitive as it was before this update?
+Getting stuck at the last level was definitely a problem, still love the game tho but plz fix
+aw yea, with all the issues that 1.0 brought, such as the final boss phase, the captain not working in void fields, the hud being pixelated, the insurmountable shop, and many others, thats what i call a perfect game
+
+(but in all seriousness the game is damn near perfect anyway, just some issues that need fixing)
+    Captain’s abilities isn’t an issue though
+[deleted]
+    Touch the obelisk only once and a portal shows up to the lower right.
+[deleted]
+    That sounds like a you problem, I play on pc with controller with no issues, no unplugging necessary.
+        [deleted]
+            But your the only one with this issue? It does not appear to be a widespread issue. You're going to have to solve it yourself, because it works perfectly for most and we don't know your computer.
+                It may not be a "wide spread" issue, but people with sim racing/flying setups (Myself included) have to unplug everything for the game to work properly. I also have to reboot my PC before and after playing. The game soft-locks at the main menu if it detects a controller input from something that isn't a traditional controller. So before you go being a dick about it, maybe look into it more? Also just because it "work's perfectly for most" doesn't make it okay. It's a known issue that some of us have to deal with.
+the boss in a moment, whole is unkillable
+No alt secondary for huntress :(
+
+I love the glaive but i want to see what they come up with for the alt skill
+    The glaive is so god damn good that they need to come up with something equal for it to be of any use developing it lol
+        Maybe another glaive but different. More bounces but less bounce distance. Or bouncing sets targets on fire.
+            Hits an initial target and sends up to 5 glaives to nearby enemies that dont bounce for a slightly higher damage, which considers the default glaives higher damage per bounce
+                Nice idea
+                Less damage, but bounces one extra time per cit bounce, up to 12.
+            They probably want it to be a bit more unique than just a slightly different glaive.
+                It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+                    Like something similar to the crowd funder, but a non-money-draining ability instead?
+                        More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+                            I'm sorry but I have no idea what that is. I think I get the idea though.
+                                Mans never seen Guardians of the Galaxy, what a shame.
+                                Half life 2 rocket launcher
+                    I’d be down with a wire-guided missile
+            Would love some sort of talent system to customize skills more just like this
+            Split-glaive: instead of bouncing, the glaive breaks and splits into two smaller glaives when it hits an enemy.  Each smaller glaive deals 50% of the damage the "parent" glaive had.  The glaives can split infinitely, with damage decreasing as the number of glaives increases, but the glaives are not able to target the same enemy twice.
+
+This would make the alt-skill very good at spreading DoT effects with the trade-off being much lower single-target damage due to the decreasing on-hit damage and inability for a target to be hit more than once.
+        Cluster bomb from the first game
+        They could give her something that’s functionally a shotgun for example, for better single target damage early on.
+
+Like throwing 10 throwing knives at once or something, there’s ways to make it functionally a shotgun without being entirely off-theme for her
+        Maybe a glaive that shatters and hits everything in bounce range but doesn't keep bouncing
+        Fair enough but its still sad to see
+        Glaive that spins on spot. Would be a lot of fun tbh
+        Here's a question. I tend to use Huntress' secondary primary weapon, but I don't know why. Can someone tell me scenarios where each one is better?
+            Scenarios in which her first primary is better.
+
+1.  You haven't unlocked her alternate primary.
+
+That's it.  Otherwise, her alt is better.  It's got a faintly faster base attack speed (.7 second compared to 1 second, or base 214% DPS compared to base 300% DPS on the alternate), that is more than made up for in the multi-shot, let alone it's 4x synergy with crit effects.  They both overall have the same proc coeffecient per second before crit, but after you get any crit at all the alternate has a higher proc co-effecient.
+    Bring back explosive arrow
+    [deleted]
+        Wish theyd take her alt special and make it the alt utility amd reduce the damage or something then make a new special. Also Rex alt special when? Probably my favorite survivor aside from huntress and its sad to not see it happen.
+
+Lets not bring mul-T into this the poor guy is just devastated he didnt get a single alt skill
+    There’s no alt secondary for huntress because no one would use it lol
+        Could provide more of a challenge to players and who knows with proper adjustment could be a viable alternative
+            I guess, it would have to be pretty strong to rival the glaive though. It’s kind of the huntress bread and butter
+                I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+                    Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+                        Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+    Nothing is enough for some people. In RoR1 we didn’t have secondaries, and we liked it. We also walked uphill both ways in the snow to the teleporter in Ancient Valley.
+        As good as huntress' skills are, for the last how many months ive played the game i saw a wrench where an alt secondary *couldve* been, indicating that was in the works, and i just had my hopes up and am a little sad, but we'll survive
+Known issue: Plant demands sacrifice
+The one right before the arena right?
+    The one on the left doesn't have a way to return without double jump or high mobility. That level in general needs a lot of mobility items to be traversed tbh
+        Yea my engg friend had to give up 20 items to get enough hoppos to hip back up
+Yeah it seems weird that there's a hard barrier at the end that can fuck you if you don't have enough mobility items. And also fuck the whole team if ONE GUY gets stuck.
+Ot is it intentional to lure in the greedy ones (like myself) ?
+    No, you can come back if you fall close enough to the beginning of the map, but i don't think that Commando without mobility item can do it tho
+If you can't get off the island you probably can't beat the end anyway but it should still be fixed.
+    That’s what I thought too but I was still able to beat the boss as Engi with only one wax quail and two hopoo feathers
+It been fixed
+And are amazing devs on top of that
+They still have that /agdg/ spark in them
+I just had this happen to me, and I was very confused. Now I might have to do it on purpose next time.
+Does it have to be blue scrap? Or any scrap?
+    Correct scrap color, so green scrap for free red.
+
+You also need to have enough items, of the right category, so you still need 5 total greens for a free red.
+
+And it will take upto the "right" amount of scrap, so bringing more than 1 green/white scrap to the bazaar is a waste
+    You cannot turn Lunars into scrap, scrap color is specific to its color tier. Green scrap = green items, red = red items, etc.
+Wait I don’t understand exactly what you mean… I only need a single scrap? I thought you needed five greens
+I actually really like the lead up. It's eerie, blank, and you can just tell some shit is coming up.
+
+The side shops there, however, are bugged. Its impossible to get back up if you don't have flight/jumps/mobility.
+Have you beaten the boss yet? I don’t wanna spoil anything
+    not yet, will return when i have. maybe my opinion will change then haha
+
+edit: beat the boss, I get it now but it still doesn't excuse the first part of the lv being boring esp w/ low mobility. they could still put stuff to do - ex maybe the bridges are fucked and you have to charge beacons to repair them ala the first RoR's doors or something idk. maybe gravity fuckery that makes getting there a bit more interesting like the distortion world from pokemon platinum or something could be neat.
+        Without spoiling too much, there's a reason why it's long and empty.
+            yeah that's kind of what I figured, I just miss the impending-doom-but-chill vibe of the Risk of Rain level. I guess a sequel shouldn't be an exact copy of the first game and hot damn the boss is fucking awesome - gives chronobauble a use haha
+                One chronobauble is a must take for me ever since death mark arrived
+            Is the reason in the log books for the final area and/or final boss?
+                The reason they're talking about is much more literal. You find out after you beat the boss.
+                    Alright, I must have completely missed that when I beat the boss. What's the reason?
+                        The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+                            Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+I know im 2 yars later - they fixed the lead-up about a year ago :)
+    yeah its absolutely incredible now
+I think it's mostly because they want to pull most of the focus towards the boss, because hot damn that fight is so damn good
+I've actually encountered more issues after the update than with 4 months of early access. Nothing game breaking tho
+    Thats what big updates do
+All characters with a dash can pull that off. You can also use the egg ti clip anywhere as well
+Might make sense! The beacon thing is related to ship orbitting the planet (I think? Haven't played as him yet) and like, hidden realms are *hidden* and possibly in different dimensions sort of
+    The problem comes when you pick up strides of heresy and your ability still doesn't work in hidden realms.
+    I mean, they've never really had gameplay line up with the lore before
+    I understand that it makes sense thematically , but still I think the mechanics and gameplay of RoR2 is much more important than realism.and lore
+    So? You can still use them indoors on certain maps.
+    Using Lore to justify an objectively bad mechanic in a game is one of the most absurd things I have ever heard in my life. This is a fucking action rogue-like game, not some hardcore realism survival simulator where you need to do stuff like eat and sleep in-game or you die. Miss me with that anti-fun bullshit.
+        Damn you got nuked with downvotes lol. I agree with you, though I probably wouldn't put it as harshly as you. It is prob a bug but we'll have to see.
+        you sound pretty anti fun yourself
+        Please insert $2 into the swear jar good sir! This helps to fund the hugs you desperately need!
+        I mean yeah you're right but no need to be this angry lmao
+If you mouse over the abilities in the hidden realms, it says something like "cannot connect to ship" so I'm assuming its intentional.
+Captain also can't use gorgos opus for some reason.
+It's probably because the hack beacon makes stuff free, and they didn't want you to get 5 free lunar items
+
+So they just disabled the whole ability, and like someone else said the realm *is* hidden after all
+you have to realign the 5th stage's teleporter, interact with the pillars surrounding the teleporter before hitting the center.
+slight spoiler: >!you can also use a newt altar/blue portal and then
+ pick an exit besides the final level at the bazaar!<
+
+edit: turns out this isn't necessary -- you can enable looping
+    It's because in ROR1 you can just choose, to end loop or to continue, here it seems you have to do other stuff... It's jsut weird
+        I just read a few minutes ago that there's stones you can interact with next to the teleporter to enable looping.
+
+
+I didn't notice them despite playing all day, lol
+            Yeah I had to look that up myself. To go on to the final level you activate the teleporter center but to loop you activate the edge first
+That's nothing compared to Gesture-Soulbound Catalyst-Forgive-Me-Nots combo.
+
+SBC and Forgive Me Not can scale to an infinite function where you gain more CDR per use than it's overall CD, and Gesture forces it to go off on CD.  Each cast causes more cast that steadily makes it so you're producing an infinite number of the Forgive Me Nots per second.
+
+It should work at just 1 of each of the listed items, but if not, any extra CDR will get it the rest of the way there to self-sustaining and accelerate the infinite growth function.
+
+Even if you don't get Gesture, you can stack a few Fuel Cells and hit an infinite growth function that is only gated by how fast you can input the active item command.  At least you can stop casting so your frames come back after a few seconds.
+    [https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg](https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg)
+
+Here's what it looks like when you do a big fucken oopsie and combo your game into crash.
+    I'm trying this right now and nobody can stop me
+If you try and go to any of the hidden areas (not normal stages) you can’t use his shift or alt. 
+
+That being said, his primary especially but also his secondary are both extremely satisfying.
+    If you stack the right items you dont need anything but S H O T G U N to kill. Enough on hit effects and shit just dies
+    Ok, good to know. Thanks!
+Agree completely. Why would you put a long, empty, monotonous linear boring nothing of a stage at the end of a game designed for high replayability? It's an extremely confusing design choice.
+    My friends and I think it's cool. It feels epic. Great homage to ror1.
+    The last level is designed to bring a very specific feeling to players, it is supposed to feel barren and empty. “King of Nothing” and all that
+    Have you beaten the boss yet?
+
+EDIT: END GAME SPOILERS BELOW
+        The run back doesn't really do anything to make the final level interesting. The hazards aren't dangerous enough for it to be challenging and it's not interesting enough to look at to be much of a spectacle. It's basically just going back the way you came, but maybe a bit faster.
+            I thought the run made it interesting, especially with all the chaos happening and the countdown.
+I’m confused af and don’t know if ur being serious or not...
+
+But me and all my friends loved the final map and especially the boss fight.
+    [deleted]
+        It does if you've played RoR 1
+            How so? (I haven't played ROR1)
+                It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+                    [deleted]
+                        No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+                            Temple of the elders equivalent in this game is actually Sky meadow.
+                                Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+The last level sets a very specific theme for the upcoming fight, and it sets up the theme well. “King of nothing” after all
+People are saying that it's the Captains microbots. 
+
+And apparently, to unlock it, use Doppelganger artifact, pick up no items, kill your doppelganger, pick up microbots.
+
+Havent tested it myself tho
+EDIT: seems like its supposedly a normal legendary item if you are not playing the Captain. According to the wikis
+Captain’s abilities isn’t an issue though
+Touch the obelisk only once and a portal shows up to the lower right.
+That sounds like a you problem, I play on pc with controller with no issues, no unplugging necessary.
+    [deleted]
+        But your the only one with this issue? It does not appear to be a widespread issue. You're going to have to solve it yourself, because it works perfectly for most and we don't know your computer.
+            It may not be a "wide spread" issue, but people with sim racing/flying setups (Myself included) have to unplug everything for the game to work properly. I also have to reboot my PC before and after playing. The game soft-locks at the main menu if it detects a controller input from something that isn't a traditional controller. So before you go being a dick about it, maybe look into it more? Also just because it "work's perfectly for most" doesn't make it okay. It's a known issue that some of us have to deal with.
+The glaive is so god damn good that they need to come up with something equal for it to be of any use developing it lol
+    Maybe another glaive but different. More bounces but less bounce distance. Or bouncing sets targets on fire.
+        Hits an initial target and sends up to 5 glaives to nearby enemies that dont bounce for a slightly higher damage, which considers the default glaives higher damage per bounce
+            Nice idea
+            Less damage, but bounces one extra time per cit bounce, up to 12.
+        They probably want it to be a bit more unique than just a slightly different glaive.
+            It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+                Like something similar to the crowd funder, but a non-money-draining ability instead?
+                    More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+                        I'm sorry but I have no idea what that is. I think I get the idea though.
+                            Mans never seen Guardians of the Galaxy, what a shame.
+                            Half life 2 rocket launcher
+                I’d be down with a wire-guided missile
+        Would love some sort of talent system to customize skills more just like this
+        Split-glaive: instead of bouncing, the glaive breaks and splits into two smaller glaives when it hits an enemy.  Each smaller glaive deals 50% of the damage the "parent" glaive had.  The glaives can split infinitely, with damage decreasing as the number of glaives increases, but the glaives are not able to target the same enemy twice.
+
+This would make the alt-skill very good at spreading DoT effects with the trade-off being much lower single-target damage due to the decreasing on-hit damage and inability for a target to be hit more than once.
+    Cluster bomb from the first game
+    They could give her something that’s functionally a shotgun for example, for better single target damage early on.
+
+Like throwing 10 throwing knives at once or something, there’s ways to make it functionally a shotgun without being entirely off-theme for her
+    Maybe a glaive that shatters and hits everything in bounce range but doesn't keep bouncing
+    Fair enough but its still sad to see
+    Glaive that spins on spot. Would be a lot of fun tbh
+    Here's a question. I tend to use Huntress' secondary primary weapon, but I don't know why. Can someone tell me scenarios where each one is better?
+        Scenarios in which her first primary is better.
+
+1.  You haven't unlocked her alternate primary.
+
+That's it.  Otherwise, her alt is better.  It's got a faintly faster base attack speed (.7 second compared to 1 second, or base 214% DPS compared to base 300% DPS on the alternate), that is more than made up for in the multi-shot, let alone it's 4x synergy with crit effects.  They both overall have the same proc coeffecient per second before crit, but after you get any crit at all the alternate has a higher proc co-effecient.
+Bring back explosive arrow
+[deleted]
+    Wish theyd take her alt special and make it the alt utility amd reduce the damage or something then make a new special. Also Rex alt special when? Probably my favorite survivor aside from huntress and its sad to not see it happen.
+
+Lets not bring mul-T into this the poor guy is just devastated he didnt get a single alt skill
+There’s no alt secondary for huntress because no one would use it lol
+    Could provide more of a challenge to players and who knows with proper adjustment could be a viable alternative
+        I guess, it would have to be pretty strong to rival the glaive though. It’s kind of the huntress bread and butter
+            I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+                Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+                    Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+Nothing is enough for some people. In RoR1 we didn’t have secondaries, and we liked it. We also walked uphill both ways in the snow to the teleporter in Ancient Valley.
+    As good as huntress' skills are, for the last how many months ive played the game i saw a wrench where an alt secondary *couldve* been, indicating that was in the works, and i just had my hopes up and am a little sad, but we'll survive
+The one on the left doesn't have a way to return without double jump or high mobility. That level in general needs a lot of mobility items to be traversed tbh
+    Yea my engg friend had to give up 20 items to get enough hoppos to hip back up
+No, you can come back if you fall close enough to the beginning of the map, but i don't think that Commando without mobility item can do it tho
+That’s what I thought too but I was still able to beat the boss as Engi with only one wax quail and two hopoo feathers
+Correct scrap color, so green scrap for free red.
+
+You also need to have enough items, of the right category, so you still need 5 total greens for a free red.
+
+And it will take upto the "right" amount of scrap, so bringing more than 1 green/white scrap to the bazaar is a waste
+You cannot turn Lunars into scrap, scrap color is specific to its color tier. Green scrap = green items, red = red items, etc.
+not yet, will return when i have. maybe my opinion will change then haha
+
+edit: beat the boss, I get it now but it still doesn't excuse the first part of the lv being boring esp w/ low mobility. they could still put stuff to do - ex maybe the bridges are fucked and you have to charge beacons to repair them ala the first RoR's doors or something idk. maybe gravity fuckery that makes getting there a bit more interesting like the distortion world from pokemon platinum or something could be neat.
+    Without spoiling too much, there's a reason why it's long and empty.
+        yeah that's kind of what I figured, I just miss the impending-doom-but-chill vibe of the Risk of Rain level. I guess a sequel shouldn't be an exact copy of the first game and hot damn the boss is fucking awesome - gives chronobauble a use haha
+            One chronobauble is a must take for me ever since death mark arrived
+        Is the reason in the log books for the final area and/or final boss?
+            The reason they're talking about is much more literal. You find out after you beat the boss.
+                Alright, I must have completely missed that when I beat the boss. What's the reason?
+                    The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+                        Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+yeah its absolutely incredible now
+Thats what big updates do
+The problem comes when you pick up strides of heresy and your ability still doesn't work in hidden realms.
+I mean, they've never really had gameplay line up with the lore before
+I understand that it makes sense thematically , but still I think the mechanics and gameplay of RoR2 is much more important than realism.and lore
+So? You can still use them indoors on certain maps.
+Using Lore to justify an objectively bad mechanic in a game is one of the most absurd things I have ever heard in my life. This is a fucking action rogue-like game, not some hardcore realism survival simulator where you need to do stuff like eat and sleep in-game or you die. Miss me with that anti-fun bullshit.
+    Damn you got nuked with downvotes lol. I agree with you, though I probably wouldn't put it as harshly as you. It is prob a bug but we'll have to see.
+    you sound pretty anti fun yourself
+    Please insert $2 into the swear jar good sir! This helps to fund the hugs you desperately need!
+    I mean yeah you're right but no need to be this angry lmao
+It's because in ROR1 you can just choose, to end loop or to continue, here it seems you have to do other stuff... It's jsut weird
+    I just read a few minutes ago that there's stones you can interact with next to the teleporter to enable looping.
+
+
+I didn't notice them despite playing all day, lol
+        Yeah I had to look that up myself. To go on to the final level you activate the teleporter center but to loop you activate the edge first
+[https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg](https://i.gyazo.com/99bba3c59b7e40030b4be26d0e1aa6bc.jpg)
+
+Here's what it looks like when you do a big fucken oopsie and combo your game into crash.
+I'm trying this right now and nobody can stop me
+If you stack the right items you dont need anything but S H O T G U N to kill. Enough on hit effects and shit just dies
+Ok, good to know. Thanks!
+My friends and I think it's cool. It feels epic. Great homage to ror1.
+The last level is designed to bring a very specific feeling to players, it is supposed to feel barren and empty. “King of Nothing” and all that
+Have you beaten the boss yet?
+
+EDIT: END GAME SPOILERS BELOW
+    The run back doesn't really do anything to make the final level interesting. The hazards aren't dangerous enough for it to be challenging and it's not interesting enough to look at to be much of a spectacle. It's basically just going back the way you came, but maybe a bit faster.
+        I thought the run made it interesting, especially with all the chaos happening and the countdown.
+[deleted]
+    It does if you've played RoR 1
+        How so? (I haven't played ROR1)
+            It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+                [deleted]
+                    No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+                        Temple of the elders equivalent in this game is actually Sky meadow.
+                            Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+[deleted]
+    But your the only one with this issue? It does not appear to be a widespread issue. You're going to have to solve it yourself, because it works perfectly for most and we don't know your computer.
+        It may not be a "wide spread" issue, but people with sim racing/flying setups (Myself included) have to unplug everything for the game to work properly. I also have to reboot my PC before and after playing. The game soft-locks at the main menu if it detects a controller input from something that isn't a traditional controller. So before you go being a dick about it, maybe look into it more? Also just because it "work's perfectly for most" doesn't make it okay. It's a known issue that some of us have to deal with.
+Maybe another glaive but different. More bounces but less bounce distance. Or bouncing sets targets on fire.
+    Hits an initial target and sends up to 5 glaives to nearby enemies that dont bounce for a slightly higher damage, which considers the default glaives higher damage per bounce
+        Nice idea
+        Less damage, but bounces one extra time per cit bounce, up to 12.
+    They probably want it to be a bit more unique than just a slightly different glaive.
+        It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+            Like something similar to the crowd funder, but a non-money-draining ability instead?
+                More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+                    I'm sorry but I have no idea what that is. I think I get the idea though.
+                        Mans never seen Guardians of the Galaxy, what a shame.
+                        Half life 2 rocket launcher
+            I’d be down with a wire-guided missile
+    Would love some sort of talent system to customize skills more just like this
+    Split-glaive: instead of bouncing, the glaive breaks and splits into two smaller glaives when it hits an enemy.  Each smaller glaive deals 50% of the damage the "parent" glaive had.  The glaives can split infinitely, with damage decreasing as the number of glaives increases, but the glaives are not able to target the same enemy twice.
+
+This would make the alt-skill very good at spreading DoT effects with the trade-off being much lower single-target damage due to the decreasing on-hit damage and inability for a target to be hit more than once.
+Cluster bomb from the first game
+They could give her something that’s functionally a shotgun for example, for better single target damage early on.
+
+Like throwing 10 throwing knives at once or something, there’s ways to make it functionally a shotgun without being entirely off-theme for her
+Maybe a glaive that shatters and hits everything in bounce range but doesn't keep bouncing
+Fair enough but its still sad to see
+Glaive that spins on spot. Would be a lot of fun tbh
+Here's a question. I tend to use Huntress' secondary primary weapon, but I don't know why. Can someone tell me scenarios where each one is better?
+    Scenarios in which her first primary is better.
+
+1.  You haven't unlocked her alternate primary.
+
+That's it.  Otherwise, her alt is better.  It's got a faintly faster base attack speed (.7 second compared to 1 second, or base 214% DPS compared to base 300% DPS on the alternate), that is more than made up for in the multi-shot, let alone it's 4x synergy with crit effects.  They both overall have the same proc coeffecient per second before crit, but after you get any crit at all the alternate has a higher proc co-effecient.
+Wish theyd take her alt special and make it the alt utility amd reduce the damage or something then make a new special. Also Rex alt special when? Probably my favorite survivor aside from huntress and its sad to not see it happen.
+
+Lets not bring mul-T into this the poor guy is just devastated he didnt get a single alt skill
+Could provide more of a challenge to players and who knows with proper adjustment could be a viable alternative
+    I guess, it would have to be pretty strong to rival the glaive though. It’s kind of the huntress bread and butter
+        I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+            Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+                Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+As good as huntress' skills are, for the last how many months ive played the game i saw a wrench where an alt secondary *couldve* been, indicating that was in the works, and i just had my hopes up and am a little sad, but we'll survive
+Yea my engg friend had to give up 20 items to get enough hoppos to hip back up
+Without spoiling too much, there's a reason why it's long and empty.
+    yeah that's kind of what I figured, I just miss the impending-doom-but-chill vibe of the Risk of Rain level. I guess a sequel shouldn't be an exact copy of the first game and hot damn the boss is fucking awesome - gives chronobauble a use haha
+        One chronobauble is a must take for me ever since death mark arrived
+    Is the reason in the log books for the final area and/or final boss?
+        The reason they're talking about is much more literal. You find out after you beat the boss.
+            Alright, I must have completely missed that when I beat the boss. What's the reason?
+                The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+                    Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+Damn you got nuked with downvotes lol. I agree with you, though I probably wouldn't put it as harshly as you. It is prob a bug but we'll have to see.
+you sound pretty anti fun yourself
+Please insert $2 into the swear jar good sir! This helps to fund the hugs you desperately need!
+I mean yeah you're right but no need to be this angry lmao
+I just read a few minutes ago that there's stones you can interact with next to the teleporter to enable looping.
+
+
+I didn't notice them despite playing all day, lol
+    Yeah I had to look that up myself. To go on to the final level you activate the teleporter center but to loop you activate the edge first
+The run back doesn't really do anything to make the final level interesting. The hazards aren't dangerous enough for it to be challenging and it's not interesting enough to look at to be much of a spectacle. It's basically just going back the way you came, but maybe a bit faster.
+    I thought the run made it interesting, especially with all the chaos happening and the countdown.
+It does if you've played RoR 1
+    How so? (I haven't played ROR1)
+        It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+            [deleted]
+                No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+                    Temple of the elders equivalent in this game is actually Sky meadow.
+                        Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+But your the only one with this issue? It does not appear to be a widespread issue. You're going to have to solve it yourself, because it works perfectly for most and we don't know your computer.
+    It may not be a "wide spread" issue, but people with sim racing/flying setups (Myself included) have to unplug everything for the game to work properly. I also have to reboot my PC before and after playing. The game soft-locks at the main menu if it detects a controller input from something that isn't a traditional controller. So before you go being a dick about it, maybe look into it more? Also just because it "work's perfectly for most" doesn't make it okay. It's a known issue that some of us have to deal with.
+Hits an initial target and sends up to 5 glaives to nearby enemies that dont bounce for a slightly higher damage, which considers the default glaives higher damage per bounce
+    Nice idea
+    Less damage, but bounces one extra time per cit bounce, up to 12.
+They probably want it to be a bit more unique than just a slightly different glaive.
+    It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+        Like something similar to the crowd funder, but a non-money-draining ability instead?
+            More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+                I'm sorry but I have no idea what that is. I think I get the idea though.
+                    Mans never seen Guardians of the Galaxy, what a shame.
+                    Half life 2 rocket launcher
+        I’d be down with a wire-guided missile
+Would love some sort of talent system to customize skills more just like this
+Split-glaive: instead of bouncing, the glaive breaks and splits into two smaller glaives when it hits an enemy.  Each smaller glaive deals 50% of the damage the "parent" glaive had.  The glaives can split infinitely, with damage decreasing as the number of glaives increases, but the glaives are not able to target the same enemy twice.
+
+This would make the alt-skill very good at spreading DoT effects with the trade-off being much lower single-target damage due to the decreasing on-hit damage and inability for a target to be hit more than once.
+Scenarios in which her first primary is better.
+
+1.  You haven't unlocked her alternate primary.
+
+That's it.  Otherwise, her alt is better.  It's got a faintly faster base attack speed (.7 second compared to 1 second, or base 214% DPS compared to base 300% DPS on the alternate), that is more than made up for in the multi-shot, let alone it's 4x synergy with crit effects.  They both overall have the same proc coeffecient per second before crit, but after you get any crit at all the alternate has a higher proc co-effecient.
+I guess, it would have to be pretty strong to rival the glaive though. It’s kind of the huntress bread and butter
+    I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+        Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+            Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+yeah that's kind of what I figured, I just miss the impending-doom-but-chill vibe of the Risk of Rain level. I guess a sequel shouldn't be an exact copy of the first game and hot damn the boss is fucking awesome - gives chronobauble a use haha
+    One chronobauble is a must take for me ever since death mark arrived
+Is the reason in the log books for the final area and/or final boss?
+    The reason they're talking about is much more literal. You find out after you beat the boss.
+        Alright, I must have completely missed that when I beat the boss. What's the reason?
+            The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+                Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+Yeah I had to look that up myself. To go on to the final level you activate the teleporter center but to loop you activate the edge first
+I thought the run made it interesting, especially with all the chaos happening and the countdown.
+How so? (I haven't played ROR1)
+    It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+        [deleted]
+            No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+                Temple of the elders equivalent in this game is actually Sky meadow.
+                    Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+It may not be a "wide spread" issue, but people with sim racing/flying setups (Myself included) have to unplug everything for the game to work properly. I also have to reboot my PC before and after playing. The game soft-locks at the main menu if it detects a controller input from something that isn't a traditional controller. So before you go being a dick about it, maybe look into it more? Also just because it "work's perfectly for most" doesn't make it okay. It's a known issue that some of us have to deal with.
+Nice idea
+Less damage, but bounces one extra time per cit bounce, up to 12.
+It would be pretty dank to have a projectile follow your cursor, but I have no idea how that would be implemented
+    Like something similar to the crowd funder, but a non-money-draining ability instead?
+        More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+            I'm sorry but I have no idea what that is. I think I get the idea though.
+                Mans never seen Guardians of the Galaxy, what a shame.
+                Half life 2 rocket launcher
+    I’d be down with a wire-guided missile
+I had a comment in the replies of this thread, maybe something on this line could be a viable alternative? Just an idea I had
+
+https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g16vaaq?utm_source=share&utm_medium=web2x
+    Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+        Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+One chronobauble is a must take for me ever since death mark arrived
+The reason they're talking about is much more literal. You find out after you beat the boss.
+    Alright, I must have completely missed that when I beat the boss. What's the reason?
+        The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+            Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+It's very similar to the stage before the final boss in RoR 1 and includes enemies from that stage.
+    [deleted]
+        No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+            Temple of the elders equivalent in this game is actually Sky meadow.
+                Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+Like something similar to the crowd funder, but a non-money-draining ability instead?
+    More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+        I'm sorry but I have no idea what that is. I think I get the idea though.
+            Mans never seen Guardians of the Galaxy, what a shame.
+            Half life 2 rocket launcher
+I’d be down with a wire-guided missile
+Eh, I mean with her current alt special and normal M2 she has good aoe and good single target damage. One of the only characters who can do both really well, if you replace the m2 with her alt special she’s too single target focused and can’t deal with groups
+    Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+Alright, I must have completely missed that when I beat the boss. What's the reason?
+    The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+        Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+[deleted]
+    No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+        Temple of the elders equivalent in this game is actually Sky meadow.
+            Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+More akin to Yondu's arrow, where it tracks where you look, rather than another gun of sorts
+    I'm sorry but I have no idea what that is. I think I get the idea though.
+        Mans never seen Guardians of the Galaxy, what a shame.
+        Half life 2 rocket launcher
+Oh my bad i linked the wrong post... I was talking about artificer in that post. Ill find the correct one and post it here, sorry
+
+Link to the alt secondary for huntress post https://www.reddit.com/r/riskofrain/comments/i7v6ve/10_is_finally_here/g15txa0?utm_source=share&utm_medium=web2x
+The metroid escape sequence following the fight is why the entrence to the fight is so long. I really enjoy the boss fight itself, I can't say I'm a massive fan of the start and end of the level.
+    Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+No, I am not talking about the Contact Light. Temple of the Elders is in fact *not* the Contact Light.
+    Temple of the elders equivalent in this game is actually Sky meadow.
+        Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+I'm sorry but I have no idea what that is. I think I get the idea though.
+    Mans never seen Guardians of the Galaxy, what a shame.
+    Half life 2 rocket launcher
+Ah ok, that makes sense. Would have been a moot escape sequence if it was just a short walk from the arena lol.
+Temple of the elders equivalent in this game is actually Sky meadow.
+    Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
+Mans never seen Guardians of the Galaxy, what a shame.
+Half life 2 rocket launcher
+Lol what? RoR 2's final stage has bridges and a colosseum and the enemies are from RoR 1. It is definitely Temple of the Elders reimagined in RoR 2.
