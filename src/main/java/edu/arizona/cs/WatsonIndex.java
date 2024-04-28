@@ -61,8 +61,7 @@ public class WatsonIndex {
         analyzerV3 = CustomAnalyzer.builder()
                     .withTokenizer("standard")
                     .addTokenFilter("lowercase")
-                    .addTokenFilter("stop", "ignoreCase", "false", 
-                    "words", "stopwords.txt", "format", "wordset")
+                    .addTokenFilter("stop", "ignoreCase", "true", "words", "stopwords.txt", "format", "wordset")
                     .addTokenFilter("porterstem")
                     .build();
         config = new IndexWriterConfig(analyzerV3);
