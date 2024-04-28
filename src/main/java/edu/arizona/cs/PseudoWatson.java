@@ -1,6 +1,7 @@
 package edu.arizona.cs;
+import org.apache.lucene.analysis.custom.CustomAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-//import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -32,8 +33,9 @@ public class PseudoWatson {
 
     boolean indexExists = false;
     String indexFilePath = "";
-    //StandardAnalyzer analyzer = null; // Not using it anymore
-    EnglishAnalyzer analyzer = null;  // This is better for parsing English text
+    StandardAnalyzer analyzerV1 = null; // Not using it anymore
+    EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
+    CustomAnalyzer analyzerV3 = null; // Custom Analyzer for improved parsing
     Directory index = null;
     //IndexWriterConfig config = null;
     IndexWriter writer = null;
@@ -45,9 +47,18 @@ public class PseudoWatson {
      */
     public PseudoWatson(String inputFile) {
         indexFilePath = inputFile;
-        analyzer = new EnglishAnalyzer();
-        //analyzer = new StandardAnalyzer();
+        //analyzerV1 = new StandardAnalyzer();
+        analyzerV2 = new EnglishAnalyzer();
+        
         try {
+            // Custom Analyzer for improved parsing
+            analyzerV3 = CustomAnalyzer.builder()
+                        .withTokenizer("standard")
+                        .addTokenFilter("lowercase")
+                        .addTokenFilter("stop", "ignoreCase", "false", 
+                        "words", "stopwords.txt", "format", "wordset")
+                        .addTokenFilter("porterstem")
+                        .build();
             index = FSDirectory.open(Paths.get(indexFilePath));
         } catch (IOException e) {
             e.printStackTrace();
@@ -73,7 +84,7 @@ public class PseudoWatson {
      */
     private List<ResultClass> runQuery(String query) throws ParseException, IOException{
         List<ResultClass>  results = new ArrayList<ResultClass>();
-        parser = new QueryParser("docContent", analyzer);
+        parser = new QueryParser("docContent", analyzerV3);
         Query q = parser.parse(query);
         //System.out.println("Query: " + q.toString());
         IndexReader reader = DirectoryReader.open(index);

@@ -1,7 +1,8 @@
 
 package edu.arizona.cs;
+import org.apache.lucene.analysis.custom.CustomAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-//import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
@@ -29,8 +30,9 @@ import java.util.List;
 public class WatsonIndex {
     boolean indexExists = false;
     String indexFilePath = "";
-    //StandardAnalyzer analyzer = null; // Not using it anymore
-    EnglishAnalyzer analyzer = null;  // This is better for parsing English text
+    StandardAnalyzer analyzerV1 = null; // Not using it anymore
+    EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
+    CustomAnalyzer analyzerV3 = null; // Custom Analyzer for improved parsing
     Directory index = null;
     IndexWriterConfig config = null;
     IndexWriter writer = null;
@@ -41,37 +43,38 @@ public class WatsonIndex {
      */
     public WatsonIndex(String inputFile) {
         indexFilePath = inputFile;
-        buildNewIndex();
+        try {
+            buildNewIndex();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * Builds a new index using the specified input file.
      */
-    private void buildNewIndex() {
+    private void buildNewIndex() throws IOException{
         //Get file from resources folder
-        analyzer = new EnglishAnalyzer();
-        //analyzer = new StandardAnalyzer();
-        //index = new ByteBuffersDirectory();
-        config = new IndexWriterConfig(analyzer);
-
-        try {
-            index = FSDirectory.open(Paths.get(indexFilePath));
-        } catch (IOException e) {
-            e.printStackTrace();
-            return;
-        }
-        try {
-            // Create IndexWriter
-            writer = new IndexWriter(index, config);
-            // Parse input file and add documents to index
-            allFilesToProcess(writer);
-            // Commit and close IndexWriter
-            writer.commit();
-            writer.close();
-            System.out.println("New index created and saved successfully at: " + indexFilePath);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        analyzerV2 = new EnglishAnalyzer();
+        //analyzerV1 = new StandardAnalyzer();
+        // Custom Analyzer for improved parsing
+        analyzerV3 = CustomAnalyzer.builder()
+                    .withTokenizer("standard")
+                    .addTokenFilter("lowercase")
+                    .addTokenFilter("stop", "ignoreCase", "false", 
+                    "words", "stopwords.txt", "format", "wordset")
+                    .addTokenFilter("porterstem")
+                    .build();
+        config = new IndexWriterConfig(analyzerV3);
+        index = FSDirectory.open(Paths.get(indexFilePath));
+        // Create IndexWriter
+        writer = new IndexWriter(index, config);
+        // Parse input file and add documents to index
+        allFilesToProcess(writer);
+        // Commit and close IndexWriter
+        writer.commit();
+        writer.close();
+        System.out.println("New index created and saved successfully at: " + indexFilePath);
         indexExists = true;
     }
 
