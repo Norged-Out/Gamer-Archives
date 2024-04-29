@@ -37,7 +37,6 @@ public class PseudoWatson {
     EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
     CustomAnalyzer analyzerV3 = null; // Custom Analyzer for improved parsing
     Directory index = null;
-    //IndexWriterConfig config = null;
     IndexWriter writer = null;
     QueryParser parser = null;
 
@@ -74,28 +73,39 @@ public class PseudoWatson {
     private class QueryResult {
         String query;
         String expectedAnswer;
-        MatchedAnswer topAnswer;
-        List<MatchedAnswer> alt3results;
+        //MatchedAnswer topAnswer;
+        List<MatchedAnswer> topResults;
 
         public QueryResult(){
             query = null;
             expectedAnswer = null;
-            topAnswer = null;
-            alt3results = new ArrayList<MatchedAnswer>();
+            //topAnswer = null;
+            topResults = new ArrayList<MatchedAnswer>();
         }
 
-        public boolean match(){
-            return topAnswer.DocName.get("docName").equals(expectedAnswer);
+        public void topAnswer(){
+            MatchedAnswer topAnswer = topResults.get(0);
+            System.out.print("Retreived answer: " + topAnswer.DocName.get("docName"));
+            System.out.println(", Score: " + topAnswer.docScore);
         }
 
-        public boolean withinTop3(){
-            for(MatchedAnswer r : alt3results){
+        public boolean exactMatch(){
+            //return topAnswer.DocName.get("docName").equals(expectedAnswer);
+            return topResults.get(0).DocName.get("docName").equals(expectedAnswer);
+        }
+
+        public boolean withinTop5(){
+            for(int i = 1; i < topResults.size(); i++){
+                MatchedAnswer r = topResults.get(i);
                 if(r.DocName.get("docName").equals(expectedAnswer)){
+                    //System.out.print("Answer at rank " + (i+1));
+                    //System.out.println(", Score: " + r.docScore);
                     return true;
                 }
             }
             return false;
         }
+
     }
 
 
@@ -108,8 +118,7 @@ public class PseudoWatson {
      * @throws ParseException 
      * @throws IOException 
      */
-    private QueryResult runQuery(QueryResult qr) throws ParseException, IOException{
-        //List<MatchedAnswer>  results = new ArrayList<MatchedAnswer>();
+    private void runQuery(QueryResult qr) throws ParseException, IOException{
         parser = new QueryParser("docContent", analyzerV3);
         Query q = parser.parse(qr.query);
         //System.out.println("Query: " + q.toString());
@@ -117,33 +126,18 @@ public class PseudoWatson {
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
         TopDocs docs = searcher.search(q, 5);
-        System.out.println("Found " + docs.totalHits + " hits.");
+        //System.out.println("Found " + docs.totalHits + " hits.");
         int i = 0;
-        while(i < docs.scoreDocs.length && i < 4){
+        while(i < docs.scoreDocs.length && i < 5){
             ScoreDoc scoreDoc = docs.scoreDocs[i];
             Document doc = searcher.doc(scoreDoc.doc);
             MatchedAnswer result = new MatchedAnswer();
             result.DocName = doc;
             result.docScore = scoreDoc.score;
-            if(i == 0){
-                qr.topAnswer = result;
-            }
-            else{
-                qr.alt3results.add(result);
-            }
-            //results.add(result);
+            qr.topResults.add(result);
             i++;
         }
-        /*
-        for (ScoreDoc scoreDoc : docs.scoreDocs) {
-            Document doc = searcher.doc(scoreDoc.doc);
-            MatchedAnswer result = new MatchedAnswer();
-            result.DocName = doc;
-            result.docScore = scoreDoc.score;
-            results.add(result);
-        }*/
         reader.close();
-        return qr;
     }
     /**
      * Reads a text file and extracts answers and questions.
@@ -157,13 +151,12 @@ public class PseudoWatson {
     private void processQuestions(String filePath, Scanner scanner) throws InterruptedException, IOException, ParseException{
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource(filePath).getFile());
-        List<MatchedAnswer> results = null;
-        MatchedAnswer topAnswer = null;
         Thread.sleep(1000);
         BufferedReader reader = new BufferedReader(new FileReader(file));
         String line; // The line being read from the file
-        List<QueryResult> queryResults = new ArrayList<QueryResult>(); // List of query results
+        //List<QueryResult> queryResults = new ArrayList<QueryResult>(); // List of query results
         QueryResult qr = null;
+        int totalQueries = 0, correct = 0, close = 0, incorrect = 0;
         while((line = reader.readLine()) != null){
             // If the line is not empty, it is either a query or an answer
             if(!line.isEmpty()){
@@ -175,63 +168,48 @@ public class PseudoWatson {
                     qr.expectedAnswer = line;
                 }
             }
-            // If the line is empty, it is the end of the question
-            else if(line.isEmpty()){
-                // Perform the query
-                qr = runQuery(qr);
-                System.out.println("Query: " + qr.query);
-                System.out.println("\nRunning Watson...\n");
-                Thread.sleep(1500);
-                // If there are results, get the top answer
-                if (qr.topAnswer != null){
-                    //topAnswer = results.get(0);
-                    topAnswer = qr.topAnswer;
-                    String docName = topAnswer.DocName.get("docName");
-                    System.out.println("Retrieved answer: " + docName);
-                    // Compare the top answer with the expected answer
-                    if(qr.match()){
-                        System.out.println("Correct!");
+            // If the line is empty, then perform the query
+            else {
+                runQuery(qr);
+                totalQueries++;
+                if(!qr.topResults.isEmpty()){
+                    //qr.topAnswer();
+                    if(qr.exactMatch()){
+                        //System.out.println("Correct!");
+                        correct++;
                     }
-                    // Ask the user if they want to see alternative answers
+                    else if(qr.withinTop5()){
+                        //System.out.println("In top 5 Results");
+                        close++;
+                    }
                     else{
-                        System.out.println("Incorrect!");
-                        System.out.println("Expected answer: " + qr.expectedAnswer);
-                        System.out.println("\nWould you like to see alternative answers? (y/n)");
-                        String alt = scanner.nextLine();
-                        // List up to 3 alternative answers
-                        if(alt.equals("y")){
-                            System.out.println("Here are some alternative answers I found:");
-                            for(MatchedAnswer r : qr.alt3results){
-                                System.out.print(r.DocName.get("docName"));
-                                System.err.println(", score: " + r.docScore);
-                            }
-                        }
+                        //System.out.println("Incorrect!");
+                        incorrect++;
                     }
                 }
-                queryResults.add(qr);
+                else{
+                    System.out.println("Got no answers");
+                    System.out.println("Query: " + qr.query);
+                    System.out.println("Expected answer: " + qr.expectedAnswer);
+                }
+                //queryResults.add(qr);
                 qr = null;
+                /*
                 System.out.println("\nContinue? (y/n)");
                 String cont = scanner.nextLine();
                 if (cont.equals("n")){
                     break;
                 }
-                Thread.sleep(1000);
+                */
+                //Thread.sleep(100);
             }
-        }
-        for(QueryResult q : queryResults){
-            System.out.println("Query: " + q.query);
-            System.out.println("Expected answer: " + q.expectedAnswer);
-            System.out.println("Retrieved answer: " + q.topAnswer.DocName.get("docName"));
-            if(q.match() || q.withinTop3()){
-                System.out.println("Correct!");
-            }
-            else{
-                System.out.println("Incorrect!");
-            }
-            System.out.println("\n--------------------------------------------\n");
         }
         reader.close();
-
+        System.out.println("\n----------------------------------\nStats");
+        System.out.println("Total Queries: " + totalQueries);
+        System.out.println("Correct Answers: " + correct);
+        System.out.println("Close Answers: " + close);
+        System.out.println("Incorrect Answers: " + incorrect);
     }
 
 
