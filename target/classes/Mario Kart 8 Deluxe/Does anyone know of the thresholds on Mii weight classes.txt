@@ -1,0 +1,71 @@
+[[Does anyone know of the thresholds on Mii weight classes]]
+
+
+Right now I have my Mii set to this, but I was wondering if anyone knew how big/small I can get before my Mii is no longer a medium weight-class character, since eyeballing it doesn't seem to work for me.
+
+
+I would imagine it averages out; max Height and min Size would probably be Medium Class… but honestly I have no clue. 
+
+I might make a spreadsheet for this now. Dammit.
+    AIGHT chief I got the numbers; but hold onto your hat, m’boy, because they don’t make all that much sense. Or maybe they do and my research is wrong but VERILY WE SHALL CONTINUE
+
+In the Mii Size menu, each of the sliders have 128 possible values. Believe me- I counted. Starting from the bottom you can go up 127 times, so you can set them between 0-127; which makes sense, because binary is lit.
+
+I started with some extremes. Maxing out one slider and minimizing the other keeps you Medium, for example. Some other tests confirm that Height and Thicc have equal value when it comes to the MK8D stats, so you can find your “Size” as an average of the two.
+
+(Note for clarification: a brand-new mii starts in the middle of both sliders, aka 64)
+
+I tested the stats on Standard Kart, Standard Tires, and Super Glider; y’know, ‘cause ease of consistency. To become a Heavyweight, you have to increase your Size by a total of *22.* I figured it would be the same for Featherweights, but they actually need to have a total decrease of *28.*
+
+What this means is that Medium has a range of 50, from 36 to 86. If you’re curious, that places the true Standard Size at a value of about 61; I assume, however, that this discrepancy comes from a slight imbalance in the kart build rather than some error with the Mii. I’d have to look deeper into it to find out.
+
+Now, counting out each “blip” of the slider isn’t exactly fun (I would know… I spent some time actually doing it), so I’ll probably also make a visual guide that’ll at least *help* with eyeballing. Shouldn’t be too hard.
+
+(Some other notes:)
+- Gender doesn’t affect anything
+- Only the sliders affect your weight. It doesn’t seem like head shape, hair, etc. matter at all
+        The hero I didn’t know I needed
+        👑
+            👑
+        So, having a total value of 0-254: feather is 0-100, medium is 101-150, and heavy is 151-254?
+            That would have been a more succinct way of putting it, lol
+                Why you gotta Occam's ratio like him that tho
+        We don't deserve you
+        This is why I hang out on Reddit. Thanks for sharing your findings!
+AIGHT chief I got the numbers; but hold onto your hat, m’boy, because they don’t make all that much sense. Or maybe they do and my research is wrong but VERILY WE SHALL CONTINUE
+
+In the Mii Size menu, each of the sliders have 128 possible values. Believe me- I counted. Starting from the bottom you can go up 127 times, so you can set them between 0-127; which makes sense, because binary is lit.
+
+I started with some extremes. Maxing out one slider and minimizing the other keeps you Medium, for example. Some other tests confirm that Height and Thicc have equal value when it comes to the MK8D stats, so you can find your “Size” as an average of the two.
+
+(Note for clarification: a brand-new mii starts in the middle of both sliders, aka 64)
+
+I tested the stats on Standard Kart, Standard Tires, and Super Glider; y’know, ‘cause ease of consistency. To become a Heavyweight, you have to increase your Size by a total of *22.* I figured it would be the same for Featherweights, but they actually need to have a total decrease of *28.*
+
+What this means is that Medium has a range of 50, from 36 to 86. If you’re curious, that places the true Standard Size at a value of about 61; I assume, however, that this discrepancy comes from a slight imbalance in the kart build rather than some error with the Mii. I’d have to look deeper into it to find out.
+
+Now, counting out each “blip” of the slider isn’t exactly fun (I would know… I spent some time actually doing it), so I’ll probably also make a visual guide that’ll at least *help* with eyeballing. Shouldn’t be too hard.
+
+(Some other notes:)
+- Gender doesn’t affect anything
+- Only the sliders affect your weight. It doesn’t seem like head shape, hair, etc. matter at all
+    The hero I didn’t know I needed
+    👑
+        👑
+    So, having a total value of 0-254: feather is 0-100, medium is 101-150, and heavy is 151-254?
+        That would have been a more succinct way of putting it, lol
+            Why you gotta Occam's ratio like him that tho
+    We don't deserve you
+    This is why I hang out on Reddit. Thanks for sharing your findings!
+The hero I didn’t know I needed
+👑
+    👑
+So, having a total value of 0-254: feather is 0-100, medium is 101-150, and heavy is 151-254?
+    That would have been a more succinct way of putting it, lol
+        Why you gotta Occam's ratio like him that tho
+We don't deserve you
+This is why I hang out on Reddit. Thanks for sharing your findings!
+👑
+That would have been a more succinct way of putting it, lol
+    Why you gotta Occam's ratio like him that tho
+Why you gotta Occam's ratio like him that tho

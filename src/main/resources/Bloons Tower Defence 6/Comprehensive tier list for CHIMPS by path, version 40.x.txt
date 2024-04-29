@@ -1,0 +1,1579 @@
+[[Comprehensive tier list for CHIMPS by path, version 40.x]]
+
+
+
+
+
+# Information
+
+*Huge thanks to* u/rohan_spibo *for the official Tier List Template as well as members of the BTD6 Index Server for their collaboration and input.*
+
+*Version 40 introduced Corvus, and man is he powerful. Quite a few changes in the tierlist were mainly caused by him giving multiple towers a very strong DPS focused hero.*
+
+# FAQ
+
+**Q.** Why does the list include True Sun God? Isn't it unaffordable in CHIMPS?
+
+**A.** The tier 5 icons represent the entire path of the tower (in other words, tiers 3-5). So for example, the TSG icon is really representing Sun Avatar.
+
+**Q.** How weighted is this list towards Black Border strats?
+
+**A.** While older editions of this tier list weighted Black Border much more significantly, as time went by the list has started to disregard it more and more. This tier list now ranks towers strictly on their best scenarios, meaning Black Border has little weight.
+
+**Q.** Why is Glaive Lord so low? Aren't the C and D tier towers really good?
+
+**A.** The majority of the towers are powerful enough to easily clear CHIMPS on lower difficulty maps. As a result, this tier list is heavily based on the True Expert maps with some consideration given to the other expert difficulty maps.
+
+**Q.** Who made this? How can I trust you?
+
+**A.** This tier list was meticulously crafted by some of the top players in the game. It went through many iterations before becoming what you see now.
+
+**Q.** Can I see justifications for the choices made?
+
+**A.** [Sure.](https://docs.google.com/document/d/1yUsl_Q2K6LoYebvEG03Q357Frj9oPYT76nCy7P2hNoA/edit?usp=sharing) Any further questions may be asked in the comments.
+
+# Added:
+
+# Heroes:
+
+* Corvus **→ SS**
+   * It's debatable if he should be in S tier or SS tier but he is undoubtedly the strongest DPS hero in the game right now. He is complex but not too difficult to play overall.
+
+# Moved Up:
+
+# Towers:
+
+* Bottom Bomb **D → B-**
+   * The recursive rework made it good enough to move up 2 tiers. However, you now need to run Striker with it.
+* Top Wiz **B → A-**
+   * Arcane Mastery is a great tool for earlygame especially when there are lots of sight blockers.
+* Mid Wiz **A- → S-**
+   * Moving up 2 tiers with a bug that lets Etienne duplicate WLP's permanent phoenix. Etienne's midgame strength helps the saveup to this bug a lot.
+* Bottom Wiz **B → A**
+   * Great synergy with Corvus as it catches leaks, demands anti-stall and is also powerful against DDTs.
+* Mid Super **A- → A**
+   * Combos very well with Geraldo's Sharpening Stone, and provides unparalleled midgame power along with lategame support through knockback.
+* Top Spac **A → S-**
+   * Corvus is extremely good with top spike as Ancestral Might is very prone to leaking ceramics. All 3 Spac paths are now S- tier!
+* Mid Village **C → B-**
+   * MIB finds a few more use cases where Glue Storm isn't worth the price, but towers cannot pop DDTs.
+* Top Beast **C → B-**
+   * Orca is a high damage output tower whose main fault is consistency. Reverting the positioning change along with its now higher pierce means it's slightly better at not dying to ceramics.
+
+# Heroes:
+
+* Etienne **B → S-**
+   * Is a key component to activating a certain bug involving a flaming chicken.
+* Geraldo **A → S-**
+   * His supporting capabilities with Sharpening Stone on certain towers (most notably Robo Monkey) is incredibly strong and the Pet Bunny was very underrated as a lategame attacker.
+
+# Moved Down:
+
+# Towers:
+
+* Mid Dart **A- → B**
+   * PMFC's strength was greatly reduced when Psi's stalling capabilities were nerfed.
+* Mid Bomb **A → A-**
+   * Elim is a little too expensive to be used for a tower that has limited help in the lategame and solves r100.
+* Mid Ice **S- → A**
+   * Yet another nerf to ice makes Arctic Wind less consistent at catching ceramics in its already small range.
+* Top Ace **S- → A**
+   * Losing Adora as its best hero means that Sky Shredder as a whole is worse.
+* Mid Ace **A → A-**
+   * Ground Zero is quite expensive as a saveup, and Tsar Bomba has large weaknesses in the lategame.
+* Top Super **B → B-**
+   * Consistently worse than the other supers due to its high price. It also can't combo off of sharpening stone where the other two can choose the other crosspath.
+* Bottom Beast **S → S-**
+   * Golden Eagle takes its hit, making it much weaker in the 70s where it fares a lot worse against grouped moabs.
+
+# Heroes:
+
+* Adora **S- → A**
+   * Significantly weaker than Corvus as she requires lots of cash in sacrifices, and many midgame staples that supported her before sacrificing have been nerfed.
+* Churchill **A- → B**
+   * Churchill just isn't considered as strong of an option in many strategies as before. Many strategies have been leaning toward hero synergies rather than pure DPS.
+
+# Considered but not Moved:
+
+* Bottom Heli **A → S-**
+* Top Druid **B → A-**
+* Bottom Druid **A- → B**
+* Pat **A- → B**
+* Brickell **S → S-**
+* Sauda **A- → A**
+    May I ask what the “positioning change” to Orca was? I am aware that Orca got many buffs, but I’m not fully aware of the “positioning change” that weakened Orca.
+        Beast handler reposition cooldown got reduced, which affects all beasts on the top and middle path.
+    Wasn't Robo Monkey's pierce nerfed in the last patch, meaning it's now worse than before despite being ranked higher? 
+
+Also holy font change, and I appreciate the immense effort put into your tier lists.
+        Idk some people were complaining about the font change, so we'll see if it stays or not.
+
+Robo went underrated because Geraldo was a whole was underrated. It was discovered about halfway through last update after the previous tierlist was already made. The Etienne WLP bug was also very recent and was found less than a week ago, halfway into the update.
+            About the font, I think it would make sense for the titles/headings to stay as that font, and then the rest as Source Sans Pro (BTD6's body font)
+            Yeah I'm not a fan of the new font.
+
+Good document as always tho!
+            If the font had lowercase available, it might be a good option, but as-is reading longer paragraphs in that font isn't particularly inviting.
+
+I second the other guy's suggestion to have the body text be Source Sans Pro.
+            how has robo geraldo been under rated?
+its like the go 2 cheese strat for map editor chimps
+                Map Editor is a little bit different and not considered here. Since all lanes are active, Carpet of spikes is by far the strongest T5 tower and Gerry Robo is the easiest way to support a spike storm to get to carpet. Pure Robo builds aren't the best, though they have proven to also be just as good as dark knights post saveup.
+                    pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+                        The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+                            I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+            The font I can go either way on. I haven't read it enough to really have a preference. I enjoy the higher letter visibility and it's probably nice not having to worry about capitalization, but the bolded look is a bit hard on the eyes since it makes everything blend together a little.
+
+I've also read that Glue Storm/Strike buffs may have contributed to it, which makes sense. I haven't tried it, but it sounds like it would annihilate every type of ceramic: double slowdown because of robo-knockback and 04+2 glue combined with rapid fire attacks that deal at least 3-4 damage before crits, alch buffs, and embrittlement. It's basically a stall + DPS strat mixed into 1.
+
+Did quantum entanglement count towards the tier list when it was a thing? It sounds like it would've been an SSS tier benefit.
+                The problem was that you first had to afford the TT5, then spam towers to hopefully link a tower, and then upgrade that tower into another strong tower, and then buy even more buffs for the linking. All in all, it was just not viable in chimps where you have limited cash.
+
+WLP is much simpler: afford WLP, then use Etienne to get permanent phoenixes every round at no additional cost.
+        The expert community decided they were underrating the tower a lot.
+    With etienne and phoenix, should the rankings themselves be based on a bug that has to be done with the tier 5, that is a massive save up for maybe 15 flaming chickens. Yeah it is powerful but idk if it’s tier should be increased that much because of that bug
+        15 flaming chickens is enough to take you to the end of the game, meaning you can float upwards of 90k cash between 80 and 100.
+    How long did this took you?
+        tierlist discussion and voting starts a week after each update and usually takes a month. The tierlist gets made in the last 2-3 days
+    Question. Why is Benjamin not in e or f tier when he is mainly a money hero and this is a chimps only tier list
+ETIENNE S-??? IS THIS V21???
+    *A bug involving a flaming chicken*
+        Step 1: set your cock on fire
+            I did it and turned into a woman(with KFC). What do I do now?
+                Embrace the new life
+                    And eat the KFC
+    Camo detection go Brrrrrr
+        Specifically flaming birbs go Brrrrr actually. Though the level 8 camo detection allows the much better crosspath so you're partially right
+All Spike factory paths being in "S- tier" is Somehow, Someway, So, Super, Satisfying.
+
+I got no more S-words
+    Simply stupendous.
+        Superbly smashing!
+            S...... Serially Schizophrenia!
+    Just very balanced. If only all towers were like that.
+        How is it balanced? It's super expensive and the spikes only last for like 4-5 rounds, despite it saying "almost forever" in the description.
+
+I stopped using them after I realized that. I mostly used it for DDTs anyway, and the middle path spike factory works extremely well for that. You can even settle for the t4 and only get the t5 if you're lazy and\or don't want to build something else.
+            there are several rounds that get outright deleted by 4-5 rounds worth of perma-spikes
+                Yeah, it's definitely not bad... But I just don't see how it can be the same tier as the middle path.
+
+The middle path is simply better in more scenarios, which is what a tier list should be about.
+
+The fact that the perma-spike is only for one lane in and of itself has to put it below the middle path.
+
+Unless I'm missing something?
+                    Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+                        I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+                            Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+                                Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                                    Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+Its fucking hilarious that Obyn is in the same tier as Ben in chimps when Ben almost loses his entire kit in chimps holy shit when is Obyn getting buffed lmao
+    Ben literally does one thing and one thing only.
+
+Yeet the entirety of 98.
+        and somehow still does it better than obyn.
+Obyn on the same tier as Ben is so fucked up. NK please buff my boy
+    Yeah please buff benjamin
+        🗿
+        Fr, I love DJ Benjammin
+            I'm more of a sushi man myself
+            You mean BenJAMMIN
+                Ok, that was clever
+                    That’s literally the name of the skin
+                        Oh… didn’t no sorry
+                            consider reading
+                                Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+                        Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+            Same (flairs check out)
+        Revealing clothes and thats it
+    Legit just needs to be affordable at the start of chimps and no other change
+    Or the list maker can just rate him accurately. Obviously he is much more useful than the hero that actually harms your Chimps run.
+        as the dedicated "support hero", ben also comes with abilities and debuffs that are well above that of other heroes on top of his eco power. trojan is incredibly powerful in normal modes, but its cash sucking makes it useless in chimps. relatively recently, you can now block ben behind a wall to prevent trojan, making ben not be a huge drain on cash anymore.
+
+with 90% of his upgrades gone in CHIMPS, ben is a shell of his former self. but syphon funding is still an obnoxiously powerful way to completely obliterate any and all problematic rounds. for early/midgame, you basically don't have a hero at all. which isn't really that big of a problem. then, ben can absolutely trivialize rounds like 96, 98, and 99. you lose out on tens of thousands of dollars from those rounds, but that doesn't matter when you reduce the hardest rounds in the game to nothing.
+
+there are other heroes that actually, like, do stuff in the midgame; while still providing healthy supportive abilities in lategame on top of a good bit of DPS. ben can't do that. but neither can obyn, who is pretty pathetic at all stages in the game. obyn doesn't have anything that's as situationally powerful as ben's abilities that he can lean on as a crutch.
+        Benjamin is really good on round 98, so in CHIMPS people calculate when to drop him to get syphon funding as late as possible to use it on r98.
+        Benjamin doesn't harm your Chimps run if you place him smartly, as just bloon Trojan can't pass LoS obstacles
+            Bloon Trojan is all he is capable of doing in Chimps. If you are blocking LoS, you are just wasting the $1440 it takes to put him down.
+                He can get to lvl 10 if placed on the correct round and rid you of 98
+                Ben’s lv10 literally nukes round 98. That is definitely something of note.
+        He's better but not by much. Obyn sucks pretty badly when he only has one set of trees to handle multiple lanes.
+            Also… 
+- You want good bramble placement? We don’t have good bramble placement!
+- This is some BIG RNG. (Brambles and Totem)
+    Jesus i returned after a long break and what the hell happened to him. I remember him being top tier.
+Woah! Is the WLP bug that good? Wow! I can't wait to use it to Black Border all the maps I'm missing!
+
+wait
+    What bug? I'm out of the loop :(
+        set an expensive cock ablaze under a frenchman's aircraft's gaze :sholthink:
+
+okay on a more serious note, it involves Wizard Lord Pheonix (WLP) and Etienne, which is why they are so high on the tierlist all of a sudden. Basically, if both the UCAV and WLP ability are simultaneously active when a round passes, you can leave and rejoin the game to obtain another, permanent Pheonix subtower.
+
+This is indefinitely repeatable, which quite obviously nullifies any and all challenge on any map if you can just get a WLP saveup with Etienne. Though, since you need to leave the game for the bug to work, this is impossible to work into a Black Border strategy, as per the joke above.
+            That's wild. I appreciate your detailed explanation
+            Gold boarders here we come!!!!
+        basically you can use UCAV and WLP and then back out of game and duplicate phoenix
+Corvus in SS, what a surprise
+    Never saw that coming. 
+
+I'm shocked I tell you, shocked!
+How are we at the point where Ben and Obyn are at the same level
+    He was below Ben in previous versions
+        How can a hero be so bad that he’s below the farming hero in a gamemode where you can’t farm
+            I mean he has a pierce buff which only really affects like dark knight and transforming tonic and he also can defeat half of the r95 ddts and that's it
+                The r95 is because of the trees ability?
+                    ye
+    I mean, Ben yeets the almost the entirety of round 98.
+Only Corvus and Ben can do that as heroes
+
+Obyn can't.
+        I’m not mad that Ben is up with Obyn, I’m mad that Obyn is down with Ben
+        If you waste a bunch of Geraldo items you can kinda do that. 2 genies and 3 maelstroms. But it's best to save 1 genie for r99+100
+    Read the fucking title oh my god
+        I think he means that Obyn needs a buff
+        I’m so confused?? What am I missing???
+So it begins
+    I never thought this is how it would end.
+Mfw eti is meta because of some dumb stupid bug
+    What bug is that? I actually quite like Eti
+        If you set your cock on fire you instantly win if a frenchman witnesses
+            This is a HOT interaction.
+            Your flair checks in perfectly and ypu're part of it
+    How do you reproduce the bug? I tried a quick google but didn't see anything helpful
+        Make sure wlp ability and either drone swarm or UCAV are active when the round ends. Then once the next round starts, quit to home and enter the game again. There will be an extra permanent phoenix
+            So you can’t use it for black boarder chimps but it’s still OP. Can you use the wlp ability again to get two wlp at the same time?
+                You can get infinite by just repeating the process above, but only once per round. Using the WLP ability doesn't affect the bonus phoenixes.
+                No it’s just the permaphoenix that gets duplicated
+    I know that towers being strong due to bugs is nothing new, but I kinda wish that Etn and WLP weren't suddenly top-tier solely due to this bugged interaction
+    Can't believe I lived to see the day eti is the same tier as geraldo
+I can save up so much money with corvus it's ridiculous
+    He literally carries till r39 it's not even funny anymore.
+        2tc with him and 000 dart
+            Sorry I'm new to the game so the haven't got all the acronyms down what is 2tc?
+                2 towers chimps
+                    Ahhh ok thank you
+Obyn down with Ben again, RIP
+    It’s chimps bruh.
+        I know, I can read.
+All three spikes in s tier. I never thought I'd see the day.
+    Yeah and right after they gutted the middle path too.
+        "gutted" it went from +9 moab dmg to +8 when it was originally +5, it really isn't too bad of a nerf
+            Oh My God Minus One Moab Damage That Is Such A Huge Nerf!!!!!!!!!!!
+        Middle path still crushes in true expert maps, you see it being used in the top 10 hardest custom maps in the world.
+
+[https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&](https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&) there's an example
+If I'm being honest I don't think bugs should be considered for the rankings, even if they aren't that game breaking
+    I agree. The tier list should be for regular gameplay. I want to know the best towers how ninja kiwi wants them to work.
+    Yeah and it's removing the Black Border part.
+Noob question but what monkey is the second on the right on S tier? (Next to the glue gunner)
+    grand saboteur, 0-5-0 ninja monkey
+    Its grand saboteur but the upgrade that is S tier is the 4th tier. Turns out halving the speed of bloons for a whole 15 seconds is pretty cracked.
+    Grand Sabotage. Middle path ninja
+    middle path ninja
+    grand saboteur
+Obyn obyn obyn obyn
+Got it, only put down the SS troops, and nothing else
+    time to do 2tc corvus permabrew
+    This but unironically. Bc corvus
+What is a hero good for RBE clearing? Adora?
+    Corvus, Brickell, Ezili, Psi, Ben are great at deleting a lot of bloons at once. Adora is okay but she isn't just heavy damage since she cleans up after herself for the most part.
+So you're telling me I'm using some of the best towers in the game and still can't beat a begginer map on impoppable without continues.
+    Mimight just wanna learn how to use early game towers, especially darts and snipers along with engineers. They are the soul for your first 15 or so rounds on chimps and impoppable
+        Nah, I only struggle with DDT's.
+    I feel this in my soul
+        [have a look at this guide on how best to position towers](https://www.reddit.com/r/btd6/s/bsptyPs5ps), it helped me a lot when I started!
+    What’ve you been trying thus far? Maybe it’s how you’re positioning the towers - [have a look at this guide on how best to position towers](https://www.reddit.com/r/btd6/s/ADJmNwXAhI), it helped me a lot when I started!
+        (Sorry for my terrible English)
+
+Just wanted to update, but I no longer have those problems. I even beat monkey meadows on chimps and there was a pretty cool story behind it. I was playing on my phone with my friend and I decided to try chimps. My friend decided to steal my strategy and the only thing he decided to change was adding Sauda (I didn't use a hero). Then, at around round 90 some bloons got past, but the perma-spikes popped them. My friend didn't believe in the perma-spikes, so he decided to turn it into the worst strategy possible, by investing 50k into random, trash, cheap towers, instead of upgrading the ring of fire, like a normal person and somehow he beat chimps earlier than me and somehow his strategy worked and now he says, he made his strategy on his own. 
+
+If you were wondering what strategy was I using it was: 
+
+* 5-0-2 Tack shooter below the first loop.
+* 4-0-2 Sniper monkey somewhere. It was used to pop stronger bloons. I wanted to make it a 2-0-5, but I've accidentally upgraded the top path, so I also upgraded it to Maim MOAB, but I didn't upgrade to Cripple MOAB, because of the longer stun which reduces the "mana" of the
+* 2-0-5 Wizard monkey on the second side of the road with the tack shooter. It was used to pop DDT's.
+* 2-0-5 Spike Factory at the end to pop any leftover bloons.
+
+If you know how to improve it, please leave a reply, telling me what can I improve.
+            Use a hero! All heroes are incredibly useful and a great investment. If you want to get through most beginner CHIMPS, Sauda can help with that, she’s probably the most straightforward hero. 
+
+As for other heroes - Gwen can boost the attack speed of top path tack, middle path wizard and bottom path mortar, and can do huge damage later in the game. Ezili can be hard to use in the early game but with bottom path wizard you can destroy any MOAB-class easily with her ability. Play around with some other heroes too! They’re all really useful in their own way. 
+
+You made some good decisions! 205 wizard is one of the best towers for most maps, I try to use it whenever possible. Don’t forget with tack that you can use top path village to boost its pierce and attack speed. Permaspike is a great tower for single lane maps, especially with anything that can stall like top path sniper. 
+
+As for placements, try to put your towers close together in order to buff them all at once. If you’re using a top path alchemist (as per this tier list the best tower in the game) or a village, you need all your towers near each other.
+                Yeah, I know to use a hero, but I had Corvus, which you can't buy at the start and I forgot to place him down later. And I know what are buffs. I also don't own Sauda and Ezili. Also, happy cake day.
+                    haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+Would Etienne and Mid Wiz still be in their original spots if the bug didn't exist?
+Please buff obyn, by making the totem target close & make him buff beast handler (all 3 paths) + middle wizard (Phoenix), since they are animals in nature
+I don't quite agree on Brickell.
+
+While she's without a doubt *really good* on water maps, the restriction to water maps makes it hard to justify anything above S- or A imo.
+
+I don't feel like that lack of usecases is properly reflected on that tierlist
+    This would make more sense as a argument if there wasn't water on every single true expert map in the game.
+
+It is a weakness,but the way this list has been made for a while now being unusable on 2 maps that aren't even true expert means waaaay less than brickels viability on the hardest maps in the game.
+
+
+Tnf she's only half usable on ravine but still.
+        Just curious, is there a list of the maps that qualify as true expert?
+            for a while now its been ouch,quad,bloody puddles,ravine,and maybe dark dungeons but i would say not.
+                Dungeons is in no way texpert lmao
+            https://bloons.fandom.com/wiki/True_Experts
+                do not ever link the wiki for anything ever. it has straight up misinformation and unreliable sources
+        Tbh I'm not aware of any ravine strategies that involve brickell. So I didn't count her there - and on dark dungeons since I feel like while there's water, I just can't imagine picking her on that map (altough that's a BB I do not have yet - so maybe I'm wrong there)
+
+Which would leave us with 4 maps in which you might take her - while for land based heroes that restriction obviously doesn't exist 
+
+I mean it's entirely possible that I'm just not aware of some crazy strategies people came up with since I'm not really engaged with the community apart from this subreddit, but I'd honestly be Impressed if it would be otherwise
+    Dude read the FAQ they literally said they ranked it on best case scenario.
+        Fair enough I guess
+    Outside of Corvus she's undoubtedly the best hero in the game. Also every expert map except workshop (more importantly, every true expert) has water, so your complaint is irrelevant to the point of the list
+Kinda unfortunate that we didn’t get Sauda up to her (rightful) A tier, but otherwise super glad with how this version played out since we rectified a lot of “oh shit, this tower’s actually pretty good lol” stuff that was thought about but not acted on until we knew more. 
+…
+Except for Corvus being Corvus and the WLP bug but c’est la vie lmao
+Spike factory supremacy!
+Corvus is a fair and balanced hero
+ComCom is considered strong now, huh (going off of the info document, not just the template)
+Glad to see Super Mines so high. I love using it in super late game
+    shut up maddie
+    i like getting it pre-r100 in chimps
+    It’s not Super Mines, it’s referring to Spiked Balls and Spiked Mines. Spiked Balls are still very good for tanking Bloons in the mid-to-lategame, and Spiked Mines has a very strong grouped-popping role for mid-to-lategame.
+        That's stupid. Why would they use the icon for Super Mines then?
+            To refer to the entire upper upgrade path as a whole.
+            did you like, not read the FAQ?
+                Pretty sure Maddie is one of the people that works on this tier list and she's just being sarcastic rn
+                    oh, okay
+                I did. it's still stupid.
+    Nice hook 🪝 👌
+        Thank you
+J’ôtai is op and should be higher!!
+    What the hell is J'ôtai
+        shut up newgen
+        Horrible butchering of jitsu
+    Skucha moment
+        I feel like I’m having a stroke reading this thread
+    >J’ôtai 
+
+SS
+Why is Benjamin above glaive lord? I use glaive lord from time to time he's kinda good
+    In true experts(that are the main target to this tier list)glaive lord is very weak because it needs loops or curved tracks to be good and it also struggle a lot with multi-lane tracks and in moab damage and just are WAY better options for the same price
+        Oh ok
+So, how do I abuse Corvus to snipe some easy black borders and pretend that I am good at the game? I am completely unable to learn how to play him since I spend all the time farming exp than actually using his skills
+    https://docs.google.com/document/d/1yUsl\_Q2K6LoYebvEG03Q357Frj9oPYT76nCy7P2hNoA/edit#heading=h.epyn6yl97c0c
+not sure SS is the ideal term to use
+    The context of tier lists is so narrow it's hard to jump to Nazism, but S+ exists and costs nothing so... probably, yea, lol.
+        of course I'm not saying OP's a Nazi, just a bit of \*hold up\* moment
+Etienne is cooking?? Good for him, good for him.
+Hello, I have two questions this time.  
+  
+Does Pat still deserve to be in A-? His earlygame is harder than Sauda, but all of his synergies are completely outclassed by Geraldo. I also wonder if he's in the same tier as Glue Storm since he occupies the hero slot.  
+  
+Sabotage is rated in S tier as a tower to counter DDTs, will the rise of Sporm and PoD affect its rating?
+    Pat still does have a few powerful synergies, his use cases with Grandmaster, Flagship, and Comanche haven't just disappeared, they're just worse than what Gerry can do.
+
+Sabo is a somewhat cheap supporting tower that is extremely valuable at being able to slow of 95 and all of 99. You can't just stick multiple Sporms or an entire POD into a strategy because they cost way more than buying a sabotage for just about 8k.
+Bad. Monkeyopolis is S in chimps
+Why’s sentry champ so low? He’s a great tower
+    This is a tier list for chimps on expert maps which sentry champ unfortunatly is too good for
+    It's a little underwhelming in both damage and pierce, and doesn't synergize with brew.
+
+Info comment
+        [deleted]
+            That’s not what happens, brew just doesn’t affect sub towers such as sentries at all. All you get is a stronger nail gun on the main engineer and about 1/2 of an extra sentry.
+how long do cerams take that a 3s cap makes PMFC so much worse? I dont understand how it makes it much worse. 
+
+if anything you can prob use a downdraft to stall a ceram out or a permafrost + downdraft can easily make it smth u can do
+    With psi you used to be able to stall a fortified BFB for 15 seconds after the round ended, and you can’t do that anymore. Yes, you can still stall for the ability back with draft, but that requires using a worse hero for pmfc
+    psi is pmfc hero and that antistalls cerams
+        I see but why smth like downdraft stalling smth or Moab shove won't work
+            because psi kills them
+            cant stall like 95 or smth cause psi kills them. need psi cause 92 and 96
+Thanks for the effort champ 👍🏻
+Sauda, MAD, and Icicle Impale should all be higher, other wise very good tier list
+    Mad? Why Mad?
+        Because it’s amazing at killing MOAB class Bloons and bosses
+            Bosses? This is a chimps tier list
+                Oh… well fair point but it’s still fantastic at the former.
+                    so are a bajillion other towers and they do it without curling up and dying to ceramics.
+                    Maybe, but it still needs ceram help
+                        True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+                            That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+                            mad itself costs an insane 78 thousand dollars
+    Sauda falls off on expert maps, which is what this is based on
+Why does everyone hate on the spectre? It it just because it’s expensive? I love that path
+The obyn disrespect is insane
+justice for monkeyopolis😭
+    "Comprehensive tier list for **CHIMPS**"
+    Justice for farm😭😭😭
+elite sniper and defender in same tier is outrageous
+    true esniper should be lower
+        the other way
+[removed]
+    Too much spam or otherwise low-effort content clutters the subreddit with posts that add no thoughtful discussion about Bloons TD 6. Please try to make posts that take a bit more effort to create, are more related to Bloons TD 6, and allow for more meaningful conversation.
+
+Thanks!
+Why is Adora A tier? Like I say this as someone who loves using Adora but I feel like it’s not worth it to sac things and even then what are you buffing? 3-2-0’s?
+    Sacrificing towers to Adora makes her get more experience which means you can get her to level 20 for the late game, even with her slower leveling compared to most other heroes.
+        Ig fair, I just never thought that would be worth what you’re sacing to be better then Sauda or Pat
+I do believe you, but could I have some explanation on why the mid Art is so high and is anything needed to support it? I get the map coverage via micro part, but how well does the damage hold up (assuming it is placed there as a main DPS option)
+    assuming you mean pmfc (copied from the doc in faq)
+
+\- Plasma Monkey Fan Club is a great tower for lategame burst DPS, given you have something to stall or cover downtime.   
+\- Pairs well with mentoring due to cooldown reduction and free tier 1 upgrades.  
+\- Best paths: x5x  
+
+
+besides village, stalling towers in general (moab glue, moab press, etc) synergize with pmfc to reduce ability downtime
+        No, I meant the middle path Mortar or Artillery Battery into Pop and Awe
+            oh, well striker jones (obviously), relentless glue is a good synergy since paa does bonus dmg to stunned bloons, and overclock for extreme speed
+Ben does literally nothing you should have put him in f
+    Kid named siphon funding:
+Ben deserves F tier why is it the same tier as obyn
+    Syphon Funding and sometimes Bloon Trojan are useful because they reduce the RBE of a round. You can block Trojan with Line of Sight blockers
+    Syphon r98
+    Bloon Trojan
+[deleted]
+    Read the FAQ
+    Ss is not a perma brew but the entire path read the coment from op
+        Oh that's fair
+    Read the damn faq
+    Comprehensive tier list represents tier 3-5 as it was answered in the faq if you read it
+[deleted]
+    faq
+    the ranking is for t3-t5, not just t5 (read faq)
+Bro seriously didn't put Ben in F
+    Yes, because you can block Ben's Trojan with line of sight blockers and then use Syphon for more difficult rounds. It's really niche but it does synergize well with Permaspike
+don’t you dare diss benjamin like that
+
+edit: this was intended as a joke because of how bad benjamin is in chimps
+    This is chimps tier list he’s useless in it
+        The only reason why he isn’t F Tier is because of his Syphon Funding, which is especially beneficial for downgrading heavy RBE rounds like Round 98.
+    >for CHIMPS
+    satire requires a clarity of purpose and target lest it be mistaken for and contribute to that which it intends to criticize
+has pbrew been that good for chimps? ive never used it. what other monkeys are good with it?
+    faq
+I don’t care how good glue monkey is I WILL NOT USE IT
+[deleted]
+    you do know what chimps is right
+        [deleted]
+            can you show us your run of flying fortress on flooded valley chimps?
+did you perhaps mean spectre?
+the previous upgrade?
+            bait used to be believable
+                [deleted]
+                    sure, but saying the 110k tower is required for a chimps setup is bait
+    water towers:
+Isn’t it mostly map dependent? Especially the heroes
+    The tier list is taking in count the hardest maps
+No way you put benji and obyn as the lowest heros, i can already tell you’re trolling just from that alone, don’t even need to look at the rest of the tier list…
+    no way, the hero that makes money is bad in the gamemode that doesn't let you make money?
+        Do people not read the title or are they just stupid
+        I see geraldo there, he makes money.
+            Geraldo also does extremely powerful support abilities besides money and neutering a couple of really hard lategame waves.
+    >for CHIMPS
+Is the merchant path actually that bad, I always figured the money it gave you balanced it out 😰
+    "Comprehensive tier list for **CHIMPS**"
+        Proof that people don’t read the titles
+    title
+    >for CHIMPS
+    CHIMPS mode doesn't allow you to make extra money.
+Pop and Awe not dropping at all after being gutted. That’s all I need to see to know this list is shit.
+    It got like a 10% nerf bro
+    are you talking about the changes from v39.0 or v40.0?
+        https://www.reddit.com/r/btd6/comments/18ozthx/made_a_graphic_of_this_updates_balance_changes/
+            less bad/boss dmg literally does nothing, and slightly less stun bonus dmg really isn't that significant
+    Stun/BAD/Boss damage aren't even that important, and it still adds more DPS than before the rework.
+    Still broken with striker
+Is this the first time a tower that isnt alch has been in SS?
+    Geraldo and Downdraft have been on SS before
+        Sub Commander and Overclock too!
+Holy Shit the French is good again
+    Based on the comments about him though, it seems he's only there due to a bug, that I wouldn't be surprised if it gets fixed in a week.  Also a bug I might add that can't be implemented in any black border strategy.
+MY BOY BMA
+NK as always making the new hero op
+Bottom ace path deserved much more respect
+Why Psi is A and not higher
+    A is a great position wym
+Explain the flaming chicken bug.
+    use ucav use wlp end round reload
+I don’t really play this game that much, but can you explain why Grand Saboteur is always so high on these? The description makes it sound terrible.
+    it's mainly for the tier 4, which is one of the best abilities in the game
+    its whole middle path and shinobi spam/normal sabo are both great options in chimps
+not really sure about grand sabo cuz i don't really use it
+Lmfao obyn is Ben tier.
+Ahhhh holy my savatar went from A to B- without taking nerfs to itself.That’s interesting.
+    Powercreep, but also pickles and pat fusty were nerfed
+Why is Benjamin with green foot he does so much more that Benjamin in chimps. He only really gets a use when he gets his baby deletion disc
+    i disagreee.
+
+Benjamin basically deletes all hard late game rounds, sure his only use is his funny syphon, but that absolutely rocks the shit of so many lategame rounds. Even if all benjamin could do is neuter round 98, he would still be about as good as obyn.
+        Ya and the harder part of chimps is they begging and green foot can help with that lead, cammo, Druid buff.
+            the hardest part of chimps is both the beginning and the end, not to mention how much obyn sucks at early game anyways. lead? camo? Obyn's camo is entirely unreliable and his lead is good but his overall popping power sucks, and his druid buffs pale in comparison to using pat or gwen or geraldo.
+
+The early game is hard, but the late game is frequently just as problematic. neither of them are particularly good though, obyn just falls off too hard in terms of the everything and even early game he's outclassed by the other heroes.
+                If his buff is so bad than why do people use him for poplust strategies.
+                    an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+                        How is it an irrelevant number?
+                    a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+                        ?????
+                        People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+                    because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+                        I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+Woww
+But but. Sauda's name starts with S so she should be S
+BMA on F 😭
+    I wonder why the tower that makes more money is bad on CHIMPS mode  
+\- xx3: Deals +9 damage to Leads and DDTs  
+\- xx4: Does nothing  
+\- xx5: Loses you most of your pop income. Also has the DPS of a base alch against the BAD
+    Sir, this is CHIMPS mode.
+Pirate lord  and POD should be at least S-  if not S tier chimps towers
+    It has many flaws on the hardest maps
+how is churchill lower than sauda im crying screaming throwing up rn
+etienne and wlp should be in ss because of glitch
+    Getting to the combo is possible but not the easiest thing in the world since WLP is quite a high cost tower, it just takes you from 80 to 100 without any effort.
+        Db and phoenix are pretty good mid game
+New player here, why is Bottom path Ace considered bad? I thought it was pretty strong. Is it because of the tier 4 cost?
+    You cant use the tier 5 and the tier 4 is pretty bad for the price
+Oboen is really good if you paire him up with either shanobinijas and the t5 top path ninja or the druid of wrath with the 5x druid buff so i would put him up with adora and them
+    his buffs are pretty minimal and are outclassed by gwen, pat, and geraldo
+wait you can get supermines in chimps?
+    Faq
+    yes (tho this isn't just ranking the t5's)
+xx5 alchemist doesn't belong in f wtf
+    you don't get the money from what it shrinks, so it loses you money
+    Sir, this is CHIMPS mode.
+I no play one year, who funny little goth guy?
+    Corvus, overpowered hero
+Huh, I was always under the impression that brickell wasn't very good. But im really happy to see em in S. They're my fav hero thematically
+So, just how powerful is striker + recursive cluster?
+Of course Flying Fortress (beeg plane) is gonna be D tier, it's virtually unaffordable in CHIMPS!
+necromancer fell off huh
+    Corvus is very nice with pod, but necro is kinda bad
+        meant pod bc i couldnt think of its name and just went with necro lol, good to see pod still being part of meta
+spactory is the goat.
+How Is Benjamin C tier if he Is contraproductive to use
+    He can still downgrade zomgs with siphon, and his trojan can be blocked so he loses minimal money. Still the worst hero though
+How tf is Sauda so low💀 she CARRIES in chimps. Start sauda, then go middle path Druid, then middle path spike factory, then bottom path glue. Add a camo detection tower and holy shit. Add ice even more damage. She’s so good
+    We consider the hardest maps in the game. Sauda is unable to start on any of them, and often doesn’t even touch all the lanes either.
+        Ugh. That’s true. Didn’t think about that. She’s solid on one lane maps though. Beats any of them easy
+Curious how you will rank corvus after the nerfs.
+[deleted]
+    Check out the information comment below. There is a link to a document that explains all the placements in words.
+Hell yeah! I knew I was doing the right path with glue gunner! Also, Bazinga!
+I just got back into playing btd6 after taking a break for about a year and I'd like to ask about the placements of a few towers which I don't remember being that great and a few towers which I thought would be higher up (maybe due to a few nerfs which might have weakened the tower or the meta shifting) and I'd appreciate if someone here would help me out so I can get back back to sweating, anyway here are the towers I'm confused about:
+
+1. Pop and awe
+
+2. Brickel
+
+3. Super mines
+
+4. Birb handler
+
+5. Etienne 
+
+6. Absolute zero
+
+7. Special poperations 
+
+8. Pirate lord 
+
+9. Energizer (really confused about this one, is the decamo really that useful?)
+
+10. Pre-emptive strike
+
+11. BEZ
+
+12. Dino handler
+
+13. Comanche Commander 
+
+14. Legend of the night
+
+15. Anti-bloon
+
+16. Wizard lord Phoenix
+
+And these are the towers I remember being at least somewhat decent but appeared much lower on the tier list than I expected:
+
+1.Obyn
+
+2. Apache prime
+
+3. Sub Commander 
+
+4. Glaive lord
+
+5. Flying fortress (I thought neva-miss ace was useful...it was my favorite tower ); what happened to it?)
+
+6. homeland defense (I thought MIB was semi useful...)
+
+Anyway, I know some of these towers have gotten changed since this was posted but this was the most recent tier list I found that seemed reasonable, as I already said I'd appreciate it alot if anyone helped me out here because some of these placements are really confusing...
+    Explanations doc is in the info comment
+May I ask what the “positioning change” to Orca was? I am aware that Orca got many buffs, but I’m not fully aware of the “positioning change” that weakened Orca.
+    Beast handler reposition cooldown got reduced, which affects all beasts on the top and middle path.
+Wasn't Robo Monkey's pierce nerfed in the last patch, meaning it's now worse than before despite being ranked higher? 
+
+Also holy font change, and I appreciate the immense effort put into your tier lists.
+    Idk some people were complaining about the font change, so we'll see if it stays or not.
+
+Robo went underrated because Geraldo was a whole was underrated. It was discovered about halfway through last update after the previous tierlist was already made. The Etienne WLP bug was also very recent and was found less than a week ago, halfway into the update.
+        About the font, I think it would make sense for the titles/headings to stay as that font, and then the rest as Source Sans Pro (BTD6's body font)
+        Yeah I'm not a fan of the new font.
+
+Good document as always tho!
+        If the font had lowercase available, it might be a good option, but as-is reading longer paragraphs in that font isn't particularly inviting.
+
+I second the other guy's suggestion to have the body text be Source Sans Pro.
+        how has robo geraldo been under rated?
+its like the go 2 cheese strat for map editor chimps
+            Map Editor is a little bit different and not considered here. Since all lanes are active, Carpet of spikes is by far the strongest T5 tower and Gerry Robo is the easiest way to support a spike storm to get to carpet. Pure Robo builds aren't the best, though they have proven to also be just as good as dark knights post saveup.
+                pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+                    The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+                        I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+        The font I can go either way on. I haven't read it enough to really have a preference. I enjoy the higher letter visibility and it's probably nice not having to worry about capitalization, but the bolded look is a bit hard on the eyes since it makes everything blend together a little.
+
+I've also read that Glue Storm/Strike buffs may have contributed to it, which makes sense. I haven't tried it, but it sounds like it would annihilate every type of ceramic: double slowdown because of robo-knockback and 04+2 glue combined with rapid fire attacks that deal at least 3-4 damage before crits, alch buffs, and embrittlement. It's basically a stall + DPS strat mixed into 1.
+
+Did quantum entanglement count towards the tier list when it was a thing? It sounds like it would've been an SSS tier benefit.
+            The problem was that you first had to afford the TT5, then spam towers to hopefully link a tower, and then upgrade that tower into another strong tower, and then buy even more buffs for the linking. All in all, it was just not viable in chimps where you have limited cash.
+
+WLP is much simpler: afford WLP, then use Etienne to get permanent phoenixes every round at no additional cost.
+    The expert community decided they were underrating the tower a lot.
+With etienne and phoenix, should the rankings themselves be based on a bug that has to be done with the tier 5, that is a massive save up for maybe 15 flaming chickens. Yeah it is powerful but idk if it’s tier should be increased that much because of that bug
+    15 flaming chickens is enough to take you to the end of the game, meaning you can float upwards of 90k cash between 80 and 100.
+How long did this took you?
+    tierlist discussion and voting starts a week after each update and usually takes a month. The tierlist gets made in the last 2-3 days
+Question. Why is Benjamin not in e or f tier when he is mainly a money hero and this is a chimps only tier list
+*A bug involving a flaming chicken*
+    Step 1: set your cock on fire
+        I did it and turned into a woman(with KFC). What do I do now?
+            Embrace the new life
+                And eat the KFC
+Camo detection go Brrrrrr
+    Specifically flaming birbs go Brrrrr actually. Though the level 8 camo detection allows the much better crosspath so you're partially right
+Simply stupendous.
+    Superbly smashing!
+        S...... Serially Schizophrenia!
+Just very balanced. If only all towers were like that.
+    How is it balanced? It's super expensive and the spikes only last for like 4-5 rounds, despite it saying "almost forever" in the description.
+
+I stopped using them after I realized that. I mostly used it for DDTs anyway, and the middle path spike factory works extremely well for that. You can even settle for the t4 and only get the t5 if you're lazy and\or don't want to build something else.
+        there are several rounds that get outright deleted by 4-5 rounds worth of perma-spikes
+            Yeah, it's definitely not bad... But I just don't see how it can be the same tier as the middle path.
+
+The middle path is simply better in more scenarios, which is what a tier list should be about.
+
+The fact that the perma-spike is only for one lane in and of itself has to put it below the middle path.
+
+Unless I'm missing something?
+                Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+                    I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+                        Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+                            Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                                Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+Ben literally does one thing and one thing only.
+
+Yeet the entirety of 98.
+    and somehow still does it better than obyn.
+Yeah please buff benjamin
+    🗿
+    Fr, I love DJ Benjammin
+        I'm more of a sushi man myself
+        You mean BenJAMMIN
+            Ok, that was clever
+                That’s literally the name of the skin
+                    Oh… didn’t no sorry
+                        consider reading
+                            Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+                    Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+        Same (flairs check out)
+    Revealing clothes and thats it
+Legit just needs to be affordable at the start of chimps and no other change
+Or the list maker can just rate him accurately. Obviously he is much more useful than the hero that actually harms your Chimps run.
+    as the dedicated "support hero", ben also comes with abilities and debuffs that are well above that of other heroes on top of his eco power. trojan is incredibly powerful in normal modes, but its cash sucking makes it useless in chimps. relatively recently, you can now block ben behind a wall to prevent trojan, making ben not be a huge drain on cash anymore.
+
+with 90% of his upgrades gone in CHIMPS, ben is a shell of his former self. but syphon funding is still an obnoxiously powerful way to completely obliterate any and all problematic rounds. for early/midgame, you basically don't have a hero at all. which isn't really that big of a problem. then, ben can absolutely trivialize rounds like 96, 98, and 99. you lose out on tens of thousands of dollars from those rounds, but that doesn't matter when you reduce the hardest rounds in the game to nothing.
+
+there are other heroes that actually, like, do stuff in the midgame; while still providing healthy supportive abilities in lategame on top of a good bit of DPS. ben can't do that. but neither can obyn, who is pretty pathetic at all stages in the game. obyn doesn't have anything that's as situationally powerful as ben's abilities that he can lean on as a crutch.
+    Benjamin is really good on round 98, so in CHIMPS people calculate when to drop him to get syphon funding as late as possible to use it on r98.
+    Benjamin doesn't harm your Chimps run if you place him smartly, as just bloon Trojan can't pass LoS obstacles
+        Bloon Trojan is all he is capable of doing in Chimps. If you are blocking LoS, you are just wasting the $1440 it takes to put him down.
+            He can get to lvl 10 if placed on the correct round and rid you of 98
+            Ben’s lv10 literally nukes round 98. That is definitely something of note.
+    He's better but not by much. Obyn sucks pretty badly when he only has one set of trees to handle multiple lanes.
+        Also… 
+- You want good bramble placement? We don’t have good bramble placement!
+- This is some BIG RNG. (Brambles and Totem)
+Jesus i returned after a long break and what the hell happened to him. I remember him being top tier.
+What bug? I'm out of the loop :(
+    set an expensive cock ablaze under a frenchman's aircraft's gaze :sholthink:
+
+okay on a more serious note, it involves Wizard Lord Pheonix (WLP) and Etienne, which is why they are so high on the tierlist all of a sudden. Basically, if both the UCAV and WLP ability are simultaneously active when a round passes, you can leave and rejoin the game to obtain another, permanent Pheonix subtower.
+
+This is indefinitely repeatable, which quite obviously nullifies any and all challenge on any map if you can just get a WLP saveup with Etienne. Though, since you need to leave the game for the bug to work, this is impossible to work into a Black Border strategy, as per the joke above.
+        That's wild. I appreciate your detailed explanation
+        Gold boarders here we come!!!!
+    basically you can use UCAV and WLP and then back out of game and duplicate phoenix
+Never saw that coming. 
+
+I'm shocked I tell you, shocked!
+He was below Ben in previous versions
+    How can a hero be so bad that he’s below the farming hero in a gamemode where you can’t farm
+        I mean he has a pierce buff which only really affects like dark knight and transforming tonic and he also can defeat half of the r95 ddts and that's it
+            The r95 is because of the trees ability?
+                ye
+I mean, Ben yeets the almost the entirety of round 98.
+Only Corvus and Ben can do that as heroes
+
+Obyn can't.
+    I’m not mad that Ben is up with Obyn, I’m mad that Obyn is down with Ben
+    If you waste a bunch of Geraldo items you can kinda do that. 2 genies and 3 maelstroms. But it's best to save 1 genie for r99+100
+Read the fucking title oh my god
+    I think he means that Obyn needs a buff
+    I’m so confused?? What am I missing???
+I never thought this is how it would end.
+What bug is that? I actually quite like Eti
+    If you set your cock on fire you instantly win if a frenchman witnesses
+        This is a HOT interaction.
+        Your flair checks in perfectly and ypu're part of it
+How do you reproduce the bug? I tried a quick google but didn't see anything helpful
+    Make sure wlp ability and either drone swarm or UCAV are active when the round ends. Then once the next round starts, quit to home and enter the game again. There will be an extra permanent phoenix
+        So you can’t use it for black boarder chimps but it’s still OP. Can you use the wlp ability again to get two wlp at the same time?
+            You can get infinite by just repeating the process above, but only once per round. Using the WLP ability doesn't affect the bonus phoenixes.
+            No it’s just the permaphoenix that gets duplicated
+I know that towers being strong due to bugs is nothing new, but I kinda wish that Etn and WLP weren't suddenly top-tier solely due to this bugged interaction
+Can't believe I lived to see the day eti is the same tier as geraldo
+He literally carries till r39 it's not even funny anymore.
+    2tc with him and 000 dart
+        Sorry I'm new to the game so the haven't got all the acronyms down what is 2tc?
+            2 towers chimps
+                Ahhh ok thank you
+It’s chimps bruh.
+    I know, I can read.
+Yeah and right after they gutted the middle path too.
+    "gutted" it went from +9 moab dmg to +8 when it was originally +5, it really isn't too bad of a nerf
+        Oh My God Minus One Moab Damage That Is Such A Huge Nerf!!!!!!!!!!!
+    Middle path still crushes in true expert maps, you see it being used in the top 10 hardest custom maps in the world.
+
+[https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&](https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&) there's an example
+I agree. The tier list should be for regular gameplay. I want to know the best towers how ninja kiwi wants them to work.
+Yeah and it's removing the Black Border part.
+grand saboteur, 0-5-0 ninja monkey
+Its grand saboteur but the upgrade that is S tier is the 4th tier. Turns out halving the speed of bloons for a whole 15 seconds is pretty cracked.
+Grand Sabotage. Middle path ninja
+middle path ninja
+grand saboteur
+time to do 2tc corvus permabrew
+This but unironically. Bc corvus
+Corvus, Brickell, Ezili, Psi, Ben are great at deleting a lot of bloons at once. Adora is okay but she isn't just heavy damage since she cleans up after herself for the most part.
+Mimight just wanna learn how to use early game towers, especially darts and snipers along with engineers. They are the soul for your first 15 or so rounds on chimps and impoppable
+    Nah, I only struggle with DDT's.
+I feel this in my soul
+    [have a look at this guide on how best to position towers](https://www.reddit.com/r/btd6/s/bsptyPs5ps), it helped me a lot when I started!
+What’ve you been trying thus far? Maybe it’s how you’re positioning the towers - [have a look at this guide on how best to position towers](https://www.reddit.com/r/btd6/s/ADJmNwXAhI), it helped me a lot when I started!
+    (Sorry for my terrible English)
+
+Just wanted to update, but I no longer have those problems. I even beat monkey meadows on chimps and there was a pretty cool story behind it. I was playing on my phone with my friend and I decided to try chimps. My friend decided to steal my strategy and the only thing he decided to change was adding Sauda (I didn't use a hero). Then, at around round 90 some bloons got past, but the perma-spikes popped them. My friend didn't believe in the perma-spikes, so he decided to turn it into the worst strategy possible, by investing 50k into random, trash, cheap towers, instead of upgrading the ring of fire, like a normal person and somehow he beat chimps earlier than me and somehow his strategy worked and now he says, he made his strategy on his own. 
+
+If you were wondering what strategy was I using it was: 
+
+* 5-0-2 Tack shooter below the first loop.
+* 4-0-2 Sniper monkey somewhere. It was used to pop stronger bloons. I wanted to make it a 2-0-5, but I've accidentally upgraded the top path, so I also upgraded it to Maim MOAB, but I didn't upgrade to Cripple MOAB, because of the longer stun which reduces the "mana" of the
+* 2-0-5 Wizard monkey on the second side of the road with the tack shooter. It was used to pop DDT's.
+* 2-0-5 Spike Factory at the end to pop any leftover bloons.
+
+If you know how to improve it, please leave a reply, telling me what can I improve.
+        Use a hero! All heroes are incredibly useful and a great investment. If you want to get through most beginner CHIMPS, Sauda can help with that, she’s probably the most straightforward hero. 
+
+As for other heroes - Gwen can boost the attack speed of top path tack, middle path wizard and bottom path mortar, and can do huge damage later in the game. Ezili can be hard to use in the early game but with bottom path wizard you can destroy any MOAB-class easily with her ability. Play around with some other heroes too! They’re all really useful in their own way. 
+
+You made some good decisions! 205 wizard is one of the best towers for most maps, I try to use it whenever possible. Don’t forget with tack that you can use top path village to boost its pierce and attack speed. Permaspike is a great tower for single lane maps, especially with anything that can stall like top path sniper. 
+
+As for placements, try to put your towers close together in order to buff them all at once. If you’re using a top path alchemist (as per this tier list the best tower in the game) or a village, you need all your towers near each other.
+            Yeah, I know to use a hero, but I had Corvus, which you can't buy at the start and I forgot to place him down later. And I know what are buffs. I also don't own Sauda and Ezili. Also, happy cake day.
+                haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+This would make more sense as a argument if there wasn't water on every single true expert map in the game.
+
+It is a weakness,but the way this list has been made for a while now being unusable on 2 maps that aren't even true expert means waaaay less than brickels viability on the hardest maps in the game.
+
+
+Tnf she's only half usable on ravine but still.
+    Just curious, is there a list of the maps that qualify as true expert?
+        for a while now its been ouch,quad,bloody puddles,ravine,and maybe dark dungeons but i would say not.
+            Dungeons is in no way texpert lmao
+        https://bloons.fandom.com/wiki/True_Experts
+            do not ever link the wiki for anything ever. it has straight up misinformation and unreliable sources
+    Tbh I'm not aware of any ravine strategies that involve brickell. So I didn't count her there - and on dark dungeons since I feel like while there's water, I just can't imagine picking her on that map (altough that's a BB I do not have yet - so maybe I'm wrong there)
+
+Which would leave us with 4 maps in which you might take her - while for land based heroes that restriction obviously doesn't exist 
+
+I mean it's entirely possible that I'm just not aware of some crazy strategies people came up with since I'm not really engaged with the community apart from this subreddit, but I'd honestly be Impressed if it would be otherwise
+Dude read the FAQ they literally said they ranked it on best case scenario.
+    Fair enough I guess
+Outside of Corvus she's undoubtedly the best hero in the game. Also every expert map except workshop (more importantly, every true expert) has water, so your complaint is irrelevant to the point of the list
+shut up maddie
+i like getting it pre-r100 in chimps
+It’s not Super Mines, it’s referring to Spiked Balls and Spiked Mines. Spiked Balls are still very good for tanking Bloons in the mid-to-lategame, and Spiked Mines has a very strong grouped-popping role for mid-to-lategame.
+    That's stupid. Why would they use the icon for Super Mines then?
+        To refer to the entire upper upgrade path as a whole.
+        did you like, not read the FAQ?
+            Pretty sure Maddie is one of the people that works on this tier list and she's just being sarcastic rn
+                oh, okay
+            I did. it's still stupid.
+Nice hook 🪝 👌
+    Thank you
+What the hell is J'ôtai
+    shut up newgen
+    Horrible butchering of jitsu
+Skucha moment
+    I feel like I’m having a stroke reading this thread
+>J’ôtai 
+
+SS
+In true experts(that are the main target to this tier list)glaive lord is very weak because it needs loops or curved tracks to be good and it also struggle a lot with multi-lane tracks and in moab damage and just are WAY better options for the same price
+    Oh ok
+https://docs.google.com/document/d/1yUsl\_Q2K6LoYebvEG03Q357Frj9oPYT76nCy7P2hNoA/edit#heading=h.epyn6yl97c0c
+The context of tier lists is so narrow it's hard to jump to Nazism, but S+ exists and costs nothing so... probably, yea, lol.
+    of course I'm not saying OP's a Nazi, just a bit of \*hold up\* moment
+Pat still does have a few powerful synergies, his use cases with Grandmaster, Flagship, and Comanche haven't just disappeared, they're just worse than what Gerry can do.
+
+Sabo is a somewhat cheap supporting tower that is extremely valuable at being able to slow of 95 and all of 99. You can't just stick multiple Sporms or an entire POD into a strategy because they cost way more than buying a sabotage for just about 8k.
+This is a tier list for chimps on expert maps which sentry champ unfortunatly is too good for
+It's a little underwhelming in both damage and pierce, and doesn't synergize with brew.
+
+Info comment
+    [deleted]
+        That’s not what happens, brew just doesn’t affect sub towers such as sentries at all. All you get is a stronger nail gun on the main engineer and about 1/2 of an extra sentry.
+With psi you used to be able to stall a fortified BFB for 15 seconds after the round ended, and you can’t do that anymore. Yes, you can still stall for the ability back with draft, but that requires using a worse hero for pmfc
+psi is pmfc hero and that antistalls cerams
+    I see but why smth like downdraft stalling smth or Moab shove won't work
+        because psi kills them
+        cant stall like 95 or smth cause psi kills them. need psi cause 92 and 96
+Mad? Why Mad?
+    Because it’s amazing at killing MOAB class Bloons and bosses
+        Bosses? This is a chimps tier list
+            Oh… well fair point but it’s still fantastic at the former.
+                so are a bajillion other towers and they do it without curling up and dying to ceramics.
+                Maybe, but it still needs ceram help
+                    True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+                        That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+                        mad itself costs an insane 78 thousand dollars
+Sauda falls off on expert maps, which is what this is based on
+"Comprehensive tier list for **CHIMPS**"
+Justice for farm😭😭😭
+true esniper should be lower
+    the other way
+Too much spam or otherwise low-effort content clutters the subreddit with posts that add no thoughtful discussion about Bloons TD 6. Please try to make posts that take a bit more effort to create, are more related to Bloons TD 6, and allow for more meaningful conversation.
+
+Thanks!
+Sacrificing towers to Adora makes her get more experience which means you can get her to level 20 for the late game, even with her slower leveling compared to most other heroes.
+    Ig fair, I just never thought that would be worth what you’re sacing to be better then Sauda or Pat
+assuming you mean pmfc (copied from the doc in faq)
+
+\- Plasma Monkey Fan Club is a great tower for lategame burst DPS, given you have something to stall or cover downtime.   
+\- Pairs well with mentoring due to cooldown reduction and free tier 1 upgrades.  
+\- Best paths: x5x  
+
+
+besides village, stalling towers in general (moab glue, moab press, etc) synergize with pmfc to reduce ability downtime
+    No, I meant the middle path Mortar or Artillery Battery into Pop and Awe
+        oh, well striker jones (obviously), relentless glue is a good synergy since paa does bonus dmg to stunned bloons, and overclock for extreme speed
+Kid named siphon funding:
+Syphon Funding and sometimes Bloon Trojan are useful because they reduce the RBE of a round. You can block Trojan with Line of Sight blockers
+Syphon r98
+Bloon Trojan
+Read the FAQ
+Ss is not a perma brew but the entire path read the coment from op
+    Oh that's fair
+Read the damn faq
+Comprehensive tier list represents tier 3-5 as it was answered in the faq if you read it
+faq
+the ranking is for t3-t5, not just t5 (read faq)
+Yes, because you can block Ben's Trojan with line of sight blockers and then use Syphon for more difficult rounds. It's really niche but it does synergize well with Permaspike
+This is chimps tier list he’s useless in it
+    The only reason why he isn’t F Tier is because of his Syphon Funding, which is especially beneficial for downgrading heavy RBE rounds like Round 98.
+>for CHIMPS
+satire requires a clarity of purpose and target lest it be mistaken for and contribute to that which it intends to criticize
+faq
+you do know what chimps is right
+    [deleted]
+        can you show us your run of flying fortress on flooded valley chimps?
+did you perhaps mean spectre?
+the previous upgrade?
+        bait used to be believable
+            [deleted]
+                sure, but saying the 110k tower is required for a chimps setup is bait
+water towers:
+The tier list is taking in count the hardest maps
+no way, the hero that makes money is bad in the gamemode that doesn't let you make money?
+    Do people not read the title or are they just stupid
+    I see geraldo there, he makes money.
+        Geraldo also does extremely powerful support abilities besides money and neutering a couple of really hard lategame waves.
+>for CHIMPS
+"Comprehensive tier list for **CHIMPS**"
+    Proof that people don’t read the titles
+title
+>for CHIMPS
+CHIMPS mode doesn't allow you to make extra money.
+It got like a 10% nerf bro
+are you talking about the changes from v39.0 or v40.0?
+    https://www.reddit.com/r/btd6/comments/18ozthx/made_a_graphic_of_this_updates_balance_changes/
+        less bad/boss dmg literally does nothing, and slightly less stun bonus dmg really isn't that significant
+Stun/BAD/Boss damage aren't even that important, and it still adds more DPS than before the rework.
+Still broken with striker
+Geraldo and Downdraft have been on SS before
+    Sub Commander and Overclock too!
+Based on the comments about him though, it seems he's only there due to a bug, that I wouldn't be surprised if it gets fixed in a week.  Also a bug I might add that can't be implemented in any black border strategy.
+A is a great position wym
+use ucav use wlp end round reload
+it's mainly for the tier 4, which is one of the best abilities in the game
+its whole middle path and shinobi spam/normal sabo are both great options in chimps
+not really sure about grand sabo cuz i don't really use it
+Powercreep, but also pickles and pat fusty were nerfed
+i disagreee.
+
+Benjamin basically deletes all hard late game rounds, sure his only use is his funny syphon, but that absolutely rocks the shit of so many lategame rounds. Even if all benjamin could do is neuter round 98, he would still be about as good as obyn.
+    Ya and the harder part of chimps is they begging and green foot can help with that lead, cammo, Druid buff.
+        the hardest part of chimps is both the beginning and the end, not to mention how much obyn sucks at early game anyways. lead? camo? Obyn's camo is entirely unreliable and his lead is good but his overall popping power sucks, and his druid buffs pale in comparison to using pat or gwen or geraldo.
+
+The early game is hard, but the late game is frequently just as problematic. neither of them are particularly good though, obyn just falls off too hard in terms of the everything and even early game he's outclassed by the other heroes.
+            If his buff is so bad than why do people use him for poplust strategies.
+                an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+                    How is it an irrelevant number?
+                a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+                    ?????
+                    People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+                because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+                    I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+I wonder why the tower that makes more money is bad on CHIMPS mode  
+\- xx3: Deals +9 damage to Leads and DDTs  
+\- xx4: Does nothing  
+\- xx5: Loses you most of your pop income. Also has the DPS of a base alch against the BAD
+Sir, this is CHIMPS mode.
+It has many flaws on the hardest maps
+Getting to the combo is possible but not the easiest thing in the world since WLP is quite a high cost tower, it just takes you from 80 to 100 without any effort.
+    Db and phoenix are pretty good mid game
+You cant use the tier 5 and the tier 4 is pretty bad for the price
+his buffs are pretty minimal and are outclassed by gwen, pat, and geraldo
+Faq
+yes (tho this isn't just ranking the t5's)
+you don't get the money from what it shrinks, so it loses you money
+Sir, this is CHIMPS mode.
+Corvus, overpowered hero
+Corvus is very nice with pod, but necro is kinda bad
+    meant pod bc i couldnt think of its name and just went with necro lol, good to see pod still being part of meta
+He can still downgrade zomgs with siphon, and his trojan can be blocked so he loses minimal money. Still the worst hero though
+We consider the hardest maps in the game. Sauda is unable to start on any of them, and often doesn’t even touch all the lanes either.
+    Ugh. That’s true. Didn’t think about that. She’s solid on one lane maps though. Beats any of them easy
+Check out the information comment below. There is a link to a document that explains all the placements in words.
+Explanations doc is in the info comment
+Beast handler reposition cooldown got reduced, which affects all beasts on the top and middle path.
+Idk some people were complaining about the font change, so we'll see if it stays or not.
+
+Robo went underrated because Geraldo was a whole was underrated. It was discovered about halfway through last update after the previous tierlist was already made. The Etienne WLP bug was also very recent and was found less than a week ago, halfway into the update.
+    About the font, I think it would make sense for the titles/headings to stay as that font, and then the rest as Source Sans Pro (BTD6's body font)
+    Yeah I'm not a fan of the new font.
+
+Good document as always tho!
+    If the font had lowercase available, it might be a good option, but as-is reading longer paragraphs in that font isn't particularly inviting.
+
+I second the other guy's suggestion to have the body text be Source Sans Pro.
+    how has robo geraldo been under rated?
+its like the go 2 cheese strat for map editor chimps
+        Map Editor is a little bit different and not considered here. Since all lanes are active, Carpet of spikes is by far the strongest T5 tower and Gerry Robo is the easiest way to support a spike storm to get to carpet. Pure Robo builds aren't the best, though they have proven to also be just as good as dark knights post saveup.
+            pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+                The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+                    I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+    The font I can go either way on. I haven't read it enough to really have a preference. I enjoy the higher letter visibility and it's probably nice not having to worry about capitalization, but the bolded look is a bit hard on the eyes since it makes everything blend together a little.
+
+I've also read that Glue Storm/Strike buffs may have contributed to it, which makes sense. I haven't tried it, but it sounds like it would annihilate every type of ceramic: double slowdown because of robo-knockback and 04+2 glue combined with rapid fire attacks that deal at least 3-4 damage before crits, alch buffs, and embrittlement. It's basically a stall + DPS strat mixed into 1.
+
+Did quantum entanglement count towards the tier list when it was a thing? It sounds like it would've been an SSS tier benefit.
+        The problem was that you first had to afford the TT5, then spam towers to hopefully link a tower, and then upgrade that tower into another strong tower, and then buy even more buffs for the linking. All in all, it was just not viable in chimps where you have limited cash.
+
+WLP is much simpler: afford WLP, then use Etienne to get permanent phoenixes every round at no additional cost.
+The expert community decided they were underrating the tower a lot.
+15 flaming chickens is enough to take you to the end of the game, meaning you can float upwards of 90k cash between 80 and 100.
+tierlist discussion and voting starts a week after each update and usually takes a month. The tierlist gets made in the last 2-3 days
+Step 1: set your cock on fire
+    I did it and turned into a woman(with KFC). What do I do now?
+        Embrace the new life
+            And eat the KFC
+Specifically flaming birbs go Brrrrr actually. Though the level 8 camo detection allows the much better crosspath so you're partially right
+Superbly smashing!
+    S...... Serially Schizophrenia!
+How is it balanced? It's super expensive and the spikes only last for like 4-5 rounds, despite it saying "almost forever" in the description.
+
+I stopped using them after I realized that. I mostly used it for DDTs anyway, and the middle path spike factory works extremely well for that. You can even settle for the t4 and only get the t5 if you're lazy and\or don't want to build something else.
+    there are several rounds that get outright deleted by 4-5 rounds worth of perma-spikes
+        Yeah, it's definitely not bad... But I just don't see how it can be the same tier as the middle path.
+
+The middle path is simply better in more scenarios, which is what a tier list should be about.
+
+The fact that the perma-spike is only for one lane in and of itself has to put it below the middle path.
+
+Unless I'm missing something?
+            Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+                I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+                    Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+                        Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                            Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+and somehow still does it better than obyn.
+🗿
+Fr, I love DJ Benjammin
+    I'm more of a sushi man myself
+    You mean BenJAMMIN
+        Ok, that was clever
+            That’s literally the name of the skin
+                Oh… didn’t no sorry
+                    consider reading
+                        Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+                Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+    Same (flairs check out)
+Revealing clothes and thats it
+as the dedicated "support hero", ben also comes with abilities and debuffs that are well above that of other heroes on top of his eco power. trojan is incredibly powerful in normal modes, but its cash sucking makes it useless in chimps. relatively recently, you can now block ben behind a wall to prevent trojan, making ben not be a huge drain on cash anymore.
+
+with 90% of his upgrades gone in CHIMPS, ben is a shell of his former self. but syphon funding is still an obnoxiously powerful way to completely obliterate any and all problematic rounds. for early/midgame, you basically don't have a hero at all. which isn't really that big of a problem. then, ben can absolutely trivialize rounds like 96, 98, and 99. you lose out on tens of thousands of dollars from those rounds, but that doesn't matter when you reduce the hardest rounds in the game to nothing.
+
+there are other heroes that actually, like, do stuff in the midgame; while still providing healthy supportive abilities in lategame on top of a good bit of DPS. ben can't do that. but neither can obyn, who is pretty pathetic at all stages in the game. obyn doesn't have anything that's as situationally powerful as ben's abilities that he can lean on as a crutch.
+Benjamin is really good on round 98, so in CHIMPS people calculate when to drop him to get syphon funding as late as possible to use it on r98.
+Benjamin doesn't harm your Chimps run if you place him smartly, as just bloon Trojan can't pass LoS obstacles
+    Bloon Trojan is all he is capable of doing in Chimps. If you are blocking LoS, you are just wasting the $1440 it takes to put him down.
+        He can get to lvl 10 if placed on the correct round and rid you of 98
+        Ben’s lv10 literally nukes round 98. That is definitely something of note.
+He's better but not by much. Obyn sucks pretty badly when he only has one set of trees to handle multiple lanes.
+    Also… 
+- You want good bramble placement? We don’t have good bramble placement!
+- This is some BIG RNG. (Brambles and Totem)
+set an expensive cock ablaze under a frenchman's aircraft's gaze :sholthink:
+
+okay on a more serious note, it involves Wizard Lord Pheonix (WLP) and Etienne, which is why they are so high on the tierlist all of a sudden. Basically, if both the UCAV and WLP ability are simultaneously active when a round passes, you can leave and rejoin the game to obtain another, permanent Pheonix subtower.
+
+This is indefinitely repeatable, which quite obviously nullifies any and all challenge on any map if you can just get a WLP saveup with Etienne. Though, since you need to leave the game for the bug to work, this is impossible to work into a Black Border strategy, as per the joke above.
+    That's wild. I appreciate your detailed explanation
+    Gold boarders here we come!!!!
+basically you can use UCAV and WLP and then back out of game and duplicate phoenix
+How can a hero be so bad that he’s below the farming hero in a gamemode where you can’t farm
+    I mean he has a pierce buff which only really affects like dark knight and transforming tonic and he also can defeat half of the r95 ddts and that's it
+        The r95 is because of the trees ability?
+            ye
+I’m not mad that Ben is up with Obyn, I’m mad that Obyn is down with Ben
+If you waste a bunch of Geraldo items you can kinda do that. 2 genies and 3 maelstroms. But it's best to save 1 genie for r99+100
+I think he means that Obyn needs a buff
+I’m so confused?? What am I missing???
+If you set your cock on fire you instantly win if a frenchman witnesses
+    This is a HOT interaction.
+    Your flair checks in perfectly and ypu're part of it
+Make sure wlp ability and either drone swarm or UCAV are active when the round ends. Then once the next round starts, quit to home and enter the game again. There will be an extra permanent phoenix
+    So you can’t use it for black boarder chimps but it’s still OP. Can you use the wlp ability again to get two wlp at the same time?
+        You can get infinite by just repeating the process above, but only once per round. Using the WLP ability doesn't affect the bonus phoenixes.
+        No it’s just the permaphoenix that gets duplicated
+2tc with him and 000 dart
+    Sorry I'm new to the game so the haven't got all the acronyms down what is 2tc?
+        2 towers chimps
+            Ahhh ok thank you
+I know, I can read.
+"gutted" it went from +9 moab dmg to +8 when it was originally +5, it really isn't too bad of a nerf
+    Oh My God Minus One Moab Damage That Is Such A Huge Nerf!!!!!!!!!!!
+Middle path still crushes in true expert maps, you see it being used in the top 10 hardest custom maps in the world.
+
+[https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&](https://cdn.discordapp.com/attachments/1190062632573608007/1196228982383841391/image.png?ex=65b6de0e&is=65a4690e&hm=0d346859c8f7bf1e2fd6f4307a9331b0666ceca7769b8146b424f0acad4fb2d5&) there's an example
+Nah, I only struggle with DDT's.
+[have a look at this guide on how best to position towers](https://www.reddit.com/r/btd6/s/bsptyPs5ps), it helped me a lot when I started!
+(Sorry for my terrible English)
+
+Just wanted to update, but I no longer have those problems. I even beat monkey meadows on chimps and there was a pretty cool story behind it. I was playing on my phone with my friend and I decided to try chimps. My friend decided to steal my strategy and the only thing he decided to change was adding Sauda (I didn't use a hero). Then, at around round 90 some bloons got past, but the perma-spikes popped them. My friend didn't believe in the perma-spikes, so he decided to turn it into the worst strategy possible, by investing 50k into random, trash, cheap towers, instead of upgrading the ring of fire, like a normal person and somehow he beat chimps earlier than me and somehow his strategy worked and now he says, he made his strategy on his own. 
+
+If you were wondering what strategy was I using it was: 
+
+* 5-0-2 Tack shooter below the first loop.
+* 4-0-2 Sniper monkey somewhere. It was used to pop stronger bloons. I wanted to make it a 2-0-5, but I've accidentally upgraded the top path, so I also upgraded it to Maim MOAB, but I didn't upgrade to Cripple MOAB, because of the longer stun which reduces the "mana" of the
+* 2-0-5 Wizard monkey on the second side of the road with the tack shooter. It was used to pop DDT's.
+* 2-0-5 Spike Factory at the end to pop any leftover bloons.
+
+If you know how to improve it, please leave a reply, telling me what can I improve.
+    Use a hero! All heroes are incredibly useful and a great investment. If you want to get through most beginner CHIMPS, Sauda can help with that, she’s probably the most straightforward hero. 
+
+As for other heroes - Gwen can boost the attack speed of top path tack, middle path wizard and bottom path mortar, and can do huge damage later in the game. Ezili can be hard to use in the early game but with bottom path wizard you can destroy any MOAB-class easily with her ability. Play around with some other heroes too! They’re all really useful in their own way. 
+
+You made some good decisions! 205 wizard is one of the best towers for most maps, I try to use it whenever possible. Don’t forget with tack that you can use top path village to boost its pierce and attack speed. Permaspike is a great tower for single lane maps, especially with anything that can stall like top path sniper. 
+
+As for placements, try to put your towers close together in order to buff them all at once. If you’re using a top path alchemist (as per this tier list the best tower in the game) or a village, you need all your towers near each other.
+        Yeah, I know to use a hero, but I had Corvus, which you can't buy at the start and I forgot to place him down later. And I know what are buffs. I also don't own Sauda and Ezili. Also, happy cake day.
+            haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+Just curious, is there a list of the maps that qualify as true expert?
+    for a while now its been ouch,quad,bloody puddles,ravine,and maybe dark dungeons but i would say not.
+        Dungeons is in no way texpert lmao
+    https://bloons.fandom.com/wiki/True_Experts
+        do not ever link the wiki for anything ever. it has straight up misinformation and unreliable sources
+Tbh I'm not aware of any ravine strategies that involve brickell. So I didn't count her there - and on dark dungeons since I feel like while there's water, I just can't imagine picking her on that map (altough that's a BB I do not have yet - so maybe I'm wrong there)
+
+Which would leave us with 4 maps in which you might take her - while for land based heroes that restriction obviously doesn't exist 
+
+I mean it's entirely possible that I'm just not aware of some crazy strategies people came up with since I'm not really engaged with the community apart from this subreddit, but I'd honestly be Impressed if it would be otherwise
+Fair enough I guess
+That's stupid. Why would they use the icon for Super Mines then?
+    To refer to the entire upper upgrade path as a whole.
+    did you like, not read the FAQ?
+        Pretty sure Maddie is one of the people that works on this tier list and she's just being sarcastic rn
+            oh, okay
+        I did. it's still stupid.
+Thank you
+shut up newgen
+Horrible butchering of jitsu
+I feel like I’m having a stroke reading this thread
+Oh ok
+of course I'm not saying OP's a Nazi, just a bit of \*hold up\* moment
+[deleted]
+    That’s not what happens, brew just doesn’t affect sub towers such as sentries at all. All you get is a stronger nail gun on the main engineer and about 1/2 of an extra sentry.
+I see but why smth like downdraft stalling smth or Moab shove won't work
+    because psi kills them
+    cant stall like 95 or smth cause psi kills them. need psi cause 92 and 96
+Because it’s amazing at killing MOAB class Bloons and bosses
+    Bosses? This is a chimps tier list
+        Oh… well fair point but it’s still fantastic at the former.
+            so are a bajillion other towers and they do it without curling up and dying to ceramics.
+            Maybe, but it still needs ceram help
+                True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+                    That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+                    mad itself costs an insane 78 thousand dollars
+the other way
+Ig fair, I just never thought that would be worth what you’re sacing to be better then Sauda or Pat
+No, I meant the middle path Mortar or Artillery Battery into Pop and Awe
+    oh, well striker jones (obviously), relentless glue is a good synergy since paa does bonus dmg to stunned bloons, and overclock for extreme speed
+Oh that's fair
+The only reason why he isn’t F Tier is because of his Syphon Funding, which is especially beneficial for downgrading heavy RBE rounds like Round 98.
+[deleted]
+    can you show us your run of flying fortress on flooded valley chimps?
+did you perhaps mean spectre?
+the previous upgrade?
+    bait used to be believable
+        [deleted]
+            sure, but saying the 110k tower is required for a chimps setup is bait
+Do people not read the title or are they just stupid
+I see geraldo there, he makes money.
+    Geraldo also does extremely powerful support abilities besides money and neutering a couple of really hard lategame waves.
+Proof that people don’t read the titles
+https://www.reddit.com/r/btd6/comments/18ozthx/made_a_graphic_of_this_updates_balance_changes/
+    less bad/boss dmg literally does nothing, and slightly less stun bonus dmg really isn't that significant
+Sub Commander and Overclock too!
+Ya and the harder part of chimps is they begging and green foot can help with that lead, cammo, Druid buff.
+    the hardest part of chimps is both the beginning and the end, not to mention how much obyn sucks at early game anyways. lead? camo? Obyn's camo is entirely unreliable and his lead is good but his overall popping power sucks, and his druid buffs pale in comparison to using pat or gwen or geraldo.
+
+The early game is hard, but the late game is frequently just as problematic. neither of them are particularly good though, obyn just falls off too hard in terms of the everything and even early game he's outclassed by the other heroes.
+        If his buff is so bad than why do people use him for poplust strategies.
+            an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+                How is it an irrelevant number?
+            a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+                ?????
+                People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+            because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+                I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+Db and phoenix are pretty good mid game
+meant pod bc i couldnt think of its name and just went with necro lol, good to see pod still being part of meta
+Ugh. That’s true. Didn’t think about that. She’s solid on one lane maps though. Beats any of them easy
+About the font, I think it would make sense for the titles/headings to stay as that font, and then the rest as Source Sans Pro (BTD6's body font)
+Yeah I'm not a fan of the new font.
+
+Good document as always tho!
+If the font had lowercase available, it might be a good option, but as-is reading longer paragraphs in that font isn't particularly inviting.
+
+I second the other guy's suggestion to have the body text be Source Sans Pro.
+how has robo geraldo been under rated?
+its like the go 2 cheese strat for map editor chimps
+    Map Editor is a little bit different and not considered here. Since all lanes are active, Carpet of spikes is by far the strongest T5 tower and Gerry Robo is the easiest way to support a spike storm to get to carpet. Pure Robo builds aren't the best, though they have proven to also be just as good as dark knights post saveup.
+        pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+            The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+                I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+The font I can go either way on. I haven't read it enough to really have a preference. I enjoy the higher letter visibility and it's probably nice not having to worry about capitalization, but the bolded look is a bit hard on the eyes since it makes everything blend together a little.
+
+I've also read that Glue Storm/Strike buffs may have contributed to it, which makes sense. I haven't tried it, but it sounds like it would annihilate every type of ceramic: double slowdown because of robo-knockback and 04+2 glue combined with rapid fire attacks that deal at least 3-4 damage before crits, alch buffs, and embrittlement. It's basically a stall + DPS strat mixed into 1.
+
+Did quantum entanglement count towards the tier list when it was a thing? It sounds like it would've been an SSS tier benefit.
+    The problem was that you first had to afford the TT5, then spam towers to hopefully link a tower, and then upgrade that tower into another strong tower, and then buy even more buffs for the linking. All in all, it was just not viable in chimps where you have limited cash.
+
+WLP is much simpler: afford WLP, then use Etienne to get permanent phoenixes every round at no additional cost.
+I did it and turned into a woman(with KFC). What do I do now?
+    Embrace the new life
+        And eat the KFC
+S...... Serially Schizophrenia!
+there are several rounds that get outright deleted by 4-5 rounds worth of perma-spikes
+    Yeah, it's definitely not bad... But I just don't see how it can be the same tier as the middle path.
+
+The middle path is simply better in more scenarios, which is what a tier list should be about.
+
+The fact that the perma-spike is only for one lane in and of itself has to put it below the middle path.
+
+Unless I'm missing something?
+        Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+            I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+                Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+                    Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                        Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+I'm more of a sushi man myself
+You mean BenJAMMIN
+    Ok, that was clever
+        That’s literally the name of the skin
+            Oh… didn’t no sorry
+                consider reading
+                    Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+            Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+Same (flairs check out)
+Bloon Trojan is all he is capable of doing in Chimps. If you are blocking LoS, you are just wasting the $1440 it takes to put him down.
+    He can get to lvl 10 if placed on the correct round and rid you of 98
+    Ben’s lv10 literally nukes round 98. That is definitely something of note.
+Also… 
+- You want good bramble placement? We don’t have good bramble placement!
+- This is some BIG RNG. (Brambles and Totem)
+That's wild. I appreciate your detailed explanation
+Gold boarders here we come!!!!
+I mean he has a pierce buff which only really affects like dark knight and transforming tonic and he also can defeat half of the r95 ddts and that's it
+    The r95 is because of the trees ability?
+        ye
+This is a HOT interaction.
+Your flair checks in perfectly and ypu're part of it
+So you can’t use it for black boarder chimps but it’s still OP. Can you use the wlp ability again to get two wlp at the same time?
+    You can get infinite by just repeating the process above, but only once per round. Using the WLP ability doesn't affect the bonus phoenixes.
+    No it’s just the permaphoenix that gets duplicated
+Sorry I'm new to the game so the haven't got all the acronyms down what is 2tc?
+    2 towers chimps
+        Ahhh ok thank you
+Oh My God Minus One Moab Damage That Is Such A Huge Nerf!!!!!!!!!!!
+Use a hero! All heroes are incredibly useful and a great investment. If you want to get through most beginner CHIMPS, Sauda can help with that, she’s probably the most straightforward hero. 
+
+As for other heroes - Gwen can boost the attack speed of top path tack, middle path wizard and bottom path mortar, and can do huge damage later in the game. Ezili can be hard to use in the early game but with bottom path wizard you can destroy any MOAB-class easily with her ability. Play around with some other heroes too! They’re all really useful in their own way. 
+
+You made some good decisions! 205 wizard is one of the best towers for most maps, I try to use it whenever possible. Don’t forget with tack that you can use top path village to boost its pierce and attack speed. Permaspike is a great tower for single lane maps, especially with anything that can stall like top path sniper. 
+
+As for placements, try to put your towers close together in order to buff them all at once. If you’re using a top path alchemist (as per this tier list the best tower in the game) or a village, you need all your towers near each other.
+    Yeah, I know to use a hero, but I had Corvus, which you can't buy at the start and I forgot to place him down later. And I know what are buffs. I also don't own Sauda and Ezili. Also, happy cake day.
+        haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+for a while now its been ouch,quad,bloody puddles,ravine,and maybe dark dungeons but i would say not.
+    Dungeons is in no way texpert lmao
+https://bloons.fandom.com/wiki/True_Experts
+    do not ever link the wiki for anything ever. it has straight up misinformation and unreliable sources
+To refer to the entire upper upgrade path as a whole.
+did you like, not read the FAQ?
+    Pretty sure Maddie is one of the people that works on this tier list and she's just being sarcastic rn
+        oh, okay
+    I did. it's still stupid.
+That’s not what happens, brew just doesn’t affect sub towers such as sentries at all. All you get is a stronger nail gun on the main engineer and about 1/2 of an extra sentry.
+because psi kills them
+cant stall like 95 or smth cause psi kills them. need psi cause 92 and 96
+Bosses? This is a chimps tier list
+    Oh… well fair point but it’s still fantastic at the former.
+        so are a bajillion other towers and they do it without curling up and dying to ceramics.
+        Maybe, but it still needs ceram help
+            True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+                That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+                mad itself costs an insane 78 thousand dollars
+oh, well striker jones (obviously), relentless glue is a good synergy since paa does bonus dmg to stunned bloons, and overclock for extreme speed
+can you show us your run of flying fortress on flooded valley chimps?
+did you perhaps mean spectre?
+the previous upgrade?
+bait used to be believable
+    [deleted]
+        sure, but saying the 110k tower is required for a chimps setup is bait
+Geraldo also does extremely powerful support abilities besides money and neutering a couple of really hard lategame waves.
+less bad/boss dmg literally does nothing, and slightly less stun bonus dmg really isn't that significant
+the hardest part of chimps is both the beginning and the end, not to mention how much obyn sucks at early game anyways. lead? camo? Obyn's camo is entirely unreliable and his lead is good but his overall popping power sucks, and his druid buffs pale in comparison to using pat or gwen or geraldo.
+
+The early game is hard, but the late game is frequently just as problematic. neither of them are particularly good though, obyn just falls off too hard in terms of the everything and even early game he's outclassed by the other heroes.
+    If his buff is so bad than why do people use him for poplust strategies.
+        an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+            How is it an irrelevant number?
+        a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+            ?????
+            People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+        because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+            I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+Map Editor is a little bit different and not considered here. Since all lanes are active, Carpet of spikes is by far the strongest T5 tower and Gerry Robo is the easiest way to support a spike storm to get to carpet. Pure Robo builds aren't the best, though they have proven to also be just as good as dark knights post saveup.
+    pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+        The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+            I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+The problem was that you first had to afford the TT5, then spam towers to hopefully link a tower, and then upgrade that tower into another strong tower, and then buy even more buffs for the linking. All in all, it was just not viable in chimps where you have limited cash.
+
+WLP is much simpler: afford WLP, then use Etienne to get permanent phoenixes every round at no additional cost.
+Embrace the new life
+    And eat the KFC
+Yeah, it's definitely not bad... But I just don't see how it can be the same tier as the middle path.
+
+The middle path is simply better in more scenarios, which is what a tier list should be about.
+
+The fact that the perma-spike is only for one lane in and of itself has to put it below the middle path.
+
+Unless I'm missing something?
+    Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+        I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+            Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+                Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                    Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+Ok, that was clever
+    That’s literally the name of the skin
+        Oh… didn’t no sorry
+            consider reading
+                Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+        Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+He can get to lvl 10 if placed on the correct round and rid you of 98
+Ben’s lv10 literally nukes round 98. That is definitely something of note.
+The r95 is because of the trees ability?
+    ye
+You can get infinite by just repeating the process above, but only once per round. Using the WLP ability doesn't affect the bonus phoenixes.
+No it’s just the permaphoenix that gets duplicated
+2 towers chimps
+    Ahhh ok thank you
+Yeah, I know to use a hero, but I had Corvus, which you can't buy at the start and I forgot to place him down later. And I know what are buffs. I also don't own Sauda and Ezili. Also, happy cake day.
+    haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+Dungeons is in no way texpert lmao
+do not ever link the wiki for anything ever. it has straight up misinformation and unreliable sources
+Pretty sure Maddie is one of the people that works on this tier list and she's just being sarcastic rn
+    oh, okay
+I did. it's still stupid.
+Oh… well fair point but it’s still fantastic at the former.
+    so are a bajillion other towers and they do it without curling up and dying to ceramics.
+    Maybe, but it still needs ceram help
+        True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+            That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+            mad itself costs an insane 78 thousand dollars
+[deleted]
+    sure, but saying the 110k tower is required for a chimps setup is bait
+If his buff is so bad than why do people use him for poplust strategies.
+    an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+        How is it an irrelevant number?
+    a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+        ?????
+        People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+    because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+        I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+pure robo builds probably beat all texperts pretty easily (I think ive only seen a bloody run and that was lcc idk I dont rmemrmbmemthjwhrt)
+when was the last time I saw dn 
+    The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+        I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+And eat the KFC
+Perma-Spike can be for multiple lanes if they're both in range. There are placements to accomplish this on every True Expert map. It can't get all of them, but the lanes it does get are basically solved for most of the game, which Spike Storm cannot hope to accomplish. Get 76'd idiot. Hell, *Carpet of Spikes* can't hope to accomplish it either, and that's even more expensive than Perma-Spike.
+    I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+        Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+            Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+                Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+That’s literally the name of the skin
+    Oh… didn’t no sorry
+        consider reading
+            Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+    Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+ye
+Ahhh ok thank you
+haha thanks! Corvus is amazing if you get used to all the spells, really overpowered.
+oh, okay
+so are a bajillion other towers and they do it without curling up and dying to ceramics.
+Maybe, but it still needs ceram help
+    True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+        That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+        mad itself costs an insane 78 thousand dollars
+sure, but saying the 110k tower is required for a chimps setup is bait
+an entirely irrelevant number for both, because the number of people who use a thing has absolutely nothing to do with how strong a tower is, and because both are rarely used for true expert
+    How is it an irrelevant number?
+a lot of ppl are saying they don’t gonna use corvus, therefore, he’s not a good hero
+    ?????
+    People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+because he's a free hero, so many guides use him to be "beginner friendly". obyn isn't a bad hero, he's simply outclassed by other heroes in terms of basically everything.
+    I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+The LCC was tech terror, done quite a while ago, not robos. Pure robo gets holed into glue storm and it doesn't get anywhere better than 50k leftover because of the dual weakness to 98 and 100 as you can't double genie both.
+    I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+I don't know what you mean by "Get 76'd idiot".
+
+Is it because level 76 can't be beaten with it? Because that is definitely not true.
+    Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+        Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+            Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+Oh… didn’t no sorry
+    consider reading
+        Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+Wait it's not dj ben?!
+
+MY LIFE IS AS REAL AS THE CAKE!!!
+True, but that’s what Prince of Darkness is for. It’s a pretty cheap cleanup tower for the MAD.
+    That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+    mad itself costs an insane 78 thousand dollars
+How is it an irrelevant number?
+?????
+People just dont use Corvus because he is micro intensive and some people dont like pressing buttons
+I know that I don’t even use him to often in chimps I was just saying that he should have been placed higher than Ben
+I see, thanks for explanation amphibi, now when is maim getting polled down. what strats even use it anymore? maybe like 402 maim on ouch? or 420 on ravine but I dont think ive seen psi maim being used in a long time on ravine
+Oh yeah, that's before Super Ceramics. You could get away with just clicking the button, I guess. It'd be more accurate to say Get 83'd idiot.
+    Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+        Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+consider reading
+    Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+That’s still a pretty expensive pair of towers that still struggle to 98 and will require support when saving up. MAD isn’t bad, just other towers are better
+mad itself costs an insane 78 thousand dollars
+Hmm, I'm still not able to make sense of what y'all are saying.
+
+Does the 2-5-0 tower not deal with super ceramics?
+
+I'm going through the easy maps now to get those pretty black borders, and so far I've set up 1 super monkey(usually 0-4-2) with some support(4-2-0 alch and a 2-3+-0 village) and a 2-5-0 spike trap and I've beaten both chimps and impoppable with this strategy.
+
+If I say I've only been playing for like a month now, does that maybe explain why I'm so confused?
+
+I'm not trying to troll or anything, I'm trying to get better at the game. Only the other day i heard of how shit the permaspike supposedly was and ended up opting for the middle path instead.
+    Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.
+Consider being a decent person who allows people to skip over like one letter on accident? Dude did nothing wrong
+Oh yeah, the Super Monkey is what's doing the Ceramic work there. Tech Terror's absurd fire rate melts through the HP of the Ceramics after the Carpet takes care of the MOABs.
+
+Don't get me wrong, it's not like Carpet is bad or anything. but Carpet is really good ***against blimps.*** Blimps take 9 damage per spike, but Ceramics only take one. A Super Ceramic can crash through *seven* piles of Carpet spikes before being wiped out, assuming the 250 crosspath. Meanwhile, ***each*** pile of Perma-Spike can take out ***twelve*** Super Ceramics with the same crosspath (nearly thirteen, actually!). The damage output isn't ceramic-specific either, that's just how much damage they do in general, each Perma-Spike pile takes out an entire Fortified MOAB including its contents. It shoots slower, but that really doesn't matter with how much more effective each spike is.
+
+They're good at different things. Carpet is good at clearing every blimp on the screen, but struggles with the ceramics that result from doing that. Perma is good at clearing ***every bloon in its lane,*** at least until especially huge rounds like 98. Carpet still needs relatively expensive support like a Tech Terror in order to handle any of its lanes effectively, but Perma's support can stop with a Berserker Brew and an Unstable Concoction and save *absurd* amounts of money prior to the rounds that actually give it trouble.
+
+Go ahead, see how Perma-Spike performs if you swap your Carpet for it on your Beginner CHIMPS attempts. You won't be disappointed.

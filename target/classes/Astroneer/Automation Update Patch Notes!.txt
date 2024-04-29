@@ -1,0 +1,1111 @@
+[[Automation Update Patch Notes!]]
+
+
+&#x200B;
+
+https://preview.redd.it/z35zwkf8mw651.png?width=800&format=png&auto=webp&s=64dad83d8870effb591b94e838ee488d7711f920
+
+Steam players should receive this update today, June 24th, 2020.
+
+~~Xbox 'Play Anywhere' and PS4 versions will be available later this week!~~
+
+Xbox Play Anywhere is available now!
+
+We will update you all on a timeline for PS4
+
+Welcome to the Automation Update! This content update contains a full array of tools that work seamlessly with the existing game to give you an incredible amount of options to use custom logic to automate every part of your space bases and technology! This update also contains a ton of quality of life changes to modules, a balance and organization pass in the catalog, a new in-game event with rewards, and the rollout of Exo Outfitters!
+
+[https://www.youtube.com/watch?v=SNabzFwCR8M&feature=youtu.be](https://www.youtube.com/watch?v=SNabzFwCR8M&feature=youtu.be)
+
+# HOTFIX 2 PATCH NOTES - 7-18-20
+
+*- A performance fix for medium canisters*  
+*- A fix for terrain analyzers! Unfortunately current analyzers in the world will still be impacted, but should be fixed moving forward!*
+
+**Updates**  
+Automation Items are now live in game. Automate every step of the crafting system, from the collection of mined resources to the production of the most advanced composites.
+
+# Auto Extractor:
+
+Auto Extractors can be used to gather resources automatically without deforming terrain and at a much higher efficiency. Place one on a resource node and it will gather 15x the resources from the same amount of raw resources when compared to gathering them manually with the terrain tool.
+
+* Printed on: Large Printer
+* Resource Cost: 2 Steel, 1 Tungsten Carbide, 1 Rubber
+* Byte Cost: 7,500 Bytes
+
+# Auto Arms
+
+https://preview.redd.it/43rkv0t2fx651.jpg?width=3840&format=pjpg&auto=webp&s=f601b34aa83d08ae5a66a5125d36278196927139
+
+Auto Arms automatically transfer small items into open slots. These items are at the core of Automation, and can be used in a variety of ways to automate tasks that would previously require manual intervention. You can also set a filter to Auto Arms to make sure they look for a specific resource to make smarter automation pipelines and/or to sort resources!
+
+* Printed on: Small Printer
+* Resource Cost: 1 Aluminum, 1 Graphite
+* Byte Cost: 1,500 Bytes
+
+# Medium and Large Resource Canisters
+
+https://preview.redd.it/ur0h22bkfx651.jpg?width=2560&format=pjpg&auto=webp&s=5b75e7a84447536ca58da470fcf78983ce2d0c7e
+
+Hold a large amount of a single resource. Medium and Large Storage containers act like a silo that can be used to consolidate one resource into it's reservoir. You can then grab resources from them for crafting or Automation tasks.
+
+# Medium Resource Canister
+
+* Printed on: Small Printer
+* Resource Cost: 1 Plastic, 1 Glass
+* Byte Cost: 2,000 Bytes
+
+# Large Resource Canister
+
+* Printed on: Medium Printer
+* Resource Cost: 1 Titanium, 1 Glass, 1 Nanocarbon Alloy
+* Byte Cost: 5,000 Bytes.
+
+# Sensors and Repeaters:
+
+https://preview.redd.it/xtpfcdaofx651.jpg?width=2560&format=pjpg&auto=webp&s=f1d418eddc18ecf491df08a63f07f2eae973583e
+
+These items allow for the remote activation of items based on various conditions. You can then create logic that can be used to automate a variety of tasks. Use the Power Sensor to trigger a backup generator when wind power dies down. Use a storage sensor to activate crafting modules based on a specific Resource Container. Trigger a battery sensor to make sure you are being as efficient as possible with generators and renewable energy.
+
+**Power Sensor: Activates targeted items based on changes in available power**
+
+* Printed on: Small Printer
+* Resource Cost: 1 Zinc, 1 Copper
+* Byte Cost: 500 Bytes
+
+**Storage Sensor: Activates targeted items based on changes in available storage**
+
+* Printed on: Small Printer
+* Resource Cost: 1 Zinc, 1 Quartz
+* Byte Cost: 750 Bytes
+
+**Battery Sensor: Activates targeted items based on changes in battery charge**
+
+* Printed on: Small Printer
+* Resource Cost: 1 Zinc, 1 Graphite
+* Byte Cost: 750 Bytes
+
+**Button Repeater: When activated, also activates any targeted items**
+
+* Printed on: Small Printer
+* Resource Cost: 1 ZincByte Cost: 300 Bytes
+
+# Exo Outfitters Store
+
+https://preview.redd.it/l33l17i21x651.png?width=1920&format=png&auto=webp&s=a8add63ea2421968b9e89c87f912c7c287363071
+
+You can now purchase new suits and additional cosmetic items like hats, masks, visors, and palettes in the in-game store! The first bundle in store contains the new Frame Suit, as well as the Robot Dance and animated Happy Blue Visor!
+
+https://preview.redd.it/zuern8hm1x651.png?width=1920&format=png&auto=webp&s=be27069d8f1e5cc8b85a085237b783614db1c503
+
+&#x200B;
+
+# Module Automation:
+
+Several modules have been revised to support continuous operation alongside the new automation items.
+
+**Chemistry Lab**
+
+* Can now be toggled on and will stay on until turned off.
+* Sensors/Repeaters can toggle this module on and off
+* Will craft continuously while on and recipe is fulfilled.
+* Changing recipes while on will turn the module off.
+* Changed to only pull resources from a backpack when the module is turned on by a player, not when the control panel is opened.
+
+**Research Chamber**
+
+* Can now be toggled on and will stay on until turned off.
+* Sensors/Repeaters can toggle this module on and off.
+* This module will now research continuously when turned on and researchable items placed in the chamber.
+* Losing power will not turn the module off; like the smelter, when power is restored it will continue to produce.
+* Cancelling a research job will no longer destroy the item being researched. Its research progress will be saved and it can be removed and another item placed into the research chamber.
+
+**Atmospheric Condenser**
+
+* Can now be toggled on and will stay on until turned off.
+* Sensors/Repeaters can toggle this module on and off.
+* While on, It will pause until a current resource is pulled off (either by the player, auto arm, or connected storage), but then will continue without player intervention.
+
+**Smelting Furnace**
+
+* Will no longer eject completed nuggets to the ground, but will continue moving nuggets to connected storage.
+* Will pause until its output slot is cleared.
+* Sensors/Repeaters can toggle this module on and off.
+
+**Soil Centrifuge**
+
+* Sensors/Repeaters can trigger this module to start.
+
+**EXO Request Platform and Trade Platform**
+
+* Sensors/Repeaters can trigger this module to start.
+
+**Printers**
+
+* Sensors/Repeaters can trigger all printers to start.
+
+**Shredders**
+
+* Will no longer eject completed nuggets to the ground.
+* Will pause until its output slot is cleared.
+
+# EXO Automated Mass Production Protocol LTE
+
+The Automatic Mass Production Protocol has been initiated! EXO Dynamics is proud to provide new and improved automation modules that will revolutionize your resource management.Astroneers are asked to provide large amounts of resource nuggets in stages, with unique cosmetics and helpful items provided for their efforts. Points are only given for the stage you're currently on – cooperation is encouraged for efficiency!
+
+**Event Rewards**
+
+* “VR Vision” Mask - Rewarded for completing the Compound Stage
+* “Gearhead” Hat - Rewarded for completing the Aluminum Stage
+* “Metal Gear” Visor - Rewarded for completing the Aluminum Alloy Stage
+* Useful incremental rewards along the way to jumpstart your automation play
+* Randomized recurring rewards from Astronium at the end of the event
+
+**Catalog, Recipe, and Byte Cost Changes**
+
+All pages of the Research Catalog have been adjusted to better organize their contained items.
+
+**Items Moved to Different Research Catalog Pages**
+
+* Power Extenders moved to Small Printer Page.
+* Large Hoop Platform A moved to Large Printer Page.
+* Large Hoop Platform B moved to Large Printer Page.
+* Landing Pad moved to Large Printer Page.
+
+**Recipe Changes**
+
+* Medium T-Platform recipe changed to 2 Resin.
+* Tall Platform recipe changed to 1 Ceramic.
+* Large Storage Ring recipe changed to 1 Zinc, 2 Quartz.
+* Large T-Platform recipe changed to 1 Resin, 2 Aluminum
+* Large Curved Platform recipe changed to 2 Ceramic, 1 Compound.
+* Large Platform C recipe changed to 1 Resin, 1 Iron, 1 Ceramic.
+* Large Hoop Platform A recipe changed to 1 Zinc, 2 Quartz.
+* Large Hoop Platform B recipe changed to 2 Zinc, 1 Quartz.
+* Extra Large Storage recipe changed to 2 Iron, 2 Ceramic.
+* Extra Large Arch Platform recipe changed to 2 Zinc, 2 Quartz.
+* Recreational Canopy recipe changed to 2 Zinc, 2 Quartz.
+* Figurine Platform recipe changed to 4 Iron.
+* Extra Large Platform C recipe changed to 2 Iron, 2 Resin.
+* Extra Large Curved Platform recipe changed to 2 Ceramic, 2 Compound.
+
+**Byte Cost Changes**
+
+* Medium T-Platform unlock cost reduced to 400 Bytes.
+* Tall Platform unlock cost reduced to 750 Bytes.
+* Large Storage Ring unlock cost reduced to 500 Bytes.
+* Large T-Platform unlock cost reduced to 1000 Bytes.
+* Large Curved Platform unlock cost reduced to 1000 Bytes.
+* Large Platform C unlock cost reduced to 2000 Bytes.
+* Large Hoop Platform A unlock cost reduced to 750 Bytes.
+* Large Hoop Platform B unlock cost reduced to 750 Bytes.
+* Extra Large Arch Platform unlock cost reduced to 1000 Bytes.
+* Recreational Canopy unlock cost reduced to 1000 Bytes.
+* Figurine Platform unlock cost reduced to 3000 Bytes.
+* Extra Large Platform C unlock cost reduced to 2000 Bytes.
+* Extra Large Curved Platform unlock cost reduced to 2000 Bytes.
+
+# Dedicated Server Updates
+
+All private dedicated servers can now authenticate achievements and cosmetic unlocks. Thanks for all your feedback on this, glad we could figure this out for this update.
+
+# Bugfixes
+
+The following bugs have been fixed as of version 1.13.121.0
+
+**Modules**
+
+* \[AS-4403\] - After reloading a Save, Packager can be used while it is attached to an item
+* \[AS-6195\] - After reloading a save, power does not extend to additional platforms if there is not a surplus of power
+* \[AS-6355\] - the Splitter now provides no power when the slider is set to 0.00
+* \[AS-6599\] - Canceling research in the research chamber while it is not connected to power will now stop it from continuing to consume power
+* \[AS-6711\] - B/m power meter on the Research Chamber remains present and accurate after reloading a save
+* \[AS-8788\] - Packaging the platform holding an active module will no longer give the module infinite power
+* \[AS-8952\] - If the Soil Centrifuge is running, its control panel no longer shows a Red X cancel button
+* \[AS-9195\] - The Large Storage Ring should now only be listed in the Large Printer
+* \[AS-9748\] - Game no longer crashes when User tries to research a T2 research object that was packaged while on the Research Chamber
+* \[AS-10762\] - If a user has multiple soil canisters on their backpack and they add or flatten terrain, the canisters will now deplete individually
+* \[AS-10808\] - Chemistry lab will no longer steal partial nuggets from the backpack printer if both are activated near the same time
+* \[AS-10926\] - The output slot where the nugget gets built should now move inside the module when the Chem Lab is in use
+
+**Dedicated Server/Multiplayer**
+
+* \[AS-6345\] - Client is now able to see the estimated research time when placing an item in the Research Chamber
+* \[AS-9824\] - When a user attempts to join a dedicated server through their friends list the submenu no longer shifts downward
+* \[AS-10898\] - Dedicated Server platform warning can now be read in Russian, Japanese and French
+* \[AS-10965\] - Servers saved as a favorite now automatically enter the password
+* \[AS-11085\] - Game will no longer crash when reaching min/max FPS rate
+* \[AS-11032\] - The UI in the pause menu now says “PLAYERS IN SESSION”
+* \[AS-11170\] - Switching Xbox accounts while game is running should now show correct item ownership
+* \[AS-11100\] - Servers cannot be de-registered without authentication
+* \[AS-10646\] - Both Clients and Hosts should now see EXO request platform rockets on Steam
+* \[AS-10810\] - Time to research in research chamber control panel will now be accurate
+* \[AS-10967\] - Client is now able to dismiss the tutorial with the controller and return to gameplay
+* \[AS-11033\] - User can interact with the request platform on preferred, achievement-enabled dedicated servers
+
+**LTE**
+
+* \[AS-10667\] - EXO Request Platforms from previous saved events should now have T2 slots
+
+**General Miscellaneous**
+
+* \[AS-10996\] - Several emotes now show the correct preview on the correct suit in the customization menu
+* \[AS-11010\] - The Control (PS4) Suit is now playing correct emote animations
+* \[AS-11039\] - Laterite resource should now be appearing in the terrain on Crust layer of Calidor
+* \[AS-11094\] - Lighting is no longer too dark too early at sundown, and staying dark too late at dawn
+* \[AS-11240\] - Smelting Furnace now has audio effect when in use
+
+Thanks so much to everyone who has gone with us on the journey to ship Automation! It has been a long time coming but we are so excited to see what you all create with the new logic and technology. Please share all of your creations with us as you come up with them!
+
+# HOTFIX PATCH NOTES:
+
+Over the weekend, we issued a hotfix addressing the following critical issues:
+
+* Packaging an Auto Extractor will no longer cause a crash.
+* Sensor harpoons will no longer disappear after a client places a Sensor item in their backpack.
+* Nuggets will no longer get stuck in midair when setting up a Soil Centrifuge to automatically push its output to a Storage Canister.
+* Fixed a crash that could happen when large numbers of Chemistry Labs were running simultaneously.
+* Battery Sensors will no longer end up in a bad state when monitoring batteries in nested storage hierarchies.
+
+Cheers!
+
+\-jt
+
+
+Finally a use for Zinc
+    Wait untill you do a no RTG run
+
+Your gonna want *batteries*
+        I use batteries, just not the one that provides way less power for the 2 slot footprint. 
+
+Medium storage and small batteries all the way.
+            Small batteries tend to be more efficient?
+                Small batteries are amazing
+                Using the medium storage you can stack 24 small batteries in the same place as one medium battery.
+                    Wait what, how? With an 8 slot storage?
+                        Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+                        No, with the 24 slot medium storage silo
+                            Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+                                Yes, you can put it in the oxygenator slot.
+                                The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+                                small shuttles dont have slots
+                                    every shuttle has a slot intended for an oxygenator ;)
+                You have to use a T2 slot for medium batteries but with smalls you can fit way more on a silo.
+        I don’t think I’ve ever actually built a small battery, I kinda just use the ones I find.
+            I think I may have built tens of thousands. Scrap economy.
+This is what's been missing in Astroneer for me for the longest time. There comes a point where I've cut my teeth with the grind and just want to explore the world and go on adventures but I'm stuck digging around for resources. Thanks, System Era!
+    The Auto Extractor is also great for this sort of thing because although it is really slow, you get sooo many more resources from it, and don't leave ugly dips in the ground
+        sooo = 15x
+I honestly can't believe how far this game has come since alpha. for their lead art director to pass away and for them to just keep pumping along while so many other games that did the buy-in early plan it's awesome to see this game still alive and thriving. Now I just want to see it come to the switch I'm sure it's going to be difficult with them still getting the bugs out of the versions they have now but one can hope.
+    I would looooove to have astroneer on the go that would be so good
+        Steam Link on your phone with a paired bluetooth gamepad works pretty good tho.
+        [GeForce Now link  ](https://www.nvidia.com/en-us/geforce-now/)
+
+That’s what I use, works great if you have good internet and gaming router.
+I figured after this update my base would be smaller, I appear to be wrong
+    This update is going to give me a reason to have a large base i could never justify having more than one of the crafting items and then just having large storage area and a printing section.
+
+With this update i am already thinking about all the automatic stuff i want to have happening!
+        omg me too, i was so disappointed at first at how i couldnt cover a good 8th of the planet with an outpost made to accomplish everything you can in the game, but now, you can
+    tis interesting
+For those of us running a dedicated t ed server.  Anything we need to do with it, or is this all client side only?
+    I had to restart the server to push the update through.  It worked fine, until the game crashed while I was in my shuttle.  I had to relaunch to Sylva and at the moment I have no idea what happened to my large shuttle that was also carrying my large rover, diamond drill, paver, 7 RTG's, a med canitster and the seat.... : (
+        it is gone forever. RIP
+    If you're self-hosting, you can update it in the Steam Library, or update it with SteamCMD the same way you downloaded it.
+> “VR Vision” Mask - Rewarded for completing the Compound Stage 
+
+Okay, so.
+
+VR Update when?
+    Oh god if I could play this with my Vive.....
+        As long as the oxygen and back pack power meter is moved to somewhere more car friendly, the game seems like it could play nicely with vr.
+            Yeah, it would be gorgeous with the atmospheric nature of the game.
+WTH. I just finished the game with the previous update. Now I have more stuff to do? How am I going to get any work done?
+    Automation
+        If it's like modded Minecraft this will not be the case.  I will spend 4 hours automating a resource that would normally take me 10 minutes to gather.
+            That's half the fun
+            Factorio is the same: you can handcraft \~100 electric furnaces, ooooor you can spend hours tearing your hair out but automating the assembly of them :3
+Now all we need is automatically transfer ressources from planet to planet and we can be 100% automatic.
+    Robo-pilot for the shuttles
+        We need falcon heavy rn
+    This update basically makes us Space Truck Drivers.
+It all sounds so exciting and I’m excited to play, but I really hope they can fix the lag on console soon, if this doesn’t fix it that is. I can’t play with my friend at all and it sucks! I have faith they will fix it!
+    I thought it was just me! The lag makes it utterly unplayable;  3-5 frames a second!
+        I play on PC and it runs great (most times). But when I connect to my console friends worlds, they've explained the same laggy issues. The same goes for my experience in-and-out of vehicles when I'm on their console worlds. 
+
+Its a-little disappointing, since this update, my console friends don't even want to continue to play. This issues have been prevalent since before the Automation update. Please fix this... The game is much more fun with help from friends.
+        Definitely, specifically ps4 for me. Solo works perfectly, but co-op is unplayable :( I haven’t tried out a server yet but itd be nice to be able to play just co op!
+            I’ve never tried multiplayer, but yeah it gets pretty laggy for me as well on ps4 towards the mid to late game. Wind turbines seem to murk my FPS. Doing lots of research at one time seems to as well. Come to think... doing a lot of anything at one time pretty well kills it.... so I imagine once I try to get some automation going it’s just going to kill my ps4. Bummer. But cool update none the less. All the more reason to get me a pc!
+This update is exactly that the game needs. Now all that's left is a tougher end goal that requires automation to complete. (not another limited time event)
+    requires?
+    That's the \*only\* reason for automation: a goal. I don't see any yet.
+The lack of communication for ps4 users is completely inexcusable. Not one update on the status from the developers in 5 days of waiting. I understand it is likely Sonys fault, but the developers should be updating us. The fact that they have been totally silent and left us wondering is completely on them.
+    They did, just not on here.
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+How do we update our Nitrado servers? I can't access my server now that I've downloaded this update through the Steam client.
+    You just have to wait...they *say* that it will update within 2 hours of the update going live, but I've seen it take up to 12 hours for different games...
+    Nitrado servers should now auto update once you restart them. If not, Nitrado hasn't registered the update yet, but it *is* there for them to update
+nice
+
+now give us the update
+NGL. This is not what I would call a living and thriving game. Maybe there are some big plans for a huge DLC, or maybe game 2, but the updates we do get are just table scrap.
+
+So adding a real money cosmetic shop into a non free game that is not exactly "alive" is a very sour taste.
+    We can agree to disagree on the cosmetics (I’m ok dropping a few bucks to support the devs)
+
+But without a doubt, the addition of logic-based automation is a gamechanger. I mean I’m even happy about the new resource containers but knowing I can automate my base adds a whole new layer to the game
+        I'll admit that this is the worst time to make that remark, since this is the only semnificative change since launch.
+
+And it's a bit of a dry game. Not that much to do, really. I'd expect a lot more content before adding a cosmetic shop. And I don't expect free content, dlc is fine. But with "meat".
+            > And it's a bit of a dry game. Not that much to do, really.
+
+That’s subjective, I have a notebook full of all the shit I’m doing: checklists, upcoming recipes, future expansion plans. I’m 50+ hours in and my main base is still on the starting planet. And clearly they’re going to keep updating for free, so whether you expect it or not, the gameplay changes are probably gonna remain free, and to make up for that they’re installing this store
+                That's the only base you need nowadays.
+        I also dropped a few buck to support the devs, by buying the game.  
+Hey as long as the paid shop doesn't prevent mods that do the same thing, or a mod that remove the shop, I have no issues with it either.
+    You want future progression then the Devs have to get paid. That's just how stuff works.
+        like i said, paid dlc with real content. Not fluff with almost no worthwhile content.
+            You've had how many free updates since paying a tenner for the game if you bought it early. I have no problem throwing the Devs a couple of quid so they can carry on.
+                Can't say I enjoyed any of them. I like the base game, but it's shallow. It's like elite dangerous. Desperately want to like the game, I try and I fail.
+            [deleted]
+                That's a decision on their part. I'd very much rather have paid dlc over paid cosmetics, any day of the week.
+
+I don't mind paid cosmetics tbh. But I'm aprehensive and I judge it on a case by case basis.
+
+IMHO LoL is almost "just fine". If you had access to all heroes and didn't need to buy them, I'd say it would be "fine".
+
+All you can buy is skins, you can get all skins, even removed skins. RNG chests drop no duplicates ever. If you're missing one single skin, removed in 2016 and never again added, then buy exactly 1 chest and BOOOM, you have everything.
+
+Here? I don't like it. I could go into detail on why not, but I don't think you'd care.
+                    [deleted]
+                        Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+Yay! I want my robot!
+Is there any news regarding the PS4 version?
+When does the PS4 update for automation please?
+STILL WAITING FOR PS4
+    Me too.
+    Here it is. Just checked since there wasn't an update on here.
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+        thank u so much
+When is the Microsoft Store version getting updated, come next Christmas?
+    thats an important question, i hope it will be this week with the Xbox "play anywhere" bunch like they said in the post
+        It is bullshit that there is even a 1 minute delay on the PC platform. Fuck.
+            SES has no control over how long Microsoft takes to approve an update, unfortunately.
+                They could have anticipated that...unless the patch is finished the very last minute and sent to cert. Not hearing good things about the update on Steam...performance tanks apparently...
+How do you filter? Do you configure the arm or is it a signal?
+    See the little socket on top? Just drop a resource on there and it’s the filter
+Why is the game still unplayable in terms of lag on my xbox one s?
+    Turn off output on all medium canisters and remove them
+        It took an hour of moving at literally 3-5 frames a second slow-motion, travelling off world to 4 planets, but it fucking worked!!!!!! Had about a dozen canisters to turn off then scrap, but as I got towards the last few, voila! Back to normal! What's your address, hero? Need to send your area's best sex worker to felate for 48 hours straight.
+        Wait, what? Is this an actual fix, and why does that work?
+            Its some sort of bug, I dont know why but ill take it
+Time for another new save I guess :)
+I WANT THIS ON MY PS4!
+    Looking for PS 4 players, to get the last trophies, would you like to play with me?
+        yup
+            Killa_ss_80 is my psn
+                k
+Any news on when PS4 update is coming
+Lame ... been waiting all night and most of the day for it to come out only to find out its later this week -\_-
+    Windows store version?
+        yep and when they said on stream the 24th they said all except PlayStation which would be a few days later
+            Same here. I'm very excited for the prospects of automation. But I'll have to wait till the windows store version gets updated.
+WTF are they smoking with that Auto Extractor resource cost? The only time it'd really be useful in the primary game progression loop is the early-to-mid game for common deposits relatively close to your base. By the time you have access to those late-game resources and stations, there are far better/faster ways to get resources including large rovers with drills. Not to mention you would have long-since depleted any resource deposits anywhere close to your base/power sources--and if you have to build a separate further-away harvesting base that's even slower than using aforementioned rovers/etc.
+
+I love the overall direction, but their idea of where it would/should fit in overall game progression seems bonkers.
+    It’s also extremely power hungry and if it runs out of storage it still consumes power
+    Disagree.  Large rovers with drills make your saves HUGE because all that terrain modification is part of the save.  These extractors are going to be the lifeblood of endgame, as they allow you to collect without making your save unplayable (not to mention they collect so much more per node).  The medium and large resource containers are going to reduce save sizes even further by taking all of those nuggets and turning them into a single entity.
+        The fact that the Auto Extractor might help mitigate the game's late-game performance degradation is in no-way justification for it being exclusively a late-game item, when otherwise it still makes more sense first and foremost as a late-early-game/early-mid-game item.
+
+In fact its introduction earlier would only help maximize the performance gains you're concerned about.
+
+\--
+
+Early/mid/late game is defined by game stage/progression in tech tree and has nothing to do with time investment. (Yes it is possible to rush to end game, but that doesn't suddenly make end game content now early game.)
+
+Early game/beginning tech tree - everything immediately doable without interplanetary travel
+
+Mid-game/middle tech tree - requires going to just two planets to get Chem Lab & Atmo Condenser (i.e. gated by Tungsten & Iron)
+
+End-game/end tech tree - requires going to many planets (in aggregate) to get RTG & jetpack (i.e. gated by Nonocarbon Alloy which requires a ton of things)
+            if you think it's late game then maybe you're doing it wrong. We just rushed a small shuttle and flew to a couple planets for a couple specific things and went back home. Didn't set up any sort of base anywhere, and now we have an extractor well before we even have 1/10th of the game unlocked. Had the extractor within a couple hours of starting fresh last night.
+    I can see niche uses for it though I agree its a bit large.  Used in tandem with a large rover/pckgr for getting the juice out of ammonium, less travel and hastle for wolframite... have not tested its extraction radius yet so for me no final verdict just yet
+    Hey! So I started a brand new save and optimized my time to work toward getting the things to build the auto extractor ASAP. It doesn’t *have* to be late game if you focus on getting it quick. You need a chem lab and atmospheric condenser. A trip to desolo for Tungsten, a trip to glacio for that glorious research, hematite, and titanite. And one final trip to glacio to take an atmospheric condenser there to get Argon. Takes like 4-5 hours to get that done. So takes a bit but once you have it you can build the extractors and most of the other automation stuff (not the large resource canister cause nanocarbon alloy). 
+I only dug up one plot if resin and one plot of compound. Use that soil centrifuge and soil from a cave where you won’t see giant holes.
+
+I don’t know if this helps but it was fun to start a new save and work toward preparing for the update.
+OH MY FUCKING GOD
+Wow.  Dude.  DUDE.  Holy [your choice of swear words here].  This is above and beyond.  This is amazing.  Even just one of these things, like the resource storage changes the game.  But all of this?!
+I spent so much iron organizing my base with large platform c’s and suddenly it became so much cheaper. :(
+    I just printed 8 large curved platforms days before this came out and used up my stash of bytes on the rest of the catalogue before they reduced cost. Had to do research to get the new stuff.
+Amazing update!!! I'm waiting for ps4 release and I'm really curious to see how the community gonna react to this huge improvement!! Well done System Era.
+I've been playing this game for about 2 weeks  
+yesterday I finally decided i was sick of having my items in holes in the ground and spent a couple hours trying to find the best way to organise my ressources, crafted a ton of storage and silos and reorganizing everything.  
+I'm so annoyed right now...
+    I’m sure you’ll get over it.
+        It's a great update, and i'm super glad they implemented all these features. I was just annoyed at the timing, in a very selfish way :D
+New resource canisters are awesome, but why they can not hold gases? It would be very useful to hold compressed gases in such a small place. Also it can make the game not so laggy since every gas canister has animation of the gas and that cause significant frame drop when walking close to big amount of gas canisters.
+Where's the PS4 update
+Is the update coming this week or next week for PS4?
+when it will be available on ps4 😫😫😫
+When dose it come fore ps4
+Update on ps4
+    https://twitter.com/astroneergame/status/1277662087120994304?s=09
+Where is the update time-line for the PS 4 Update?
+    https://twitter.com/astroneergame/status/1277662087120994304?s=09
+For all ps4 players who don't know yet: automation is now live on ps4
+    Finaly! Yeah!!!!
+Best update ever! Hats off to you System Era! It’s what we have been waiting for. Automation 2.0 will be epic!
+I liked the output being ejected to the ground if the storage was full. I can easily clean it up rather than production stopping.
+    Piles of resources mean collisions, lots if collisions mean lag.
+        I would hardly call half a dozen a problem.
+            Yeh but with automation that could add up pretty quickly.
+                That's understandable on a large scale. I won't be using automation so having it an option would have been nice. I've already seen how it's a moderate hassle while building a new base. i.e. Having to babysit the smelter with no storage attached for a few pieces of ceramic that could have otherwise just fallen on the ground.
+
+Although it's not the hill I want to die on today so I'll be fine. :)
+Adding paid DLC to the game....
+
+Also each Qbit pack says it gives a bonus, which should imply you're getting that many extra, on top of the normal amount for the same pack. There is no bonus because you're still paying $1 for 100 Qbits.
+    Hey! The store is purely cosmetic and does not change the game at all. The devs have given us tons of free updates since 1.0 release. Think this is the 13th! They opened the store so we can support them to continue to have free updates for this amazing game. They also have another game in the works so every little bit helps. If you don’t want to buy anything from the store and support them, then don’t. You won’t be missing out on any game changing things. They said they will continue to have the events where you can unlock cool new cosmetics to get fresh new looks!
+I have been waiting for automation
+What happened to enabling achievements on personal dedicated servers?
+    They are enabled as long as you haven't gone into creative mode on a save.
+Cant login to server now. Server is still at 1.12 and client is 1.13 showing error "incompatible version"
+    Same thing will happen to PC users who have the game through the Xbox client once the servers update. Seems like the whole 'steam and xbox store for PC get the update at different times' and the 'Nitrado servers should self update' things are poorly executed. It is possible that Nitrado is holding off pushing through the server update because it would mean that Xbox client PC users wont be able to log on, but it means that Steam PC users cannot log on...... 
+
+&#x200B;
+
+I am excited to play the update but the execution and timing of all the moving parts hasnt been done great.
+    You just have to restart the server
+        Oh boy - if this were actually true. Alas no. Until both server and client side have the current version, you can restart your server 100 times and it won’t make any difference. Xbox version has not gotten the update and yet we are still watching our server time tick away without being able to play. Sadness.
+What's the gauge on the side of the extractor for?
+    Hey! In one of their live streams they said that they yellow bar is a gauge for how plentiful the resources are. So once you see a plot of resources, you can move it around to find the best spot to get the most out of it. The higher the bar, the more resources you get!
+        It also tells how much is left
+Instructions on button repeated unclear.  How do ibget it to keep turning on soil centrifuge for Graphite?
+    Build a clock. Have a repeater activate a repeater which activates the first repeater
+I'm super confused as to what the button repeater does. Things I tried: I hooked it up to two soil centrifuges. Result: Only the last centrifuge in the chain turns on, and it doesn't repeat. Tried connecting to a single centrifuge, only activates once and doesn't repeat.
+
+I hooked it up to two small printers, only the last printer in the chain turns on, and it doesn't repeat. Tried connecting to a single printer. Still doesn't repeat(even though it can make several more).
+
+The button repeater doesn't activate multiple devices, and it doesn't repeat on a single device. The best I can tell it's just a remote control button that only activates once. Is this a bug or am I using it wrong?
+
+Edit: If I put the button on a platform and then connect the button's wire to the platform, the button finally starts repeating but nothing on the platform activates.
+So do we start fresh games with this or add to existing builds?  Any recommendations?
+    This should work 100% with saves from previous versions
+        oh I meant like fun-wise haha.  Like is it worth it to try to add this onto existing set ups that were designed before automation was in mind or should we all go back to the board and start from scratch. 
+
+I am starting from scratch either way loool I was feeling too "endgamey" in my main save anyways.
+Played a bit of co-op tonight with one other person. No dedicated server, I was hosting. Whenever they went to Glacio their terrain tool would bug out and was inoperable. The tool wouldn't pull out to their side like usual. Couldn't use it at all. (Only tried Glacio, didn't fly elsewhere)
+
+Tried entering and exiting a vehicle, still broken. Flew back to Sylva, still broken. They logged out, I saved and restarted the game, reloaded the save, went back to Glacio and the tool breaks again. They take-off to return to Sylva again, gets stranded in orbit while told they don't have enough fuel but they absolutely had plenty of fuel left. Was able to land back on Glacio, swap out the booster with a new solid fuel version, goes into orbit and gets told no fuel. Lands back on Glacio, swaps the solid booster out and back to the hydrazine one. It magically works just fine now and can return to Sylva. Terrain tool still broken. Uses the respawn at shelter option, terrain tool now works. Do we need to respawn at a shelter whenever we travel to a different world or moon so their terrain tool doesn't break?
+
+Already soured on the patch, can't even play together doing things that worked before. Perhaps a dedicated server wouldn't have these problems but I'm not going to hold my breath.
+    Unfortunately the only consistent fix for the terrain tool bug is to offload all your gear, walk away from your tethers and die. When you respawn you should be able to use your tool again. Then go grab your gear and you’re back in business. I only say offload so you’re not stuck pulling gear off your dead body later.
+        Thanks for the info! We'd never experienced that bug before but we'll give it a shot next time we play.
+Do we not get access to mission in multiplayer. I rent a server but can't seem to get the missions
+I just started learning this game again. Thought I was making progress and now more stuff! Excellent, this game just keeps getting better
+now, can the arms transfer resources from one rover to another? 🤔
+    From testing, it looks like it transfers an item from any open slot to any other open slot available in the circles it displays as its ranges!
+So, basically, yes!
+Is there a way you can automate the new resource canisters (say to toggle them between enable/disable output) or do the sensors only work on things that are on/off? I've been experimenting around and haven't figured out how to do it. I've got an extractor -> arm -> storage -> arm -> smelter -> storage but can't get it so I can both deposit resource from one end and extract it from the other...
+Xbox version is unplayable on multiplayer servers because it is incompatible - any word on when we will be able to get back on to our Nitrado servers? Paying for them is bad enough without losing access to them until someone gets around to updating the game itself.
+" \[AS-4403\] - After reloading a Save, Packager can be used while it is attached to an item" holy SES, i definitely love you ! it was so annoying while putting theses on shuttles lol
+Thank you :D
+I’ve set up a mining camp with 4 RTG’s and 10 medium batteries powering a plethora of mining drills.
+    " with 4 RTG’s and 10 medium batteries" <<<<< That is a joke, right???
+        Nope there’s a lot of mining drills
+Anybody else not getting the update on Steam? My game is still showing version 1.12.
+Just cant wait till it comes out on consol
+Is it out on XBOX yet?
+    Yes!
+        When will we be able to see the true flat mod tool come into the main game? Is there any progress on it?
+Any patch notes for the 50.5MB hotfix, version 1.13.126?
+
+Also, it looks like this post is missing the Patch Notes tag, so it doesn't show up in the list of patch notes.
+WHen does it come
+I have farmed everithing for an automated Hydrazine Factory since this poste but not geting the Update on PS 4 😥
+    https://twitter.com/astroneergame/status/1277662087120994304?s=09
+Ok that's cool, but this event is pretty annoying, i would even say counter to fun
+I noticed the Xbox play anywhere part availability is struck through.
+Is this update available on Xbox yet?
+    Yes, it's just not for PS4.
+Is anyone else having a problem where the auto extractor just wont let you turn it on?
+They should make a rocket the extracts resources for u but u need to put storage and fuel on it
+Ok, so very cool update. I have thoughts on automation after playing though. I think it would be very nice if you could make the soil centrifuge work more like the chemistry lab and the research chamber and have it to where when you press the button to make a resource, you could continue making said resource without having to press the confirm button.
+Yo, can we get filters? like only resources, since you can only filter one resource at a time so you have to keep changing the resource filter I feel that just having a filter for all resources but at the same time.
+Your week is running slim
+Vai sair a automação Update Ps4 ?
+Does anyone know why i don't get the update on PS 4?
+    I don't have it either.
+    Now it's in Europe too.
+        I love it because now i have to go to sleep XD
+Holy FRICK! That's a lot of new possibilities!
+I haven't really played this since alpha, before the rover update. Is it worth a revisit? I remember storms being pretty awesome, but a new player I talked with said he had never experienced a storm in the game...?
+Automation update not working on Ps4?
+Anyone on PS4 having issues with frame rate or crashes since update? I cannot play anymore because it’s so bad
+WHAT ARE THE REQUIREMENTS FOR EACH OF THE STAGES?
+It's out on ps4 i just had the update last night
+True Flat not added in non creative mode?
+Bug: Auto Extractor randomly stops working (indicator shows "no resources" though it is standing on a boat load of them, right underneath).
+
+Bug: Auto Arm randomly does not pick up items any more. Remedied by reloading the game or turning power off and on again.
+
+Request: Treat Research Chamber as Storage (emit storage events). Possibly same with Auto Arm.
+Acabo de entender como usar los nuevos sensores de cada cosa y repetidor. Voy a hacer un vídeo sobre su actualización :b
+Looking for PS 4 players, to go on trophies hunt! Add me Killa_ss_80 psn
+you have to increase the frame rate on xboxX and a shame is after years still bad! not to mention the outrageous pop-up
+Cross platform ps4 with pc ?
+Why does my friend lag out of my game every 5 minuets
+i play on windows and my friends play on xbox and my friends made a world and when i join is kicks me and then it says failed to connect to host
+Of course the update to introduce microtransactions would be the final update. (If another update comes out, I will retract this statement)
+Finally there's going to be a gas canister and it's going to be a medium one
+Did XBox Game Pass PC get this update
+[removed]
+    What things?
+        [removed]
+            where's it say that?
+Nothing in the notes about them fixing the resoures glitching through chemistry lab.
+
+And still No achievements on dedicated servers?
+    It's there...
+
+\[AS-10926\] - The output slot where the nugget gets built should now move inside the module when the Chem Lab is in use
+    All dedicated servers can earn achievements as long as you haven't gone into creative mode on a save.
+        Non paid self hosted dedicated servers?
+            Yes. Self-Hosted servers should be able to earn achievements now.
+Post-Launch mtx.... yaaaay....... :/
+Will the rewards be available all the time or just for a short amount of time?
+My Xbox still hasn't gotten the update yet. What's the hold up SES?
+    It comes later this week
+        That is an unsatisfying answer haha. Time to start a new save and get a base ready!
+            Actually, that is now outdated, try making that base and you’ll see it is out now
+                Oh damn for real?! Can't wait to get home from work now, I need a light-hearted game to detract from the Division 2 community haha.
+If you place it on it’s own will it gather soil to use in centrifuges
+    No its a resource drill, it doesn't collect the dirt, only x15 the resources found *in* the dirt
+[deleted]
+    Hey potential spoiler
+
+Once you activate the core of each planet you unlock a new suit that represents that planet. So glacio for example is super puffy to keep you “warm”. While it isn’t required to wear them and is purely cosmetic it’s still neat! 
+
+Each planet does have different levels of wind and solar so you do have to keep that in mind if you plan on powering things on the planets. Glacio has high wind but no sun. So if you bring solar panels you won’t get anything done there. 
+
+As far as unlocking bytes it’s just the benefit of going to a “harder” planet. Atrox has the best bytes but not worth going to unless you have a death wish. Glacio is a bit easier than it should be, but hey setting up a research base there is quite fun. 
+
+And forcing players to visit other planets first kind of ruins the point of the game. When I first played i wanted to explore everything. Getting to choose what planet to go to was quite fun. Good think I at least knew enough not to go to Atrox first!
+Too bad console users have to wait, should have made the Steam players wait, too and release it all at once.
+    Rather than downvoting, I’ll explain that it’s not Astroneers fault, consoles have update verification before they let them go live. So the submitted the update as soon as it was ready, Steam just let’s them issue it directly so is PC players get it immediately.
+        And SES should time the release accordingly, no reason to give Steam players preference when we are all the same paying customers.
+            They’re not giving Steam players preference, they’re giving everyone the update as soon as they can. They have no control over Microsoft and Sony and it’d be asinine to hold back the update for an unknown amount of time to try and appease their two smaller markets. 
+
+It was a PC game first, having played it on PC and PS4 I can tell you it’s still primarily focused on PC, so console players should just be happy they go to the trouble to publish it on their consoles.
+            Yes, there is a reason to give steam players preference, the reason is that steam does not add a delay to the process like consoles do. There is no reason to add artificial delay to steam users. You have it backwards.
+    Why spoil their fun just because console cert takes a while?
+    Nah.  Let them test it for us. :-)
+    Lol, steam fanbois downvoting...
+        all i said is that the developers should go out of their way to inconvenience PC players for no reason, why would PC players downvote me
+        Your console peasant tears sustain me.
+            I play on console, and even I found that funny
+Wait untill you do a no RTG run
+
+Your gonna want *batteries*
+    I use batteries, just not the one that provides way less power for the 2 slot footprint. 
+
+Medium storage and small batteries all the way.
+        Small batteries tend to be more efficient?
+            Small batteries are amazing
+            Using the medium storage you can stack 24 small batteries in the same place as one medium battery.
+                Wait what, how? With an 8 slot storage?
+                    Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+                    No, with the 24 slot medium storage silo
+                        Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+                            Yes, you can put it in the oxygenator slot.
+                            The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+                            small shuttles dont have slots
+                                every shuttle has a slot intended for an oxygenator ;)
+            You have to use a T2 slot for medium batteries but with smalls you can fit way more on a silo.
+    I don’t think I’ve ever actually built a small battery, I kinda just use the ones I find.
+        I think I may have built tens of thousands. Scrap economy.
+The Auto Extractor is also great for this sort of thing because although it is really slow, you get sooo many more resources from it, and don't leave ugly dips in the ground
+    sooo = 15x
+I would looooove to have astroneer on the go that would be so good
+    Steam Link on your phone with a paired bluetooth gamepad works pretty good tho.
+    [GeForce Now link  ](https://www.nvidia.com/en-us/geforce-now/)
+
+That’s what I use, works great if you have good internet and gaming router.
+This update is going to give me a reason to have a large base i could never justify having more than one of the crafting items and then just having large storage area and a printing section.
+
+With this update i am already thinking about all the automatic stuff i want to have happening!
+    omg me too, i was so disappointed at first at how i couldnt cover a good 8th of the planet with an outpost made to accomplish everything you can in the game, but now, you can
+tis interesting
+I had to restart the server to push the update through.  It worked fine, until the game crashed while I was in my shuttle.  I had to relaunch to Sylva and at the moment I have no idea what happened to my large shuttle that was also carrying my large rover, diamond drill, paver, 7 RTG's, a med canitster and the seat.... : (
+    it is gone forever. RIP
+If you're self-hosting, you can update it in the Steam Library, or update it with SteamCMD the same way you downloaded it.
+Oh god if I could play this with my Vive.....
+    As long as the oxygen and back pack power meter is moved to somewhere more car friendly, the game seems like it could play nicely with vr.
+        Yeah, it would be gorgeous with the atmospheric nature of the game.
+Automation
+    If it's like modded Minecraft this will not be the case.  I will spend 4 hours automating a resource that would normally take me 10 minutes to gather.
+        That's half the fun
+        Factorio is the same: you can handcraft \~100 electric furnaces, ooooor you can spend hours tearing your hair out but automating the assembly of them :3
+Robo-pilot for the shuttles
+    We need falcon heavy rn
+This update basically makes us Space Truck Drivers.
+I thought it was just me! The lag makes it utterly unplayable;  3-5 frames a second!
+    I play on PC and it runs great (most times). But when I connect to my console friends worlds, they've explained the same laggy issues. The same goes for my experience in-and-out of vehicles when I'm on their console worlds. 
+
+Its a-little disappointing, since this update, my console friends don't even want to continue to play. This issues have been prevalent since before the Automation update. Please fix this... The game is much more fun with help from friends.
+    Definitely, specifically ps4 for me. Solo works perfectly, but co-op is unplayable :( I haven’t tried out a server yet but itd be nice to be able to play just co op!
+        I’ve never tried multiplayer, but yeah it gets pretty laggy for me as well on ps4 towards the mid to late game. Wind turbines seem to murk my FPS. Doing lots of research at one time seems to as well. Come to think... doing a lot of anything at one time pretty well kills it.... so I imagine once I try to get some automation going it’s just going to kill my ps4. Bummer. But cool update none the less. All the more reason to get me a pc!
+requires?
+That's the \*only\* reason for automation: a goal. I don't see any yet.
+They did, just not on here.
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+You just have to wait...they *say* that it will update within 2 hours of the update going live, but I've seen it take up to 12 hours for different games...
+Nitrado servers should now auto update once you restart them. If not, Nitrado hasn't registered the update yet, but it *is* there for them to update
+We can agree to disagree on the cosmetics (I’m ok dropping a few bucks to support the devs)
+
+But without a doubt, the addition of logic-based automation is a gamechanger. I mean I’m even happy about the new resource containers but knowing I can automate my base adds a whole new layer to the game
+    I'll admit that this is the worst time to make that remark, since this is the only semnificative change since launch.
+
+And it's a bit of a dry game. Not that much to do, really. I'd expect a lot more content before adding a cosmetic shop. And I don't expect free content, dlc is fine. But with "meat".
+        > And it's a bit of a dry game. Not that much to do, really.
+
+That’s subjective, I have a notebook full of all the shit I’m doing: checklists, upcoming recipes, future expansion plans. I’m 50+ hours in and my main base is still on the starting planet. And clearly they’re going to keep updating for free, so whether you expect it or not, the gameplay changes are probably gonna remain free, and to make up for that they’re installing this store
+            That's the only base you need nowadays.
+    I also dropped a few buck to support the devs, by buying the game.  
+Hey as long as the paid shop doesn't prevent mods that do the same thing, or a mod that remove the shop, I have no issues with it either.
+You want future progression then the Devs have to get paid. That's just how stuff works.
+    like i said, paid dlc with real content. Not fluff with almost no worthwhile content.
+        You've had how many free updates since paying a tenner for the game if you bought it early. I have no problem throwing the Devs a couple of quid so they can carry on.
+            Can't say I enjoyed any of them. I like the base game, but it's shallow. It's like elite dangerous. Desperately want to like the game, I try and I fail.
+        [deleted]
+            That's a decision on their part. I'd very much rather have paid dlc over paid cosmetics, any day of the week.
+
+I don't mind paid cosmetics tbh. But I'm aprehensive and I judge it on a case by case basis.
+
+IMHO LoL is almost "just fine". If you had access to all heroes and didn't need to buy them, I'd say it would be "fine".
+
+All you can buy is skins, you can get all skins, even removed skins. RNG chests drop no duplicates ever. If you're missing one single skin, removed in 2016 and never again added, then buy exactly 1 chest and BOOOM, you have everything.
+
+Here? I don't like it. I could go into detail on why not, but I don't think you'd care.
+                [deleted]
+                    Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+Me too.
+Here it is. Just checked since there wasn't an update on here.
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+    thank u so much
+thats an important question, i hope it will be this week with the Xbox "play anywhere" bunch like they said in the post
+    It is bullshit that there is even a 1 minute delay on the PC platform. Fuck.
+        SES has no control over how long Microsoft takes to approve an update, unfortunately.
+            They could have anticipated that...unless the patch is finished the very last minute and sent to cert. Not hearing good things about the update on Steam...performance tanks apparently...
+See the little socket on top? Just drop a resource on there and it’s the filter
+Turn off output on all medium canisters and remove them
+    It took an hour of moving at literally 3-5 frames a second slow-motion, travelling off world to 4 planets, but it fucking worked!!!!!! Had about a dozen canisters to turn off then scrap, but as I got towards the last few, voila! Back to normal! What's your address, hero? Need to send your area's best sex worker to felate for 48 hours straight.
+    Wait, what? Is this an actual fix, and why does that work?
+        Its some sort of bug, I dont know why but ill take it
+Looking for PS 4 players, to get the last trophies, would you like to play with me?
+    yup
+        Killa_ss_80 is my psn
+            k
+Windows store version?
+    yep and when they said on stream the 24th they said all except PlayStation which would be a few days later
+        Same here. I'm very excited for the prospects of automation. But I'll have to wait till the windows store version gets updated.
+It’s also extremely power hungry and if it runs out of storage it still consumes power
+Disagree.  Large rovers with drills make your saves HUGE because all that terrain modification is part of the save.  These extractors are going to be the lifeblood of endgame, as they allow you to collect without making your save unplayable (not to mention they collect so much more per node).  The medium and large resource containers are going to reduce save sizes even further by taking all of those nuggets and turning them into a single entity.
+    The fact that the Auto Extractor might help mitigate the game's late-game performance degradation is in no-way justification for it being exclusively a late-game item, when otherwise it still makes more sense first and foremost as a late-early-game/early-mid-game item.
+
+In fact its introduction earlier would only help maximize the performance gains you're concerned about.
+
+\--
+
+Early/mid/late game is defined by game stage/progression in tech tree and has nothing to do with time investment. (Yes it is possible to rush to end game, but that doesn't suddenly make end game content now early game.)
+
+Early game/beginning tech tree - everything immediately doable without interplanetary travel
+
+Mid-game/middle tech tree - requires going to just two planets to get Chem Lab & Atmo Condenser (i.e. gated by Tungsten & Iron)
+
+End-game/end tech tree - requires going to many planets (in aggregate) to get RTG & jetpack (i.e. gated by Nonocarbon Alloy which requires a ton of things)
+        if you think it's late game then maybe you're doing it wrong. We just rushed a small shuttle and flew to a couple planets for a couple specific things and went back home. Didn't set up any sort of base anywhere, and now we have an extractor well before we even have 1/10th of the game unlocked. Had the extractor within a couple hours of starting fresh last night.
+I can see niche uses for it though I agree its a bit large.  Used in tandem with a large rover/pckgr for getting the juice out of ammonium, less travel and hastle for wolframite... have not tested its extraction radius yet so for me no final verdict just yet
+Hey! So I started a brand new save and optimized my time to work toward getting the things to build the auto extractor ASAP. It doesn’t *have* to be late game if you focus on getting it quick. You need a chem lab and atmospheric condenser. A trip to desolo for Tungsten, a trip to glacio for that glorious research, hematite, and titanite. And one final trip to glacio to take an atmospheric condenser there to get Argon. Takes like 4-5 hours to get that done. So takes a bit but once you have it you can build the extractors and most of the other automation stuff (not the large resource canister cause nanocarbon alloy). 
+I only dug up one plot if resin and one plot of compound. Use that soil centrifuge and soil from a cave where you won’t see giant holes.
+
+I don’t know if this helps but it was fun to start a new save and work toward preparing for the update.
+I just printed 8 large curved platforms days before this came out and used up my stash of bytes on the rest of the catalogue before they reduced cost. Had to do research to get the new stuff.
+I’m sure you’ll get over it.
+    It's a great update, and i'm super glad they implemented all these features. I was just annoyed at the timing, in a very selfish way :D
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+Finaly! Yeah!!!!
+Piles of resources mean collisions, lots if collisions mean lag.
+    I would hardly call half a dozen a problem.
+        Yeh but with automation that could add up pretty quickly.
+            That's understandable on a large scale. I won't be using automation so having it an option would have been nice. I've already seen how it's a moderate hassle while building a new base. i.e. Having to babysit the smelter with no storage attached for a few pieces of ceramic that could have otherwise just fallen on the ground.
+
+Although it's not the hill I want to die on today so I'll be fine. :)
+Hey! The store is purely cosmetic and does not change the game at all. The devs have given us tons of free updates since 1.0 release. Think this is the 13th! They opened the store so we can support them to continue to have free updates for this amazing game. They also have another game in the works so every little bit helps. If you don’t want to buy anything from the store and support them, then don’t. You won’t be missing out on any game changing things. They said they will continue to have the events where you can unlock cool new cosmetics to get fresh new looks!
+They are enabled as long as you haven't gone into creative mode on a save.
+Same thing will happen to PC users who have the game through the Xbox client once the servers update. Seems like the whole 'steam and xbox store for PC get the update at different times' and the 'Nitrado servers should self update' things are poorly executed. It is possible that Nitrado is holding off pushing through the server update because it would mean that Xbox client PC users wont be able to log on, but it means that Steam PC users cannot log on...... 
+
+&#x200B;
+
+I am excited to play the update but the execution and timing of all the moving parts hasnt been done great.
+You just have to restart the server
+    Oh boy - if this were actually true. Alas no. Until both server and client side have the current version, you can restart your server 100 times and it won’t make any difference. Xbox version has not gotten the update and yet we are still watching our server time tick away without being able to play. Sadness.
+Hey! In one of their live streams they said that they yellow bar is a gauge for how plentiful the resources are. So once you see a plot of resources, you can move it around to find the best spot to get the most out of it. The higher the bar, the more resources you get!
+    It also tells how much is left
+Build a clock. Have a repeater activate a repeater which activates the first repeater
+This should work 100% with saves from previous versions
+    oh I meant like fun-wise haha.  Like is it worth it to try to add this onto existing set ups that were designed before automation was in mind or should we all go back to the board and start from scratch. 
+
+I am starting from scratch either way loool I was feeling too "endgamey" in my main save anyways.
+Unfortunately the only consistent fix for the terrain tool bug is to offload all your gear, walk away from your tethers and die. When you respawn you should be able to use your tool again. Then go grab your gear and you’re back in business. I only say offload so you’re not stuck pulling gear off your dead body later.
+    Thanks for the info! We'd never experienced that bug before but we'll give it a shot next time we play.
+From testing, it looks like it transfers an item from any open slot to any other open slot available in the circles it displays as its ranges!
+So, basically, yes!
+" with 4 RTG’s and 10 medium batteries" <<<<< That is a joke, right???
+    Nope there’s a lot of mining drills
+Yes!
+    When will we be able to see the true flat mod tool come into the main game? Is there any progress on it?
+https://twitter.com/astroneergame/status/1277662087120994304?s=09
+Yes, it's just not for PS4.
+I don't have it either.
+Now it's in Europe too.
+    I love it because now i have to go to sleep XD
+What things?
+    [removed]
+        where's it say that?
+It's there...
+
+\[AS-10926\] - The output slot where the nugget gets built should now move inside the module when the Chem Lab is in use
+All dedicated servers can earn achievements as long as you haven't gone into creative mode on a save.
+    Non paid self hosted dedicated servers?
+        Yes. Self-Hosted servers should be able to earn achievements now.
+It comes later this week
+    That is an unsatisfying answer haha. Time to start a new save and get a base ready!
+        Actually, that is now outdated, try making that base and you’ll see it is out now
+            Oh damn for real?! Can't wait to get home from work now, I need a light-hearted game to detract from the Division 2 community haha.
+No its a resource drill, it doesn't collect the dirt, only x15 the resources found *in* the dirt
+Hey potential spoiler
+
+Once you activate the core of each planet you unlock a new suit that represents that planet. So glacio for example is super puffy to keep you “warm”. While it isn’t required to wear them and is purely cosmetic it’s still neat! 
+
+Each planet does have different levels of wind and solar so you do have to keep that in mind if you plan on powering things on the planets. Glacio has high wind but no sun. So if you bring solar panels you won’t get anything done there. 
+
+As far as unlocking bytes it’s just the benefit of going to a “harder” planet. Atrox has the best bytes but not worth going to unless you have a death wish. Glacio is a bit easier than it should be, but hey setting up a research base there is quite fun. 
+
+And forcing players to visit other planets first kind of ruins the point of the game. When I first played i wanted to explore everything. Getting to choose what planet to go to was quite fun. Good think I at least knew enough not to go to Atrox first!
+Rather than downvoting, I’ll explain that it’s not Astroneers fault, consoles have update verification before they let them go live. So the submitted the update as soon as it was ready, Steam just let’s them issue it directly so is PC players get it immediately.
+    And SES should time the release accordingly, no reason to give Steam players preference when we are all the same paying customers.
+        They’re not giving Steam players preference, they’re giving everyone the update as soon as they can. They have no control over Microsoft and Sony and it’d be asinine to hold back the update for an unknown amount of time to try and appease their two smaller markets. 
+
+It was a PC game first, having played it on PC and PS4 I can tell you it’s still primarily focused on PC, so console players should just be happy they go to the trouble to publish it on their consoles.
+        Yes, there is a reason to give steam players preference, the reason is that steam does not add a delay to the process like consoles do. There is no reason to add artificial delay to steam users. You have it backwards.
+Why spoil their fun just because console cert takes a while?
+Nah.  Let them test it for us. :-)
+Lol, steam fanbois downvoting...
+    all i said is that the developers should go out of their way to inconvenience PC players for no reason, why would PC players downvote me
+    Your console peasant tears sustain me.
+        I play on console, and even I found that funny
+I use batteries, just not the one that provides way less power for the 2 slot footprint. 
+
+Medium storage and small batteries all the way.
+    Small batteries tend to be more efficient?
+        Small batteries are amazing
+        Using the medium storage you can stack 24 small batteries in the same place as one medium battery.
+            Wait what, how? With an 8 slot storage?
+                Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+                No, with the 24 slot medium storage silo
+                    Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+                        Yes, you can put it in the oxygenator slot.
+                        The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+                        small shuttles dont have slots
+                            every shuttle has a slot intended for an oxygenator ;)
+        You have to use a T2 slot for medium batteries but with smalls you can fit way more on a silo.
+I don’t think I’ve ever actually built a small battery, I kinda just use the ones I find.
+    I think I may have built tens of thousands. Scrap economy.
+sooo = 15x
+Steam Link on your phone with a paired bluetooth gamepad works pretty good tho.
+[GeForce Now link  ](https://www.nvidia.com/en-us/geforce-now/)
+
+That’s what I use, works great if you have good internet and gaming router.
+omg me too, i was so disappointed at first at how i couldnt cover a good 8th of the planet with an outpost made to accomplish everything you can in the game, but now, you can
+it is gone forever. RIP
+As long as the oxygen and back pack power meter is moved to somewhere more car friendly, the game seems like it could play nicely with vr.
+    Yeah, it would be gorgeous with the atmospheric nature of the game.
+If it's like modded Minecraft this will not be the case.  I will spend 4 hours automating a resource that would normally take me 10 minutes to gather.
+    That's half the fun
+    Factorio is the same: you can handcraft \~100 electric furnaces, ooooor you can spend hours tearing your hair out but automating the assembly of them :3
+We need falcon heavy rn
+I play on PC and it runs great (most times). But when I connect to my console friends worlds, they've explained the same laggy issues. The same goes for my experience in-and-out of vehicles when I'm on their console worlds. 
+
+Its a-little disappointing, since this update, my console friends don't even want to continue to play. This issues have been prevalent since before the Automation update. Please fix this... The game is much more fun with help from friends.
+Definitely, specifically ps4 for me. Solo works perfectly, but co-op is unplayable :( I haven’t tried out a server yet but itd be nice to be able to play just co op!
+    I’ve never tried multiplayer, but yeah it gets pretty laggy for me as well on ps4 towards the mid to late game. Wind turbines seem to murk my FPS. Doing lots of research at one time seems to as well. Come to think... doing a lot of anything at one time pretty well kills it.... so I imagine once I try to get some automation going it’s just going to kill my ps4. Bummer. But cool update none the less. All the more reason to get me a pc!
+I'll admit that this is the worst time to make that remark, since this is the only semnificative change since launch.
+
+And it's a bit of a dry game. Not that much to do, really. I'd expect a lot more content before adding a cosmetic shop. And I don't expect free content, dlc is fine. But with "meat".
+    > And it's a bit of a dry game. Not that much to do, really.
+
+That’s subjective, I have a notebook full of all the shit I’m doing: checklists, upcoming recipes, future expansion plans. I’m 50+ hours in and my main base is still on the starting planet. And clearly they’re going to keep updating for free, so whether you expect it or not, the gameplay changes are probably gonna remain free, and to make up for that they’re installing this store
+        That's the only base you need nowadays.
+I also dropped a few buck to support the devs, by buying the game.  
+Hey as long as the paid shop doesn't prevent mods that do the same thing, or a mod that remove the shop, I have no issues with it either.
+like i said, paid dlc with real content. Not fluff with almost no worthwhile content.
+    You've had how many free updates since paying a tenner for the game if you bought it early. I have no problem throwing the Devs a couple of quid so they can carry on.
+        Can't say I enjoyed any of them. I like the base game, but it's shallow. It's like elite dangerous. Desperately want to like the game, I try and I fail.
+    [deleted]
+        That's a decision on their part. I'd very much rather have paid dlc over paid cosmetics, any day of the week.
+
+I don't mind paid cosmetics tbh. But I'm aprehensive and I judge it on a case by case basis.
+
+IMHO LoL is almost "just fine". If you had access to all heroes and didn't need to buy them, I'd say it would be "fine".
+
+All you can buy is skins, you can get all skins, even removed skins. RNG chests drop no duplicates ever. If you're missing one single skin, removed in 2016 and never again added, then buy exactly 1 chest and BOOOM, you have everything.
+
+Here? I don't like it. I could go into detail on why not, but I don't think you'd care.
+            [deleted]
+                Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+thank u so much
+It is bullshit that there is even a 1 minute delay on the PC platform. Fuck.
+    SES has no control over how long Microsoft takes to approve an update, unfortunately.
+        They could have anticipated that...unless the patch is finished the very last minute and sent to cert. Not hearing good things about the update on Steam...performance tanks apparently...
+It took an hour of moving at literally 3-5 frames a second slow-motion, travelling off world to 4 planets, but it fucking worked!!!!!! Had about a dozen canisters to turn off then scrap, but as I got towards the last few, voila! Back to normal! What's your address, hero? Need to send your area's best sex worker to felate for 48 hours straight.
+Wait, what? Is this an actual fix, and why does that work?
+    Its some sort of bug, I dont know why but ill take it
+yup
+    Killa_ss_80 is my psn
+        k
+yep and when they said on stream the 24th they said all except PlayStation which would be a few days later
+    Same here. I'm very excited for the prospects of automation. But I'll have to wait till the windows store version gets updated.
+The fact that the Auto Extractor might help mitigate the game's late-game performance degradation is in no-way justification for it being exclusively a late-game item, when otherwise it still makes more sense first and foremost as a late-early-game/early-mid-game item.
+
+In fact its introduction earlier would only help maximize the performance gains you're concerned about.
+
+\--
+
+Early/mid/late game is defined by game stage/progression in tech tree and has nothing to do with time investment. (Yes it is possible to rush to end game, but that doesn't suddenly make end game content now early game.)
+
+Early game/beginning tech tree - everything immediately doable without interplanetary travel
+
+Mid-game/middle tech tree - requires going to just two planets to get Chem Lab & Atmo Condenser (i.e. gated by Tungsten & Iron)
+
+End-game/end tech tree - requires going to many planets (in aggregate) to get RTG & jetpack (i.e. gated by Nonocarbon Alloy which requires a ton of things)
+    if you think it's late game then maybe you're doing it wrong. We just rushed a small shuttle and flew to a couple planets for a couple specific things and went back home. Didn't set up any sort of base anywhere, and now we have an extractor well before we even have 1/10th of the game unlocked. Had the extractor within a couple hours of starting fresh last night.
+It's a great update, and i'm super glad they implemented all these features. I was just annoyed at the timing, in a very selfish way :D
+I would hardly call half a dozen a problem.
+    Yeh but with automation that could add up pretty quickly.
+        That's understandable on a large scale. I won't be using automation so having it an option would have been nice. I've already seen how it's a moderate hassle while building a new base. i.e. Having to babysit the smelter with no storage attached for a few pieces of ceramic that could have otherwise just fallen on the ground.
+
+Although it's not the hill I want to die on today so I'll be fine. :)
+Oh boy - if this were actually true. Alas no. Until both server and client side have the current version, you can restart your server 100 times and it won’t make any difference. Xbox version has not gotten the update and yet we are still watching our server time tick away without being able to play. Sadness.
+It also tells how much is left
+oh I meant like fun-wise haha.  Like is it worth it to try to add this onto existing set ups that were designed before automation was in mind or should we all go back to the board and start from scratch. 
+
+I am starting from scratch either way loool I was feeling too "endgamey" in my main save anyways.
+Thanks for the info! We'd never experienced that bug before but we'll give it a shot next time we play.
+Nope there’s a lot of mining drills
+When will we be able to see the true flat mod tool come into the main game? Is there any progress on it?
+I love it because now i have to go to sleep XD
+[removed]
+    where's it say that?
+Non paid self hosted dedicated servers?
+    Yes. Self-Hosted servers should be able to earn achievements now.
+That is an unsatisfying answer haha. Time to start a new save and get a base ready!
+    Actually, that is now outdated, try making that base and you’ll see it is out now
+        Oh damn for real?! Can't wait to get home from work now, I need a light-hearted game to detract from the Division 2 community haha.
+And SES should time the release accordingly, no reason to give Steam players preference when we are all the same paying customers.
+    They’re not giving Steam players preference, they’re giving everyone the update as soon as they can. They have no control over Microsoft and Sony and it’d be asinine to hold back the update for an unknown amount of time to try and appease their two smaller markets. 
+
+It was a PC game first, having played it on PC and PS4 I can tell you it’s still primarily focused on PC, so console players should just be happy they go to the trouble to publish it on their consoles.
+    Yes, there is a reason to give steam players preference, the reason is that steam does not add a delay to the process like consoles do. There is no reason to add artificial delay to steam users. You have it backwards.
+all i said is that the developers should go out of their way to inconvenience PC players for no reason, why would PC players downvote me
+Your console peasant tears sustain me.
+    I play on console, and even I found that funny
+Small batteries tend to be more efficient?
+    Small batteries are amazing
+    Using the medium storage you can stack 24 small batteries in the same place as one medium battery.
+        Wait what, how? With an 8 slot storage?
+            Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+            No, with the 24 slot medium storage silo
+                Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+                    Yes, you can put it in the oxygenator slot.
+                    The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+                    small shuttles dont have slots
+                        every shuttle has a slot intended for an oxygenator ;)
+    You have to use a T2 slot for medium batteries but with smalls you can fit way more on a silo.
+I think I may have built tens of thousands. Scrap economy.
+Yeah, it would be gorgeous with the atmospheric nature of the game.
+That's half the fun
+Factorio is the same: you can handcraft \~100 electric furnaces, ooooor you can spend hours tearing your hair out but automating the assembly of them :3
+I’ve never tried multiplayer, but yeah it gets pretty laggy for me as well on ps4 towards the mid to late game. Wind turbines seem to murk my FPS. Doing lots of research at one time seems to as well. Come to think... doing a lot of anything at one time pretty well kills it.... so I imagine once I try to get some automation going it’s just going to kill my ps4. Bummer. But cool update none the less. All the more reason to get me a pc!
+> And it's a bit of a dry game. Not that much to do, really.
+
+That’s subjective, I have a notebook full of all the shit I’m doing: checklists, upcoming recipes, future expansion plans. I’m 50+ hours in and my main base is still on the starting planet. And clearly they’re going to keep updating for free, so whether you expect it or not, the gameplay changes are probably gonna remain free, and to make up for that they’re installing this store
+    That's the only base you need nowadays.
+You've had how many free updates since paying a tenner for the game if you bought it early. I have no problem throwing the Devs a couple of quid so they can carry on.
+    Can't say I enjoyed any of them. I like the base game, but it's shallow. It's like elite dangerous. Desperately want to like the game, I try and I fail.
+[deleted]
+    That's a decision on their part. I'd very much rather have paid dlc over paid cosmetics, any day of the week.
+
+I don't mind paid cosmetics tbh. But I'm aprehensive and I judge it on a case by case basis.
+
+IMHO LoL is almost "just fine". If you had access to all heroes and didn't need to buy them, I'd say it would be "fine".
+
+All you can buy is skins, you can get all skins, even removed skins. RNG chests drop no duplicates ever. If you're missing one single skin, removed in 2016 and never again added, then buy exactly 1 chest and BOOOM, you have everything.
+
+Here? I don't like it. I could go into detail on why not, but I don't think you'd care.
+        [deleted]
+            Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+SES has no control over how long Microsoft takes to approve an update, unfortunately.
+    They could have anticipated that...unless the patch is finished the very last minute and sent to cert. Not hearing good things about the update on Steam...performance tanks apparently...
+Its some sort of bug, I dont know why but ill take it
+Killa_ss_80 is my psn
+    k
+Same here. I'm very excited for the prospects of automation. But I'll have to wait till the windows store version gets updated.
+if you think it's late game then maybe you're doing it wrong. We just rushed a small shuttle and flew to a couple planets for a couple specific things and went back home. Didn't set up any sort of base anywhere, and now we have an extractor well before we even have 1/10th of the game unlocked. Had the extractor within a couple hours of starting fresh last night.
+Yeh but with automation that could add up pretty quickly.
+    That's understandable on a large scale. I won't be using automation so having it an option would have been nice. I've already seen how it's a moderate hassle while building a new base. i.e. Having to babysit the smelter with no storage attached for a few pieces of ceramic that could have otherwise just fallen on the ground.
+
+Although it's not the hill I want to die on today so I'll be fine. :)
+where's it say that?
+Yes. Self-Hosted servers should be able to earn achievements now.
+Actually, that is now outdated, try making that base and you’ll see it is out now
+    Oh damn for real?! Can't wait to get home from work now, I need a light-hearted game to detract from the Division 2 community haha.
+They’re not giving Steam players preference, they’re giving everyone the update as soon as they can. They have no control over Microsoft and Sony and it’d be asinine to hold back the update for an unknown amount of time to try and appease their two smaller markets. 
+
+It was a PC game first, having played it on PC and PS4 I can tell you it’s still primarily focused on PC, so console players should just be happy they go to the trouble to publish it on their consoles.
+Yes, there is a reason to give steam players preference, the reason is that steam does not add a delay to the process like consoles do. There is no reason to add artificial delay to steam users. You have it backwards.
+I play on console, and even I found that funny
+Small batteries are amazing
+Using the medium storage you can stack 24 small batteries in the same place as one medium battery.
+    Wait what, how? With an 8 slot storage?
+        Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+        No, with the 24 slot medium storage silo
+            Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+                Yes, you can put it in the oxygenator slot.
+                The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+                small shuttles dont have slots
+                    every shuttle has a slot intended for an oxygenator ;)
+You have to use a T2 slot for medium batteries but with smalls you can fit way more on a silo.
+That's the only base you need nowadays.
+Can't say I enjoyed any of them. I like the base game, but it's shallow. It's like elite dangerous. Desperately want to like the game, I try and I fail.
+That's a decision on their part. I'd very much rather have paid dlc over paid cosmetics, any day of the week.
+
+I don't mind paid cosmetics tbh. But I'm aprehensive and I judge it on a case by case basis.
+
+IMHO LoL is almost "just fine". If you had access to all heroes and didn't need to buy them, I'd say it would be "fine".
+
+All you can buy is skins, you can get all skins, even removed skins. RNG chests drop no duplicates ever. If you're missing one single skin, removed in 2016 and never again added, then buy exactly 1 chest and BOOOM, you have everything.
+
+Here? I don't like it. I could go into detail on why not, but I don't think you'd care.
+    [deleted]
+        Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+They could have anticipated that...unless the patch is finished the very last minute and sent to cert. Not hearing good things about the update on Steam...performance tanks apparently...
+k
+That's understandable on a large scale. I won't be using automation so having it an option would have been nice. I've already seen how it's a moderate hassle while building a new base. i.e. Having to babysit the smelter with no storage attached for a few pieces of ceramic that could have otherwise just fallen on the ground.
+
+Although it's not the hill I want to die on today so I'll be fine. :)
+Oh damn for real?! Can't wait to get home from work now, I need a light-hearted game to detract from the Division 2 community haha.
+Wait what, how? With an 8 slot storage?
+    Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+    No, with the 24 slot medium storage silo
+        Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+            Yes, you can put it in the oxygenator slot.
+            The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+            small shuttles dont have slots
+                every shuttle has a slot intended for an oxygenator ;)
+[deleted]
+    Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+Dang is the medium one made out of resin? I meant the one made from 2 titanium. 
+
+Get to Vesania and get some lithium, get to Glacio and beat the game.
+No, with the 24 slot medium storage silo
+    Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+        Yes, you can put it in the oxygenator slot.
+        The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+        small shuttles dont have slots
+            every shuttle has a slot intended for an oxygenator ;)
+Fine, but I'll still be short. I already commented on the matter in this thread. The short of it is that the game is very light on content. Wide, sure. But not deep. 
+
+My fear is that if real content is free, and cosmetics produce income - inevitably (absolutely inevitably, no real discussion to be had on the matter) INEVITABLY the focus will be to develop cosmetics, not content.
+
+And the game is neat, but it could be amazing with an expasnion or two.
+
+If all they do is an update like automation once a year and cosmetics in the meantime ... then the game is dead to me. Not being mean or hyperbolic, just how I see it.
+Returning player, haven't played since 2017/2018, does the medium silo fit in a small shuttle?
+    Yes, you can put it in the oxygenator slot.
+    The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+    small shuttles dont have slots
+        every shuttle has a slot intended for an oxygenator ;)
+Yes, you can put it in the oxygenator slot.
+The Medium Storage Silo works on all Tier-2 (two connected Tier-1) slots.
+
+It has some clipping issues. :P
+small shuttles dont have slots
+    every shuttle has a slot intended for an oxygenator ;)
+every shuttle has a slot intended for an oxygenator ;)
