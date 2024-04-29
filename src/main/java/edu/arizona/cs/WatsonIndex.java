@@ -112,6 +112,7 @@ public class WatsonIndex {
         // Get the resources directory
         File resourcesDirectory = new File(resourcesPath);
         String directoryName = null; 
+        int docCount = 0, fileCount = 0;
         // Check if it exists and is a directory
         if (resourcesDirectory.exists() && resourcesDirectory.isDirectory()) {
             // Get all subdirectories in the resources directory
@@ -120,12 +121,14 @@ public class WatsonIndex {
             for (File subDirectory : subDirectories) {
                 directoryName = subDirectory.getName();
                 System.out.println("Directory: " + directoryName);
+                docCount++;
                 // Get all text files in the subdirectory
                 File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
                 // Iterate over each text file
                 List<String> fileContents = new ArrayList<>();
                 for (File textFile : textFiles) {
                     System.out.println("  Text File: " + textFile.getName());
+                    fileCount++;
                     String fileContent = parseTextFile(textFile.getPath());
                     fileContents.add(fileContent);
                 }
@@ -143,6 +146,8 @@ public class WatsonIndex {
         } else {
             System.out.println("Resources directory does not exist or is not a directory.");
         }
+        System.out.println("Total directories: " + docCount);
+        System.out.println("Total files: " + fileCount);
     }
 
     /*

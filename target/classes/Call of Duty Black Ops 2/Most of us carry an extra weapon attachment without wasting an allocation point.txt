@@ -1,0 +1,518 @@
+[[Most of us carry an extra weapon attachment without wasting an allocation point]]
+
+
+
+
+
+It should've taken the accuracy all the way down.
+Unreal did their lag compensation better in 1999.
+
+Seriously, in Unreal, the hitboxes were synched to the player models, and instead of your bullet scanning the area, then hitting, the bullets hit the point, then scanned what it hit. (i.e. I am a bullet. I was just fired at this point. There happened to be a player there. I'll damage him.)
+    man more games should do that
+    I've made this argument on mw3 a few times with a lot of backlash. I like the way you explained it. In UT '99 if your connection sucked (I.e. dial up and not ADSL 1.44mb) then you paid for it in game. Cliffy B was against zero ping mods. I'm at at&amp;t's highest tier and my connection lags like a bitch.
+        I think that multiplayer gaming should ALWAYS be about who's the best behind the gun, not who can compensate for lag the best. It goes against the purpose of playing online entirely if you're trying to aim for an invisible hitbox, instead of your opponent. Know what I'm saying?
+    I have a feeling that if you understood the complexities of modern fps gaming programming (I don't), you'd realize that it's simply not that simple.
+        Exactly. It's not like simple math: latencies aren't constant (well, the low latencies are usually constant, but the 100ms+ latencies often actually fluctuate a lot: sometimes it's 50ms-150ms and the game simply says 100ms) so you can't know how much you should compensate. Because of the non-constant latencies, this means you sometimes have to compensate a bit more or less.
+
+Then there's also the fact that people don't move in a straight line: if people did, compensating for 50ms of lag would be easy by simply moving them 50ms forward in time using the movement direction of the last game frame. But the player might have moved and you compensated in the wrong direction. The engine then has to compensate for the compensation, and move the player to the correct position again, while again compensating for the lag.
+
+You then end up with an engine that has to compensate basic movement, compensate for the fluctuating latencies and compensate for the compensation that was wrong when compensating players that changed their direction.
+
+Oh, have I mentioned that the server-side hit detection also has to do all this, but with less information? Because of the time difference, the client and server never have the same data so the client might compensate differently than the server, resulting in noticeable lag compensation.
+        It actually is quite simple; you just rewrite the way the engine handles networking via using an existing method, like the way Unreal does.
+            Oh, *that is simple!*
+                It actually is. Instead of going shoot > scan > hit, you go shoot > hit > scan. Simply change the order of the calculation.
+
+[It's quite simple, gravity013...](http://24.media.tumblr.com/tumblr_m04la1jDST1r7rib5o1_400.gif)
+                    They would have to rewrite a a good number of things in their engine if they wanted to change that.
+    there was also dedicated servers...
+        I actually fondly remember buying a really fucking expensive computer and hosting a 24/7 CTF UT '99 server. Goddamn those were the days.
+I played on a 3 bar once...
+
+**ONCE**
+
+It's so fucking hard to play. Your bullets don't go where you shoot so what the fuck are you supposed to do?!
+    You don't know the pain of having a 3-bar whenever you play, no matter what...
+        I've never had a 4-bar in my life. I usually sit on a 2 bar. When I have a 3-bar, I am giddy. I have managed to get a 2 kd in Black Ops 1, but can barely hold a 1 kd in #2. 
+
+Black Ops 2 is the sole reason why I called a different internet company and upgraded.
+        I still have NetZero...
+        I sure do bro, It was at this time in my life called 'Growing up in Australia'. Now I live in Finland and rock the 4 bars 24/7 broseph.
+        I'm playing on 1 bar from day 1.. I cant get any much higher.. But surprisingly I don't have any lag.
+    Even on a 4 bar my bullets will go straight through people. Fucking lag compensation.
+        Right here with you. It's a lie of a 4 bar. Why can't we have ping?
+            this annoys me greatly - theres not even ping on the PC, we get these meaningless bars that tell us basically nothing. fuck them.
+okay okay... don't kill me guys... Is this a lag compensation joke?
+    I can't kill you, I have a 3 Bar...
+        But he'll kill *you*. Go on, put a few more shots in him. Few more. Got it? About 10 bullets? Okay now it's his turn to spin around, completely unharmed, and drop you in 2 shots.  
+
+THE FUTURE IS BLACK™!!!!
+            > THE FUTURE IS LAG™!!!!
+
+
+
+FTFY
+            Fuckin fuck I thought it was just me. Love how I carry an average 1.17 KD in battlefield 3 while in Black Ops 2 I have a 0.94 KD ratio.
+                Yeah I just played a game of Nuketown thinking I'd give it another chance. I shot people directly in the center mass and they took no damage at all. Such bullshit. I'm done with this game. They will never fix lag. 
+                i have a 2.2 kd in battlefield (get about 300 kills a day when i play) 
+
+i have a .45 kd in black ops 2..
+
+
+    I didn't get it either at first, but I think you're spot on.
+        maybe OP will enlighten us...
+            The "attachment" is bringing down damage and range because the lag is so bad that's apparently what is happening to everyone without a terrific connection in a game. The result is cheap deaths and ridiculously unfair gun fights when it would in most cases be in your favor but the lag is so bad right now that it is inconsistent and often causes great rage
+                It's weird as shit. I get games where my connection is great for one game. Then the next two will be bad, then the fourth will be normal again. I don't really understand how it can be so inconsistent. This has been happening since I got the game. 
+                    I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+                        Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+    no, it's just a lag joke.
+Hopefully this extra attachement glitch will be fixed in the patch!
+Post of the day!!
+So damn true. Every other cod is manageable at a 3 bar, but for this one, I lose 90% of gun fights. Honestly considering returning the game, or at least never playing multiplayer. I've had a 1.9 KD for every other COD, but this one I can barely break even most games. Even kills I know I should have (Guy coming around corner, I'm aimed in looking at corner) It has ruined the game for me. This lag compensation *needs* to be fixed, hopefully in a patch of some sort. 
+    Come live in Australia. 3 bar is a good connection. Trust me, you can learn to deal with it. 
+        Yeah 3bar in AUS is fine 9/10 games. 
+            Same over here in New Zealand. Getting a 4 bar when you're not host essentially just doesn't happen.
+                Baa baa baa...
+    I feel your pain, but people are just going to slowly ignore it, which they already have done, and Treyarch will never mention it again. It's sad, I know, but it's the way it works. I will never buy another cod again unless it has zombies. That's all cod is really worth now.
+    It's weird that people are finding this one bad because this is by far the smoothest cod I've played yet in terms of lag. I guess I'm just lucky, I dunno.
+        You are just lucky...I have seen it on many occassions on kill cams i run passed someone they are facing the other way but on kill cam it shows them facing me also seen where i have fired a rocket and died and then on kill cam no rocket went off and i just died? The hit boxes are crud as well i have shot some people 4 times from range and got the marker and people with SMGs shoot me the the same amount or less and killing me. Ill be honest this game has me raging like no other and its because i know i am better at this game than i am doing. 
+
+Are SMGs overpowered just because they fire more bullets out in  a shorter time so it helps the lag compensation?
+            SMGs are just overpowered in general. I got to level 40 without touching them because I heard they were OP, so I stuck with assault rifles. Then one day I picked up an SMG because I was out of ammo, and it was better in every aspect. At range, and definitely up close (which is where most of the combat takes place). I now use them because what the hell, they're fun. I went from getting a care package every 20-30% of matches or so, to literally now getting 1 every match, very often getting several. I now consistently get to the third row of kill streaks too, I get an AGR (love that thing) every 2 matches or so.
+
+They're ridiculously better then assault rifles in this game.
+        Obviously. Who is your ISP? What's your download/upload speed?
+            My ISP is Teksavvy, 25mbps down/7mbps up. I have it set to find the best connections for matches (maybe you guys all need to do that? It's a somewhat obscure option I think, maybe it's why it's working so well for me)
+                I've set it to use Best connection. Mine is 18 down/1.5 mbps up. Thanks for the info.
+Could have been made for 4 bar too....
+Treyarch should just take the current top players with their high K/D ratio and go look at their connections. Anything spotty, BAN! That would make the 12 year olds think twice before lagswitching.
+    Lag switching won't help them, they get eaten alive by lag compensation.  If anything, when they are trying to do it, you will get an extreme advantage as their ping will be through the roof.
+I use the 2 bar attachment. 
+Try getting the Saiga 12 camo challenges done on a 3 bar. It feel like you're shooting bubbles at the enemy. 
+I have excellent internet, and on this game, players seem to suddenly appear out of thin air, or not appear at all when they shoot me.  I can line up a shot and not get a single hit marker.  I don't know what Activision did to "improve" this game series online, but it seems to be a fail on their part.  I see myself playing the older CoD games in the near future, and my copy of BO2 will collect dust.
+I hav a 3Bar in every CoD and pretty much a worse connection in every game (on console, on PC everything is fine) than any ody i play with, even if my buddys are host. You learn to live with it, i actually get pretty good scores most of the time in CoD.
+
+Funny thing is, if im the host, everything wents to shit and i cant hit anybody and 80% of the time if im host, i go negative. 
+I've been running Black Ops 2 cabled with 70MB/s download, usually host and almost always 4 bars.
+
+I too can have bad games because of the lag compensation.
+Now imagine this, but going knife only. It's brutal, but in one day, I only have 3 more skins to unlock for the knife...
+i shot someone 3 times with an m8a1 on hardcore last night and didn't kill him because of the lag
+When searching a match, look bottom right. Search preferences. Go to best, default is Normal. 
+    this doesnt help... ive mine set to best since day one and i still get bad connections
+        Yeah, "Best" is the same placebo Treyarch served up in their last two games, when it was called "Locale Only." 
+
+It *might* have a positive effect if you're in a relatively remote area, but if you're in large city, then both "Best" and "Normal" give you the same results (i.e., wildly inconsistent ones).
+            Best works for me in the city. I get 150 Mbps tho... 
+
+MW3 was a nightmare for me until I downgraded my internet and streamed Netflix and Pandora. That only lasted a little while because slow internet sucks. 
+
+It seems like all my friends who were God-like in MW3 are having this issue now. Time to upgrade.
+                After 2-3Mb/s, your connection speed is meaningless for online gaming in COD.  Unless you're hosting, then it matters.  What's more meaningful is what route your TCP/IP packets take to get to the destination.  If it takes 30+ hops around the internet, all it takes is a couple machines in that route to add 50ms here and 50ms there.  Next thing you know, you're ping is 250 instead of 9.
+
+250ms ping is ungodly bad in mind.  I used to get that playing on a 28.8k modem with Quake 2 back in the day.  
+
+The lack of transparency is the issue here.  How it searches and choses host is one big mystery.  It seems that they sacrifice latency of the connection for speed to start the game.  I don't care if it takes me 10 minutes to find a good game, if I could, I'd set search preferences to tolerate no more than 30ms ping to the host.
+
+They would NEVER allow this, because it would massively fragment the gaming population based of trace routes.  Which means, people who live in remote areas would NEVER find a game to play in.
+
+In addition to this, it seems that how it handles latency differences is by making everyone have approximately the same "ping".  So, if you're latency is 10ms and the guy you are shooting at is at 250ms, the game will delay your actions so that the 250ms guy can have a chance at killing you.  This is why you get games with constant kill cams showing you never fired a shot as he guns you down after you fired enough bullets to easily kill him twice in the dead center of his chest.
+                    I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+                        It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+                            Fair enough. Explains why I get bad games every now and then.
+                    seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+        OK? Was just giving a suggestion, not sure why I'm downvoted. 
+            its reddit... you will always get downvoted
+            Yea, it helps some people. The ones it doesn't will downvote the fuck out of your suggestion because they're mad it doesn't help them.
+
+Edit: word
+Absolutely brilliant.  
+*slow clap*
+EXCELLENT. 
+The connection bar symbols would make for a funny ass emblem in some shape or form. lolz to be had.
+the reason I stopped going wifi and went to wired connection
+I've had only 3 bars for all Cod's and maintained a decent kd and win ratio. I thought 3 bars were normal?
+    in past CoD games it was fine but this one hell i unload a full clip into a guy and he still kills me but on the kill cam it shows i did not shoot at all.
+Pretty much true.
+3 bar helps you!?!
+For extra challenge, play while someone is downloading on your internet.
+Apparently people here have never experienced 1 bar. I usually just leave in the first minute.
+Seems FUCKING LEGIT!!!
+I believe thats where the silencer goes
+This was amazing, man.
+wait. What is 3 bar?  Your latency?  Isn't 3 bars the maximum though?  Or do you want as few bars as possible?  You want 1 bar next to your name?
+    4 bars max, which is best.
+LOL - I believe I also have the FAL unlocked with the respective 1bar / GFL attachment :)
+
+Edit - words and stuff
+FAKE! 3 bar isn't higlighted, it's shopped!!!!!
+OHHH I get it... wp op
+I thought this was a real attachment then I was like wait 3nar wen have I ever heard that lol
+The only way i can kill someone is by making them see my k/d...
+LMAO,have an upvote.
+You just have to learn to play with the lag.  Shoot 5 ticks to the left.  Kill every time.  
+    Play Hardcore. The one shot you land before your enemy turns around and kills you, kills them.
+        Would be awesome if hardcore had more than 4 crappy game modes. 
+            I would like HC Kill Confirmed
+                I just want hardcore Hq and maybe domination.
+        That's usually where I play.  My "learning to play with the lag post" was for the sake of this post :-P
+        Ha. That's seriously the only way I can play now, and I barely ever touched hardcore in all other cod games. 
+            I've played it since MW1, where Hardcore Search and Destroy was the greatest experience ever.
+I have had nothing but 5 bars =D
+Wow you people are complaining about 3 bar and I don't think I've ever gotten 4 bars for more than an hour its usually 1 or 2
+    I used to do S&D on WaW on a one bar and still killed people better than I do on a 4 bar on BO2
+stop playing on consoles then
+    [deleted]
+        Not really.
+    Bad lag compensation is bad lag compensation, system doesn't matter.  This problem is within the game.
+
+ Last time I checked, both the 360 and PS3 versions run the same engine as the PC version.
+    Yeah because on the PC I get lag and hacked games. Extra fun.
+        Yeh, because consoles aren't a hacked mess.
+
+Also, consoles will be laggier due to P2P, whereas PC has dedicated servers.
+            The hit detection still isn't as good as Quake 3. Sad that old school games perfected hit detection and new games just can't match them.
+                Not IMO, Quake 3 was fine, as is Dedicated Server cod.
+
+atleast, in my experience
+    Dedicated servers PC gaming master race FTW.
+        This is a bullshit comment anyway.PC is dealing with the same shit. Dedicated servers or not, I'm still watching jacked up killcams where im positive i landed multiple hitmarkers and had the jump on someone only to have them pull miraculous jedi type reflexes and kill me. What does the killcam show? Not a single round fired from my weapon.
+i dont mind raging due to losing a high killstreak to a cheap death or supposed op weapon. Thats part of the game. When fucking hit detection and latency become primary issues in a game it should be considered BROKEN. Its a shame that someone who has a 4bar will consistently get fisted by someone with a 3bar. 
+            i have a constant 4bar on all of my servers, so its not an issue for me. the thing that allows this constant 4bar is in-fact, the dedicated servers. like the idea or not, if you live in an area where you get a 4bar to the nearest dedi centre your in for some fun. where are you located?
+Wow how do you get that attachment? I don't have it I call hax.
+man more games should do that
+I've made this argument on mw3 a few times with a lot of backlash. I like the way you explained it. In UT '99 if your connection sucked (I.e. dial up and not ADSL 1.44mb) then you paid for it in game. Cliffy B was against zero ping mods. I'm at at&amp;t's highest tier and my connection lags like a bitch.
+    I think that multiplayer gaming should ALWAYS be about who's the best behind the gun, not who can compensate for lag the best. It goes against the purpose of playing online entirely if you're trying to aim for an invisible hitbox, instead of your opponent. Know what I'm saying?
+I have a feeling that if you understood the complexities of modern fps gaming programming (I don't), you'd realize that it's simply not that simple.
+    Exactly. It's not like simple math: latencies aren't constant (well, the low latencies are usually constant, but the 100ms+ latencies often actually fluctuate a lot: sometimes it's 50ms-150ms and the game simply says 100ms) so you can't know how much you should compensate. Because of the non-constant latencies, this means you sometimes have to compensate a bit more or less.
+
+Then there's also the fact that people don't move in a straight line: if people did, compensating for 50ms of lag would be easy by simply moving them 50ms forward in time using the movement direction of the last game frame. But the player might have moved and you compensated in the wrong direction. The engine then has to compensate for the compensation, and move the player to the correct position again, while again compensating for the lag.
+
+You then end up with an engine that has to compensate basic movement, compensate for the fluctuating latencies and compensate for the compensation that was wrong when compensating players that changed their direction.
+
+Oh, have I mentioned that the server-side hit detection also has to do all this, but with less information? Because of the time difference, the client and server never have the same data so the client might compensate differently than the server, resulting in noticeable lag compensation.
+    It actually is quite simple; you just rewrite the way the engine handles networking via using an existing method, like the way Unreal does.
+        Oh, *that is simple!*
+            It actually is. Instead of going shoot > scan > hit, you go shoot > hit > scan. Simply change the order of the calculation.
+
+[It's quite simple, gravity013...](http://24.media.tumblr.com/tumblr_m04la1jDST1r7rib5o1_400.gif)
+                They would have to rewrite a a good number of things in their engine if they wanted to change that.
+there was also dedicated servers...
+    I actually fondly remember buying a really fucking expensive computer and hosting a 24/7 CTF UT '99 server. Goddamn those were the days.
+You don't know the pain of having a 3-bar whenever you play, no matter what...
+    I've never had a 4-bar in my life. I usually sit on a 2 bar. When I have a 3-bar, I am giddy. I have managed to get a 2 kd in Black Ops 1, but can barely hold a 1 kd in #2. 
+
+Black Ops 2 is the sole reason why I called a different internet company and upgraded.
+    I still have NetZero...
+    I sure do bro, It was at this time in my life called 'Growing up in Australia'. Now I live in Finland and rock the 4 bars 24/7 broseph.
+    I'm playing on 1 bar from day 1.. I cant get any much higher.. But surprisingly I don't have any lag.
+Even on a 4 bar my bullets will go straight through people. Fucking lag compensation.
+    Right here with you. It's a lie of a 4 bar. Why can't we have ping?
+        this annoys me greatly - theres not even ping on the PC, we get these meaningless bars that tell us basically nothing. fuck them.
+I can't kill you, I have a 3 Bar...
+    But he'll kill *you*. Go on, put a few more shots in him. Few more. Got it? About 10 bullets? Okay now it's his turn to spin around, completely unharmed, and drop you in 2 shots.  
+
+THE FUTURE IS BLACK™!!!!
+        > THE FUTURE IS LAG™!!!!
+
+
+
+FTFY
+        Fuckin fuck I thought it was just me. Love how I carry an average 1.17 KD in battlefield 3 while in Black Ops 2 I have a 0.94 KD ratio.
+            Yeah I just played a game of Nuketown thinking I'd give it another chance. I shot people directly in the center mass and they took no damage at all. Such bullshit. I'm done with this game. They will never fix lag. 
+            i have a 2.2 kd in battlefield (get about 300 kills a day when i play) 
+
+i have a .45 kd in black ops 2..
+
+
+I didn't get it either at first, but I think you're spot on.
+    maybe OP will enlighten us...
+        The "attachment" is bringing down damage and range because the lag is so bad that's apparently what is happening to everyone without a terrific connection in a game. The result is cheap deaths and ridiculously unfair gun fights when it would in most cases be in your favor but the lag is so bad right now that it is inconsistent and often causes great rage
+            It's weird as shit. I get games where my connection is great for one game. Then the next two will be bad, then the fourth will be normal again. I don't really understand how it can be so inconsistent. This has been happening since I got the game. 
+                I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+                    Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+no, it's just a lag joke.
+Come live in Australia. 3 bar is a good connection. Trust me, you can learn to deal with it. 
+    Yeah 3bar in AUS is fine 9/10 games. 
+        Same over here in New Zealand. Getting a 4 bar when you're not host essentially just doesn't happen.
+            Baa baa baa...
+I feel your pain, but people are just going to slowly ignore it, which they already have done, and Treyarch will never mention it again. It's sad, I know, but it's the way it works. I will never buy another cod again unless it has zombies. That's all cod is really worth now.
+It's weird that people are finding this one bad because this is by far the smoothest cod I've played yet in terms of lag. I guess I'm just lucky, I dunno.
+    You are just lucky...I have seen it on many occassions on kill cams i run passed someone they are facing the other way but on kill cam it shows them facing me also seen where i have fired a rocket and died and then on kill cam no rocket went off and i just died? The hit boxes are crud as well i have shot some people 4 times from range and got the marker and people with SMGs shoot me the the same amount or less and killing me. Ill be honest this game has me raging like no other and its because i know i am better at this game than i am doing. 
+
+Are SMGs overpowered just because they fire more bullets out in  a shorter time so it helps the lag compensation?
+        SMGs are just overpowered in general. I got to level 40 without touching them because I heard they were OP, so I stuck with assault rifles. Then one day I picked up an SMG because I was out of ammo, and it was better in every aspect. At range, and definitely up close (which is where most of the combat takes place). I now use them because what the hell, they're fun. I went from getting a care package every 20-30% of matches or so, to literally now getting 1 every match, very often getting several. I now consistently get to the third row of kill streaks too, I get an AGR (love that thing) every 2 matches or so.
+
+They're ridiculously better then assault rifles in this game.
+    Obviously. Who is your ISP? What's your download/upload speed?
+        My ISP is Teksavvy, 25mbps down/7mbps up. I have it set to find the best connections for matches (maybe you guys all need to do that? It's a somewhat obscure option I think, maybe it's why it's working so well for me)
+            I've set it to use Best connection. Mine is 18 down/1.5 mbps up. Thanks for the info.
+Lag switching won't help them, they get eaten alive by lag compensation.  If anything, when they are trying to do it, you will get an extreme advantage as their ping will be through the roof.
+this doesnt help... ive mine set to best since day one and i still get bad connections
+    Yeah, "Best" is the same placebo Treyarch served up in their last two games, when it was called "Locale Only." 
+
+It *might* have a positive effect if you're in a relatively remote area, but if you're in large city, then both "Best" and "Normal" give you the same results (i.e., wildly inconsistent ones).
+        Best works for me in the city. I get 150 Mbps tho... 
+
+MW3 was a nightmare for me until I downgraded my internet and streamed Netflix and Pandora. That only lasted a little while because slow internet sucks. 
+
+It seems like all my friends who were God-like in MW3 are having this issue now. Time to upgrade.
+            After 2-3Mb/s, your connection speed is meaningless for online gaming in COD.  Unless you're hosting, then it matters.  What's more meaningful is what route your TCP/IP packets take to get to the destination.  If it takes 30+ hops around the internet, all it takes is a couple machines in that route to add 50ms here and 50ms there.  Next thing you know, you're ping is 250 instead of 9.
+
+250ms ping is ungodly bad in mind.  I used to get that playing on a 28.8k modem with Quake 2 back in the day.  
+
+The lack of transparency is the issue here.  How it searches and choses host is one big mystery.  It seems that they sacrifice latency of the connection for speed to start the game.  I don't care if it takes me 10 minutes to find a good game, if I could, I'd set search preferences to tolerate no more than 30ms ping to the host.
+
+They would NEVER allow this, because it would massively fragment the gaming population based of trace routes.  Which means, people who live in remote areas would NEVER find a game to play in.
+
+In addition to this, it seems that how it handles latency differences is by making everyone have approximately the same "ping".  So, if you're latency is 10ms and the guy you are shooting at is at 250ms, the game will delay your actions so that the 250ms guy can have a chance at killing you.  This is why you get games with constant kill cams showing you never fired a shot as he guns you down after you fired enough bullets to easily kill him twice in the dead center of his chest.
+                I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+                    It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+                        Fair enough. Explains why I get bad games every now and then.
+                seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+    OK? Was just giving a suggestion, not sure why I'm downvoted. 
+        its reddit... you will always get downvoted
+        Yea, it helps some people. The ones it doesn't will downvote the fuck out of your suggestion because they're mad it doesn't help them.
+
+Edit: word
+in past CoD games it was fine but this one hell i unload a full clip into a guy and he still kills me but on the kill cam it shows i did not shoot at all.
+4 bars max, which is best.
+Play Hardcore. The one shot you land before your enemy turns around and kills you, kills them.
+    Would be awesome if hardcore had more than 4 crappy game modes. 
+        I would like HC Kill Confirmed
+            I just want hardcore Hq and maybe domination.
+    That's usually where I play.  My "learning to play with the lag post" was for the sake of this post :-P
+    Ha. That's seriously the only way I can play now, and I barely ever touched hardcore in all other cod games. 
+        I've played it since MW1, where Hardcore Search and Destroy was the greatest experience ever.
+I used to do S&D on WaW on a one bar and still killed people better than I do on a 4 bar on BO2
+[deleted]
+    Not really.
+Bad lag compensation is bad lag compensation, system doesn't matter.  This problem is within the game.
+
+ Last time I checked, both the 360 and PS3 versions run the same engine as the PC version.
+Yeah because on the PC I get lag and hacked games. Extra fun.
+    Yeh, because consoles aren't a hacked mess.
+
+Also, consoles will be laggier due to P2P, whereas PC has dedicated servers.
+        The hit detection still isn't as good as Quake 3. Sad that old school games perfected hit detection and new games just can't match them.
+            Not IMO, Quake 3 was fine, as is Dedicated Server cod.
+
+atleast, in my experience
+Dedicated servers PC gaming master race FTW.
+    This is a bullshit comment anyway.PC is dealing with the same shit. Dedicated servers or not, I'm still watching jacked up killcams where im positive i landed multiple hitmarkers and had the jump on someone only to have them pull miraculous jedi type reflexes and kill me. What does the killcam show? Not a single round fired from my weapon.
+i dont mind raging due to losing a high killstreak to a cheap death or supposed op weapon. Thats part of the game. When fucking hit detection and latency become primary issues in a game it should be considered BROKEN. Its a shame that someone who has a 4bar will consistently get fisted by someone with a 3bar. 
+        i have a constant 4bar on all of my servers, so its not an issue for me. the thing that allows this constant 4bar is in-fact, the dedicated servers. like the idea or not, if you live in an area where you get a 4bar to the nearest dedi centre your in for some fun. where are you located?
+I think that multiplayer gaming should ALWAYS be about who's the best behind the gun, not who can compensate for lag the best. It goes against the purpose of playing online entirely if you're trying to aim for an invisible hitbox, instead of your opponent. Know what I'm saying?
+Exactly. It's not like simple math: latencies aren't constant (well, the low latencies are usually constant, but the 100ms+ latencies often actually fluctuate a lot: sometimes it's 50ms-150ms and the game simply says 100ms) so you can't know how much you should compensate. Because of the non-constant latencies, this means you sometimes have to compensate a bit more or less.
+
+Then there's also the fact that people don't move in a straight line: if people did, compensating for 50ms of lag would be easy by simply moving them 50ms forward in time using the movement direction of the last game frame. But the player might have moved and you compensated in the wrong direction. The engine then has to compensate for the compensation, and move the player to the correct position again, while again compensating for the lag.
+
+You then end up with an engine that has to compensate basic movement, compensate for the fluctuating latencies and compensate for the compensation that was wrong when compensating players that changed their direction.
+
+Oh, have I mentioned that the server-side hit detection also has to do all this, but with less information? Because of the time difference, the client and server never have the same data so the client might compensate differently than the server, resulting in noticeable lag compensation.
+It actually is quite simple; you just rewrite the way the engine handles networking via using an existing method, like the way Unreal does.
+    Oh, *that is simple!*
+        It actually is. Instead of going shoot > scan > hit, you go shoot > hit > scan. Simply change the order of the calculation.
+
+[It's quite simple, gravity013...](http://24.media.tumblr.com/tumblr_m04la1jDST1r7rib5o1_400.gif)
+            They would have to rewrite a a good number of things in their engine if they wanted to change that.
+I actually fondly remember buying a really fucking expensive computer and hosting a 24/7 CTF UT '99 server. Goddamn those were the days.
+I've never had a 4-bar in my life. I usually sit on a 2 bar. When I have a 3-bar, I am giddy. I have managed to get a 2 kd in Black Ops 1, but can barely hold a 1 kd in #2. 
+
+Black Ops 2 is the sole reason why I called a different internet company and upgraded.
+I still have NetZero...
+I sure do bro, It was at this time in my life called 'Growing up in Australia'. Now I live in Finland and rock the 4 bars 24/7 broseph.
+I'm playing on 1 bar from day 1.. I cant get any much higher.. But surprisingly I don't have any lag.
+Right here with you. It's a lie of a 4 bar. Why can't we have ping?
+    this annoys me greatly - theres not even ping on the PC, we get these meaningless bars that tell us basically nothing. fuck them.
+But he'll kill *you*. Go on, put a few more shots in him. Few more. Got it? About 10 bullets? Okay now it's his turn to spin around, completely unharmed, and drop you in 2 shots.  
+
+THE FUTURE IS BLACK™!!!!
+    > THE FUTURE IS LAG™!!!!
+
+
+
+FTFY
+    Fuckin fuck I thought it was just me. Love how I carry an average 1.17 KD in battlefield 3 while in Black Ops 2 I have a 0.94 KD ratio.
+        Yeah I just played a game of Nuketown thinking I'd give it another chance. I shot people directly in the center mass and they took no damage at all. Such bullshit. I'm done with this game. They will never fix lag. 
+        i have a 2.2 kd in battlefield (get about 300 kills a day when i play) 
+
+i have a .45 kd in black ops 2..
+
+
+maybe OP will enlighten us...
+    The "attachment" is bringing down damage and range because the lag is so bad that's apparently what is happening to everyone without a terrific connection in a game. The result is cheap deaths and ridiculously unfair gun fights when it would in most cases be in your favor but the lag is so bad right now that it is inconsistent and often causes great rage
+        It's weird as shit. I get games where my connection is great for one game. Then the next two will be bad, then the fourth will be normal again. I don't really understand how it can be so inconsistent. This has been happening since I got the game. 
+            I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+                Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+Yeah 3bar in AUS is fine 9/10 games. 
+    Same over here in New Zealand. Getting a 4 bar when you're not host essentially just doesn't happen.
+        Baa baa baa...
+You are just lucky...I have seen it on many occassions on kill cams i run passed someone they are facing the other way but on kill cam it shows them facing me also seen where i have fired a rocket and died and then on kill cam no rocket went off and i just died? The hit boxes are crud as well i have shot some people 4 times from range and got the marker and people with SMGs shoot me the the same amount or less and killing me. Ill be honest this game has me raging like no other and its because i know i am better at this game than i am doing. 
+
+Are SMGs overpowered just because they fire more bullets out in  a shorter time so it helps the lag compensation?
+    SMGs are just overpowered in general. I got to level 40 without touching them because I heard they were OP, so I stuck with assault rifles. Then one day I picked up an SMG because I was out of ammo, and it was better in every aspect. At range, and definitely up close (which is where most of the combat takes place). I now use them because what the hell, they're fun. I went from getting a care package every 20-30% of matches or so, to literally now getting 1 every match, very often getting several. I now consistently get to the third row of kill streaks too, I get an AGR (love that thing) every 2 matches or so.
+
+They're ridiculously better then assault rifles in this game.
+Obviously. Who is your ISP? What's your download/upload speed?
+    My ISP is Teksavvy, 25mbps down/7mbps up. I have it set to find the best connections for matches (maybe you guys all need to do that? It's a somewhat obscure option I think, maybe it's why it's working so well for me)
+        I've set it to use Best connection. Mine is 18 down/1.5 mbps up. Thanks for the info.
+Yeah, "Best" is the same placebo Treyarch served up in their last two games, when it was called "Locale Only." 
+
+It *might* have a positive effect if you're in a relatively remote area, but if you're in large city, then both "Best" and "Normal" give you the same results (i.e., wildly inconsistent ones).
+    Best works for me in the city. I get 150 Mbps tho... 
+
+MW3 was a nightmare for me until I downgraded my internet and streamed Netflix and Pandora. That only lasted a little while because slow internet sucks. 
+
+It seems like all my friends who were God-like in MW3 are having this issue now. Time to upgrade.
+        After 2-3Mb/s, your connection speed is meaningless for online gaming in COD.  Unless you're hosting, then it matters.  What's more meaningful is what route your TCP/IP packets take to get to the destination.  If it takes 30+ hops around the internet, all it takes is a couple machines in that route to add 50ms here and 50ms there.  Next thing you know, you're ping is 250 instead of 9.
+
+250ms ping is ungodly bad in mind.  I used to get that playing on a 28.8k modem with Quake 2 back in the day.  
+
+The lack of transparency is the issue here.  How it searches and choses host is one big mystery.  It seems that they sacrifice latency of the connection for speed to start the game.  I don't care if it takes me 10 minutes to find a good game, if I could, I'd set search preferences to tolerate no more than 30ms ping to the host.
+
+They would NEVER allow this, because it would massively fragment the gaming population based of trace routes.  Which means, people who live in remote areas would NEVER find a game to play in.
+
+In addition to this, it seems that how it handles latency differences is by making everyone have approximately the same "ping".  So, if you're latency is 10ms and the guy you are shooting at is at 250ms, the game will delay your actions so that the 250ms guy can have a chance at killing you.  This is why you get games with constant kill cams showing you never fired a shot as he guns you down after you fired enough bullets to easily kill him twice in the dead center of his chest.
+            I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+                It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+                    Fair enough. Explains why I get bad games every now and then.
+            seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+OK? Was just giving a suggestion, not sure why I'm downvoted. 
+    its reddit... you will always get downvoted
+    Yea, it helps some people. The ones it doesn't will downvote the fuck out of your suggestion because they're mad it doesn't help them.
+
+Edit: word
+Would be awesome if hardcore had more than 4 crappy game modes. 
+    I would like HC Kill Confirmed
+        I just want hardcore Hq and maybe domination.
+That's usually where I play.  My "learning to play with the lag post" was for the sake of this post :-P
+Ha. That's seriously the only way I can play now, and I barely ever touched hardcore in all other cod games. 
+    I've played it since MW1, where Hardcore Search and Destroy was the greatest experience ever.
+Not really.
+Yeh, because consoles aren't a hacked mess.
+
+Also, consoles will be laggier due to P2P, whereas PC has dedicated servers.
+    The hit detection still isn't as good as Quake 3. Sad that old school games perfected hit detection and new games just can't match them.
+        Not IMO, Quake 3 was fine, as is Dedicated Server cod.
+
+atleast, in my experience
+This is a bullshit comment anyway.PC is dealing with the same shit. Dedicated servers or not, I'm still watching jacked up killcams where im positive i landed multiple hitmarkers and had the jump on someone only to have them pull miraculous jedi type reflexes and kill me. What does the killcam show? Not a single round fired from my weapon.
+i dont mind raging due to losing a high killstreak to a cheap death or supposed op weapon. Thats part of the game. When fucking hit detection and latency become primary issues in a game it should be considered BROKEN. Its a shame that someone who has a 4bar will consistently get fisted by someone with a 3bar. 
+    i have a constant 4bar on all of my servers, so its not an issue for me. the thing that allows this constant 4bar is in-fact, the dedicated servers. like the idea or not, if you live in an area where you get a 4bar to the nearest dedi centre your in for some fun. where are you located?
+Oh, *that is simple!*
+    It actually is. Instead of going shoot > scan > hit, you go shoot > hit > scan. Simply change the order of the calculation.
+
+[It's quite simple, gravity013...](http://24.media.tumblr.com/tumblr_m04la1jDST1r7rib5o1_400.gif)
+        They would have to rewrite a a good number of things in their engine if they wanted to change that.
+this annoys me greatly - theres not even ping on the PC, we get these meaningless bars that tell us basically nothing. fuck them.
+> THE FUTURE IS LAG™!!!!
+
+
+
+FTFY
+Fuckin fuck I thought it was just me. Love how I carry an average 1.17 KD in battlefield 3 while in Black Ops 2 I have a 0.94 KD ratio.
+    Yeah I just played a game of Nuketown thinking I'd give it another chance. I shot people directly in the center mass and they took no damage at all. Such bullshit. I'm done with this game. They will never fix lag. 
+    i have a 2.2 kd in battlefield (get about 300 kills a day when i play) 
+
+i have a .45 kd in black ops 2..
+
+
+The "attachment" is bringing down damage and range because the lag is so bad that's apparently what is happening to everyone without a terrific connection in a game. The result is cheap deaths and ridiculously unfair gun fights when it would in most cases be in your favor but the lag is so bad right now that it is inconsistent and often causes great rage
+    It's weird as shit. I get games where my connection is great for one game. Then the next two will be bad, then the fourth will be normal again. I don't really understand how it can be so inconsistent. This has been happening since I got the game. 
+        I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+            Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+Same over here in New Zealand. Getting a 4 bar when you're not host essentially just doesn't happen.
+    Baa baa baa...
+SMGs are just overpowered in general. I got to level 40 without touching them because I heard they were OP, so I stuck with assault rifles. Then one day I picked up an SMG because I was out of ammo, and it was better in every aspect. At range, and definitely up close (which is where most of the combat takes place). I now use them because what the hell, they're fun. I went from getting a care package every 20-30% of matches or so, to literally now getting 1 every match, very often getting several. I now consistently get to the third row of kill streaks too, I get an AGR (love that thing) every 2 matches or so.
+
+They're ridiculously better then assault rifles in this game.
+My ISP is Teksavvy, 25mbps down/7mbps up. I have it set to find the best connections for matches (maybe you guys all need to do that? It's a somewhat obscure option I think, maybe it's why it's working so well for me)
+    I've set it to use Best connection. Mine is 18 down/1.5 mbps up. Thanks for the info.
+Best works for me in the city. I get 150 Mbps tho... 
+
+MW3 was a nightmare for me until I downgraded my internet and streamed Netflix and Pandora. That only lasted a little while because slow internet sucks. 
+
+It seems like all my friends who were God-like in MW3 are having this issue now. Time to upgrade.
+    After 2-3Mb/s, your connection speed is meaningless for online gaming in COD.  Unless you're hosting, then it matters.  What's more meaningful is what route your TCP/IP packets take to get to the destination.  If it takes 30+ hops around the internet, all it takes is a couple machines in that route to add 50ms here and 50ms there.  Next thing you know, you're ping is 250 instead of 9.
+
+250ms ping is ungodly bad in mind.  I used to get that playing on a 28.8k modem with Quake 2 back in the day.  
+
+The lack of transparency is the issue here.  How it searches and choses host is one big mystery.  It seems that they sacrifice latency of the connection for speed to start the game.  I don't care if it takes me 10 minutes to find a good game, if I could, I'd set search preferences to tolerate no more than 30ms ping to the host.
+
+They would NEVER allow this, because it would massively fragment the gaming population based of trace routes.  Which means, people who live in remote areas would NEVER find a game to play in.
+
+In addition to this, it seems that how it handles latency differences is by making everyone have approximately the same "ping".  So, if you're latency is 10ms and the guy you are shooting at is at 250ms, the game will delay your actions so that the 250ms guy can have a chance at killing you.  This is why you get games with constant kill cams showing you never fired a shot as he guns you down after you fired enough bullets to easily kill him twice in the dead center of his chest.
+        I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+            It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+                Fair enough. Explains why I get bad games every now and then.
+        seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+its reddit... you will always get downvoted
+Yea, it helps some people. The ones it doesn't will downvote the fuck out of your suggestion because they're mad it doesn't help them.
+
+Edit: word
+I would like HC Kill Confirmed
+    I just want hardcore Hq and maybe domination.
+I've played it since MW1, where Hardcore Search and Destroy was the greatest experience ever.
+The hit detection still isn't as good as Quake 3. Sad that old school games perfected hit detection and new games just can't match them.
+    Not IMO, Quake 3 was fine, as is Dedicated Server cod.
+
+atleast, in my experience
+i have a constant 4bar on all of my servers, so its not an issue for me. the thing that allows this constant 4bar is in-fact, the dedicated servers. like the idea or not, if you live in an area where you get a 4bar to the nearest dedi centre your in for some fun. where are you located?
+It actually is. Instead of going shoot > scan > hit, you go shoot > hit > scan. Simply change the order of the calculation.
+
+[It's quite simple, gravity013...](http://24.media.tumblr.com/tumblr_m04la1jDST1r7rib5o1_400.gif)
+    They would have to rewrite a a good number of things in their engine if they wanted to change that.
+Yeah I just played a game of Nuketown thinking I'd give it another chance. I shot people directly in the center mass and they took no damage at all. Such bullshit. I'm done with this game. They will never fix lag. 
+i have a 2.2 kd in battlefield (get about 300 kills a day when i play) 
+
+i have a .45 kd in black ops 2..
+
+
+It's weird as shit. I get games where my connection is great for one game. Then the next two will be bad, then the fourth will be normal again. I don't really understand how it can be so inconsistent. This has been happening since I got the game. 
+    I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+        Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+Baa baa baa...
+I've set it to use Best connection. Mine is 18 down/1.5 mbps up. Thanks for the info.
+After 2-3Mb/s, your connection speed is meaningless for online gaming in COD.  Unless you're hosting, then it matters.  What's more meaningful is what route your TCP/IP packets take to get to the destination.  If it takes 30+ hops around the internet, all it takes is a couple machines in that route to add 50ms here and 50ms there.  Next thing you know, you're ping is 250 instead of 9.
+
+250ms ping is ungodly bad in mind.  I used to get that playing on a 28.8k modem with Quake 2 back in the day.  
+
+The lack of transparency is the issue here.  How it searches and choses host is one big mystery.  It seems that they sacrifice latency of the connection for speed to start the game.  I don't care if it takes me 10 minutes to find a good game, if I could, I'd set search preferences to tolerate no more than 30ms ping to the host.
+
+They would NEVER allow this, because it would massively fragment the gaming population based of trace routes.  Which means, people who live in remote areas would NEVER find a game to play in.
+
+In addition to this, it seems that how it handles latency differences is by making everyone have approximately the same "ping".  So, if you're latency is 10ms and the guy you are shooting at is at 250ms, the game will delay your actions so that the 250ms guy can have a chance at killing you.  This is why you get games with constant kill cams showing you never fired a shot as he guns you down after you fired enough bullets to easily kill him twice in the dead center of his chest.
+    I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+        It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+            Fair enough. Explains why I get bad games every now and then.
+    seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+I just want hardcore Hq and maybe domination.
+Not IMO, Quake 3 was fine, as is Dedicated Server cod.
+
+atleast, in my experience
+They would have to rewrite a a good number of things in their engine if they wanted to change that.
+I feel ya man... one game ill go 20 and 5 the next its the exact opposite
+    Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+I thought matchmaking was supposed to be based on latency with this game, rather than region. I don't know that much about the topic, but all I know it's it plays well for me, while the last game caused actual smoke to shoot out of my ears.
+    It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+        Fair enough. Explains why I get bad games every now and then.
+seems the other way for me i have a 90-120MS with 3 bars and when i'm in a group full of 4 bar people it shows that i will not get a shot off (even though i unloaded a full clip right into the guy) or he is shooting me and i am already away from his sights he still kills me even though i am no where close in his sights on the kill cam.
+Exactly what I've been feeling! Although for me it's more like 5 rounds of 5 and 20, then five rounds of 20 and 5.
+It is and it isn't.  Find 50 games, 5 have space, ping 5, pick lowest.
+
+If lowest has ping 159, so be it. 
+    Fair enough. Explains why I get bad games every now and then.
+Fair enough. Explains why I get bad games every now and then.
