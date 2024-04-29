@@ -1,0 +1,141 @@
+[[Alright, seriously. How the fuck do you beat Lucilius ]]
+
+
+I have over 100 hours in this game. I’ve mastered the Proto Bahamut mission and this morning I beat Behemoth easily on the first try (and like 6 more times after that). 
+
+I like to think I’m at least decent at this game but Luci kicks my ass every single time. I’ve watched videos that explain his attacks and everything but I still repeatedly die. 
+
+It seems like every single attack he does, targets me. The broad area attacks I can usually avoid but his sword slashes and what not always get me. Block or dodge, sooner or later he hits me. It doesn’t help that all of his big area attacks kill me in one hit either. 
+
+I tend to play offensively and that has been fine for literally every other mission in the game. So for this fight, I tried going defensively instead. If I focus on dodging his attacks, I can definitely survive longer but it seems like my party (playing online) can’t do enough dps to kill him. 
+
+I play Rackam and have 42k hp and guts/potion hoarder. Even still, I find myself dying CONSTANTLY. I swear, every attack targets me and I have to either dodge and play defensively or eat them and die as I attack. And everything single thing seems to kill me in one hit. 
+
+I just don’t get it. Please, give me any tips you have. Or if you have a video link that helped you, please share it. 
+
+At this point, I just want to kill this fucker once and be done with it. 
+
+
+Me to Lucilius after equipping Flight over Fight: Can't touch this
+
+Also, Improved Guard & Guts also helps with survival. Add Revive if that still isn't enough.
+Use nimble onslaught and enhanced dodge. Hold block and dodge while he's auto attacking you until you get a perfect dodge and you'll be invincible for the rest of his chain. His abilities should be easy enough to dodge after a little practice - just make sure hes not getting any more paradise losts after the first one.
+wait are you failing the dps check at under 10%? cause otherwise the dps doesnt matter until that point. Anyways, Auto revive is better here. Guts is useless since most of the attacks you will die to are multi hit so if guts saves you the next hit in that multi attack will kill you.
+guts+autoRevive+potionHoarder, you just cant drop any of them
+
+and for lucilius you must get a low profile on your rangers. He simply hates them and will keep teleporting to them (and mainly you since youre rackam), giving a hard time to melee characters too
+Auto revive is better than guts imo. If you're playing a ranged character, it's better to bring low profile as well so that luci will aim the melee characters (that's how I get by as a Eugen main. Without Low Profile I'll be dying way too much lol) 
+
+Stay far away from him and watch his attacks. If he pulls you in, number 1 priority is to run away. If you see him summon his swords, either run far away or go close to him, because the attack is in a donut aoe. 
+
+Also, playing with pubs is much easier than playing with NPCs especially because of the SBA management.
+Just  use the lancelot meme build and be a one button spammer until you get used to his speed. That's how I did it then I switched to my main, a lot easier once you can read him.
+His first Paradise Lost always follows a set pattern.
+
+Learn to avoid it.
+
+[https://youtu.be/6QlW0\_O1\_-Q](https://youtu.be/6QlW0_O1_-Q)
+
+This is just one of many different ways to walk around to avoid it.
+
+His subsequent Paradise Losts will be longer, but if you do the 12 Labors and interrupt his casting, you should never see it.
+If you're playing with friends, aside from the labor, it is actually better to press your SBA off cool down instead of 2/4 chain bursts.
+
+A 1-1-1-1 feeds the party more meter and can push past entire phases if you have the power.
+
+Flight over Fight along with Nimble Onslaught and Improved Dodge will let you charge meter extremely fast.
+> It seems like every single attack he does, targets me.
+>
+> I play Rackam
+
+Low Profile is excellent for ranged characters, especially on the Luci fight. It'll prevent him from trying to melee you *at all* and then the only things you have to avoid are the group-wide mechanics like orbs, mines, etc.
+
+Equip Improved Dodge so you can hop around more when you need to. Firm Stance *can* help with Luci's pull-in-and-orb-shower but I never ran it. Bring Auto-Revive and maybe Guts. Luci has a tendency to multi-hit or juggle you from one thing to the next so a lot of the time Guts gets used then I just die anyway if I get unlucky or in a bad position. Auto-Revive's animation lets me "soak" follow-up attacks with no penalty and gives me a few seconds to reset and prepare myself.
+
+Once you learn the attack tells, it's not bad.
+
+If he raises his swords and there's a small red ground flash for the melee AOE, you need to begin moving or dodging because he'll trigger the ranged circular explosions immediately after that.
+
+If you get pulled in, run away and/or prepare to dodge inward because the orb rain is coming after the pull.
+
+If he teleports to a screen edge just start dodging immediately because he'll do either the vertical sword slash or the horizontal laser swipe. You can also jump the horizontal swipe if you're quick enough.
+
+I play at very long distance which makes it easier to see what is coming and also stay conveniently outside of his donut-shaped attack. If you're too close to him and he pushes you back a little, you need to immediately move *toward* him (to be in the safe "eye of the storm") or very quickly create a large distance to be outside the AOE.
+
+For Paradise Lost, watch for little flashes on the ground, this shows you the pattern that the laser blasts will occur in. So you have to remember the pattern and then dodge or otherwise make sure you run *against it* (basically travel in the order opposite the flashes) and I'm not consistently perfect at avoiding these but I get by, and Guts/AutoRevive help here. You shouldn't be seeing another Paradise Lost in the fight because you can interrupt it with Stun or SBA. After the Labors, you *have* to do a Full Burst to interrupt, but any PL *after* that can be interrupted with one single SBA. If you don't trust your group to get a stun off, reserve and use one SBA to cancel that attack.
+
+Gopherwood looks worse than it is. You barely have to move. Don't run around, just hold block and dodge if stuff telegraphs near you. There are big "safe" patches just to the left and right of where your character starts when the attack begins.
+Aside from learning the patterns and learn how to dodge his attacks, you can always use a full defensive build, fight him a couple of times just observing his attacks and try dodging until you can do it consistently
+Try running solo, no party members at all. Do this to get used to his basic attack patterns, as well as your damage windows. Obviously you won’t send him into overdrive, but at least you can get a feel of his opening phase so that by the latter stages you won’t have wasted survival resources. 
+
+See how long you can survive without taking damage, and practice until you master perfect dodging. 
+
+Then try it with AI to get used to the chaos, and progress from there.
+Always bring potion hoarder or Auto revive. 
+People always be against of using this I dunno why. It helped me alot.
+I had to master dodging after that I’ve been able to kill it with randoms or my team I’m sorry I don’t have better advice I also had auto revive and potion hoarder to minimize the critical gage going down
+The close red slice attack is what I had to master before I could beat him also online I feel is better because I feel like my ai team dosnt help with the 12 labors as well
+Sigils, Its all bout the Right sigils in endgame.
+
+Luci fight is mostly endurance, Not Dying and ulting in the right moments together. Try a passiv build with at least enough damage to destroy his feathers and swords fast enough, but concentrate more on fast ults and passive skills like dodging, blocking, more hp ans drinks
+3 suggestions:
+
+- flight over fight
+- 40k+ hp with stout heart
+- or just dodge better
+
+His normal sword slashes aren't 1-shots. They're also pretty predictable. It's his only attack that is targeted on someone, and once he targets you with them, he will focus on you until he uses one of his finishing moves. If you are bad at dodging, you need to be very defensive once you notice that he started his combo on you. His basic normal combo looks like this:
+
+- 3 sword slashes (gold-red-red) -> 2 sword slashes (red-red) -> hovers into the air and does the triple purple laser burst thing -> 2 sword slashes (red-red) -> finishing move
+
+None of these attacks are 1-shots except the finishing move. I usually dodge right-left-right for the 3-hit slash and dodge left-right for the 2-hit slash. The purple burst comes out really fast and I usually get hit, but dodging forward or backwards is fine for that.
+
+He also has variations on this combo where he replaces some of the steps with some of his orb attacks (which I assume you should have no problem dodging, they are obvious). If he does this, he will cut out some of the attacks in the middle, but the combo will still always start with 3 sword slashes and end with a finishing move.
+
+He has 3 finishing moves:
+
+- 3 swords spin around him, he pushes you away slightly and then does a multi-hit DONUT attack. This is always the first finisher he uses in each phase. This move is very obvious, just get really close or really far. This move kills you instantly if you don't dodge it.
+- Hovers up into the air and does a red sword throw, then a second red sword throw. Each throw has a red flash on the boss right before he throws them. This is a move where you may want to just watch a video to see the exact timing, it can be tricky to dodge. Both throws are 1-shots.
+- Hesitates slightly, then uses 3 sword slashes with sword beams (red-red-gold), teleporting in between each slash. He has really bad tracking on these attacks so you can usually avoid it by just spamming dodge to the left or right, but try not to bait them towards your party. Only the gold sword beam is a 1-shot, but the red beams still do heavy damage.
+
+Once he uses a finishing move, he stops focusing on you. He will typically not start another combo immediately after a finishing move, so you have some breathing room while he uses some generic aoe attacks.
+
+In his second phase, he gains 2 more finishing moves:
+
+- Teleports to the side and does a room-wide sweeping laser. Dodge as soon as the laser appears, it sweeps so fast that you shouldn't wait for it to start moving.
+- Teleports to the side and does a targeted yellow sword slam. This one is fairly easy to dodge by just dodging left or right, but there is also a flash on the boss right before he slams the sword down.
+
+These are SECONDARY finishing moves that will either be used INSTEAD of a regular finishing move (typically only if he uses orb moves mid-combo) or immediately AFTER a regular finishing move (typically if he uses the basic combo with no orb interruptions). Getting hit by them gives permanent max HP reduction.
+
+His red sword flurry is not part of his basic combo and also isn't a finishing move. He just uses it as a standalone attack, similar to when he summons mines. He will typically teleport on someone and start glowing red, and then there will be a brief yellow flash before he creates a lethal aoe around him which pulses multiple times, then explodes in a larger aoe. Afterwards, a bunch of random ground aoes appear. There will also be ground aoes targeted on where you are currently standing - the targeted ground aoes are slightly later than the random ground aoes, which can throw off dodge timings.
+
+If you're far away when he glows red, just stop what you're doing and start running. If you're close, you need to either dodge backwards twice immediately when you see the red glow and then start running, or you need to go for the perfect dodge (his aoe becomes active about 0.4-0.5s after the yellow flash appears).
+
+I will assume you know how to deal with Paradise Lost, Final Rebellion, and Gopherwood Ark. Paradise Lost is difficult to dodge at first, but Final Rebellion and Gopherwood Ark are both very easy to deal with.
+Use a more survival focused build over a more glass cannon one. Sigils such as Guts, Auto-revive, improved dodge, improved guard, etc. If you really want a boost to survivability use fight or flight. It's a sigil that makes every dodge a perfect dodge but cuts your damage by 50%. So if you do use it you may have to equip a few attack up sigils to make up the difference.
+Playing with geared AI is easier than players.
+
+The tips everyone else give is good too. 
+
+If you are are too far away from him he will target you too.
+It takes some work if you haven’t done this yet, but there’s no shame in looking up the best AI builds for the best AI characters and maxing them out before trying Luci. I had some trouble on the first day he was released, then realized my AI were way under where they should be. Farmed a bunch of the best damage sigils with uplift, nimble assault, skill cooldown, and other strong secondaries, maxed out their terminus weapons, masteries, etc and tried again and they can consistently clear him on their own. That gives you a tremendous buffer to play conservatively or aggressively and comfortably get a clear.
+
+If you’ve already done that, the rest of the advice offered is great but people tend to underestimate how obscenely strong AI can be built, especially for the Luci fight.
+I..haven't really beat him, I've only managed to get like 10% hp before revives ran out, but this was way back during when he first came to the game. I gave up on him with all the Matchmaking problems on PC and I haven't been able to play again until now so I might not be the most qualified to say anything on him other than being someone familiar with action and difficult-hunting kind of games.
+
+Lucillius is a straight-out skill check. I've used Flight over Flight before and I'd still get nailed if I relax even for a little bit. Master his attacks and master yours, subscribe to the rules of Monster Hunting:
+
+1. Don't get hit
+2. hit it until it dies
+
+these two rules mean trying to survive, which 1 seems to be working out for you already, then fill in all the moments you're alive with attacks. Once I'm done Awakening Tweyen's weapon I'll probably go back to him since not being able to find parties back then left a bad taste in my mouth, failure by my team or my hands is fine, failure by systems failing is not. (And I'll do it with Captain, Tweyen's just a side-project while I shake off a month's rust plus getting used to Captain's new mechanic)
+
+Don't go into his battle thinking it's just as ho-hum as someone like Proto Baha which only gets ridiculous past 20min because Proto Baha is just a DPS rotation skill check. Lucillius is closer to Behemoth or twin dragons or Gallanza +Maglielle in which is a knowledge check, a skill check, and a DPS check all at once.
+
+Try to burn Lucillius' moveset in your head, which strikes of three is coming, when the small openings are, where the blind spots are. Do this until the point the balls from your vision is the problem, from there you work on your positioning and awareness. Who does he face as he teleports, who is he looking at as he appears, is it you? hold block and dodge and try to Perfect Dodge one to get 2s of damage window in (more with at least 1 Nimble x skill). Is it not you but someone beside you? try to move away and attack him from outside his AoE range. Each AoE attack has a different wind-up, look for it. The wind-ups are all rather small, but this is why it's a knowledge and skill check. How fast you can react (moving towards or away from him) will greatly increase your chances of survival.
+
+Flight over Flight+ now exists with Behemoth, albeit a low drop chance. It should help you increase your odds of survival. Throw in a Dodge Payback and you should be able to soften the -50% attack while increasing your window of attack. Try to find a good combination of survival and damage for your sigils, Supplementary Damage for example is a strong effect, but it's a very expensive Sigil that requires 3x just for 20% over-cap. The new Warpath sigils can overtake them depending on char, so 45 Supp Damage is excessive I find, especially if you'll equip Flight over Flight. Consider swapping out your Supp Damage sigils for a bit more utility or attack.
+
+  
+and lastly I guess, fight him when you're mentally ready to fail. Don't go in thinking this is *the* run right off the bat, focus on the dance first. If time is a problem and real life is knocking on your door, then skip him and beat down real life first. The game's enjoyable as it is without having to beat him as the only thing after finishing Lucillius is to do it again and again for the exclusive Sigils. Even after the Sigils what's left is getting more Sigils for a full Solo Party, it doesn't end if you keep with the grind-set. So go in this fight with only the intention of beating him and nothing else. Game will be running for another month at least, so you have around 1+ more month to finish him, find an enjoyable pace first.
+Just cheese him.

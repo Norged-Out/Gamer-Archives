@@ -1,0 +1,498 @@
+[[HELP! Iceborn is insanely hard]]
+
+
+Im not sure with what gear i should have started it, but i cant kill any of the new monster without help or suffering a bunch. Is there any overall tips i can follow? what armor would be a safe investment?, anything i should farm? Im stuck on the blue anjanath cuz i dont want to ask for help from my friend again. I usually play Long Sword, charge Blade and Insect Glave(not at all against playing anything else tho). Im pretty much a beginner so ANY info will problaby helpfull. If this is just another get gud situation then so be it.  
+
+
+NO, I have never used the defensor set on basegame, i was aware of the implications so i never eequiped any of the armor pieces or the weapons.
+
+
+Start crafting Master Rank gear ASAP and upgrade it using armour spheres. You might feel tempted to be stingy with spheres, but don't - the game literally showers you with them for doing bounties, quests, and more. Use them, you can always get more pretty easily.
+
+###If you're struggling to survive hits:
+
+* Use Master Rank armour
+
+* Run the skill Health Boost, it's the best defensive skill in the game and gives a massive buff to survivability
+
+* Always eat before the quest
+
+* If Health Boost doesn't feel like enough, consider Divine Blessing or Evade Window as supplementary defensive skills. Don't run Defence Boost, it's bad.
+
+* If you're playing a weapon with defensive options like LS or CB **use them**. Longsword's Foresight Slash and Charge Blade's Guardpoint are both incredibly powerful, and allow you to counterattack after. Also you can counter roars with these two moves, so please do not let me catch you running Earplugs on those weapons.
+
+* Stop overcommitting, MR monsters generally won't just let you sit there and mindlessly attack
+
+* Don't use Mega Potions regularly, start using Max Potions for healing and get the farm guy to start creating the materials to craft them. Max Pots are cheap and convenient as a healing source, hence why you'll see most endgame players using them in place of regular potions. 
+
+
+###If you're struggling with dealing damage:
+
+* **USE YOUR CLUTCH CLAW!** I can't stress this enough, claw literally buffs your damage by an absolutely obscene margin even if you're not running Wex and crit skills. Always tenderise the monster's weak point.
+
+* Run good damage skills like Weakness Exploit and Critical Eye. 100% Affinity means that you permanently do 25% increased damage which is huge, and it can be increased up to 40% with Critical Boost. Crit Boost is pretty rare earlygame, so just stick to Weakness Exploit and Critical Eye. 
+
+* Stop playing passive. A lot of new players play way too scared for their own good, and it drags out the quest massively. The longer you spend in the quest, the more chances of a fatal screw up. Better to eat the cart and learn something in the process than claw your way through Master Rank one forty-minute battle of attrition slog at a time while learning nothing.
+
+* Look up guides on how to play your weapon. I know this sounds insulting, but there's a decent chance you might've missed something important while feeling things out yourself. Don't feel bad, the game doesn't explain the weapon movesets for shit anyway, especially Charge Blade. 
+
+* On CB make sure you're running Capacity Boost all the time, and Artillery if you're running an Impact Phial CB. 
+
+###Other tips:
+
+* Go back to High Rank and unlock shit. In particular Mantles, the canteen upgrades, and the farm upgrades are all massively important. You especially want the Temporal and Rocksteady Mantles, both of those are godsends for this game and are the best mantles for general purpose content. There's plenty of guides out there and on this subreddit on how to do it, but fair warning it will take a while.
+
+* Use the environment, most maps have environmental traps you can abuse to your favour and you might've even missed some of them. For example, in Area 4 of the Hoarfrost Reach you can trigger an avalanche by wallbanging a monster into a specific wall which does massive damage.
+
+* You do just have to git gud. MR monsters are usually significantly more dangerous than HR monsters, and you'll need to get better at the game in order to consistently beat them. No amount of set building can save you from skill issue, unfortunately. At least not until you can craft a sticky LBG, but we don't talk about that.
+    To add on to this,
+
+-if you need help getting the health boost skill, the elder melder does let you make vitality gems or you can grind materials for the health boost charm from the smithy if you aren’t running a better charm
+
+-never overlook monster resistances as well, sometimes a new weapon with an element the monster is weak to can help shorten the hunt due to extra damage
+
+-skills skills skills! Do not be afraid to take time to go farm for decorations from tempered monster quests or easy event quests, farming for gems that can give you good skills is going to help your buildcrafting for the entire game, it may be a grind but don’t be afraid to do it, pop on a podcast or something to help you pass the time or switch up back to trying your main quests again after a bit (in particular the tenderizer and critical eye gems are very good for their affinity bonuses)
+        i dont think ive ever explored the event tab or tryed farming for decos, actly im not really sure about many of the systems in the game. One of the coments here had a video where a guy showed a "Defender Katana V" maybe cuz i never used it but i had no idea there was more than one, so just imagine how much i have actly lost, thats why i say im a begginer, during my play time in the base game i quited the game many times. Guess it's time to do proper research now
+            Yeah the event tab is a great place to check for stuff, the frozen frostbite event quest is super easy you just deliver 10 frozen foliage and you can earn up to 4 rarity 9 or 10 decos, it’s a real nice quest for grinding but it is also kinda repetitive after a while and isn’t quite as good as hunting a threat level 3 tempered monster, but as for gear making and upgrading gear is really going to help you along the as previously mentioned: the defender gear is great for low and high rank but it caps out and at master you wanna get new MR gear ASAP
+            That first ice creature, I can’t remember the name now, the one who slithers through the snow, Alamo had me rage quitting. When you first get into ice borne it’s so hard. It gets better trust me. I’ve played so many hours but I’m stuck at Alatreon, can’t kill that mfer. Then when I go to see what armor, stats should I use I just find a bunch of posts and YouTube videos showing Alatreon & Fatalis gear and weapons. How the hell are we supposed to use that end game gear if we can’t actually get passed the monster!!! So frustrating.
+    i like the sound of that LBG idea, maybe one day. Thanks for the tips
+    This is a godly comment. Great advice. Especially looking up guides on how to play your weapon or just looking up guides in general. You can but button mash through LR and HR with defender weapons and armor. When you get to MR you have no clue how to play the game.
+Start crafting MR gears immediately - they're better def wise than the best HR gears
+    Seconded. Even the great jagras armor outshines everything from high rank, and will help you through most things until you can get some armor you really want.
+
+If you're on PC i'd be happy to lend a hand :)
+        This, the jump from the base game to Iceborne is similar to jumping from Low Rank to High Rank. You need MR gear asap
+Guardian armor claims another victim
+    They really should have put a notice or something on that armor, seems like every new player uses it then hates iceborne bacause they weren't able to learn how to play.
+        I believe when you start a new game a warning does pop up, but people probably don't read it.
+            It doesn’t really. The only popup that does come up encourages you to use it to progress quickly, and if you say no to that one, you can still forge defender armor later with no indication that it’s to jump ahead.
+    I feel like guardian armor is in a weird place it's good for veteran hunters that just want to Speedrun the base game but it's a complete trap for new players as the skills and defence it has don't teach you how to position or play effectively.
+        The entire guardian armour problem wouldn't exist if Capcom would just let us have cross save and crossplay already
+        Yeah that’s basically what I did since my save file is across the country on my ps4 so I made a new save on ps5 to kill time and got to black veil vaal hazak quite quickly. I don’t have any effuvia res gems so i am grinding the charm rn. Defender weapons were op, the armor was just cushy.
+        Strange. I just start Iceborne last night after beating World for the first time and my instinct was never touch that overpowered set since the begining of the game. That absurd defense point are red flags for me. I ended up craving for Odogaron alpha set after using leather armor, and yes, master rank are ridiculously hard, but when things get worse, I took a deep breath and start turning the table and winning. I'm glad that I've never used guardian set in exchange with the improvement of dodging skill and seeing monster's attack trajectory.
+
+Master Rank is the way I want my game. It's hard but not impoassible.
+            Honestly guardian gear should be locked behind finishing iceborne as that's who it seems to be designed for.
+    nah, first time i used it was when starting iceborn. i was warned about it beforehand
+    Strange because I don't even remember seeing defender gear in my playthrough. I didn't even know of its existence until my sister started playing the game. I just used leather gear until I farmed legiana
+    I started with no armor and it was pretty easy
+    I’ve been using it for awhile, but I have been forging High Rank armor lately, so hopefully, I can use that when I fight against Master Rank monsters when the time comes to get into the “Iceborne” content.
+        I have HR armor and lost 80% of HP from a single hit by any angry monster lol.
+
+Edit: MR monsters are the real challenge.
+I mean, you're not going to like it, especially if you've used the Defender equipment. MR Armor can only do so much if you constantly taking damage. And Iceborne will only get tougher from here. 
+
+If you want to be better without being a burden, do monsters solo and watch their attack patterns and moves to find openings to counter with your own combos.
+    What’s the deal with defender equipment? I just started worlds and I’m currently using defender weapons because they’re better than anything else atm
+
+Edit: thanks for the answers everyone. I haven’t played MH since MHFU and I’m just now getting back into it. I’ll switch off the defender gear, I don’t want to make it too easy for myself
+        They’re meant to be insanely stronger as a way to speed through the main game to iceborne. They’re also very easy to upgrade (weapon wise).
+
+If you use defender gear, there’s a good chance that you won’t improve too much at the game early on cause you can face tank everything.
+
+Imo, i don’t mind people using defender gear. It’s a game, people play how they want, but it makes DLC harder as you’re typically less skilled.
+            What I don't like with defender gear is that many people don't know the reason why it's in the game and what it's meant to be. I think defender gear (armor and weapons) shouldn't be in the game by default, it should only be on the DLC store page of the game, and actived for your game ONLY when you voluntarily go and get it in the store page because you already know what it is.  
+
+
+I know a group of friends who gave up on World because it was too easy for them even though it was their first MH game ever. They used the defender gear (I didn't know that back then). I don't know if the game warns you about this armor set but if it does with yet another "popup" most people don't read that because there's just too many popups with thousands of words in the game, people are here to play not read novels.
+                really they should've made defender gear usable only after you've finished the game (up to shara) on a save file at least once
+                    But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+                        for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+                            Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+                It should be a price for finishing iceborne.
+                Yeah. Tbh I agree there.
+
+Defender gear isn’t really displayed as what it is.
+It should defo have something telling you how broken it is, and how trivial it makes the game
+        Defender gear is meant to help you speedrun base game to iceborne. The weapons are stronger than anything in base game and the armor outshines everything but the best HR armor in terms of defense and it comes with very cozy skills like divine blessing and other stuff to help you take less damage. They make you overpowered from the get and are very easy to upgrade and as such let you play without having to think or learn much about monsters. That changes when you get to iceborne and that equipment don't mean shit anymore and monsters start curbstomping you cause you didn't have to really try throughout base game.
+            Nice one, thanks! I haven’t played MH since MHFU, is there anything I should know? Seems like  there’s some new mechanics and I’m just trying to get used to it
+                You need to learn when to use the clutchclaw correctly, absolutely make use of your radial menu instead of scrolling for items, and always use and upgrade the cultivation boxes. Also, very random but getting one of the fertilizer quests to unlock for soft soil has some unknown prerequisites but going back and killing a great jagras unlocked it for me and many other people. Just try to at minimum make sure every monster in a biome is researched to at least lvl 2 or 3.
+                    I have no idea what a clutchclaw is lol. Thanks for the tips!
+                        The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+        It's gear meant to speed your self to iceborne. It's OP gear for base game. But for new players it's a killer cause it lets you ignore mechanics and you end up with little to no skill in iceborne
+        Defender armor and weapons are just leagues better than anything else except the very pinnacle of base endgame. So they give you a false sense of security, because you hit way harder and can tank way more than you should be able to.
+
+The problem is, once you hit iceborne, the defender stuff stops upgrading so the monsters rapidly outclass you unless you learn the actual mechanics which you can mostly ignore in lr/hr with defender gear.
+        That's the point.  The Defender gear was added with Iceborne, it didn't exist in the original base game.  It's intended to allow players to quickly progress through the base game to Iceborne, skipping the normal gameplay loop of improving your gear as you go by killing harder and harder monsters.
+
+It's fine if you're already good at MHW and just wanna quickly get to the new content. But if you're new to it, it's like playing with cheat codes, and when you get to the point where there isn't Defender gear anymore, you are hitting a huge difficulty spike.  If you'd played without it before, the difficulty would have ramped up more gradually.
+>made it through all of base game 
+
+>claims to be a beginner 
+
+*what?*
+    Defender Gear strikes again
+    i finished the base game with just my intuition, i didnt search for tutorials, never used many of the consumables, not really sure about optimal combos or have a very good notion of safety really. I figured that i might have lot to learn, experiment with, discover and likely unlock
+You say you are a beginner yet you are playing the expansion which means you should've finished the base game right? By now you should've learned enough to get properly into iceborne without that much issue.
+
+You say you don't want to ask friends for help again, does that mean you've got carried through the base game? And i have to ask, did you use the defender set through the base game? If the answer is yes to either or both questions it might be worth to go back to the base game and do some of that content solo and with the apropriate gear.
+
+In terms of gear i can't remember exactly what skills all the early game master rank monsters have, just make sure at least some of it is apropriate for your weapon and that you have health boost 3, besides that just get any master rank gear since they have a big jump in defense compared to high rank gear.
+    He used defender gear.
+        didnt
+            🧢🧢🧢
+    did not use it, nor had help. Unless i was repeating some quest. But i played everything at least once alone. I think im just slow to learn
+i’m assuming you beat the base game with guardian armor which was meant for ice bourne. get better at your weapon and learn the monsters move sets. also don’t forget to use jewels.
+If you've used Defender gear go back to the start of the game and not use it.
+The spike in difficulty must have hit you like a plesioth hip check. It only gets harder as you progress.
+
+I'm assuming you used defender equipment or got carried by friends to catch up to iceborne? Unfortunately for you, it's a git gud kind of situation. Try doing expeditions then observe and learn the patterns of monsters. Look for openings that can be exploited by your weapon of choice. Defender equipment IMO should only be used if you are already experienced and just want to blitz through world and go straight into iceborne.
+My brother in Christ, I have to assume you're just starting IB. It only gets harder, by a significant margin. It is a git gud situation unfortunately.
+    In my experience,the transistion is the hardest since you only have hr gear,then it mellows down a bit and get back to being harder
+        Yeah the transition is rough but and then cools down...and then barioth happens lmao
+            Barioth is where I started experimenting with other weapons and discovered my love for the GL. First time he felt like such a damn wall.
+    i think i pretty much brute forced my way into the dlc, even without using the op gear. So im more than okay with things getting slow now and learning the monsters moveset it just felt insane trying to learn when Tigrex can kill in 3 hits and his hit boxes seems just unfair at times, Maybe i played to much elden ring
+        Late game monsters almost universally kill in 2 hits, many with full one shots.
+You will get used to it.
+
+Iceborne is so cool <3
+    yeah the dlc is pretty cool
+    How very unhelpful of you, good job
+post your build
+    i think i had the rathalos set when i first started the DLC with the rathalos long sword, after getting fucked by everything i changed to the defender set for the first time and it also didnt work, now im farming the monsters from the base game and their new version, getting used to them testing weapons, when i fell ready for the Anja i will make a new post. i dont plan on dropping this
+Tigrex armor is overall great, while Brachydios armor is incredibly good for Charge Blade and Gunlance.
+
+If you don't have it already, I'd recommend going for the level 3 Health Boost charm. All of the materials for it are low rank or high rank.
+
+As for gameplay tips, for Longsword, learn the timings on Foresight Slash. It's the strongest evasion tool in the game. It will save you in many situations you could otherwise not survive. The Clutch Claw is incredibly useful for Longsword, too. If you get a long stagger (often called "clagger"), and you clutch the monster, it will reset the stagger timer. If you drop off, it gives you extra time to perform short combos, including exactly enough time to gain a spirit level for Longsword.
+
+For Charge Blade, dedicate time to either learning Guard Points or using the sliding attacks. Charge Blade takes an incredibly long time to master, but you don't need to master it to survive. Sword Mode is a lot easier to manage thanks to its mobility and defense. The weapon may feel slow at first, but once you know all your options, which you have a lot of, the weapon will feel faster than a large portion of the roster.
+
+For Insect Glaive, learn how to use the vault to avoid attacks. Most monsters will have a hard time reaching you while airborne. However, do not use aerial attacks for focused damage. Only use aerial attacks when ground attacks are unsafe or when you need to reposition to land said ground attacks on the monster's weak points.
+    Thanks for the tips, while playing the base game i think those are points i lacked a lot. It was hard to time things with the Foresight Slash so i never cared to learn a monster timing for for it, with insect glave it was weird to not use the cool atack hahaha but yeah it would problably have ended some of my runs way sooner, but i totally get ur point for the charge blade, for sure im not a master with it, but the options i have with it fell great to work with
+Did you get the temporal mantle from lunastra back in HR?
+
+If not go do it, 
+
+Temporal and rocksteady mantles trivialize many fights due to the tenderizing mechanic, keeping you from getting knocked off the monster's head when you go to flinchshot them
+    i dont even recognize the name, i will work on that, thanks
+        Yeah, if you are having trouble with MR try completing all of the HR stuff without worrying about AT monsters or Behemoth or Leshen unless you're up to the challenge
+When starting iceborn you would want to craft the mr armor. It will always have better armor than anything hr. First armor, after that focus on good armor. 
+
+Ditch the defence charm. Get something fitring your weapon and playstile.
+
+Definitely invest in 3 health boost to boost survivability.
+I'm not sure if "fortify" dzco is already available to you by that point but it can help in more though fights. 
+
+Use traps. Any chance you have to knock a monster into a wall is a good damage window. 
+
+One of the earmy unlockable event quests, frostbite flora or something gives you multiple decos for completing it. If you lack good decos you could fqrm them for a while. 
+
+Stock up some mega demon drug and the analog for defense. Use the fast healing items. 
+
+There is no shame in hunting with others. Of you feel like using sos, do it. If not, you can gey a tailrader and an extra palico bud from the map to distract the monsters more.
+    Other thing, the difficulty spike is temporary. You'll get trough it eventually. Try to refine your playstile.
+
+For example, as an ig main in my first save i overused aerial attacks even when there were openings for good damage on the ground.
+
+Keep hunting, you'll get trough it!
+        i will, thanks
+Understand this: your best gear from World turns into paper in Iceborne. Do not try to progress with your old stuff. As soon as you see new monsters, start killing them so you can farm parts and build a new armor. I suggest Beotodus. He's relatively easy with the old gear, and after that you can gradually go for stronger monsters.
+The fact that you are on Fulgur Anjanath means you've been through a good portion of MR already. Here are some separate tips that all aid to help you in MR:
+
+Make an MR set if you haven't (it would be quite impressive if you pushed through alone up until now without one). Going through like 2 or 3 sets climbing through Master Rank is pretty normal, so when upgrading defense doesn't do it, get a new one.  
+Also needless to say but drop your defender weapon if you are still using one. They are meant to help you boost through high rank and almost any MR weapon will outclass them and most importantly have better sharpness.  
+
+Get Weakness Exploit into your set, it is the most valuable DPS skill compared to the slots required. If you don't have the lvl 2 decos for it, do the Greatest Jagras Event quest a few times or use melding tickets if you have a lot from the steam works. This will also deck you out with some other useful decorations.
+
+Always try to get Health Boost 3 into your set, it's pretty much mandatory in MR and is on a lot of Lvl 4 decos. If you have it already, Divine Blessing is also a good and cheap defense skill. Defense Boost generally isn't worth the slots though.
+
+Try to utilize wall bangs whenever possible. They do percentage damage and MR health is scaled accordingly. You should be trying to get a wallbang as soon as a monster stops being enraged which is indicated by a yellow eye icon instead of red (unless its switching areas).  
+
+Try to tenderize the monsters weakspot regularily. If you haven't, meld a Shaver jewel at the melder. It is a new decoration that allows *light* weapons such as Long Sword and Insect Glaive to tenderize in a single hit.  
+A monster has a special flinch animation where they drool. If you clutch them during that animation, they'll be stunned for longer allowing you to tenderize without risk.
+
+Be wary of the monsters element/ailment. A strong weakness against a certain element can really mess with you. If you don't have a set with good resistances, use elemental mantles in combination with the upgraded glider mantle. Slotting elemental resistances into the latter gives you almost 100% uptime with both mantles.  
+Note that the fire mantle also shields you from Blast Ailmemt.  
+
+You'll soon face elder dragons. Be prepared for the hunts to be around 50% longer so don't be ashamed to get some assistance for them as some of them can be really tough in MR, especially Kushala Daora.
+    All noted, thanks a lot
+Craft master rank gear from any monster
+Like everyone has said, make sure you're wearing all MR gear. (Great jagras armor is a nice comfy early MR set) use armor spheres a bit, also make sure you have your armor charm and armor talon in your inventory those are not optional. It would be wise to go back and unlock all canteen ingredients and upgrade your mat farm or botanist or whatever its called so you can easily keep mega demondrug and mega armorskin up. Also if you havnt been already you need to start respecting the monster's turns, if you're attacking while the monster is attacking you're gonna get thrashed so learn your weapons poke options for short openings.
+you misspelled "challenging"
+    srry ;-;
+Have you learned how to use all moves of longsword properly? Are you properly using foresight slash instead of rolling?
+Oh just wait until you get to the last 2 monsters. That’s when you experience some deep deep pain
+https://youtu.be/J1-kEZirp90?si=xU63BiBBB5r2Ggw0
+
+
+@op hope this video helps.
+Should get you till the black dragons
+    it did ! Thanks a lot
+stupid idea but you shouldn’t be able to sos a fight unless you’ve attempted the monster once or twice. i made through most of ib by getting carried on sos and i never realized how fun most of these fights were because i just got carried through them. used to hate fighting barioth and now it’s one of my favorite fights.
+    This is a big one. Definitely good advice here.
+Yeap just git good,  also  im asking  did you use the defender armor??
+There is definitely a pretty significant jump in difficulty when going to Iceborne. It's called Master Rank anyways. And if you used defender equipment for the base game, it makes the base game even easier.
+
+The base game is also very forgiving if you use defender armour and healer palico... Iceborne just isn't as forgiving in general and using the overpowered defender equipment can teach some bad habits. 
+
+Also for some hunts it can be worth it to use specialized armour/jewels to match the monster. If you're struggling with Fulgur Anjanath, it might be because of getting stunned often? Try getting stun resistance for that fight and see if that helps. And so on. 
+
+I remember initially struggling with the difficulty jump aswell. Some tips: if you barely used the clutch claw, it's time to learn how and when to use it for tenderizing and wall bangs. It makes a big difference in Iceborne for damage. I learned very late how to use it because I played the base game on release, then waited a long time to get Iceborne and initially just ignored it.
+Came here to look for this n I'm glad I'm not the only one. World was childish play, fainted maybe few times whole thing. Was so excited to start this. I had no problem killing that lion looking thing outside the ring but in the ring I'm a rag doll. Maybe I almost got him u ran out of time. I got him with the dragon weapon good, I got him 3 times under the rocks. I've Used the claw but monster needs to hit the wall with slingshot that's dope I like it. I killed 3 level 8 monsters no prob in their habitat n 1 9 that Witcher one. The thing that brothers me, is the Gap Why it got so hard so quick? I really don't want to loose the happiness this game has given me but it's close. And that big muscle black monster I guess they have weak points to look online etc? First round I can survive little bit but after u can't have chef's plate he can 1 shot me WTF 🤣 I don't stand a chance! I thought I Was good at this , so disappointed to myself. This all b well but the waste if resources is ridiculous. If I have to go back n grind just ti get healing items then FT. World already it "little" repetitive bc I did everything the game told me to. I guess back to grinding n keep eye on those weapon upgrades huh?  My weapons are level 7 I have ok change to get 2 of them level 8 with hella grinding. How many Rathians must one off to get a descent weapon Jesus Christ. I think I've killed 9 pink ones . I loved the game so much, all These years I've missed it n world just took my life. I guess it's one of those "play something meanwhile" games because I need to feel the urge to miss this game again n I'm loosing that feeling bc of that huge cap on skills n weapon upgrades. I thought I was ready for the dlc for the exact reason that I grinded the shit out of that game ! So many damn items too ok if u quick I guess u can use em all without getting 1 shotted but Jesus Christ. Today had one of the best gaming experiences thanks to Steam Deck. I was on a plane, full of ppl n it helps my anxiety. I had that Fkn Witcher mission to go but I after an hour I got the fuk . I think Next seat ppl watched me fidgeting around n I felt like truly relieved when he finally went down second try. But that's secret was keep moving, kill the small fuks somewhere else n dodge side, burn the bitch n cluch to his face n let em have it. Only games that gives me those are from soft.. That being said I was hoping this game (as childish as it is ) would be my main game for weeks to go , or Months. But FT . Maybe google can help ir u guy's. There has to be soft spot or something. That lion Satan was relatively easy outside. Just go under his belly or behind n let em have it . I also think that new latching on thing has made it harder to jump on the beast. I Used to be able to jump in every monster back on World, now 1 time . Gets little annoying too just to use that thing. Look for opening n just repeat 🙄 Also in 15min I suppose to kill that thing? There's no really running in 15min. Maybe I need better understanding of the food because my hp is the size of my tiny Weiner after the first faint when chef's plate is gone . So much waste! Fkn 30 mega potions on 1 enemy n no time/ die . I need to play something else n when I miss this, I'll be back. NGL I never thought I'd sink 75h on 10$ game so I'm not really mad about that but Fkn ice born man 🤢 Too ruthless. Gods speed
+My man, treat it like new game plus. Get a weak MR monster and make the armour for it.
+In the nicest way possible, you just need to get better. That or your armour is lacking massively and everything is one shorting you.
+It's simple, really. The goal is to get the monster's HP low enough to either kill or capture it, while you keep your HP above zero. For the most part, it's preferable to keep it at 100%. /s
+
+Honestly at this point, the game really should lock the defender stuff behind a progression wall. Like you should only get access to it after your first playthrough reaches IB.
+i'm sorry but where the fuck do you see blue on fulgut anjanath
+    How the fuck do you *not* see blue on Fulgur? His "fins" literally glow blue with electricity every so often. That's ignoring the fact fulgur is literally a gray/light blue coloured Anja by skin/fur as well
+        it's almost completely white idk what ur talking about
+    Found the color blind kiddo
+        okay lol
+Try to craft new armour mainly as it will help increase your survival. If you are on PC, I would love to help you if you need extra hunters!
+Finally took the training wheels off
+The first thing I did was farming a full MR Rathalos/Azure Rathalos set, for the decos and the Rathalos set skill (Minds Eye), with a fully upgraded Health Charm and some Evasion add it made my progress through Iceborne a whole lotta easier.
+
+Until I got the full Tigrex beta armor. I always forget that one xD
+Get bones, make MR bone armor jagras, and beo also early sets that work. Then, work towards harder monsters. I fought odogaron early for his set, but you might want to bring a team if you're struggling.
+Learn how to craft max potions/ mega potions/ traps during the hunt. The redial menu is your best friend, learn it. It is saved with your supply load out. If you run out of supplies far caster out of there and restock
+I remember the MR Great Jagras CB being pretty decent for a starting IB weapon. Echoing what others have said, make sure all of your armor & weapons are MR and not HR.
+
+If you aren't using the item wheel now is a good time to learn. The item wheel was a game changer for me. You can fully customize it and set up loadouts for it.
+It was the same way with Beotodus for me, sometimes help is really what you need
+Some tips others may not have mentioned, watch for a big attack and clutch claw immediately after. Do the tenderizer. If you’re using a big weapon it’ll take one time, smaller like sword and shield or dual blades takes two tenderizes to soften them.
+If you have any Mega Armorskins sitting around in your item chest go ahead and use them at the beginning of the quest. Each one lasts until you faint.
+The MR kut-ku set is a great starting point for MR armor- and the mr kut-ku weapons are pretty good, too. That should be your focus initially.
+
+Other than that, the first few monsters are the same as their lr/hr variants they just have more hp and damage, so fighting them shouldn't be much more difficult than it has been until this point.
+Hang in there fiver. Learn the game. You got this. ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ
+Im in same boat
+Biggest place to start is gear. Depending on how far you made it into Iceborne, you’ll want to farm one of the starting monsters, like a master tank great Jagras or Kulu ya ku, then craft that armor. That will already help you out tremendously and the weapons too.  Best endgame armor is Fatalis of course, buuut you can make it pretty far through the game just picking a mid range monster like Fulgur Anjanath and fully upgrading the armor. Other than that, elemental damage weaknesses and strength especially matter in Master rank since the monsters do so much damage, so you’ll want to plan out your hunts a little bit more than you had to prior to ice borne.
+It helps to fail a mission by spending  time watching  the monsters from a distance and seeing  the behaviors they do when enraged. You have to learn not to be greedy with attacks and see it more as a deadly dance.
+If this is your first monster hunter, and your only blitzing to endgame, stick with 1 or 2 weapons. The game is only going to get harder, and learning and properly handling a new weapon + gearing one from scratch is going to do more harm than good.
+
+Unless you’re grinding a lot (especially at endgame), then i can understand switching things up
+You are not alone, Iceborn can be very difficult if you go there right after finishing MHW.
+
+Originally you'd have had time to grind and kit your hunter out with different set's of gear. But  going straight to Iceborn means you are severely under geared and unless you are already an expert you are going to have a hard time.
+
+Best I can recommend is ask a friend for help or grind for armour pieces so you can use different set's for different bosses.
+If your playing a shield weapon get the banbaro set. It’s a good starter set for mr that goes well with charge blade.
+Do an MR expedition. Gather ores, bones, small monster parts. Come back and craft what you can. The garbage-tier MR armor completely outclasses the top tier HR armor.
+As other have said armour is really the key ingredient here. Craft any master rank armour you can until you find a set that works good with your weapon, grind that, upgrade it and youre pretty much set for early/mid game. 
+If you’d like someone with wide range to assist you on hunts, I’d love to help. :]
+If you’re on ps I’ll help you
+Even MR gear crafted from small monsters is better than your HR gear.  People overstate how detrimental Defender gear is to the new player experience except in one way: learning progression. You'll need to upgrade your gear fairly often which will involve a bit of farming sometimes.
+In case nobody's said it yet, upgrade your armor as needed. You'll find more armor *spheres? Are they called spheres?*
+If you're okay with longer time hunting (20 min+), try Tigrex set (Gobbler and Free Meal skills), supplied with Mega Potion, Honey and Potion. Weapon is SnS. Prepare hunt by eating a recommended one (+HP & +Stam).
+It works for the rest of the content, at least in my experience. Cheers!
+To add on to this,
+
+-if you need help getting the health boost skill, the elder melder does let you make vitality gems or you can grind materials for the health boost charm from the smithy if you aren’t running a better charm
+
+-never overlook monster resistances as well, sometimes a new weapon with an element the monster is weak to can help shorten the hunt due to extra damage
+
+-skills skills skills! Do not be afraid to take time to go farm for decorations from tempered monster quests or easy event quests, farming for gems that can give you good skills is going to help your buildcrafting for the entire game, it may be a grind but don’t be afraid to do it, pop on a podcast or something to help you pass the time or switch up back to trying your main quests again after a bit (in particular the tenderizer and critical eye gems are very good for their affinity bonuses)
+    i dont think ive ever explored the event tab or tryed farming for decos, actly im not really sure about many of the systems in the game. One of the coments here had a video where a guy showed a "Defender Katana V" maybe cuz i never used it but i had no idea there was more than one, so just imagine how much i have actly lost, thats why i say im a begginer, during my play time in the base game i quited the game many times. Guess it's time to do proper research now
+        Yeah the event tab is a great place to check for stuff, the frozen frostbite event quest is super easy you just deliver 10 frozen foliage and you can earn up to 4 rarity 9 or 10 decos, it’s a real nice quest for grinding but it is also kinda repetitive after a while and isn’t quite as good as hunting a threat level 3 tempered monster, but as for gear making and upgrading gear is really going to help you along the as previously mentioned: the defender gear is great for low and high rank but it caps out and at master you wanna get new MR gear ASAP
+        That first ice creature, I can’t remember the name now, the one who slithers through the snow, Alamo had me rage quitting. When you first get into ice borne it’s so hard. It gets better trust me. I’ve played so many hours but I’m stuck at Alatreon, can’t kill that mfer. Then when I go to see what armor, stats should I use I just find a bunch of posts and YouTube videos showing Alatreon & Fatalis gear and weapons. How the hell are we supposed to use that end game gear if we can’t actually get passed the monster!!! So frustrating.
+i like the sound of that LBG idea, maybe one day. Thanks for the tips
+This is a godly comment. Great advice. Especially looking up guides on how to play your weapon or just looking up guides in general. You can but button mash through LR and HR with defender weapons and armor. When you get to MR you have no clue how to play the game.
+Seconded. Even the great jagras armor outshines everything from high rank, and will help you through most things until you can get some armor you really want.
+
+If you're on PC i'd be happy to lend a hand :)
+    This, the jump from the base game to Iceborne is similar to jumping from Low Rank to High Rank. You need MR gear asap
+They really should have put a notice or something on that armor, seems like every new player uses it then hates iceborne bacause they weren't able to learn how to play.
+    I believe when you start a new game a warning does pop up, but people probably don't read it.
+        It doesn’t really. The only popup that does come up encourages you to use it to progress quickly, and if you say no to that one, you can still forge defender armor later with no indication that it’s to jump ahead.
+I feel like guardian armor is in a weird place it's good for veteran hunters that just want to Speedrun the base game but it's a complete trap for new players as the skills and defence it has don't teach you how to position or play effectively.
+    The entire guardian armour problem wouldn't exist if Capcom would just let us have cross save and crossplay already
+    Yeah that’s basically what I did since my save file is across the country on my ps4 so I made a new save on ps5 to kill time and got to black veil vaal hazak quite quickly. I don’t have any effuvia res gems so i am grinding the charm rn. Defender weapons were op, the armor was just cushy.
+    Strange. I just start Iceborne last night after beating World for the first time and my instinct was never touch that overpowered set since the begining of the game. That absurd defense point are red flags for me. I ended up craving for Odogaron alpha set after using leather armor, and yes, master rank are ridiculously hard, but when things get worse, I took a deep breath and start turning the table and winning. I'm glad that I've never used guardian set in exchange with the improvement of dodging skill and seeing monster's attack trajectory.
+
+Master Rank is the way I want my game. It's hard but not impoassible.
+        Honestly guardian gear should be locked behind finishing iceborne as that's who it seems to be designed for.
+nah, first time i used it was when starting iceborn. i was warned about it beforehand
+Strange because I don't even remember seeing defender gear in my playthrough. I didn't even know of its existence until my sister started playing the game. I just used leather gear until I farmed legiana
+I started with no armor and it was pretty easy
+I’ve been using it for awhile, but I have been forging High Rank armor lately, so hopefully, I can use that when I fight against Master Rank monsters when the time comes to get into the “Iceborne” content.
+    I have HR armor and lost 80% of HP from a single hit by any angry monster lol.
+
+Edit: MR monsters are the real challenge.
+What’s the deal with defender equipment? I just started worlds and I’m currently using defender weapons because they’re better than anything else atm
+
+Edit: thanks for the answers everyone. I haven’t played MH since MHFU and I’m just now getting back into it. I’ll switch off the defender gear, I don’t want to make it too easy for myself
+    They’re meant to be insanely stronger as a way to speed through the main game to iceborne. They’re also very easy to upgrade (weapon wise).
+
+If you use defender gear, there’s a good chance that you won’t improve too much at the game early on cause you can face tank everything.
+
+Imo, i don’t mind people using defender gear. It’s a game, people play how they want, but it makes DLC harder as you’re typically less skilled.
+        What I don't like with defender gear is that many people don't know the reason why it's in the game and what it's meant to be. I think defender gear (armor and weapons) shouldn't be in the game by default, it should only be on the DLC store page of the game, and actived for your game ONLY when you voluntarily go and get it in the store page because you already know what it is.  
+
+
+I know a group of friends who gave up on World because it was too easy for them even though it was their first MH game ever. They used the defender gear (I didn't know that back then). I don't know if the game warns you about this armor set but if it does with yet another "popup" most people don't read that because there's just too many popups with thousands of words in the game, people are here to play not read novels.
+            really they should've made defender gear usable only after you've finished the game (up to shara) on a save file at least once
+                But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+                    for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+                        Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+            It should be a price for finishing iceborne.
+            Yeah. Tbh I agree there.
+
+Defender gear isn’t really displayed as what it is.
+It should defo have something telling you how broken it is, and how trivial it makes the game
+    Defender gear is meant to help you speedrun base game to iceborne. The weapons are stronger than anything in base game and the armor outshines everything but the best HR armor in terms of defense and it comes with very cozy skills like divine blessing and other stuff to help you take less damage. They make you overpowered from the get and are very easy to upgrade and as such let you play without having to think or learn much about monsters. That changes when you get to iceborne and that equipment don't mean shit anymore and monsters start curbstomping you cause you didn't have to really try throughout base game.
+        Nice one, thanks! I haven’t played MH since MHFU, is there anything I should know? Seems like  there’s some new mechanics and I’m just trying to get used to it
+            You need to learn when to use the clutchclaw correctly, absolutely make use of your radial menu instead of scrolling for items, and always use and upgrade the cultivation boxes. Also, very random but getting one of the fertilizer quests to unlock for soft soil has some unknown prerequisites but going back and killing a great jagras unlocked it for me and many other people. Just try to at minimum make sure every monster in a biome is researched to at least lvl 2 or 3.
+                I have no idea what a clutchclaw is lol. Thanks for the tips!
+                    The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+    It's gear meant to speed your self to iceborne. It's OP gear for base game. But for new players it's a killer cause it lets you ignore mechanics and you end up with little to no skill in iceborne
+    Defender armor and weapons are just leagues better than anything else except the very pinnacle of base endgame. So they give you a false sense of security, because you hit way harder and can tank way more than you should be able to.
+
+The problem is, once you hit iceborne, the defender stuff stops upgrading so the monsters rapidly outclass you unless you learn the actual mechanics which you can mostly ignore in lr/hr with defender gear.
+    That's the point.  The Defender gear was added with Iceborne, it didn't exist in the original base game.  It's intended to allow players to quickly progress through the base game to Iceborne, skipping the normal gameplay loop of improving your gear as you go by killing harder and harder monsters.
+
+It's fine if you're already good at MHW and just wanna quickly get to the new content. But if you're new to it, it's like playing with cheat codes, and when you get to the point where there isn't Defender gear anymore, you are hitting a huge difficulty spike.  If you'd played without it before, the difficulty would have ramped up more gradually.
+Defender Gear strikes again
+i finished the base game with just my intuition, i didnt search for tutorials, never used many of the consumables, not really sure about optimal combos or have a very good notion of safety really. I figured that i might have lot to learn, experiment with, discover and likely unlock
+He used defender gear.
+    didnt
+        🧢🧢🧢
+did not use it, nor had help. Unless i was repeating some quest. But i played everything at least once alone. I think im just slow to learn
+In my experience,the transistion is the hardest since you only have hr gear,then it mellows down a bit and get back to being harder
+    Yeah the transition is rough but and then cools down...and then barioth happens lmao
+        Barioth is where I started experimenting with other weapons and discovered my love for the GL. First time he felt like such a damn wall.
+i think i pretty much brute forced my way into the dlc, even without using the op gear. So im more than okay with things getting slow now and learning the monsters moveset it just felt insane trying to learn when Tigrex can kill in 3 hits and his hit boxes seems just unfair at times, Maybe i played to much elden ring
+    Late game monsters almost universally kill in 2 hits, many with full one shots.
+yeah the dlc is pretty cool
+How very unhelpful of you, good job
+i think i had the rathalos set when i first started the DLC with the rathalos long sword, after getting fucked by everything i changed to the defender set for the first time and it also didnt work, now im farming the monsters from the base game and their new version, getting used to them testing weapons, when i fell ready for the Anja i will make a new post. i dont plan on dropping this
+Thanks for the tips, while playing the base game i think those are points i lacked a lot. It was hard to time things with the Foresight Slash so i never cared to learn a monster timing for for it, with insect glave it was weird to not use the cool atack hahaha but yeah it would problably have ended some of my runs way sooner, but i totally get ur point for the charge blade, for sure im not a master with it, but the options i have with it fell great to work with
+i dont even recognize the name, i will work on that, thanks
+    Yeah, if you are having trouble with MR try completing all of the HR stuff without worrying about AT monsters or Behemoth or Leshen unless you're up to the challenge
+Other thing, the difficulty spike is temporary. You'll get trough it eventually. Try to refine your playstile.
+
+For example, as an ig main in my first save i overused aerial attacks even when there were openings for good damage on the ground.
+
+Keep hunting, you'll get trough it!
+    i will, thanks
+All noted, thanks a lot
+srry ;-;
+it did ! Thanks a lot
+This is a big one. Definitely good advice here.
+How the fuck do you *not* see blue on Fulgur? His "fins" literally glow blue with electricity every so often. That's ignoring the fact fulgur is literally a gray/light blue coloured Anja by skin/fur as well
+    it's almost completely white idk what ur talking about
+Found the color blind kiddo
+    okay lol
+i dont think ive ever explored the event tab or tryed farming for decos, actly im not really sure about many of the systems in the game. One of the coments here had a video where a guy showed a "Defender Katana V" maybe cuz i never used it but i had no idea there was more than one, so just imagine how much i have actly lost, thats why i say im a begginer, during my play time in the base game i quited the game many times. Guess it's time to do proper research now
+    Yeah the event tab is a great place to check for stuff, the frozen frostbite event quest is super easy you just deliver 10 frozen foliage and you can earn up to 4 rarity 9 or 10 decos, it’s a real nice quest for grinding but it is also kinda repetitive after a while and isn’t quite as good as hunting a threat level 3 tempered monster, but as for gear making and upgrading gear is really going to help you along the as previously mentioned: the defender gear is great for low and high rank but it caps out and at master you wanna get new MR gear ASAP
+    That first ice creature, I can’t remember the name now, the one who slithers through the snow, Alamo had me rage quitting. When you first get into ice borne it’s so hard. It gets better trust me. I’ve played so many hours but I’m stuck at Alatreon, can’t kill that mfer. Then when I go to see what armor, stats should I use I just find a bunch of posts and YouTube videos showing Alatreon & Fatalis gear and weapons. How the hell are we supposed to use that end game gear if we can’t actually get passed the monster!!! So frustrating.
+This, the jump from the base game to Iceborne is similar to jumping from Low Rank to High Rank. You need MR gear asap
+I believe when you start a new game a warning does pop up, but people probably don't read it.
+    It doesn’t really. The only popup that does come up encourages you to use it to progress quickly, and if you say no to that one, you can still forge defender armor later with no indication that it’s to jump ahead.
+The entire guardian armour problem wouldn't exist if Capcom would just let us have cross save and crossplay already
+Yeah that’s basically what I did since my save file is across the country on my ps4 so I made a new save on ps5 to kill time and got to black veil vaal hazak quite quickly. I don’t have any effuvia res gems so i am grinding the charm rn. Defender weapons were op, the armor was just cushy.
+Strange. I just start Iceborne last night after beating World for the first time and my instinct was never touch that overpowered set since the begining of the game. That absurd defense point are red flags for me. I ended up craving for Odogaron alpha set after using leather armor, and yes, master rank are ridiculously hard, but when things get worse, I took a deep breath and start turning the table and winning. I'm glad that I've never used guardian set in exchange with the improvement of dodging skill and seeing monster's attack trajectory.
+
+Master Rank is the way I want my game. It's hard but not impoassible.
+    Honestly guardian gear should be locked behind finishing iceborne as that's who it seems to be designed for.
+I have HR armor and lost 80% of HP from a single hit by any angry monster lol.
+
+Edit: MR monsters are the real challenge.
+They’re meant to be insanely stronger as a way to speed through the main game to iceborne. They’re also very easy to upgrade (weapon wise).
+
+If you use defender gear, there’s a good chance that you won’t improve too much at the game early on cause you can face tank everything.
+
+Imo, i don’t mind people using defender gear. It’s a game, people play how they want, but it makes DLC harder as you’re typically less skilled.
+    What I don't like with defender gear is that many people don't know the reason why it's in the game and what it's meant to be. I think defender gear (armor and weapons) shouldn't be in the game by default, it should only be on the DLC store page of the game, and actived for your game ONLY when you voluntarily go and get it in the store page because you already know what it is.  
+
+
+I know a group of friends who gave up on World because it was too easy for them even though it was their first MH game ever. They used the defender gear (I didn't know that back then). I don't know if the game warns you about this armor set but if it does with yet another "popup" most people don't read that because there's just too many popups with thousands of words in the game, people are here to play not read novels.
+        really they should've made defender gear usable only after you've finished the game (up to shara) on a save file at least once
+            But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+                for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+                    Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+        It should be a price for finishing iceborne.
+        Yeah. Tbh I agree there.
+
+Defender gear isn’t really displayed as what it is.
+It should defo have something telling you how broken it is, and how trivial it makes the game
+Defender gear is meant to help you speedrun base game to iceborne. The weapons are stronger than anything in base game and the armor outshines everything but the best HR armor in terms of defense and it comes with very cozy skills like divine blessing and other stuff to help you take less damage. They make you overpowered from the get and are very easy to upgrade and as such let you play without having to think or learn much about monsters. That changes when you get to iceborne and that equipment don't mean shit anymore and monsters start curbstomping you cause you didn't have to really try throughout base game.
+    Nice one, thanks! I haven’t played MH since MHFU, is there anything I should know? Seems like  there’s some new mechanics and I’m just trying to get used to it
+        You need to learn when to use the clutchclaw correctly, absolutely make use of your radial menu instead of scrolling for items, and always use and upgrade the cultivation boxes. Also, very random but getting one of the fertilizer quests to unlock for soft soil has some unknown prerequisites but going back and killing a great jagras unlocked it for me and many other people. Just try to at minimum make sure every monster in a biome is researched to at least lvl 2 or 3.
+            I have no idea what a clutchclaw is lol. Thanks for the tips!
+                The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+It's gear meant to speed your self to iceborne. It's OP gear for base game. But for new players it's a killer cause it lets you ignore mechanics and you end up with little to no skill in iceborne
+Defender armor and weapons are just leagues better than anything else except the very pinnacle of base endgame. So they give you a false sense of security, because you hit way harder and can tank way more than you should be able to.
+
+The problem is, once you hit iceborne, the defender stuff stops upgrading so the monsters rapidly outclass you unless you learn the actual mechanics which you can mostly ignore in lr/hr with defender gear.
+That's the point.  The Defender gear was added with Iceborne, it didn't exist in the original base game.  It's intended to allow players to quickly progress through the base game to Iceborne, skipping the normal gameplay loop of improving your gear as you go by killing harder and harder monsters.
+
+It's fine if you're already good at MHW and just wanna quickly get to the new content. But if you're new to it, it's like playing with cheat codes, and when you get to the point where there isn't Defender gear anymore, you are hitting a huge difficulty spike.  If you'd played without it before, the difficulty would have ramped up more gradually.
+didnt
+    🧢🧢🧢
+Yeah the transition is rough but and then cools down...and then barioth happens lmao
+    Barioth is where I started experimenting with other weapons and discovered my love for the GL. First time he felt like such a damn wall.
+Late game monsters almost universally kill in 2 hits, many with full one shots.
+Yeah, if you are having trouble with MR try completing all of the HR stuff without worrying about AT monsters or Behemoth or Leshen unless you're up to the challenge
+i will, thanks
+it's almost completely white idk what ur talking about
+okay lol
+Yeah the event tab is a great place to check for stuff, the frozen frostbite event quest is super easy you just deliver 10 frozen foliage and you can earn up to 4 rarity 9 or 10 decos, it’s a real nice quest for grinding but it is also kinda repetitive after a while and isn’t quite as good as hunting a threat level 3 tempered monster, but as for gear making and upgrading gear is really going to help you along the as previously mentioned: the defender gear is great for low and high rank but it caps out and at master you wanna get new MR gear ASAP
+That first ice creature, I can’t remember the name now, the one who slithers through the snow, Alamo had me rage quitting. When you first get into ice borne it’s so hard. It gets better trust me. I’ve played so many hours but I’m stuck at Alatreon, can’t kill that mfer. Then when I go to see what armor, stats should I use I just find a bunch of posts and YouTube videos showing Alatreon & Fatalis gear and weapons. How the hell are we supposed to use that end game gear if we can’t actually get passed the monster!!! So frustrating.
+It doesn’t really. The only popup that does come up encourages you to use it to progress quickly, and if you say no to that one, you can still forge defender armor later with no indication that it’s to jump ahead.
+Honestly guardian gear should be locked behind finishing iceborne as that's who it seems to be designed for.
+What I don't like with defender gear is that many people don't know the reason why it's in the game and what it's meant to be. I think defender gear (armor and weapons) shouldn't be in the game by default, it should only be on the DLC store page of the game, and actived for your game ONLY when you voluntarily go and get it in the store page because you already know what it is.  
+
+
+I know a group of friends who gave up on World because it was too easy for them even though it was their first MH game ever. They used the defender gear (I didn't know that back then). I don't know if the game warns you about this armor set but if it does with yet another "popup" most people don't read that because there's just too many popups with thousands of words in the game, people are here to play not read novels.
+    really they should've made defender gear usable only after you've finished the game (up to shara) on a save file at least once
+        But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+            for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+                Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+    It should be a price for finishing iceborne.
+    Yeah. Tbh I agree there.
+
+Defender gear isn’t really displayed as what it is.
+It should defo have something telling you how broken it is, and how trivial it makes the game
+Nice one, thanks! I haven’t played MH since MHFU, is there anything I should know? Seems like  there’s some new mechanics and I’m just trying to get used to it
+    You need to learn when to use the clutchclaw correctly, absolutely make use of your radial menu instead of scrolling for items, and always use and upgrade the cultivation boxes. Also, very random but getting one of the fertilizer quests to unlock for soft soil has some unknown prerequisites but going back and killing a great jagras unlocked it for me and many other people. Just try to at minimum make sure every monster in a biome is researched to at least lvl 2 or 3.
+        I have no idea what a clutchclaw is lol. Thanks for the tips!
+            The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+🧢🧢🧢
+Barioth is where I started experimenting with other weapons and discovered my love for the GL. First time he felt like such a damn wall.
+really they should've made defender gear usable only after you've finished the game (up to shara) on a save file at least once
+    But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+        for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+            Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+It should be a price for finishing iceborne.
+Yeah. Tbh I agree there.
+
+Defender gear isn’t really displayed as what it is.
+It should defo have something telling you how broken it is, and how trivial it makes the game
+You need to learn when to use the clutchclaw correctly, absolutely make use of your radial menu instead of scrolling for items, and always use and upgrade the cultivation boxes. Also, very random but getting one of the fertilizer quests to unlock for soft soil has some unknown prerequisites but going back and killing a great jagras unlocked it for me and many other people. Just try to at minimum make sure every monster in a biome is researched to at least lvl 2 or 3.
+    I have no idea what a clutchclaw is lol. Thanks for the tips!
+        The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+But that would defeat the original purpose of the gear, I think. The game didn't release on PC and consoles at the same time (and same for Iceborne, it released on PC like 6 month after the console version). They wanted PC World players to be able to buy Iceborne on PS4/Xbox and join their friends in the game without having to spend to much time on base World, and cross save wasn't a thing.
+
+&#x200B;
+
+Same for the other direction. Console players wanting to join their friends on PC, without having to spend too much time on base World. The reason defender gear exists is specifically because you don't have a Iceborne character and need one asap.
+    for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+        Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+I have no idea what a clutchclaw is lol. Thanks for the tips!
+    The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+for that you can just use mods or have your friends help you out to get to their level, i honestly feel like defender gear just shouldn't exist
+    Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
+The game will give you an arena quest tutorial on what it is and how to use it. Can also look it up on YouTube as well. Its a mechanic that allows you to wall bang a non enraged monster and weaken a certain part of an enemy so they take more damage. Some weapons weaken in 1 attack and others take 2.
+Oh yeah there are many ways outside of defender gear to reach Master rank very quickly, and that's nothing new in the series. I also think defender gear is totally overkill and badly implemented. But, I'm just saying, if I remember correctly, the main goal of the defender gear (as Capcom released it) was to help people that wanted to reach Iceborne asap on another platform (so the necessity to already have a MR character on that same platform would totally nullify the purpose of the defender gear in the first place).
