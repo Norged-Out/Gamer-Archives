@@ -94,8 +94,8 @@ public class PseudoWatson {
             return topResults.get(0).DocName.get("docName").equals(expectedAnswer);
         }
 
-        public boolean withinTop5(){
-            for(int i = 1; i < topResults.size(); i++){
+        public boolean withinTopK(int k){
+            for(int i = 1; i < topResults.size() && i < k; i++){
                 MatchedAnswer r = topResults.get(i);
                 if(r.DocName.get("docName").equals(expectedAnswer)){
                     //System.out.print("Answer at rank " + (i+1));
@@ -125,17 +125,15 @@ public class PseudoWatson {
         IndexReader reader = DirectoryReader.open(index);
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
-        TopDocs docs = searcher.search(q, 5);
+        TopDocs docs = searcher.search(q, 10);
         //System.out.println("Found " + docs.totalHits + " hits.");
-        int i = 0;
-        while(i < docs.scoreDocs.length && i < 5){
+        for(int i = 0; i < docs.scoreDocs.length && i < 10; i++){
             ScoreDoc scoreDoc = docs.scoreDocs[i];
             Document doc = searcher.doc(scoreDoc.doc);
             MatchedAnswer result = new MatchedAnswer();
             result.DocName = doc;
             result.docScore = scoreDoc.score;
             qr.topResults.add(result);
-            i++;
         }
         reader.close();
     }
@@ -156,7 +154,11 @@ public class PseudoWatson {
         String line; // The line being read from the file
         //List<QueryResult> queryResults = new ArrayList<QueryResult>(); // List of query results
         QueryResult qr = null;
-        int totalQueries = 0, correct = 0, close = 0, incorrect = 0;
+        int totalQueries = 0, 
+            correct = 0, 
+            top5 = 0, 
+            top10 = 0,
+            incorrect = 0;
         while((line = reader.readLine()) != null){
             // If the line is not empty, it is either a query or an answer
             if(!line.isEmpty()){
@@ -166,24 +168,30 @@ public class PseudoWatson {
                 }
                 else{
                     qr.expectedAnswer = line;
+                    totalQueries++;
                 }
             }
             // If the line is empty, then perform the query
             else {
                 runQuery(qr);
-                totalQueries++;
                 if(!qr.topResults.isEmpty()){
                     //qr.topAnswer();
                     if(qr.exactMatch()){
                         //System.out.println("Correct!");
                         correct++;
                     }
-                    else if(qr.withinTop5()){
+                    else if(qr.withinTopK(5)){
                         //System.out.println("In top 5 Results");
-                        close++;
+                        top5++;
+                    }
+                    else if(qr.withinTopK(10)){
+                        //System.out.println("In top 10 Results");
+                        top10++;
                     }
                     else{
                         //System.out.println("Incorrect!");
+                        System.out.println("Query: " + qr.query);
+                        System.out.println("Expected answer: " + qr.expectedAnswer);
                         incorrect++;
                     }
                 }
@@ -208,7 +216,8 @@ public class PseudoWatson {
         System.out.println("\n----------------------------------\nStats");
         System.out.println("Total Queries: " + totalQueries);
         System.out.println("Correct Answers: " + correct);
-        System.out.println("Close Answers: " + close);
+        System.out.println("Within Top 5: " + top5);
+        System.out.println("Within Top 10: " + top10);
         System.out.println("Incorrect Answers: " + incorrect);
     }
 
@@ -255,6 +264,7 @@ public class PseudoWatson {
     public static void main(String[] args) {
         String indexFilePath = "watsonindex";
         PseudoWatson watson = new PseudoWatson(indexFilePath);
+        /*
         try {
             IndexReader reader = DirectoryReader.open(watson.index);
             for (int i = 0; i < reader.maxDoc(); i++) {
@@ -267,6 +277,7 @@ public class PseudoWatson {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to Pseudo Watson!\nWould you to like to play? (y/n)");
         String play = scanner.nextLine();
