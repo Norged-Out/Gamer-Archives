@@ -66,9 +66,36 @@ public class PseudoWatson {
         //config = new IndexWriterConfig(analyzer);
     }
 
-    private class ResultClass {
+    private class MatchedAnswer {
         Document DocName;
         double docScore = 0;
+    }
+
+    private class QueryResult {
+        String query;
+        String expectedAnswer;
+        MatchedAnswer topAnswer;
+        List<MatchedAnswer> alt3results;
+
+        public QueryResult(){
+            query = null;
+            expectedAnswer = null;
+            topAnswer = null;
+            alt3results = new ArrayList<MatchedAnswer>();
+        }
+
+        public boolean match(){
+            return topAnswer.DocName.get("docName").equals(expectedAnswer);
+        }
+
+        public boolean withinTop3(){
+            for(MatchedAnswer r : alt3results){
+                if(r.DocName.get("docName").equals(expectedAnswer)){
+                    return true;
+                }
+            }
+            return false;
+        }
     }
 
 
@@ -77,29 +104,46 @@ public class PseudoWatson {
      * using lucene's query parser and build the list of resulting
      * documents hit by the query and their scores.
      * @param query: The query to be run on the index
-     * @return List<ResultClass>: The list of results
+     * @return List<MatchedAnswer>: The list of results
      * @throws ParseException 
      * @throws IOException 
      */
-    private List<ResultClass> runQuery(String query) throws ParseException, IOException{
-        List<ResultClass>  results = new ArrayList<ResultClass>();
+    private QueryResult runQuery(QueryResult qr) throws ParseException, IOException{
+        //List<MatchedAnswer>  results = new ArrayList<MatchedAnswer>();
         parser = new QueryParser("docContent", analyzerV3);
-        Query q = parser.parse(query);
+        Query q = parser.parse(qr.query);
         //System.out.println("Query: " + q.toString());
         IndexReader reader = DirectoryReader.open(index);
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
-        TopDocs docs = searcher.search(q, 10);
+        TopDocs docs = searcher.search(q, 5);
+        System.out.println("Found " + docs.totalHits + " hits.");
+        int i = 0;
+        while(i < docs.scoreDocs.length && i < 4){
+            ScoreDoc scoreDoc = docs.scoreDocs[i];
+            Document doc = searcher.doc(scoreDoc.doc);
+            MatchedAnswer result = new MatchedAnswer();
+            result.DocName = doc;
+            result.docScore = scoreDoc.score;
+            if(i == 0){
+                qr.topAnswer = result;
+            }
+            else{
+                qr.alt3results.add(result);
+            }
+            //results.add(result);
+            i++;
+        }
+        /*
         for (ScoreDoc scoreDoc : docs.scoreDocs) {
             Document doc = searcher.doc(scoreDoc.doc);
-            ResultClass result = new ResultClass();
+            MatchedAnswer result = new MatchedAnswer();
             result.DocName = doc;
             result.docScore = scoreDoc.score;
             results.add(result);
-        }
+        }*/
         reader.close();
-        System.out.println("Found " + results.size() + " hits");
-        return results;
+        return qr;
     }
     /**
      * Reads a text file and extracts answers and questions.
@@ -113,60 +157,59 @@ public class PseudoWatson {
     private void processQuestions(String filePath, Scanner scanner) throws InterruptedException, IOException, ParseException{
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource(filePath).getFile());
-        List<ResultClass> results = null;
-        ResultClass topAnswer = null;
+        List<MatchedAnswer> results = null;
+        MatchedAnswer topAnswer = null;
         Thread.sleep(1000);
         BufferedReader reader = new BufferedReader(new FileReader(file));
         String line; // The line being read from the file
-        String query = null, answer = null; // The query and the expected answer
+        List<QueryResult> queryResults = new ArrayList<QueryResult>(); // List of query results
+        QueryResult qr = null;
         while((line = reader.readLine()) != null){
             // If the line is not empty, it is either a query or an answer
             if(!line.isEmpty()){
-                if(query == null){
-                    query = line;
+                if(qr == null){
+                    qr = new QueryResult();
+                    qr.query = line;
                 }
                 else{
-                    answer = line;
+                    qr.expectedAnswer = line;
                 }
             }
             // If the line is empty, it is the end of the question
             else if(line.isEmpty()){
                 // Perform the query
-                results = runQuery(query);
-                System.out.println("Query: " + query);
+                qr = runQuery(qr);
+                System.out.println("Query: " + qr.query);
                 System.out.println("\nRunning Watson...\n");
                 Thread.sleep(1500);
                 // If there are results, get the top answer
-                if (results.size() > 0){
-                    topAnswer = results.get(0);
+                if (qr.topAnswer != null){
+                    //topAnswer = results.get(0);
+                    topAnswer = qr.topAnswer;
                     String docName = topAnswer.DocName.get("docName");
                     System.out.println("Retrieved answer: " + docName);
                     // Compare the top answer with the expected answer
-                    if(docName.equals(answer)){
+                    if(qr.match()){
                         System.out.println("Correct!");
                     }
                     // Ask the user if they want to see alternative answers
                     else{
                         System.out.println("Incorrect!");
-                        System.out.println("Expected answer: " + answer);
+                        System.out.println("Expected answer: " + qr.expectedAnswer);
                         System.out.println("\nWould you like to see alternative answers? (y/n)");
                         String alt = scanner.nextLine();
                         // List up to 3 alternative answers
                         if(alt.equals("y")){
                             System.out.println("Here are some alternative answers I found:");
-                            int i = 1;
-                            while(i < 4 && i < results.size()){
-                                System.out.print(results.get(i).DocName.get("docName"));
-                                System.err.println(", score: " + results.get(i).docScore);
-                                i++;
+                            for(MatchedAnswer r : qr.alt3results){
+                                System.out.print(r.DocName.get("docName"));
+                                System.err.println(", score: " + r.docScore);
                             }
                         }
                     }
-                    
                 }
-                // Reset the query and answer for the next query
-                query = null;
-                answer = null;
+                queryResults.add(qr);
+                qr = null;
                 System.out.println("\nContinue? (y/n)");
                 String cont = scanner.nextLine();
                 if (cont.equals("n")){
@@ -174,6 +217,18 @@ public class PseudoWatson {
                 }
                 Thread.sleep(1000);
             }
+        }
+        for(QueryResult q : queryResults){
+            System.out.println("Query: " + q.query);
+            System.out.println("Expected answer: " + q.expectedAnswer);
+            System.out.println("Retrieved answer: " + q.topAnswer.DocName.get("docName"));
+            if(q.match() || q.withinTop3()){
+                System.out.println("Correct!");
+            }
+            else{
+                System.out.println("Incorrect!");
+            }
+            System.out.println("\n--------------------------------------------\n");
         }
         reader.close();
 

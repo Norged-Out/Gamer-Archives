@@ -1,0 +1,568 @@
+[[I live under a rock - or, finally played through Portal [mini-review]]]
+
+
+the game is quite nice, especially as someone who is not too used to puzzles (and not too good at them, either). It doesn't have any "split-second reflexes" spot (that I hate with my whole being), but there are some parts where you do need to react fast-ish. 
+
+It took me \~4 hours to beat (had to look a guide two or three times, haha). 
+
+the final room was a bit frustrating, having a timer, but once you know what to do, you have more than enough time. 
+
+It also has challenge rooms and extra achievements, but I think I've had my fair share of portals for now, so  I'm moving on. tho, I've installed Portal 2 in case I get the itch this Christmas break. 
+
+it ran perfectly well (steady 60fps) on my potato linux laptop (a 3rd gen i3 that gets thermal-throttled to 800MHz as soon as you do anything mildly intensive). 
+
+I grabbed it sometime ago on a sale, and I don't remember anymore what I paid. But I'd say, it's definitely worth it on sale, especially if you're a hardcore RPG/FPS gamer, and want something different just to mix things up. (I admit I'm into RPGs and some roguelike/strategy indies, and that's pretty much my everyday gaming). 
+
+
+I'm glad that you started with the first game.  I actually liked Portal better than Portal 2.  Some people recommend skipping it and going straight to 2 but the beginning is the correct place to start.   
+
+
+    I think Portal 1 has better gameplay and Portal 2 is better for story and atmosphere. 
+        [deleted]
+            I thought the gameplay of Portal 2 was really dumbed down. Like, for many puzzles there were only a few tiny white areas on walls so you could pretty much figure out what to do by elimination.
+                Yeah, as I said, the singleplayer is way too easy, but when the game does get hard (which is mostly on the co-op mode and in community-made chambers) I felt like the gameplay was much better than Portal 1's and the new elements really added to the variety of puzzles.
+                    Community chambers?!?! Damn I gotta reinstall
+                    I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+                It’s mostly because “think with portals” is no longer a novel thought, and most players familiar with the franchise are adept at finding ways to break puzzles. This was one of the first lessons brought by the puzzle editor built into Portal 2. If your puzzle has anything other than the bare minimum of white surfaces required to make the puzzle solvable, someone _will_ solve it in 5 seconds in a way that completely ignores nearly all of your elaborate design. It will not be satisfying to you, the puzzle designer, because your careful work feels completely wasted, and it will not be satisfying for the player, because they get the impression that the puzzle had a bazillion of red herrings — elements that were completely irrelevant to the solution they came up with.
+                It's more about timing or doing things in the right order. That may feel easy but it's better for the experience than relying on aim.
+            Agreed, the puzzles in Portal 2 are much better but the story dragged on just a bit too long.
+                It's a shockingly long game. "Oh, it's about to end now... oh, it's a completely different set of puzzles with different paints."
+            There's that separate mod, I think it was called Portal Mel stories or something that were harder Portal 2 puzzles. Free, so easy to check it out. 
+
+Edit: welp. Mentioned below. Portal Stories: Mel apparently. 
+                Already played Portal Stories! When it came out actually. Really great mod, though it's definitely a jump up in difficulty if you're just coming out of Portal 2's singleplayer, as in, it's actually really fucking hard. Though I heard they added an [easy mode](https://i.imgur.com/QDeWqRR.png) later, so...
+        Can't argue with that.  They're both good games.
+            No doubt. Personally I would say the original was my favorite as well because it was so unexpected and so fresh. The second one is fantastic as well though. So much so that when it released I played it through and then played again with Dev commentary the same day. 
+        Yeah but you lose so much of the story by not playing the first one
+    The way that I like to think about them is that Portal is a little short, but everything in it is absolutely perfect, whereas Portal 2 has more good stuff overall, but there are some bits that aren't great.
+
+If you're not restricted to just playing one of them then start with Portal because it's perfect, but if you can only get one then maybe get Portal 2 instead because there's more content overall, even if you aren't counting the less stellar parts.
+        You stole the words out of my mouth! Portal 1 is a basically flawless game. Portal 2 is great, but expanding their universe gave them both higher highs and lower lows.
+            Agreed, but neither had a satisfying ending. 
+                Downvoted, saw the username, upvoted. 
+    They're both great, but I slightly prefer the first game as well. (spoiler tagging on the off chance that anyone who's reading this hasn't played it yet...) What I love most about it is [](#s "the way it slowly unfolds from what at first seems like a fairly straightforward puzzle game into something where, by the end, you're destroying your only friend and slowly dismantling the very AI that had been guiding you from the beginning, all while constantly challenging you to discover new ways of using its ingenious central game mechanic.")
+
+It might lose some of that magic if you go in already kind of knowing where it's headed, but playing it blind was one of the top gaming experiences I've ever had. 
+        Yeah, I wish Portal wasn't so ingrained in internet culture, because it's all but impossible to go into it nowadays without knowing this. But when I played it for the first time on release, knowing nothing about it, it blew my mind.
+            I played Portal knowing only >!"the cake is a lie" was a meme.!<
+
+Also >!when I was on that platform headed to the incinerator, I really thought it was the end of the game and only saw some white tiles at the last moment for a hail Mary. I was blown away that there was so much more.!<
+                That part really is done amazingly well. 
+            I imagine all the memes and whatnot probably killed a lot of that sense of discovery for anyone who follows games but didn't play Portal before it blew up. I don't think I've ever been as delighted at the end of a game as I was when I first heard "Still Alive", and part of that was that I had no idea it was coming.
+
+Even the way it was originally released was so perfect. As part of the Orange Box, everyone just kind of assumed it was going to be this little bonus game that they threw in there along with the Half-Life stuff and TF2, but then it turned out to be the one that everyone was talking about.
+
+If there's one game I could erase all knowledge of and play again for the first time, it would be Portal, hands down. 
+            Fun fact, i still don't know the plot to portal 1! I already know portal 2 and killing glados and whatnot but 
+        "friend"
+    I like Portal 1 better because it's basically perfect from start to finish, and since it's so short I can replay it with ease. That's definitely not to undersell Portal 2 though, because it is also a really fantastic game, and if you told me I could only play one of them ever again I'd probably pick Portal 2 since it has more content.
+    Portal 2 is really focused on being a comedy. It has some great jokes, but they really dumbed down the gameplay to make it more accessible, so that everyone can experience the story. Most "puzzles" can be solved by just shooting portals at all the available surfaces.
+
+The (new) mechanics are really solid and well executed though and from what I've seen there's some great mappacks/mods around that really build on them (as the base game barely scratches the surface).
+    Oh fuck no. The first portal is like the one of the only things I've ever given a 10 out of 10 for. Portal 2 was good but Portal 1 was fucking perfect
+    You might as well play portal 1 because it's great and you can beat it in an afternoon.
+    >Some people recommend skipping it and going straight to 2 but the beginning is the correct place to start.   
+
+I've never heard that said before but anyone who says it is really fucking dumb. I preferred the vibe of the first game and I can't come up with any reason for skipping the first game no matter what perspective you come at it from.
+    Yee it's also my favorite. 
+
+It's smaller in scope and much less bombastic in the overall production, but it actually works in its favor and creates an amazingly eerie and opressive atmosphere throughout the game that feels very unique. 
+
+
+
+
+    The only problem I had with Portal 2 was the absurdly long loading times and they were so often! Portal 1 had very short loading times
+    Especially because P2 has so many callbacks and references to the first game, it seems kind of a shame to skip to it. I also like the puzzle aspect of P1 better anyway.
+    I couldn't get into the dialogue in the second one, which is what I think killed it for me. In all fairness, I think the puzzles in the second one were really good. I just think GLaDOS in the first one was way funnier.
+    I enjoyed Portal 1 more however Portal 2 co-op was so much fun.
+    Which is the one with Cave Johnson?
+        That would be Portal 2.
+            What a character. Out of both games, the thing that sticks out in memory for me is "...make life take the lemons back!" etc :D
+Portal is great. Portal 2 is generally a better game but I missed the ability to throw security cameras off the walls. there sadly is no portal 3 but there's a fan-made Portal Stories: Mel, which is free and also a good game that fills in the gap between the 2 portals with a side story quite nicely.
+    [deleted]
+        This is the only reason I haven't started it yet. Portal 1 & 2 were the absolutely *perfect* skill level for me, since I found them challenging but never to the point of frustration or needing to look up solutions (though I was tempted once or twice!). 
+
+If it was more challenging it would just tip the scales into frustration for me.
+            I only had trouble with one lightbridge level near the end. No shame in youtubing solutions. Well worth playing through, took me 12 hours.
+        Just finished Mel.  Definitely harder puzzles.
+
+    Wait, I actually never noticed this. Is there really no security cameras on white walls in Portal 2?
+        I think some are still on white walls but not the majority. In portal pretty much all of them were. I always knocked them down and it was a bit sad to leave so many working in portal 2.
+
+Sidenote: in Mel there's a level that you aren't supposed to solve and you basically need to escape the test chamber but you can still solve it by knocking down a security cam and using it to block a ray. The door remains broken but at least you can solve it :D
+    Aperture Tag is pretty fun, too!
+Cave Johnson is the icing on the cake that makes powering through Portal 2 worth it.
+
+&#x200B;
+
+ed. grammar
+    And Wheatley. I used to have a ringtone of him asking to be picked up for a good minute or two.
+        Heh still do.
+    Ya know, I've been thinking.
+
+When life gives you lemons, don't make lemonade.
+
+Make life take the lemons back!  Demand to see Life's manager!  Get Mad!  I don't want your damn lemons!  What am I supposed to do with these!  Make life rue the day it thought it could give Cave Johnson lemons -- Do you know who I am?
+
+I'm the guy who's going to burn your house down.
+
+With a lemon.
+
+I'm gonna get my engineers to invent a combustible lemon that burns your house down!
+[deleted]
+    If only Valve still made single player games. 
+    What feel?
+        Lemme know if you find out, I want to know too
+    I got some very juicy feels from Life is Strange and Undertale recently
+        You reminded me about Everlasting Summer, but tbh, I enjoyed it mostly because I'm Russian with the exactly appropriate age to enjoy this game :)
+    I couldn’t agree more. 
+Hey, no shame. I just played Portal for the first time about 2 months ago. Great game, and looking forward to playing Portal 2.
+If you have decent hardware (ex. I'm still on a GTX 970) I highly recommend replaying (or playing) Portal 1 and 2 with the resolution cranked to 4k and AA maxed out.  Both games (Portal 2 in particular) hold up incredibly well and still look amazing today.  Really some next-level art direction.
+    I'm patient in hardware too - my (gaming desktop) monitor is not even fullHD. GPU is a nice 1060 that does well for my "not ten years patient" gaming, lol. 
+        1060 should be plenty and you could still downscale to whatever your native resolution is and reap the benefits of ZERO jaggies.  Almost looks pre-rendered at times. 
+            yeah, well, thing is, I love gaming while laying in bed. that's why I played portal1 on my potato-laptop. no other reason at all. 
+
+someday, I'll have money and buy a gaming laptop, lol. ... maybe the day I stop adding games to my backlog... damned steam sales and humble bundle and fanatical and the others.... 
+
+PS: all that said, while I do appreciate nice graphics, and a steady framerate, I can do as well with old graphics and 20ish FPS as long as there's no drops, hahaha. (yeah, I know what's to play a game at 1fps.... and no, I don't want to do that anymore.)
+                [deleted]
+                    I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+                        [deleted]
+                            Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+That's awesome. POrtal is a classic series, one of my personal favorites. Portal 2 is \*way\* better than portal. It is a sequel, there is a lot more story, more unique environments, the game is much longer, and the puzzles are a little harder. I'd recommend playing the second game since you've beaten the first one. 
+    > Portal 2 is *way* better than portal
+
+I really don't agree. They're both amazing games, but I highly prefer Portal 1 over 2. It's smaller but muuuuch more atmospheric. 
+I got burned out 3/4s of the way through Portal but I tore through Portal 2 over a day or two, couldn't stop playing. Check it out when you get a chance.
+Portal 2 gets rid of most of that fast-reaction type puzzle solving in favor of more momentum (and new mechanic) puzzles.  
+
+Usually when I'm getting that itch these days, I get the powder and fire up Portal 2. 
+This was a triumph.
+
+I'm making a note here -- HUGE SUCCESS!
+
+It's hard to overstate my satisfaction.
+[deleted]
+    LOL
+
+I'm not much of a puzzle fan (I like them 'till they become too hard and I just quit in frustration), and right now I'm too saturated of portals, seriously. 
+
+to each their own. XD
+        I gotcha. But, also know that 2 is much more of a story-driven production. The puzzles are still great, if not a tiny bit easier, but...the story and production/performances are fantastic! It’s hilarious, heartwarming, suspenseful. It even has a great cast. Stephen Merchant’s in there. JK Simmons is in there. It’s really a masterwork or a game story-wise just like Portal 1 is puzzle-wise.
+            Yup, the characters especially are fantastic. Op you should definitely check it out even if just for the story and characters. EDIT: Typo
+    yes.
+        [deleted]
+            i wondered if that was the case, apparently people already saw it as otherwise. obvs i'm not op either.
+    Yes, he played Portal, but he might play Portal 2 in the near future
+[removed]
+    Sidebar. Rule 7.
+        Against the rules true but this has to be the most appropriate posting of that XKCD comic ever. 
+            It's a posting rule. I don't think it's disallowed in comments.
+I absolutely loved Portal 2, so much so than when I played Portal 1 after it (I played the second one first), I actually didn’t like the game very much, because it pales in comparison to me 
+What did you think to the ending? Did you already know what was coming? It's such a part of popular culture now I imagine you'd heard something.
+
+Also, when you play Portal 2, no sneaky looking at walkthroughs! You get such an immense sense of achievement when you solve a puzzle you've been stuck on.
+    not really, I had heard the whole \[SPOILER\]>!cake is a lie !< joke, but I didn't know where it came from. so at first I was like, "oh-kay", but then when it found it scribbled in walls the first time, I was like, LOL!
+
+&#x200B;
+
+as for walkthroughs, it's either that or giving up in frustration. I usually pick at my brain a lot before looking, tho.
+I have Portal, but last time I tried some years ago, it made me queasy. It has to be something about the textures or frame rate, I dunno. Same with Portal 2. No other games make me that ill.
+I haven't played Portal yet either
+I have skipped reading all one minute of your review to immediately come and say that I'm so happy for you that you have just played portal! Okay, I'll read the review now.
+personally i think the games are best played closely together otherwise you lose the "thinking with portals" mentality and the difficulty can jump significantly.
+
+portal 2 also has a whole coop game with different puzzles and story. it supports couch co-op if you can convince a friend.
+4hrs is pretty good I think it took me much longer, but I'm the sort of person that goes of on a tangent 
+Make sure you read [this comic](http://www.thinkwithportals.com/comic/) before starting Portal 2. It helps bridge the gap between the two games.
+Great game, I still have fun with it.  My 6-year old makes me help him finish it once a week or so.
+I LOVE Level 18. I love it so much I have a game saved on my laptop where I can go back and do it again whenever I feel like it.
+[removed]
+    https://store.steampowered.com/app/400/Portal/
+
+nope. 
+        [removed]
+            holy shit, I didn't even had a steam account back then. 
+
+also, that's a giveaway, not a "free since". 
+    Nah, Valve made it free once or twice at some point for a limited time.  But, went straight back to paid.
+
+It was a strategic move to increase Steam user base.   This is back in 2010 or so.
+What the fuck? Your laptop gets Throttle Down to 800 megahertz under load? That's some bullshit
+    that's a "cheap" ultrabook (that was never meant for gaming in the first place) and some shitty thermal design. 
+
+indeed, I've seen it as low as 200 Mhz on games that can be played at... unplayable fps (say, FTL, even if there's a bad drop, you can just pause and wait it out)
+
+at least the CPU hasn't melted, lol. 
+still have never played either... i think i own them too... but have never tried em out... 
+P2 is more taxing on old potatoes, maybe you don't get steady 60fps but lowering eye candy can lead you to playable rates.
+
+
+You could try some achievements and challenges in portal, this is a game from other era, when devs weren't used to go full retard, all challenges are quite reachable and even fun to get. Replaying it with dev comments enabled is interesting too, they tell what they were thinking in some areas, and you may or may not agree with the results, but the reasoning behind things is solid most of the times.
+
+This is a classic, congrats by playing it!
+That potato line is going to be funny to you once you play the sequel.
+    argh. I was already itchy yesterday night (as in, should I at least test if it runs?), but now you gave me more reasons to want to play it! damn!!
+
+I bet it won't even run in there, tho. :/
+That's awesome!! Portal is one of the most unique and well-designed games out there! Even if you aren't someone who's into puzzles, I HIGHLY recommend giving Portal 2 a go when you get the chance!! It takes everything that was good about the first one and expands on it. If you're someone who likes the gamplay from the original, plus games that are more lore/story/character heavy, then you'll love the sequel! 
+
+I liked Portal, but Portal 2 is literally my favorite game period. 
+    Damn. I love me some story-driven games...
+
+STAHP trying to get me to play the sequel, y'all. :P 
+I just played through Portal 1 this week also, after it was sitting in my library for so long. I really enjoyed it, and found the puzzles challenging but fair. Looking forward to jumping into portal 2.
+LEMONS? 
+Where did you play it? I still haven't played it either, and I'd love it on Xbox one, but it doesn't show in the store. I wish they'd port it both to the switch, that would be awesome.
+    potato laptop running linux. (cpu is an i3 that gets thermal-throttled to 800Mhz)
+
+if my laptop can run it, any PC can. 
+
+it's a valve game, so I guess that means steam exclusive. 
+I don't see the appeal of it tbh. Just watching 1 minute of gameplay makes me yawn. 
+
+I think my main problem with that game is the environment.
+    It took me two or three tries before Portal 2 clicked for me, but once it did I fell completely into it. It covers so much ground (FPS, killer comedy, great lore, physics puzzler, G-rated but still smart, suitable for short and long play) that it's possibly the first game I'd recommend to non-gamers interested in gaming .
+
+The environment in 2 is more varied and much more interesting IMO. I played the first one afterwards. You can tell it was almost a test run at what would become P2—it's only about four hours long, it takes place in a pretty homogenous environment and it doesn't have nearly the depth of lore or puzzle nuance as the sequel. I got it with the Orange Box for like $2. For that it was worth it.
+Ha, I'll guess I should play it now.
+I played Portal so, so long ago, thought it was great, and then somehow missed out on playing Portal 2 which, from the comments here, is kind of like the full version to Portal's concept game.
+
+I guess I better play it. I'm running Linux as well. I assume Steam is the only place to get it, being a Valve game?
+    yeah, steam only AFAIK.
+
+do go play it. It does have native linux support
+Portal 2 is a lot more story based and a little harder.  For me, it seemed to drag on a bit more as well.  I like it, but I think I liked Portal 1 better.
+If you can find someone else who has never played portal 2 co-op you definitely should give that a go as well.
+Played portal 1, then played portal 2 with my wife.  Was tons of fun.
+Portal is such a timeless game, I think it could be picked up in 10 years and not experience the "damn, I bet we used to think this is what good graphics looked like" effect of, say, picking up an old PS2 game.  The experience is really one-of-a-kind, though I realize there were other puzzle-platform games that followed in its vein, none of them really captured the magic of Portal.
+I came here to post the forbidden xkcd comic that suits perfectly in  OP's situation... but it is literally against subreddit rules and i might get banned over it!
+
+
+There is a link to it in rule 7 on your right
+    I saw it already, and someone else DID post it. 
+
+I hope they didn't get banned. 
+
+
+Are you me? I finished Portal for the first time yesterday, took about 5 hours and I didn't use any guides, so I'm proud of myself for that. I haven't enjoyed a game like this in a long, long time. Cool story, humorous jokes, go at your own pace. I have Portal 2 to play as well (bought them both 2 years ago and never played). I'm working through the bonus content and achievements before moving on.
+
+You're not alone in living under a rock!
+I think Portal 1 has better gameplay and Portal 2 is better for story and atmosphere. 
+    [deleted]
+        I thought the gameplay of Portal 2 was really dumbed down. Like, for many puzzles there were only a few tiny white areas on walls so you could pretty much figure out what to do by elimination.
+            Yeah, as I said, the singleplayer is way too easy, but when the game does get hard (which is mostly on the co-op mode and in community-made chambers) I felt like the gameplay was much better than Portal 1's and the new elements really added to the variety of puzzles.
+                Community chambers?!?! Damn I gotta reinstall
+                I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+            It’s mostly because “think with portals” is no longer a novel thought, and most players familiar with the franchise are adept at finding ways to break puzzles. This was one of the first lessons brought by the puzzle editor built into Portal 2. If your puzzle has anything other than the bare minimum of white surfaces required to make the puzzle solvable, someone _will_ solve it in 5 seconds in a way that completely ignores nearly all of your elaborate design. It will not be satisfying to you, the puzzle designer, because your careful work feels completely wasted, and it will not be satisfying for the player, because they get the impression that the puzzle had a bazillion of red herrings — elements that were completely irrelevant to the solution they came up with.
+            It's more about timing or doing things in the right order. That may feel easy but it's better for the experience than relying on aim.
+        Agreed, the puzzles in Portal 2 are much better but the story dragged on just a bit too long.
+            It's a shockingly long game. "Oh, it's about to end now... oh, it's a completely different set of puzzles with different paints."
+        There's that separate mod, I think it was called Portal Mel stories or something that were harder Portal 2 puzzles. Free, so easy to check it out. 
+
+Edit: welp. Mentioned below. Portal Stories: Mel apparently. 
+            Already played Portal Stories! When it came out actually. Really great mod, though it's definitely a jump up in difficulty if you're just coming out of Portal 2's singleplayer, as in, it's actually really fucking hard. Though I heard they added an [easy mode](https://i.imgur.com/QDeWqRR.png) later, so...
+    Can't argue with that.  They're both good games.
+        No doubt. Personally I would say the original was my favorite as well because it was so unexpected and so fresh. The second one is fantastic as well though. So much so that when it released I played it through and then played again with Dev commentary the same day. 
+    Yeah but you lose so much of the story by not playing the first one
+The way that I like to think about them is that Portal is a little short, but everything in it is absolutely perfect, whereas Portal 2 has more good stuff overall, but there are some bits that aren't great.
+
+If you're not restricted to just playing one of them then start with Portal because it's perfect, but if you can only get one then maybe get Portal 2 instead because there's more content overall, even if you aren't counting the less stellar parts.
+    You stole the words out of my mouth! Portal 1 is a basically flawless game. Portal 2 is great, but expanding their universe gave them both higher highs and lower lows.
+        Agreed, but neither had a satisfying ending. 
+            Downvoted, saw the username, upvoted. 
+They're both great, but I slightly prefer the first game as well. (spoiler tagging on the off chance that anyone who's reading this hasn't played it yet...) What I love most about it is [](#s "the way it slowly unfolds from what at first seems like a fairly straightforward puzzle game into something where, by the end, you're destroying your only friend and slowly dismantling the very AI that had been guiding you from the beginning, all while constantly challenging you to discover new ways of using its ingenious central game mechanic.")
+
+It might lose some of that magic if you go in already kind of knowing where it's headed, but playing it blind was one of the top gaming experiences I've ever had. 
+    Yeah, I wish Portal wasn't so ingrained in internet culture, because it's all but impossible to go into it nowadays without knowing this. But when I played it for the first time on release, knowing nothing about it, it blew my mind.
+        I played Portal knowing only >!"the cake is a lie" was a meme.!<
+
+Also >!when I was on that platform headed to the incinerator, I really thought it was the end of the game and only saw some white tiles at the last moment for a hail Mary. I was blown away that there was so much more.!<
+            That part really is done amazingly well. 
+        I imagine all the memes and whatnot probably killed a lot of that sense of discovery for anyone who follows games but didn't play Portal before it blew up. I don't think I've ever been as delighted at the end of a game as I was when I first heard "Still Alive", and part of that was that I had no idea it was coming.
+
+Even the way it was originally released was so perfect. As part of the Orange Box, everyone just kind of assumed it was going to be this little bonus game that they threw in there along with the Half-Life stuff and TF2, but then it turned out to be the one that everyone was talking about.
+
+If there's one game I could erase all knowledge of and play again for the first time, it would be Portal, hands down. 
+        Fun fact, i still don't know the plot to portal 1! I already know portal 2 and killing glados and whatnot but 
+    "friend"
+I like Portal 1 better because it's basically perfect from start to finish, and since it's so short I can replay it with ease. That's definitely not to undersell Portal 2 though, because it is also a really fantastic game, and if you told me I could only play one of them ever again I'd probably pick Portal 2 since it has more content.
+Portal 2 is really focused on being a comedy. It has some great jokes, but they really dumbed down the gameplay to make it more accessible, so that everyone can experience the story. Most "puzzles" can be solved by just shooting portals at all the available surfaces.
+
+The (new) mechanics are really solid and well executed though and from what I've seen there's some great mappacks/mods around that really build on them (as the base game barely scratches the surface).
+Oh fuck no. The first portal is like the one of the only things I've ever given a 10 out of 10 for. Portal 2 was good but Portal 1 was fucking perfect
+You might as well play portal 1 because it's great and you can beat it in an afternoon.
+>Some people recommend skipping it and going straight to 2 but the beginning is the correct place to start.   
+
+I've never heard that said before but anyone who says it is really fucking dumb. I preferred the vibe of the first game and I can't come up with any reason for skipping the first game no matter what perspective you come at it from.
+Yee it's also my favorite. 
+
+It's smaller in scope and much less bombastic in the overall production, but it actually works in its favor and creates an amazingly eerie and opressive atmosphere throughout the game that feels very unique. 
+
+
+
+
+The only problem I had with Portal 2 was the absurdly long loading times and they were so often! Portal 1 had very short loading times
+Especially because P2 has so many callbacks and references to the first game, it seems kind of a shame to skip to it. I also like the puzzle aspect of P1 better anyway.
+I couldn't get into the dialogue in the second one, which is what I think killed it for me. In all fairness, I think the puzzles in the second one were really good. I just think GLaDOS in the first one was way funnier.
+I enjoyed Portal 1 more however Portal 2 co-op was so much fun.
+Which is the one with Cave Johnson?
+    That would be Portal 2.
+        What a character. Out of both games, the thing that sticks out in memory for me is "...make life take the lemons back!" etc :D
+[deleted]
+    This is the only reason I haven't started it yet. Portal 1 & 2 were the absolutely *perfect* skill level for me, since I found them challenging but never to the point of frustration or needing to look up solutions (though I was tempted once or twice!). 
+
+If it was more challenging it would just tip the scales into frustration for me.
+        I only had trouble with one lightbridge level near the end. No shame in youtubing solutions. Well worth playing through, took me 12 hours.
+    Just finished Mel.  Definitely harder puzzles.
+
+Wait, I actually never noticed this. Is there really no security cameras on white walls in Portal 2?
+    I think some are still on white walls but not the majority. In portal pretty much all of them were. I always knocked them down and it was a bit sad to leave so many working in portal 2.
+
+Sidenote: in Mel there's a level that you aren't supposed to solve and you basically need to escape the test chamber but you can still solve it by knocking down a security cam and using it to block a ray. The door remains broken but at least you can solve it :D
+Aperture Tag is pretty fun, too!
+And Wheatley. I used to have a ringtone of him asking to be picked up for a good minute or two.
+    Heh still do.
+Ya know, I've been thinking.
+
+When life gives you lemons, don't make lemonade.
+
+Make life take the lemons back!  Demand to see Life's manager!  Get Mad!  I don't want your damn lemons!  What am I supposed to do with these!  Make life rue the day it thought it could give Cave Johnson lemons -- Do you know who I am?
+
+I'm the guy who's going to burn your house down.
+
+With a lemon.
+
+I'm gonna get my engineers to invent a combustible lemon that burns your house down!
+If only Valve still made single player games. 
+What feel?
+    Lemme know if you find out, I want to know too
+I got some very juicy feels from Life is Strange and Undertale recently
+    You reminded me about Everlasting Summer, but tbh, I enjoyed it mostly because I'm Russian with the exactly appropriate age to enjoy this game :)
+I couldn’t agree more. 
+I'm patient in hardware too - my (gaming desktop) monitor is not even fullHD. GPU is a nice 1060 that does well for my "not ten years patient" gaming, lol. 
+    1060 should be plenty and you could still downscale to whatever your native resolution is and reap the benefits of ZERO jaggies.  Almost looks pre-rendered at times. 
+        yeah, well, thing is, I love gaming while laying in bed. that's why I played portal1 on my potato-laptop. no other reason at all. 
+
+someday, I'll have money and buy a gaming laptop, lol. ... maybe the day I stop adding games to my backlog... damned steam sales and humble bundle and fanatical and the others.... 
+
+PS: all that said, while I do appreciate nice graphics, and a steady framerate, I can do as well with old graphics and 20ish FPS as long as there's no drops, hahaha. (yeah, I know what's to play a game at 1fps.... and no, I don't want to do that anymore.)
+            [deleted]
+                I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+                    [deleted]
+                        Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+> Portal 2 is *way* better than portal
+
+I really don't agree. They're both amazing games, but I highly prefer Portal 1 over 2. It's smaller but muuuuch more atmospheric. 
+LOL
+
+I'm not much of a puzzle fan (I like them 'till they become too hard and I just quit in frustration), and right now I'm too saturated of portals, seriously. 
+
+to each their own. XD
+    I gotcha. But, also know that 2 is much more of a story-driven production. The puzzles are still great, if not a tiny bit easier, but...the story and production/performances are fantastic! It’s hilarious, heartwarming, suspenseful. It even has a great cast. Stephen Merchant’s in there. JK Simmons is in there. It’s really a masterwork or a game story-wise just like Portal 1 is puzzle-wise.
+        Yup, the characters especially are fantastic. Op you should definitely check it out even if just for the story and characters. EDIT: Typo
+yes.
+    [deleted]
+        i wondered if that was the case, apparently people already saw it as otherwise. obvs i'm not op either.
+Yes, he played Portal, but he might play Portal 2 in the near future
+Sidebar. Rule 7.
+    Against the rules true but this has to be the most appropriate posting of that XKCD comic ever. 
+        It's a posting rule. I don't think it's disallowed in comments.
+not really, I had heard the whole \[SPOILER\]>!cake is a lie !< joke, but I didn't know where it came from. so at first I was like, "oh-kay", but then when it found it scribbled in walls the first time, I was like, LOL!
+
+&#x200B;
+
+as for walkthroughs, it's either that or giving up in frustration. I usually pick at my brain a lot before looking, tho.
+https://store.steampowered.com/app/400/Portal/
+
+nope. 
+    [removed]
+        holy shit, I didn't even had a steam account back then. 
+
+also, that's a giveaway, not a "free since". 
+Nah, Valve made it free once or twice at some point for a limited time.  But, went straight back to paid.
+
+It was a strategic move to increase Steam user base.   This is back in 2010 or so.
+that's a "cheap" ultrabook (that was never meant for gaming in the first place) and some shitty thermal design. 
+
+indeed, I've seen it as low as 200 Mhz on games that can be played at... unplayable fps (say, FTL, even if there's a bad drop, you can just pause and wait it out)
+
+at least the CPU hasn't melted, lol. 
+argh. I was already itchy yesterday night (as in, should I at least test if it runs?), but now you gave me more reasons to want to play it! damn!!
+
+I bet it won't even run in there, tho. :/
+Damn. I love me some story-driven games...
+
+STAHP trying to get me to play the sequel, y'all. :P 
+potato laptop running linux. (cpu is an i3 that gets thermal-throttled to 800Mhz)
+
+if my laptop can run it, any PC can. 
+
+it's a valve game, so I guess that means steam exclusive. 
+It took me two or three tries before Portal 2 clicked for me, but once it did I fell completely into it. It covers so much ground (FPS, killer comedy, great lore, physics puzzler, G-rated but still smart, suitable for short and long play) that it's possibly the first game I'd recommend to non-gamers interested in gaming .
+
+The environment in 2 is more varied and much more interesting IMO. I played the first one afterwards. You can tell it was almost a test run at what would become P2—it's only about four hours long, it takes place in a pretty homogenous environment and it doesn't have nearly the depth of lore or puzzle nuance as the sequel. I got it with the Orange Box for like $2. For that it was worth it.
+yeah, steam only AFAIK.
+
+do go play it. It does have native linux support
+I saw it already, and someone else DID post it. 
+
+I hope they didn't get banned. 
+
+
+[deleted]
+    I thought the gameplay of Portal 2 was really dumbed down. Like, for many puzzles there were only a few tiny white areas on walls so you could pretty much figure out what to do by elimination.
+        Yeah, as I said, the singleplayer is way too easy, but when the game does get hard (which is mostly on the co-op mode and in community-made chambers) I felt like the gameplay was much better than Portal 1's and the new elements really added to the variety of puzzles.
+            Community chambers?!?! Damn I gotta reinstall
+            I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+        It’s mostly because “think with portals” is no longer a novel thought, and most players familiar with the franchise are adept at finding ways to break puzzles. This was one of the first lessons brought by the puzzle editor built into Portal 2. If your puzzle has anything other than the bare minimum of white surfaces required to make the puzzle solvable, someone _will_ solve it in 5 seconds in a way that completely ignores nearly all of your elaborate design. It will not be satisfying to you, the puzzle designer, because your careful work feels completely wasted, and it will not be satisfying for the player, because they get the impression that the puzzle had a bazillion of red herrings — elements that were completely irrelevant to the solution they came up with.
+        It's more about timing or doing things in the right order. That may feel easy but it's better for the experience than relying on aim.
+    Agreed, the puzzles in Portal 2 are much better but the story dragged on just a bit too long.
+        It's a shockingly long game. "Oh, it's about to end now... oh, it's a completely different set of puzzles with different paints."
+    There's that separate mod, I think it was called Portal Mel stories or something that were harder Portal 2 puzzles. Free, so easy to check it out. 
+
+Edit: welp. Mentioned below. Portal Stories: Mel apparently. 
+        Already played Portal Stories! When it came out actually. Really great mod, though it's definitely a jump up in difficulty if you're just coming out of Portal 2's singleplayer, as in, it's actually really fucking hard. Though I heard they added an [easy mode](https://i.imgur.com/QDeWqRR.png) later, so...
+Can't argue with that.  They're both good games.
+    No doubt. Personally I would say the original was my favorite as well because it was so unexpected and so fresh. The second one is fantastic as well though. So much so that when it released I played it through and then played again with Dev commentary the same day. 
+Yeah but you lose so much of the story by not playing the first one
+You stole the words out of my mouth! Portal 1 is a basically flawless game. Portal 2 is great, but expanding their universe gave them both higher highs and lower lows.
+    Agreed, but neither had a satisfying ending. 
+        Downvoted, saw the username, upvoted. 
+Yeah, I wish Portal wasn't so ingrained in internet culture, because it's all but impossible to go into it nowadays without knowing this. But when I played it for the first time on release, knowing nothing about it, it blew my mind.
+    I played Portal knowing only >!"the cake is a lie" was a meme.!<
+
+Also >!when I was on that platform headed to the incinerator, I really thought it was the end of the game and only saw some white tiles at the last moment for a hail Mary. I was blown away that there was so much more.!<
+        That part really is done amazingly well. 
+    I imagine all the memes and whatnot probably killed a lot of that sense of discovery for anyone who follows games but didn't play Portal before it blew up. I don't think I've ever been as delighted at the end of a game as I was when I first heard "Still Alive", and part of that was that I had no idea it was coming.
+
+Even the way it was originally released was so perfect. As part of the Orange Box, everyone just kind of assumed it was going to be this little bonus game that they threw in there along with the Half-Life stuff and TF2, but then it turned out to be the one that everyone was talking about.
+
+If there's one game I could erase all knowledge of and play again for the first time, it would be Portal, hands down. 
+    Fun fact, i still don't know the plot to portal 1! I already know portal 2 and killing glados and whatnot but 
+"friend"
+That would be Portal 2.
+    What a character. Out of both games, the thing that sticks out in memory for me is "...make life take the lemons back!" etc :D
+This is the only reason I haven't started it yet. Portal 1 & 2 were the absolutely *perfect* skill level for me, since I found them challenging but never to the point of frustration or needing to look up solutions (though I was tempted once or twice!). 
+
+If it was more challenging it would just tip the scales into frustration for me.
+    I only had trouble with one lightbridge level near the end. No shame in youtubing solutions. Well worth playing through, took me 12 hours.
+Just finished Mel.  Definitely harder puzzles.
+
+I think some are still on white walls but not the majority. In portal pretty much all of them were. I always knocked them down and it was a bit sad to leave so many working in portal 2.
+
+Sidenote: in Mel there's a level that you aren't supposed to solve and you basically need to escape the test chamber but you can still solve it by knocking down a security cam and using it to block a ray. The door remains broken but at least you can solve it :D
+Heh still do.
+Lemme know if you find out, I want to know too
+You reminded me about Everlasting Summer, but tbh, I enjoyed it mostly because I'm Russian with the exactly appropriate age to enjoy this game :)
+1060 should be plenty and you could still downscale to whatever your native resolution is and reap the benefits of ZERO jaggies.  Almost looks pre-rendered at times. 
+    yeah, well, thing is, I love gaming while laying in bed. that's why I played portal1 on my potato-laptop. no other reason at all. 
+
+someday, I'll have money and buy a gaming laptop, lol. ... maybe the day I stop adding games to my backlog... damned steam sales and humble bundle and fanatical and the others.... 
+
+PS: all that said, while I do appreciate nice graphics, and a steady framerate, I can do as well with old graphics and 20ish FPS as long as there's no drops, hahaha. (yeah, I know what's to play a game at 1fps.... and no, I don't want to do that anymore.)
+        [deleted]
+            I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+                [deleted]
+                    Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+I gotcha. But, also know that 2 is much more of a story-driven production. The puzzles are still great, if not a tiny bit easier, but...the story and production/performances are fantastic! It’s hilarious, heartwarming, suspenseful. It even has a great cast. Stephen Merchant’s in there. JK Simmons is in there. It’s really a masterwork or a game story-wise just like Portal 1 is puzzle-wise.
+    Yup, the characters especially are fantastic. Op you should definitely check it out even if just for the story and characters. EDIT: Typo
+[deleted]
+    i wondered if that was the case, apparently people already saw it as otherwise. obvs i'm not op either.
+Against the rules true but this has to be the most appropriate posting of that XKCD comic ever. 
+    It's a posting rule. I don't think it's disallowed in comments.
+[removed]
+    holy shit, I didn't even had a steam account back then. 
+
+also, that's a giveaway, not a "free since". 
+I thought the gameplay of Portal 2 was really dumbed down. Like, for many puzzles there were only a few tiny white areas on walls so you could pretty much figure out what to do by elimination.
+    Yeah, as I said, the singleplayer is way too easy, but when the game does get hard (which is mostly on the co-op mode and in community-made chambers) I felt like the gameplay was much better than Portal 1's and the new elements really added to the variety of puzzles.
+        Community chambers?!?! Damn I gotta reinstall
+        I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+    It’s mostly because “think with portals” is no longer a novel thought, and most players familiar with the franchise are adept at finding ways to break puzzles. This was one of the first lessons brought by the puzzle editor built into Portal 2. If your puzzle has anything other than the bare minimum of white surfaces required to make the puzzle solvable, someone _will_ solve it in 5 seconds in a way that completely ignores nearly all of your elaborate design. It will not be satisfying to you, the puzzle designer, because your careful work feels completely wasted, and it will not be satisfying for the player, because they get the impression that the puzzle had a bazillion of red herrings — elements that were completely irrelevant to the solution they came up with.
+    It's more about timing or doing things in the right order. That may feel easy but it's better for the experience than relying on aim.
+Agreed, the puzzles in Portal 2 are much better but the story dragged on just a bit too long.
+    It's a shockingly long game. "Oh, it's about to end now... oh, it's a completely different set of puzzles with different paints."
+There's that separate mod, I think it was called Portal Mel stories or something that were harder Portal 2 puzzles. Free, so easy to check it out. 
+
+Edit: welp. Mentioned below. Portal Stories: Mel apparently. 
+    Already played Portal Stories! When it came out actually. Really great mod, though it's definitely a jump up in difficulty if you're just coming out of Portal 2's singleplayer, as in, it's actually really fucking hard. Though I heard they added an [easy mode](https://i.imgur.com/QDeWqRR.png) later, so...
+No doubt. Personally I would say the original was my favorite as well because it was so unexpected and so fresh. The second one is fantastic as well though. So much so that when it released I played it through and then played again with Dev commentary the same day. 
+Agreed, but neither had a satisfying ending. 
+    Downvoted, saw the username, upvoted. 
+I played Portal knowing only >!"the cake is a lie" was a meme.!<
+
+Also >!when I was on that platform headed to the incinerator, I really thought it was the end of the game and only saw some white tiles at the last moment for a hail Mary. I was blown away that there was so much more.!<
+    That part really is done amazingly well. 
+I imagine all the memes and whatnot probably killed a lot of that sense of discovery for anyone who follows games but didn't play Portal before it blew up. I don't think I've ever been as delighted at the end of a game as I was when I first heard "Still Alive", and part of that was that I had no idea it was coming.
+
+Even the way it was originally released was so perfect. As part of the Orange Box, everyone just kind of assumed it was going to be this little bonus game that they threw in there along with the Half-Life stuff and TF2, but then it turned out to be the one that everyone was talking about.
+
+If there's one game I could erase all knowledge of and play again for the first time, it would be Portal, hands down. 
+Fun fact, i still don't know the plot to portal 1! I already know portal 2 and killing glados and whatnot but 
+What a character. Out of both games, the thing that sticks out in memory for me is "...make life take the lemons back!" etc :D
+I only had trouble with one lightbridge level near the end. No shame in youtubing solutions. Well worth playing through, took me 12 hours.
+yeah, well, thing is, I love gaming while laying in bed. that's why I played portal1 on my potato-laptop. no other reason at all. 
+
+someday, I'll have money and buy a gaming laptop, lol. ... maybe the day I stop adding games to my backlog... damned steam sales and humble bundle and fanatical and the others.... 
+
+PS: all that said, while I do appreciate nice graphics, and a steady framerate, I can do as well with old graphics and 20ish FPS as long as there's no drops, hahaha. (yeah, I know what's to play a game at 1fps.... and no, I don't want to do that anymore.)
+    [deleted]
+        I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+            [deleted]
+                Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+Yup, the characters especially are fantastic. Op you should definitely check it out even if just for the story and characters. EDIT: Typo
+i wondered if that was the case, apparently people already saw it as otherwise. obvs i'm not op either.
+It's a posting rule. I don't think it's disallowed in comments.
+holy shit, I didn't even had a steam account back then. 
+
+also, that's a giveaway, not a "free since". 
+Yeah, as I said, the singleplayer is way too easy, but when the game does get hard (which is mostly on the co-op mode and in community-made chambers) I felt like the gameplay was much better than Portal 1's and the new elements really added to the variety of puzzles.
+    Community chambers?!?! Damn I gotta reinstall
+    I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+It’s mostly because “think with portals” is no longer a novel thought, and most players familiar with the franchise are adept at finding ways to break puzzles. This was one of the first lessons brought by the puzzle editor built into Portal 2. If your puzzle has anything other than the bare minimum of white surfaces required to make the puzzle solvable, someone _will_ solve it in 5 seconds in a way that completely ignores nearly all of your elaborate design. It will not be satisfying to you, the puzzle designer, because your careful work feels completely wasted, and it will not be satisfying for the player, because they get the impression that the puzzle had a bazillion of red herrings — elements that were completely irrelevant to the solution they came up with.
+It's more about timing or doing things in the right order. That may feel easy but it's better for the experience than relying on aim.
+It's a shockingly long game. "Oh, it's about to end now... oh, it's a completely different set of puzzles with different paints."
+Already played Portal Stories! When it came out actually. Really great mod, though it's definitely a jump up in difficulty if you're just coming out of Portal 2's singleplayer, as in, it's actually really fucking hard. Though I heard they added an [easy mode](https://i.imgur.com/QDeWqRR.png) later, so...
+Downvoted, saw the username, upvoted. 
+That part really is done amazingly well. 
+[deleted]
+    I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+        [deleted]
+            Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+Community chambers?!?! Damn I gotta reinstall
+I only did the co-op with a friend and never got around to doing the single player, and honestly even then it wasn't super hard, just a few times we really had to think about a puzzle for a bit
+I've looked into streaming, but the laptop is so crappy, that even with a gigabit ethernet connection, I get frame drops due to "slow decode". 
+
+also... hum... can you, like, take lappy, and input video from desktop's PC?! (that had never occurred to me!!)
+    [deleted]
+        Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+[deleted]
+    Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
+Hm. I'd rather save for a proper gaming laptop. I like big screens, I'd like a 17in one... 
+
+but thanks. 
