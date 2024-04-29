@@ -1,0 +1,504 @@
+[[From Newblood Discord, Hakita’s response to comments on the Whiplash rebalance]]
+
+
+
+
+
+I made it through all of act II on violent and still wasn't sure why I was sometimes unable to heal until I saw the people complaining about it and read the patch notes lmao. 
+
+I don't mind it being more punishing and maybe I'm just a dumbass, but I did not make the connection between the hard damage and my use of whiplash through the gameplay alone 
+
+and I think that's the real problem, not how punishing it is, but how it communicates itself to the player
+
+I did see that there are tutorial messages in the previous levels that may alleviate this problem, though, so
+    doesnt the tutorial when you get the wipslash say it? i remember hakita saying he would  add a message in the tutorial talking about the hard damage
+        when wrath and heresy dropped, i replayed all of act 2 and i can confirm, the whiplash tutorial does tell you about hard damage.
+            Ngl, I think I ignored it when I did the same because I didn't expect a change
+            But when I replayed 4-4 there was nothing about hard damage
+                i replayed the level real quick because i doubted myself, but it does say “WHIPLASH: Builds up HARD DAMAGE when used on ENEMIES. CANNOT REDUCE HP, but risky to use when at low health.”
+        It says it, and if you have missing HP from the V2 fight, it becomes apparent what it comes from.
+
+Though maybe Hakita could hard code the landing from that fight to reduce you to at most X health, so everyone gets that experience.
+        Yes, as I mentioned I saw that messages have been added, but my point is that I think there is still a disconnect in logic between using the whiplash and losing max HP that doesn't quite communicate itself well *through gameplay*.
+    You'd absolutely realize this in the whiplash demonstration after 4-4, because you won't have an Ultrakill rank and you'll likely be damaged
+    Yeah I thought it was because of the water lol
+The penalty being reduced by having a high style rank seems weird, since getting hit tanks your style, you only have access to the healing at its best when you can't even use it, and when you do need it, it's reduced.
+    I’m assuming it’s to more heavily discourage face tanking; instead of just rushing at the nearest enemy in a straight line upon taking damage, it encourages darting around more to build up lost style and then going for a kill once hard damage dissipates, as opposed to rushing in repeatedly and ending up with a health bar that’s 70% greyed out.
+Much like the general changes to how style works, the new whiplash also encourages playing carefully after damage is taken so that it can be used without the hard damage being much of a concern.
+
+Face tanking and rushing straight at enemies with a shotgun out is certainly fun, and I don’t at all blame people who prefer that, but I think that overall the recent balance changes are quite nice.
+    I think it acts more as a safeguard rather than just outright accessing healing. Like if you are suddenly hurt at a high rank, it is then more reliable to use the whiplash for healing since the hard damage goes away quicker. The cost here obviously being that you  lose some of that style
+    you are not supposed to have easy access to healing when you are playing badly and getting hit, you are supposed to have easy access to healing when you're hitting a good stylish flow and get tagged
+I like hakita. Sticks to his guns because he knows this will make things more interesting instead of making things easier
+    Yeah, it feels like fans are just mad that they have to git gud
+        Not being able to tell people to stop being bad and git gud is a detriment to all games.
+
+Literally just babys that can't adapt or learn the game.
+
+The solution is there, lower the difficulty if you suck.
+            I get when people whine with like, fromsoft games because it has set difficulty and if you don’t know how to play then you are fucked, but ultrakill? You literally have to select the difficulty you want to play on every time you play. It’s ridiculous that people can’t handle a balancing solution that will make the game objectively better because, as hakita said, it will force players to use the other movement more. Sorta reminds me of the strict ammo cap on weapons in doom eternal, where using the same weapons in every encounter could land you in trouble if you didn’t learn how to switch it up and play things the fun way
+                Literally not a single person in the universe cares about the whiplash nerf because of difficulty, they care about it because they want to use the funny graplling hook move and zoom around the map like spiderman.
+                    I mean you can still do it if you're good enough.
+                        If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+                            Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+                                Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+                    Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+            Exactly! “Gitting gud” is the worst thing in gaming communities. A small tip about how the game works would be better advice.
+            People downvoted you because they couldn't beat the game and had to air their frustrations on you. Classic noobs.
+The problem with whiplash now IMO is that it was one of if not the only main way to move mid-air without some sort of hard limitation. Dashes are short distance and limited by precious, precious, really fucking precious stamina, wall-jumping is obviously limited by walls, and explosion jumps are limited by health. Ground movement doesn't have as much of a problem with limitations like these since slide hopping doesn't take any stamina, it just uses your already present momentum. So yes Dash jump takes two stamina bars, but you don't need more stamina to keep up the momentum. Mid-air combat on the other hand, the only consistent option to keep moving quickly was whiplash.
+
+Now we have the rocket launcher, and woooooooooohhh buddy is it ever mobile considering you can infinitely fly around with it ( I actually think it's better than whiplash for mid-long range movement now which is insane), but considering you can't rebind it yet to any key and num 5 will always be unyieldy to a significant amount of people since not everyone plays games that use it, you can see why people don't really have in their minds that it's the go-to for mid-air movement.
+
+So basically, it's a mix of whiplash being the main mid-air movement tool being taken away, and the rocket launcher not quite doing its job as replacement since people are uncomfortable using it with the keybind oversight (that and people haven't built up the muscle memory for it obviously).
+    you mention the limits of all the other mid-air movement options, now whiplash just has a limit of health cap. it didnt have a limit before
+I really do not understand what is the big issue with these changes, having played for 5+ hours after the update dropped I didn't even feel a difference. To me the Whiplash is just a tool to execute Malicious Faces and Virtues.
+
+I can notice the hard damage building up when I use it, but it is not a bother at all. I can still kill all the enemies in the room just fine.
+    same. i use it for movement or to get myself back into the fight, not all this other stuff. the whiplash does what it needs to do; it's a movement arm. it's not the knuckleblaster.
+    Agreed. I did definitely overuse it for healing at one point but tried to stop doing that after I first heard about these changes that were coming a while ago cuz I realized that the whiplash being as good as it is did simplify the movement gameplay in a bad way, and know I use it almost exclusively for malicious face shotgun parties and virtues. Also mindflayers, common theme with the whiplash being good against tough flying enemies it seems
+    The only thing I find a problem to do with the new whiplash is fight mindflayers, because virtues can’t hit me and malicious faces can but I can just parry or dash when I’m going to them.
+Honestly, I only use the Whiplash for Virtues, Maurices and the occasional annoying Cerberus, so "nerf" means nothing to me.
+
+But I do think people heavily rely on the fucking thing, when the game is all about using your entire arsenal.
+    What is a virtue?
+        flying angle balls
+I do agree that it definitely needed a nerf as you could easily P rank everything on violent with just the whiplash and the overpump shotty. But yeah right now the whiplash feels pretty awful to use still.  
+
+
+Could number tuning solve that issue? Hopefully yeah. So yup, nerf has to stay, but needs to be altered somewhat, either in its number values or its function
+    I don’t mind that it got nerfed I mind how the nerf was handled, it punishes you heavily if you grapple and enemy at all, maintaining high scores is tricky to say the least so you can alleviate the hard damage, I really only use it now to pull myself to the hook shot orbs, but other than that, it’s way to risky to use during combat unless it’s not a lot of enemies at all.
+        yeahh, same. I'm fine with the idea of it doing hard damage, but the way I use the whiplash (closing the gap on big enemies while avoiding the smaller ones) usually ends up on me getting hit by malicious faces, once. during their volley. and then the damage dealt gives it back.
+
+that's basically all I use the whiplash for, close the gap, deal boatloads of damage, repeat. I get if hakita doesn't like the way I play, but at least either increase the time before the hard damage comes, (if you drag in an enemy super close to you it doesn't actually do *any* hard damage) or slow the rate at which it's gained. (maybe to about, 1/3 gone after crossing the entire cybergrind arena)
+            You can dash during grapple to avoid malicious face projectile
+other than virtue, are there any enemies that act as free hookshot-points?
+
+all the other big enemies deal a lot of damage to you if you just look at them, press R, and close your eyes.
+
+as a mobility option, the hookshot was fast and easy, but also *really inconvenient*.   you could never just go wherever you felt like.  thats what sliding and bhopping was for.
+
+other than that, i can see where hakita's coming from.  i think i can learn to live with the new nerf if the numbers get tweaked a bit more
+    You immediately offset the risk if you didn't die during the grapple though. That was the problem, and you seldom outright died, meaning that it became the best thing to continuously do.
+If Style is going to be so integral to using one of the game's core movement options, then the Style meter needs to be emphasised even further. Because I tend to blind myself out of the hud from the intensity of fights, I don't actually notice what's going on with Style - I never needed to before this update either. 
+
+What I'm saying is, PUT ANNOUNCER RANKS FOR ULTRAKILL
+    Fucking yes!
+I seriously doubt anybody would actually use the dashjump in combat. It’s just too much momentum for most rooms. And it just kills you in cyber grind.
+    You still have the slide jump, the slide, the jump, the dash, the jump dash
+
+Edit: didn't see the other pictures, my bad
+    I use it, and then use groundslam to halt all my momentum.
+
+
+
+
+Of course, I used to be able to fling myself off the map and then grapple back, have some fun, but I guess that's no longer an option :)
+        Grappling back onto the map is still gonna be something I do because necessity
+            Yeah, same here, but you aren't gonna catch me flinging myself around for fun anymore because I'm now actively punished for it.
+        A fun trick is if you time the grapple and immediately let go you don't take much hard damage and it will still fling you.
+    Well, some enemies lead their shots based on momentum, and there are no shortage of ways to cancel momentum…
+I feel like the biggest downfall of this is that people who don't rely on whiplash and use it for fun scenarios/tech and still play normally also get punished for this. Like I used to try to grapple into minos prime while he shot his snake shot to see if I could reflect it back into a shotgun knucklebuster combo and it was so much fun, now that a greater risk of just killing me :(
+    Same. This is the main reason why I hate this nerf. 
+
+I just can't find a situation where I'd EVER want to use the Whiplash now. It sucks. 
+
+I can't use it for any sort of healing (unless I'm already at high style)
+
+I can't use it to zoom in and squash Maurices, because I'll easily get hit, lowering my style and setting up the hard damage.
+
+Mind flayer is a nightmare to fight now because the whiplash just sucks.
+    Bro if you are playing well the nerf is nullified
+        Well it just saddens me that if I wanna do the funny brrr enemy gets pulled into buzzsaw my hp gets neutered like a dog two days after being bought. This change is good for most people who crutch on it tho.
+Man. Whiplash was such a cool arm and now i can’t use it… BUT IM ON LENIENT SO NO HARD DAMAGE NEEEERRRRRRDDDDSSSSSS
+    Like for real i don't get it, before this update violent felt fucking slugfest, it looked like the only possibility to have a challenge was to either actively handicap ourselves or wait for brutal and ultrakill must die to come out. Finally violent is actually hard Jesus christ, and now people that aren't good enough for violent that before survived only thanks to the whiplash and the easy pro boost spam are in discomfort... Brother just play standard or lenient its fine, I genuinely respect anyone that plays on their difficulty even if it was harmless than people that used to play violent only thanks to cheap tactics that now cry to hakita to give the cheap tactics back. Genuinely bro try out standard or lenient if violent isn't fun anymore because to be honest it's fine Violent was supposed to be hard and now it is, there's no shame in playing standard lenient or even harmless. People that complain about the whiplash are litterally just people that play violent while not able to. 
+
+TL:DR
+Feel the whiplash nerf was too punishing? Maybe can't get p ranks anymore? Or enemies became too smart? Try out standard or lenient and enjoy your game instead of trying to lower the skill required to play violent.
+        Agreed.
+Imo, this is great news. I feel like we'll get used to the new whiplash in time, my one reservation being that it's a little _too_ painful rn. If they're still playing with the recovery numbers and stuff i take that as a good sign. Also, I'm glad to see Hakita is standing his ground.
+    From all these posts it's easy to tell which people weren't playing before the greed update.
+        played before and after greed, whiplash change is fine and ive already adapted to it
+        It's also easy to tell who didn't play much after the greed drop
+watch how people won't even read this and will still act like dipshits over the nerf, blabbering about how  "This nerf encourages passive playstyle, like hiding behind cover" type of shit
+    wasnt this nerf made for the actuall oposite reason of this? so you actually have to go to the enemy for the blood instead of running away and using the wipslash for easy heal?
+        that was one of the previously stated reasons, with the image in the post explaining the other one. anyone who did a significant amount of cybergrinding with the old whiplash is almost certainly aware of how easy it was to just grapple non-stop instead of doing literally anything else. 
+
+I actually had significant difficulties against virtues, malfaces and mind flayers and pretty much had to re-learn how to deal with them when playing the new levels because you can no longer just turn your brain off and repeatedly press R when you see these enemies.
+The hard damage mechanic with the whip is a good idea, I'm happy he's sticking to his guns and keeping it. I only wanted some number tweaks and it's great to know Hakita is considering that too
+Completely agree with Hakita with the whiplash making the games movement a bit too dull and less reliant on the already existing movement mechanics, I think this was a great change to make to make sure that ultrakill doesn't end up taking no brain to use, however I do think that the cooldown of the hard damage being 10 seconds is a bit too much. It jumps over to an another problem with passivity and taking a cover being encouraged if you make a mistake, which also makes the gameplay a bit too dull. In 6-1 I had to take cover in the underground section of the Neo Babe— I-I mean Cry For The Weeper when I took too much damage. The answer might be simple to just git gud, but not everyone can and even those that do will make mistakes.
+
+The best way to fix this issue imo isn't to bring the old one back, but to instead reduce the cooldown to 5 seconds. Or even better, make the cooldown completely dependant on your rank. If you're as D, you're going to have to wait for 10 second cooldown, if you're at ULTRAKILL rank, 5 or even less. That'll encourage the player even more to be aggressive.
+
+Hopefully Hakita makes it better.
+Great to hear that
+"...of the whiplash completely dominating the entire rest of the game's movement."
+
+So for a moment let's take this at 100% face value. The Whiplash is the best way to move around most arenas, takes away the role of other movement tech and gives you easy heals. 
+
+It is also, at least from my own experience and from what I've seen from others, one of the most fun and interesting ways to move around arenas currently available in any FPS. Speaking purely for myself, the Whiplash increased my enjoyment of the game and let me play more aggressively. I imagine this is similar to many others experience as the discourse usually brings up similar descriptions.
+
+So is it a problem that many people have found their optimized way (or meta) way to play the game or just sour grapes that the dev created all these cool systems, but one was accidentally just *more fun to use* than the rest? Normally the problem with meta strats in single player games is that it trivializes the rest of the gameplay to the point where it diminishes the overall experience. Maybe Hakita has found a less vocal chunk of the player base where this is true, but it's a pretty big leap in his description to broad stroke the majority of the player base with it.
+
+I'm also confused by talking about the current patch not fixing the overarching issue of having little to no reason to use other abilities to advance. I sure as shit got demolished my first playthrough of the new levels because I didn't have access to movement or heals via grapple I normally had. It also speaks to a deeper issue of something the game has done a great job of avoiding until now. Using a hard coded brick wall solution to curb player behavior instead of more subtle ways to encourage different play styles.
+
+If the Whiplash was *such a dominant force and had been fully considered in development* there's a host of answers you can make to enemy tactics and status to weaken the Whiplash or force people to be more tactical in it's use. Just going 'lol, nah.' and taking away some of it's primary use is a surprisingly boring solution. Regardless of what nerfs Hakita settles on, I'm disappointed that one of my favorite tools to play with is going to be shredded. Doesn't take away from how I feel about the game as a whole, but again, **it's just how fucking *boring* this solution is** that gets to me.
+    See. Here's the thing though.
+
+The Whiplash is still completely viable. It was nerfed, yes. But the only thing that was nerfed is taking hard damage if not at full HP. If you're at full HP, then litterally nothing's changed. And as long as you're above 60-70 HP, it's still pretty safe to use. The sheer positioning power means that; if used well; that missing HP won't matter because you avoided all the hits you'd take if you were where you started. 
+
+&#x200B;
+
+Hell, The whiplash is still a good healing option despite the nerf directly aimed at healing. If your health is critical, then the whiplash is still fast enough that you can get an emergency heal off before the hard damage completely overtakes your health bar. It's not spamable, and not a good idea in a lot of situations. But being able to take 1 hit is still better than being able to take none.
+
+&#x200B;
+
+Outside of small number tweaks, if the Whiplash does get buffed, I'd rather it be done by putting more whiplash points throughout the maps. You don't take hard damage while grappling towards a whiplash point. And the arenas where they are used are really fun.
+        Agree with your last point. 5-1 hook room was fucking awesome.
+        Definitely agree with putting grapple points, especially in the larger arenas like in 6-1's last room.
+    The fun part about the whiplash is still there, you can move around enemies, can't you?
+
+Reality is people seem to really miss the cheesiest part about the whiplash which is to pick weak enemies and heal from them, what *fun* aspect there is about that? None, it was simply to keep taking hits and keep using the hook
+
+If you think the game is less fun, not without it (because it's still there) but without its healing capabilities, then i am truly disappointed in you, it's as if you never had fun up until unlocking it and then loved the game when it just got laughably easier
+
+And i love the solution, it's straight fucking forward 
+
+I think people are trying to mask the *easy* with the *fun* i have more fun using a mix of the movement options than using just one busted one that you claim it's more fun but it was just easier to use, why? Because then it gets *boring* to use the same tool over and over again
+        I'm not sure if this is just memeing or stupidity. Yes, the game is less fun for me, so sorry that this disappointed you random Redditor. The idea that you can't understand or would grandstand so much about is incredibly dumb. It's been a while since I've seen such complaints about the perception they have about a game. Reminds me of people telling others in Elden Ring the "correct" way of playing the game. 
+
+But this is the same group comparing fun to difficulty level, so what should I expect. Which is hilarious when I (like I imagine most people on this sub) P ranked all the content available before Whiplash ever came out.
+    If it were up to me, I wouldn't nerf it at all.
+
+If I had no choice, I'd put it on a cool down. No cooldowns when used on Nodes tho to encourage it to be used for more movement.
+I gotta say, I never used whiplash much prior to the update, as I found it quite clunky and restrictive, it broke the flow of combat for me. Might be just me though, maybe I didn't get enough personal experience with it, but I still don't find it in any way necessary. 
+
+And well, with the update and amount of posts about "nerfs bad" I also learned that many people apparently preferred standing in the spot with shotgun and hooking each enemy one by one, rather than using all the guns and movement options game offers you. 
+
+Are people that bad? Do they actually play this game just to cheese it with a single mechanic? I also heard that the hard damage isn't there if you play on lower difficulties, so why the whining? Higher difficulty demands efforts.
+Why cant the whiplash just have a cooldown combined with the no healing on whiplashed enemies? 3-5 seconds seems completely fair. Better than what we have now anyway. This system just seems needlessly complicated
+I've heard a concept of the grappled enemies giving less blood around here, which I found cool.
+
+
+But seriously, Hakita, what the hell are you doing?
+    Hakita literally addresses that argument in the post. It solves the issue of the whiplash being used for easy heals, but not the issue of it being spammed for easy movement options. If it just made enemies drop less blood, you could still use the whiplash to bring enemies to you for easy kills, and stay in the air by spamming it on small enemies.
+Even tho I disliked these changes when announced, once I tried them I enjoyed the whiplash a lot more. Now I can't just spam shotgun+whiplash (I didn't before but I like the feeling of being UNABLE instead of being a choice) and don't have such easy max heals.
+
+The only problem I can find is that the whiplash is a "win more" mechanic: If you are full health and ULTRAKILL rank, it has 0 drawback, and when you start losing HP and ranks the whiplash is a punishment/almost unviable mechanic. I fell that the threshold from which you start taking hard damage should be different.
+
+My idea: When throwing long hooks let it be a higher punishment (maybe more than current imo), but for really short hooks there should be close to none, this way you encourage dashing and slide jumping for long distances (since its not too precise of a movement) and for precise close-to-enemies movement you can use the arm (to guarantee a heal after a long slide jump or other movement tech)
+
+P.D.: I play for P ranks dunno how this affects casual players sry
+[another part of the message that isnt in the post](https://prnt.sc/LcrSyxrN85Gz)  
+
+
+[whiplash hard dmg code](https://prnt.sc/0S6zbniXbnT4)
+i don’t know who the hell hakita is watching that he thinks people literally just use the whiplash to move but that’s probably the biggest cop out i’ve ever heard to justify a nerf. he’s right, the problem with the whiplash is easy heals. but there is none of this stuff about people relying entirely on the whiplash for movement. and if there is, then that should be on them for gimping their experience and not the entire playerbase as a whole. if some dude wants to be boring and constantly whiplash to malicious faces, that’s no different to aimlessly lobbing grenades through a doorway in quake 1. let him be boring. don’t punish everyone who whiplashes in moderation for using a game mechanic.
+
+if you’re going to nerf the whiplash, make hooked enemies not heal, or don’t nerf it at all. hell of a way to thin the momentum of a popular game.
+    I think all he's trying to say is, despite him seeing one instance of this very peculiar case, even if it is an outlier for now, he doesn't want the grappling hook to outshine the game's dozen other ways to move around and solve problems. The game tries very hard to make you want to pull off stunts by rewarding weapon-switching and style combos - if the grappling hook is *the* best way to accomplish a task, something has gone wrong in its design
+
+I get what you're saying regarding "let them be boring" but if I've been reading this situation right, the grappling hook is the *only* thing in this game that creates such a situation. It deserves a second, third, fourth look, until it's a *viable* tool, rather than a *replacement* tool. Ultrakill doesn't usually just let you be boring, as far as I can tell, so the hook shouldn't either as to follow the rest of the game's design
+    In difficulties below violent the whiplash is practically unchanged. If you want to use cheesy tactics just play at a lower difficulty. How did everyone play before the whiplash was introduced?
+Eh I dont need the whiplash it just made healing easier and convenient along with traversing arenas I do agree that the penalty for using it is too high though
+I can still use the whiplash just fine and I rarely get a style rank above S, I think yall just have a skill issue
+I kinda hated the update at first but then I realized something... This isn't hate, this is love. 
+
+After I stopped using whiplash, I thought to myself "Holy fuck... this is so satisfying".
+Within a day I started using different movement mechanics and completely new strats for different enemies. I realized that I was abusing whiplash so much, I actually forgot what the game was like before it was added.
+
+You'd have to be a clown to think that grappling onto a Mal Face, tanking all of its damage , killing it within seconds and then leaving with full HP, was a good design. 
+
+Now you actually have to think about using whiplash. It's not a "Press R to heal" panic button anymore. It's a well designed movement tool...
+
+"Hurr durr the OP mechanic that takes out 90% of the challenge and fun, got nerfed. Literally unplayable!"
+
+The only response those crybabies deserve is the good ol' "Skill issue".
+[removed]
+this dude is my favorite game dev rn fr
+As someone that didn’t get Whiplash until all of act 2 dropped…
+
+What’s the issue. Like, legit. What’s the issue. I’ve been struggling more to get into a good rhythm with the style rework than with the grappling hook. In fact, unless I’m advancing on an enemy charging an attack for a long time, I don’t use the hook! My normal movement is much more erratic and better suited towards evasion than this thing that pulls me in a straight line at sub-dash jump or slam storage slide speeds. Its enemy pull seems mostly useful for accruing style and dropping problematic lightweight enemies in pits, and its pull towards a large enemy mostly seems like a way to punish most large enemies’ longer charge up abilities from mid range.
+
+Which is a good enough niche, honestly. It also is useful for correcting position slightly on larger enemies, such as when you wall jump off of a malicious face.
+
+It being a drive thru to go order of healing seems dumb to me.
+I just want hard damaged to be reworked, make it go away in a different way
+    I think the hard damage could be incremental. i.e, 25%, then 50%, than 100% of damage taken, or 50% first. That way it still has healing potential, it's just unreliable, and a better idea to do something else for healing.
+My man got pissed that some players were making his game "too easy" and decided that the correct course of action is to deliberately mess with their source of fun. Like come on man, let them be. I know that overcoming a "challenge" is rewarding and all that, but so is flying around an arena like a madman while simultaneously blowing shit up around you.
+The thing is the rest of the update is so fucking good, the levels, the music, even the style ranking change was nice. He just had to do a little trolling, didnt he. IDK, I am kinda tired of this whole debacle, I'd rather go play some more lol
+*ULTRABASED*
+I genuinely like the changes. I think it's good to encourage movement tech instead of just grappling. Though grappling is still really good as long as you don't just facetank everything
+    Exactly. All the people complaining that grappling is useless forget that it's still the same exact mechanic as long as you're at full health or style. It's always been a powerful mechanic, now you just have to be careful when you use it.
+forgor what a cooldown is
+People used the whiplash? /s
+
+But like seriously I never used it because swapping between three arms was hard on my brain for some reason but sliding and hopping at mach 2 was completely natural. Eh.
+Hatika based as always
+Due to the whiplaah nerf I was able to remember how to git gud at the game and stopped spamming the whiplash, and so I was able to finally P-rank V-2, Minos Prime and Gabriel, so thank you Hakita, very cool
+hakita is based
+Chad hakita
+git gud lol
+In all of the changes made, the one that bothered me most was the fact that when I wasn’t using whiplash, instead of trying to heal I would camp or wait for my railgun to recharge. Nerfing the whiplash just made me move less in general, at least in my play style. I was moving and jumping a lot before the update and now I just sit still a lot.
+Glad Hakita doesn't listen to slobs.
+So the problem is that grappling to enemies in an emergency is too easy?  
+
+
+**How about making a 0.5 second "tug" animation when the spear hits an enemy before grappling to it** if your health is under 100% or the style meter is under SS or something?  
+
+
+I think it doesn't punish having fun with it but it's not a good idea to panic use and dashing is a better option most of the time unless it's very far away
+Might be dumb but maybe the threshold for the hard damage could be 50 hp? That way you can still heal a little bit but there’s still a risk to spamming whiplash.
+What if the whiplash didn't give any hard damage on the first use, but using it too many times in a short period of time built up hard damage?
+
+That way the whiplash could still be used to move towards enemies to kill them (like maurices or virtues) or for a quick heal on a smaller enemy (like filth or strays) but spamming it over and over without any other movement would be disastrous.
+
+As it is right now, people are either overusing it and not caring about the hard damage, or not using it at all because they care too much about the hard damage.
+
+The whiplash is fun, using it for it's intended purpose and using it with the other movement shouldn't have any downsides.
+Me when I never really used whiplash in the first place
+What happened to the whiplash?
+    Grappling an enemy (notably, not hitting an item, or a grapple point, or just launching it without hitting anything) will inflict some amount of "hard damage" to you. "Hard damage" is the term for your maximum HP temporarily being reduced, like when you take a bunch of damage in a short time, or get hit by one of Minos's black holes.
+
+The Whiplash can only do hard damage up to your current HP value, meaning it won't reduce your current HP, just your ability to heal.
+
+Hard damage goes away faster the higher your Style rank is, and will vanish completely if you're at or hit Ultrakill rank.
+
+The idea is to prevent the Whiplash from being used for basically all movement and healing, by punishing you from using it to try and grab an enemy for a quick sip while at low HP and low style. If you play stylishly, it won't hinder you as much.
+        So the basically just put hard damage on the whiplash
+Like seriously, hakita Is such a nice person and he made a revolutionary game, why are people such braindead assholes to him?
+So long as they look at the values it's all cool with me. I'd still prefer it just didn't let you heal of the whiplashed enemy because no new player would ever realize wtf hard damage is, but it's not the end of the world.
+Having only recently played the update, I realized just how reliant I was on the whiplash to get around the place.
+
+As a result, I'm trying to practice *not* using it too often, and only using it when I'm sitting at a comfortably high amount of health. It's... a *bit* of a challenge, but I'm definitely getting the hang of it again. 
+
+And I'm glad Hakita is sticking with it, because if this nerf was rolled back, then people would just get complacent with the game becoming too easy. Granted, yes, the hard damage *may* be a bit too hard at some times, and the rebalance *might* need a rebalancing, but there's no need for the harsh words towards Hakita.
+Nerfing the whiplash was definitely a good choice. Makes much more room needed for the other ground mechanics hakita added.
+My main issue is how prevalent explosions/aoe attacks and concussions are in the newer levels. Feels very much like if you get hit by one of those and launched away, gg just hit the last checkpoint button because using the whiplash to get back into the fight means you can't heal for a while. Also feels like it's difficult to get to Ultrakill style rank with the new update, which is odd because I felt like I was switching weapons a good amount.
+
+Idk, just sorta feels like a bit of kit got removed. I avoid using the whiplash most of the time now because, gotta be real, if I'm in a fight I'm probably below max health, and the health burn makes it feel not worth using.
+    The ranks were made harder to achieve, so yeah now ultrakill rank is a rare occurrence. Even if you are swapping fine its hard to get to ultrakill
+Screw whiplash 
+ We want sex update hakita !!
+I dont know why people want this removed so badly since you can just turn off hard damage in the settings
+Let's gooo Hakita ruined the whiplash. But no seriously the whiplash needed to be destroyed. Game was too ez.
+yeah it’s expected that whiplash won’t be returned to the original version, but i would like a different rework because it just doesn’t feel good to use anymore, like it punishes you
+Am I frustrated? Yes
+
+Do I, however, understand why? Also yes.
+
+Tbh if it gets to a point where I can’t take it, theres always mods. Thank god the game is fun nonetheless
+Honestly as someone who started really overusing the OG whiplash, I find the new one to be fun. It adds an extra challenge, especially in Cybergrind since I was constantly using it to get onto Malicious Face's and get a bunch of enemies maurice'd. Now I gotta be more strategic about it, and there's a new insensitive to rack up those style points since that mitigates hard damage.
+
+Besides, they just gave me a rocket launcher that can bend time itself. I will gladly take a more challenging whiplash if it means I get a weapon that let's me take joyrides on missiles.
+Honest to God whiplash was a crutch for bad players to easy heal, people didn't even press wasd anymore. It was very needed, and if you are actually good at the videogame even if you do use the whiplash the hard damage won't be very punishing, or even better, if you have high style it's basically nullified. You'll need to adapt
+I can deal with it just tone it down a bit the main thing I used it for is drones and my laziness it was to the point where I died at wave 5 on cyber
+I would be fine if Hakita never reverted this change. The only conceivable compromise I could think is if there was a buffer for the whiplash that recovered over time, which it burnt through first before your own life. Then it would allow for sporadic use as a recovery tool, still allow you to spam it if you had the health. But objectively speaking it was so easy to just hammer it pre nerf
+Whiplash is kinda useless right now. I'm ok with game punishing you for overreliance of it, like adding a cooldown to it or giving player hard damage on 2-4th consequtive use, but in a state it is now it's just easien not to use it al all
+Id like to imagine to keep the nerfs the same but have it so it calculates damage based on distance; like Closer=Less hard damage and vice versa.
+
+ but i do understand if haika keeps it the same as it is a way to get the player to use different movement techniques
+Really don’t understand the whiplash change hate. Very glad to hear hakita is sticking to the change
+I called this thing staying nerfed, I knew it
+\> sometimes people rely entirely on the whiplash for all movement during combat
+
+So that's not okay but instakilling every boss in the game by punching a coin into them is?
+doesnt the tutorial when you get the wipslash say it? i remember hakita saying he would  add a message in the tutorial talking about the hard damage
+    when wrath and heresy dropped, i replayed all of act 2 and i can confirm, the whiplash tutorial does tell you about hard damage.
+        Ngl, I think I ignored it when I did the same because I didn't expect a change
+        But when I replayed 4-4 there was nothing about hard damage
+            i replayed the level real quick because i doubted myself, but it does say “WHIPLASH: Builds up HARD DAMAGE when used on ENEMIES. CANNOT REDUCE HP, but risky to use when at low health.”
+    It says it, and if you have missing HP from the V2 fight, it becomes apparent what it comes from.
+
+Though maybe Hakita could hard code the landing from that fight to reduce you to at most X health, so everyone gets that experience.
+    Yes, as I mentioned I saw that messages have been added, but my point is that I think there is still a disconnect in logic between using the whiplash and losing max HP that doesn't quite communicate itself well *through gameplay*.
+You'd absolutely realize this in the whiplash demonstration after 4-4, because you won't have an Ultrakill rank and you'll likely be damaged
+Yeah I thought it was because of the water lol
+I’m assuming it’s to more heavily discourage face tanking; instead of just rushing at the nearest enemy in a straight line upon taking damage, it encourages darting around more to build up lost style and then going for a kill once hard damage dissipates, as opposed to rushing in repeatedly and ending up with a health bar that’s 70% greyed out.
+Much like the general changes to how style works, the new whiplash also encourages playing carefully after damage is taken so that it can be used without the hard damage being much of a concern.
+
+Face tanking and rushing straight at enemies with a shotgun out is certainly fun, and I don’t at all blame people who prefer that, but I think that overall the recent balance changes are quite nice.
+I think it acts more as a safeguard rather than just outright accessing healing. Like if you are suddenly hurt at a high rank, it is then more reliable to use the whiplash for healing since the hard damage goes away quicker. The cost here obviously being that you  lose some of that style
+you are not supposed to have easy access to healing when you are playing badly and getting hit, you are supposed to have easy access to healing when you're hitting a good stylish flow and get tagged
+Yeah, it feels like fans are just mad that they have to git gud
+    Not being able to tell people to stop being bad and git gud is a detriment to all games.
+
+Literally just babys that can't adapt or learn the game.
+
+The solution is there, lower the difficulty if you suck.
+        I get when people whine with like, fromsoft games because it has set difficulty and if you don’t know how to play then you are fucked, but ultrakill? You literally have to select the difficulty you want to play on every time you play. It’s ridiculous that people can’t handle a balancing solution that will make the game objectively better because, as hakita said, it will force players to use the other movement more. Sorta reminds me of the strict ammo cap on weapons in doom eternal, where using the same weapons in every encounter could land you in trouble if you didn’t learn how to switch it up and play things the fun way
+            Literally not a single person in the universe cares about the whiplash nerf because of difficulty, they care about it because they want to use the funny graplling hook move and zoom around the map like spiderman.
+                I mean you can still do it if you're good enough.
+                    If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+                        Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+                            Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+                Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+        Exactly! “Gitting gud” is the worst thing in gaming communities. A small tip about how the game works would be better advice.
+        People downvoted you because they couldn't beat the game and had to air their frustrations on you. Classic noobs.
+you mention the limits of all the other mid-air movement options, now whiplash just has a limit of health cap. it didnt have a limit before
+same. i use it for movement or to get myself back into the fight, not all this other stuff. the whiplash does what it needs to do; it's a movement arm. it's not the knuckleblaster.
+Agreed. I did definitely overuse it for healing at one point but tried to stop doing that after I first heard about these changes that were coming a while ago cuz I realized that the whiplash being as good as it is did simplify the movement gameplay in a bad way, and know I use it almost exclusively for malicious face shotgun parties and virtues. Also mindflayers, common theme with the whiplash being good against tough flying enemies it seems
+The only thing I find a problem to do with the new whiplash is fight mindflayers, because virtues can’t hit me and malicious faces can but I can just parry or dash when I’m going to them.
+What is a virtue?
+    flying angle balls
+I don’t mind that it got nerfed I mind how the nerf was handled, it punishes you heavily if you grapple and enemy at all, maintaining high scores is tricky to say the least so you can alleviate the hard damage, I really only use it now to pull myself to the hook shot orbs, but other than that, it’s way to risky to use during combat unless it’s not a lot of enemies at all.
+    yeahh, same. I'm fine with the idea of it doing hard damage, but the way I use the whiplash (closing the gap on big enemies while avoiding the smaller ones) usually ends up on me getting hit by malicious faces, once. during their volley. and then the damage dealt gives it back.
+
+that's basically all I use the whiplash for, close the gap, deal boatloads of damage, repeat. I get if hakita doesn't like the way I play, but at least either increase the time before the hard damage comes, (if you drag in an enemy super close to you it doesn't actually do *any* hard damage) or slow the rate at which it's gained. (maybe to about, 1/3 gone after crossing the entire cybergrind arena)
+        You can dash during grapple to avoid malicious face projectile
+You immediately offset the risk if you didn't die during the grapple though. That was the problem, and you seldom outright died, meaning that it became the best thing to continuously do.
+Fucking yes!
+You still have the slide jump, the slide, the jump, the dash, the jump dash
+
+Edit: didn't see the other pictures, my bad
+I use it, and then use groundslam to halt all my momentum.
+
+
+
+
+Of course, I used to be able to fling myself off the map and then grapple back, have some fun, but I guess that's no longer an option :)
+    Grappling back onto the map is still gonna be something I do because necessity
+        Yeah, same here, but you aren't gonna catch me flinging myself around for fun anymore because I'm now actively punished for it.
+    A fun trick is if you time the grapple and immediately let go you don't take much hard damage and it will still fling you.
+Well, some enemies lead their shots based on momentum, and there are no shortage of ways to cancel momentum…
+Same. This is the main reason why I hate this nerf. 
+
+I just can't find a situation where I'd EVER want to use the Whiplash now. It sucks. 
+
+I can't use it for any sort of healing (unless I'm already at high style)
+
+I can't use it to zoom in and squash Maurices, because I'll easily get hit, lowering my style and setting up the hard damage.
+
+Mind flayer is a nightmare to fight now because the whiplash just sucks.
+Bro if you are playing well the nerf is nullified
+    Well it just saddens me that if I wanna do the funny brrr enemy gets pulled into buzzsaw my hp gets neutered like a dog two days after being bought. This change is good for most people who crutch on it tho.
+Like for real i don't get it, before this update violent felt fucking slugfest, it looked like the only possibility to have a challenge was to either actively handicap ourselves or wait for brutal and ultrakill must die to come out. Finally violent is actually hard Jesus christ, and now people that aren't good enough for violent that before survived only thanks to the whiplash and the easy pro boost spam are in discomfort... Brother just play standard or lenient its fine, I genuinely respect anyone that plays on their difficulty even if it was harmless than people that used to play violent only thanks to cheap tactics that now cry to hakita to give the cheap tactics back. Genuinely bro try out standard or lenient if violent isn't fun anymore because to be honest it's fine Violent was supposed to be hard and now it is, there's no shame in playing standard lenient or even harmless. People that complain about the whiplash are litterally just people that play violent while not able to. 
+
+TL:DR
+Feel the whiplash nerf was too punishing? Maybe can't get p ranks anymore? Or enemies became too smart? Try out standard or lenient and enjoy your game instead of trying to lower the skill required to play violent.
+    Agreed.
+From all these posts it's easy to tell which people weren't playing before the greed update.
+    played before and after greed, whiplash change is fine and ive already adapted to it
+    It's also easy to tell who didn't play much after the greed drop
+wasnt this nerf made for the actuall oposite reason of this? so you actually have to go to the enemy for the blood instead of running away and using the wipslash for easy heal?
+    that was one of the previously stated reasons, with the image in the post explaining the other one. anyone who did a significant amount of cybergrinding with the old whiplash is almost certainly aware of how easy it was to just grapple non-stop instead of doing literally anything else. 
+
+I actually had significant difficulties against virtues, malfaces and mind flayers and pretty much had to re-learn how to deal with them when playing the new levels because you can no longer just turn your brain off and repeatedly press R when you see these enemies.
+See. Here's the thing though.
+
+The Whiplash is still completely viable. It was nerfed, yes. But the only thing that was nerfed is taking hard damage if not at full HP. If you're at full HP, then litterally nothing's changed. And as long as you're above 60-70 HP, it's still pretty safe to use. The sheer positioning power means that; if used well; that missing HP won't matter because you avoided all the hits you'd take if you were where you started. 
+
+&#x200B;
+
+Hell, The whiplash is still a good healing option despite the nerf directly aimed at healing. If your health is critical, then the whiplash is still fast enough that you can get an emergency heal off before the hard damage completely overtakes your health bar. It's not spamable, and not a good idea in a lot of situations. But being able to take 1 hit is still better than being able to take none.
+
+&#x200B;
+
+Outside of small number tweaks, if the Whiplash does get buffed, I'd rather it be done by putting more whiplash points throughout the maps. You don't take hard damage while grappling towards a whiplash point. And the arenas where they are used are really fun.
+    Agree with your last point. 5-1 hook room was fucking awesome.
+    Definitely agree with putting grapple points, especially in the larger arenas like in 6-1's last room.
+The fun part about the whiplash is still there, you can move around enemies, can't you?
+
+Reality is people seem to really miss the cheesiest part about the whiplash which is to pick weak enemies and heal from them, what *fun* aspect there is about that? None, it was simply to keep taking hits and keep using the hook
+
+If you think the game is less fun, not without it (because it's still there) but without its healing capabilities, then i am truly disappointed in you, it's as if you never had fun up until unlocking it and then loved the game when it just got laughably easier
+
+And i love the solution, it's straight fucking forward 
+
+I think people are trying to mask the *easy* with the *fun* i have more fun using a mix of the movement options than using just one busted one that you claim it's more fun but it was just easier to use, why? Because then it gets *boring* to use the same tool over and over again
+    I'm not sure if this is just memeing or stupidity. Yes, the game is less fun for me, so sorry that this disappointed you random Redditor. The idea that you can't understand or would grandstand so much about is incredibly dumb. It's been a while since I've seen such complaints about the perception they have about a game. Reminds me of people telling others in Elden Ring the "correct" way of playing the game. 
+
+But this is the same group comparing fun to difficulty level, so what should I expect. Which is hilarious when I (like I imagine most people on this sub) P ranked all the content available before Whiplash ever came out.
+If it were up to me, I wouldn't nerf it at all.
+
+If I had no choice, I'd put it on a cool down. No cooldowns when used on Nodes tho to encourage it to be used for more movement.
+Hakita literally addresses that argument in the post. It solves the issue of the whiplash being used for easy heals, but not the issue of it being spammed for easy movement options. If it just made enemies drop less blood, you could still use the whiplash to bring enemies to you for easy kills, and stay in the air by spamming it on small enemies.
+I think all he's trying to say is, despite him seeing one instance of this very peculiar case, even if it is an outlier for now, he doesn't want the grappling hook to outshine the game's dozen other ways to move around and solve problems. The game tries very hard to make you want to pull off stunts by rewarding weapon-switching and style combos - if the grappling hook is *the* best way to accomplish a task, something has gone wrong in its design
+
+I get what you're saying regarding "let them be boring" but if I've been reading this situation right, the grappling hook is the *only* thing in this game that creates such a situation. It deserves a second, third, fourth look, until it's a *viable* tool, rather than a *replacement* tool. Ultrakill doesn't usually just let you be boring, as far as I can tell, so the hook shouldn't either as to follow the rest of the game's design
+In difficulties below violent the whiplash is practically unchanged. If you want to use cheesy tactics just play at a lower difficulty. How did everyone play before the whiplash was introduced?
+I think the hard damage could be incremental. i.e, 25%, then 50%, than 100% of damage taken, or 50% first. That way it still has healing potential, it's just unreliable, and a better idea to do something else for healing.
+Exactly. All the people complaining that grappling is useless forget that it's still the same exact mechanic as long as you're at full health or style. It's always been a powerful mechanic, now you just have to be careful when you use it.
+Grappling an enemy (notably, not hitting an item, or a grapple point, or just launching it without hitting anything) will inflict some amount of "hard damage" to you. "Hard damage" is the term for your maximum HP temporarily being reduced, like when you take a bunch of damage in a short time, or get hit by one of Minos's black holes.
+
+The Whiplash can only do hard damage up to your current HP value, meaning it won't reduce your current HP, just your ability to heal.
+
+Hard damage goes away faster the higher your Style rank is, and will vanish completely if you're at or hit Ultrakill rank.
+
+The idea is to prevent the Whiplash from being used for basically all movement and healing, by punishing you from using it to try and grab an enemy for a quick sip while at low HP and low style. If you play stylishly, it won't hinder you as much.
+    So the basically just put hard damage on the whiplash
+The ranks were made harder to achieve, so yeah now ultrakill rank is a rare occurrence. Even if you are swapping fine its hard to get to ultrakill
+when wrath and heresy dropped, i replayed all of act 2 and i can confirm, the whiplash tutorial does tell you about hard damage.
+    Ngl, I think I ignored it when I did the same because I didn't expect a change
+    But when I replayed 4-4 there was nothing about hard damage
+        i replayed the level real quick because i doubted myself, but it does say “WHIPLASH: Builds up HARD DAMAGE when used on ENEMIES. CANNOT REDUCE HP, but risky to use when at low health.”
+It says it, and if you have missing HP from the V2 fight, it becomes apparent what it comes from.
+
+Though maybe Hakita could hard code the landing from that fight to reduce you to at most X health, so everyone gets that experience.
+Yes, as I mentioned I saw that messages have been added, but my point is that I think there is still a disconnect in logic between using the whiplash and losing max HP that doesn't quite communicate itself well *through gameplay*.
+Not being able to tell people to stop being bad and git gud is a detriment to all games.
+
+Literally just babys that can't adapt or learn the game.
+
+The solution is there, lower the difficulty if you suck.
+    I get when people whine with like, fromsoft games because it has set difficulty and if you don’t know how to play then you are fucked, but ultrakill? You literally have to select the difficulty you want to play on every time you play. It’s ridiculous that people can’t handle a balancing solution that will make the game objectively better because, as hakita said, it will force players to use the other movement more. Sorta reminds me of the strict ammo cap on weapons in doom eternal, where using the same weapons in every encounter could land you in trouble if you didn’t learn how to switch it up and play things the fun way
+        Literally not a single person in the universe cares about the whiplash nerf because of difficulty, they care about it because they want to use the funny graplling hook move and zoom around the map like spiderman.
+            I mean you can still do it if you're good enough.
+                If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+                    Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+                        Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+            Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+    Exactly! “Gitting gud” is the worst thing in gaming communities. A small tip about how the game works would be better advice.
+    People downvoted you because they couldn't beat the game and had to air their frustrations on you. Classic noobs.
+flying angle balls
+yeahh, same. I'm fine with the idea of it doing hard damage, but the way I use the whiplash (closing the gap on big enemies while avoiding the smaller ones) usually ends up on me getting hit by malicious faces, once. during their volley. and then the damage dealt gives it back.
+
+that's basically all I use the whiplash for, close the gap, deal boatloads of damage, repeat. I get if hakita doesn't like the way I play, but at least either increase the time before the hard damage comes, (if you drag in an enemy super close to you it doesn't actually do *any* hard damage) or slow the rate at which it's gained. (maybe to about, 1/3 gone after crossing the entire cybergrind arena)
+    You can dash during grapple to avoid malicious face projectile
+Grappling back onto the map is still gonna be something I do because necessity
+    Yeah, same here, but you aren't gonna catch me flinging myself around for fun anymore because I'm now actively punished for it.
+A fun trick is if you time the grapple and immediately let go you don't take much hard damage and it will still fling you.
+Well it just saddens me that if I wanna do the funny brrr enemy gets pulled into buzzsaw my hp gets neutered like a dog two days after being bought. This change is good for most people who crutch on it tho.
+Agreed.
+played before and after greed, whiplash change is fine and ive already adapted to it
+It's also easy to tell who didn't play much after the greed drop
+that was one of the previously stated reasons, with the image in the post explaining the other one. anyone who did a significant amount of cybergrinding with the old whiplash is almost certainly aware of how easy it was to just grapple non-stop instead of doing literally anything else. 
+
+I actually had significant difficulties against virtues, malfaces and mind flayers and pretty much had to re-learn how to deal with them when playing the new levels because you can no longer just turn your brain off and repeatedly press R when you see these enemies.
+Agree with your last point. 5-1 hook room was fucking awesome.
+Definitely agree with putting grapple points, especially in the larger arenas like in 6-1's last room.
+I'm not sure if this is just memeing or stupidity. Yes, the game is less fun for me, so sorry that this disappointed you random Redditor. The idea that you can't understand or would grandstand so much about is incredibly dumb. It's been a while since I've seen such complaints about the perception they have about a game. Reminds me of people telling others in Elden Ring the "correct" way of playing the game. 
+
+But this is the same group comparing fun to difficulty level, so what should I expect. Which is hilarious when I (like I imagine most people on this sub) P ranked all the content available before Whiplash ever came out.
+So the basically just put hard damage on the whiplash
+Ngl, I think I ignored it when I did the same because I didn't expect a change
+But when I replayed 4-4 there was nothing about hard damage
+    i replayed the level real quick because i doubted myself, but it does say “WHIPLASH: Builds up HARD DAMAGE when used on ENEMIES. CANNOT REDUCE HP, but risky to use when at low health.”
+I get when people whine with like, fromsoft games because it has set difficulty and if you don’t know how to play then you are fucked, but ultrakill? You literally have to select the difficulty you want to play on every time you play. It’s ridiculous that people can’t handle a balancing solution that will make the game objectively better because, as hakita said, it will force players to use the other movement more. Sorta reminds me of the strict ammo cap on weapons in doom eternal, where using the same weapons in every encounter could land you in trouble if you didn’t learn how to switch it up and play things the fun way
+    Literally not a single person in the universe cares about the whiplash nerf because of difficulty, they care about it because they want to use the funny graplling hook move and zoom around the map like spiderman.
+        I mean you can still do it if you're good enough.
+            If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+                Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+                    Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+        Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+Exactly! “Gitting gud” is the worst thing in gaming communities. A small tip about how the game works would be better advice.
+People downvoted you because they couldn't beat the game and had to air their frustrations on you. Classic noobs.
+You can dash during grapple to avoid malicious face projectile
+Yeah, same here, but you aren't gonna catch me flinging myself around for fun anymore because I'm now actively punished for it.
+i replayed the level real quick because i doubted myself, but it does say “WHIPLASH: Builds up HARD DAMAGE when used on ENEMIES. CANNOT REDUCE HP, but risky to use when at low health.”
+Literally not a single person in the universe cares about the whiplash nerf because of difficulty, they care about it because they want to use the funny graplling hook move and zoom around the map like spiderman.
+    I mean you can still do it if you're good enough.
+        If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+            Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+                Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+    Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+I mean you can still do it if you're good enough.
+    If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+        Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+            Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+Indeed. If I've P-ranked every level I kinda should get to zoom around and have some fun.
+If your style meter is below S rank you'll be unable to heal for 10 seconds, sometimes more. Sorry but I can't be bothered if I can only play as Spiderman if I have to check my health and my style meter every time I want to use the grappling hook, my eyes can only look at so many things at once. I'd rather just play Ultrakill normally, forget that whiplash exists and just throw coins at people.
+    Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+        Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+Well that *was* the purpose of nerfing said whiplash so I guess sit worked.
+    Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
+Yeah, except most people who used it like that will just not use it at all, and at that point you might as well remove the thing.
