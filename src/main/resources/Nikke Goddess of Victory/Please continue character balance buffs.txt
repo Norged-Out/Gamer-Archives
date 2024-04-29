@@ -1,0 +1,277 @@
+[[Please continue character balance buffs]]
+
+
+I think it's been 8 months since the last time they buffed nikkes like Guillotine. But there are still so many nikkes that could use a lot of love. 
+
+Almost a third of the SSR nikkes have no viable gameplay use, and anyone who invests in them is crippling their own progress. It doesn't have to be meta-defining overpowered buffs, but it wouldn't hurt to give people a reason to give a second look at some nikkes.
+
+Case in point, Isabel is one of my favorite characters but even in the latest shotgun favored solo raid of her element, she is hardly a competitive choice. My friend who has a C5 Isabel cries every night from shame. No one deserves that.
+
+Not to mention, I can't justify buying a lot of costumes and battlepasses simply because I know I will never use or see that nikke in combat. Please give us more reasons to love and use our nikkes!
+
+
+I second this. Those nikkes that absolutely see 0 use are much easier to buff: just up the numbers or extend duration of buffs etc.
+
+Like you increase Brid's numbers by 50% she will still not be meta, but Brid fans won't be actively sabotaging their runs
+    Brid was one of my 5 to break the 160 wall and I have never used her in story, pvp or events. It's sad because I actually like her and her bonding story, but she will forever remain with no gear and at 1/1/1 seemingly forever. I don't ever recall seeing her burst animation ever.,
+
+Poor Brid.
+I think some mechanics should be buffed first.
+
+If crit was more valuable, a bunch of the lower tier units get buffed through that.
+Same with defense down, if they up defense on enemies and nerf their flat hp to balance it out, thos characters also become much better.
+
+Most of the 40s burst 1 and 2 cd characters should simply by brought down to 20s, why does liter with the most op B1 burst have 20s cd, but Milk has 40s cd, even with 20s Milk would still not be as good as Liter, but she'd be at least A tier I think as it's actually a solid buff she gives.
+
+SMG's need to be way better too, not sure how, maybe hitrate, but the weapon class just plainly sucks.
+
+Some I think just need number buffs like Vesti, she should be a mini scarlet, like how Maxwell is a mini Snow white, she's clearly designed for aoe clearing, make her better at this to be around Maxwell level of usefullness, she's supposed to be the strongest Nikke on the best Elysion squad.
+
+Then there's the ones like Isabel ... just rework those characters, there ain't no buffing a kit like that, it takes was to long to get her going, for a pilgrim this is just sad.
+
+Like with crit rate, defense down and smg's buffed, Signal would jump up a tier or 2 easily.
+Epinel with smg and crit buff would be A if not S tier.
+Novel has def down and smg, etc etc etc.
+
+Just making simple overarcing mechanics better would already be a great start to get a bunch of characters out of lower tiers.
+What? You guys are not satisfied with the astonishing ***+3,79% Hit Rate*** Miranda now give to ALL the team\*? Sheesh, what an ungrateful bunch!
+
+(\*>!only for SMG!<)
+
+&#x200B;
+
+But seriously, yeah, a lot of thing need to be done for the older units. And even before speaking of units, please rework the SMG. This weapon is just way too weak, any DPS with this trash will be DoA unless her kit is Red Hood Tier.
+
+SMG have the same range problem than Shotgun, but at least Shotgun can do huge damage in close range. SMG doesn't even have this luxury. It's sad because since her rework Soline has a good kit, but her weapon is so trash it's just impossible to use.
+
+And tbh, having a weapon that useless is just hurting the game. It concerns not only old units, but also future ones. I can understand if it was a "nerf weapon" to nerf only OP unit like Liter, but the fact is that other NIKKEs have this trash and it's not helping.
+
+And even for Supporter, this weapon has nothing. No Range, no Burst Gen, no AoE...
+
+Well, this weapon needs a rework, period.
+
+&#x200B;
+
+>Case in point, Isabel is one of my favorite characters but even in the latest shotgun favored solo raid of her element, she is hardly a competitive choice.
+
+Yeah, Isabel is even particularly bad with Maid Privaty because you really don't want to reduce the FBT with M.Privaty. Heck, some top rank even Burst with Modernia with M.Privaty because the DPS Privaty gains is better than the DPS Modernia loses.
+
+Isabel mechanic - so same for Vesti / Mihara - needs a buff. To me, the problem of these units is quite clear : they reduce the FBT, but didn't offer much in exchange.
+
+We must keep in mind that shortening the FBT is really bad. Not only you lose damages with your team, but you also extend the wait between 2 FBT. I mean, even if you end the FBT faster, you still have to wait for the other Bursts to be ready.
+
+So the solution is quite obvious: make the exchange worth it.
+
+I propose a simple thing: give Isabel, Vesti and Mihara a natural CDR. Like -10s. You may think that -10s CDR is to big, but with a FBT shorten by 5s, a -10s CDR is the equivalent of a -5s CDR in a normal condition. It's weaker than Dolla and S.Helm CDR.
+
+Anyway, this new CDR will resolve all the issue and gave more identity to this mechanic. Not only you won't have any issue with Bursting regularly, but you won't have to put a CDR unit in the team, making the Team Building more flexible.
+    SG also has vastly better burst gen than SMG. SMG is a terrible weapon with no redeeming qualities, only downsides.
+
+I like your solution for the shorter full burst units like isabel/vesti/mihara. It will lead to OP teams though if you stack other CDR units at B1 and B2, you can basically be constantly in full burst without any delay for the entire fight. I agree though... it would be really cool for diverse teams if a short full burst type team is viable.
+
+I think the different solution may work better where they buff full burst damage by at least double, so that compensates for the shorter full burst without needing to look for chaining constant bursts (because continually chaining bursts will just play like a normal non-shortened full burst team). Then you would want to pair with units with strong off-burst damage + huge instant burst damage (aka scarlet like characters). It would also result in those types of teams having a very different feel and playstyle compared to normal bursting teams.
+
+edit: I think it would be nice if they rework the older characters stats/numbers to be more aligned to be reasonable with the newer character's stats/percentages. Also, it would be nice if they try to give kits that make sense in a niche or certain team comp... rather than the random skills that don't really end up resulting in anything and have no use case.
+        >I like your solution for the shorter full burst units like isabel/vesti/mihara. It will lead to OP teams though if you stack other CDR units at B1 and B2, **you can basically be constantly in full burst without any delay for the entire fight.** 
+
+It's not really an issue, since you can already do that with only Liter or Volume, or Dorothy + Privaty in a normal team.
+
+The issue is that Full Burst Time is just way to important in this game. You can't have a viable mechanics that shorten FBT and doesn't help to Burst more often to compensate.
+        I wonder if there’s a way to tweak the damage formula in general or for each weapon type and role type combo to alleviate some of this on a system level. Some kits will still be bad but if we have damage formula for doing and taking damage x role based adjustment (I feel like these are just stats at this point, not sure if anything else currently happens here) x weapon based adjustments (these technically are the difference in how each type of weapon works so they already have this to tweak if they choose) than it’s easier to do smaller but impactful individual kit based adjustments.
+    My 10/10/10 max OL C7 Soline i try to use her in every SR. But the team is so cope with all the downsides of her skills and weapon types
+    I want smg to have attack speed increase niche, not just buff, it would be fun to mag dump with burst, also the increase effective range we see on shotguns could probably be used for smg too
+Fr, all some Nikkes need to be viable are buffed up stats or shorter burst cooldowns. Please Shift-Up.
+    Straight up, giving milk a 20sec cooldown would make her a decent but not overpowered healer/buffer.
+I think the fact that stacks drop to 0 instead of reducing by 1 count makes a lot of Nikkes skills bad. 
+
+
+Just changing that one mechanic will make most of the Nikke more viable to play with.
+    Tove's RNG 😔
+        I have been contemplating to OL Tove first before U.M. Privaty. Feels like increasing Tove ammo would increase Privaty DPS more than OL-ing Privaty herself.
+
+
+That's just how bad Tove RNG is.
+            Don't worry, even with Max Ammo OL it's random as hell. I spend 30 stones to get 4 max ammo on Tove's and I can still wait like 10s before getting the buff...
+                That's really discouraging.
+If Nihilister gets a buff, it would get appreciated really. I'd still use her in late game tho.
+They gotta do a huge balance patch, or else I’m gonna send customer support more messages about buffing Mary
+This is really the only big thing the game is still missing. I know people are going to continue to say they'll never do it, these games never get balance changes, but who cares. It would be really cool to see some niche characters get some love and we should keep saying it.
+I really just want the old Soldier OW back.
+
+seriously, there was no other reason to nerf her other than forced scarcity.
+Yeah Im waiting for more but after Guillotine buff they said they wanted to fix the aim with SR RL characters but they have yet to implement that and apologized for it in a recent devs note. They said in the devs note they want to add more to the gameplay and make shooting more fun. I want to see that first then we can discuss who to buff 
+
+also now their other game Stellar Blade is probably finished I expect that to happen soon. Nikke is their money maker
+Come on, you know they figured out by now releasing an alternate version is way better than buffing an existing nikke.
+
+One makes money.
+    Given that shift up being actively taking feedback from the players, I don’t see it as something that is impossible. Game like mobius ff and fate go did that so there is a hope that we might get it one day. 🤞
+    You hit the nail on the head actually.
+
+To be fair I think it’s better, believe it or not I think people enjoy wishing on the gacha and getting their favorite character. not everything should be served up to you on a silver platter. People loved black scarlet. I think it will be the same with any other alt
+        It doesn't bother me as long as I have enough skill mats or uninstallers. It depends on the unit though, I'd like Snow White to get a skin instead of an alt.
+            I’m almost certain she will get a skin since they already gave her an alt
+    You're correct, gacha games usually do that instead of rebalancing existing characters unless there is a huge backlash 
+
+but I'll give them the benefit of the doubt for now, after Guillotine buff they said they wanted to fix aiming with SR and RL. They have yet to do that and apologized for it recently but they also admit they're crunching during Overzone, probably because they are working on Stellar Blade too and had to kill their previous game. We can riot if nothing happens till the half-anniversary but I trust them for now
+        Unfortunately the only way to get buffs be huge backlash like with release Red Hood. And while everyone agrees that the roster needs buffs, we're not vocal enough for Shift Up to actually do it
+            >we're not vocal enough for Shift Up to actually do it
+
+they heard us and buffed three characters, then said they were working on fixing SR and RL and had yet to implement that. They apologized in the last devs note that it took them more time than anticipated and assured as the plan is still going along with more gameplay improvements to make the shooting more fun
+
+Stellar Blade is finished and Nikke should be their priority again I still trust them and Im giving them until the half-anniversary. if nothing happened by that time Im all in for a riot until they buff everyone
+Isabel definitely needs AND deserves a buff. She’s a pilgrim for christ sake. She’s from Eden, where weakness is not tolerated, yet she’s so weak in her skill set.
+
+![gif](giphy|RWi6emX1FpkWidpX2d|downsized)
+I agree, the gap between meta units and every other ssr is absurd. 
+
+I really hope they do make some changes, I think some kits need to be reworked, burst 1 & 2s should just have a 20 sec cooldown (except blanc, tia and rapunzel), I also wouldn’t mind a element lineup system like most other gachas have ie 3 or more nikkes of the same element and you get like a hp and attack boost or something
+
+I would also like them to make Isabel the first and only b3 nikke to have a 20 sec cooldown, it fits both her lore and kit and would likely be pretty strong (not meta but not too far off)
+    >I would also like them to make Isabel the first and only b3 nikke to have a 20 sec cooldown, it fits both her lore and kit and would likely be pretty strong (not meta but not too far off)
+
+as someone who invested a bit in Isabel, (Level 7 skills and overloaded 2 gears) changing her burst to 20s is one way to make her more useful and as you said it fits her, the other is swapping the crit% and atk% from her buff. Make her gain atk% from the first burst not the third
+harran should get her charge bug back tbh
+can't wait for crow get buff
+I have some rant with Ade since I thought that you can stack her S2 Infinitely. But no she doesn't have RoF to do that and I believe its not a stackable buff to boot. this is also make her S1 impossible to proc unless you're doing something wrong and at that point you'll probably just die anyway.
+
+Give my maid some justice.
+Character are made to be bad on purpose to inflate the gacha pool. Buffs come in the form of alts
+    This. Just look at Leona, Moran and Ade. They are new characters and yet they suck. It’s clear ShiftUp intentionally release weak units to fill the gaps in between the big meta-defining ones. That’s just how the game was designed.
+        None of those suck. In fact 2 out of the three Nikkes you listed were used in the top performing squad comps for the solo raid (Ade likely went unused because she was just released on the final day of the raid). What you seem to be seriously missing is that the Nikke meta is based more around synergies than super units.
+            Crystal chamber is weak to maid Privaty by design. They always do this to promote the new Nikke. But saying they are meta is just bizarre. Privaty needs a fully invested specialized team to do meta damage, and even then she is a shotgun user so only really useful against Crystal Chamber and Grave Digger. It’s just not worth it to build her. Ade and Leona are just rubbish in terms of skills and usability and there is no way you can sugar coat it.
+    There are few truely bad units in Nikke (Crow is one of those very few) and every time a new Nikke or Boss is released the meta shifts.
+
+Buffs don't come in the form of alts in this game. None of the 11 alts released fill the same gameplay role as their "basic" version. What does "buff" many Nikkes is the addition of other new Nikkes that they can synergize with.
+GIVE ISABEL COOL DOWN REDUCTION!!!!!
+The wishlist for balance changes right now is like:
+
+1. Damage formula changes
+
+2. Mechanical changes (weapon and energy rebalancing)
+
+3. Economy and resource rebalancing 
+
+4. Character buffs 
+
+Right now the main problem is that most of the SSR units are not good enough compared to the top 20 Nikkes and most teams are not diverse at all unless you are doing pvp or raids. Most teams late game just devolves to Liter/Bunnies or Schoolgirls/Red Hood/Flex which is really sad since there are a lot of characters I am interested in build around but the state of resources means I can't invest in them.
+
+I think it's good if the community at least on here get together once a week and discuss certain balance changes that we want.
+They’ll never do this because of what? Capitalism of course!
+But c’mon Shift Up, it’s just some twists in code for making things like c.dmg and c.rate great again!
+    I'll never quite understand this argument.  Making money doesn't only come from releasing new products, it also comes from buyer retention + getting new buyers.  Re-balancing older units would most likely help with both of those things thus improving their overall profits.
+        If u follow Sensor Tower’s Gacha revenue, u’ll understand why making new unit has almost if not all attention of the company.
+RH alone carried Nikke surpass Genshin Impact’s revenue in one certain month iirc.
+Lewdmilla almost did the same magic at Christmas event, with the help of Bunny Twin’s skin ofc.
+With that being said, putting manpower into rebalancing Julia or Vesti for example will never be their choice, because it can be considered as wasting a lot of money.
+            Tbh, it doesn't take long to rebalance all the unviable Nikke. This game damage mechanics are not so complex and each unit has their own theoretical max dps / damage buff %. Just make them closer to the very best is a good start. It's not difficult
+Rosanna needing allies to die in order to be useful just gimps her in every non PvP situation which makes me sad.
+
+You could easily make her burst 20s instead of 40s and she'd be better, as well as allowing her to dispel more than once a battle.
+
+Aria's burst should be 20s, same with Emma.
+
+Mast's Pirate Sight should be extended as battles that last longer than 30 seconds will make her gimped. This is the only character I've bought a skin for. (Would buy one for Alice if there was one)
+
+Hell, make Poli's burst have a 20s cooldown as well. 
+
+I can only talk about the SSR's I have though, which are few.
+Not specifically buffs, but I’d like to see the next chapters implement some sort of levelling item drop. 
+Maybe a fairly common item that when used puts a Nikke from 0/0/0 to 4/4/4 or something, just to allow long time players to quickly bring newly released Nikkes up to a useable standard. 
+I know 4/4/4 isn’t a huge investment anyway but the fact that after a year of playing the game daily I still haven’t been able to afford to get every Nikke to 4/4/4 is a bit annoying
+I'd say more than a third are just worthless when you really only need like 3 teams if you care about union raids right? I've just been hyper investing into one team so pulling is really only for waifu collection at this point.
+One word - Powercreep. This is exactly why they are not going to be buffing any old SSRs that desperately need loving. They will just release a newer, better version of them in a form of another Nikke or Alt, to keep generating hype getting people to spend. That's the nature of gacha games. As much as I would like to see some buff on older SSRs, chances of that are very very slim, unfortunately.
+Brid was one of my 5 to break the 160 wall and I have never used her in story, pvp or events. It's sad because I actually like her and her bonding story, but she will forever remain with no gear and at 1/1/1 seemingly forever. I don't ever recall seeing her burst animation ever.,
+
+Poor Brid.
+SG also has vastly better burst gen than SMG. SMG is a terrible weapon with no redeeming qualities, only downsides.
+
+I like your solution for the shorter full burst units like isabel/vesti/mihara. It will lead to OP teams though if you stack other CDR units at B1 and B2, you can basically be constantly in full burst without any delay for the entire fight. I agree though... it would be really cool for diverse teams if a short full burst type team is viable.
+
+I think the different solution may work better where they buff full burst damage by at least double, so that compensates for the shorter full burst without needing to look for chaining constant bursts (because continually chaining bursts will just play like a normal non-shortened full burst team). Then you would want to pair with units with strong off-burst damage + huge instant burst damage (aka scarlet like characters). It would also result in those types of teams having a very different feel and playstyle compared to normal bursting teams.
+
+edit: I think it would be nice if they rework the older characters stats/numbers to be more aligned to be reasonable with the newer character's stats/percentages. Also, it would be nice if they try to give kits that make sense in a niche or certain team comp... rather than the random skills that don't really end up resulting in anything and have no use case.
+    >I like your solution for the shorter full burst units like isabel/vesti/mihara. It will lead to OP teams though if you stack other CDR units at B1 and B2, **you can basically be constantly in full burst without any delay for the entire fight.** 
+
+It's not really an issue, since you can already do that with only Liter or Volume, or Dorothy + Privaty in a normal team.
+
+The issue is that Full Burst Time is just way to important in this game. You can't have a viable mechanics that shorten FBT and doesn't help to Burst more often to compensate.
+    I wonder if there’s a way to tweak the damage formula in general or for each weapon type and role type combo to alleviate some of this on a system level. Some kits will still be bad but if we have damage formula for doing and taking damage x role based adjustment (I feel like these are just stats at this point, not sure if anything else currently happens here) x weapon based adjustments (these technically are the difference in how each type of weapon works so they already have this to tweak if they choose) than it’s easier to do smaller but impactful individual kit based adjustments.
+My 10/10/10 max OL C7 Soline i try to use her in every SR. But the team is so cope with all the downsides of her skills and weapon types
+I want smg to have attack speed increase niche, not just buff, it would be fun to mag dump with burst, also the increase effective range we see on shotguns could probably be used for smg too
+Straight up, giving milk a 20sec cooldown would make her a decent but not overpowered healer/buffer.
+Tove's RNG 😔
+    I have been contemplating to OL Tove first before U.M. Privaty. Feels like increasing Tove ammo would increase Privaty DPS more than OL-ing Privaty herself.
+
+
+That's just how bad Tove RNG is.
+        Don't worry, even with Max Ammo OL it's random as hell. I spend 30 stones to get 4 max ammo on Tove's and I can still wait like 10s before getting the buff...
+            That's really discouraging.
+Given that shift up being actively taking feedback from the players, I don’t see it as something that is impossible. Game like mobius ff and fate go did that so there is a hope that we might get it one day. 🤞
+You hit the nail on the head actually.
+
+To be fair I think it’s better, believe it or not I think people enjoy wishing on the gacha and getting their favorite character. not everything should be served up to you on a silver platter. People loved black scarlet. I think it will be the same with any other alt
+    It doesn't bother me as long as I have enough skill mats or uninstallers. It depends on the unit though, I'd like Snow White to get a skin instead of an alt.
+        I’m almost certain she will get a skin since they already gave her an alt
+You're correct, gacha games usually do that instead of rebalancing existing characters unless there is a huge backlash 
+
+but I'll give them the benefit of the doubt for now, after Guillotine buff they said they wanted to fix aiming with SR and RL. They have yet to do that and apologized for it recently but they also admit they're crunching during Overzone, probably because they are working on Stellar Blade too and had to kill their previous game. We can riot if nothing happens till the half-anniversary but I trust them for now
+    Unfortunately the only way to get buffs be huge backlash like with release Red Hood. And while everyone agrees that the roster needs buffs, we're not vocal enough for Shift Up to actually do it
+        >we're not vocal enough for Shift Up to actually do it
+
+they heard us and buffed three characters, then said they were working on fixing SR and RL and had yet to implement that. They apologized in the last devs note that it took them more time than anticipated and assured as the plan is still going along with more gameplay improvements to make the shooting more fun
+
+Stellar Blade is finished and Nikke should be their priority again I still trust them and Im giving them until the half-anniversary. if nothing happened by that time Im all in for a riot until they buff everyone
+>I would also like them to make Isabel the first and only b3 nikke to have a 20 sec cooldown, it fits both her lore and kit and would likely be pretty strong (not meta but not too far off)
+
+as someone who invested a bit in Isabel, (Level 7 skills and overloaded 2 gears) changing her burst to 20s is one way to make her more useful and as you said it fits her, the other is swapping the crit% and atk% from her buff. Make her gain atk% from the first burst not the third
+This. Just look at Leona, Moran and Ade. They are new characters and yet they suck. It’s clear ShiftUp intentionally release weak units to fill the gaps in between the big meta-defining ones. That’s just how the game was designed.
+    None of those suck. In fact 2 out of the three Nikkes you listed were used in the top performing squad comps for the solo raid (Ade likely went unused because she was just released on the final day of the raid). What you seem to be seriously missing is that the Nikke meta is based more around synergies than super units.
+        Crystal chamber is weak to maid Privaty by design. They always do this to promote the new Nikke. But saying they are meta is just bizarre. Privaty needs a fully invested specialized team to do meta damage, and even then she is a shotgun user so only really useful against Crystal Chamber and Grave Digger. It’s just not worth it to build her. Ade and Leona are just rubbish in terms of skills and usability and there is no way you can sugar coat it.
+There are few truely bad units in Nikke (Crow is one of those very few) and every time a new Nikke or Boss is released the meta shifts.
+
+Buffs don't come in the form of alts in this game. None of the 11 alts released fill the same gameplay role as their "basic" version. What does "buff" many Nikkes is the addition of other new Nikkes that they can synergize with.
+I'll never quite understand this argument.  Making money doesn't only come from releasing new products, it also comes from buyer retention + getting new buyers.  Re-balancing older units would most likely help with both of those things thus improving their overall profits.
+    If u follow Sensor Tower’s Gacha revenue, u’ll understand why making new unit has almost if not all attention of the company.
+RH alone carried Nikke surpass Genshin Impact’s revenue in one certain month iirc.
+Lewdmilla almost did the same magic at Christmas event, with the help of Bunny Twin’s skin ofc.
+With that being said, putting manpower into rebalancing Julia or Vesti for example will never be their choice, because it can be considered as wasting a lot of money.
+        Tbh, it doesn't take long to rebalance all the unviable Nikke. This game damage mechanics are not so complex and each unit has their own theoretical max dps / damage buff %. Just make them closer to the very best is a good start. It's not difficult
+>I like your solution for the shorter full burst units like isabel/vesti/mihara. It will lead to OP teams though if you stack other CDR units at B1 and B2, **you can basically be constantly in full burst without any delay for the entire fight.** 
+
+It's not really an issue, since you can already do that with only Liter or Volume, or Dorothy + Privaty in a normal team.
+
+The issue is that Full Burst Time is just way to important in this game. You can't have a viable mechanics that shorten FBT and doesn't help to Burst more often to compensate.
+I wonder if there’s a way to tweak the damage formula in general or for each weapon type and role type combo to alleviate some of this on a system level. Some kits will still be bad but if we have damage formula for doing and taking damage x role based adjustment (I feel like these are just stats at this point, not sure if anything else currently happens here) x weapon based adjustments (these technically are the difference in how each type of weapon works so they already have this to tweak if they choose) than it’s easier to do smaller but impactful individual kit based adjustments.
+I have been contemplating to OL Tove first before U.M. Privaty. Feels like increasing Tove ammo would increase Privaty DPS more than OL-ing Privaty herself.
+
+
+That's just how bad Tove RNG is.
+    Don't worry, even with Max Ammo OL it's random as hell. I spend 30 stones to get 4 max ammo on Tove's and I can still wait like 10s before getting the buff...
+        That's really discouraging.
+It doesn't bother me as long as I have enough skill mats or uninstallers. It depends on the unit though, I'd like Snow White to get a skin instead of an alt.
+    I’m almost certain she will get a skin since they already gave her an alt
+Unfortunately the only way to get buffs be huge backlash like with release Red Hood. And while everyone agrees that the roster needs buffs, we're not vocal enough for Shift Up to actually do it
+    >we're not vocal enough for Shift Up to actually do it
+
+they heard us and buffed three characters, then said they were working on fixing SR and RL and had yet to implement that. They apologized in the last devs note that it took them more time than anticipated and assured as the plan is still going along with more gameplay improvements to make the shooting more fun
+
+Stellar Blade is finished and Nikke should be their priority again I still trust them and Im giving them until the half-anniversary. if nothing happened by that time Im all in for a riot until they buff everyone
+None of those suck. In fact 2 out of the three Nikkes you listed were used in the top performing squad comps for the solo raid (Ade likely went unused because she was just released on the final day of the raid). What you seem to be seriously missing is that the Nikke meta is based more around synergies than super units.
+    Crystal chamber is weak to maid Privaty by design. They always do this to promote the new Nikke. But saying they are meta is just bizarre. Privaty needs a fully invested specialized team to do meta damage, and even then she is a shotgun user so only really useful against Crystal Chamber and Grave Digger. It’s just not worth it to build her. Ade and Leona are just rubbish in terms of skills and usability and there is no way you can sugar coat it.
+If u follow Sensor Tower’s Gacha revenue, u’ll understand why making new unit has almost if not all attention of the company.
+RH alone carried Nikke surpass Genshin Impact’s revenue in one certain month iirc.
+Lewdmilla almost did the same magic at Christmas event, with the help of Bunny Twin’s skin ofc.
+With that being said, putting manpower into rebalancing Julia or Vesti for example will never be their choice, because it can be considered as wasting a lot of money.
+    Tbh, it doesn't take long to rebalance all the unviable Nikke. This game damage mechanics are not so complex and each unit has their own theoretical max dps / damage buff %. Just make them closer to the very best is a good start. It's not difficult
+Don't worry, even with Max Ammo OL it's random as hell. I spend 30 stones to get 4 max ammo on Tove's and I can still wait like 10s before getting the buff...
+    That's really discouraging.
+I’m almost certain she will get a skin since they already gave her an alt
+>we're not vocal enough for Shift Up to actually do it
+
+they heard us and buffed three characters, then said they were working on fixing SR and RL and had yet to implement that. They apologized in the last devs note that it took them more time than anticipated and assured as the plan is still going along with more gameplay improvements to make the shooting more fun
+
+Stellar Blade is finished and Nikke should be their priority again I still trust them and Im giving them until the half-anniversary. if nothing happened by that time Im all in for a riot until they buff everyone
+Crystal chamber is weak to maid Privaty by design. They always do this to promote the new Nikke. But saying they are meta is just bizarre. Privaty needs a fully invested specialized team to do meta damage, and even then she is a shotgun user so only really useful against Crystal Chamber and Grave Digger. It’s just not worth it to build her. Ade and Leona are just rubbish in terms of skills and usability and there is no way you can sugar coat it.
+Tbh, it doesn't take long to rebalance all the unviable Nikke. This game damage mechanics are not so complex and each unit has their own theoretical max dps / damage buff %. Just make them closer to the very best is a good start. It's not difficult
+That's really discouraging.

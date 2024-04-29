@@ -1,0 +1,430 @@
+[[[GameWith] Tier list update(lots of fire changes)]]
+
+
+These changes were made on 04/18 but I decided to post since it's hard to notice on wiki.
+
+**Fire**
+
+Fenie - 9.6 > 9.8
+
+Wilnas - 9.9 > 9.7
+
+Summer Mimlemel - 9.8 > 9.5
+
+Athena - 9.7 > 9.6
+
+Valentine Vira - 9.6 > 9.7
+
+Summer Khumbira - 9.7 > 9.6
+
+**Dark**
+
+Summer Magus - 9.7 > 9.8
+
+--------------------------------------------------------------------------
+
+Just arbitrary changes that doesn't mean much from current meta.
+
+
+I'm glad Fenie is moving up. She was really underrated imo. 
+    I think she’s (and her weapon) largely to blame for Wilnas’s fall, too. Percy’s playing with a new friend now.
+        Pretty sure grand Zeta is way more responsible for the fall of Wilnas
+            the main culprit is Alanaan really, Wilnas needs to ougi first to get his gta, Alanaan inflicts shortened which fucks up with that  
+  
+Zeta did also hurt is FA usability due to doing the consistent dispels much better tho, and Luci0 requiring constant access to triple attacks also hurt him in HL as it can be hard to use him there (and ofc release of Fenie and Noa which are tailor made for that type of content too)
+                All 3 screwed over Wilnas by simply being better in every single situation. 
+
+Fenie is a better tank and she also heals and buffs. Her weapon is also a great singed stacker is a staff so can be used with one of the strongest classes in the game, so Wilnas doesn't need to do that.
+
+Zeta is just a better attacker than him that also comes with some more utility.
+
+Alanaan is the best burst enabler in fire but he doesn't work well with Wilnas.
+                Wilnas is still alright for V1 burst (for higher damage targets not like low like bhl) because you have to sack him on turn 1 anyway... So it's not that he isnt compatible with alanaan but he's regulated to a situation that doesn't exist outside gw (non revans content but with revans target threshold)
+                Tbh you can clarity it out and its not particularly weird considering it can also be used to enable Manaturas, but afaik Wilnas always need Target Charger to really be practical and at that point you don't really have slot anymore
+
+although IIRC the fire burst for PBHL didnt even use Clarity for MD but idk
+                    it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+                        yeah clarity is only used for longer setups like siete bluechest
+            It really was a mix of things, as the latest fire releases have all pushed him off the top in various ways. Speaking as an Agni player who loves Wilnas dearly.
+
+
+Fenie is an amazing tank+support whose utilities overlap with Wilnas, and who came with one of the best weapons in the game that happens to work with MD and inflicts Singed. Wilnas is no longer the best Singed stacker nor the best in HL/FA.
+
+
+Zeta is a potent attacker with steroids, multiple echoes, autonukes, GTA, double strike, and assassin without any support. Wilnas has multi-turn assassin, but he's hampered by his need to ougi, lack of innate echo, and low mods. He can output massive damage, but Zeta does so much more easily. Her existence also disincentivizes Falsehood ougi strats which made use of Berserker's sabre/axe-only echoes, not to mention Extremity.
+
+
+Alanaan is an insane buffer who also inflicts shorted. His GTA doesn't affect Wilnas, bar consumption+shorted makes it annoying to get Wilnas to ougi for GTA, and flurry isn't something that Wilnas especially benefits from due to his lack of echo (relative to Zeta). The ougi thing is especially troubling because TA big dmg, but there aren't enough team slots for Michael because "tag team but better" Percy.
+
+
+This just reminds me that this game is impenetrably complex. Thank god dojo is finally here to ease in new players.
+            Didn’t we already get fire regrades post-Zeta or am I crazy? If I’m misremembering, then yes, Zeta is a huge contributor. I was largely referencing his Fenie takes on some of the same singed role that Wilnas used to too.
+            And kinda Alan. Wlnas comp was like 6t with several points of Chain Burst being forced for a lockout iirc
+
+Meanwhile Alanaan just casually facerolls on the keyboard
+        I think Wilnas honestly needs some improvement other than just slapping a singed debuff and calling it a rebalance.
+
+It's crazy how it's only been a year and most of the 6 dragons are now out of the meta.
+            Tin-foil hat but I’m kind of thinking they might be next up for FLBs when they’re done with the Disciples.
+    rating site's over obsession on underrating units not used in burst comps is always funny
+    while i do think 9.6 is underrated, she's not as good as some people in this thread seems to think. she's not good in burst content, she's only good in FA if fight goes for a long time (so pretty much only gw nm200, we'll see how good she is next fire gw), and in HL she's a coinflip (in Faa0 50% of the time your run is bricked with her setup, and 50% of the time you mvp)
+        To put it bluntly it's only a brick if people mash without a brain. It's just a dps loss otherwise which is fine.
+
+Fire md players are supposed to park at the skill damage omen if they get yellow sword.
+        As someone who has yet to learn Faa0, could you please go into more detail about why using Fenie is a "coin flip" in that raid?
+            luci gets one of two buffs at 80% - repudiation (yellow sword) or renunciation (red sword) - fire fenie manadiver comp destroys faa0 if you coinflip red sword, while it gets bricked if you coinflip yellow sword and they end up mashing and dying (beware of manadiver fire players in your group if you don't want to coinflip on that 50%)
+                Most fire setups in general can't deal with yellow sword that well anyway. If a fire player died because they mashed while yellow sword then thats really a player issue not a setup issue.
+                    What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+        so bricked means not taking as much turns during a fifth of the fight or not scoring MVP, cool
+Summer Mim seems appropriate. She was a powerhouse when she launched but I don't know that I've heard about her dominating the latest content in the same way as she used to. Maybe I just haven't been paying attention.
+    Don't have her, but I assume her main use was to give everyone full charge so alanaan can use his s3, and now with his FLB and 4th skill she's no longer needed.
+        At her release yeah that was her main use but after Alanaan was crept out of fire teams SMim was basically only used for her s2 in nm95 teams. Alanaan getting his s4 didnt do anything to SMim since at that point her only use case was separate from Alanaans and she was already crept out of current nm95 teams by then.
+        even before 5* though, old mim/alanaan burst was outdated compared to percy wiilnas.
+For someone considered dead on arrival at release, Wilnas's staying relevant this long is impressive ngl
+    To be fair, when Wilnas released the game had like zero support for him, (iirc) Fire wasn't in a good position and the drawbacks of his kit were way more noticeable. People even joked that Yukata Silva was the DLC for Wilnas' kit because of how blatant it was that she was designed to go with him.
+
+As soon as the characters that could support him well released people changed their tune. It also helps that Cygames "hotfixed" him by adding Singed to make him work with Percy.
+        Even Luffy was considered the real 6D until the rebal giving Wilnas singed lmao, saying shit was rough on Wilnas was an understatement.
+            Tbh Luffy always was outpaced by Wilnas immediately just from Wilnas Silva interaction already existing at the time and when Mika drops, its joever for Luffy
+                IIRC the reason Luffy stay relevant in Silva Percy comp was his Singed application, then Wilnas also has it and phased Luffy out completely, but yeah in hindsight Wilnas's reception swing really fast with dooming on arrival, then Luffy arrived, and right after than Y.Silva came and his potential realized.
+                    No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+    Who knew they'd dial up the numbers on Ougi damage and make it relevant? (I guess his Dispel was always an essential kind of utility. ... and his kind of +Def thickness is kind of a standard thing on-par characters need these days..)
+
+It's weird being able to chunk 25%+ of Ultimate Bahamut Imposible's life in a turn. He used to be end game content man. Little Lilele singing her heart out for knife boy and mustache man.
+        IIRC ougi was expected to be the next pushed thing since other comps in Fire is falling off, though the extend they push ougi up is wild nonetheless
+            At the time they pushed Fire Ougi, Fire already had Percival and the GW that happened during Mika's first go around was fairly chill due to how jacked Perci is. Fire Auto honestly was in a better place at the time between Mika release, Percy, Christmas Cain etc
+
+Fire Ougi was the most common set up for the important Siete raid 2 months later since the earliest strategy that pops up was Kengo Satyr, but Kengo Satyr is a significantly worse set up than most Echo Chain janks
+Damn wilnas falls off hard, the powercreep is brutal in this game indeed
+    I think he does well at what he does but he's almost only replaced by other limited units minus alanaan so he's still good to use and not really fallen off. Just not the only character that can do what he does. 
+    He fell off almost instantly which is why he got emergency buffed. Pretty sure the only one.
+        Nah, he got rebalanced next pact so he can inflict Singed for Percy synergy and that's that, enough to make him edge over Luffy.
+Magnus? You mean Magus?
+    Leaked SSSR Magnus Von Grapple from an upcoming Paper Mario collab confirmed! It's time for a technological thrashing!
+    Magus did nothing wrong
+        this getting downvoted randomly is beyond me
+            Its just how this subreddit is, hell even your getting downvotes, and i expect this post to get downvoted too.
+Glad they are noticing that Dark, the element with multiple skill cap/Supp weapons, still appreciates large hitcount skill auto-activaters. She could be a little better with the DoT on herself or sword/fist prof to go with her staff prof, but that's nitpicking.
+Called it with Fenie, lol
+
+They always underestimate these gimmicky characters at first
+    Fire ratings are always tentative for whatever reason lol. Even Zeta wasn't an instant 10 despite her completely overloaded kit
+    Have you done Faa0 before?
+The tierlist is so funny cause 9.6 to 9.8 and 9.9 to 9.7 doesn’t mean jack lol.
+    when 9.5 is the bottom of viability and 10.0 is the top that's like moving from 3 to 4 stars outta 5! that's a pretty big difference
+
+the number scale is just stupid
+        It's never going to be fixed until they just accept that SR/R characters should be dropped from tier lists, and then the couple with niche relevance like lyria or specific setups like luna with s.ilsa can just be special notes. it made some sense in the early days when there were far less SSRs, kits were far simpler and the expectation was that you'd actually be making use of SRs in your teams, but that hasn't been the case for so long. Now their presence in the tier list rankings is just forcing them to keep all the SSRs super inflated in value. 
+
+Like yeah, a character like Marquiares is pretty worthless in the modern state of dark but he needs to be put up at like 8.5 because it doesn't make sense for him to be below characters like SR Ludmila or R Bakura
+            I would not at all be surprised to hear that they're already aware this would be a better way of doing things, or at least a way that would more clearly communicate itself to people not already familiar with their ranking system, but they just don't want to go through the work of reranking every unit in the game. It would be a pretty big project at this point. Honestly, I wouldn't wanna do it either.
+
+Frankly, a lot of the SSR's are about as irrelevant as any of the lower rarities. You could probably make a more cohesive list by just ranking everybody from the last three years and starting from the base assumption that anybody older than that doesn't matter.
+        yeah anything under 9.0 should just be changed to fully untiered and completely not worthwhile.
+
+then simplify the number scale so that this change is going from tier 9 down to tier 7.
+        I imagine that they want to change it as well, but doing so is a vast amount of work.
+
+It generally does it job though, even if it's very vague. I'd be interested in more detailed guides, but I'd expect that it would require some sort of compensation given how large the character pool is these days.
+            It's hard to communicate nuance in something as simple as a tier list. Most characters have (more or less niche) use cases, so a more "accurate" rating would be "it depends". Making some pretty rough simplifications to communicate to new players "hey this character is good, it's used a lot/BIS in important content" is very valuable imo. And as seen here, it's a fun discussion starter.
+                Yeah, I'm down for a 4th sub such as "Niche Usage" that goes into more specific encounter detail.
+
+You can use that to take out some of the "baked-in" power present in the overall ranking and allow them to drop a character to 8.5 even if they're meta-level in one particular fight.
+    Ignore the leading 9 in those ratings. Fenie went from 6/10 to 8/10, Wilnas dropped from 9 to 7 etc. That paints a much better picture but yes, it's pretty silly anyways.
+        I like the implication that r richard is -60/10
+    I mean it does mean jack if you read their criteria
+I have Fenie and Wilnas. They both combine so well for me with Michael to boot.
+There's only one way too make Wilnas rise again. FLB time cygames
+Wow, Fenie went up????
+
+
+Imagine my SHOCK! 
+
+
+It was pretty inevitable. 
+Wilnas is only as good as the support options available to him.  If a character came along that would let him ougi without using up a turn...
+Knew Fenie was lower than she should have been since release. Her weapon and her are mvp in Faa0 for fire. Made that raid a lot easier for me on fire. The rest make sense.
+>arbitrary changes
+
+I'm pretty sure the changes are not arbitrary
+No one else has their cake out like wilnas
+Not shocked to see Vira move up she is probably my favorite unit in the game. Had her off rotation in my fire for bird girl but probably gonna swap her back up front.
+I'm still trying to figure out who to aim for to beef up my fire team. Got a siero ticket and tempted for Zeta or Michael. Currently using wilnas, fenie and s. Medusa. Sadly don't have many other good fire chars.
+Wilnas getting demoted is so sad. He's still percival's best friend though. I don't think many units are better at building singed
+Fenni alone : Sha la la halala , 
+
+Fenni with Michael : Sha la la, halala. Sha lala halal.
+How dare they lower dear Wilnas!!!
+I think she’s (and her weapon) largely to blame for Wilnas’s fall, too. Percy’s playing with a new friend now.
+    Pretty sure grand Zeta is way more responsible for the fall of Wilnas
+        the main culprit is Alanaan really, Wilnas needs to ougi first to get his gta, Alanaan inflicts shortened which fucks up with that  
+  
+Zeta did also hurt is FA usability due to doing the consistent dispels much better tho, and Luci0 requiring constant access to triple attacks also hurt him in HL as it can be hard to use him there (and ofc release of Fenie and Noa which are tailor made for that type of content too)
+            All 3 screwed over Wilnas by simply being better in every single situation. 
+
+Fenie is a better tank and she also heals and buffs. Her weapon is also a great singed stacker is a staff so can be used with one of the strongest classes in the game, so Wilnas doesn't need to do that.
+
+Zeta is just a better attacker than him that also comes with some more utility.
+
+Alanaan is the best burst enabler in fire but he doesn't work well with Wilnas.
+            Wilnas is still alright for V1 burst (for higher damage targets not like low like bhl) because you have to sack him on turn 1 anyway... So it's not that he isnt compatible with alanaan but he's regulated to a situation that doesn't exist outside gw (non revans content but with revans target threshold)
+            Tbh you can clarity it out and its not particularly weird considering it can also be used to enable Manaturas, but afaik Wilnas always need Target Charger to really be practical and at that point you don't really have slot anymore
+
+although IIRC the fire burst for PBHL didnt even use Clarity for MD but idk
+                it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+                    yeah clarity is only used for longer setups like siete bluechest
+        It really was a mix of things, as the latest fire releases have all pushed him off the top in various ways. Speaking as an Agni player who loves Wilnas dearly.
+
+
+Fenie is an amazing tank+support whose utilities overlap with Wilnas, and who came with one of the best weapons in the game that happens to work with MD and inflicts Singed. Wilnas is no longer the best Singed stacker nor the best in HL/FA.
+
+
+Zeta is a potent attacker with steroids, multiple echoes, autonukes, GTA, double strike, and assassin without any support. Wilnas has multi-turn assassin, but he's hampered by his need to ougi, lack of innate echo, and low mods. He can output massive damage, but Zeta does so much more easily. Her existence also disincentivizes Falsehood ougi strats which made use of Berserker's sabre/axe-only echoes, not to mention Extremity.
+
+
+Alanaan is an insane buffer who also inflicts shorted. His GTA doesn't affect Wilnas, bar consumption+shorted makes it annoying to get Wilnas to ougi for GTA, and flurry isn't something that Wilnas especially benefits from due to his lack of echo (relative to Zeta). The ougi thing is especially troubling because TA big dmg, but there aren't enough team slots for Michael because "tag team but better" Percy.
+
+
+This just reminds me that this game is impenetrably complex. Thank god dojo is finally here to ease in new players.
+        Didn’t we already get fire regrades post-Zeta or am I crazy? If I’m misremembering, then yes, Zeta is a huge contributor. I was largely referencing his Fenie takes on some of the same singed role that Wilnas used to too.
+        And kinda Alan. Wlnas comp was like 6t with several points of Chain Burst being forced for a lockout iirc
+
+Meanwhile Alanaan just casually facerolls on the keyboard
+    I think Wilnas honestly needs some improvement other than just slapping a singed debuff and calling it a rebalance.
+
+It's crazy how it's only been a year and most of the 6 dragons are now out of the meta.
+        Tin-foil hat but I’m kind of thinking they might be next up for FLBs when they’re done with the Disciples.
+rating site's over obsession on underrating units not used in burst comps is always funny
+while i do think 9.6 is underrated, she's not as good as some people in this thread seems to think. she's not good in burst content, she's only good in FA if fight goes for a long time (so pretty much only gw nm200, we'll see how good she is next fire gw), and in HL she's a coinflip (in Faa0 50% of the time your run is bricked with her setup, and 50% of the time you mvp)
+    To put it bluntly it's only a brick if people mash without a brain. It's just a dps loss otherwise which is fine.
+
+Fire md players are supposed to park at the skill damage omen if they get yellow sword.
+    As someone who has yet to learn Faa0, could you please go into more detail about why using Fenie is a "coin flip" in that raid?
+        luci gets one of two buffs at 80% - repudiation (yellow sword) or renunciation (red sword) - fire fenie manadiver comp destroys faa0 if you coinflip red sword, while it gets bricked if you coinflip yellow sword and they end up mashing and dying (beware of manadiver fire players in your group if you don't want to coinflip on that 50%)
+            Most fire setups in general can't deal with yellow sword that well anyway. If a fire player died because they mashed while yellow sword then thats really a player issue not a setup issue.
+                What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+    so bricked means not taking as much turns during a fifth of the fight or not scoring MVP, cool
+Don't have her, but I assume her main use was to give everyone full charge so alanaan can use his s3, and now with his FLB and 4th skill she's no longer needed.
+    At her release yeah that was her main use but after Alanaan was crept out of fire teams SMim was basically only used for her s2 in nm95 teams. Alanaan getting his s4 didnt do anything to SMim since at that point her only use case was separate from Alanaans and she was already crept out of current nm95 teams by then.
+    even before 5* though, old mim/alanaan burst was outdated compared to percy wiilnas.
+To be fair, when Wilnas released the game had like zero support for him, (iirc) Fire wasn't in a good position and the drawbacks of his kit were way more noticeable. People even joked that Yukata Silva was the DLC for Wilnas' kit because of how blatant it was that she was designed to go with him.
+
+As soon as the characters that could support him well released people changed their tune. It also helps that Cygames "hotfixed" him by adding Singed to make him work with Percy.
+    Even Luffy was considered the real 6D until the rebal giving Wilnas singed lmao, saying shit was rough on Wilnas was an understatement.
+        Tbh Luffy always was outpaced by Wilnas immediately just from Wilnas Silva interaction already existing at the time and when Mika drops, its joever for Luffy
+            IIRC the reason Luffy stay relevant in Silva Percy comp was his Singed application, then Wilnas also has it and phased Luffy out completely, but yeah in hindsight Wilnas's reception swing really fast with dooming on arrival, then Luffy arrived, and right after than Y.Silva came and his potential realized.
+                No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+Who knew they'd dial up the numbers on Ougi damage and make it relevant? (I guess his Dispel was always an essential kind of utility. ... and his kind of +Def thickness is kind of a standard thing on-par characters need these days..)
+
+It's weird being able to chunk 25%+ of Ultimate Bahamut Imposible's life in a turn. He used to be end game content man. Little Lilele singing her heart out for knife boy and mustache man.
+    IIRC ougi was expected to be the next pushed thing since other comps in Fire is falling off, though the extend they push ougi up is wild nonetheless
+        At the time they pushed Fire Ougi, Fire already had Percival and the GW that happened during Mika's first go around was fairly chill due to how jacked Perci is. Fire Auto honestly was in a better place at the time between Mika release, Percy, Christmas Cain etc
+
+Fire Ougi was the most common set up for the important Siete raid 2 months later since the earliest strategy that pops up was Kengo Satyr, but Kengo Satyr is a significantly worse set up than most Echo Chain janks
+I think he does well at what he does but he's almost only replaced by other limited units minus alanaan so he's still good to use and not really fallen off. Just not the only character that can do what he does. 
+He fell off almost instantly which is why he got emergency buffed. Pretty sure the only one.
+    Nah, he got rebalanced next pact so he can inflict Singed for Percy synergy and that's that, enough to make him edge over Luffy.
+Leaked SSSR Magnus Von Grapple from an upcoming Paper Mario collab confirmed! It's time for a technological thrashing!
+Magus did nothing wrong
+    this getting downvoted randomly is beyond me
+        Its just how this subreddit is, hell even your getting downvotes, and i expect this post to get downvoted too.
+Fire ratings are always tentative for whatever reason lol. Even Zeta wasn't an instant 10 despite her completely overloaded kit
+Have you done Faa0 before?
+when 9.5 is the bottom of viability and 10.0 is the top that's like moving from 3 to 4 stars outta 5! that's a pretty big difference
+
+the number scale is just stupid
+    It's never going to be fixed until they just accept that SR/R characters should be dropped from tier lists, and then the couple with niche relevance like lyria or specific setups like luna with s.ilsa can just be special notes. it made some sense in the early days when there were far less SSRs, kits were far simpler and the expectation was that you'd actually be making use of SRs in your teams, but that hasn't been the case for so long. Now their presence in the tier list rankings is just forcing them to keep all the SSRs super inflated in value. 
+
+Like yeah, a character like Marquiares is pretty worthless in the modern state of dark but he needs to be put up at like 8.5 because it doesn't make sense for him to be below characters like SR Ludmila or R Bakura
+        I would not at all be surprised to hear that they're already aware this would be a better way of doing things, or at least a way that would more clearly communicate itself to people not already familiar with their ranking system, but they just don't want to go through the work of reranking every unit in the game. It would be a pretty big project at this point. Honestly, I wouldn't wanna do it either.
+
+Frankly, a lot of the SSR's are about as irrelevant as any of the lower rarities. You could probably make a more cohesive list by just ranking everybody from the last three years and starting from the base assumption that anybody older than that doesn't matter.
+    yeah anything under 9.0 should just be changed to fully untiered and completely not worthwhile.
+
+then simplify the number scale so that this change is going from tier 9 down to tier 7.
+    I imagine that they want to change it as well, but doing so is a vast amount of work.
+
+It generally does it job though, even if it's very vague. I'd be interested in more detailed guides, but I'd expect that it would require some sort of compensation given how large the character pool is these days.
+        It's hard to communicate nuance in something as simple as a tier list. Most characters have (more or less niche) use cases, so a more "accurate" rating would be "it depends". Making some pretty rough simplifications to communicate to new players "hey this character is good, it's used a lot/BIS in important content" is very valuable imo. And as seen here, it's a fun discussion starter.
+            Yeah, I'm down for a 4th sub such as "Niche Usage" that goes into more specific encounter detail.
+
+You can use that to take out some of the "baked-in" power present in the overall ranking and allow them to drop a character to 8.5 even if they're meta-level in one particular fight.
+Ignore the leading 9 in those ratings. Fenie went from 6/10 to 8/10, Wilnas dropped from 9 to 7 etc. That paints a much better picture but yes, it's pretty silly anyways.
+    I like the implication that r richard is -60/10
+I mean it does mean jack if you read their criteria
+Pretty sure grand Zeta is way more responsible for the fall of Wilnas
+    the main culprit is Alanaan really, Wilnas needs to ougi first to get his gta, Alanaan inflicts shortened which fucks up with that  
+  
+Zeta did also hurt is FA usability due to doing the consistent dispels much better tho, and Luci0 requiring constant access to triple attacks also hurt him in HL as it can be hard to use him there (and ofc release of Fenie and Noa which are tailor made for that type of content too)
+        All 3 screwed over Wilnas by simply being better in every single situation. 
+
+Fenie is a better tank and she also heals and buffs. Her weapon is also a great singed stacker is a staff so can be used with one of the strongest classes in the game, so Wilnas doesn't need to do that.
+
+Zeta is just a better attacker than him that also comes with some more utility.
+
+Alanaan is the best burst enabler in fire but he doesn't work well with Wilnas.
+        Wilnas is still alright for V1 burst (for higher damage targets not like low like bhl) because you have to sack him on turn 1 anyway... So it's not that he isnt compatible with alanaan but he's regulated to a situation that doesn't exist outside gw (non revans content but with revans target threshold)
+        Tbh you can clarity it out and its not particularly weird considering it can also be used to enable Manaturas, but afaik Wilnas always need Target Charger to really be practical and at that point you don't really have slot anymore
+
+although IIRC the fire burst for PBHL didnt even use Clarity for MD but idk
+            it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+                yeah clarity is only used for longer setups like siete bluechest
+    It really was a mix of things, as the latest fire releases have all pushed him off the top in various ways. Speaking as an Agni player who loves Wilnas dearly.
+
+
+Fenie is an amazing tank+support whose utilities overlap with Wilnas, and who came with one of the best weapons in the game that happens to work with MD and inflicts Singed. Wilnas is no longer the best Singed stacker nor the best in HL/FA.
+
+
+Zeta is a potent attacker with steroids, multiple echoes, autonukes, GTA, double strike, and assassin without any support. Wilnas has multi-turn assassin, but he's hampered by his need to ougi, lack of innate echo, and low mods. He can output massive damage, but Zeta does so much more easily. Her existence also disincentivizes Falsehood ougi strats which made use of Berserker's sabre/axe-only echoes, not to mention Extremity.
+
+
+Alanaan is an insane buffer who also inflicts shorted. His GTA doesn't affect Wilnas, bar consumption+shorted makes it annoying to get Wilnas to ougi for GTA, and flurry isn't something that Wilnas especially benefits from due to his lack of echo (relative to Zeta). The ougi thing is especially troubling because TA big dmg, but there aren't enough team slots for Michael because "tag team but better" Percy.
+
+
+This just reminds me that this game is impenetrably complex. Thank god dojo is finally here to ease in new players.
+    Didn’t we already get fire regrades post-Zeta or am I crazy? If I’m misremembering, then yes, Zeta is a huge contributor. I was largely referencing his Fenie takes on some of the same singed role that Wilnas used to too.
+    And kinda Alan. Wlnas comp was like 6t with several points of Chain Burst being forced for a lockout iirc
+
+Meanwhile Alanaan just casually facerolls on the keyboard
+I think Wilnas honestly needs some improvement other than just slapping a singed debuff and calling it a rebalance.
+
+It's crazy how it's only been a year and most of the 6 dragons are now out of the meta.
+    Tin-foil hat but I’m kind of thinking they might be next up for FLBs when they’re done with the Disciples.
+To put it bluntly it's only a brick if people mash without a brain. It's just a dps loss otherwise which is fine.
+
+Fire md players are supposed to park at the skill damage omen if they get yellow sword.
+As someone who has yet to learn Faa0, could you please go into more detail about why using Fenie is a "coin flip" in that raid?
+    luci gets one of two buffs at 80% - repudiation (yellow sword) or renunciation (red sword) - fire fenie manadiver comp destroys faa0 if you coinflip red sword, while it gets bricked if you coinflip yellow sword and they end up mashing and dying (beware of manadiver fire players in your group if you don't want to coinflip on that 50%)
+        Most fire setups in general can't deal with yellow sword that well anyway. If a fire player died because they mashed while yellow sword then thats really a player issue not a setup issue.
+            What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+so bricked means not taking as much turns during a fifth of the fight or not scoring MVP, cool
+At her release yeah that was her main use but after Alanaan was crept out of fire teams SMim was basically only used for her s2 in nm95 teams. Alanaan getting his s4 didnt do anything to SMim since at that point her only use case was separate from Alanaans and she was already crept out of current nm95 teams by then.
+even before 5* though, old mim/alanaan burst was outdated compared to percy wiilnas.
+Even Luffy was considered the real 6D until the rebal giving Wilnas singed lmao, saying shit was rough on Wilnas was an understatement.
+    Tbh Luffy always was outpaced by Wilnas immediately just from Wilnas Silva interaction already existing at the time and when Mika drops, its joever for Luffy
+        IIRC the reason Luffy stay relevant in Silva Percy comp was his Singed application, then Wilnas also has it and phased Luffy out completely, but yeah in hindsight Wilnas's reception swing really fast with dooming on arrival, then Luffy arrived, and right after than Y.Silva came and his potential realized.
+            No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+IIRC ougi was expected to be the next pushed thing since other comps in Fire is falling off, though the extend they push ougi up is wild nonetheless
+    At the time they pushed Fire Ougi, Fire already had Percival and the GW that happened during Mika's first go around was fairly chill due to how jacked Perci is. Fire Auto honestly was in a better place at the time between Mika release, Percy, Christmas Cain etc
+
+Fire Ougi was the most common set up for the important Siete raid 2 months later since the earliest strategy that pops up was Kengo Satyr, but Kengo Satyr is a significantly worse set up than most Echo Chain janks
+Nah, he got rebalanced next pact so he can inflict Singed for Percy synergy and that's that, enough to make him edge over Luffy.
+this getting downvoted randomly is beyond me
+    Its just how this subreddit is, hell even your getting downvotes, and i expect this post to get downvoted too.
+It's never going to be fixed until they just accept that SR/R characters should be dropped from tier lists, and then the couple with niche relevance like lyria or specific setups like luna with s.ilsa can just be special notes. it made some sense in the early days when there were far less SSRs, kits were far simpler and the expectation was that you'd actually be making use of SRs in your teams, but that hasn't been the case for so long. Now their presence in the tier list rankings is just forcing them to keep all the SSRs super inflated in value. 
+
+Like yeah, a character like Marquiares is pretty worthless in the modern state of dark but he needs to be put up at like 8.5 because it doesn't make sense for him to be below characters like SR Ludmila or R Bakura
+    I would not at all be surprised to hear that they're already aware this would be a better way of doing things, or at least a way that would more clearly communicate itself to people not already familiar with their ranking system, but they just don't want to go through the work of reranking every unit in the game. It would be a pretty big project at this point. Honestly, I wouldn't wanna do it either.
+
+Frankly, a lot of the SSR's are about as irrelevant as any of the lower rarities. You could probably make a more cohesive list by just ranking everybody from the last three years and starting from the base assumption that anybody older than that doesn't matter.
+yeah anything under 9.0 should just be changed to fully untiered and completely not worthwhile.
+
+then simplify the number scale so that this change is going from tier 9 down to tier 7.
+I imagine that they want to change it as well, but doing so is a vast amount of work.
+
+It generally does it job though, even if it's very vague. I'd be interested in more detailed guides, but I'd expect that it would require some sort of compensation given how large the character pool is these days.
+    It's hard to communicate nuance in something as simple as a tier list. Most characters have (more or less niche) use cases, so a more "accurate" rating would be "it depends". Making some pretty rough simplifications to communicate to new players "hey this character is good, it's used a lot/BIS in important content" is very valuable imo. And as seen here, it's a fun discussion starter.
+        Yeah, I'm down for a 4th sub such as "Niche Usage" that goes into more specific encounter detail.
+
+You can use that to take out some of the "baked-in" power present in the overall ranking and allow them to drop a character to 8.5 even if they're meta-level in one particular fight.
+I like the implication that r richard is -60/10
+the main culprit is Alanaan really, Wilnas needs to ougi first to get his gta, Alanaan inflicts shortened which fucks up with that  
+  
+Zeta did also hurt is FA usability due to doing the consistent dispels much better tho, and Luci0 requiring constant access to triple attacks also hurt him in HL as it can be hard to use him there (and ofc release of Fenie and Noa which are tailor made for that type of content too)
+    All 3 screwed over Wilnas by simply being better in every single situation. 
+
+Fenie is a better tank and she also heals and buffs. Her weapon is also a great singed stacker is a staff so can be used with one of the strongest classes in the game, so Wilnas doesn't need to do that.
+
+Zeta is just a better attacker than him that also comes with some more utility.
+
+Alanaan is the best burst enabler in fire but he doesn't work well with Wilnas.
+    Wilnas is still alright for V1 burst (for higher damage targets not like low like bhl) because you have to sack him on turn 1 anyway... So it's not that he isnt compatible with alanaan but he's regulated to a situation that doesn't exist outside gw (non revans content but with revans target threshold)
+    Tbh you can clarity it out and its not particularly weird considering it can also be used to enable Manaturas, but afaik Wilnas always need Target Charger to really be practical and at that point you don't really have slot anymore
+
+although IIRC the fire burst for PBHL didnt even use Clarity for MD but idk
+        it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+            yeah clarity is only used for longer setups like siete bluechest
+It really was a mix of things, as the latest fire releases have all pushed him off the top in various ways. Speaking as an Agni player who loves Wilnas dearly.
+
+
+Fenie is an amazing tank+support whose utilities overlap with Wilnas, and who came with one of the best weapons in the game that happens to work with MD and inflicts Singed. Wilnas is no longer the best Singed stacker nor the best in HL/FA.
+
+
+Zeta is a potent attacker with steroids, multiple echoes, autonukes, GTA, double strike, and assassin without any support. Wilnas has multi-turn assassin, but he's hampered by his need to ougi, lack of innate echo, and low mods. He can output massive damage, but Zeta does so much more easily. Her existence also disincentivizes Falsehood ougi strats which made use of Berserker's sabre/axe-only echoes, not to mention Extremity.
+
+
+Alanaan is an insane buffer who also inflicts shorted. His GTA doesn't affect Wilnas, bar consumption+shorted makes it annoying to get Wilnas to ougi for GTA, and flurry isn't something that Wilnas especially benefits from due to his lack of echo (relative to Zeta). The ougi thing is especially troubling because TA big dmg, but there aren't enough team slots for Michael because "tag team but better" Percy.
+
+
+This just reminds me that this game is impenetrably complex. Thank god dojo is finally here to ease in new players.
+Didn’t we already get fire regrades post-Zeta or am I crazy? If I’m misremembering, then yes, Zeta is a huge contributor. I was largely referencing his Fenie takes on some of the same singed role that Wilnas used to too.
+And kinda Alan. Wlnas comp was like 6t with several points of Chain Burst being forced for a lockout iirc
+
+Meanwhile Alanaan just casually facerolls on the keyboard
+Tin-foil hat but I’m kind of thinking they might be next up for FLBs when they’re done with the Disciples.
+luci gets one of two buffs at 80% - repudiation (yellow sword) or renunciation (red sword) - fire fenie manadiver comp destroys faa0 if you coinflip red sword, while it gets bricked if you coinflip yellow sword and they end up mashing and dying (beware of manadiver fire players in your group if you don't want to coinflip on that 50%)
+    Most fire setups in general can't deal with yellow sword that well anyway. If a fire player died because they mashed while yellow sword then thats really a player issue not a setup issue.
+        What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+Tbh Luffy always was outpaced by Wilnas immediately just from Wilnas Silva interaction already existing at the time and when Mika drops, its joever for Luffy
+    IIRC the reason Luffy stay relevant in Silva Percy comp was his Singed application, then Wilnas also has it and phased Luffy out completely, but yeah in hindsight Wilnas's reception swing really fast with dooming on arrival, then Luffy arrived, and right after than Y.Silva came and his potential realized.
+        No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+At the time they pushed Fire Ougi, Fire already had Percival and the GW that happened during Mika's first go around was fairly chill due to how jacked Perci is. Fire Auto honestly was in a better place at the time between Mika release, Percy, Christmas Cain etc
+
+Fire Ougi was the most common set up for the important Siete raid 2 months later since the earliest strategy that pops up was Kengo Satyr, but Kengo Satyr is a significantly worse set up than most Echo Chain janks
+Its just how this subreddit is, hell even your getting downvotes, and i expect this post to get downvoted too.
+I would not at all be surprised to hear that they're already aware this would be a better way of doing things, or at least a way that would more clearly communicate itself to people not already familiar with their ranking system, but they just don't want to go through the work of reranking every unit in the game. It would be a pretty big project at this point. Honestly, I wouldn't wanna do it either.
+
+Frankly, a lot of the SSR's are about as irrelevant as any of the lower rarities. You could probably make a more cohesive list by just ranking everybody from the last three years and starting from the base assumption that anybody older than that doesn't matter.
+It's hard to communicate nuance in something as simple as a tier list. Most characters have (more or less niche) use cases, so a more "accurate" rating would be "it depends". Making some pretty rough simplifications to communicate to new players "hey this character is good, it's used a lot/BIS in important content" is very valuable imo. And as seen here, it's a fun discussion starter.
+    Yeah, I'm down for a 4th sub such as "Niche Usage" that goes into more specific encounter detail.
+
+You can use that to take out some of the "baked-in" power present in the overall ranking and allow them to drop a character to 8.5 even if they're meta-level in one particular fight.
+All 3 screwed over Wilnas by simply being better in every single situation. 
+
+Fenie is a better tank and she also heals and buffs. Her weapon is also a great singed stacker is a staff so can be used with one of the strongest classes in the game, so Wilnas doesn't need to do that.
+
+Zeta is just a better attacker than him that also comes with some more utility.
+
+Alanaan is the best burst enabler in fire but he doesn't work well with Wilnas.
+Wilnas is still alright for V1 burst (for higher damage targets not like low like bhl) because you have to sack him on turn 1 anyway... So it's not that he isnt compatible with alanaan but he's regulated to a situation that doesn't exist outside gw (non revans content but with revans target threshold)
+Tbh you can clarity it out and its not particularly weird considering it can also be used to enable Manaturas, but afaik Wilnas always need Target Charger to really be practical and at that point you don't really have slot anymore
+
+although IIRC the fire burst for PBHL didnt even use Clarity for MD but idk
+    it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+        yeah clarity is only used for longer setups like siete bluechest
+Most fire setups in general can't deal with yellow sword that well anyway. If a fire player died because they mashed while yellow sword then thats really a player issue not a setup issue.
+    What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+IIRC the reason Luffy stay relevant in Silva Percy comp was his Singed application, then Wilnas also has it and phased Luffy out completely, but yeah in hindsight Wilnas's reception swing really fast with dooming on arrival, then Luffy arrived, and right after than Y.Silva came and his potential realized.
+    No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+Yeah, I'm down for a 4th sub such as "Niche Usage" that goes into more specific encounter detail.
+
+You can use that to take out some of the "baked-in" power present in the overall ranking and allow them to drop a character to 8.5 even if they're meta-level in one particular fight.
+it doesn't use clarity yeah cause with 1 turn you can get 1.6m honors easily even without it, if you take a 2nd turn can go 2m+ even with just attack so you don't really need clarity to get to a decent blue chance (I farm pbhl whenever I have time myself after all), pretty sure you can go higher but I don't have fire opus at 230 yet to test
+    yeah clarity is only used for longer setups like siete bluechest
+What I hear from torch diver players I know, they just take less turns during yellow sword. Some don't even bother taking more than one turn for that phase. 
+
+If they're still mashing through yellow sword, they either haven't bothered to read what the swords do - or they care too much about DPM to play properly. 
+
+Some players thirst for DPM for some reason to the point where they sabotage the run. Not surprising since fire is currently the highest DPM for faa0, and that attracts a lot of players hungry for a DPM screenshot.
+No, Y Silva was WAY before Luffy. Like more than half a year early. In fact she gets her second summer round right before Luffy arrived
+yeah clarity is only used for longer setups like siete bluechest

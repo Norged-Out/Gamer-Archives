@@ -1,0 +1,134 @@
+[[Does anyone know a good method for levelling up classes]]
+
+
+I already know some people are just going to say "play the game", but unfortunately I don't have much time to play, and when I do, I want to try different builds etc. So I was looking for a way to level up my classes a bit faster than just playing the game on apocalypse.
+
+I'm on console btw.
+
+
+The XP trait, mudtooth's XP potion, equip sagestone ring, ~~set the targeted archetype as primary~~, play apoc and kill all mobs
+
+Edit: Hatchery and Chimney are good locations
+    [removed]
+        Ah okay good to know, thanks for correcting 👍
+    Wouldn't say chimney is good for it. It used to be, but it seems that they patched it. When I tried it I stayed at the bottom part slaughtering enemies for half an hour and got almost no xp
+        Yeah I noticed that a couple weeks back, ofc the first time I actually roll that locale.
+        I haven't tried it again so I'm not sure since I tried this like a month back
+            I tried it a few days ago. Has been patched.
+    Doesn't have to be hatchery, any area with the bugs on N'Erud is good.
+
+I was getting like 3.5k xp every 2 or so minutes in Dark Conduit. Run through like half the dungeon to a good corner, pop Nano Swarm, shoot with Nebula to make clouds, and everything dies even if it runs off from the DoT. Do the same with the other half or die and repeat depending on the layout and general mob spawns.
+
+Honestly this works with any dungeon that has fairly quick enemies.
+    What you do when grinding the hatchery, don’t get hit by the post death explosion of the Hatcher relief with mudtooths XP boost. It is bugged and takes away the buff.
+        Is it a bug, or intended? Those champions and the ones in the boss fight both seem to be capable of wiping player buffs with their poison gas. Seems intentional.
+            Pretty sure a bug. Nothing indicates that is suppose to happen. If it is, then it needs to be added to a debuff description. I submitted a report on discord and they responded that it’s being added to the issue list.
+    Chimney is no longer a good location, it was nerfed. mob don't give exp at all during the walk down or final showdown
+    Technically speaking though if you have one class maxed out no matter it's position, the other class you equip will lvl quicker due to all xp going to the one and not the other class
+    What you mean to say is REMOVE Secondary Archetype so the Primary gets 100% XP thus speeding up leveling. Once you have one maxed you can leave the maxed one on and the not-maxed one will gain 100% xp
+Hatchery or kill the big bois in the red throne over and over again.
+    I recommend using hatchery with enigma. Those big guys are annoying
+        Usually can one shot one of them with star shot then just use corrosive shot on my main gun and kill the other one then kill myself
+I’ve found that the Red Throne on Yaesha is one of the best places for farming. Throw on Scholar, Sagestone, and Mudtooth’s Elixir and reroll your adventure until you get the tile set.
+
+There are three elites in the starting area, and if you go into the queen’s throne room and disrespect her, you can kill another four.
+
+What I do is intentionally die to the elites in the throne room so I respawn in jail. Then, I kill the three in jail, exit, kill the three in the courtyard, and sip some liquid escape to redo it all. You’ll earn XP pretty quick this way since elites give you more XP, and this area is chalked full of them.
+Potion, ring and scholar trait, go to the Red Throne on Apo and kill the 3 big guys and reset.
+If you don’t mind rerolling often, you can farm the 3 chests there, Ford’s scatter gun and then kill the 4 big guys by the empress.
+1. Max exp trait
+2. Sage stone ring
+3. Mudtooth's potion
+
+Join someone who's on root earth and help them reach Venom. Help them kill venom if possible.
+
+The path between Cancer and Venom gives a lot of xp.
+    This. Gunslinger jumped from 3 to around 6 doing this with random.
+https://reddit.com/r/remnantgame/s/ZnhAplz5HG
+
+This is what I did, max out everything in a few hours
+    This was the best and easiest with barely any gear needed. I think I went from 75-110 with one mudtooth potion.
+    Seriously this acid build in the hatchery is insane. Only thing you need to run.
+Put on all the xp boosting things and the amulet that makes you fart corrosive gas when you swap weapons, then go farm the hatchery.
+In the Widow's Court on Yaesha there's a spot by the door to the next area where 4 royal guards patrol, as well as a root elite across the courtyard. Go through to the next area, come back and kill all 5 (best way I found was grouping them up and dropping a firestorm and havoc form), then drink some liquid escape. You'll respawn back at the door; rinse and repeat. Be sure to use scholar trait, mudtooth's elixer (switch to alchemist first to extend duration), and sagestone ring to maximize exp gains. Each run took me about 2-3 minutes, so about an hour or so to level 10 per archetype.
+Here ya go bud
+
+https://vimeo.com/manage/videos/859116025
+Honestly, whatever advice folks might give you. You shouldn't use Apoc in order to level up. Sure, there is a 50% exp bonus for doing so but mobs have 4.5x health and deal nearly 3x damage. Survivor is still the best way to power level.
+
+The best way to level RN is probably this: [https://www.youtube.com/watch?v=5fxc0M9TwIo](https://www.youtube.com/watch?v=5fxc0M9TwIo)
+
+The usual advice still applies: Sagestone,  Mudtooth's XP Potion and Scholar trait should always be used.
+The hatchery, toxic release valve, time keepers jewel, the ring that grats 10% exp, and the scholar trait maxed out.
+> I want to try different builds etc.
+
+I was in the same boat. So I would find builds I would want to try with classes I haven't levelled up yet, make a handicapped version of the build and farm the remaining items while also levelling the archtypes.
+
+Used Pyromancer build to level my archon, a fun bloodsucker melee build for levelling my invader, heavy turret weapon engineer,  just farming missing items with Explorer, etc.
+If you are pressed for time your best bet is stacking the exp concoction Mudtooth sells, sagestone ring and the Scholar trait. All three stack for a combined 40% exp boost.
+
+Also temember that if you slot 2 archtypes that are under rank 10, any exp you earn gets split 50/50 between them until one of them hits rank 10 which means both archtypes level at a slower rate. Slot an archtype you have already maxed out as your primary and set the one you want powerleveled as your secondary. Once that one reaches rank  10 rotate it out for the next class you want to power level
+Use the potion,ring, and scholar trait. Then farm hatchery on apocalypse. Another way is to farm the bottom of the chimney.....but at a lower level.
+    They patched the chimney exp, I thought.
+        They did patch chimney exp
+    apoc does give more xp per enemy but it takes much more time to kill each enemy. you get a better xp rate per minute for doing survivor.
+Yes, just play the game!
+The amount of time grinding is time you could have been having fun if you are time poor. I found that over the course of 2 nights I could level up a secondary archetype by having fun. This was on survivor mostly. I would go with Gunslinger primary fully levelled (for fun), use scholar, the XP ring and XP elixir and then head out and join a game in progress. I'd usually pick up some new bits and pieces each night, depending on what the host was doing, for fun. It's a" not-quite-take" on your criteria.
+Go to chimney all the way down and equip enigma
+    It’s patched unfortunately
+I just wish midtooth would sell his elixer man. I got sagestone, but he literally resets every time I return to the ward. Only ever offers his initial basic set of potions.
+Nerud, Hatchery, exp ring, concoction and trait  
+
+
+Use Amplitude + Toxic Release Valve, Resonance + Spectral Blade or Enigma + Hunter's Mark, to kill everything asap while on the run, get to checkpoint and reset.
+Focus on getting loot you don't have. You will need this anyway for making stronger builds and opening new classes. Take one character you already maxed for being effective, and another for leveling up. In my opinion easiest difficulty is better way for leveling. Yes you get less xp but you kill everything much faster. Just take enigma and destroy all on your way while you looking for some secrets or rushing to the boss for his loot.
+Losomn and N’Erud both have some great levels with plenty of swarms that aren’t *too* difficult. Rolling and rerolling on adventure mode in those places will get it done quick.
+Mudtooth's tonic, the xp trait, and sage stone. Plus higher difficulties give more xp. For reference I think the xp gain is 180% in apoc compared to survivor. Running the yeasha first overworld map over and over again was great XP. There is also that chance to get the root tree boss.
+My strategy is to play on apocalypse + get all xp bonuses + full area bonus on cards and rings + all the speed you can get (ideally max card + treasure hunter skill), optional get the scrap amulet for some extra gold.
+
+Go to yaesha, get to a spawn that is very near to a group of rootballs; firestorm the group of rootballs that are very weak to fire and will die in 1/2 ticks, walk in the middle of the storm to get the scrap and die.
+
+A single iteration should net you around 500xp and take about 20 seconds round trip. :D
+The chimney has a leveling and scrap glitch but it probably just got patched with the update this week. Never used it just saw it on YouTube. I did like the others, the hatchery. Just kill everything and keep loading back in. You'll gain levels pretty quick
+As a man who power leveled six archetypes in the Hatchery, don’t do it lol. It’s mind numbing after a while
+Hatchery on apocalypse, liquid escape right before boss checkpoint and just keep running it. Sagestone scholar maxed and mudtooths tonic.
+Hatchery on apocalypse would get u at least 6.5k a run
+I did it by running one toon until adventure mode was unlocked, then created a 2nd toon. Then I just keep rerolling adventure mode (max world level goes to 10). I only upgraded traits and relic from there, and stockpile mats. Once I collect all possible gear and level up all possible archetypes, I  will switch to campaign and run from there. So far, loving handler/engineer and handler/summoner. Haven't gotten to the rest yet. Then again, I have the time for that method, as my job is sitting doing mostly nothing. Really getting paid to game and stream movies/shows. I'm night security at a gated retirement community.
+Harchery all the way. Levels go brrrr
+I did my last 2 archetypes by finding a dungeon with bugs like the hatchery and just ran checkpoint to checkpoint melting them with enigma. Tried red throne and other areas and it wasnt anywhere near a fast. I did this on nightmare difficulty.
+[removed]
+    Ah okay good to know, thanks for correcting 👍
+Wouldn't say chimney is good for it. It used to be, but it seems that they patched it. When I tried it I stayed at the bottom part slaughtering enemies for half an hour and got almost no xp
+    Yeah I noticed that a couple weeks back, ofc the first time I actually roll that locale.
+    I haven't tried it again so I'm not sure since I tried this like a month back
+        I tried it a few days ago. Has been patched.
+Doesn't have to be hatchery, any area with the bugs on N'Erud is good.
+
+I was getting like 3.5k xp every 2 or so minutes in Dark Conduit. Run through like half the dungeon to a good corner, pop Nano Swarm, shoot with Nebula to make clouds, and everything dies even if it runs off from the DoT. Do the same with the other half or die and repeat depending on the layout and general mob spawns.
+
+Honestly this works with any dungeon that has fairly quick enemies.
+What you do when grinding the hatchery, don’t get hit by the post death explosion of the Hatcher relief with mudtooths XP boost. It is bugged and takes away the buff.
+    Is it a bug, or intended? Those champions and the ones in the boss fight both seem to be capable of wiping player buffs with their poison gas. Seems intentional.
+        Pretty sure a bug. Nothing indicates that is suppose to happen. If it is, then it needs to be added to a debuff description. I submitted a report on discord and they responded that it’s being added to the issue list.
+Chimney is no longer a good location, it was nerfed. mob don't give exp at all during the walk down or final showdown
+Technically speaking though if you have one class maxed out no matter it's position, the other class you equip will lvl quicker due to all xp going to the one and not the other class
+What you mean to say is REMOVE Secondary Archetype so the Primary gets 100% XP thus speeding up leveling. Once you have one maxed you can leave the maxed one on and the not-maxed one will gain 100% xp
+I recommend using hatchery with enigma. Those big guys are annoying
+    Usually can one shot one of them with star shot then just use corrosive shot on my main gun and kill the other one then kill myself
+This. Gunslinger jumped from 3 to around 6 doing this with random.
+This was the best and easiest with barely any gear needed. I think I went from 75-110 with one mudtooth potion.
+Seriously this acid build in the hatchery is insane. Only thing you need to run.
+They patched the chimney exp, I thought.
+    They did patch chimney exp
+apoc does give more xp per enemy but it takes much more time to kill each enemy. you get a better xp rate per minute for doing survivor.
+It’s patched unfortunately
+Ah okay good to know, thanks for correcting 👍
+Yeah I noticed that a couple weeks back, ofc the first time I actually roll that locale.
+I haven't tried it again so I'm not sure since I tried this like a month back
+    I tried it a few days ago. Has been patched.
+Is it a bug, or intended? Those champions and the ones in the boss fight both seem to be capable of wiping player buffs with their poison gas. Seems intentional.
+    Pretty sure a bug. Nothing indicates that is suppose to happen. If it is, then it needs to be added to a debuff description. I submitted a report on discord and they responded that it’s being added to the issue list.
+Usually can one shot one of them with star shot then just use corrosive shot on my main gun and kill the other one then kill myself
+They did patch chimney exp
+I tried it a few days ago. Has been patched.
+Pretty sure a bug. Nothing indicates that is suppose to happen. If it is, then it needs to be added to a debuff description. I submitted a report on discord and they responded that it’s being added to the issue list.

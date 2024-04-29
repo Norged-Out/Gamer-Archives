@@ -1,0 +1,105 @@
+[[Kulve Taroth Event Quest]]
+
+
+Is the Kulve Taroth event quest scaled to solo play? I can't seem to do enough damage before she runs away, I also am not sure if I am progressed enough to do it solo either lol. Using Beotodus DB because I'm unsure what Kulve is weak to and just wanted to fight her
+
+
+The Kulve Taroth event quest is somewhat scaled to solo play. It has less health when fought solo however the hp pool is still extremely big. I don’t know how far you are into the endgame and I don’t play DB so I don’t know how powerful the Beotodus ones are but to put it into perspective Kulve Taroth has more health than Alatreon when done solo. That’s not to say it’s impossible but very hard without endgame gear.
+    while it has high HP its not that high and its hitzones (raw+element) are very good so the effective HP isnt (much) higher
+
+and alatreon is just 1.5K less HP, which is basically the same
+
+e: still agree that its a hard/good gear needed fight bc of the DPS check
+
+e2: element got nerfed in MR so raw is better even for elemental DBs/bow but element is still viable "enough" to use it (if you swap)
+        Oh yeah my bad haven’t fought Kulve in a while but I might have to now that I remember those juicy hit zones.
+        In MR it's elemental hitzones are pretty awful in comparison to it's raw hitzones especially since the hitzones aren't static.
+
+In A1 it's ele hzv for forelegs has a 20 to ice, but as soon as you break the coating it becomes 0 and hindlegs become the best at 15, when Kulve becomes molten, ice does 0 damage whatsoever then when released head and forelegs become 20 ehzv.
+
+For thunder A1 forelegs are at 0 with he coating, 10 when broken, when she becomes molten everything is a 20, when released everything is 0 and those 2 are "the best" options.
+
+Even element favoured weapons like bow and dual blades run raw weapons versus Kulve in MR specifically.
+            yeah sry i forgot about the MR nerf bc CB SAED still does decent dmg (although i still run raw for comfort most of the time)
+MR Kulve Tarroth is an "Arch Tempered Elder Dragon". So, if you are able to say your gear holds up well against Master Rank Tempered Elder Dragon fights (not guiding lands, they're a bit tankier and hit a bit harder still), then you're about on par to start dabbling with the MR KT event quest. I think KT is a bit easier than the Arch Tempered Namielle and Velkhana, generally speaking, but it still hits like a truck and you need to be really on top of your damage in the beginning stages of the fight or else you won't progress.
+
+What's a little annoying about this fight though is that the element values are drastically different for the gold plating and the .... exposed monster bits. If you're willing to change your weapon midway through the fight, you could minmax it, but I just go with raw for it. But, i get it, DB is all about that disgusting elemental damage. You could switch to a Blast DB, that would be potentially helpful if you don't want to switch mid fight. 
+
+I think it's like, electric for ... fuck I don't remember. It's in your hunters notes eventually, and if you finish the Siege event once you should pretty much max out your research poitns on KT.
+    MR kulve is not AT stat wise
+
+e: blast (any status) DBs are shit, if raw then fatty (which is viable vs kulve bc of juicy raw hitzones) but DBs shine with element as you said and theres no reason not to switch as the DPS timer doesnt start when it switches areas (1st to 2nd area is when element effectiveness swaps)
+
+thunder (or lesser fire) for gold covered parts and ice for "Naked" parts
+        On kulve I'm 90% certain that fatalis dbs just beat elemental bc her elemental hitzones are subpar and her raw ones are insane
+            On top of the fact that ele hitzones have drastic changes between coating, molten and released, some go from 20 ehzv > 0.
+
+You're correct that everything runs raw versus Kulve.
+        Stats being comparable or not, it's still Arch tempered, and is a tier above normal tempered fights. I did say it was the easiest of the MR ATs and regular tempered Elders is a better measuring stick for ability to beat it. The rest you said is very valuable though. I forgot that Kulve will always shed the mantle heading into zone 2, provided the dps check is met, so yeah that's an easy swap point for everyone.
+            MR kulve is not archtempered though
+
+e: not even tempered, check kiranico
+Really you should focus on boulders, slingshotting into a wall, and cannons; regular weapon attacks are not the best in the fight because horns are too high up, her gold cloak provides massive defense, the middle plate on her chest has a really finicky hit box, her legs are moving; and if she's on the ground then just hit the horns since that's what you should be focusing, clutched weapon attacks on the head are pretty good though if she can't be wall shotted. Of course if you get her fully stunned on the ground that's the best time to aim for the head with all your attacks and bombs I'd say
+
+Best intro I seem to get is immediately climbing up onto the higher area right in front of where you spawn and going forward towards the cannon, most of the time (at least for me) she'll be close to there and on a path that'll end up passing that cannon so almost guaranteed 4 usually 5 shots there
+    That's for the siege, not the event quest.
+This quest is very soloable and easy to if you have proper setup. You will do no ice damage,  you have break her leg or attack the exposed area where no gold is coated. You have to tenderize her arm and chest then you flinch shot her it will break instantly. Preferably attack the same arm, she'll got toppled eventually.  
+
+
+The fight will be very easy, If you can mount her (not sure if DB have easy mounting attack). You have to tenderize her head then flinch shot until she is enraged. Then you mount her, this will force she into molten state where her body glow red. HZV will be much better, If you mount her until she is down, it's free damage on head. If your build is good enough you can break her head and she will stay down again. Now, phase 1 is done and free mats from breaking her head in phase 1.
+Keep in mind that she's basically immune to ice in the first phase (while still covered in gold), you'll want thunder element for this phase. When she drops the gold mantle she'll become immune to thunder and weak to ice for the rest of the fight. Once she heads into phase 2/area 2 that's your time to switch elements.
+I’d say you need to get a little further down the line of weapons before fighting kulve solo
+while it has high HP its not that high and its hitzones (raw+element) are very good so the effective HP isnt (much) higher
+
+and alatreon is just 1.5K less HP, which is basically the same
+
+e: still agree that its a hard/good gear needed fight bc of the DPS check
+
+e2: element got nerfed in MR so raw is better even for elemental DBs/bow but element is still viable "enough" to use it (if you swap)
+    Oh yeah my bad haven’t fought Kulve in a while but I might have to now that I remember those juicy hit zones.
+    In MR it's elemental hitzones are pretty awful in comparison to it's raw hitzones especially since the hitzones aren't static.
+
+In A1 it's ele hzv for forelegs has a 20 to ice, but as soon as you break the coating it becomes 0 and hindlegs become the best at 15, when Kulve becomes molten, ice does 0 damage whatsoever then when released head and forelegs become 20 ehzv.
+
+For thunder A1 forelegs are at 0 with he coating, 10 when broken, when she becomes molten everything is a 20, when released everything is 0 and those 2 are "the best" options.
+
+Even element favoured weapons like bow and dual blades run raw weapons versus Kulve in MR specifically.
+        yeah sry i forgot about the MR nerf bc CB SAED still does decent dmg (although i still run raw for comfort most of the time)
+MR kulve is not AT stat wise
+
+e: blast (any status) DBs are shit, if raw then fatty (which is viable vs kulve bc of juicy raw hitzones) but DBs shine with element as you said and theres no reason not to switch as the DPS timer doesnt start when it switches areas (1st to 2nd area is when element effectiveness swaps)
+
+thunder (or lesser fire) for gold covered parts and ice for "Naked" parts
+    On kulve I'm 90% certain that fatalis dbs just beat elemental bc her elemental hitzones are subpar and her raw ones are insane
+        On top of the fact that ele hitzones have drastic changes between coating, molten and released, some go from 20 ehzv > 0.
+
+You're correct that everything runs raw versus Kulve.
+    Stats being comparable or not, it's still Arch tempered, and is a tier above normal tempered fights. I did say it was the easiest of the MR ATs and regular tempered Elders is a better measuring stick for ability to beat it. The rest you said is very valuable though. I forgot that Kulve will always shed the mantle heading into zone 2, provided the dps check is met, so yeah that's an easy swap point for everyone.
+        MR kulve is not archtempered though
+
+e: not even tempered, check kiranico
+That's for the siege, not the event quest.
+Oh yeah my bad haven’t fought Kulve in a while but I might have to now that I remember those juicy hit zones.
+In MR it's elemental hitzones are pretty awful in comparison to it's raw hitzones especially since the hitzones aren't static.
+
+In A1 it's ele hzv for forelegs has a 20 to ice, but as soon as you break the coating it becomes 0 and hindlegs become the best at 15, when Kulve becomes molten, ice does 0 damage whatsoever then when released head and forelegs become 20 ehzv.
+
+For thunder A1 forelegs are at 0 with he coating, 10 when broken, when she becomes molten everything is a 20, when released everything is 0 and those 2 are "the best" options.
+
+Even element favoured weapons like bow and dual blades run raw weapons versus Kulve in MR specifically.
+    yeah sry i forgot about the MR nerf bc CB SAED still does decent dmg (although i still run raw for comfort most of the time)
+On kulve I'm 90% certain that fatalis dbs just beat elemental bc her elemental hitzones are subpar and her raw ones are insane
+    On top of the fact that ele hitzones have drastic changes between coating, molten and released, some go from 20 ehzv > 0.
+
+You're correct that everything runs raw versus Kulve.
+Stats being comparable or not, it's still Arch tempered, and is a tier above normal tempered fights. I did say it was the easiest of the MR ATs and regular tempered Elders is a better measuring stick for ability to beat it. The rest you said is very valuable though. I forgot that Kulve will always shed the mantle heading into zone 2, provided the dps check is met, so yeah that's an easy swap point for everyone.
+    MR kulve is not archtempered though
+
+e: not even tempered, check kiranico
+yeah sry i forgot about the MR nerf bc CB SAED still does decent dmg (although i still run raw for comfort most of the time)
+On top of the fact that ele hitzones have drastic changes between coating, molten and released, some go from 20 ehzv > 0.
+
+You're correct that everything runs raw versus Kulve.
+MR kulve is not archtempered though
+
+e: not even tempered, check kiranico

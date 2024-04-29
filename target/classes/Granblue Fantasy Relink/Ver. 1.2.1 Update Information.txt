@@ -1,0 +1,826 @@
+[[Ver. 1.2.1 Update Information]]
+
+
+[https://relink.granbluefantasy.jp/en/news/detail?id=mrxy758qg2di](https://relink.granbluefantasy.jp/en/news/detail?id=mrxy758qg2di)
+
+## Ver. 1.2.1 Update Information
+
+The following update applies various changes listed below.
+
+Players who have purchased the disc version are strongly encouraged to download and install this latest update.
+
+## Changes from Ver. 1.1.2 (PlayStation®) and Ver. 1.1.4 (Steam):
+
+## New Content
+
+* Added two new challenging quests: "Gulp... So These Are the Rumored Monsters" and "Lock Horns."　How to unlock "Gulp... So These Are the Rumored Monsters": unlock Extreme-difficulty quests.　How to unlock "Lock Horns": Clear "The Tale of Bahamut's Rage" quest.
+* Added two new playable characters: Seofon and Tweyen. These two characters require special crewmate cards, which can be traded for at the Knickknack Shack.　 Treasure required for the cards is obtained from the quests "Gulp... So These Are the Rumored Monsters" or "Lock Horns."　\*Character Expansion Sets are also available for purchase. Each set contains the necessary treasure for unlocking their respective character.
+* Added sigils with new traits. They will appear in the Knickknack Shack after clearing "Gulp... So These Are the Rumored Monsters" or "Lock Horns."
+* Added new trophies.
+* Up to 30 sigil transmutations can now be simultaneously executed at one time.
+* Added the option to rewatch the end credits from the Title Screen. The option will unlock after completing the Final Chapter.
+
+## Battle
+
+## General
+
+* Environmental factors such as strong winds and ground tremors should no longer interrupt players that have an active Stout Heart effect.　This also applies to non-Stout Heart effects that prevent interrupts from foe attacks.
+* Increased the radius of stun damage dealt to foes upon a successful perfect guard.
+* Improved the visibility of visual indicators for successful perfect guards performed by party members.
+* Improved the visibility of damage numbers that have hit their damage cap.
+
+https://preview.redd.it/rg5py7941mwc1.png?width=400&format=png&auto=webp&s=074a1b7ce4cfd38786850f60d00a20aa6d0192c4
+
+* When Battle Camera Correction is set to Off, the camera should no longer automatically point toward the originator of a chain burst.
+* Fixed a bug where the Tyranny trait effect wasn't properly applying to Skybound Arts.
+* Fixed a bug where the "Boosts the amount of link level gained" effect granted by the Linked Together trait wasn't properly applying to Skybound Arts.
+* Fixed an intermittent bug where Eugen's sticky grenade attacks failed to fill his SBA gauge.
+* Party members with a skill that can revive will no longer automatically cast that skill on a player who enters critical condition and has the Autorevive status effect.
+* Fixed a bug that, under certain conditions, caused the player to continuously guard despite only pressing the guard button once.
+
+\_\_
+
+&#x200B;
+
+**The Captain (Gran/Djeeta)**　　
+
+* Fixed an intermittent bug where the damage cap of Decimate would be superseded by the damage caps of other attacks.
+
+**Katalina**
+
+* Environmental factors such as strong winds and ground tremors should no longer cancel Ares's summoning during Ares Pactstrike.
+* Increased the amount of gauge gain granted by the Ares Gauge Gain Up mastery node.
+* Fixed an intermittent bug that, under certain conditions, caused the Guardian's Honor trait to not work properly.
+
+**Rackam**
+
+* Increased Bull's Eye Blast's damage cap based on its charged level.
+* Increased the damage cap of well-timed  □  attacks.
+* Increased the damage cap of launch attacks.
+* Increased Bullet Hail's damage cap.
+
+**Io**
+
+* Added a "Boost to Stargaze's charge speed" effect to the Enhanced Mystic Vortex (Link Time) mastery node.
+* Concentration now also grants Debuff Immunity. Furthermore, whenever Io gains a Mystic Vortex orb within Concentration's circle, she'll gain the maximum number of orbs instead.
+* Shortened Mystic Vortex's cooldown.
+* Increased Flowery Seven's damage cap when it's fully charged.
+
+**Eugen**
+
+* Increased Detonator's damage cap based on its charged level.
+
+**Rosetta**
+
+* Added "Boost to rose attack frequency" and "Always plants the maximum number of roses" effects to the Enhanced Roses (Link Time) mastery node.
+* Increased the damage cap of attacks dealt by planted roses based on the rose's level.
+* Increased Spiral Rose's damage cap based on the level of planted roses.
+* Increased Lost Love's damage cap based on the level of planted roses.
+* Fixed a rare bug that caused Rosetta to act differently from the player's inputs after using Rose Tycoon.
+* ・Fixed a bug that caused the DMG Cut effect granted by Rose Barrier to not work properly.
+
+**Ferry**
+
+* Increased the damage cap of certain sequences of her charged  □  attacks.
+* Increased the damage cap of certain sequences of her charged  △  attacks.
+* Fixed a bug where, under certain conditions, casting Purge Spirits would summon more pets than intended.
+
+**Narmaya**
+
+* Increased the damage cap of Dawnfly stance combo finishers.
+* Increased the damage cap of Dawnfly stance charged □ attacks.
+* Increased Setsuna's damage cap based on its charged level.
+
+**Vane**
+
+* Vane can now start an attack following a link attack more quickly.
+* Added "Boosts attack power and damage cap" effects to the Enhanced Beatdown Gauge (Link Time) mastery node.
+* Increased the damage cap for certain Beatdown combos.
+* Increased Energy Destruction's damage cap based on how full Vane's SBA gauge is.
+* Fix a bug that caused effects granted by the Enhanced Beatdown Gauge (Link Time) mastery node to not work properly.
+
+**Percival**
+
+* Increased the damage cap of charged  △  attacks.
+* Increased Roter Wirbel's damage cap.
+* The Adrenaline Rush support skill now grants a proportional boost to Schlacht's charge speed when charged after attacks that aren't combo finishers.
+
+**Siegfried**
+
+* Adjusted the Enhanced □ Attacks (Link Time) mastery node to allow Siegfried to always perform perfect executions during link time.
+* Increased the damage cap of certain well-timed attacks.
+* Increased Verdrängen's damage cap.
+
+**Cagliostro**
+
+Added "Boosts attack power and damage cap" effects to the Enhanced Charging (Link Time) mastery node.
+
+* Increased the damage cap for certain attacks performed in Combo D.
+* Increased Mimic Doll's damage cap.
+* Increased Alexandria's damage cap.
+
+**Yodarha**
+
+* Added an "Always performs the shortest combo" effect to the Enhanced Triple Shroud (Link Time) mastery node.
+* Increased the damage cap of successful counters triggered by Tit for Tat.
+* Increased Flashing Void's damage cap based on the number of Triple Shroud marks Yodarha has.
+* Increased Sky Shatter's damage cap based on the number of Triple Shroud marks Yodarha has.
+* Fixed a bug that, under certain conditions, caused Tit for Tat to not work properly.
+
+**Zeta**
+
+* Added a "Boost to damage dealt by Zeta" effect to the Arvess Fermare status effect.
+* Increased the damage cap of □ loop combos.
+* Increased Wingclipper's damage cap.
+
+**Vaseraga**
+
+* Added a "Raises the damage cap of charged  △  attacks" effect to the Enhanced Charging (Link Time) mastery node.
+* Broadened the "Charged attacks charge faster" effect granted by the Quick Charge trait when equipped by Vaseraga.
+* Increased Skybound Art damage cap.
+
+**Id**
+
+* Environmental factors like strong winds and ground tremors should no longer remove Godmight while rapidly pressing  △  in Godmight.
+* Added a "Shortens skill cooldowns upon landing a combo finisher" effect to the Enhanced Versalis Gauge (Link Time) mastery node.
+* Increased Reginleiv Recidiv's damage cap when activated in Godmight.
+* Increased Unbound's damage cap when activated in Godmight.
+* Increased Ragnarok Form's damage cap when activated in Godmight.
+* Increased Scourge's damage cap when activated in Godmight.
+* Increased Never Enough's damage cap when activated in Godmight.
+* Increased Fourfold Vengeance's damage cap based on its charged level. Damage cap is increased even further when activated in Godmight.
+* Increased Atonement's damage cap. Damage cap is increased even further when activated in Godmight.
+* Increased Skybound Art damage cap when activated in Godmight.
+* Increased the damage cap of combo finishers performed in Godmight.
+
+\_\_
+
+**Other Items**
+
+* Added an "Ease of Use" indicator for each character on the Crewmate Card screen.
+* Adjusted timing for quest music played during The Tale of Bahamut's Rage.
+* Sigils obtained from Claim Add-Ons at the Knickknack Shack will now be automatically locked when claimed.
+* Fixed a bug where the Town Hall Meeting Minutes archive collectible wasn't appearing in certain sections of Chapter Ø.
+* Various bug fixes.
+
+
+so they saw ghanda sitting at the bottom and decided to not touch him at all lmao
+    The last hope is the new character-exclusive/unique sigil can buff him a lot. But I heavily doubt it.
+        Where is it though? They said it would be available in the patch notes, I don't see any,
+            Under the "New Content" part.
+・Added sigils with new traits. They will appear in the Knickknack Shack after clearing "Gulp... So These Are the Rumored Monsters" or "Lock Horns."
+
+I expected to see the sigil details like they've showed some in the stream. Guess we need to check in the game tomorrow by ourselves.
+        Now that you mention it, that’s probably it. It would be the easiest way to “rework” the character without rocking the boat.
+    You gotta rank up to get noticed by senpai 🥲
+    and they didnt address the lancelot fof interaction, wild
+        Honestly the lack of transmutation improvements besides letting you roll up to 30 times (it aint 39 so it cant fully clear out a voucher cap and they couldnt bother to up the voucher cap) and no level 4 transmute likely distracted me too much from realizing they didnt bother to nerf Lancelot(namely the fight/Flight interaction with his triangle specifically), just as much as they didnt bother to fix the Draph Swole man by giving him similar levels of damage value (and cap) increases to off-set whatever sluggishness he had while smoothing out any wind up times to make it less problematic to hit things effectively.
+            Since they didn't change the max sell/recycle cap from 30 I guess the 30 roll is just to sync with that.
+                Probably, just a shame you cant do a instant transition to scrapping to shorten it up.
+
+It is kind of nice to devolve a 39ish roll button tap mash down to 2 counts, but i still would of liked the voucher cap to be increased to 9999 too due to how many freaking vouchers i tend to go thru after a dozen or something runs and that aint even counting scrapping junk treasures.
+
+Also, Does Pyet-A and Proto-Bahamut materials even have anything you bloody use them for? Still trying to max out one of the Terminus weapons for a unit i dont plan to use in my CPU roster (since Rackham, Ferry, Cagliostro, Perceival, Siegfried, Katalina or even Narmaya or Rosetta have yet to drop thar Terminus for me), so i dont know if they actually make those bosses have a use for thar resources, besides Voucher scrap since they dont even have a treasure trade as far as im aware of.
+    with the new sigil he deals more then 5 million dmg with his big fist attack, he may seem clunky for many but if he lands the big hits ( especially in link time), he has the highest damage number seen in this game
+    I really can't believe it. My Io pumps out ridiculous dps and they rekit her to do even more damage... like she's disgusting now LMAO.
+    Appears like the recent buff (warpath sigil) was enough to make him relevant.
+    no one like burly old men, so why even bother?
+
+if it was a slim shirtless woman it would receive buffs even if it was OP
+        Welcome to anime. New here? Also they literally touch every guy except Ghandagoza. Eugen is a old hairy guy. Yord is a basically a midget hairy guy. They actually just hate Ghan, it shows. And they don’t hate male characters because the mobile game has tons of them and special limited time skins. I’ve seen the whole cast that’s in Relink in Christmas outfits and swimsuits.
+
+You’re just dumb as hell.
+            nop, not new... that's why I said that a burly old man wasnt going to be popular at all
+
+and I'm not dumb, just honest as hell, because who likes to play with burly old men when we have cute and sexy girls available?
+Charlotta no changes because she is perfect
+    Perfect de arimasu!
+    Yes she is
+    Our perfect Potato
+    As is lancy boy lol
+Speaking for all Ghandagoza mains: we are in shambles right now. Even Vaseraga got a buff. 😭
+    I have no clue why they don't buff Ghandagoza. It's the least played character for many reasons. 
+    This is true pain smh
+A.I. Io about to cook lmao
+The devs must know something about Ghandagoza that we don't cuz what the hell is this lmao
+    Or maybe the new Ghanda sigil is such a massive buff or something.
+        Gave his charge attack a 100 percent damage boost at the cost of increasing its charge time by 100 percent
+            Apparently his optimal play style has uncharged attacks or something, which just means double damage right?
+                Basically
+    for real just remove him from the game at this point. He's not playable imo, and they refuse to acknowledge that he exists.
+        ikr his character slot could've been taken by a female draph, yet this pile of meat is what we got.
+Holy crap, Id is ACTUALLY STRONG in godmight form now.
+    It needs to actually feel like GODMIGHT which they seem to be addressing thankfully.
+        I always thought that Id was already super powerful gameplaywise, he is my main so I love that they even buffed him now ❤️
+They saw Ghanda at the bottom of the usage list and said "yeah he's fine, no changes needed"
+
+Poor dood...
+    They probably thought "eh we can afford to lose all 3 of the Ghanda mains".
+        Wait, they exist???????
+            Rarely
+    Maybe they have bigger stuff planned and have to take more time. You see that a lot with bigger changes on characters. We can hope.
+        it would be funny if all of the comunity started playing ghanda as a sign of protest
+    Its because of his model, not gameplay. Everybody playing narmaya because she is horny anime bimbo with 20 size boobs
+        I'd play him if his kit wasn't so fucking slow
+            And if he didn't lose his whole gauge in half a second. You get punished hard-core just for doing stuff like fight mechanics.
+            I mean we have sieg and scythe guy
+                Sieg is not that slow and has good gap closer, Vase has unique enough kit with his tankiness
+
+Ghanda has massive damage burst but the kit itself is clunky and his reach is short, that's just my impression playing him for a handful of quests but maybe there are 1-2 dedicated players out there that can correct me
+        Are you kidding me? I picked him up as my first ticket specifically cause of his model. Biggest dude on the roster that punches stuff.
+    🤣
+Ghandagoza found dead in the ditch
+    🥲
+I'm very surprised Ghandagoza didn't receive any changes
+    Maybe 1.3?🥲
+        He needed buffs the most outta everyone yet he was ignored so idk i hope you're right since 1.3 is apparently the last patch.
+            Did they state that 1.3 will be the last patch or are you extrapolating?
+                One the devs in the stream said along the lines of " nothing is set in stone but we might have something else down the line potentially,  possibly" and then he kinda of laughed and everyone got excited so I'd say chances are high we get more
+                    Eh, we'll see
+                It's the last for now. There's a chance we *might* get more later on, depending on how much people want more updates. One of the people in the presentation said he'd like to continue working on the game if there's enough demand, but for now there aren't any plans that are set in stone.
+                    I believe after we saw that the sales were very good we might have more patches
+                1.3 was the last patch that they had planned for Relink post-launch. Anything they decide to do after May is going to be the wild west since they need to figure out what they want to do and what to make.
+                They did in the livestream
+    Who's that again?
+>Increased Flowery Seven's damage cap when it's fully charged.
+
+&#x200B;
+
+>Increased Setsuna's damage cap based on its charged level.
+
+*Welp.*
+    An incentive to charge them, which doesn't exist atm, I like this.
+        Yet they didn’t give a reason for Ghanda to charge his moves lol (uncharged fist is just better currently even tho none of his builds are that great)
+
+This is honestly wild. Ghanda isn’t even in my top 10 played characters but that’s some crazy disrespect I feel bad for people who play him
+        Depending on how this goes and the Concentration buffs on Io the optimal way might be just dropping Flowery Seven for that instead.
+            Get Low Profile, stand in Concentration aura, then spam max Stargaze.
+
+
+I wonder if they're significantly lowering Mystic Vortex's cooldown otherwise I don't see a reason to pick it over Concentration.
+            Time to set camp on every boss encounter. A pseudo link time spamming Stargaze 5. Io is known to be dmg consistent but now she can probably compete with all the top dps such as narmaya.
+    I worked so hard to get enough damage in my build to cap setsuna without charging it 😭
+    Charging F7 looks cool. I can finally do it w/o any cons.
+    Damage cap needs to be like, doubled or tripled in order to make me full charge flowery seven lol
+        Its going to require numbers but yea, I suspect the damage cap increase is very likely not even going to matter unless its insanely high. F7 doing this much damage with a tap is insane as it is.
+            Maybe they could nerf the uncharged F7 damage cap to encouraged a charged F7
+    Still might not be worth charging depending on how much the damage cap increases, possible (but unlikely) it still uses that "additive" damage cap math and ends up not being much. Setsuna is gonna hit like an absolute truck if they increase it proportionally to how much the damage scales from charging though (as if it didn't already).
+FERRY MAINS WE ARE SOOO BACKK
+    😏
+wait, Ragnarok Form does dmg? I thought it simply fills up the versalis gauge?
+    I just tested it, Ragnarok forms little explosion actually does damage,both for going into dragon form and to extend godmight.
+
+I didn't even realize it did damage until now, I just thought its only use was to do the 2 for 1 godmight wombo combo.
+YEAH LET'S GO BIG GHAND-- Oh. Oh no...
+    I reread it about 3x and hopefully just missed Ghanda but... oh boy. My dude needs it.
+    Ghandabozo remains a bozo
+Popularity is key to getting buffs.
+
+Narmaya is a DPS monster but she gets more buffs.
+
+Ghandagoza is in severe need for buffs but gets none.
+    Not sure I entirely agree. Rosetta got plenty of buffs after all.
+        People love Rose. She's just not effective to play right now.
+        I *want* to play Rosetta, but even with these changes I'm not sure it will help. Like cool the plants do more damage... that doesn't help with bosses flying all over the place avoiding them. You can only reposition them so much.
+        She's a sexy women putting her tits on display complete with camera zoom every 5 minutes. If you think she isn't a popular pick outside of the reddit minmax dps modders on here, you're mistaken! 
+    Dps monster doesn't need more damage cap tho. She needs some other visual/audio effect for timing stance switches when facing large monsters where you cannot see the character model and when too many visual effects are flying around.
+        They are giving her an indicator for your stance + number of butterflies too. Second image in this post: [https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version\_130\_update\_contents\_preview\_new/](https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version_130_update_contents_preview_new/)
+
+But yeah 1.3 instead of 1.2 I guess we'll need to wait
+    i prefer the tap setsuna for max damage over having to fully charge all time considering you have extremely low cd and use transecting and kyo every stance change
+Id my man! Let's gooooo!
+buffs for everyone EXCEPT ghandagoza 😭 poor guy
+    Captain got nerfed lmao
+No Ghandagoza buffs??? My disappointment is immeasurable.
+Loving the Ferry and Kat changes.
+    you love summoning huh?
+        Seofon (1 of the 2 new upcoming characters): 😈
+        😎
+Woe! A cry sprang out across the Fandom as many a Punch Goats players hearts were laid bare and stomped on.
+    All can only suffer in silence
+It might be cope, but I think Ghandagoza is getting reworked. He's going to need something more than just damage cap increases.
+    I assume he might just be getting an overhaul to his current skills or new moves to make him more viable. I think they underestimated just how detrimental his lack of range and movement is. Its not a big deal when the enemies come at you but go into a late game fight where the enemies jump all over the place like Lucy, pyet and likely this new monster, it becomes a problem real fast. Simplest solution would be to make iron shoulder come back super fast or make it his Y button, but then you'd have to either lower the rate your eternal rage charges so it can be used as a skill or just make the rage activate automatically when you have a full stack. Both of these options mess up his overall rhythm though and that's like the whole fun of his character for me.
+Going to go back and jump in
+Vane buff!! Can't wait
+>Fixed an intermittent bug where the damage cap of Decimate would be superseded by the damage caps of other attacks.
+
+It's danchouver...
+    Called it. And people were mad at me back then. 🤣
+    People be complaining about Ghanda not getting a buff, but Captain is clearly the next big loser in this patch.
+        Danchou straight up loses 30% of their damage without any compensation lol.
+    Gran can’t blue anymore 😔
+    Time to change main again 🥲
+They buffed.....Narmaya while zero was done for Ghandagoza....
+Yoda players eating good this patch!
+
+
+I feel bad for ghanda, i love his style but waiting for them to work on him.
+
+
+Hopefully this is a sign theyre doing more extensive internal testing with him, no way they just leave him in the bin.
+Id mains eating good
+Nice, will jump in after Stellar Blade
+Rakham was one of the very few characters who couldn't solo Lucius. Its good to see him getting buffed.
+Uh... 'Ghandagoza'.    
+    
+*watches karma*
+Its so over for us Ghonda players bro. These devs are stupid af fr.
+    Wait I thought you guys went extinct after the game launched
+    I will still main him. It's too late for me now, sitting as my #1 character played with 372 quests played with him 🥲
+Rip Ghanda
+So Ghanda is actually perfected then, damn.
+Hey does anyone know what time that update releases us central time?
+    Should be midnight tonight
+Possibly dumb question, when exactly does this update go live?
+    Likely 2PM Japan Time (1AM EST).
+These devs fumbled the post-launch support like nobody else dont @ me
+They didn’t nerf Lancelot fight or flight build! 🤯
+    Why would they? its working as the devs intended. To nerf you would have to change his kit which would break the character
+        Or just change fight over flight.
+            I don’t think changing an extremely rare sigil because of its interaction with one character is the  right answer. Simply just not allow lancelots y dodge to proc fof
+    Looks like he dodged the nerfs(and buffs).
+30 UMBAHREEEEEVABLES 
+
+Im 💀
+Io got an official burst phase now, hm? 
+Curious to see how the dpm changes.
+Are we deadass STILL waiting for button remapping? Or did I just miss that update?
+    Coming in 1.3.
+        Well they said additional Controller Layouts tho, so not exactly free remapping it seems :(
+
+Actually the only thing I'd with for was to separate camera (lock off) and target switching (lock on)... having it both on the same stick is weird to me and I keep cycling through mobs in these multi boss/multi mob fights because I wanna turn the camera...
+I don't see a damn thing about them fixing the matchmaking system come on 🤦🏾‍♂️ unless I'm missing something
+    It's not broken... on PC it's region locked, and the game is already pretty much dead, there's not much to do and most people who are done and still playing are probably just afk farming with scripts.
+        I'm on PlayStation and playstation is not dead I can find matches in 10 secs in quick quest BUT THE MATCHMAKING needs work I can ready up and get an error and on quick quest  when I ready up I still get that message "reset status" whatever it's called so yea matchmaking is still broken. Even when me and my friend do a quest together with randoms once it hits" 4/4" we gotta pray that'll let us play with them half time it does half time it doesn't
+            The reset thing means there was nobody to match you with.
+
+I might be wrong but it sounds like connection issues on player's end, either that or yeah it's just broken on PS.
+Hahahahaha seems like Rose has won big, but Ghandabozo is officially dead. Captain is now joining them because they got nerfed hard last patch and now with the rotor bug gone.
+
+Naru and Vaseraga are somehow buffed despite being the two of the three best dmg dealers in the game.
+
+I hope they increase Ferry's normal attacks dmg substantially or else she'll still be a jump bot.
+I was hoping they’d add the lobby search function (or whatever it’s called) from the pc version to the ps5 version.
+Honestly surprised they buffed Vane considering he seemed to be in a pretty good spot already. I suppose they wanted to add a little more variance to his playstyle by encouraging more use of the beatdown attacks and saving up Energy Destruction for when his SBA gauge is more full. Nice that his DPS is getting higher anyway.
+
+Good that Siegfried's cap on his timed attacks is increased since I heard the cap on them were too low for the extra effort you had to do to land them.
+
+No Ghandagoza changes is wild though.
+“YOU get a buff! And YOU get a buff! And YOU get a buff!”
+
+Ghandagoza: 🫥
+Rosetta and Ferry buffs yes.
+
+Nothing about Silver Centrums I see.
+coming back for the new characters and sigil shop update (finally). I hope it can keep my interest until the next one.
+Overall, looks like some good changes.
+
+
+Odds of them adding a "hold button instead of repeated presses" option in the settings and they just forgot to mention it? 💀
+    omg yes button mashing is next level with this game
+Really disappointing to see my main receive no love from the devs, sunk so much time into building him and I really don’t want to grind that shit again for another character. Guess I’m done with the game for now.
+Screw bottom tier, Ghanda is literally in the dirt plot. Even my boy Vas got a few buffs.
+I'm convinced (ie: convincing myself) that the only reason Ghandagoza didn't get any buffs is because he's so fundamentally flawed in this type of game that they need to spend a lot more time fixing him. It makes no sense that they wouldn't touch the most painfully awful to play character in the game otherwise. 
+
+Also I like how they said no nerfs this time but Captain got a technical nerf because of another damage cap bug. Not calling them liars for it cause it is a bug worth fixing but it is funny to think of.
+When is patch going live may I ask
+Those are some huge Id buffs it looks like
+Will be interesting to see exactly how much "increased damage cap" actually is. Hopefully enough that some more characters prefer straight ATK stacking over supp damage. It's good on Kat with her one giga-capped skill would be nice if some other characters get some outlet for extra ATK outside of SBA. Hoping that's what Rosetta becomes since her plants don't use Supp damage anyways so she is a good candidate for being a pure ATK char
+When does the update release?
+Does anyone know what time is the update?
+What does those changes means for id ferry and  zeta ?
+Quicker Vaseraga Charged Attacks?? Yummy
+So when’s this supposed to hit ps5 cuz I don’t see anything about this update
+I feel like I'm going crazy, I thought Siegfried already did perfect combos while in link time right? I have footage of it and I'm just spamming the button and it already does it >> or did it mean something else?
+How significant are the Siegfried buffs?
+I tried to play for a bit but unfortunately there were no nerfs to Network Error boss. Maybe next time.
+does anyone have the dlc color packs for seofon and tweyen?
+Do you upgrade gamma sigil to lv 15 if you are using terminus weapon?
+    Why would you?
+
+You get a free level from terminus
+what are the quest i have to do i dont find them
+Siegfried feels cracked now and if I can get used to the warpath -50% seems like he could be even more cracked
+No clue if Tweyen is busted, I am absolutely terrible or some combo of both. I got to the final few quests of Extreme with AI and just felt like I had hit a hard wall, no matter what character I tried to learn I couldn't overcome it. Within a matter of hours I got to Proud just thanks to Tweyen. Something about being able to just sit at the back, rain down damage and I can basically just ignore the bosses mechanics entirely. It was like I suddenly found myself on a hidden easy mode and this feeling never slowed.
+Can Warpath Sigils roll +?
+didnt they say the patch notes would have details on the new character sigils?
+    There is, we likely have to wait tomorrow to see it.
+        yeah we'll see them in game tomorrow, i meant early info lol
+    I was also looking for this.
+So am I blind or is there no new higher difficulty stuff to do cause the game is too easy as is...
+    One new proud quest.
+    Nope, that's it. The game will not go beyond Proud difficulty.
+~~I mean, yeah the Ghandagoza meme is fun but even characters that could really do with some QoL like Rosetta went untouched too. I get popularity plays a big part, but it kinda sucks for the people that love these characters.~~
+
+I can't read.
+    Rosetta got changes
+    The formatting on the post scuffed Rosetta’s part but it’s right there under Eugen’s changes.
+        Gotcha, thanks for pointing that out.
+Are the new characters out now?
+    Nope; Either they appear tonight at Midnight (I'm in EST), or at a later time on April 26, 2024. As of this comment, it's April 25,2024
+        What time zone though, that is a question. It would be nice if they released globally at midnight JST
+            2pm Japan time. They announced in the stream.
+                This needs to be a whole post announcing the time it will happen.
+Am I missing something? I can’t update the game
+    It's still about 14 hours away
+As a ghandagoza main who only plays with friends / solo. I just told them I’m gonna bring my own buffs via mods. 
+
+Im just gonna get ignored forever anyway, so why should I wait for cygames to buff my character
+    Justice to ghandagoza!
+bet they realized putting ghandagoza in was a mistake over like Gallanza or some shit
+    > Ghandagoza
+
+they had so many better options than Ghanda lmao. 
+
+brawlers/melee fighters: Aliza, Reinhardtzar, Fediel, Wilnas, Cerberus (but just like Metera she is way too sexy for Relink aka fuck you Sony), Fraux, Predator (same as Cerberus/Metera), Soriz, Six, Sen or Aliza
+
+draphs: Aliza, Reinhardtzar, Fediel, Aliza, Razia or Sarasa.... heck even Mugen but idk if he is THAT popular/liked
+Just two new fights? I mean balance patch is nice, new characters are nice, but there's nothing to do in the game, one fight seems to be low difficulty and the other is probably not gonna be that hard either, and even if it is that's like 1 or 2 hours of gameplay then we're back to pepega grinding...
+These devs gotta be delusional, not a single buff for the big dude? Just remove him from the game ffs. Absolute joke.
+Unpopular opinion, but getting a new character trait on sigils is the worst option possible, this new trait will have another damage cap included on some attacks/skills and we'll need to remove another sigil slot for another damage cap
+
+character unique trait sigils shouldnt exist when we have a mastery tree
+    I'm hopeful that it isn't as boring as a damage cap increase. Some unique sigils are actually pretty cool.
+        most of the characters sigils that I've seen were boring, creating effects on finishers or extending the window of timed mechanics...  
+those should have totally been a mastery path!
+
+it would be nice to have characters sigils that actually changed playstyles, like zeta focusing on landing spearmanship (like a heavy spearmen) instead of aerial spearmanship (like dragoon) or vane focusing on a berserker build (with his 2h axe) or a paladin build (with shield and hammer)
+
+that would be interesting sigils that should exist instead of the current characters sigils
+            Yeah, you know, that's a fair point. I was actually thinking of the extension of timed mechanics when making my comment; but in hindsight, you can do so much more. I'd love to see something like that too.
+I hope they have made damage cap much harder to reach so be able to equip stuff that isn´t all on damage cap.
+    If you make damage cap harder to reach you're basically asking for ppl to equip more attack boosting sigils while still having to get the 60 points in DC after all. How exactly would that help?
+        Seriously, I would remove the dmg cap sigils in this game entirely and make it so that dmg cap increases with level, masteries and weapon upgrade alone.
+            I would just wish it would do the same percentage it does now, but at 30 levels not 60. 60 is forcing too much focus on these sigils. Same with Supp Damage. They are basically needed for every char right now and make it soooo much harder to actually customize and experiment.
+        People already do that by stacking almost all of the slots with damage cap, war elemental and supplementary sigils anyway but they are forced to it because without damage cap expanded/worked around any other attack source that comes from buffs or sigils is useless.
+
+For example I'd like to use charge attack sigils on Vaseraga but can't cause I haven't got the damage cap core maxed yet.
+
+It would be fine for me to max damage cap with 2 max level DC too instead of 4.
+            I agree with that. Make Damage Cap 30 instead of 60. 
+
+However making cap harder(!) to reach would mean damage is more open ended... not less. So you probably already meant that, but the wording made it sound like the opposite, which would be even worse than what we have.
+Is this update live now?
+    Not yet. It will be at 2pm Japan Time. Yeah, gonna have to convert that time into your Time zone. For me, that would be past Midnight (1am) EST.
+* Party members with a skill that can revive will no longer automatically cast that skill on a player who enters critical condition and has the Autorevive status effect.
+
+which means Autorevive becomes more useless now.
+    No...it becomes more useful because before your allies would try to cast their revival skills on you only for them to be wasted because your Auto-Revive was kicking in.
+
+Now they won't cast their Revival skills ***unless*** your Auto-Revive is on cooldown or you don't have it at all.
+        But you have to agree it still in the realm useless
+            No? Autorevive is one of the best defensive sigils in the game, just below Potion Hoarder and Guts.
+I can' believe they added the damage cap indicator to damage numbers, but have ignored community feedback to let us reduce the freaking size of the damage numbers! They are WAY too big. At least let me make them somewhat seethrough possibly?? 
+
+Big fan of the patch otherwise.
+    That's not what they said. 🤪😏
+        Yes it is. They took the time to adjust damage numbers by making the cap indicator more obvious, which means they were adjusting damage numbers. They just didn't go all the way and let us adjust the size or transparency.
+    It was always there, it's just more clear now.
+        Yea, I know. So they took time and effort to adjust the damage numbers, but not enough time and effort to let us reduce the size.
+            They took the yellow line, added another, and turned it alittle. It's easier to do an asset adjustment than to recode an aspect they didn't think would be a point of contention. Im sure that many will continue to talk about it, and it will get addressed eventually. Just like the Sigils.
+All I wanted was to be able to turn off all spoken dialogue and on screen text for Vryn and Siero.
+Sieg could always perform perfect execution in linked time already..why they act like that's a new buff? confused.
+The last hope is the new character-exclusive/unique sigil can buff him a lot. But I heavily doubt it.
+    Where is it though? They said it would be available in the patch notes, I don't see any,
+        Under the "New Content" part.
+・Added sigils with new traits. They will appear in the Knickknack Shack after clearing "Gulp... So These Are the Rumored Monsters" or "Lock Horns."
+
+I expected to see the sigil details like they've showed some in the stream. Guess we need to check in the game tomorrow by ourselves.
+    Now that you mention it, that’s probably it. It would be the easiest way to “rework” the character without rocking the boat.
+You gotta rank up to get noticed by senpai 🥲
+and they didnt address the lancelot fof interaction, wild
+    Honestly the lack of transmutation improvements besides letting you roll up to 30 times (it aint 39 so it cant fully clear out a voucher cap and they couldnt bother to up the voucher cap) and no level 4 transmute likely distracted me too much from realizing they didnt bother to nerf Lancelot(namely the fight/Flight interaction with his triangle specifically), just as much as they didnt bother to fix the Draph Swole man by giving him similar levels of damage value (and cap) increases to off-set whatever sluggishness he had while smoothing out any wind up times to make it less problematic to hit things effectively.
+        Since they didn't change the max sell/recycle cap from 30 I guess the 30 roll is just to sync with that.
+            Probably, just a shame you cant do a instant transition to scrapping to shorten it up.
+
+It is kind of nice to devolve a 39ish roll button tap mash down to 2 counts, but i still would of liked the voucher cap to be increased to 9999 too due to how many freaking vouchers i tend to go thru after a dozen or something runs and that aint even counting scrapping junk treasures.
+
+Also, Does Pyet-A and Proto-Bahamut materials even have anything you bloody use them for? Still trying to max out one of the Terminus weapons for a unit i dont plan to use in my CPU roster (since Rackham, Ferry, Cagliostro, Perceival, Siegfried, Katalina or even Narmaya or Rosetta have yet to drop thar Terminus for me), so i dont know if they actually make those bosses have a use for thar resources, besides Voucher scrap since they dont even have a treasure trade as far as im aware of.
+with the new sigil he deals more then 5 million dmg with his big fist attack, he may seem clunky for many but if he lands the big hits ( especially in link time), he has the highest damage number seen in this game
+I really can't believe it. My Io pumps out ridiculous dps and they rekit her to do even more damage... like she's disgusting now LMAO.
+Appears like the recent buff (warpath sigil) was enough to make him relevant.
+no one like burly old men, so why even bother?
+
+if it was a slim shirtless woman it would receive buffs even if it was OP
+    Welcome to anime. New here? Also they literally touch every guy except Ghandagoza. Eugen is a old hairy guy. Yord is a basically a midget hairy guy. They actually just hate Ghan, it shows. And they don’t hate male characters because the mobile game has tons of them and special limited time skins. I’ve seen the whole cast that’s in Relink in Christmas outfits and swimsuits.
+
+You’re just dumb as hell.
+        nop, not new... that's why I said that a burly old man wasnt going to be popular at all
+
+and I'm not dumb, just honest as hell, because who likes to play with burly old men when we have cute and sexy girls available?
+Perfect de arimasu!
+Yes she is
+Our perfect Potato
+As is lancy boy lol
+I have no clue why they don't buff Ghandagoza. It's the least played character for many reasons. 
+This is true pain smh
+Or maybe the new Ghanda sigil is such a massive buff or something.
+    Gave his charge attack a 100 percent damage boost at the cost of increasing its charge time by 100 percent
+        Apparently his optimal play style has uncharged attacks or something, which just means double damage right?
+            Basically
+for real just remove him from the game at this point. He's not playable imo, and they refuse to acknowledge that he exists.
+    ikr his character slot could've been taken by a female draph, yet this pile of meat is what we got.
+It needs to actually feel like GODMIGHT which they seem to be addressing thankfully.
+    I always thought that Id was already super powerful gameplaywise, he is my main so I love that they even buffed him now ❤️
+They probably thought "eh we can afford to lose all 3 of the Ghanda mains".
+    Wait, they exist???????
+        Rarely
+Maybe they have bigger stuff planned and have to take more time. You see that a lot with bigger changes on characters. We can hope.
+    it would be funny if all of the comunity started playing ghanda as a sign of protest
+Its because of his model, not gameplay. Everybody playing narmaya because she is horny anime bimbo with 20 size boobs
+    I'd play him if his kit wasn't so fucking slow
+        And if he didn't lose his whole gauge in half a second. You get punished hard-core just for doing stuff like fight mechanics.
+        I mean we have sieg and scythe guy
+            Sieg is not that slow and has good gap closer, Vase has unique enough kit with his tankiness
+
+Ghanda has massive damage burst but the kit itself is clunky and his reach is short, that's just my impression playing him for a handful of quests but maybe there are 1-2 dedicated players out there that can correct me
+    Are you kidding me? I picked him up as my first ticket specifically cause of his model. Biggest dude on the roster that punches stuff.
+🤣
+🥲
+Maybe 1.3?🥲
+    He needed buffs the most outta everyone yet he was ignored so idk i hope you're right since 1.3 is apparently the last patch.
+        Did they state that 1.3 will be the last patch or are you extrapolating?
+            One the devs in the stream said along the lines of " nothing is set in stone but we might have something else down the line potentially,  possibly" and then he kinda of laughed and everyone got excited so I'd say chances are high we get more
+                Eh, we'll see
+            It's the last for now. There's a chance we *might* get more later on, depending on how much people want more updates. One of the people in the presentation said he'd like to continue working on the game if there's enough demand, but for now there aren't any plans that are set in stone.
+                I believe after we saw that the sales were very good we might have more patches
+            1.3 was the last patch that they had planned for Relink post-launch. Anything they decide to do after May is going to be the wild west since they need to figure out what they want to do and what to make.
+            They did in the livestream
+Who's that again?
+An incentive to charge them, which doesn't exist atm, I like this.
+    Yet they didn’t give a reason for Ghanda to charge his moves lol (uncharged fist is just better currently even tho none of his builds are that great)
+
+This is honestly wild. Ghanda isn’t even in my top 10 played characters but that’s some crazy disrespect I feel bad for people who play him
+    Depending on how this goes and the Concentration buffs on Io the optimal way might be just dropping Flowery Seven for that instead.
+        Get Low Profile, stand in Concentration aura, then spam max Stargaze.
+
+
+I wonder if they're significantly lowering Mystic Vortex's cooldown otherwise I don't see a reason to pick it over Concentration.
+        Time to set camp on every boss encounter. A pseudo link time spamming Stargaze 5. Io is known to be dmg consistent but now she can probably compete with all the top dps such as narmaya.
+I worked so hard to get enough damage in my build to cap setsuna without charging it 😭
+Charging F7 looks cool. I can finally do it w/o any cons.
+Damage cap needs to be like, doubled or tripled in order to make me full charge flowery seven lol
+    Its going to require numbers but yea, I suspect the damage cap increase is very likely not even going to matter unless its insanely high. F7 doing this much damage with a tap is insane as it is.
+        Maybe they could nerf the uncharged F7 damage cap to encouraged a charged F7
+Still might not be worth charging depending on how much the damage cap increases, possible (but unlikely) it still uses that "additive" damage cap math and ends up not being much. Setsuna is gonna hit like an absolute truck if they increase it proportionally to how much the damage scales from charging though (as if it didn't already).
+😏
+I just tested it, Ragnarok forms little explosion actually does damage,both for going into dragon form and to extend godmight.
+
+I didn't even realize it did damage until now, I just thought its only use was to do the 2 for 1 godmight wombo combo.
+I reread it about 3x and hopefully just missed Ghanda but... oh boy. My dude needs it.
+Ghandabozo remains a bozo
+Not sure I entirely agree. Rosetta got plenty of buffs after all.
+    People love Rose. She's just not effective to play right now.
+    I *want* to play Rosetta, but even with these changes I'm not sure it will help. Like cool the plants do more damage... that doesn't help with bosses flying all over the place avoiding them. You can only reposition them so much.
+    She's a sexy women putting her tits on display complete with camera zoom every 5 minutes. If you think she isn't a popular pick outside of the reddit minmax dps modders on here, you're mistaken! 
+Dps monster doesn't need more damage cap tho. She needs some other visual/audio effect for timing stance switches when facing large monsters where you cannot see the character model and when too many visual effects are flying around.
+    They are giving her an indicator for your stance + number of butterflies too. Second image in this post: [https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version\_130\_update\_contents\_preview\_new/](https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version_130_update_contents_preview_new/)
+
+But yeah 1.3 instead of 1.2 I guess we'll need to wait
+i prefer the tap setsuna for max damage over having to fully charge all time considering you have extremely low cd and use transecting and kyo every stance change
+Captain got nerfed lmao
+you love summoning huh?
+    Seofon (1 of the 2 new upcoming characters): 😈
+    😎
+All can only suffer in silence
+I assume he might just be getting an overhaul to his current skills or new moves to make him more viable. I think they underestimated just how detrimental his lack of range and movement is. Its not a big deal when the enemies come at you but go into a late game fight where the enemies jump all over the place like Lucy, pyet and likely this new monster, it becomes a problem real fast. Simplest solution would be to make iron shoulder come back super fast or make it his Y button, but then you'd have to either lower the rate your eternal rage charges so it can be used as a skill or just make the rage activate automatically when you have a full stack. Both of these options mess up his overall rhythm though and that's like the whole fun of his character for me.
+Called it. And people were mad at me back then. 🤣
+People be complaining about Ghanda not getting a buff, but Captain is clearly the next big loser in this patch.
+    Danchou straight up loses 30% of their damage without any compensation lol.
+Gran can’t blue anymore 😔
+Time to change main again 🥲
+Wait I thought you guys went extinct after the game launched
+I will still main him. It's too late for me now, sitting as my #1 character played with 372 quests played with him 🥲
+Should be midnight tonight
+Likely 2PM Japan Time (1AM EST).
+Why would they? its working as the devs intended. To nerf you would have to change his kit which would break the character
+    Or just change fight over flight.
+        I don’t think changing an extremely rare sigil because of its interaction with one character is the  right answer. Simply just not allow lancelots y dodge to proc fof
+Looks like he dodged the nerfs(and buffs).
+Coming in 1.3.
+    Well they said additional Controller Layouts tho, so not exactly free remapping it seems :(
+
+Actually the only thing I'd with for was to separate camera (lock off) and target switching (lock on)... having it both on the same stick is weird to me and I keep cycling through mobs in these multi boss/multi mob fights because I wanna turn the camera...
+It's not broken... on PC it's region locked, and the game is already pretty much dead, there's not much to do and most people who are done and still playing are probably just afk farming with scripts.
+    I'm on PlayStation and playstation is not dead I can find matches in 10 secs in quick quest BUT THE MATCHMAKING needs work I can ready up and get an error and on quick quest  when I ready up I still get that message "reset status" whatever it's called so yea matchmaking is still broken. Even when me and my friend do a quest together with randoms once it hits" 4/4" we gotta pray that'll let us play with them half time it does half time it doesn't
+        The reset thing means there was nobody to match you with.
+
+I might be wrong but it sounds like connection issues on player's end, either that or yeah it's just broken on PS.
+omg yes button mashing is next level with this game
+Why would you?
+
+You get a free level from terminus
+There is, we likely have to wait tomorrow to see it.
+    yeah we'll see them in game tomorrow, i meant early info lol
+I was also looking for this.
+One new proud quest.
+Nope, that's it. The game will not go beyond Proud difficulty.
+Rosetta got changes
+The formatting on the post scuffed Rosetta’s part but it’s right there under Eugen’s changes.
+    Gotcha, thanks for pointing that out.
+Nope; Either they appear tonight at Midnight (I'm in EST), or at a later time on April 26, 2024. As of this comment, it's April 25,2024
+    What time zone though, that is a question. It would be nice if they released globally at midnight JST
+        2pm Japan time. They announced in the stream.
+            This needs to be a whole post announcing the time it will happen.
+It's still about 14 hours away
+Justice to ghandagoza!
+> Ghandagoza
+
+they had so many better options than Ghanda lmao. 
+
+brawlers/melee fighters: Aliza, Reinhardtzar, Fediel, Wilnas, Cerberus (but just like Metera she is way too sexy for Relink aka fuck you Sony), Fraux, Predator (same as Cerberus/Metera), Soriz, Six, Sen or Aliza
+
+draphs: Aliza, Reinhardtzar, Fediel, Aliza, Razia or Sarasa.... heck even Mugen but idk if he is THAT popular/liked
+I'm hopeful that it isn't as boring as a damage cap increase. Some unique sigils are actually pretty cool.
+    most of the characters sigils that I've seen were boring, creating effects on finishers or extending the window of timed mechanics...  
+those should have totally been a mastery path!
+
+it would be nice to have characters sigils that actually changed playstyles, like zeta focusing on landing spearmanship (like a heavy spearmen) instead of aerial spearmanship (like dragoon) or vane focusing on a berserker build (with his 2h axe) or a paladin build (with shield and hammer)
+
+that would be interesting sigils that should exist instead of the current characters sigils
+        Yeah, you know, that's a fair point. I was actually thinking of the extension of timed mechanics when making my comment; but in hindsight, you can do so much more. I'd love to see something like that too.
+If you make damage cap harder to reach you're basically asking for ppl to equip more attack boosting sigils while still having to get the 60 points in DC after all. How exactly would that help?
+    Seriously, I would remove the dmg cap sigils in this game entirely and make it so that dmg cap increases with level, masteries and weapon upgrade alone.
+        I would just wish it would do the same percentage it does now, but at 30 levels not 60. 60 is forcing too much focus on these sigils. Same with Supp Damage. They are basically needed for every char right now and make it soooo much harder to actually customize and experiment.
+    People already do that by stacking almost all of the slots with damage cap, war elemental and supplementary sigils anyway but they are forced to it because without damage cap expanded/worked around any other attack source that comes from buffs or sigils is useless.
+
+For example I'd like to use charge attack sigils on Vaseraga but can't cause I haven't got the damage cap core maxed yet.
+
+It would be fine for me to max damage cap with 2 max level DC too instead of 4.
+        I agree with that. Make Damage Cap 30 instead of 60. 
+
+However making cap harder(!) to reach would mean damage is more open ended... not less. So you probably already meant that, but the wording made it sound like the opposite, which would be even worse than what we have.
+Not yet. It will be at 2pm Japan Time. Yeah, gonna have to convert that time into your Time zone. For me, that would be past Midnight (1am) EST.
+No...it becomes more useful because before your allies would try to cast their revival skills on you only for them to be wasted because your Auto-Revive was kicking in.
+
+Now they won't cast their Revival skills ***unless*** your Auto-Revive is on cooldown or you don't have it at all.
+    But you have to agree it still in the realm useless
+        No? Autorevive is one of the best defensive sigils in the game, just below Potion Hoarder and Guts.
+That's not what they said. 🤪😏
+    Yes it is. They took the time to adjust damage numbers by making the cap indicator more obvious, which means they were adjusting damage numbers. They just didn't go all the way and let us adjust the size or transparency.
+It was always there, it's just more clear now.
+    Yea, I know. So they took time and effort to adjust the damage numbers, but not enough time and effort to let us reduce the size.
+        They took the yellow line, added another, and turned it alittle. It's easier to do an asset adjustment than to recode an aspect they didn't think would be a point of contention. Im sure that many will continue to talk about it, and it will get addressed eventually. Just like the Sigils.
+Where is it though? They said it would be available in the patch notes, I don't see any,
+    Under the "New Content" part.
+・Added sigils with new traits. They will appear in the Knickknack Shack after clearing "Gulp... So These Are the Rumored Monsters" or "Lock Horns."
+
+I expected to see the sigil details like they've showed some in the stream. Guess we need to check in the game tomorrow by ourselves.
+Now that you mention it, that’s probably it. It would be the easiest way to “rework” the character without rocking the boat.
+Honestly the lack of transmutation improvements besides letting you roll up to 30 times (it aint 39 so it cant fully clear out a voucher cap and they couldnt bother to up the voucher cap) and no level 4 transmute likely distracted me too much from realizing they didnt bother to nerf Lancelot(namely the fight/Flight interaction with his triangle specifically), just as much as they didnt bother to fix the Draph Swole man by giving him similar levels of damage value (and cap) increases to off-set whatever sluggishness he had while smoothing out any wind up times to make it less problematic to hit things effectively.
+    Since they didn't change the max sell/recycle cap from 30 I guess the 30 roll is just to sync with that.
+        Probably, just a shame you cant do a instant transition to scrapping to shorten it up.
+
+It is kind of nice to devolve a 39ish roll button tap mash down to 2 counts, but i still would of liked the voucher cap to be increased to 9999 too due to how many freaking vouchers i tend to go thru after a dozen or something runs and that aint even counting scrapping junk treasures.
+
+Also, Does Pyet-A and Proto-Bahamut materials even have anything you bloody use them for? Still trying to max out one of the Terminus weapons for a unit i dont plan to use in my CPU roster (since Rackham, Ferry, Cagliostro, Perceival, Siegfried, Katalina or even Narmaya or Rosetta have yet to drop thar Terminus for me), so i dont know if they actually make those bosses have a use for thar resources, besides Voucher scrap since they dont even have a treasure trade as far as im aware of.
+Welcome to anime. New here? Also they literally touch every guy except Ghandagoza. Eugen is a old hairy guy. Yord is a basically a midget hairy guy. They actually just hate Ghan, it shows. And they don’t hate male characters because the mobile game has tons of them and special limited time skins. I’ve seen the whole cast that’s in Relink in Christmas outfits and swimsuits.
+
+You’re just dumb as hell.
+    nop, not new... that's why I said that a burly old man wasnt going to be popular at all
+
+and I'm not dumb, just honest as hell, because who likes to play with burly old men when we have cute and sexy girls available?
+Gave his charge attack a 100 percent damage boost at the cost of increasing its charge time by 100 percent
+    Apparently his optimal play style has uncharged attacks or something, which just means double damage right?
+        Basically
+ikr his character slot could've been taken by a female draph, yet this pile of meat is what we got.
+I always thought that Id was already super powerful gameplaywise, he is my main so I love that they even buffed him now ❤️
+Wait, they exist???????
+    Rarely
+it would be funny if all of the comunity started playing ghanda as a sign of protest
+I'd play him if his kit wasn't so fucking slow
+    And if he didn't lose his whole gauge in half a second. You get punished hard-core just for doing stuff like fight mechanics.
+    I mean we have sieg and scythe guy
+        Sieg is not that slow and has good gap closer, Vase has unique enough kit with his tankiness
+
+Ghanda has massive damage burst but the kit itself is clunky and his reach is short, that's just my impression playing him for a handful of quests but maybe there are 1-2 dedicated players out there that can correct me
+Are you kidding me? I picked him up as my first ticket specifically cause of his model. Biggest dude on the roster that punches stuff.
+He needed buffs the most outta everyone yet he was ignored so idk i hope you're right since 1.3 is apparently the last patch.
+    Did they state that 1.3 will be the last patch or are you extrapolating?
+        One the devs in the stream said along the lines of " nothing is set in stone but we might have something else down the line potentially,  possibly" and then he kinda of laughed and everyone got excited so I'd say chances are high we get more
+            Eh, we'll see
+        It's the last for now. There's a chance we *might* get more later on, depending on how much people want more updates. One of the people in the presentation said he'd like to continue working on the game if there's enough demand, but for now there aren't any plans that are set in stone.
+            I believe after we saw that the sales were very good we might have more patches
+        1.3 was the last patch that they had planned for Relink post-launch. Anything they decide to do after May is going to be the wild west since they need to figure out what they want to do and what to make.
+        They did in the livestream
+Yet they didn’t give a reason for Ghanda to charge his moves lol (uncharged fist is just better currently even tho none of his builds are that great)
+
+This is honestly wild. Ghanda isn’t even in my top 10 played characters but that’s some crazy disrespect I feel bad for people who play him
+Depending on how this goes and the Concentration buffs on Io the optimal way might be just dropping Flowery Seven for that instead.
+    Get Low Profile, stand in Concentration aura, then spam max Stargaze.
+
+
+I wonder if they're significantly lowering Mystic Vortex's cooldown otherwise I don't see a reason to pick it over Concentration.
+    Time to set camp on every boss encounter. A pseudo link time spamming Stargaze 5. Io is known to be dmg consistent but now she can probably compete with all the top dps such as narmaya.
+Its going to require numbers but yea, I suspect the damage cap increase is very likely not even going to matter unless its insanely high. F7 doing this much damage with a tap is insane as it is.
+    Maybe they could nerf the uncharged F7 damage cap to encouraged a charged F7
+People love Rose. She's just not effective to play right now.
+I *want* to play Rosetta, but even with these changes I'm not sure it will help. Like cool the plants do more damage... that doesn't help with bosses flying all over the place avoiding them. You can only reposition them so much.
+She's a sexy women putting her tits on display complete with camera zoom every 5 minutes. If you think she isn't a popular pick outside of the reddit minmax dps modders on here, you're mistaken! 
+They are giving her an indicator for your stance + number of butterflies too. Second image in this post: [https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version\_130\_update\_contents\_preview\_new/](https://www.reddit.com/r/GranblueFantasyRelink/comments/1ccpaho/version_130_update_contents_preview_new/)
+
+But yeah 1.3 instead of 1.2 I guess we'll need to wait
+Seofon (1 of the 2 new upcoming characters): 😈
+😎
+Danchou straight up loses 30% of their damage without any compensation lol.
+Or just change fight over flight.
+    I don’t think changing an extremely rare sigil because of its interaction with one character is the  right answer. Simply just not allow lancelots y dodge to proc fof
+Well they said additional Controller Layouts tho, so not exactly free remapping it seems :(
+
+Actually the only thing I'd with for was to separate camera (lock off) and target switching (lock on)... having it both on the same stick is weird to me and I keep cycling through mobs in these multi boss/multi mob fights because I wanna turn the camera...
+I'm on PlayStation and playstation is not dead I can find matches in 10 secs in quick quest BUT THE MATCHMAKING needs work I can ready up and get an error and on quick quest  when I ready up I still get that message "reset status" whatever it's called so yea matchmaking is still broken. Even when me and my friend do a quest together with randoms once it hits" 4/4" we gotta pray that'll let us play with them half time it does half time it doesn't
+    The reset thing means there was nobody to match you with.
+
+I might be wrong but it sounds like connection issues on player's end, either that or yeah it's just broken on PS.
+yeah we'll see them in game tomorrow, i meant early info lol
+Gotcha, thanks for pointing that out.
+What time zone though, that is a question. It would be nice if they released globally at midnight JST
+    2pm Japan time. They announced in the stream.
+        This needs to be a whole post announcing the time it will happen.
+most of the characters sigils that I've seen were boring, creating effects on finishers or extending the window of timed mechanics...  
+those should have totally been a mastery path!
+
+it would be nice to have characters sigils that actually changed playstyles, like zeta focusing on landing spearmanship (like a heavy spearmen) instead of aerial spearmanship (like dragoon) or vane focusing on a berserker build (with his 2h axe) or a paladin build (with shield and hammer)
+
+that would be interesting sigils that should exist instead of the current characters sigils
+    Yeah, you know, that's a fair point. I was actually thinking of the extension of timed mechanics when making my comment; but in hindsight, you can do so much more. I'd love to see something like that too.
+Seriously, I would remove the dmg cap sigils in this game entirely and make it so that dmg cap increases with level, masteries and weapon upgrade alone.
+    I would just wish it would do the same percentage it does now, but at 30 levels not 60. 60 is forcing too much focus on these sigils. Same with Supp Damage. They are basically needed for every char right now and make it soooo much harder to actually customize and experiment.
+People already do that by stacking almost all of the slots with damage cap, war elemental and supplementary sigils anyway but they are forced to it because without damage cap expanded/worked around any other attack source that comes from buffs or sigils is useless.
+
+For example I'd like to use charge attack sigils on Vaseraga but can't cause I haven't got the damage cap core maxed yet.
+
+It would be fine for me to max damage cap with 2 max level DC too instead of 4.
+    I agree with that. Make Damage Cap 30 instead of 60. 
+
+However making cap harder(!) to reach would mean damage is more open ended... not less. So you probably already meant that, but the wording made it sound like the opposite, which would be even worse than what we have.
+But you have to agree it still in the realm useless
+    No? Autorevive is one of the best defensive sigils in the game, just below Potion Hoarder and Guts.
+Yes it is. They took the time to adjust damage numbers by making the cap indicator more obvious, which means they were adjusting damage numbers. They just didn't go all the way and let us adjust the size or transparency.
+Yea, I know. So they took time and effort to adjust the damage numbers, but not enough time and effort to let us reduce the size.
+    They took the yellow line, added another, and turned it alittle. It's easier to do an asset adjustment than to recode an aspect they didn't think would be a point of contention. Im sure that many will continue to talk about it, and it will get addressed eventually. Just like the Sigils.
+Under the "New Content" part.
+・Added sigils with new traits. They will appear in the Knickknack Shack after clearing "Gulp... So These Are the Rumored Monsters" or "Lock Horns."
+
+I expected to see the sigil details like they've showed some in the stream. Guess we need to check in the game tomorrow by ourselves.
+Since they didn't change the max sell/recycle cap from 30 I guess the 30 roll is just to sync with that.
+    Probably, just a shame you cant do a instant transition to scrapping to shorten it up.
+
+It is kind of nice to devolve a 39ish roll button tap mash down to 2 counts, but i still would of liked the voucher cap to be increased to 9999 too due to how many freaking vouchers i tend to go thru after a dozen or something runs and that aint even counting scrapping junk treasures.
+
+Also, Does Pyet-A and Proto-Bahamut materials even have anything you bloody use them for? Still trying to max out one of the Terminus weapons for a unit i dont plan to use in my CPU roster (since Rackham, Ferry, Cagliostro, Perceival, Siegfried, Katalina or even Narmaya or Rosetta have yet to drop thar Terminus for me), so i dont know if they actually make those bosses have a use for thar resources, besides Voucher scrap since they dont even have a treasure trade as far as im aware of.
+nop, not new... that's why I said that a burly old man wasnt going to be popular at all
+
+and I'm not dumb, just honest as hell, because who likes to play with burly old men when we have cute and sexy girls available?
+Apparently his optimal play style has uncharged attacks or something, which just means double damage right?
+    Basically
+Rarely
+And if he didn't lose his whole gauge in half a second. You get punished hard-core just for doing stuff like fight mechanics.
+I mean we have sieg and scythe guy
+    Sieg is not that slow and has good gap closer, Vase has unique enough kit with his tankiness
+
+Ghanda has massive damage burst but the kit itself is clunky and his reach is short, that's just my impression playing him for a handful of quests but maybe there are 1-2 dedicated players out there that can correct me
+Did they state that 1.3 will be the last patch or are you extrapolating?
+    One the devs in the stream said along the lines of " nothing is set in stone but we might have something else down the line potentially,  possibly" and then he kinda of laughed and everyone got excited so I'd say chances are high we get more
+        Eh, we'll see
+    It's the last for now. There's a chance we *might* get more later on, depending on how much people want more updates. One of the people in the presentation said he'd like to continue working on the game if there's enough demand, but for now there aren't any plans that are set in stone.
+        I believe after we saw that the sales were very good we might have more patches
+    1.3 was the last patch that they had planned for Relink post-launch. Anything they decide to do after May is going to be the wild west since they need to figure out what they want to do and what to make.
+    They did in the livestream
+Get Low Profile, stand in Concentration aura, then spam max Stargaze.
+
+
+I wonder if they're significantly lowering Mystic Vortex's cooldown otherwise I don't see a reason to pick it over Concentration.
+Time to set camp on every boss encounter. A pseudo link time spamming Stargaze 5. Io is known to be dmg consistent but now she can probably compete with all the top dps such as narmaya.
+Maybe they could nerf the uncharged F7 damage cap to encouraged a charged F7
+I don’t think changing an extremely rare sigil because of its interaction with one character is the  right answer. Simply just not allow lancelots y dodge to proc fof
+The reset thing means there was nobody to match you with.
+
+I might be wrong but it sounds like connection issues on player's end, either that or yeah it's just broken on PS.
+2pm Japan time. They announced in the stream.
+    This needs to be a whole post announcing the time it will happen.
+Yeah, you know, that's a fair point. I was actually thinking of the extension of timed mechanics when making my comment; but in hindsight, you can do so much more. I'd love to see something like that too.
+I would just wish it would do the same percentage it does now, but at 30 levels not 60. 60 is forcing too much focus on these sigils. Same with Supp Damage. They are basically needed for every char right now and make it soooo much harder to actually customize and experiment.
+I agree with that. Make Damage Cap 30 instead of 60. 
+
+However making cap harder(!) to reach would mean damage is more open ended... not less. So you probably already meant that, but the wording made it sound like the opposite, which would be even worse than what we have.
+No? Autorevive is one of the best defensive sigils in the game, just below Potion Hoarder and Guts.
+They took the yellow line, added another, and turned it alittle. It's easier to do an asset adjustment than to recode an aspect they didn't think would be a point of contention. Im sure that many will continue to talk about it, and it will get addressed eventually. Just like the Sigils.
+Probably, just a shame you cant do a instant transition to scrapping to shorten it up.
+
+It is kind of nice to devolve a 39ish roll button tap mash down to 2 counts, but i still would of liked the voucher cap to be increased to 9999 too due to how many freaking vouchers i tend to go thru after a dozen or something runs and that aint even counting scrapping junk treasures.
+
+Also, Does Pyet-A and Proto-Bahamut materials even have anything you bloody use them for? Still trying to max out one of the Terminus weapons for a unit i dont plan to use in my CPU roster (since Rackham, Ferry, Cagliostro, Perceival, Siegfried, Katalina or even Narmaya or Rosetta have yet to drop thar Terminus for me), so i dont know if they actually make those bosses have a use for thar resources, besides Voucher scrap since they dont even have a treasure trade as far as im aware of.
+Basically
+Sieg is not that slow and has good gap closer, Vase has unique enough kit with his tankiness
+
+Ghanda has massive damage burst but the kit itself is clunky and his reach is short, that's just my impression playing him for a handful of quests but maybe there are 1-2 dedicated players out there that can correct me
+One the devs in the stream said along the lines of " nothing is set in stone but we might have something else down the line potentially,  possibly" and then he kinda of laughed and everyone got excited so I'd say chances are high we get more
+    Eh, we'll see
+It's the last for now. There's a chance we *might* get more later on, depending on how much people want more updates. One of the people in the presentation said he'd like to continue working on the game if there's enough demand, but for now there aren't any plans that are set in stone.
+    I believe after we saw that the sales were very good we might have more patches
+1.3 was the last patch that they had planned for Relink post-launch. Anything they decide to do after May is going to be the wild west since they need to figure out what they want to do and what to make.
+They did in the livestream
+This needs to be a whole post announcing the time it will happen.
+Eh, we'll see
+I believe after we saw that the sales were very good we might have more patches
