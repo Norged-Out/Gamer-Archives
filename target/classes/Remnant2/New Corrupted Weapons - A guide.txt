@@ -1,0 +1,687 @@
+[[New Corrupted Weapons - A guide]]
+
+
+After a very long and painful grinding session, we managed to obtain all the Corrupted Shards (Note: This is a new material in the game after today's patch).
+
+From the 27th till 31st, the drop rate is increased, but you can get this material outside of this period. After a painful grind, we managed to get 1 Corrupted Shard (pre-bonus drop rate) in 6 hours of farming.
+
+The following weapons now have a Corrupted Version:
+
+* Aphelion
+* Deceit
+* Merciless
+* Meridian
+* Rune Pistol
+
+I made a quick lazy video (no edits, just raw footage) of the weapons if you want to see them here: [https://youtu.be/JPJicDR6\_vQ](https://youtu.be/JPJicDR6_vQ)
+
+This single Shard has allowed me and my co-op partner (Seanw65) to dupe it to get all the weapons, we decided to not grind for 60 hours per weapon. We learned the following:
+
+* You need 10 Corrupted Shards per weapon.
+* You trade  10 Corrupted Shards + Original Weapon in at Dwell (The weird guy from Yaesha that is chilling in Ward 13).
+* Dwell, will now have your original weapon up for trade, he will trade you the original weapon version back for the corrupted version (which you now got) + 1 simulacrum.
+~~* You CANNOT re-craft the original version of the weapon, even if you have the materials, the option will not be given to you, the only way to get back the original weapon is by trading it back to Dwell as noted above.~~
+~~* According to tragic_Gunfire, not being able to re-craft the weapon is a bug, that will be fixed.~~
+* **You CAN recraft the original weapons, you will need to reacquire the crafting material to do so.**
+* Trading weapons will have the weapons carry over their levels (e.g., if you trade in a level 10 weapon, you will get a level 10 weapon back).
+
+**Bugs:**
+
+Corrupted Deceit:
+* The saw can get stuck behind terrain objects.
+* The saw can spawn from behind the character bouncing directly into a wall and not heading in the aimed direction, this will put your mod on cooldown with no benefit.
+* The saw does not despawn at all times and can cause audio issues (shooting a new one will despawn the bugged one that did not despawn)
+* The damage inconsistency seems to be a target dummy issue (works fine on regular enemies)
+
+Corrupted Rune Pistol:
+* The mod doesn't give the 10% damage increase on targets around the user when cast, the damage increase is lower than intended currently, around 6% (based on target dummy testing).
+
+Corrupted Meridian:
+* Missing Mod description of the weapon when not inspecting, inspecting the weapon will show the mod description.
+
+Merciless:
+* Muzzle Flash bugs out after using the mod, swapping weapons fixes this. 
+
+Edit 2: There is a bug with Corrupted Merciless where the muzzle flash after activating the mod will not go away.
+
+Edit 3: Pan is the race, Dwell is the vendor’s name, thanks for correcting me!
+
+Edit 4: You can craft the original weapons! Added Some more bugs with the new weapons.
+
+
+The inability to re-craft the original version is a bug. We want to make sure you can have both weapons.
+    Hey tragic. If the ps5 patch isn't up tomorrow when the event starts, any chance of an extension?
+        The patch for PS5 will be up before the event goes live.
+        Now that is a really good question.
+            Yes, though it seems there's nothing to worry about: https://www.reddit.com/r/remnantgame/comments/17hg93e/ps5_update_should_be_live_at_4pm_gmt_9am_pst_12pm/
+    Very good news. Thanks for letting us know!
+    This seems to be a bug due to duping. We've been unable to produce it (so far) and I believe biqotz has been able to craft the original Rune Pistol (while having the corrupted one). We will keep following up on this.
+        How likely is a fix for this? Not being able to recreate the old weapons is torturing the inner completionist in me. I should've just been patient and i would've had them all by now without the duping.
+            A fix for the people that duped? Or were you unable to get them legitimately? I've seen numerous people able to get both. I can look into it some more of that's not the case.
+                If you create the original version after getting a corrupted one, it just removes the corrupted one... so you pay 10 corrupted shards for the corrupted version and then 1 simulacrum for the original to basically get nothing...
+
+I came here to look for this because i thought this was horrible design, now i wasted 10 shards and 1 simulacrum for nothing.
+
+PS: Didnt know you were a dev, we just completed a full Losomn run and got 10 shards to get the first corrupted weapon and then what i described above ensued. Not sure if its everyone but neither me, nor my brother or father could get both the corrupted and normal version, they seem exclusive and replace each other every time you try to get either.
+                    The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+                        Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+                            Great feedback. We can work on the labeling! =)
+                                Thanks for listening, its really appreciated!
+                            Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+                                Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                                    I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+                                This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+                    You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+                        Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+                I duped corrupted shards and used those to purchase the corrupted weapons. Now, materials to recraft the originals aren't spawning. So far I've only attempted the merciless. I wanted to save the more difficult weapons for a possible fix.
+
+Edit: I'm on ps5 in case that makes a difference
+                    So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+    I was able to re get the rune pistol
+    Sweet
+    Hey, lots of people on steam have been unable to launch the game since the patch.
+        If you have RivaTuner installed, update it, or disable it. See if that helps.
+    Just to confirm…we keep the weapons after the event ends, right??
+        Yes but currently you cant have both weapons since they replace each other :(
+
+Seems to be a bug but we wasted our first 10 shards due to this...
+            but you can get the original normally right? so you can convert the original, then get a second one of the original to have both? seems neat
+His name is Dwell
+
+Pan is the race
+    Thank you, will correct it
+"Straight Up Better" is incredibly subjective
+
+they are not "upgrades" they are just different flavors or playstyles of the same weapon
+    You might be right, but it sure doesn’t feel like the normal versions stand a chance against the corrupted versions as of writing (maybe Deceit due to consistency issues).
+One of the devs also mentioned to me that they decided to give the corrupted versions to the weapons that weren’t being used a lot and that the normal versions might be made a bit beefier.
+
+Make of that what you wish.
+        Does merciless really fall under the category of “not used a lot”?
+
+Regular merciless is pretty OP imo
+
+Thanks for the research btw!
+            Yeah that strikes me as wild. Merciless feels like a go-to weapon, and I feel kinda lame for using what I presumed was just straight up meta.
+        Corrupted Meridian is hands down a better gun. Able to charge 3 shots, and is considered a Fusion rifle, so Supercharger and Archer's Chrest work with it. 
+
+The mod is very expensive, but deals incredible AoE damage. With a good Archon build it flattens anything that isn't a boss. Just be careful you don't kill yourself with it.
+        I mean it depends on what you want I suppose. I enjoy DoT damage, and run Merciless with Twisting Wounds, Abrasive, and Timekeeper. Which admittedly is not the highest DPS combo in the game, but I enjoy it.
+
+The corrupted Merciless removes the main gimmick from the weapon, which makes it worthless in the combo I run for the reason I run it. Literally any gun now does the same thing for me, which is bleedless damage.
+        Well I use Merciless for the mod. It’s pretty terrible as a rifle so the corrupted version seems much worse imo.
+        I can understand ruined pistol and Meridian. 
+
+Ophelion to see and merciless all get kind of disgusting strong already...
+        Rune Pistol and Aphelion may fall into the category of underused/underperforming. However Normal Deceit is meta and one of if not the single strongest gun in the game. Meridian and Merciless are also widely used. I don’t disagree with the devs here but it seems like the key nuance is the devs gave us 3 variants of bangers and 2 variants of pretty meh-weapons.
+            Is deceit really that popular?  
+I use it, but because I suck at hitting weakspots, so it's a crutch...it's mechanic is also mildly janky... I assume other weapons can do more damage, it's just it's easier with deceit.  
+(except for bosses that don't have a weakspot? I guess then deceit wins)
+                I hate it too. Not worth the trouble imo.
+            I don't know that I've ever seen Meridan used, and I play a ton of rando coop.
+How did you dupe the Corrupted Shards?
+    Need 2 players one needs to have the shard then sell it then close the game right after u sell the shard
+        I tried this but my inventory lost the item and it stayed in their shop
+            U need to be in someone else's world to dup them that is y u need 2
+                Yeah I know. I was. It just took it from me anyway and left the item in the shop
+        Interesting
+        And then when you reconnect to their world its in the shop for you?
+
+Is the shop contents shared such that you can also transfer items this way?
+        Are you on PC or console? On xbox X it doesn't seem to work.
+The corrupted merciless doesn't apply bleed in its current state though correct?
+    With twisted wounds it should still apply bleed.
+Sad to see Starkiller didn't get a corrupted version, this was your chance to make this weapon shine again.
+How does new merciless work exactly?
+    The Corrupted Merciless normal fire is basically the normal version’s mod fire. The corrupted mod makes it so you can keep firing for the mods duration without reloading
+        Wtf that sounds amazing
+    it no longer bleeds on hit and its a dmr and its  mod is very different as well
+        Which is a shame. Merc is my favorite weapon, and when I read it was part of the event I was excited... but this is not an upgrade imo, it is just a completely different weapon. Sure it looks pretty good, but it is not what I would have hoped for.
+            Literally black hammer from destiny or wotw in d2
+God I love this community! Thank you so much for the guide! I'm on PS5, sucks the patch broke on that version but very confident Gunfire will get it fixed soon! Cheers all around to the community and devs! <3
+Great post, thanks OP!
+Is it just me or are shards limited to 10 only?
+
+We wanted to collect all 50 and then buy the guns, but we noticed only too late after the third completed adventure world that we were still stuck at 10.
+
+We checked the inventory and it doesnt list a max number, but when we went out we couldnt get an 11th even after killing aberrations...
+6 hours for a single shard and you need 10?  Damn that's a long grind and it'll be even worse once the event is over.
+    Event hadn’t started when he posted.
+    In Yeasha or however it’s spelt we got 5 in an hour.
+    Play during event. We played 3 hours last night and got 12
+    How did it take you 6 hours?
+
+We cleared a single adventure world and got 10 shards it took maybe 2 hours at most with 3 players.
+Corrupted aphelion looks amazing
+DO NOT CORRUPT THE MERCILESS, IT LOSSES ITS BLEED AND ITS DMG OUTPUT AND FIRE RATE ARE ALL LOWER FROM TESTING 
+
+All in all it's the Worse option out of all the corruptions
+
+((Tho it's weak spot hits are godly u can still put DMG them with it's default))
+Now this sounds fun.
+They do look pretty sweet. Do I need to reroll a new campaign/adventure to get the shards to drop?
+They really really need to up that spawn rate in abberations  it seems like a hunt... I found 2 in the last 3 hrs
+Say wut? When did they release DLC?
+    This isn't technically dlc as far as the "Incoming DLC" is concerned. This is just a quality of life update with some bonus stuff thrown in.
+
+Came out as part of the patch earlier today
+        Cool, thanks for clarification.  I'm used to devs not including weapon updates unless it's part of some paid package like a DLC.  I want to come back but not to grind mats for weapons until there's new DLC to play thru.  I don't have any friends actively needing a sherpa so I'll just observe this event.  Sounds cool though
+Just pics of the weapons i have from dwell
+
+&#x200B;
+
+https://www.reddit.com/r/remnantgame/comments/17hbqrh/corrupted\_weapons/?utm\_source=share&utm\_medium=web2x&context=3
+    These are unreadable lol
+any recommendations on good maps for grinding materials?
+    We got 1 to drop from killing Gorge (Butcher's Quarter or Cotton's Kiln) and then had an elite spawn that dropped it.
+        Yo I've been to cottons kiln and butchers quarters soooo many times and have never gotten gorge. I feel like I'm doing something wrong at this point
+        Does it have to be in campaign mode or can it be the other?
+            Got one from adventure mode
+        cheers
+    Go to the Root Nexus boss in Yeusha. 
+
+Attack jntil the enemy waves spawn. Do not kill the Root Nexus, use the crystal nearby tonresr and repeat.
+With Merciless tho u can turn it back into a bleed with the mutator tho am gonna test it tomorrow gonna be fun
+What makes them better than the regular versions?
+    They’re not necessarily better just different. That difference could make them better than the original.
+So what would be a good way to farm the shards starting tomorrow? Reroll adventure and jist kill enemies?
+Is there any conditions for corrupt shards to spawn? gone through a couple of worlds and saw not a single new aberrations
+    I haven't seen any below Nightmare difficulty, difficulty affects the chance for the spawns apparently, they're not too common outside of the event period it seems.
+        that seems like a really bad move, making rare spawns for certain difficulty only feels really bad for an event
+        Got one in veteran adventure mode
+            hey , wanna play together and try to get those shards ?
+                Wanna play right now?
+                    yea sure
+                        I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+                            there's no name like that on discord
+                                Wait. You guys have a discord group. I’m not there how do I join?
+                                    not in a group i would just add u there as a friend
+                                U on pc?
+                        add me on discord and let's talk there  
+my username is : mahamido
+hey can anyone help me to get those shards ?  
+i only have two and i have been playing since morning which is 12 hour till now
+Do i have to hunt the normal reds? Cuz i dont aee these abberations anywhere. Just opened a new nerud. Ran adventure losom co op. Nada   .. just restarted the game and ran into my first one i  nerud. How do u find em all theyre njsy random or certain areas?
+    I think it must be nightmare difficulty. We were getting a consisten 1 aberation per dungeon. They were farmable/ a new one appeared after going back to cp.
+ooof.... i came to this subreddit to see if anyone knew the spawn rate of these new aberrations since i'd been playing for 7 hours today on veteran and have yet to see one. playing 60 hours in a 5 day period to get 1 weapon isn't realistic for those of us with a job. even if i had the week off, playing for 12 hours per day, 5 days straight is a big ask for 1 weapon.
+    They go like from 5% to like 15 for the event that comes out today
+        ok yeah took me 8 hours to get my first and an hour and a half to get another 6 lol
+
+had 5 of them spawn on a single n'erud run in adventure mode.
+I’ve been playing for a few hours and have not picked up a single one. Anyone had more luck?
+    Same for me, playing on third difficulty, nothing over hours.
+        I managed to get two within 15mins of each other. I think it was just me starting earlier than the event timer.
+the fact that you really have to trade in your upgraded weapon and lose it along with the resources you spent on it is really lame
+When I try to talk to dwell it's only question marks for the weapons how do I get rid of that
+    You need to have the base version of the weapon unlocked
+Eh, really? I just crafted my Corrupted Merciless and able to craft another normal Merciless after I got the materials for it after defeating Corrupted Ravager in a normal Yaesha adventure roll.
+So if i understand this i can get the two versions of the weapons but right now i can't because re-craft the old version is bugged , if that's true nice because I want to have them both in my inventory .
+what happens if somebody doesnt get the corrupted weapons this weekends, are they locked out from getting them in the future?
+    You can get them forever, but lower drop chance
+        oh so its not an event this weekend, its a permanent addition
+            Event is bonus drop rates (by an absolute ton)
+NOTE: be carefull if you have 10 scards you have to use them before you can collect more, I just lost 3 becouse I was at max of 10, they don't say anything or advice that 10 is max capacity
+Are these weapons account-wide, or character specific? I may have just missed that in the patch notes, but are they like the black cat ring, and basically unlock for every character once I meet the requirements (which I guess for this one would be just... crafting it) on one of them? If not that seems kinda... stupid? Like I would think it'd be a no brainer to have them be account wide, but given this is SUCH a small window of time for this event, I honestly shouldn't assume that since that itself is a rather... questionable... decision. Seems weird to just... alienate your player base who doesn't have a lot of free time but loves your game from being able to get these.
+I've obtained some of the corrupted shards but I don't see the corrupted weapons in Dwell's inventory. Do I have to beat the story for them to appear?
+    You need the original weapon
+It's kind of a shame they chose a bunch of weapons that are super annoying to get back. This event would be a lot cooler if it didn't mean regrinding my stupid Rune Pistol.
+Meridian...FF like a mf..but I love it so
+Is possible get both weapons? normal and corrupted?
+    Yes
+Bro can someone please tell me if the corrupted aphelion is better than the normal or which gun do I go for out of the deceit and the aphelion 😭😭😭😭????!!!
+If I return the corrupted weapon to get the normal one because I didn't like it, will I get the corrupted fragments back?
+    Just in case you still need this or someone else does. No, you do not get the corrupted fragments back.
+Hey tragic. If the ps5 patch isn't up tomorrow when the event starts, any chance of an extension?
+    The patch for PS5 will be up before the event goes live.
+    Now that is a really good question.
+        Yes, though it seems there's nothing to worry about: https://www.reddit.com/r/remnantgame/comments/17hg93e/ps5_update_should_be_live_at_4pm_gmt_9am_pst_12pm/
+Very good news. Thanks for letting us know!
+This seems to be a bug due to duping. We've been unable to produce it (so far) and I believe biqotz has been able to craft the original Rune Pistol (while having the corrupted one). We will keep following up on this.
+    How likely is a fix for this? Not being able to recreate the old weapons is torturing the inner completionist in me. I should've just been patient and i would've had them all by now without the duping.
+        A fix for the people that duped? Or were you unable to get them legitimately? I've seen numerous people able to get both. I can look into it some more of that's not the case.
+            If you create the original version after getting a corrupted one, it just removes the corrupted one... so you pay 10 corrupted shards for the corrupted version and then 1 simulacrum for the original to basically get nothing...
+
+I came here to look for this because i thought this was horrible design, now i wasted 10 shards and 1 simulacrum for nothing.
+
+PS: Didnt know you were a dev, we just completed a full Losomn run and got 10 shards to get the first corrupted weapon and then what i described above ensued. Not sure if its everyone but neither me, nor my brother or father could get both the corrupted and normal version, they seem exclusive and replace each other every time you try to get either.
+                The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+                    Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+                        Great feedback. We can work on the labeling! =)
+                            Thanks for listening, its really appreciated!
+                        Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+                            Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                                I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+                            This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+                You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+                    Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+            I duped corrupted shards and used those to purchase the corrupted weapons. Now, materials to recraft the originals aren't spawning. So far I've only attempted the merciless. I wanted to save the more difficult weapons for a possible fix.
+
+Edit: I'm on ps5 in case that makes a difference
+                So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+I was able to re get the rune pistol
+Sweet
+Hey, lots of people on steam have been unable to launch the game since the patch.
+    If you have RivaTuner installed, update it, or disable it. See if that helps.
+Just to confirm…we keep the weapons after the event ends, right??
+    Yes but currently you cant have both weapons since they replace each other :(
+
+Seems to be a bug but we wasted our first 10 shards due to this...
+        but you can get the original normally right? so you can convert the original, then get a second one of the original to have both? seems neat
+Thank you, will correct it
+You might be right, but it sure doesn’t feel like the normal versions stand a chance against the corrupted versions as of writing (maybe Deceit due to consistency issues).
+One of the devs also mentioned to me that they decided to give the corrupted versions to the weapons that weren’t being used a lot and that the normal versions might be made a bit beefier.
+
+Make of that what you wish.
+    Does merciless really fall under the category of “not used a lot”?
+
+Regular merciless is pretty OP imo
+
+Thanks for the research btw!
+        Yeah that strikes me as wild. Merciless feels like a go-to weapon, and I feel kinda lame for using what I presumed was just straight up meta.
+    Corrupted Meridian is hands down a better gun. Able to charge 3 shots, and is considered a Fusion rifle, so Supercharger and Archer's Chrest work with it. 
+
+The mod is very expensive, but deals incredible AoE damage. With a good Archon build it flattens anything that isn't a boss. Just be careful you don't kill yourself with it.
+    I mean it depends on what you want I suppose. I enjoy DoT damage, and run Merciless with Twisting Wounds, Abrasive, and Timekeeper. Which admittedly is not the highest DPS combo in the game, but I enjoy it.
+
+The corrupted Merciless removes the main gimmick from the weapon, which makes it worthless in the combo I run for the reason I run it. Literally any gun now does the same thing for me, which is bleedless damage.
+    Well I use Merciless for the mod. It’s pretty terrible as a rifle so the corrupted version seems much worse imo.
+    I can understand ruined pistol and Meridian. 
+
+Ophelion to see and merciless all get kind of disgusting strong already...
+    Rune Pistol and Aphelion may fall into the category of underused/underperforming. However Normal Deceit is meta and one of if not the single strongest gun in the game. Meridian and Merciless are also widely used. I don’t disagree with the devs here but it seems like the key nuance is the devs gave us 3 variants of bangers and 2 variants of pretty meh-weapons.
+        Is deceit really that popular?  
+I use it, but because I suck at hitting weakspots, so it's a crutch...it's mechanic is also mildly janky... I assume other weapons can do more damage, it's just it's easier with deceit.  
+(except for bosses that don't have a weakspot? I guess then deceit wins)
+            I hate it too. Not worth the trouble imo.
+        I don't know that I've ever seen Meridan used, and I play a ton of rando coop.
+Need 2 players one needs to have the shard then sell it then close the game right after u sell the shard
+    I tried this but my inventory lost the item and it stayed in their shop
+        U need to be in someone else's world to dup them that is y u need 2
+            Yeah I know. I was. It just took it from me anyway and left the item in the shop
+    Interesting
+    And then when you reconnect to their world its in the shop for you?
+
+Is the shop contents shared such that you can also transfer items this way?
+    Are you on PC or console? On xbox X it doesn't seem to work.
+With twisted wounds it should still apply bleed.
+The Corrupted Merciless normal fire is basically the normal version’s mod fire. The corrupted mod makes it so you can keep firing for the mods duration without reloading
+    Wtf that sounds amazing
+it no longer bleeds on hit and its a dmr and its  mod is very different as well
+    Which is a shame. Merc is my favorite weapon, and when I read it was part of the event I was excited... but this is not an upgrade imo, it is just a completely different weapon. Sure it looks pretty good, but it is not what I would have hoped for.
+        Literally black hammer from destiny or wotw in d2
+Event hadn’t started when he posted.
+In Yeasha or however it’s spelt we got 5 in an hour.
+Play during event. We played 3 hours last night and got 12
+How did it take you 6 hours?
+
+We cleared a single adventure world and got 10 shards it took maybe 2 hours at most with 3 players.
+This isn't technically dlc as far as the "Incoming DLC" is concerned. This is just a quality of life update with some bonus stuff thrown in.
+
+Came out as part of the patch earlier today
+    Cool, thanks for clarification.  I'm used to devs not including weapon updates unless it's part of some paid package like a DLC.  I want to come back but not to grind mats for weapons until there's new DLC to play thru.  I don't have any friends actively needing a sherpa so I'll just observe this event.  Sounds cool though
+These are unreadable lol
+We got 1 to drop from killing Gorge (Butcher's Quarter or Cotton's Kiln) and then had an elite spawn that dropped it.
+    Yo I've been to cottons kiln and butchers quarters soooo many times and have never gotten gorge. I feel like I'm doing something wrong at this point
+    Does it have to be in campaign mode or can it be the other?
+        Got one from adventure mode
+    cheers
+Go to the Root Nexus boss in Yeusha. 
+
+Attack jntil the enemy waves spawn. Do not kill the Root Nexus, use the crystal nearby tonresr and repeat.
+They’re not necessarily better just different. That difference could make them better than the original.
+I haven't seen any below Nightmare difficulty, difficulty affects the chance for the spawns apparently, they're not too common outside of the event period it seems.
+    that seems like a really bad move, making rare spawns for certain difficulty only feels really bad for an event
+    Got one in veteran adventure mode
+        hey , wanna play together and try to get those shards ?
+            Wanna play right now?
+                yea sure
+                    I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+                        there's no name like that on discord
+                            Wait. You guys have a discord group. I’m not there how do I join?
+                                not in a group i would just add u there as a friend
+                            U on pc?
+                    add me on discord and let's talk there  
+my username is : mahamido
+I think it must be nightmare difficulty. We were getting a consisten 1 aberation per dungeon. They were farmable/ a new one appeared after going back to cp.
+They go like from 5% to like 15 for the event that comes out today
+    ok yeah took me 8 hours to get my first and an hour and a half to get another 6 lol
+
+had 5 of them spawn on a single n'erud run in adventure mode.
+Same for me, playing on third difficulty, nothing over hours.
+    I managed to get two within 15mins of each other. I think it was just me starting earlier than the event timer.
+You need to have the base version of the weapon unlocked
+You can get them forever, but lower drop chance
+    oh so its not an event this weekend, its a permanent addition
+        Event is bonus drop rates (by an absolute ton)
+You need the original weapon
+Yes
+Just in case you still need this or someone else does. No, you do not get the corrupted fragments back.
+The patch for PS5 will be up before the event goes live.
+Now that is a really good question.
+    Yes, though it seems there's nothing to worry about: https://www.reddit.com/r/remnantgame/comments/17hg93e/ps5_update_should_be_live_at_4pm_gmt_9am_pst_12pm/
+How likely is a fix for this? Not being able to recreate the old weapons is torturing the inner completionist in me. I should've just been patient and i would've had them all by now without the duping.
+    A fix for the people that duped? Or were you unable to get them legitimately? I've seen numerous people able to get both. I can look into it some more of that's not the case.
+        If you create the original version after getting a corrupted one, it just removes the corrupted one... so you pay 10 corrupted shards for the corrupted version and then 1 simulacrum for the original to basically get nothing...
+
+I came here to look for this because i thought this was horrible design, now i wasted 10 shards and 1 simulacrum for nothing.
+
+PS: Didnt know you were a dev, we just completed a full Losomn run and got 10 shards to get the first corrupted weapon and then what i described above ensued. Not sure if its everyone but neither me, nor my brother or father could get both the corrupted and normal version, they seem exclusive and replace each other every time you try to get either.
+            The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+                Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+                    Great feedback. We can work on the labeling! =)
+                        Thanks for listening, its really appreciated!
+                    Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+                        Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                            I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+                        This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+            You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+                Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+        I duped corrupted shards and used those to purchase the corrupted weapons. Now, materials to recraft the originals aren't spawning. So far I've only attempted the merciless. I wanted to save the more difficult weapons for a possible fix.
+
+Edit: I'm on ps5 in case that makes a difference
+            So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+If you have RivaTuner installed, update it, or disable it. See if that helps.
+Yes but currently you cant have both weapons since they replace each other :(
+
+Seems to be a bug but we wasted our first 10 shards due to this...
+    but you can get the original normally right? so you can convert the original, then get a second one of the original to have both? seems neat
+Does merciless really fall under the category of “not used a lot”?
+
+Regular merciless is pretty OP imo
+
+Thanks for the research btw!
+    Yeah that strikes me as wild. Merciless feels like a go-to weapon, and I feel kinda lame for using what I presumed was just straight up meta.
+Corrupted Meridian is hands down a better gun. Able to charge 3 shots, and is considered a Fusion rifle, so Supercharger and Archer's Chrest work with it. 
+
+The mod is very expensive, but deals incredible AoE damage. With a good Archon build it flattens anything that isn't a boss. Just be careful you don't kill yourself with it.
+I mean it depends on what you want I suppose. I enjoy DoT damage, and run Merciless with Twisting Wounds, Abrasive, and Timekeeper. Which admittedly is not the highest DPS combo in the game, but I enjoy it.
+
+The corrupted Merciless removes the main gimmick from the weapon, which makes it worthless in the combo I run for the reason I run it. Literally any gun now does the same thing for me, which is bleedless damage.
+Well I use Merciless for the mod. It’s pretty terrible as a rifle so the corrupted version seems much worse imo.
+I can understand ruined pistol and Meridian. 
+
+Ophelion to see and merciless all get kind of disgusting strong already...
+Rune Pistol and Aphelion may fall into the category of underused/underperforming. However Normal Deceit is meta and one of if not the single strongest gun in the game. Meridian and Merciless are also widely used. I don’t disagree with the devs here but it seems like the key nuance is the devs gave us 3 variants of bangers and 2 variants of pretty meh-weapons.
+    Is deceit really that popular?  
+I use it, but because I suck at hitting weakspots, so it's a crutch...it's mechanic is also mildly janky... I assume other weapons can do more damage, it's just it's easier with deceit.  
+(except for bosses that don't have a weakspot? I guess then deceit wins)
+        I hate it too. Not worth the trouble imo.
+    I don't know that I've ever seen Meridan used, and I play a ton of rando coop.
+I tried this but my inventory lost the item and it stayed in their shop
+    U need to be in someone else's world to dup them that is y u need 2
+        Yeah I know. I was. It just took it from me anyway and left the item in the shop
+Interesting
+And then when you reconnect to their world its in the shop for you?
+
+Is the shop contents shared such that you can also transfer items this way?
+Are you on PC or console? On xbox X it doesn't seem to work.
+Wtf that sounds amazing
+Which is a shame. Merc is my favorite weapon, and when I read it was part of the event I was excited... but this is not an upgrade imo, it is just a completely different weapon. Sure it looks pretty good, but it is not what I would have hoped for.
+    Literally black hammer from destiny or wotw in d2
+Cool, thanks for clarification.  I'm used to devs not including weapon updates unless it's part of some paid package like a DLC.  I want to come back but not to grind mats for weapons until there's new DLC to play thru.  I don't have any friends actively needing a sherpa so I'll just observe this event.  Sounds cool though
+Yo I've been to cottons kiln and butchers quarters soooo many times and have never gotten gorge. I feel like I'm doing something wrong at this point
+Does it have to be in campaign mode or can it be the other?
+    Got one from adventure mode
+cheers
+that seems like a really bad move, making rare spawns for certain difficulty only feels really bad for an event
+Got one in veteran adventure mode
+    hey , wanna play together and try to get those shards ?
+        Wanna play right now?
+            yea sure
+                I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+                    there's no name like that on discord
+                        Wait. You guys have a discord group. I’m not there how do I join?
+                            not in a group i would just add u there as a friend
+                        U on pc?
+                add me on discord and let's talk there  
+my username is : mahamido
+ok yeah took me 8 hours to get my first and an hour and a half to get another 6 lol
+
+had 5 of them spawn on a single n'erud run in adventure mode.
+I managed to get two within 15mins of each other. I think it was just me starting earlier than the event timer.
+oh so its not an event this weekend, its a permanent addition
+    Event is bonus drop rates (by an absolute ton)
+Yes, though it seems there's nothing to worry about: https://www.reddit.com/r/remnantgame/comments/17hg93e/ps5_update_should_be_live_at_4pm_gmt_9am_pst_12pm/
+A fix for the people that duped? Or were you unable to get them legitimately? I've seen numerous people able to get both. I can look into it some more of that's not the case.
+    If you create the original version after getting a corrupted one, it just removes the corrupted one... so you pay 10 corrupted shards for the corrupted version and then 1 simulacrum for the original to basically get nothing...
+
+I came here to look for this because i thought this was horrible design, now i wasted 10 shards and 1 simulacrum for nothing.
+
+PS: Didnt know you were a dev, we just completed a full Losomn run and got 10 shards to get the first corrupted weapon and then what i described above ensued. Not sure if its everyone but neither me, nor my brother or father could get both the corrupted and normal version, they seem exclusive and replace each other every time you try to get either.
+        The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+            Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+                Great feedback. We can work on the labeling! =)
+                    Thanks for listening, its really appreciated!
+                Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+                    Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                        I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+                    This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+        You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+            Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+    I duped corrupted shards and used those to purchase the corrupted weapons. Now, materials to recraft the originals aren't spawning. So far I've only attempted the merciless. I wanted to save the more difficult weapons for a possible fix.
+
+Edit: I'm on ps5 in case that makes a difference
+        So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+but you can get the original normally right? so you can convert the original, then get a second one of the original to have both? seems neat
+Yeah that strikes me as wild. Merciless feels like a go-to weapon, and I feel kinda lame for using what I presumed was just straight up meta.
+Is deceit really that popular?  
+I use it, but because I suck at hitting weakspots, so it's a crutch...it's mechanic is also mildly janky... I assume other weapons can do more damage, it's just it's easier with deceit.  
+(except for bosses that don't have a weakspot? I guess then deceit wins)
+    I hate it too. Not worth the trouble imo.
+I don't know that I've ever seen Meridan used, and I play a ton of rando coop.
+U need to be in someone else's world to dup them that is y u need 2
+    Yeah I know. I was. It just took it from me anyway and left the item in the shop
+Literally black hammer from destiny or wotw in d2
+Got one from adventure mode
+hey , wanna play together and try to get those shards ?
+    Wanna play right now?
+        yea sure
+            I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+                there's no name like that on discord
+                    Wait. You guys have a discord group. I’m not there how do I join?
+                        not in a group i would just add u there as a friend
+                    U on pc?
+            add me on discord and let's talk there  
+my username is : mahamido
+Event is bonus drop rates (by an absolute ton)
+If you create the original version after getting a corrupted one, it just removes the corrupted one... so you pay 10 corrupted shards for the corrupted version and then 1 simulacrum for the original to basically get nothing...
+
+I came here to look for this because i thought this was horrible design, now i wasted 10 shards and 1 simulacrum for nothing.
+
+PS: Didnt know you were a dev, we just completed a full Losomn run and got 10 shards to get the first corrupted weapon and then what i described above ensued. Not sure if its everyone but neither me, nor my brother or father could get both the corrupted and normal version, they seem exclusive and replace each other every time you try to get either.
+    The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+        Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+            Great feedback. We can work on the labeling! =)
+                Thanks for listening, its really appreciated!
+            Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+                Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                    I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+                This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+    You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+        Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+I duped corrupted shards and used those to purchase the corrupted weapons. Now, materials to recraft the originals aren't spawning. So far I've only attempted the merciless. I wanted to save the more difficult weapons for a possible fix.
+
+Edit: I'm on ps5 in case that makes a difference
+    So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+I hate it too. Not worth the trouble imo.
+Yeah I know. I was. It just took it from me anyway and left the item in the shop
+Wanna play right now?
+    yea sure
+        I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+            there's no name like that on discord
+                Wait. You guys have a discord group. I’m not there how do I join?
+                    not in a group i would just add u there as a friend
+                U on pc?
+        add me on discord and let's talk there  
+my username is : mahamido
+The Simulacrum is to convert it back. You should be able to obtain the original through normal methods. If that doesn't work, then there's a bug.  
+  
+I disagree about horrible design, however. The design is that you get a weapon, you can convert it to corrupted. Convert it back if you don't like it. Or you can go get the original again through normal methods.
+    Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+        Great feedback. We can work on the labeling! =)
+            Thanks for listening, its really appreciated!
+        Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+            Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+                I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+            This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+You have to create the original version the way you originally created it. You don't do it by converting the corrupted gun back to the original version at the merchant. For example, for the merciless, you have to shoot the ravager, let him eat the doe, then kill him to get the crimson membrane. Take that to McCabe, and she'll recraft the original merciless.
+    Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+So, I'm not sure what changed, but i just ran through it again and the crimson membrane dropped. The only difference was this was a solo run, the other was with a friend. I'll work on the other weapons and report back.
+yea sure
+    I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+        there's no name like that on discord
+            Wait. You guys have a discord group. I’m not there how do I join?
+                not in a group i would just add u there as a friend
+            U on pc?
+    add me on discord and let's talk there  
+my username is : mahamido
+Thanks for the explanation, but then i have to say its badly explained in game. When i see a weapon at a merchant i assume i can buy it, not "revert it back" to its previous state.
+
+I mean why would i want to revert it back, if i can find it again? Seems awfully confusing.
+
+And yes sure maybe im one of the few idiots that cant read, in case its written there at the merchant, but not all players are on reddit or extremely perceptive, id even argue most people are rather oblivious and not perceptive at all, even in this thread there is one other comment with the same issue and i saw some on an instagram post as well.
+
+Maybe just implement a question like "are you sure you want to revert back?" since it costs a Simulacrum which are hard to come by.
+    Great feedback. We can work on the labeling! =)
+        Thanks for listening, its really appreciated!
+    Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+        Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+            I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+        This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+Thanks for explaining, one of the devs explained it as well and i said there the same thing i will say here: If i see a weapon at a merchant, i assume i can buy it, not trade it in. Especially the "trading back" seems incredibly stupid because why does it cost a Simulacrum to get the original back?
+
+It makes it look like i can buy the original in addition... and now that i know its a trade-in not a purchase, i would say it should be free after you got the corrupted, one simulacrum just to get it back and then not being able to get the corrupted version of the same weapon again without paying AGAIN 10 shards is atrocious design.
+I need merciless so bad lol… how should we get shards fast. Add me Archangel_77_
+    there's no name like that on discord
+        Wait. You guys have a discord group. I’m not there how do I join?
+            not in a group i would just add u there as a friend
+        U on pc?
+add me on discord and let's talk there  
+my username is : mahamido
+Great feedback. We can work on the labeling! =)
+    Thanks for listening, its really appreciated!
+Agree with this. Sadly, there is still no pop up warning in the store.
+
+I crafted my first corrupted weapon, then saw the original looking weapon appear in the store. I thought I had to buy it to complete the corrupted purchase. So I bought it back. Lost 10 shards and no corrupted weapon to show for it :/
+
+If there was a simple pop up saying “are you sure you want to revert your corrupted weapon back to the original”, all would be well. Losing 10 shards like this is soul destroying.
+    Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+        I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+    This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+there's no name like that on discord
+    Wait. You guys have a discord group. I’m not there how do I join?
+        not in a group i would just add u there as a friend
+    U on pc?
+Thanks for listening, its really appreciated!
+Sorry that it hit you too but im happy about the backup.
+
+I dont know why the dev got so defensive when it was a legitimate complaint :(
+    I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+This just happened to me too. I was happy to have the new corrupted weapon and saw that it was going to let me get the original as well. I didn't realize that it was just going to revert the weapon back. Now I lost the 10 corrupted shards and a Simulacrum.
+Wait. You guys have a discord group. I’m not there how do I join?
+    not in a group i would just add u there as a friend
+U on pc?
+I earned the shards back. Just took a bit of time. I didn't read up on the devs getting defensive. A pop up for a big decision like this is UX 101. I'm over it now. Hopefully it doesn't hit too many other people. It’s really not pleasant at the time when the realization of what you just lost kicks in.
+not in a group i would just add u there as a friend

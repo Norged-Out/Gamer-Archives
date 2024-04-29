@@ -1,0 +1,1139 @@
+[[Who would you consider to be the most valuable unit in the game]]
+
+
+What character would you consider the best in the game at the moment, and would bring the most value to any account?
+
+Personally I feel it's a toss-up between FLB Haaselia, Grand Percival, Grand Nehan, and Dragon. This obviously isn't a question meant to be taken too seriously and there's probably no right answer, but I'm curious to hear what more experienced players might think. 
+
+
+Welcome to /r/Granblue_en!
+
+Please post any game-related questions in the [Weekly Questions Megathread](https://reddit.com/r/Granblue_en/about/sticky/) for a faster reply!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Granblue_en) if you have any questions or concerns.*
+Generally from what I've heard its 5* Haase!
+
+There are definitely characters that just add a ludicrous amount of value to any account though. Fire in particular has a lot of just. Really heavy hitters. Grand Percy and Grand Zeta both
+    I honestly think Haase after her FLB defines Water just as much as Caim defines Earth. There's no team where you won't benefit from having her frontline unless you're bar farming or other really niche short bursts. I'd say if Earth M3 allows for non-Caim grids, Haase might take the spot for me (and lowkey, as a water player, she already does in my heart).
+        I haven't been keeping up with the game, what makes Haase so good after her FLB?
+            The short answer is between her and her weapon you get a billion different stat buffs that all add up to an insane total package
+
+The long version:
+
+In total:
+
+* Full moon (effect) - 35% normal mod + 35% def
+* Moon wep in grid - 50% perp + 30% damage cap up to full moon allies
+* Tears of Lunacy (s3) provides 20% water attack up, 100/20 DATA, 20% echo, and 10% cap
+* Lunar Raiment (passive) - 20% def, 20% fire reduction, 20% fire cut to full moon allies
+* Lunar Reflection (passive) - 40% echo to full moon allies
+* Inflicted by Boaz - 15% Atk/Def/Debuff Res/Acc down
+
+
+And then ON TOP of that you have her bonus nukes, all the meter feeding, healing from her linked skills, her no-questions asked double ougi, and everything else her s1/s2 do lol
+                Damn those full moon buffs be going crazy lol. Gotta start getting her to ulb now. How important is her 4th skill? Is it worth getting?
+                    Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+                        Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+                    Absolutely critical, it's a gigantic chunk of damage
+                I... didn't realize her weapon also gave buffs to full moon allies, I've only been running it in extra slots
+                Worth to have on frontline immediately, or backline to start for double skill passive?
+                    Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+                        Gotcha, thank you.
+                        Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+                            I think Street king has a front to back skill
+                            Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+        > There's no team where you won't benefit from having her frontline unless you're bar farming or other really niche short bursts. 
+
+Every single thing in the game below rank200 is best farmed with short bursts. Some people choose to FA host all their raids every day but being able to do that or not doesn't really matter as long as you can join raids through raidfinder and burst them.
+idk about all elements, but for Fire specifically definitely Percival. He's in the team for almost any content.
+
+* bursting? no need to elaborate.
+* HL? high ougi multiplier (for omens), DATA down, Atk/def down, emergency button, also his burst button also singlehandedly solves hitcount omens.
+* FA? the autonukes add up. also stackable Atk/Def down again.
+* Grid? surprise (or maybe no surprise), his weapon is useful too lmao.
+    Percy is so bonkers, that the simplest fast OTK routing for the last 2 GW heavilly involves him. Either you use his SK3 which have insane reach depsite also having iirc no lockout or use him for attacking where he had power mod, GTA, and Echo for existing
+
+Legit Six level of all game competence fuckery
+not a character. But Bubs.
+Most valuable in their respective element? Grand Percy imo, he's used in literally every comps, the same thing cant be said about other units
+Cosmos made my light team the strongest team I have against EVERY raid for the first few months, even the ones that took reduced damage from the wrong elements. Superior elemental damage against for every hit is just completely cracked for new players that haven't had time to get a strong team of characters and build up a grid for EVERY element yet. The other answers here are obviously more important for their specific elements eventually after months of grinding, but Cosmos just totally wins at everything early game if you want to consider the new player experience instead of just the late game.
+It's either Percy, Caim FLB, or Haase FLB. Not many other characters are used in all content as well as those 3.
+The best unit in the game is probably Grand Percival. The man is used in every single content that fire is capable of doing. He is in the best PBHL bar farming setup (4b1s 1t). If you plan to do Akasha with fire (3b1s 1t), the man is used there. He is used in Hexa and lets fire go through 40% with his S2. Even if he does not have a yellow border skill, the man is still used in FaaZero. His S1 and passive nuke trivializes any debuff omen, his S2 lets you go through failed omens (besides The End), or turns such as 60% where you can walk through without taking damage. His S3 lets you do damage, hit count and skill damage omens easily.
+
+  
+Caim is extremely strong at frontline becoming Earth's best buffer and probably the strongest buffer in the game when he allows all allies to get his card stacks. However, Caim is basically only an HL unit as Earth can't really burst even with Hrunting. 
+
+  
+Haaselia is also extremely strong with her skills. Her S4 her to double CA and nukes anytime a water ally multiattacks. Her buffs are basically permanent and she heals the part everytime you use them. She provides tons of damage boost and defensive utility to the team with her Moon Phases and her S2 and S3.
+
+  
+Nehan is another strong buffer where he literally gives your party steroids to boost their damage. His echo from his S1 is unique, his S2 can be used for CA teams, his S3 is the Sun summon. His CA is great as it shortens his cooldowns and provides a nice heal. He perfectly synergizes with H.Mugen allowing them to probably never be fazed out as a duo unless they get directly power crept. However, unlike the other three, this crippled man does like 0 damage himself.
+Haaselia is the single biggest value add in terms of what her kit brings to water and how much damage she outputs. There's really no exaggerating, her buffs are insane and she's reasonably future-proofed given how much she just amplifies other character's output while being self-sufficient for damage, healing, and CB gain as well. Her single downside is how clicky she is but even there, you can solve that by going manual for burst and still getting insane value from her.
+Went back to 2018 and picked summer zooey, literal game changer across elements. 
+
+Dunno if there is a similar unit nowadays
+    When I played GBF most actively Summer Zooey and Korwa basically carried me through a bunch of stuff. Both are very mediocre now but at least Korwa got a Summer alt that is still quite good.
+Caim and haase
+Caim. Basically composes an entire element's grid-construction for years, if not for the forseeable future as well. Even if you start using a Landslidex3 grid, he is a ridiculously good frontline character for the time being. Doesn't even really need his upright effect to function, especially in FA ougi setups.
+    With magna exalto coming, we could see his 4* out of comps. Tho his 5* is busted as fuck
+        There is a part of me that hopes for this. As great as Caim's backline passive is I don't like how restrictive the grids can be. Hoping Magna exalto can edge it out in at least some contents.
+            > As great as Caim's backline passive is I don't like how restrictive the grids can be.
+
+I never understood this take at all.
+
+Things like the P&S clone series and Exalto weapons are 10x more restrictive than Caim because you just stack the same weapon, put in the mandatory Opus + Ultimat/Seraphic and then have 2-3 spots to work with.
+
+Highlander grids are more interesting in every single way because you actually get variety and can set up for differnet situations rather than the same 7-8 weapons being the core of everything ever.
+                Being forced to use a variety of different weapons does not make it versatile or more interesting whatsoever lmao, just because something is core doesn't mean you'll be using it in every setup either. Exaltos are a staple yes, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+You really shouldn't view it as only 2-3 slots to work with for standard grids, when in the same context you only have 1 slot to work with for Caim grids since more often than not, one singular weapon provides the best value for whatever you want to cap in a given element; and unfortunately you *have* to run only 1, unless its a Revans weapon that you can run with its mk2. When each grid should be designed to fulfill a specific purpose, there's nothing that could be more intrusive then having to search for different weapons that are inherently worse to do so.
+
+I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+                    Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+                        Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+                            The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+                    100% this. I really couldn't have summed it up better myself. Hats off to you.
+        Hope so, I'm tired of running him in 4*. I enjoy his passive, but I do not like the unit
+        If the non-booster weapons are also good, though unlikely, I can see Caim grids remaining strong for high-end.
+    Caim grid honestly already dead rn
+
+Its just that the reason is dead is because Caim exists lol
+    > Caim. Basically composes an entire element's grid-construction for years, if not for the forseeable future as well.
+
+His grids are looking pretty dead in the forseeable future.  He's already out of Titan for the most part, since Galleon, and M3 Exalto will push them out of Magna too.  He'll still be good as a character, just not as a grid piece.
+    Completely forgot about him for some reason, youre absolutely right.
+    Basically all damage dealers will eventually get powercreeped soon or later, but little boy's perma buffs are just incredible game breaking.
+        Powercreep happens to buffers too though. There was a time when Summer Zooey and regular wind Korwa were the two best buffers in the game. It's just more obvious when a damage dealer falls off.
+            Its also surprisingly hard to power creep buffer tbf when they like genuinely sticks their landing. The best example is how Cow is technically still BIS for Hraes burst right now, despite Cygames releasing a character who, in vacuum is probably the most bonkers fucked up unit in the game only competing with G Percy and Nehan
+    I strongly disagree here - Caim is an excellent frontline character, and basically autoinclude for Earth HL, but as the core of Earth gridbuilding? That's hanging by a thread, and Exalto will be the nail in the coffin.
+        What content is releasing that will make Caim grids irrelevant?
+  
+Won't there just be another option?
+            The fact that Earth Exalto is releasing and it's complete malpractice to use less than 3 in a grid, with burst builds using 5. Caim backline grids are dead the moment Earth M3 drops.
+                Thats optimization, I get that and thats fair.
+  
+It just seems like if you aren't already playing and that far along there's a **long** gap between m1 and m3, so caim won't be the bleeding edge but not irrelevant lol.
+    Think about this, you can literally bring him to any raid, and he'll turn it in earth superior raid by just being in Frontline.
+Fire: Grand Percy
+
+Water: FLB Haase. For gacha, Payila (sparking is easier than flb evoker if you're new)
+
+Earth: Caim no contest
+
+Wind: this is hard. I'll go with Vampy since she gives a bit of everything, but she isn't mandatory
+
+Light: toss up between Cosmos, Horus or Nehan for utilities they gives. Special mention for V.Aglo for FA extraordinaire
+
+Dark: Seox is helpful for every account in every stage
+    >cosmos, horus
+
+might as well add summer seruel, and you have the agastia FA squad
+    Wind is probably the hardest to figure out because it's just that good. H!Lich, Y!Vampy, Seofon, and Niyon are all extremely useful for almost all types of content (Seofon is ehhh in non V2 but that's why I said almost lol) and then you add in characters like G!Charlotta, G!Cat, H!Vane, V!Grimnir. both potatoes, etc etc and it just gets better and better
+        I don't think Wind has an easy answer as there's no character that can be considered the face of the element. For example, while Siette is stupid good in V2, he doesn't bring as much in V1 raids and you wouldn't want to bring him. 
+
+
+Wind has units that are really good but only within their own niche and that's fine too.
+            Yeah, I think Wind is at a point where it has a bunch of really strong characters, but no absolutely top-tier characters like Haase, Percival, Caim, etc. It's kinda reflected in how it ranks when on an even playing field with other elements. Fire and Water are just a cut above right now.
+        Wind had a braindead answer in GNaru, but afaik recently G Naru had a bit less pressence to Wind HL
+        It's not that hard. The answer is Katzelia.
+            This is correct in a vacuum, however...
+
+The problem with Katz is that you need premium tools to fully unlock him.
+
+Burst - need SBelial
+
+HL - Doesn't really work against Sieg (correct me if I'm wrong), core against Hexa (though considerably higher grid requirements than Kengo), amazing against Faa0 but until Wind has a character answer to 10 Dispels you need 000 to actually play his comp.
+                > The problem with Katz is that you need premium tools to fully unlock him.
+
+You can say this about virtually any character, this isn't a statement that applies specifically to Katzelia if you are making any attempt to be objective about things.
+
+Regardless of however you or anyone else might want to spin it, he's plainly and simply the most ubiquitous character in Wind, with an as-of-now unassailable place on virtually every piece of content the element currently gets played in.
+                    It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+                        Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+                            As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+                                > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                                    Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+                >katz doesn't work against sieg
+
+Oh yeah he does at lvl 100 (still works at 80, with some caveats).
+
+At least in manual paladin setups, his earth switch on ougi + wind allies heal when they ougi + teamwide S1 (+100% def) means you dying takes effort/mistakes. At worst, all you need is Charlotta (grand, i know) + Nio 100 + a grid of 4-5ish def smugswords and you can (slowly) solo/carry the thing (pre-ascendant buff).
+
+Whether or not he's worth 3 sands, 2 evolites, 1 sunstone, and a lot of NWQ is... subjective.
+If summons are allowed Bubs is the clear winner.
+
+For characters we need some context because the answer could vary. I would say any free character doesn't add enough value even if they are good because you can farm them if you really want them. I wouldn't eliminate them from the running but grand characters would also be less valuable since they're on the banners you want to spark on. With that in mind I'm going with Yukata Ilsa. She greatly improves eresh burst. Six is farmable. Suptixable bowman is great, even better would be tiger. You can make eresh work with farmable stuff if you have Ilsa.
+I bring the Fediel-Lich duet everywhere I can nowadays, though as a character I like Fediel better.
+My first two picks would be Nehan and Percival indeed, but Haase and Dragon both also deserve it imo. All four are not only incredibly centralising to their element's burst setups (Haase arguably slightly less so), but also versatile enough that they are viable and usually even optimal in virtually every single thing you do with the element. Percival is never outside of Fire's best teams, Haase is basically never outside of Water's best teams, and Payila and Nehan are both often enough the best or one of the best things would could choose for any given content. All four of these also singlehandedly transform the element to the point you're just playing a completely different game without them.
+
+So yeah, I'd say it's between those 4 as well.
+    Glad you agree, but I honestly felt kinda weird putting Payila against these other insane characters considering how new she is but she basically frame one showed how powerful she is, without even having an FLB. I think unfortunately Water is such a versatile and character-rich element in HL, on top of Hraesvelgr being a thing for burst, that she isn't necessarily a gamechanger. But man it's hard to think of a character that's come out in recent times with a kit this overloaded.
+5 star Haas and caim
+IMO probably Nehan just because he has forever changed light racing.
+
+Honorary mention to primarchs for their weapon skill boost passive, I sadly don't have the other two but Michael is very fun to use with her spamming her sk3
+Honestly it's Percival for me. He's the only unit that I bring everywhere in Fire. He's there for GW FA. He's there for GW burst. He's there for meat farming. He's there for bar farming. He's there for SUBHL. He's there for Hexa. He's there for Faa. He's there for Faa0. He's there for Sandbox. He's there for World Idean farm. 
+
+He's literally everywhere. I do have both Haase and Caim at FLB and they're not as insta-slot as Grand Percy are to their respective elements.
+    Personally I think Haase is just as insta-slot as Percy but admittedly having to bring her in to frontline to make the most out of her makes her more annoying to work with. But yeah. it's actually wild how versatile Percy is. I wasn't there for his launch, can't imagine what it was like.
+yeah i don't think its really a debate, Caim defines his entire element.
+    He hasn't really defined the element ever since Galleon released, and frontline wise he's at the very best just as good as the other units OP mentioned.
+        His ele switch and superior element makes earth a carry element in all the high end raids, subaha to sufaa. The likelihood that you are playing magna highlander without him is less than zero and if you are playing hrunting landslide, you are trying to bring him out asap for even more echoes for MC. That's pretty element defining imo lol, It changes the way the element is played, earth is specifically used in high end content and carries hard there, and can essentially now cruise through most of the difficult content in the game due to ele switch and green pot generation.
+
+And then for the rest of content you can just galleon S1 MC and have like, ragazzo or rackam die to bring caim out and FA literally anything lol
+            Yes, he is very relevant for endgame raids, but so are Haase and Percival. 
+
+You are obviously not playing Magna Highlander without him, but that's a Magna only thing and even then, it's about to be dead in 1-2 months.
+
+As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster. There isn't any remote competition between Caim's impact outside of endgame compared to Percival or Nehan, those two are ridiculously more meta defining at those levels.
+
+TL;DR: Yeah Caim _is_ an endgame goat for Earth, but so are the other units mentioned by OP, and those units are more impactful at the other 99% of the game.
+                > As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, 
+
+He is a very strong FA unit even with all skills toggled off. The teamwide card buffs are just too good.
+                    >and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+        Galleon is not even core nowadays, caim and arulu are more used than galleon. So not sure where you coming from with that take.
+            I meant Galleon because of the weapon, obviously. Pre-FLB Calm was only element defining in the context of Caim grids, and I don't think post FLB Caim is really element defining in the way Percy/Nehan/Haase are, since he's only really actually used for endgame stuff.
+Summer Zooey carried me for a long time. I'd still say she is a game changer for newbies up until they need to change to stamina.
+free units: caim, followed very closely by 5* haase (value skyrockets in haase's favor if you're not running highlander)
+
+grand: percival, if only for enabling some of the stupidest shit in fire (positive) with Tag Team But Better. he likes to have his partners but he's still insanely valuable both as a unit and for his weapon for pretty much literally any and everyone. there are a lot of strong contenders for the spot but imo percival is just too core to fire being allowed to be a functional element to set aside
+
+(also he's very handsome and i like him but that's extremely besides the point)
+Haaselia.
+
+Water was so much suffering until Haaselia got her uncap.
+bubs, you have no human rights if you don't have him
+Danchou
+I basically agree with that list but Percy is on a tier by himself. As insane as Haase is, you're not using her in burst, whereas Percy is a burst unit that is so overloaded you bring him to HL, and Percy is a lot better at burst than Haase is at HL or FA.
+
+Dragon 5* will probably be > Percy (Dragon 4* is prob just below Haase) but that's a long time and a lot of power creep from today.
+For me it’s light grand Sandy
+By each ele:
+
+Fire: G Percy
+Water: Hasse flb s4
+Earth: Caim flb
+Wind: Siete 150
+Light: Cosmos
+Dark: Fediel
+    Could I ask why Fediel? Not disagreeing, just curious why.
+        Honestly, I didn't have much else to put there since my list was more for endgame, and she's basically there almost 100% of the time due to her s3 and Fated chain mechanic resetting cd. She also helps with hit and debuff omens. Basically, it has things you'll value in anything endgame, esp v2. If I gave my honest opinion, i don't think she's absurdly insane/core or great at every bit of content. Dark, I feel, doesn't have stellar characters similar to core characters like percy or hasse besides the ones you use in bursts like Y.ilsa. I actually wanted to put nier flb s4 down because her s4 is very good but Faa0 doesn't really allow for it as much as hexa or even Cosmos raid, where you can pretty much mash with it where as fediel is basically in all of them or even core to have in all those areas. 
+
+Basically, that one was just an up in the air opinion, but I could be wrong. Dark right now, imo just feels iffy, so it's hard to choose for me. Maybe S.Magisa or Lich would be a better fit for others.
+Compare character between element is iffy, but I guess fire is the fastest at bar farming right now so I guess percy?
+it's really just percival there's just no contest.
+This is rly interesting bc most ppl are talking like meta wise, strong characters but power creep will ALWAYS make these units dead within a few years 
+
+Like if you asked this question 4 years ago 90% of ppl here would prolly say g.zoeey, she was insane back then
+
+If we're talking units thatre still useful no matter what, over the years honestly there's a few
+
+
+1. Tien
+wasn't sure whether or not eternals should be included as they're constantly getting updates, but I've only gotten okto to 5* on a 6 year old account so to still be useful at base is pretty good
+5% drop rate boost, backline most the time huge QOL thing
+
+
+2. Threo
+Same as  ^ a HUGE QOL improvement, would catch me dead on slimes without her 
+S3 700k-1m plain damage at a press of a button just can't be beat 
+
+
+3. Facsimile 
+There's only a few, but characters that can copy another characters skills. Here's my take on a mini order of their usefulness 
+
+*Caim - farmable, mostly here bc he's "free" but pairing element with threo is nice
+*LightLunalu - can copy 3 skills in one turn, but that's the limit unless she revives.. very useful for niche street king bounty spam 
+*GoldenKnight - still a decently strong unit, has a super niche autocognition setup with g.eugen but that's kinda obsolete now :( still fun tho
+*SsrLunalu - the og, can kinda do the same as her light alt doing a max of 4 in one turn, never used her post 5* but it sounds nice (50% atk&def 20% dmg cap + undispellable 25% atk&Def 10% dmg cap after at least 2-3 turns w ca reactivation)
+*Alliah - wind golden knight alt, kinda just exists ngl
+I think I saw one vid on twitter ages back where she pulled off some heinous stuff but I can't remember the context lol
+*Troue - ???? who is this guy lmao, want him to be good bc he's a canonical vintage weapon owner but uh.. yeah moving on
+
+
+4. Lyria 
+Timeless, hope they give her some sort of ssr upgrade like arcarum summons but pre yatima she was the only way to use 2 summons in one turn
+
+5. Sub aura characters 
+This bits kinda subjective, but characters with useful sub auras used to be rare with most being crest related. Outside of the evokers, we've now got the primarch series with their arche skill giving a 20% boost to their elements grids (omega AND primal which was wild to me) 
+Off the top of my head there's a few that stand out to me, 
+
+* y.narmaya - 555,555 plain damage, 10% charge bar to MC when their ougi 
+
+* Cinnamoroll&pompompurin - 30% ca dmg & 5% ca dmg cap???? insane I still actively use them lol
+
+*SsrAnna - boost to fire allies skill specs based on singe level (50% dmg 10% cap!?) with the g.perci meta rn this is rly good
+
+*H.charlotta & tikoh/s.tikoh - blue potion 👍
+
+*Ewiyar - non grand version, 20% boost to dodge rate w debuff remove & heal on dodge sounds nice, never used it as I mainline g.ewiyar unfortunately 
+
+*C.fiorito - really weird one?? First I've seen with 2 sub skills,  but it's 1. "bulk" to ally upon skill consuming health (enmity centered) 2. boost to atk, Def & dmg cap based on bulk up to 5 stacks, but it's a LOT. 100% atk, 100% Def 25% dmg cap!? Zamn 
+
+*C.cain - 10% wind dmg reduction, start battle with dispel cancel.. kinda situational but is worth mentioning 
+
+*Lecia &. Nobita - non grand lecia but 100 - 400% nuke on chain dmg is always nice 
+*Silva(light)/s.silva - ^this but 300% only on 4 chain burst
+
+*SrRichard - not the SSR version, they removed it for some reason but 1% boost to drop rate.. it's the thought that counts 
+
+*H.vane - 50% boost to wind Def is BIG 
+that's kinda it tho
+
+
+And... That's about all I can think of, Let me know if you can think of any other timeless characters!
+**FLB Lyria** AT LEAST before Dojo: This is probably going to be my main hot take i think. 50% Critical 30% Normal, MC buff. Her only downside is she nerf Bubs specs due to the mechanic that transfer Summon Call specs to her when shes used on frontline. Streamlines Ougi bursting/1-2 punch by having MC buff, enchanced Ougi cap, and ungodly powerful buff that even gave you 10% damage cap as an extra, letting you get away with so much less in modern GBF relative to what it was back then. Shes not even BIS to what you can use nowadays, but the entry level she gives to what used to be one of the most important phase of the game is extremely high.
+Easy slot in for M2 farming. 
+
+**Fire** Grand Percival - Best do nothing in the element who have strong hard content pressence, and the primary burst enabler of the ele. Inflated value due to being Grand, so F2P are expected to have easy access to him. Alanaan is the other important one and you can have like 90.000 options in the third slot for a lot of objectives in bursting.
+
+**Water** Gabriel + Dragon - Gabriel is an ok fill in that give Echo buff. Dragon have the Nehan button. You can probably comes up with a strong burst comp just from having them and including whatever as a grid set up and then just set up Haase.
+
+**Earth** Caim - Backlines until his FLB, FLB hes extremely strong for hard content. Even before FLB he honestly already have a use for Diaspora. Ive heard Olivia/Uriel/Galleon/Arulu saw various degree of usage in hard content
+
+**Wind** Yvampy + G Naru - As of right now the main duo for Wind Bursting.
+
+**Light** Nehan, Florence, Mugen: The trio of destruction. Amongst these Nehan is the most important, then Florence, then Mugen although Florence is arguably the least applicable of the three.
+
+**Dark** Seox, Ilsa - Seox is Pound for pound the best overall do nothing in the game. Gate of Sin is one of the game's best overall button. I don't think theres been a GW since his rebalance where hes not the most used unit, and hes probably one of the most common top 3 during last anni alongside Esser and Sarasa and hes the only one whose strictly great for combat. Ilsa is the best Dark buffer, also a do nothing, and her ability to shift between using Ougi to reset 2 debuff and then applying hitcount with automatic GTA is very strong in current pool of hard contents.
+
+
+
+**The Do nothings**:
+
+Fire would be something like Grand Zeta/Ragazzo/Summer Ne Zha
+
+Water would be something like Dragon/Uno/WZeta
+
+Earth would be Sabrina/HCucouroux
+
+Wind have Grand Naru/VGrim/V Sandy/Aliza/Summer Tiamat Summon allows you to GTA for free
+
+Mega category but all of these have one thing in common - they had very potent reaction nuke, GTA, or GTA into nuke making them a strong option to have to enable EX+ OTK - arguably the part of GW you want to streamline the most due to high number of fight count. 
+
+I didnt mention Light units because im honestly unsure who was the standout in Light besides maybe Summer Sturm, and Dark is such a joke element EX+ wise you don't need to try all that hard to get a working set up. Water also had alternative set ups like the Erika thingy with Tag Team i guess. 
+
+You can argue these units arent as valuable as some other units, but if i have to hear some fuckers whine about not suptixing/having these group of chars and go "man i wish i suptix them instead of Char X. Would have made my OTK free" ONE MORE TIME i'd scream
+Going by the elements
+
+
+Fire
+G. Percy comes to mind, but he's arguably not as core for HL content for his element than other contenders. 
+Alanaas deserves a mention
+
+
+Water
+Haase is great, likely the best unit in the game, but water is stacked af and you can get by without her 
+
+
+Wind
+Nobody is really needed, but you'll have a harder time without Katzes FLB in HL and he also provides a semi-free 30% perp Atk for mid-game stuff. Both eternals are worth a honorable mention
+
+
+Earth
+This to me is the most valuable unit in the game. Caim is good for mid-game content and tackling HL stuff without him is miserable. He stands below Haases power but dirt is in such a bad spot that missing Caim would more shattering than missing Haass. 
+
+
+Light
+Sure, Nehan is probably the best buffer in the game with his drugs but this goes to Cosmos. She makes Agastia way easier and is great in general for most content while Nehans burst is limited to shorter content. Like Percy though she's honestly not really required and not having her over not having Caim is an easy pick
+
+
+Dark
+While Dark has always been historically great, times are dark rn. 
+I don't know much about alternative team comps for HL not running the Fediel/Lich core but I feel like Lich is more useful than Fediel. Nier and Y.Ilsa are great but you can get by without them
+I honestly think Haase after her FLB defines Water just as much as Caim defines Earth. There's no team where you won't benefit from having her frontline unless you're bar farming or other really niche short bursts. I'd say if Earth M3 allows for non-Caim grids, Haase might take the spot for me (and lowkey, as a water player, she already does in my heart).
+    I haven't been keeping up with the game, what makes Haase so good after her FLB?
+        The short answer is between her and her weapon you get a billion different stat buffs that all add up to an insane total package
+
+The long version:
+
+In total:
+
+* Full moon (effect) - 35% normal mod + 35% def
+* Moon wep in grid - 50% perp + 30% damage cap up to full moon allies
+* Tears of Lunacy (s3) provides 20% water attack up, 100/20 DATA, 20% echo, and 10% cap
+* Lunar Raiment (passive) - 20% def, 20% fire reduction, 20% fire cut to full moon allies
+* Lunar Reflection (passive) - 40% echo to full moon allies
+* Inflicted by Boaz - 15% Atk/Def/Debuff Res/Acc down
+
+
+And then ON TOP of that you have her bonus nukes, all the meter feeding, healing from her linked skills, her no-questions asked double ougi, and everything else her s1/s2 do lol
+            Damn those full moon buffs be going crazy lol. Gotta start getting her to ulb now. How important is her 4th skill? Is it worth getting?
+                Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+                    Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+                Absolutely critical, it's a gigantic chunk of damage
+            I... didn't realize her weapon also gave buffs to full moon allies, I've only been running it in extra slots
+            Worth to have on frontline immediately, or backline to start for double skill passive?
+                Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+                    Gotcha, thank you.
+                    Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+                        I think Street king has a front to back skill
+                        Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+    > There's no team where you won't benefit from having her frontline unless you're bar farming or other really niche short bursts. 
+
+Every single thing in the game below rank200 is best farmed with short bursts. Some people choose to FA host all their raids every day but being able to do that or not doesn't really matter as long as you can join raids through raidfinder and burst them.
+Percy is so bonkers, that the simplest fast OTK routing for the last 2 GW heavilly involves him. Either you use his SK3 which have insane reach depsite also having iirc no lockout or use him for attacking where he had power mod, GTA, and Echo for existing
+
+Legit Six level of all game competence fuckery
+When I played GBF most actively Summer Zooey and Korwa basically carried me through a bunch of stuff. Both are very mediocre now but at least Korwa got a Summer alt that is still quite good.
+With magna exalto coming, we could see his 4* out of comps. Tho his 5* is busted as fuck
+    There is a part of me that hopes for this. As great as Caim's backline passive is I don't like how restrictive the grids can be. Hoping Magna exalto can edge it out in at least some contents.
+        > As great as Caim's backline passive is I don't like how restrictive the grids can be.
+
+I never understood this take at all.
+
+Things like the P&S clone series and Exalto weapons are 10x more restrictive than Caim because you just stack the same weapon, put in the mandatory Opus + Ultimat/Seraphic and then have 2-3 spots to work with.
+
+Highlander grids are more interesting in every single way because you actually get variety and can set up for differnet situations rather than the same 7-8 weapons being the core of everything ever.
+            Being forced to use a variety of different weapons does not make it versatile or more interesting whatsoever lmao, just because something is core doesn't mean you'll be using it in every setup either. Exaltos are a staple yes, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+You really shouldn't view it as only 2-3 slots to work with for standard grids, when in the same context you only have 1 slot to work with for Caim grids since more often than not, one singular weapon provides the best value for whatever you want to cap in a given element; and unfortunately you *have* to run only 1, unless its a Revans weapon that you can run with its mk2. When each grid should be designed to fulfill a specific purpose, there's nothing that could be more intrusive then having to search for different weapons that are inherently worse to do so.
+
+I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+                Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+                    Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+                        The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+                100% this. I really couldn't have summed it up better myself. Hats off to you.
+    Hope so, I'm tired of running him in 4*. I enjoy his passive, but I do not like the unit
+    If the non-booster weapons are also good, though unlikely, I can see Caim grids remaining strong for high-end.
+Caim grid honestly already dead rn
+
+Its just that the reason is dead is because Caim exists lol
+> Caim. Basically composes an entire element's grid-construction for years, if not for the forseeable future as well.
+
+His grids are looking pretty dead in the forseeable future.  He's already out of Titan for the most part, since Galleon, and M3 Exalto will push them out of Magna too.  He'll still be good as a character, just not as a grid piece.
+Completely forgot about him for some reason, youre absolutely right.
+Basically all damage dealers will eventually get powercreeped soon or later, but little boy's perma buffs are just incredible game breaking.
+    Powercreep happens to buffers too though. There was a time when Summer Zooey and regular wind Korwa were the two best buffers in the game. It's just more obvious when a damage dealer falls off.
+        Its also surprisingly hard to power creep buffer tbf when they like genuinely sticks their landing. The best example is how Cow is technically still BIS for Hraes burst right now, despite Cygames releasing a character who, in vacuum is probably the most bonkers fucked up unit in the game only competing with G Percy and Nehan
+I strongly disagree here - Caim is an excellent frontline character, and basically autoinclude for Earth HL, but as the core of Earth gridbuilding? That's hanging by a thread, and Exalto will be the nail in the coffin.
+    What content is releasing that will make Caim grids irrelevant?
+  
+Won't there just be another option?
+        The fact that Earth Exalto is releasing and it's complete malpractice to use less than 3 in a grid, with burst builds using 5. Caim backline grids are dead the moment Earth M3 drops.
+            Thats optimization, I get that and thats fair.
+  
+It just seems like if you aren't already playing and that far along there's a **long** gap between m1 and m3, so caim won't be the bleeding edge but not irrelevant lol.
+Think about this, you can literally bring him to any raid, and he'll turn it in earth superior raid by just being in Frontline.
+>cosmos, horus
+
+might as well add summer seruel, and you have the agastia FA squad
+Wind is probably the hardest to figure out because it's just that good. H!Lich, Y!Vampy, Seofon, and Niyon are all extremely useful for almost all types of content (Seofon is ehhh in non V2 but that's why I said almost lol) and then you add in characters like G!Charlotta, G!Cat, H!Vane, V!Grimnir. both potatoes, etc etc and it just gets better and better
+    I don't think Wind has an easy answer as there's no character that can be considered the face of the element. For example, while Siette is stupid good in V2, he doesn't bring as much in V1 raids and you wouldn't want to bring him. 
+
+
+Wind has units that are really good but only within their own niche and that's fine too.
+        Yeah, I think Wind is at a point where it has a bunch of really strong characters, but no absolutely top-tier characters like Haase, Percival, Caim, etc. It's kinda reflected in how it ranks when on an even playing field with other elements. Fire and Water are just a cut above right now.
+    Wind had a braindead answer in GNaru, but afaik recently G Naru had a bit less pressence to Wind HL
+    It's not that hard. The answer is Katzelia.
+        This is correct in a vacuum, however...
+
+The problem with Katz is that you need premium tools to fully unlock him.
+
+Burst - need SBelial
+
+HL - Doesn't really work against Sieg (correct me if I'm wrong), core against Hexa (though considerably higher grid requirements than Kengo), amazing against Faa0 but until Wind has a character answer to 10 Dispels you need 000 to actually play his comp.
+            > The problem with Katz is that you need premium tools to fully unlock him.
+
+You can say this about virtually any character, this isn't a statement that applies specifically to Katzelia if you are making any attempt to be objective about things.
+
+Regardless of however you or anyone else might want to spin it, he's plainly and simply the most ubiquitous character in Wind, with an as-of-now unassailable place on virtually every piece of content the element currently gets played in.
+                It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+                    Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+                        As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+                            > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                                Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+            >katz doesn't work against sieg
+
+Oh yeah he does at lvl 100 (still works at 80, with some caveats).
+
+At least in manual paladin setups, his earth switch on ougi + wind allies heal when they ougi + teamwide S1 (+100% def) means you dying takes effort/mistakes. At worst, all you need is Charlotta (grand, i know) + Nio 100 + a grid of 4-5ish def smugswords and you can (slowly) solo/carry the thing (pre-ascendant buff).
+
+Whether or not he's worth 3 sands, 2 evolites, 1 sunstone, and a lot of NWQ is... subjective.
+Glad you agree, but I honestly felt kinda weird putting Payila against these other insane characters considering how new she is but she basically frame one showed how powerful she is, without even having an FLB. I think unfortunately Water is such a versatile and character-rich element in HL, on top of Hraesvelgr being a thing for burst, that she isn't necessarily a gamechanger. But man it's hard to think of a character that's come out in recent times with a kit this overloaded.
+Personally I think Haase is just as insta-slot as Percy but admittedly having to bring her in to frontline to make the most out of her makes her more annoying to work with. But yeah. it's actually wild how versatile Percy is. I wasn't there for his launch, can't imagine what it was like.
+He hasn't really defined the element ever since Galleon released, and frontline wise he's at the very best just as good as the other units OP mentioned.
+    His ele switch and superior element makes earth a carry element in all the high end raids, subaha to sufaa. The likelihood that you are playing magna highlander without him is less than zero and if you are playing hrunting landslide, you are trying to bring him out asap for even more echoes for MC. That's pretty element defining imo lol, It changes the way the element is played, earth is specifically used in high end content and carries hard there, and can essentially now cruise through most of the difficult content in the game due to ele switch and green pot generation.
+
+And then for the rest of content you can just galleon S1 MC and have like, ragazzo or rackam die to bring caim out and FA literally anything lol
+        Yes, he is very relevant for endgame raids, but so are Haase and Percival. 
+
+You are obviously not playing Magna Highlander without him, but that's a Magna only thing and even then, it's about to be dead in 1-2 months.
+
+As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster. There isn't any remote competition between Caim's impact outside of endgame compared to Percival or Nehan, those two are ridiculously more meta defining at those levels.
+
+TL;DR: Yeah Caim _is_ an endgame goat for Earth, but so are the other units mentioned by OP, and those units are more impactful at the other 99% of the game.
+            > As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, 
+
+He is a very strong FA unit even with all skills toggled off. The teamwide card buffs are just too good.
+                >and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+    Galleon is not even core nowadays, caim and arulu are more used than galleon. So not sure where you coming from with that take.
+        I meant Galleon because of the weapon, obviously. Pre-FLB Calm was only element defining in the context of Caim grids, and I don't think post FLB Caim is really element defining in the way Percy/Nehan/Haase are, since he's only really actually used for endgame stuff.
+Could I ask why Fediel? Not disagreeing, just curious why.
+    Honestly, I didn't have much else to put there since my list was more for endgame, and she's basically there almost 100% of the time due to her s3 and Fated chain mechanic resetting cd. She also helps with hit and debuff omens. Basically, it has things you'll value in anything endgame, esp v2. If I gave my honest opinion, i don't think she's absurdly insane/core or great at every bit of content. Dark, I feel, doesn't have stellar characters similar to core characters like percy or hasse besides the ones you use in bursts like Y.ilsa. I actually wanted to put nier flb s4 down because her s4 is very good but Faa0 doesn't really allow for it as much as hexa or even Cosmos raid, where you can pretty much mash with it where as fediel is basically in all of them or even core to have in all those areas. 
+
+Basically, that one was just an up in the air opinion, but I could be wrong. Dark right now, imo just feels iffy, so it's hard to choose for me. Maybe S.Magisa or Lich would be a better fit for others.
+I haven't been keeping up with the game, what makes Haase so good after her FLB?
+    The short answer is between her and her weapon you get a billion different stat buffs that all add up to an insane total package
+
+The long version:
+
+In total:
+
+* Full moon (effect) - 35% normal mod + 35% def
+* Moon wep in grid - 50% perp + 30% damage cap up to full moon allies
+* Tears of Lunacy (s3) provides 20% water attack up, 100/20 DATA, 20% echo, and 10% cap
+* Lunar Raiment (passive) - 20% def, 20% fire reduction, 20% fire cut to full moon allies
+* Lunar Reflection (passive) - 40% echo to full moon allies
+* Inflicted by Boaz - 15% Atk/Def/Debuff Res/Acc down
+
+
+And then ON TOP of that you have her bonus nukes, all the meter feeding, healing from her linked skills, her no-questions asked double ougi, and everything else her s1/s2 do lol
+        Damn those full moon buffs be going crazy lol. Gotta start getting her to ulb now. How important is her 4th skill? Is it worth getting?
+            Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+                Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+            Absolutely critical, it's a gigantic chunk of damage
+        I... didn't realize her weapon also gave buffs to full moon allies, I've only been running it in extra slots
+        Worth to have on frontline immediately, or backline to start for double skill passive?
+            Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+                Gotcha, thank you.
+                Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+                    I think Street king has a front to back skill
+                    Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+> There's no team where you won't benefit from having her frontline unless you're bar farming or other really niche short bursts. 
+
+Every single thing in the game below rank200 is best farmed with short bursts. Some people choose to FA host all their raids every day but being able to do that or not doesn't really matter as long as you can join raids through raidfinder and burst them.
+There is a part of me that hopes for this. As great as Caim's backline passive is I don't like how restrictive the grids can be. Hoping Magna exalto can edge it out in at least some contents.
+    > As great as Caim's backline passive is I don't like how restrictive the grids can be.
+
+I never understood this take at all.
+
+Things like the P&S clone series and Exalto weapons are 10x more restrictive than Caim because you just stack the same weapon, put in the mandatory Opus + Ultimat/Seraphic and then have 2-3 spots to work with.
+
+Highlander grids are more interesting in every single way because you actually get variety and can set up for differnet situations rather than the same 7-8 weapons being the core of everything ever.
+        Being forced to use a variety of different weapons does not make it versatile or more interesting whatsoever lmao, just because something is core doesn't mean you'll be using it in every setup either. Exaltos are a staple yes, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+You really shouldn't view it as only 2-3 slots to work with for standard grids, when in the same context you only have 1 slot to work with for Caim grids since more often than not, one singular weapon provides the best value for whatever you want to cap in a given element; and unfortunately you *have* to run only 1, unless its a Revans weapon that you can run with its mk2. When each grid should be designed to fulfill a specific purpose, there's nothing that could be more intrusive then having to search for different weapons that are inherently worse to do so.
+
+I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+            Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+                Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+                    The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+            100% this. I really couldn't have summed it up better myself. Hats off to you.
+Hope so, I'm tired of running him in 4*. I enjoy his passive, but I do not like the unit
+If the non-booster weapons are also good, though unlikely, I can see Caim grids remaining strong for high-end.
+Powercreep happens to buffers too though. There was a time when Summer Zooey and regular wind Korwa were the two best buffers in the game. It's just more obvious when a damage dealer falls off.
+    Its also surprisingly hard to power creep buffer tbf when they like genuinely sticks their landing. The best example is how Cow is technically still BIS for Hraes burst right now, despite Cygames releasing a character who, in vacuum is probably the most bonkers fucked up unit in the game only competing with G Percy and Nehan
+What content is releasing that will make Caim grids irrelevant?
+  
+Won't there just be another option?
+    The fact that Earth Exalto is releasing and it's complete malpractice to use less than 3 in a grid, with burst builds using 5. Caim backline grids are dead the moment Earth M3 drops.
+        Thats optimization, I get that and thats fair.
+  
+It just seems like if you aren't already playing and that far along there's a **long** gap between m1 and m3, so caim won't be the bleeding edge but not irrelevant lol.
+I don't think Wind has an easy answer as there's no character that can be considered the face of the element. For example, while Siette is stupid good in V2, he doesn't bring as much in V1 raids and you wouldn't want to bring him. 
+
+
+Wind has units that are really good but only within their own niche and that's fine too.
+    Yeah, I think Wind is at a point where it has a bunch of really strong characters, but no absolutely top-tier characters like Haase, Percival, Caim, etc. It's kinda reflected in how it ranks when on an even playing field with other elements. Fire and Water are just a cut above right now.
+Wind had a braindead answer in GNaru, but afaik recently G Naru had a bit less pressence to Wind HL
+It's not that hard. The answer is Katzelia.
+    This is correct in a vacuum, however...
+
+The problem with Katz is that you need premium tools to fully unlock him.
+
+Burst - need SBelial
+
+HL - Doesn't really work against Sieg (correct me if I'm wrong), core against Hexa (though considerably higher grid requirements than Kengo), amazing against Faa0 but until Wind has a character answer to 10 Dispels you need 000 to actually play his comp.
+        > The problem with Katz is that you need premium tools to fully unlock him.
+
+You can say this about virtually any character, this isn't a statement that applies specifically to Katzelia if you are making any attempt to be objective about things.
+
+Regardless of however you or anyone else might want to spin it, he's plainly and simply the most ubiquitous character in Wind, with an as-of-now unassailable place on virtually every piece of content the element currently gets played in.
+            It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+                Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+                    As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+                        > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                            Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+        >katz doesn't work against sieg
+
+Oh yeah he does at lvl 100 (still works at 80, with some caveats).
+
+At least in manual paladin setups, his earth switch on ougi + wind allies heal when they ougi + teamwide S1 (+100% def) means you dying takes effort/mistakes. At worst, all you need is Charlotta (grand, i know) + Nio 100 + a grid of 4-5ish def smugswords and you can (slowly) solo/carry the thing (pre-ascendant buff).
+
+Whether or not he's worth 3 sands, 2 evolites, 1 sunstone, and a lot of NWQ is... subjective.
+His ele switch and superior element makes earth a carry element in all the high end raids, subaha to sufaa. The likelihood that you are playing magna highlander without him is less than zero and if you are playing hrunting landslide, you are trying to bring him out asap for even more echoes for MC. That's pretty element defining imo lol, It changes the way the element is played, earth is specifically used in high end content and carries hard there, and can essentially now cruise through most of the difficult content in the game due to ele switch and green pot generation.
+
+And then for the rest of content you can just galleon S1 MC and have like, ragazzo or rackam die to bring caim out and FA literally anything lol
+    Yes, he is very relevant for endgame raids, but so are Haase and Percival. 
+
+You are obviously not playing Magna Highlander without him, but that's a Magna only thing and even then, it's about to be dead in 1-2 months.
+
+As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster. There isn't any remote competition between Caim's impact outside of endgame compared to Percival or Nehan, those two are ridiculously more meta defining at those levels.
+
+TL;DR: Yeah Caim _is_ an endgame goat for Earth, but so are the other units mentioned by OP, and those units are more impactful at the other 99% of the game.
+        > As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, 
+
+He is a very strong FA unit even with all skills toggled off. The teamwide card buffs are just too good.
+            >and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+Galleon is not even core nowadays, caim and arulu are more used than galleon. So not sure where you coming from with that take.
+    I meant Galleon because of the weapon, obviously. Pre-FLB Calm was only element defining in the context of Caim grids, and I don't think post FLB Caim is really element defining in the way Percy/Nehan/Haase are, since he's only really actually used for endgame stuff.
+Honestly, I didn't have much else to put there since my list was more for endgame, and she's basically there almost 100% of the time due to her s3 and Fated chain mechanic resetting cd. She also helps with hit and debuff omens. Basically, it has things you'll value in anything endgame, esp v2. If I gave my honest opinion, i don't think she's absurdly insane/core or great at every bit of content. Dark, I feel, doesn't have stellar characters similar to core characters like percy or hasse besides the ones you use in bursts like Y.ilsa. I actually wanted to put nier flb s4 down because her s4 is very good but Faa0 doesn't really allow for it as much as hexa or even Cosmos raid, where you can pretty much mash with it where as fediel is basically in all of them or even core to have in all those areas. 
+
+Basically, that one was just an up in the air opinion, but I could be wrong. Dark right now, imo just feels iffy, so it's hard to choose for me. Maybe S.Magisa or Lich would be a better fit for others.
+The short answer is between her and her weapon you get a billion different stat buffs that all add up to an insane total package
+
+The long version:
+
+In total:
+
+* Full moon (effect) - 35% normal mod + 35% def
+* Moon wep in grid - 50% perp + 30% damage cap up to full moon allies
+* Tears of Lunacy (s3) provides 20% water attack up, 100/20 DATA, 20% echo, and 10% cap
+* Lunar Raiment (passive) - 20% def, 20% fire reduction, 20% fire cut to full moon allies
+* Lunar Reflection (passive) - 40% echo to full moon allies
+* Inflicted by Boaz - 15% Atk/Def/Debuff Res/Acc down
+
+
+And then ON TOP of that you have her bonus nukes, all the meter feeding, healing from her linked skills, her no-questions asked double ougi, and everything else her s1/s2 do lol
+    Damn those full moon buffs be going crazy lol. Gotta start getting her to ulb now. How important is her 4th skill? Is it worth getting?
+        Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+            Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+        Absolutely critical, it's a gigantic chunk of damage
+    I... didn't realize her weapon also gave buffs to full moon allies, I've only been running it in extra slots
+    Worth to have on frontline immediately, or backline to start for double skill passive?
+        Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+            Gotcha, thank you.
+            Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+                I think Street king has a front to back skill
+                Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+> As great as Caim's backline passive is I don't like how restrictive the grids can be.
+
+I never understood this take at all.
+
+Things like the P&S clone series and Exalto weapons are 10x more restrictive than Caim because you just stack the same weapon, put in the mandatory Opus + Ultimat/Seraphic and then have 2-3 spots to work with.
+
+Highlander grids are more interesting in every single way because you actually get variety and can set up for differnet situations rather than the same 7-8 weapons being the core of everything ever.
+    Being forced to use a variety of different weapons does not make it versatile or more interesting whatsoever lmao, just because something is core doesn't mean you'll be using it in every setup either. Exaltos are a staple yes, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+You really shouldn't view it as only 2-3 slots to work with for standard grids, when in the same context you only have 1 slot to work with for Caim grids since more often than not, one singular weapon provides the best value for whatever you want to cap in a given element; and unfortunately you *have* to run only 1, unless its a Revans weapon that you can run with its mk2. When each grid should be designed to fulfill a specific purpose, there's nothing that could be more intrusive then having to search for different weapons that are inherently worse to do so.
+
+I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+        Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+            Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+                The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+        100% this. I really couldn't have summed it up better myself. Hats off to you.
+Its also surprisingly hard to power creep buffer tbf when they like genuinely sticks their landing. The best example is how Cow is technically still BIS for Hraes burst right now, despite Cygames releasing a character who, in vacuum is probably the most bonkers fucked up unit in the game only competing with G Percy and Nehan
+The fact that Earth Exalto is releasing and it's complete malpractice to use less than 3 in a grid, with burst builds using 5. Caim backline grids are dead the moment Earth M3 drops.
+    Thats optimization, I get that and thats fair.
+  
+It just seems like if you aren't already playing and that far along there's a **long** gap between m1 and m3, so caim won't be the bleeding edge but not irrelevant lol.
+Yeah, I think Wind is at a point where it has a bunch of really strong characters, but no absolutely top-tier characters like Haase, Percival, Caim, etc. It's kinda reflected in how it ranks when on an even playing field with other elements. Fire and Water are just a cut above right now.
+This is correct in a vacuum, however...
+
+The problem with Katz is that you need premium tools to fully unlock him.
+
+Burst - need SBelial
+
+HL - Doesn't really work against Sieg (correct me if I'm wrong), core against Hexa (though considerably higher grid requirements than Kengo), amazing against Faa0 but until Wind has a character answer to 10 Dispels you need 000 to actually play his comp.
+    > The problem with Katz is that you need premium tools to fully unlock him.
+
+You can say this about virtually any character, this isn't a statement that applies specifically to Katzelia if you are making any attempt to be objective about things.
+
+Regardless of however you or anyone else might want to spin it, he's plainly and simply the most ubiquitous character in Wind, with an as-of-now unassailable place on virtually every piece of content the element currently gets played in.
+        It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+            Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+                As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+                    > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                        Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+    >katz doesn't work against sieg
+
+Oh yeah he does at lvl 100 (still works at 80, with some caveats).
+
+At least in manual paladin setups, his earth switch on ougi + wind allies heal when they ougi + teamwide S1 (+100% def) means you dying takes effort/mistakes. At worst, all you need is Charlotta (grand, i know) + Nio 100 + a grid of 4-5ish def smugswords and you can (slowly) solo/carry the thing (pre-ascendant buff).
+
+Whether or not he's worth 3 sands, 2 evolites, 1 sunstone, and a lot of NWQ is... subjective.
+Yes, he is very relevant for endgame raids, but so are Haase and Percival. 
+
+You are obviously not playing Magna Highlander without him, but that's a Magna only thing and even then, it's about to be dead in 1-2 months.
+
+As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster. There isn't any remote competition between Caim's impact outside of endgame compared to Percival or Nehan, those two are ridiculously more meta defining at those levels.
+
+TL;DR: Yeah Caim _is_ an endgame goat for Earth, but so are the other units mentioned by OP, and those units are more impactful at the other 99% of the game.
+    > As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, 
+
+He is a very strong FA unit even with all skills toggled off. The teamwide card buffs are just too good.
+        >and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+I meant Galleon because of the weapon, obviously. Pre-FLB Calm was only element defining in the context of Caim grids, and I don't think post FLB Caim is really element defining in the way Percy/Nehan/Haase are, since he's only really actually used for endgame stuff.
+Damn those full moon buffs be going crazy lol. Gotta start getting her to ulb now. How important is her 4th skill? Is it worth getting?
+    Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+        Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+    Absolutely critical, it's a gigantic chunk of damage
+I... didn't realize her weapon also gave buffs to full moon allies, I've only been running it in extra slots
+Worth to have on frontline immediately, or backline to start for double skill passive?
+    Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+        Gotcha, thank you.
+        Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+            I think Street king has a front to back skill
+            Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+Being forced to use a variety of different weapons does not make it versatile or more interesting whatsoever lmao, just because something is core doesn't mean you'll be using it in every setup either. Exaltos are a staple yes, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+You really shouldn't view it as only 2-3 slots to work with for standard grids, when in the same context you only have 1 slot to work with for Caim grids since more often than not, one singular weapon provides the best value for whatever you want to cap in a given element; and unfortunately you *have* to run only 1, unless its a Revans weapon that you can run with its mk2. When each grid should be designed to fulfill a specific purpose, there's nothing that could be more intrusive then having to search for different weapons that are inherently worse to do so.
+
+I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+    Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+        Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+            The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+    100% this. I really couldn't have summed it up better myself. Hats off to you.
+Thats optimization, I get that and thats fair.
+  
+It just seems like if you aren't already playing and that far along there's a **long** gap between m1 and m3, so caim won't be the bleeding edge but not irrelevant lol.
+> The problem with Katz is that you need premium tools to fully unlock him.
+
+You can say this about virtually any character, this isn't a statement that applies specifically to Katzelia if you are making any attempt to be objective about things.
+
+Regardless of however you or anyone else might want to spin it, he's plainly and simply the most ubiquitous character in Wind, with an as-of-now unassailable place on virtually every piece of content the element currently gets played in.
+    It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+        Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+            As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+                > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                    Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+>katz doesn't work against sieg
+
+Oh yeah he does at lvl 100 (still works at 80, with some caveats).
+
+At least in manual paladin setups, his earth switch on ougi + wind allies heal when they ougi + teamwide S1 (+100% def) means you dying takes effort/mistakes. At worst, all you need is Charlotta (grand, i know) + Nio 100 + a grid of 4-5ish def smugswords and you can (slowly) solo/carry the thing (pre-ascendant buff).
+
+Whether or not he's worth 3 sands, 2 evolites, 1 sunstone, and a lot of NWQ is... subjective.
+> As for "the rest of the game", Caim isn't a particularly solid FA unit since basically none of what he does works in FA, 
+
+He is a very strong FA unit even with all skills toggled off. The teamwide card buffs are just too good.
+    >and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+Insanely important and worth getting. I think it's one of THE strongest Evoker 4ths. It gives her permanent CA Reactivation and makes all characters multihit nuke after DA/TA (and guess what, her S2 gives you 100% DA so you're always triggering this).
+    Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+Absolutely critical, it's a gigantic chunk of damage
+Back to front, cause her s4 can't proc and her linked skills can't proc twice otherwise
+    Gotcha, thank you.
+    Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+        I think Street king has a front to back skill
+        Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+Because in the peak of Caim's power Earth had well over 10+ weapons that filled any slot _after_ the core pieces. When Caim was at his peak power you would find 6+ different variations of a highlander grid depending on the content.
+
+>, but eventually PnS will begin to get phased out of some grids (already are in some contexts for Wind and Fire, as well as many Kengo-based grids).
+
+Oh boy we phase out 1 mandatory 2 of to another! So much variety!
+
+When every single grid of an element for every single piece and style of content has 7-8 of the same weapon and the only thing you change is 2 of them that is bad. That is exactly what has happened with the presence of exalto weapons. 
+
+The only variation elements have now a day is 2 maybe 3 weapons. That's not an interesting state at all and never will be.
+
+>I just don't see how any of this could be more fun and interesting just because there's more "variety" (when you're just using weapons that try to work towards the same cap and stats anyway) and you're using weapons that normally wouldn't be used (the weapons are shit, but we're forced to use them becase there are no better options).
+
+Because having to get different weapons is enjoyable? It's a far better game state if you actually have to go farm 10 different raids for you weapons and use the best regular gacha weapons alongside the grand weapons than "WEll you just pick this one thing and get 3-4 of it and this other thing and get 2-3 of it no other content matters"
+    Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+        The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+100% this. I really couldn't have summed it up better myself. Hats off to you.
+It seems *more* applicable to Katz than most, given that you *can't* use him in burst without SBel, unless there's a better way to proc his passive without SBel. The delta between "having the tools to unlock his potential" and "not having the tools" is incredibly wide. 
+
+He's by far the most powerful character in Wind if you have the tools required to facilitate him, but this is operating at a very, very progressed player perspective. But if you gave a rank 120 character 5* Katzelia, they'd struggle to do a lot with him compared with say, Naru or Ewiyar or one of the 150 Eternals.
+    Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+        As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+            > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+                Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+>and while what remains is still good enough, it's not enough to make him particularly better than the rest of Earth's Top Roster.
+
+It's literally just there. Yes, he's still strong, but I don't think he's particularly outstanding at that point, especially when we are comparing him to units such as Percival or Nehan - FA Caim absolutely isn't in their league.
+Can't forget that Magna players are either running Auberons or Schrodingers in a lot of grids which means you've got even more DA/TA support
+Gotcha, thank you.
+Dang I haven't figured out an evoker sacrifice method yet still after all these years.
+    I think Street king has a front to back skill
+    Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+Being able to use different weapons is not variety lmao, you're just so wrapped up in the concept of being able to slot in unusual weapons that you ignore that each make an attempt to fulfill the same mods and cap the same stats as you would otherwise. Highlander grids having "6 different variations" is just an obvious caveat rather than a plus, no one *wants* to use different weapons with weaker target mods and useless secondary effects just because Caim can cover it, but unfortunately to achieve the same results we have to go through these hoops. Even in Caim's alleged "peak power" you were using a lot of cope shit just because it was your only remotely decent option, even something as tailor-made as Scales of Dominion.
+
+Every single element has just as many options as Caim grids to fulfill any given purpose (I'd argue extensively more given the amount of weapons you're literally limited on using due to being unable to stack them in Caim grids). You just seem to have an issue with modern weapons, and how they're applied to grids. Any attempt to leverage that into saying Caim grids are more interesting for the SINGULAR reason that you get to use different weapons is just ignorant. I genuinely don't know what your problem is, do you have a favorite weapon or something? Do you just like how weapons look? Why are you so obsessed with the idea that you can use different weapons when they are functionally worse and accomplish less than others? How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+If you personally find the challenge of having to dig through every weapon in the game to find a mod that would fit in your grid because you can only run 1 copy of the ideal weapon enjoyable, then that's fine. But you have to understand most of us don't want to rely on a shoehorned backline to be on par with other elements. Most of us care about the results that come from the grids and what we can actually achieve with them, not the process of obtaining them, or how we feel when slotting them in.
+    The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+Everything you've stated still doesn't make anyone more valuable to the element than he is.
+
+If you want to define your goal post as something that is applicable to newer players with less developed accounts, then sure, you do that, but no matter how you slice and analyze Wind there's still zero reason to suggest anyone else other than Katzelia is the most valuable character in Wind. Literally every single strategy is being built and is contingent on his continued presence in a roster.
+    As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+        > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+            Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+I think Street king has a front to back skill
+Street King or Christmas Rackam. If you are doing revans, then any non-superior element ally works too.
+The problem is _content_ variety. 
+
+Using a bunch of "cope shit" to fill out spots is far better game design and content then "We put in 5 M3 lumi guns because lul". 
+
+The problem with modern grid piece weapons is the complete lack of content variety. 99% of what you farm or pull is worthless because grids are made up of multiple copies of 2-3 things instead of actually touching a variety of things. 
+
+It's the exact same issue as when Zeus/Agni just stacked Ixaba/Eden. When magan light was just "Slap as many lumi swords as you can find.".
+
+The less duplicate weapons in a grid the better because it means that more content is actually relevant and part of the gameplay. Any weapon released where you want _three of it_ ever is a complete failure and shouldn't exist. When you only have 10 slots one thing taking up nearly a third of that is a bad thing because you're already reaching too much limitation on what actual content is relevant. 
+
+>How are you complaining about Exaltos when you should be complaining about how terrible most standard gacha weapons and farmables are?
+
+Because the pwoer level is irrelevant. Buff a standard weapon or framable? Now just stack 2-4 of that instead. That's still _the same fucking problem_.
+
+And this is all completely outside of how fucking bad the P&S->Exalto design is for literally every single fucking element being identical.
+As per the OP:
+
+"What character would you consider the best in the game at the moment, and would bring the most value to *any account*?" That's the key phrase in the prompt.
+
+What value does 5* Katz bring to a typical Rank 120 account? Yes, he's core to every optimized strategy in Wind. What about players to which optimized strategy is almost totally irrelevant, because they're farming their M2s for the first time, or participating in their first real GW? Yes, Katz is core for 0b0c setups in GW, what value does he bring for an account without SBel doing 0B3C in their first GW? Trying to farm blues in Alexiel? Trying to FA on NM150? 
+
+You're highly, highly knowledgable about Wind, but like many high end players, have somewhat of a blindspot about how different the game is for the committed rank 300+ player compared to the midcore or casual 120-150 player.
+    > What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+        Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+> What value does 5* Katz bring to a typical Rank 120 account?
+
+Alright, you know what, fine. I'll bite, because you're so insistent on talking about newer players.
+
+There are very few characters that bring the amount of offensive buffs, defensive buffs, and sustain that Katzelia does, all in one character slot. This applies regardless of whether he is in the front or back.
+
+Sure, you probably don't need him for M2 blue chest farming, but if you're ACTUALLY going to question about him helping in FA'ing a NM150 or NM20, then that's just nonsensical when his kit is literally tailor-made to helping players do things they otherwise would not be capable of doing.
+
+Find me a single character who provides EVERYTHING he does frontline. Very few characters boost party damage the way he does, and even less provide the amount of survivability he does on top of the damage boosts. Putting them together in one package is literally a new player's wet dream. If a Rank 120 player had an opportunity to acquire a fully maxed out Katzelia with no strings or opportunity costs attached then they're going to be smooth sailing for literally the rest of their existence in Wind because of how much he's able to cover on his own.
+
+Katzelia is Wind's perfect example of a character who, once you start using them, you will never take them out of your roster because of how much he continuously brings to his element from the moment you acquire him. If that's not the definition of "most valuable", then this discussion shouldn't even exist.
+    Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
+Good points about 150/200 for weaker grids - that was an oversight on my part. I figured that a burstier character like Naru would have more value at every level of the game but I underestimated how much 5* Katz would add in the early game. With that said, blue chest farming, event bursting, etc, is such a huge part of the early game that I feel like that newer player would get less immediate use out of him. Similarly, a character like Siete would unlock more of a player's first ougi OTK setups. Of course, as you get deeper into the game, Katzelia's strengths shine even more, but I read the prompt as "which character has the most value regardless of where you are in the game" and it didn't seem as clear cut to me when taking that into account.
