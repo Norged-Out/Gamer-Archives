@@ -231,7 +231,7 @@ What game inspired by Doom and Quake do you descend layers of hell?
 In what game do you descend to hell in search of blood?
 In what game do you play as a blood-fueled machine?
 
-TitianFall 2
+TitanFall 2
 In what game can you call in mech suits to fight other players?
 What fps by Respawn Entertainment has a single-player campaign?
 What game has an engine that is a heavily modified version of Valve's open-source engine?
@@ -239,7 +239,8 @@ What game has an engine that is a heavily modified version of Valve's open-sourc
 Mario Kart 8
 What is Nintendo's first party-racing game?
 What Mario Kart game can be purchased on the Switch?
-What is the most recent Mario Kart game?
+What is the first mario kart game to include Mii as playable characters
+In what game can you use items like a mushroom and red shell?
 
 Bioshock
 What game is Big Daddy from?
@@ -339,8 +340,7 @@ What game developed by Ubisoft involves tactical teamwork with unique operator a
 Apex Legends
 What game has characters with tactical, passive, and ultimate abilities for combat and movement?
 What game, set in the Titanfall universe, features unique characters called Legends?
-What game allows players to revive fallen teammates by collecting their banners and taking 
-them to respawn beacons?
+What game allows players to revive fallen teammates by collecting their banners and taking them to respawn beacons?
 
 Battlefield 1 
 What game features epic battles set in World War I?
@@ -468,3 +468,19 @@ Animal Crossing New Horizons
 Where can you play on an island with villagers?
 What game uses bells as currency?
 In which game can you earn nookmiles?
+
+Halo Reach
+What game allows for armor customization?
+In which game do you play as a Spartan?
+What game has the weapons Spiker and Plasma Repeater?
+Where can you find the Noble Team as a part of the game’s character roster?
+
+Halo 3 ODST
+Which game was made by Bungie?
+Where can you walk along Mombasa Street?
+Which game has the Plasma Rifle as a weapon?
+
+Prototype
+Where does the Blacklight Virus originate from?
+What game has Alex Mercer as a playable character?
+In which game can you skyjack a helicopter?

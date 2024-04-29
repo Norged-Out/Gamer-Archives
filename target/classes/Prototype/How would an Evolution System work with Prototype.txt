@@ -1,0 +1,269 @@
+[[How would an Evolution System work with Prototype]]
+
+
+Between Mercer and Heller, they already cover a wide variety of options.
+
+How would you think evolving would work in a gameplay aspect?
+
+A few examples would be:
+
+# Jump
+
+* **Charged Jump** that has a higher max height but takes longer to charge
+* **Spring-loaded Jump** that happens instantly as soon as you press jump but doesnt go as high.
+
+# Armor
+
+* **Titanium Armor** removes staggers, increases defense, reflects bullets but unable to jump, air dash, roll, and sprint speed is massively reduced.
+* **Nanofiber Armor** retains base armor defense values but allows you to jump, dash, sprint at normal speed.
+
+# Claws
+
+* **Titanium Claws** deal increased damage to vehicles, has a chance to sever limbs, and attacks faster.
+* **Hypodermic Needles** can be fired at targets, causing them to frenzy, attacking everybody and then explodes in biomass shortly after. Claw Melee damage is lowered.
+
+# Pack Leader
+
+* **Infected Army** infects 4 human targets around you, turning them into evolved.
+* **Call In The Big Guns** summons 1 Goliath.
+
+Now the game would have to be much harder and a lot of the things from Prototype 2 need to be removed like Bullet immunity and insta-killing vehicles. New enemies would need to be added to actually challenge the player.
+
+
+Bullet immunity should stay. It makes sense from a lore perspective. I’ll die on that hill
+    >Bullet immunity should stay. It makes sense from a lore perspective. I’ll die on that hill
+
+Considering how blacklight virus constantly adapts itself based on dangers it experiences in the world,it should be immune to bullets by now.
+        Exactly. Plus Heller and Mercer are incredibly dense and durable. Borderline invulnerable.
+            well only Heller has bulletproof
+                Naw
+                    alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+                        Inconsistency
+                            maybe it was intended by the developers. this is your subjective opinion
+                                Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                                    your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+        Yes but Alex doesn't have the bulletproof mutation
+    'And they will die, bravely. But still, they will die...'
+        We will see.
+    I get that but considering what Blackwatch was able to achieve, I wouldnt be surprised if they had better ammunition.
+
+I would also like the idea of them using other means of damage. Grenades, anti-healing weapons that destroy cells at a certain level that prevent you from healing or healing up much, able to sever your limbs, ect.
+
+The idea of allowing enemies to sever your limbs or reduce/cut off your healing or movement options sounds fun as hell. Obviously this could be a mode specific thing or a tier of enemy faction.
+        Maybe for the anti-gen ammunition, it could be tranq darts filled with liquid bloodtox? You could have it slow down regeneration and deal damage over time until the player’s body fought it off?
+
+For cutting off limbs, you could have that be an early game thing? And as you progress and your body gets stronger, they become less effective.
+            Forgot about Bloodtox. Really good idea. Could even have bloodtox grenades.
+                Possibly. Perhaps they wouldn’t blow up and send out shrapnel, but instead release clouds of more bloodtox, or a stronger version made specifically to use in grenades. And for balance, maybe there are specific enemies that have the grenades. Such as commanders or demolition soldiers. The use of tazers would also be a good early game development. The player goes to grab someone, and if held too long will taze you and be dropped.
+                    I was already under the impression that they would release gas because it is bloodtox.
+                        Ah
+                        Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+Perhaps with infected army, the ability could be toned down to create evolved infected(from prototype 1) instead of actual evolved? For balance purposes.
+    I could see that. I only say that because then would it be an upgrade to the base Pack Leader? What if you are near basic infected? I could see that being an option if no humans are around.
+It would have been cool to be able to shoot razor sharp biomass needles like a kunai or even rapid fire like a minigun from you hands which I am certain is a ability a prototype would be capable of.
+Maybe musclemass could have things likeaffecting the legs, giving boost to speed and/or jump
+    >Maybe musclemass could have things likeaffecting the legs, giving boost to speed and/or jump
+
+also biomass wings and biologic gun, where you can convert corpses to biomass as ammunition. or turn that biomass into little spikes and throw them.
+        Kinda like my Cannonball launch idea, yes
+        I think that idea would work better for a Redlight Dana Mercer.
+    Thats a great idea. I just wonder what would be the other path.
+Digitigrade legs could also work for speed and maybe jumping abilities
+You have immunity to bullets? 0_0 
+
+I never had that in P2.
+    it's a defensive mutation. it needs to be upgraded
+        Oh. Maybe that is just game mechanics then?
+            no, the developers said that this is due to a virus
+                Lol Then what is up with the Juggernaut shields? 🤣
+                    shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+                        I still think it is stupid in terms of BV's adaptability.
+                            but why
+                                Why need a shield when you are impervious to bullets?
+                                    missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+                They say it’s something the virus does/can do if you bother to get them but they never say it’s actually something that canonically happens.
+                    it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+                        Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+                            there was an interview or video where they said that all the side missions are related to the main plot
+                                Link it
+                                    https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+>Bullet immunity should stay. It makes sense from a lore perspective. I’ll die on that hill
+
+Considering how blacklight virus constantly adapts itself based on dangers it experiences in the world,it should be immune to bullets by now.
+    Exactly. Plus Heller and Mercer are incredibly dense and durable. Borderline invulnerable.
+        well only Heller has bulletproof
+            Naw
+                alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+                    Inconsistency
+                        maybe it was intended by the developers. this is your subjective opinion
+                            Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                                your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+    Yes but Alex doesn't have the bulletproof mutation
+'And they will die, bravely. But still, they will die...'
+    We will see.
+I get that but considering what Blackwatch was able to achieve, I wouldnt be surprised if they had better ammunition.
+
+I would also like the idea of them using other means of damage. Grenades, anti-healing weapons that destroy cells at a certain level that prevent you from healing or healing up much, able to sever your limbs, ect.
+
+The idea of allowing enemies to sever your limbs or reduce/cut off your healing or movement options sounds fun as hell. Obviously this could be a mode specific thing or a tier of enemy faction.
+    Maybe for the anti-gen ammunition, it could be tranq darts filled with liquid bloodtox? You could have it slow down regeneration and deal damage over time until the player’s body fought it off?
+
+For cutting off limbs, you could have that be an early game thing? And as you progress and your body gets stronger, they become less effective.
+        Forgot about Bloodtox. Really good idea. Could even have bloodtox grenades.
+            Possibly. Perhaps they wouldn’t blow up and send out shrapnel, but instead release clouds of more bloodtox, or a stronger version made specifically to use in grenades. And for balance, maybe there are specific enemies that have the grenades. Such as commanders or demolition soldiers. The use of tazers would also be a good early game development. The player goes to grab someone, and if held too long will taze you and be dropped.
+                I was already under the impression that they would release gas because it is bloodtox.
+                    Ah
+                    Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+I could see that. I only say that because then would it be an upgrade to the base Pack Leader? What if you are near basic infected? I could see that being an option if no humans are around.
+>Maybe musclemass could have things likeaffecting the legs, giving boost to speed and/or jump
+
+also biomass wings and biologic gun, where you can convert corpses to biomass as ammunition. or turn that biomass into little spikes and throw them.
+    Kinda like my Cannonball launch idea, yes
+    I think that idea would work better for a Redlight Dana Mercer.
+Thats a great idea. I just wonder what would be the other path.
+it's a defensive mutation. it needs to be upgraded
+    Oh. Maybe that is just game mechanics then?
+        no, the developers said that this is due to a virus
+            Lol Then what is up with the Juggernaut shields? 🤣
+                shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+                    I still think it is stupid in terms of BV's adaptability.
+                        but why
+                            Why need a shield when you are impervious to bullets?
+                                missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+            They say it’s something the virus does/can do if you bother to get them but they never say it’s actually something that canonically happens.
+                it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+                    Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+                        there was an interview or video where they said that all the side missions are related to the main plot
+                            Link it
+                                https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+Exactly. Plus Heller and Mercer are incredibly dense and durable. Borderline invulnerable.
+    well only Heller has bulletproof
+        Naw
+            alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+                Inconsistency
+                    maybe it was intended by the developers. this is your subjective opinion
+                        Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                            your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+Yes but Alex doesn't have the bulletproof mutation
+We will see.
+Maybe for the anti-gen ammunition, it could be tranq darts filled with liquid bloodtox? You could have it slow down regeneration and deal damage over time until the player’s body fought it off?
+
+For cutting off limbs, you could have that be an early game thing? And as you progress and your body gets stronger, they become less effective.
+    Forgot about Bloodtox. Really good idea. Could even have bloodtox grenades.
+        Possibly. Perhaps they wouldn’t blow up and send out shrapnel, but instead release clouds of more bloodtox, or a stronger version made specifically to use in grenades. And for balance, maybe there are specific enemies that have the grenades. Such as commanders or demolition soldiers. The use of tazers would also be a good early game development. The player goes to grab someone, and if held too long will taze you and be dropped.
+            I was already under the impression that they would release gas because it is bloodtox.
+                Ah
+                Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+Kinda like my Cannonball launch idea, yes
+I think that idea would work better for a Redlight Dana Mercer.
+Oh. Maybe that is just game mechanics then?
+    no, the developers said that this is due to a virus
+        Lol Then what is up with the Juggernaut shields? 🤣
+            shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+                I still think it is stupid in terms of BV's adaptability.
+                    but why
+                        Why need a shield when you are impervious to bullets?
+                            missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+        They say it’s something the virus does/can do if you bother to get them but they never say it’s actually something that canonically happens.
+            it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+                Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+                    there was an interview or video where they said that all the side missions are related to the main plot
+                        Link it
+                            https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+well only Heller has bulletproof
+    Naw
+        alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+            Inconsistency
+                maybe it was intended by the developers. this is your subjective opinion
+                    Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                        your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+Forgot about Bloodtox. Really good idea. Could even have bloodtox grenades.
+    Possibly. Perhaps they wouldn’t blow up and send out shrapnel, but instead release clouds of more bloodtox, or a stronger version made specifically to use in grenades. And for balance, maybe there are specific enemies that have the grenades. Such as commanders or demolition soldiers. The use of tazers would also be a good early game development. The player goes to grab someone, and if held too long will taze you and be dropped.
+        I was already under the impression that they would release gas because it is bloodtox.
+            Ah
+            Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+no, the developers said that this is due to a virus
+    Lol Then what is up with the Juggernaut shields? 🤣
+        shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+            I still think it is stupid in terms of BV's adaptability.
+                but why
+                    Why need a shield when you are impervious to bullets?
+                        missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+    They say it’s something the virus does/can do if you bother to get them but they never say it’s actually something that canonically happens.
+        it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+            Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+                there was an interview or video where they said that all the side missions are related to the main plot
+                    Link it
+                        https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+Naw
+    alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+        Inconsistency
+            maybe it was intended by the developers. this is your subjective opinion
+                Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                    your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+Possibly. Perhaps they wouldn’t blow up and send out shrapnel, but instead release clouds of more bloodtox, or a stronger version made specifically to use in grenades. And for balance, maybe there are specific enemies that have the grenades. Such as commanders or demolition soldiers. The use of tazers would also be a good early game development. The player goes to grab someone, and if held too long will taze you and be dropped.
+    I was already under the impression that they would release gas because it is bloodtox.
+        Ah
+        Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+Lol Then what is up with the Juggernaut shields? 🤣
+    shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+        I still think it is stupid in terms of BV's adaptability.
+            but why
+                Why need a shield when you are impervious to bullets?
+                    missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+They say it’s something the virus does/can do if you bother to get them but they never say it’s actually something that canonically happens.
+    it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+        Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+            there was an interview or video where they said that all the side missions are related to the main plot
+                Link it
+                    https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+alex didn't show this mutation. In all the scenes, bullets and knives penetrate Alex
+    Inconsistency
+        maybe it was intended by the developers. this is your subjective opinion
+            Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+                your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+I was already under the impression that they would release gas because it is bloodtox.
+    Ah
+    Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+shields protect you from everything. that mutation makes Heller's skin impervious to bullets
+    I still think it is stupid in terms of BV's adaptability.
+        but why
+            Why need a shield when you are impervious to bullets?
+                missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+it seems that you are already talking on the principle of "neither yourself nor anyone else will get it". you can say what you want but mutations are not a separate addition to the game. sorry to ruin your fantasies but alas Alex does not have this mutation only Heller owns it
+    Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+        there was an interview or video where they said that all the side missions are related to the main plot
+            Link it
+                https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+Inconsistency
+    maybe it was intended by the developers. this is your subjective opinion
+        Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+            your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+Ah
+Depending on how many sources of damage you want to add, you could get very creative with the use of electric weapons. For example, specialized bullets that, once lodged in the flesh of the player, release a small burst of electricity that slightly damages the player. It would be more for immobilization than straight up damage dealing. It would lock the player in place for a few moments and open them up for further attacks.
+I still think it is stupid in terms of BV's adaptability.
+    but why
+        Why need a shield when you are impervious to bullets?
+            missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+Bro, you gotta be buggin rn. It does not matter if they aren’t a separate addition, you still have the play side-missions to get them and since side missions are completely optional, you cannot say the mutations are canon. The only way you can prove it is if you give me evidence of the devs saying that heller 100% has them canonically. But you can’t, so you are wrong. You’re always wrong in these debates because you never bring actual evidence. It’s rather irritating.
+    there was an interview or video where they said that all the side missions are related to the main plot
+        Link it
+            https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+maybe it was intended by the developers. this is your subjective opinion
+    Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+        your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+but why
+    Why need a shield when you are impervious to bullets?
+        missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+there was an interview or video where they said that all the side missions are related to the main plot
+    Link it
+        https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+Nope it’s a fact. My subjective opinion is you are an annoying contrarian that can’t formulate anything on his own accord.
+    your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+Why need a shield when you are impervious to bullets?
+    missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+Link it
+    https://youtu.be/CSbw54f0aAw 2:40 - 3:00
+your tales of inconsistency have no evidence to support this fact. you're just an avid Alex fan who doesn't want to admit that he's not omnipotent
+missiles projectiles and other attacks still affect you if you are without a shield. why do you have such stupid thoughts or are you just joking?
+https://youtu.be/CSbw54f0aAw 2:40 - 3:00

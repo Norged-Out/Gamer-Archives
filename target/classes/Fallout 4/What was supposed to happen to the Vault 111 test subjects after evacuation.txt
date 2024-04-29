@@ -1,0 +1,567 @@
+[[What was supposed to happen to the Vault 111 test subjects after evacuation]]
+
+
+Having Fallout 4 shower thoughts instead of studying for finals.
+
+Anyone who's read the terminals (including myself) will know that after the Vault-Tec personnel are evacuated, Vault-Tec will simply tend to the test subjects in cryostasis remotely.  That's the plan, at least.  This might get really speculative, but what was going to happen after that?  How long would Vault-Tec have been keeping the test subjects alive?
+
+My current theory is that Vault-Tec would have just been keeping the test subjects alive until they felt there was no more interesting data to collect, or if the cryo pods simply fail prematurely and the test subjects die.  I don't think that, realistically, the cryo pods could have kept working for much longer without the personnel actually there on site.  Even with inhabitants continuously maintaining it, a vault can only last for so long (as we can see with Vault 81, which has grown to be more reliant on traders from the Commonwealth).
+
+Best case scenario after the experiment is finally, finally over is that Vault-Tec lets the test subjects free with some basic equipment for survival.  That being said, it sure would be more troublesome to have to send them resources *and* deal with them being understandably pissed that there is no safe vault for them to live in.  With Vault 111 pretty much being built around the cryo pods, only having the bare essentials for their operation and the survival of its personnel, I wouldn't put it past Vault-Tec if the intention was to simply kill off the test subjects at the end of the experiment.  As to why this isn't specified on the terminals, imagine how pointless your job would feel if the test subjects you were tending to in a claustrophobic vault were going to die in the end; sure, the data is there all the same, but it adds yet another layer of bleakness.
+
+Just some thoughts, I admittedly don't have any solid evidence for any of this, and I don't know all the lore to the tee.  If anyone has any oversights or other suggestions, feel free. :)
+
+**EDIT:** A lot of people in the comments have brought up the idea that it would not make sense to just kill off the test subjects without examining long term effects first (at which point, they'll probably just continue to examine them and not kill them).  I very much agree that this would make the most sense, but because it is such a crucial step of the experiment—heck, a whole phase of the experiment—I would find it strange that **it isn't mentioned at all in the terminals.**  That being said, maybe Vault-Tec just didn't want the overseer and personnel in Vault 111 to know more than they needed to do their job.  There's also, of course, the simple reality that Bethesda might've just not thought about it enough to include it in the terminals.  Terminal entries already often leave out many crucial details to a story, but because these stories can go *DEEP,* I wouldn't blame the writers for cutting it short.  Just some more food for thought. ;)
+
+
+Vault tec didn't intend to save humanity, you're right about the cryo vault existing solely to test the technology. There never was going to be an evacuation.
+    It may also have been an experiment on the staff. Some of the pods were probably scheduled to "malfunction" in certain ways to evaluate how the staff would react, and whether or not they would be able to repair the pod while keeping the occupant alive.
+
+Incomplete delivery of supplies seems to have made 111 fail early.
+    Heard about that, about there not going to be an evacuation at all and that it'd be the second experiment, but I thought that was just a theory.  Is there any other evidence other than the fact that they were never officially given the all clear?
+        Mostly that it's not a control vault. The residents and staff are disposable, all that matters is the research generated. It would be out of the norm for there to be survivors.
+
+As for why there was no all clear, I don't think it was part of the plan unless they just wanted everyone to kill each other. A lot can go wrong in a nuclear war, it also just might not have been safe.
+
+Vault Tec HQ was either dead, too busy dealing with the apocalypse, or just didn't care because they're Enclave.
+
+No real evidence afaik, they left it mysterious.
+            >The residents and staff are disposable
+
+That certainly explains it.  Nice response! :)
+                Makes sense. You saw how they treated the Vault-Tec salesman that signed you up for the vault.
+            Where is it started that Vault Tec HQ are members of the enclave?
+                From the president himself.
+
+ The Chosen One: "{221}{}{What do you mean?}"
+
+Dick Richardson: "{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults - were part of the great plan.}"
+
+The Chosen One: "{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}"
+
+Dick Richardson: "{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }"
+
+The Chosen One: "{225}{}{An experiment?}"
+
+Dick Richardson: "{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}"
+                    Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+                        That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+                            Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+        I thought I read in a terminal somewhere maybe at vault tec HQ that they never intended to end the experiment. That staff would leave but Vault tec would monitor the cryo chambers remotely.
+            Oh yes, of course, I noted that in my OP.  What I'm asking is what happens when that's brought to a close.
+
+Now that you bring that up again, though, it is an interesting point.  Did they have *any* intention of deactivating the cryo pods, or did they just want to keep them on indefinitely and continue to gather data?
+                Don't they suggest the experiment has no end though?
+    Actually, i have a feeling they would have wanted to keep them alive, since the point of cryosleep is to survive afterwards, so testing the effects on the subjects would mean that they need to move around and live their lives.
+        Agree. No reason to develop and build hugely expensive cryosleep chambers just to NOT keep the people inside alive. The only logical reason to do it is to see if they can wake them up and they'll live.
+        Hey, that's a good point!  I may be a layman, but I think it would be worth examining any long term effects too.
+Vault residents are *generally* not expected to survive. They're experimented on until the Vault is destroyed or they die off.
+The Enclave wanted to measure the long term affects of cryo-stasis on humans because they wanted to use the technology in sleeper ships to go to other planets. 
+
+Presumably, if things had worked out the way they were intended to, after a set period of time, people like the Lone Survivor with prior military service or psychological profiles that seemed sympathetic to the Enclave would have been thawed out and offered a position in the organization. 
+
+Everyone else would have been killed.
+    The space bit is a theory from the fallout Bible if I recall, unless it was mentioned somewhere in fallout 2.
+        [Space!](https://youtu.be/BE_jAwOyrxU)
+            Is it possible we will have an enclave faction in starfield?
+                Preferably not with the same name. That'd be too much.
+        Its also supported in the Nuka World DLC. The whole Vault Tec exhibit is about colonizing other planets and if my memory is working, then there is even a line of dialogue about cyro stasis. Been a while since i played that though.
+            The thing with that is that its an ad of the future with no real proof they're committing; its just a way to advertise vaults.
+    I've always wondered exactly where the Enclave thought they'd be in the decades (for the *shorter* vault experiments) to centuries it would take for the Vault experiments to run their course.  Presumably if it was some interstellar colony mission they weren't planning on hanging about for 200 years to see what happened to Vault 101 before departing.  Obviously a great many of the experiments seem to just be cruelty for cruelty's sake with extremely limited utility in actually producing useful scientific data even if you ignore the utter lack of ethics.  In universe though I do wonder, was there anyone alive to actually study any of the data produced by their assorted experiments?
+
+While I feel the Enclave were done after Fallout 2, and **really** done after Fallout 3, if it turned out they had a secret Nazi moon base, or a series of colonies scattered around the solar system, it could make for an interesting plot to a future game.  Radiation shouldn't be anywhere near as intense as it is in many areas of the world in Fallout so long after the bombs dropped, but if the Enclave was using some [Orion drive](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion\)) type system to fly around the solar system, and landing on Earth to extract whatever resources their colonies required, it would explain the still elevated radiation with a neat piece of 1950s vintage tech.
+        The United States did have a moon base in the Fallout timeline.
+            There was actual space combat on the moon in the fallout timeline.
+        >I've always wondered exactly where the Enclave thought they'd be in the decades (for the shorter vault experiments) to centuries it would take for the Vault experiments to run their course
+
+They probably imagined that the United States would be largely intact -- or at least functionally-intact -- so that when they emerged, they could pick up where they left off. But they underestimated the scale of the devastation and the appetite for the descendants of a group of strangers showing up and saying "we're the government now".
+    The "Vaults were Enclave/US Government experiments for long term space travel" is not canon.  It comes from a theory based on the Fallout Bible, which is of dubious canonical nature.  
+
+Bear in mind too, that theory is far older than even the concept for FO4 would have been, and some of the Vaults created after FO2 fly in the face of that theory.  
+
+The Vault experiments were simply experiments simply for the sake of experimentation, at least as far as we know.  As far as the lore goes, the reasoning for Vault Tec creating the experiments is not known, if they even had an end goal when creating them, which some of the Vaults likely never did.  11, 21, 34, 92, 95, and 114 to name a few.  
+
+There's also the fact that most of the testing Vaults experiments would only "end" upon recieving an All Clear signal from Vault Tec, which obviously would never come.  And in 111's case, those subjected to the cryogenic experiments were not to be released by the 111 staff.  They were even prevented from intervening and saving their live unless the majority of the rest of the subjects die.  Their orders also state that the subjects would only be released by Vault Tec remotely and "will attend to their needs" in the same way.  However, knowing Vault Tec, chances are they would have likely just killed off any that survived.
+        >The "Vaults were Enclave/US Government experiments for long term space travel" is not canon.  It comes from a theory based on the Fallout Bible, which is of dubious canonical nature.
+
+It does come up in the *Nuka-World* expansion, though. The space-themed exhibit suggests that Vault-Tec were looking at trying to set up a mining base on a passing asteroid or comet. Although it's not stated directly.
+            The point of the exhibit was both an advertising gimmick and for Vault Tec to be Vault Tec and run experiments on guests and the staff running the exhibit.  The advertising gimmick was there to boost sales and applications into Vaults by enticing the populace with the notion that they can trust their lives in vaults because they could *totally* build habitats on places like the moon with their nuclear shelter technology.  There isn't any indication whether they would have actually followed through with such a notion if the bombs never fell (after all it's important to remember that **ALL** of Vault Tec's experiments hinged on the bombs actually falling to start them), nor is there any indication on if their Vaults would actually work as functional habitats on something like the moon.
+                I get the feeling that it was Bethesda opening up the lore a little bit so that there would be options for where the story could go in future games. Vault-Tec clearly had to have an objective in mind with the Vaults; ideally something that went beyond running experiments and at the very least unified them. Some of Overseer Barstow's final comments in the Vault-Tec Workshop expansion suggest that Vault-Tec has survived in some form.
+            Isn't there a exhibit in FO3 that is a simulated vault but in space?
+                Honestly, I can't remember. It's been ages since I've played *Fallout 3*. And I never had the chance to play the DLC.
+                    It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+                        The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+                            Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+                                I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+    >The Enclave wanted to measure the long term affects of cryo-stasis on humans because they wanted to use the technology in sleeper ships to go to other planets.
+
+Oh, I completely forgot to touch upon this point, but your explanation certainly makes sense.  I can easily the Enclave being at least tolerant of these pre-war relics (stole that from Piper), so long as they, as you've said, will actually support the Enclave.
+
+As someone else in the comments mentioned, this would also certainly allow them to observe any long-term effects post-thaw (or lack thereof).
+There are other examples of cryostasis in the lore resulting in people melting after they're defrosted from [post-cryonic syndrome](https://fallout.fandom.com/wiki/Post-cryonic_syndrome).  Since all the residents of Vault 111 are intact when you wake up, it seems Vault-Tec found a fix for that particular issue.  I would assume the intention was to thaw the residents out after a few years just to check the thawing process functioned correctly.
+I once read the theory that 111 wasn’t a test to observe cryostasis as stated, but as a test to see if the support staff would break down and start cannibilizing the sleepers once they ran out of food. 
+
+Evidence would be circumstantial at best, but it does fit with the relatively short active period the vault was supposed to have, the limited food rations, and the minor detail that the experiment instructions include disposing of any deceased by stuffing them in a pod. 
+
+If the staff had been convinced that leaving the vault was too dangerous, then the question of food and their rumbling bellies might’ve started making the sleepers in their pods look like long pig in a meat locker.
+Its stated on the lore that vaults were not intended to save humanity but to experiment on it for unknown reasons, but the people who owned vault tec were xenofobic as fuck.
+    Some Vaults were intended to save humans. Probably as recruitment material for the Enclave.
+        Control vaults. They’re the only ones without an experiment
+            More over, the control vaults weren't there for more manpower for the Enclave either.  
+
+Largely because they wiped out entire vaults for whatever reason.
+            Like Vault 3, Vault 76, Vault 8..
+                Could argue 76 is an experiment too, testing short time openings.
+                    Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+            I mean the point of a control group in science is that it's there to provide data to show if the experiment actually did anything.
+
+Control vaults weren't designed to actually save anyone. They were designed to determine how effective the other vaults' experiments were.
+Most Vaults aren’t just a test on residence, but a test on the Overseer, the scientists and the guards, this one is, they tested what would happen if the clearance never came
+Maybe it's an organ farm.
+I believe that 111 was just to test Cryostasis. Nothing more.
+I agree with other players here to be honest. The vaults that actually didn’t turn out to be experiments were few and far between and were just meant to be a ‘control’ part of the overall experiments like the placebo’s in a double blind trial.
+I'd think at least some, probably all would be thawed out after however many years the experiment was supposed to take place over  
+
+
+Simply because you can't get all the test results you need without thawing them out, okay we know humans can survive long term cryostasis now, but what effect does that have once we thaw em out kinda deal, at some point they'd have *needed* to thaw them out to get the results of the experiment
+It really is a tribute to the way pre-war people built things that.so much of it still works. There was still a mentality in the 50s, and further back that when you bought something, it was meant to last 
+
+It's only recently that we've come to accept buying stuff that fails after a short time, so we'll keep buying the next thing.
+
+Though sometimes I don't mind, like when it gives me an excuse to upgrade my gaming rig.
+There is a theory that the experiment was actually done on the staff of vault 111. If they could be trusted to oversee people in cryostasis for eventual trips into space. Dunno if it’s actually what Bethesda intended but it’s more interesting than, “what happens if we freeze people for a while.”
+“Can we freeze people” isn’t the most interesting experiment, but if we’re going with the proposal that the Vaults were intended to be test beds for interstellar colonization, it makes sense.
+
+Pure headcanon here, but perhaps the real experiment was to see if a small group could be trusted to keep people in stasis safe. In 111, the scientists and security wound up killing each other, which would have been a disastrous outcome had the people in the pods actually been “important.”
+    Didn't they only start fighting after the all clear signal didn't come after x days. They were running out of supplies and tension rose.
+If you actually read the terminals, the whole purpose of Vault 111 was to test not only suspended animation but also the psychological effects of depositing someone some 200 years into the future. To see how they would react, survive, etc.
+    Hmm, I don’t remember that. Where does it say that?
+        I don't remember.
+            Cool
+    No that was father in the Institute. Some of the things he says about releasing you make it seems like he was just curious to see how and what you'd do and almost like it was no more than a curious experiment for him. If and how you'd survive. If you'd come looking for him. Ect.
+
+I think you are getting his comments and entries about releasing you mixed up with Vault tech stuff.
+        Its on the vault 111 overseer terminal.
+            There is nothing on there about releasing the frozen occupants in 200 years. 
+
+[https://fallout.fandom.com/wiki/Vault\_111\_terminal\_entries](https://fallout.fandom.com/wiki/Vault_111_terminal_entries)
+                "I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized."
+
+From preparations section.    Obviously they cant witness everything if they stay frozen.
+                    That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+They would have woken them up.  What's the point of the experiment if you don't also study the long term effects of cryostasis after you're thawed back out and walking around?
+I just wonder why they only had a few months of supplies for personnel. Only thing I can figure is that there was more nuking than expected.
+    Either that, or they expected to win.
+
+If you explore some of the journal entries in *Nuka World*, you find out what happened to John-Caleb Bradberton. He let the military use Nuka Cola to test radioactive isotopes, and in return, he joined the LEAP-X project, which was a way of prolonging life. But he was also critical of the military, arguing that they were either underprepared for or underestimating the risk of a nuclear exchange. One of the generals was deeply offended by this and punished Bradberton by putting him into LEAP-X, which meant his head was kept alive indefinitely.
+
+It suggests that the military had the same institutional rot that undermined politics and business. They fully expected that the United States would come out on top.
+None of the Vault experiments make sense. Experiments require collecting data & control groups. There were control Vaults, yes, but with absolutely no connection to the rest of Vault-Tec, as with all of the experimental Vaults, so none of the data means anything.
+
+Basically, the entire Vault process was like someone handed the keys to humanity's survival to the Fyre Festival people, with no skills, expertise, nor bare charisma to get through the day... it's a good thing that the majority of surviving humans weren't in Vaults at all.
+
+In other words... don't think too hard about the Vaults' end games, because Vault-Tec didn't.
+My headcanon is that the Vault 111 experiment was about how the staff would respond, not the cryonics, which seemed to work fine. 
+
+I have a whole Fallout 5 in my head stemming from this.
+Well, no point in actually killing them off if they can stay alive under cryostasis.
+
+Afterall, they are human, pure pre-war human.
+makes you wonder if there is some main vault somewhere where all the extraneous vault info is centralized and used for other research somehow...or am I missing something. maybe that's the institute ?
+It may also have been an experiment on the staff. Some of the pods were probably scheduled to "malfunction" in certain ways to evaluate how the staff would react, and whether or not they would be able to repair the pod while keeping the occupant alive.
+
+Incomplete delivery of supplies seems to have made 111 fail early.
+Heard about that, about there not going to be an evacuation at all and that it'd be the second experiment, but I thought that was just a theory.  Is there any other evidence other than the fact that they were never officially given the all clear?
+    Mostly that it's not a control vault. The residents and staff are disposable, all that matters is the research generated. It would be out of the norm for there to be survivors.
+
+As for why there was no all clear, I don't think it was part of the plan unless they just wanted everyone to kill each other. A lot can go wrong in a nuclear war, it also just might not have been safe.
+
+Vault Tec HQ was either dead, too busy dealing with the apocalypse, or just didn't care because they're Enclave.
+
+No real evidence afaik, they left it mysterious.
+        >The residents and staff are disposable
+
+That certainly explains it.  Nice response! :)
+            Makes sense. You saw how they treated the Vault-Tec salesman that signed you up for the vault.
+        Where is it started that Vault Tec HQ are members of the enclave?
+            From the president himself.
+
+ The Chosen One: "{221}{}{What do you mean?}"
+
+Dick Richardson: "{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults - were part of the great plan.}"
+
+The Chosen One: "{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}"
+
+Dick Richardson: "{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }"
+
+The Chosen One: "{225}{}{An experiment?}"
+
+Dick Richardson: "{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}"
+                Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+                    That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+                        Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+    I thought I read in a terminal somewhere maybe at vault tec HQ that they never intended to end the experiment. That staff would leave but Vault tec would monitor the cryo chambers remotely.
+        Oh yes, of course, I noted that in my OP.  What I'm asking is what happens when that's brought to a close.
+
+Now that you bring that up again, though, it is an interesting point.  Did they have *any* intention of deactivating the cryo pods, or did they just want to keep them on indefinitely and continue to gather data?
+            Don't they suggest the experiment has no end though?
+Actually, i have a feeling they would have wanted to keep them alive, since the point of cryosleep is to survive afterwards, so testing the effects on the subjects would mean that they need to move around and live their lives.
+    Agree. No reason to develop and build hugely expensive cryosleep chambers just to NOT keep the people inside alive. The only logical reason to do it is to see if they can wake them up and they'll live.
+    Hey, that's a good point!  I may be a layman, but I think it would be worth examining any long term effects too.
+The space bit is a theory from the fallout Bible if I recall, unless it was mentioned somewhere in fallout 2.
+    [Space!](https://youtu.be/BE_jAwOyrxU)
+        Is it possible we will have an enclave faction in starfield?
+            Preferably not with the same name. That'd be too much.
+    Its also supported in the Nuka World DLC. The whole Vault Tec exhibit is about colonizing other planets and if my memory is working, then there is even a line of dialogue about cyro stasis. Been a while since i played that though.
+        The thing with that is that its an ad of the future with no real proof they're committing; its just a way to advertise vaults.
+I've always wondered exactly where the Enclave thought they'd be in the decades (for the *shorter* vault experiments) to centuries it would take for the Vault experiments to run their course.  Presumably if it was some interstellar colony mission they weren't planning on hanging about for 200 years to see what happened to Vault 101 before departing.  Obviously a great many of the experiments seem to just be cruelty for cruelty's sake with extremely limited utility in actually producing useful scientific data even if you ignore the utter lack of ethics.  In universe though I do wonder, was there anyone alive to actually study any of the data produced by their assorted experiments?
+
+While I feel the Enclave were done after Fallout 2, and **really** done after Fallout 3, if it turned out they had a secret Nazi moon base, or a series of colonies scattered around the solar system, it could make for an interesting plot to a future game.  Radiation shouldn't be anywhere near as intense as it is in many areas of the world in Fallout so long after the bombs dropped, but if the Enclave was using some [Orion drive](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion\)) type system to fly around the solar system, and landing on Earth to extract whatever resources their colonies required, it would explain the still elevated radiation with a neat piece of 1950s vintage tech.
+    The United States did have a moon base in the Fallout timeline.
+        There was actual space combat on the moon in the fallout timeline.
+    >I've always wondered exactly where the Enclave thought they'd be in the decades (for the shorter vault experiments) to centuries it would take for the Vault experiments to run their course
+
+They probably imagined that the United States would be largely intact -- or at least functionally-intact -- so that when they emerged, they could pick up where they left off. But they underestimated the scale of the devastation and the appetite for the descendants of a group of strangers showing up and saying "we're the government now".
+The "Vaults were Enclave/US Government experiments for long term space travel" is not canon.  It comes from a theory based on the Fallout Bible, which is of dubious canonical nature.  
+
+Bear in mind too, that theory is far older than even the concept for FO4 would have been, and some of the Vaults created after FO2 fly in the face of that theory.  
+
+The Vault experiments were simply experiments simply for the sake of experimentation, at least as far as we know.  As far as the lore goes, the reasoning for Vault Tec creating the experiments is not known, if they even had an end goal when creating them, which some of the Vaults likely never did.  11, 21, 34, 92, 95, and 114 to name a few.  
+
+There's also the fact that most of the testing Vaults experiments would only "end" upon recieving an All Clear signal from Vault Tec, which obviously would never come.  And in 111's case, those subjected to the cryogenic experiments were not to be released by the 111 staff.  They were even prevented from intervening and saving their live unless the majority of the rest of the subjects die.  Their orders also state that the subjects would only be released by Vault Tec remotely and "will attend to their needs" in the same way.  However, knowing Vault Tec, chances are they would have likely just killed off any that survived.
+    >The "Vaults were Enclave/US Government experiments for long term space travel" is not canon.  It comes from a theory based on the Fallout Bible, which is of dubious canonical nature.
+
+It does come up in the *Nuka-World* expansion, though. The space-themed exhibit suggests that Vault-Tec were looking at trying to set up a mining base on a passing asteroid or comet. Although it's not stated directly.
+        The point of the exhibit was both an advertising gimmick and for Vault Tec to be Vault Tec and run experiments on guests and the staff running the exhibit.  The advertising gimmick was there to boost sales and applications into Vaults by enticing the populace with the notion that they can trust their lives in vaults because they could *totally* build habitats on places like the moon with their nuclear shelter technology.  There isn't any indication whether they would have actually followed through with such a notion if the bombs never fell (after all it's important to remember that **ALL** of Vault Tec's experiments hinged on the bombs actually falling to start them), nor is there any indication on if their Vaults would actually work as functional habitats on something like the moon.
+            I get the feeling that it was Bethesda opening up the lore a little bit so that there would be options for where the story could go in future games. Vault-Tec clearly had to have an objective in mind with the Vaults; ideally something that went beyond running experiments and at the very least unified them. Some of Overseer Barstow's final comments in the Vault-Tec Workshop expansion suggest that Vault-Tec has survived in some form.
+        Isn't there a exhibit in FO3 that is a simulated vault but in space?
+            Honestly, I can't remember. It's been ages since I've played *Fallout 3*. And I never had the chance to play the DLC.
+                It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+                    The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+                        Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+                            I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+>The Enclave wanted to measure the long term affects of cryo-stasis on humans because they wanted to use the technology in sleeper ships to go to other planets.
+
+Oh, I completely forgot to touch upon this point, but your explanation certainly makes sense.  I can easily the Enclave being at least tolerant of these pre-war relics (stole that from Piper), so long as they, as you've said, will actually support the Enclave.
+
+As someone else in the comments mentioned, this would also certainly allow them to observe any long-term effects post-thaw (or lack thereof).
+Some Vaults were intended to save humans. Probably as recruitment material for the Enclave.
+    Control vaults. They’re the only ones without an experiment
+        More over, the control vaults weren't there for more manpower for the Enclave either.  
+
+Largely because they wiped out entire vaults for whatever reason.
+        Like Vault 3, Vault 76, Vault 8..
+            Could argue 76 is an experiment too, testing short time openings.
+                Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+        I mean the point of a control group in science is that it's there to provide data to show if the experiment actually did anything.
+
+Control vaults weren't designed to actually save anyone. They were designed to determine how effective the other vaults' experiments were.
+Didn't they only start fighting after the all clear signal didn't come after x days. They were running out of supplies and tension rose.
+Hmm, I don’t remember that. Where does it say that?
+    I don't remember.
+        Cool
+No that was father in the Institute. Some of the things he says about releasing you make it seems like he was just curious to see how and what you'd do and almost like it was no more than a curious experiment for him. If and how you'd survive. If you'd come looking for him. Ect.
+
+I think you are getting his comments and entries about releasing you mixed up with Vault tech stuff.
+    Its on the vault 111 overseer terminal.
+        There is nothing on there about releasing the frozen occupants in 200 years. 
+
+[https://fallout.fandom.com/wiki/Vault\_111\_terminal\_entries](https://fallout.fandom.com/wiki/Vault_111_terminal_entries)
+            "I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized."
+
+From preparations section.    Obviously they cant witness everything if they stay frozen.
+                That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+Either that, or they expected to win.
+
+If you explore some of the journal entries in *Nuka World*, you find out what happened to John-Caleb Bradberton. He let the military use Nuka Cola to test radioactive isotopes, and in return, he joined the LEAP-X project, which was a way of prolonging life. But he was also critical of the military, arguing that they were either underprepared for or underestimating the risk of a nuclear exchange. One of the generals was deeply offended by this and punished Bradberton by putting him into LEAP-X, which meant his head was kept alive indefinitely.
+
+It suggests that the military had the same institutional rot that undermined politics and business. They fully expected that the United States would come out on top.
+Mostly that it's not a control vault. The residents and staff are disposable, all that matters is the research generated. It would be out of the norm for there to be survivors.
+
+As for why there was no all clear, I don't think it was part of the plan unless they just wanted everyone to kill each other. A lot can go wrong in a nuclear war, it also just might not have been safe.
+
+Vault Tec HQ was either dead, too busy dealing with the apocalypse, or just didn't care because they're Enclave.
+
+No real evidence afaik, they left it mysterious.
+    >The residents and staff are disposable
+
+That certainly explains it.  Nice response! :)
+        Makes sense. You saw how they treated the Vault-Tec salesman that signed you up for the vault.
+    Where is it started that Vault Tec HQ are members of the enclave?
+        From the president himself.
+
+ The Chosen One: "{221}{}{What do you mean?}"
+
+Dick Richardson: "{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults - were part of the great plan.}"
+
+The Chosen One: "{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}"
+
+Dick Richardson: "{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }"
+
+The Chosen One: "{225}{}{An experiment?}"
+
+Dick Richardson: "{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}"
+            Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+                That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+                    Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+I thought I read in a terminal somewhere maybe at vault tec HQ that they never intended to end the experiment. That staff would leave but Vault tec would monitor the cryo chambers remotely.
+    Oh yes, of course, I noted that in my OP.  What I'm asking is what happens when that's brought to a close.
+
+Now that you bring that up again, though, it is an interesting point.  Did they have *any* intention of deactivating the cryo pods, or did they just want to keep them on indefinitely and continue to gather data?
+        Don't they suggest the experiment has no end though?
+Agree. No reason to develop and build hugely expensive cryosleep chambers just to NOT keep the people inside alive. The only logical reason to do it is to see if they can wake them up and they'll live.
+Hey, that's a good point!  I may be a layman, but I think it would be worth examining any long term effects too.
+[Space!](https://youtu.be/BE_jAwOyrxU)
+    Is it possible we will have an enclave faction in starfield?
+        Preferably not with the same name. That'd be too much.
+Its also supported in the Nuka World DLC. The whole Vault Tec exhibit is about colonizing other planets and if my memory is working, then there is even a line of dialogue about cyro stasis. Been a while since i played that though.
+    The thing with that is that its an ad of the future with no real proof they're committing; its just a way to advertise vaults.
+The United States did have a moon base in the Fallout timeline.
+    There was actual space combat on the moon in the fallout timeline.
+>I've always wondered exactly where the Enclave thought they'd be in the decades (for the shorter vault experiments) to centuries it would take for the Vault experiments to run their course
+
+They probably imagined that the United States would be largely intact -- or at least functionally-intact -- so that when they emerged, they could pick up where they left off. But they underestimated the scale of the devastation and the appetite for the descendants of a group of strangers showing up and saying "we're the government now".
+>The "Vaults were Enclave/US Government experiments for long term space travel" is not canon.  It comes from a theory based on the Fallout Bible, which is of dubious canonical nature.
+
+It does come up in the *Nuka-World* expansion, though. The space-themed exhibit suggests that Vault-Tec were looking at trying to set up a mining base on a passing asteroid or comet. Although it's not stated directly.
+    The point of the exhibit was both an advertising gimmick and for Vault Tec to be Vault Tec and run experiments on guests and the staff running the exhibit.  The advertising gimmick was there to boost sales and applications into Vaults by enticing the populace with the notion that they can trust their lives in vaults because they could *totally* build habitats on places like the moon with their nuclear shelter technology.  There isn't any indication whether they would have actually followed through with such a notion if the bombs never fell (after all it's important to remember that **ALL** of Vault Tec's experiments hinged on the bombs actually falling to start them), nor is there any indication on if their Vaults would actually work as functional habitats on something like the moon.
+        I get the feeling that it was Bethesda opening up the lore a little bit so that there would be options for where the story could go in future games. Vault-Tec clearly had to have an objective in mind with the Vaults; ideally something that went beyond running experiments and at the very least unified them. Some of Overseer Barstow's final comments in the Vault-Tec Workshop expansion suggest that Vault-Tec has survived in some form.
+    Isn't there a exhibit in FO3 that is a simulated vault but in space?
+        Honestly, I can't remember. It's been ages since I've played *Fallout 3*. And I never had the chance to play the DLC.
+            It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+                The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+                    Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+                        I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+Control vaults. They’re the only ones without an experiment
+    More over, the control vaults weren't there for more manpower for the Enclave either.  
+
+Largely because they wiped out entire vaults for whatever reason.
+    Like Vault 3, Vault 76, Vault 8..
+        Could argue 76 is an experiment too, testing short time openings.
+            Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+    I mean the point of a control group in science is that it's there to provide data to show if the experiment actually did anything.
+
+Control vaults weren't designed to actually save anyone. They were designed to determine how effective the other vaults' experiments were.
+I don't remember.
+    Cool
+Its on the vault 111 overseer terminal.
+    There is nothing on there about releasing the frozen occupants in 200 years. 
+
+[https://fallout.fandom.com/wiki/Vault\_111\_terminal\_entries](https://fallout.fandom.com/wiki/Vault_111_terminal_entries)
+        "I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized."
+
+From preparations section.    Obviously they cant witness everything if they stay frozen.
+            That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+>The residents and staff are disposable
+
+That certainly explains it.  Nice response! :)
+    Makes sense. You saw how they treated the Vault-Tec salesman that signed you up for the vault.
+Where is it started that Vault Tec HQ are members of the enclave?
+    From the president himself.
+
+ The Chosen One: "{221}{}{What do you mean?}"
+
+Dick Richardson: "{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults - were part of the great plan.}"
+
+The Chosen One: "{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}"
+
+Dick Richardson: "{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }"
+
+The Chosen One: "{225}{}{An experiment?}"
+
+Dick Richardson: "{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}"
+        Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+            That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+                Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+Oh yes, of course, I noted that in my OP.  What I'm asking is what happens when that's brought to a close.
+
+Now that you bring that up again, though, it is an interesting point.  Did they have *any* intention of deactivating the cryo pods, or did they just want to keep them on indefinitely and continue to gather data?
+    Don't they suggest the experiment has no end though?
+Is it possible we will have an enclave faction in starfield?
+    Preferably not with the same name. That'd be too much.
+The thing with that is that its an ad of the future with no real proof they're committing; its just a way to advertise vaults.
+There was actual space combat on the moon in the fallout timeline.
+The point of the exhibit was both an advertising gimmick and for Vault Tec to be Vault Tec and run experiments on guests and the staff running the exhibit.  The advertising gimmick was there to boost sales and applications into Vaults by enticing the populace with the notion that they can trust their lives in vaults because they could *totally* build habitats on places like the moon with their nuclear shelter technology.  There isn't any indication whether they would have actually followed through with such a notion if the bombs never fell (after all it's important to remember that **ALL** of Vault Tec's experiments hinged on the bombs actually falling to start them), nor is there any indication on if their Vaults would actually work as functional habitats on something like the moon.
+    I get the feeling that it was Bethesda opening up the lore a little bit so that there would be options for where the story could go in future games. Vault-Tec clearly had to have an objective in mind with the Vaults; ideally something that went beyond running experiments and at the very least unified them. Some of Overseer Barstow's final comments in the Vault-Tec Workshop expansion suggest that Vault-Tec has survived in some form.
+Isn't there a exhibit in FO3 that is a simulated vault but in space?
+    Honestly, I can't remember. It's been ages since I've played *Fallout 3*. And I never had the chance to play the DLC.
+        It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+            The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+                Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+                    I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+More over, the control vaults weren't there for more manpower for the Enclave either.  
+
+Largely because they wiped out entire vaults for whatever reason.
+Like Vault 3, Vault 76, Vault 8..
+    Could argue 76 is an experiment too, testing short time openings.
+        Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+I mean the point of a control group in science is that it's there to provide data to show if the experiment actually did anything.
+
+Control vaults weren't designed to actually save anyone. They were designed to determine how effective the other vaults' experiments were.
+Cool
+There is nothing on there about releasing the frozen occupants in 200 years. 
+
+[https://fallout.fandom.com/wiki/Vault\_111\_terminal\_entries](https://fallout.fandom.com/wiki/Vault_111_terminal_entries)
+    "I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized."
+
+From preparations section.    Obviously they cant witness everything if they stay frozen.
+        That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+Makes sense. You saw how they treated the Vault-Tec salesman that signed you up for the vault.
+From the president himself.
+
+ The Chosen One: "{221}{}{What do you mean?}"
+
+Dick Richardson: "{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. These facilities - the vaults - were part of the great plan.}"
+
+The Chosen One: "{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}"
+
+Dick Richardson: "{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale. }"
+
+The Chosen One: "{225}{}{An experiment?}"
+
+Dick Richardson: "{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}"
+    Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+        That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+            Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+Don't they suggest the experiment has no end though?
+Preferably not with the same name. That'd be too much.
+I get the feeling that it was Bethesda opening up the lore a little bit so that there would be options for where the story could go in future games. Vault-Tec clearly had to have an objective in mind with the Vaults; ideally something that went beyond running experiments and at the very least unified them. Some of Overseer Barstow's final comments in the Vault-Tec Workshop expansion suggest that Vault-Tec has survived in some form.
+Honestly, I can't remember. It's been ages since I've played *Fallout 3*. And I never had the chance to play the DLC.
+    It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+        The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+            Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+                I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+Could argue 76 is an experiment too, testing short time openings.
+    Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+"I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized."
+
+From preparations section.    Obviously they cant witness everything if they stay frozen.
+    That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+Maybe I'm stupid, maybe I'm just missing context cause I haven't played anything before 3, but that doesn't seem to say they're Enclave?
+    That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+        Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+It wasn't a dlc. It was in downtown DC. I know it exist. I just don't know if it was a regular vault like..walk through. Or if it was space themed. I'll do some digging on YT
+    The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+        Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+            I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+Vault-Tec is a rather confusing company. From the terminal you find in Fallout 3, it made it sound like Vat 76 was in fact a control vault all along, but when you see how it plays out in 76, you begin to wonder about Braun and his decision making.
+That was the same guy who also thought he and his staff were going to be released from the vault after a few months and were not given enough supplies to last when that all clear release never came. 
+
+He's just making whimsical musings about the future in that early log entry. 
+
+He had no idea what Vault Tech's actual plans were for the frozen residents. His instructions were to just basically take readings and keep them alive until his staff was told to leave and then they would leave those people behind.
+That's the leader of the enclave, you find this out at the end of F2.
+
+"President Dick Richardson is the leader of the Enclave sheltered on the Enclave Oil Rig in 2242. He serves as the main antagonist of Fallout 2."
+    Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+The idea is vaguely tugging at my memory, but I don't specifically recall. Kind of tempted to jump back into *Fallout 3*, though, since it's been a while. It's that or give *Fallout 76* a go while waiting for *Starfield*.
+    Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+        I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+Ohhh ok. So I was just missing some context.
+
+Maybe I should go back and play the earlier games
+Ok. So it's the [Museum of Technology](https://fallout.fandom.com/wiki/Museum_of_Technology)  on the main strip. It's a regular vault though. 
+
+*Another large exhibit is a Vault-Tec Corporation demonstration vault model on the second floor. It serves as an example of what vault life would be like and displays the various technologies used by Vault-Tec in constructing the vaults. It consists of a hallway with windows that show examples of different vault sections. The rooms of the exhibit include a bedroom, kitchen, and classroom. One of the displays in the vault exhibition promises that a self-cleaning floor means dwellers "will never have to sweep again."*
+
+I do wish remember a space one though. Maybe it's NV. I don't think it was 4. Ugh
+
+
+76 is really fun. I played it when it first released. It was...a mess. They've cleaned it up A LOT since. My son got me back into it this last month. It's definitely worth picking up. You'll get as much, if not more playtime out of it as you did FO4. If you're on Xbox, I'm happy to play with you and find you a jumpstart. But the cool thing is, you don't need to play with anyone. The game can be played totally by yourself with no more struggles then you had in FO4. Only thing really off limits is the end have bosses, which require several squads to fight.
+    I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
+I'll think about it. I've got a queue of games to get through, starting with *Dishonored: Death of the Outsider*, but also including *Redfall* and (maybe) *Atomic Heart*.
