@@ -1,0 +1,1179 @@
+[[Anyone tried this]]
+
+
+
+
+
+I actually respect the developers for taking object modifications into cutscenes and that the action doesn't break the game.
+    I stole a wagon one time that had a woman on it who never got off.  I assumed she would just be gone, or hop off before the wagon pulled into the barn. Nope. Rolled right in there with her and as the doors closed she was still sitting on it. Felt a little bad for that one. I hadn’t intended to be a human trafficker.
+        You weren’t paid extra either I bet 
+
+Shamus is cheap
+            Ackshually, it’s spelt “Seamus”
+                Semenus
+                Fucking Irish (as in Hibernian)
+        Dont feel bad. He will sell her for a good price. He sells other kinds of “wagons”
+    well...it sure as shit breaks the interaction though lol
+
+can't cover for everything in open world games
+        It makes it funny. What more do you want?
+            Mexico DLC
+                Undead nightmare 2!
+                    I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+                Sepia filter?
+                    waltuh
+                I heard that's going to be released the same day as Half-Life 3
+            Online content
+                For GTAV? Sure!
+                    Shark cards oo-haha
+                60fps with duelsense support
+            I don't want any more, I said devs can't cover for everything...they just can't
+
+I didn't mean to come off as disappointed or demanding
+            liars dice
+        [I can't not post this](https://youtu.be/Brp5iwZoCoc)
+            Actually laughed out loud at that, that's amazing
+                The comedic timing is astonishingly good, it's too perfect!
+            [Viva la Dirt League ](https://youtube.com/@VivaLaDirtLeague) needs to do a video based on this
+            Oh my god incredible 😭
+            This had me full on crying and snorting from how hard I was laughing, the comedic timing is impeccable 😂
+            I would like to give my humble thanks to you for this humorous video. I laughed so hard some spittle was expelled
+            I'd always get jump scared by these things even when intentionally hunting for them.
+            He heard food and decided it wasn’t time to die
+            Omg lol!
+            I cried laughing at this, the final part with uncle had me dying.
+            This is fucking hilarious! I laughed way too much at that
+            Since I hated the everloving shit out of John, I took great pleasure in watching that. Thank you.
+                What, why?
+                    He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+                        I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+                        Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+                            He’s a whiny lil bitch in rd1 too.
+                        Fair.
+            Eh it's a mod, but it's funny
+        Seemed pretty realistic to me
+            yea the fac that the dude just accepts a leaking oil tank on his property is especially realistic
+                You've clearly never fenced stolen oil drums before
+        are speedrunners using this? sounds like a wet dream for a glitcher.
+        ^damnit
+        Not being covered would be if neither character reacted.
+        At least he still got paid tho right
+    This has been a thing since Red Dead Revolver. I remember playing as Manny Quinn and setting people/myself on fire during cutscenes. Thought it was hilarious then, and still do now lol
+    the fact that that works is insane. 
+
+rockstar is incredible
+        Its not hard to make it work, they actually don't have to code anything special, just manipulate coordinates of objects so they stand in right place, detach the camera from player and start animations. They don't despawn the cart and spawn a new one for the cutscene, it's the exact same one and that's why it kept its holes.
+        [deleted]
+            most cut scenes do work like that, because it's far easier
+                [deleted]
+                    I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+                        MGSV had a pretty advanced level of interaction with the world
+                        Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+                            it's a game there supposed to be fun
+                            You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+                        [deleted]
+                            GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+                    They’re still incredible.
+                    It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+                        [deleted]
+                        The sheer irony of this statement.
+                        Oh fuck you you pretentious dick.
+            Oh shut the fuck up lol
+                Hah. I had the same reaction.
+            [deleted]
+    They don't really have a choice because the cutscene is not a video, it's actually still in the live game. The only reason we had video playback cutscenes was it was too hard to program/write all that junk into the live game. Also, the graphics were too crappy back then. But now, the graphics are so good that the cutscene can be done with live in-game footage.
+        But normally in other games, the explosion would happen, but the main character and the guy talking would act like nothing is happening, until the cutscene ends, and then they suddenly cry out in pain from being on fire.
+            Never change Bethesda. Never change.
+    It sucks when your horse wanders into a campfire and self immolates before you can end the conversation. Actually, now that I think back on it that was actually pretty awesome. I love this game
+    Yeah actually worked seamlessly with the cinematic
+        It's all in-engine, there was no cinematic or cutscene. It may seem pedantic but it's relevant because that's the reason it works.
+            It's a cinematic in-engine as opposed to a pre-rendered cinrmatic, or cutscene if you will since cinematics are often implied to be more .. cinematic
+                There was no cut, so it definitely wasn't a cutscene. It was an animation, not a cinematic.
+    Like the cougar in the house building scene! :)
+    
+
+https://youtu.be/Brp5iwZoCoc?si=n_2hzNyVEeUq8lzF
+        It just won’t leave him alone!
+    There's a lot of Youtube vids showing these things in RDR2 and it's hilarious. Where they intentionally throw dynamite (or what have you) and everyone is burning up as they're talking during the cutscenes. 
+
+There was one with Strauss and his face was melting. It was gruesome but funny to see him carry on the conversation like normal (and Rockstar's body deformation when they get burned is almost too real).
+    I wish other sections had this kind kind of freedom lmao. Usually it just fails if you do it slightly wrong.
+    Do we lose honor by doing this
+I will now
+    Came here to say this lol. Definitely gonna try!
+        Where did he get that Oil tanker anyways? I don't recall a mission driving one and never seen it before this clip.
+            Pouring Forth Oil is the mission but you can find them at Cornwall Kerosene And Tar and on the road in between there and Valentine
+    Ya I wanna run away as the fire tries to catch me
+Man this is gold, I love this! Thanks for sharing OP!
+    Black gold
+        Texas tea.
+            Next thing you know, ol' Jed's a millionaire
+                His friends all said, “Jed, move away from there!”
+                    Ol' Californee is the place you wanna be
+            We gotta move now, to Cal-ah-fore-nee,
+
+Be a Beverly Hill-Bill-Leeee^e^^e
+            Oil that is
+    hell nah they still exist 😭
+Well now that I've seen you do it, I don't have to try that particular thing, but this is useful knowledge for other shenanigans
+    Just slowly roll her right into the center of town
+        With your horse waiting to pick you up, then go ride back out to the starting point, light it then walk away in slow motion
+            I was gonna play another game tomorrow, almost finishing it. But that can wait. Saint denis bought to have a canon event
+    I now want to trot around town with a flame trail behind me
+    It’s really handy for stealing people’s supply wagons
+“Dammit”
+    “*Why does this keep HAPPENING TO ME?*”
+        “You’re telling me I’m a storybook character from a hundred years from now, living inside a fancy electric box? Mister, the craziest story I’ve ever heard!”
+            Is that an actual quote from the game?
+                No, just made it up with my best Arthur voice.
+                    Nice work!
+    "Okay, I'll catch ya later then."
+    The timing for all of it was too good.
+    It’s like this is such a minor inconvenience for him and a daily occurrence
+    "Not again"
+The fact you can do this is and the cutscene changes is crazy lol, Rockstar really the 🐐s*
+    The goat's what?
+        It’s pajamas?
+            It's bananas!
+                It's coming down the stairs!
+        It's a minor spelling mistake does it matter that much?
+            He’s just making joke’s
+                He’s making joke’s what?
+                    It's a minor spelling mistake, does it....
+
+Wait... Shit.
+                        woosh's
+                            Woosh's what?
+            Yes
+        Corrected 😂 I was high
+    [deleted]
+    It’s not that deep bro, it’s just a cutscene that plays in real time, it’s not like they went out of their way to make that a possibility it’s a happy accident
+        A lot of other games, the characters would not react to the explosion even if it’s in real time, it would just occur in the background.
+    It’s not really a cutscene though, it’s just a fixed camera with live gameplay
+    Rockstar really the 🐐s anus
+If AI ever tries to take over the world because of what it’s learned, it’ll be from how we’ve all treated that specific fence hahahahahhaa
+    It’s his hairline and voice I think
+        It's definitely the hair.. just shave it and grow a beard already dude lmao
+How many times did you blow yourself up before making it in though? That’s the real question
+    If you find the person who made this video, ask them I guess.
+I like how NPCs remember your previous misdeeds. I had probably shot up that one farm outside of emerald ranch about 20 times. Now, every time I ride by there they start shooting at me immediately.
+    If you change your horse, clothes and hair, you can reset that behaviour, but as soon as they catch you doing anything bad again they'll see through the disguise and be back to shooting you on sight.
+        I’ve never had luck getting this method to work :(
+        Ohhhhhh
+Arthur just gets up and says "damnit" and walks away.....
+The awkward walk away at the end is fantastic
+Makes “got something for you” sound a lot more menacing when you know what’s coming.
+    He still gets off all casually like even if he dies it’s still the funniest thing he’s ever done
+The main thing is, Artie got his $50 from Seamus right before it blows! Good timing!
+    $50?!
+
+He gives me $40 for a carriage...
+
+Oil must've been cheap as shit in those days for an entire tanker to only be worth a tenner.
+        or seamus is a cheapskate and gonna make bank with that oil
+Reminds me of a video where a player got off the horse just before a cutscene of the group riding a long distance. So Arthur just runs beside the others who are riding.
+
+Edit [found it](https://youtu.be/rZyrAhX63l0?si=FJgtSgopdjEizg-1)
+    That music tho
+    I've done that in the mission. It doesn't outright fail, but you cannot progress without the horse, your horse is still have way to Colter, and you cannot whistle for it at that range.
+    The same thing happened to me accidentally in the mission you capture Ramon Cortez with Sadie lmaoooo
+I’d love to try this in vanhorn
+    I was JUST thinking what would be the best place to do this and you nailed it on the head. Thanks for the idea!
+    RemindMe! 28 days
+    Did you try it in Vanhorn?
+    RemindMe! 1 week
+        I will be messaging you in 7 days on [**2023-12-03 22:12:27 UTC**](http://www.wolframalpha.com/input/?i=2023-12-03%2022:12:27%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/kaw6kjc/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Freddeadredemption2%2Fcomments%2F1849zcb%2Fanyone_tried_this%2Fkaw6kjc%2F%5D%0A%0ARemindMe%21%202023-12-03%2022%3A12%3A27%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201849zcb)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+Still blows my mind how old this game is. Also that they created this insanely in-depth world and did nothing else with it. No DLC? They could kept this game going for years, but instead wanted to focus on online and make it a half assed gta5 online. Could have just put all resources into single player content
+    They didn’t really do much with online either. Rockstar resources goes mostly to managing GTA Online.
+    I hate to say it, but sounds like the time of the Story DLC is dead. Don't look back.
+
+Because game production is more expensive and takes longer, I see them "sorta" releasing DLC in the online mode, the way they continued Lamar and Franklin's story in the GTA Online DLC. That way, Rockstar somewhat satisfies fans wanting some story DLC but Rockstar sneakily makes money back with the microtransactions. Such is the way now.
+        It’s just odd that they still could have made money off of content had they just put out more single player content
+    Shit, even online would have been cool if they had some sort of regular co-op instead of the weird one-off mission things.
+I’ve played this game for 1,183 hours, and I’ve never known you could do this. It’s incredible that I’m still learning new things about it.
+Looks like money exchanged hands.  No refunds
+    Seems like a clean wholesome transaction. I see nothing wrong here.
+Absolutely brilliant
+At least one person has
+Real time cutscenes are superior
+Now I'm gonna have to drive through Valentine.
+I've never done that but sometimes I take the flammable moonshine draw bullseyes on the ground with it ride my horse up to a small adjacent cliff jump of and try to crash down in the middle. Kinda like horse darts for online. I also like to hogtie NPCs and use my horse rearing to stomp them to death. Good times man.
+What did we saying about literally ghost riding the whip
+"You're a good man, Arthur Morgan"
+Did u really rip the youtube short and reuploaded it so you dont have to give credit or whats going on here?
+🤣
+Does he respawn?
+    He’ll respawn but he’ll be all bandaged up from his injuries. It’s awesome
+    Yes all fencekeepers respawn after they get killed. Same with storekeepers and bartenders
+        And trappers. I saw a guy on YouTube accidentally shoot one and he respawned a couple days later still with a bloody chest lol.
+    Yup I killed him 3 times yesterday, lol.
+Lmao
+😂😂
+LOL!
+"dammit"
+    HAPPY CAKE DAY DAMMIT
+And yet another “I didn’t even know you could do that” moment this game keeps delivering years after release
+Gotta shake that shit off, playa. 🤣
+This is the funniest shit I've seen all day.
+man, the fact that you can do this in a game is mind boggling
+You kill them horses
+I always sell the oil wagons at the fence. The man gives really good money.
+Yippykayo, Motherfucker!
+    First thing that came to mind. Now I have urge to watch Die Hard 2.
+Arthur: Damnit!
+Lmao this is funny as fuck
+And killed the horses?  This is worse than killing the dog.
+You Sir are now my hero.
+
+That was satisfying in every possible way.
+Reason #5046 why live cutscenes are the best
+“When this wagon hits 8.8 mph you’re going to see some serious shit!”
+That took time to come up with and the cutscene that covered it, amazing. This fuggin game is THE BEST EVER.
+“Dammit.”
+[deleted]
+    Actually pretty realistic. No air means no explosion.
+Saint Dennis is about to suffer my next episode of Violence, Thank you OP.
+When this baby hits 88 miles per hour, you're gonna see some serious shit
+Awesome. Just another statement of the details that Rockstar added to this amazing game.
+I frickin love this game
+This is so weird, I was just taking wagons to the fence like 20 minutes ago.
+I’ve never had any luck finding the oil wagon but that is pretty cool and I imagine it pays the most of any of the wagons you can sell at the fence
+    They’re quite common, they spawn in their natural habitat at the Cornwall Oil Fields.
+        Ohh, well thank you for the info 🤠
+Didn't know Seamus had unique dialogue if you bring him oil wagons
+    ^[Sokka-Haiku](https://www.reddit.com/r/SokkaHaikuBot/comments/15kyv9r/what_is_a_sokka_haiku/?utm_source=share&utm_medium=web2x&context=3) ^by ^sharky1500_:
+
+*Didn't know Seamus*
+
+*Had unique dialogue if*
+
+*You bring him oil wagons*
+
+---
+^Remember ^that ^one ^time ^Sokka ^accidentally ^used ^an ^extra ^syllable ^in ^that ^Haiku ^Battle ^in ^Ba ^Sing ^Se? ^That ^was ^a ^Sokka ^Haiku ^and ^you ^just ^made ^one.
+God I hope this works. Ima drive thru Saint Denis burning people to ground cause I’m an asshole
+Perfectly timed boom
+Rockstar please never fail us, like every other gaming company.
+LMAO! That’s funny!
+Great job burning horses alive, you sick people
+I’m in love with you.
+Hmmm Seamus would never buy those from me! That's pretty awesome!
+Arthur: *sigh* dammit
+Wow! This is so awesome! Poor horse lol
+No but I bloody want to now
+WHATTT I didnt know you could do this that’s so cool
+The horses are OK, right?
+Fucking devious lmao
+Nice work, 47.
+The way he looks at the holes for a few seconds
+*A LITERAL EXPLOSION*
+Arthur: dammit
+That was fucking amazing. Bravo 👏
+I never find oil wagon in free roam, how i played over 400 h now
+Years ago.
+I like to lay some tied up O’Driscolls up on there
+Nope. No one.
+Game is to real men
+[removed]
+    Bots
+        I can assure you i am not a bot.
+    Is this pasta? It's really good.
+    WHA?????
+
+Whatever you take, take half of it from now on...
+Epic !
+RDR2 amor a los detalles!
+this game.. they think of everything
+Rip horses
+    Goodbye horses
+Hell yeah
+[removed]
+    Hello /u/Celestial_Mystic_Son, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+Sensible chuckle
+Leaking forth oil
+ mmmmm long pig.
+That’s so fucking awesome what!!! I wanna try that now
+I was already enjoying the video and then I saw you were selling the wagon and omg that was so great. Thanks for the lolz.
+🤣🤣🤣
+😂😂😂
+Incredible!
+ Lmaooo that’s a new one
+hahaha what the hell dude
+Hilarious
+And the horses?!
+u/savevideo
+    ###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+lol he paid you too
+Anyone else notice his arm blow off and then suddenly reappear
+But did you get paid?
+Seamus dies? He can do that?!?!
+Do you get wanted for car bombing people?
+Got a good laugh out of this. Then I read some of the comments....and I thought I was harsh with my playing. Some of you take the cake 👀👀
+Damn Arthur is a tank
+Does the guy respawn though?
+No, but I'm glad you did it haha
+This game is the best ever made. The developers thought of almost every little thing possible to do
+Uh.the.horses?
+I did not know you can light the oil on fire
+Thats was amazing
+I love Rockstar
+[removed]
+    Hello /u/Blackwater_Gentlemen, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+Was that red beating thing the dude's heart? Like, did you explode his beating heart outta his body?
+This is art
+What a wonderful clip.
+The best game ever developed
+Lmfao
+Poor horses
+rockstar job description: attention to detail
+Brilliant!!
+No wonder gta 6 is taking time
+This is absolutely crazy...
+Looks like a blast!
+Poor horsie :(
+“Mission passed, respect +”
+Lmao
+
+It blows his arm off, but the cutscene respawns it onto his corpse with the old one lying next to him.
+This was great 🤣
+What about the horse someone probably
+He'll be fine
+I thought Arthur was going to reach 88mph on that sucker.
+🤣🤣🤣
+Did he respawn?
+The fuck did the horses do to deserve that?
+And just like that his plans for the afternoon changed.
+
+ _Grabs keyboard_
+Bah god!
+*nervously looks back at fire trail*
+This was funny as fuck. “ Got something for ya…”
+How long does it leak oil for? Is it unlimited or does it have real contents?
+[removed]
+    Hello /u/First-Fact-7007, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+One less Fence in the world.
+My favorite game dude
+😂😂😂
+Poor horse
+Dammit.
+Damm I miss this game. First thing I'm buying when I get a console back.
+I can't stop laughing!
+That was amazing! Reminds me of a time I escaped the law and I don’t think the game expected me to ride into the water with my crew. Next thing I knew the cutscene was all of us completely underwater talking about the next part of the plan, complete with air bubbles leaving Arthur’s mouth while he talked. Was laughing so hard
+Nice repost
+    Ditto
+“Oil!” 
+
+As he looks at it draining out the two bullet holes
+Amazing.  Well done!
+that’s AWESOME
+How many attempts did it take before you pulled it off?
+Well no but im not suprised it works
+shoot the enter tank, nothing happens.
+
+shoot the trail of oil, lights up on fire
+Creative as hell!
+Good to know the ol flame trail mechanic from gta carried over to rdr2
+He handed the money over just in time ;)
+Love how the guy just drops the payment into Arthur's hand and the tank just explodes, abruptly interrupting the cutscene. Wish more games did that.
+Fuck yea
+Wow I can't believe I haven't thought of this. I tried all kinds of stupid things with the oil wagons. My fav was backing up to the entrance of a saloon and throwing dynamite at it.
+The cutscenese allow this kind of stupidity but you steer away during the actual mission and you fail.
+Lol good thinking ive never even turned in an oil cart but this was entertaining
+Good thing Seamus paid you first.
+I love this game so much. Kinda got a little depressed after I finished it since there’s no other games out there that compare to it
+Nope but nice didn't know you could do that
+You can light the fucking OIl? I had no idea.
+This is awesome. 
+
+Wish I could get another oil cart.
+Lol amazing!
+God I love this game. If GTA6 is like this, it’s gonna be a game changer
+bruh lol. “damnit!”
+No because I don’t have the game because I’m poor
+This is like a looney tunes cartoon. There was an episode called bunker hill bunny where they did this exact same thing.
+I miss that game so much I need a new Xbox
+God, I love the shit that gamers come up with
+What’s extra cool is the oil only empty’s to the line. So if you were to shoot under those holes, more will come out.
+I love this sub.
+I really need to get back into this game
+You sir are a genius
+Bro I’m high asf, I though he said All in all 😂😂😂🚗
+Where can you get that tanker or whatever it is called
+These are fun too:
+
+https://m.youtube.com/watch?v=t-dftPzi5Do
+
+https://m.youtube.com/watch?v=DQ4Rnj-qCVM
+Wanna replay this game so bad
+I can't remember the PS2 game that did something similar except you couldn't just shoot the trail you had to get the muzzle flash to strike the fuel. Unless you had incendiary ammo.
+Nice game!
+Dam'it.
+This was amazing
+JESUS CHRIST, I gasped outloud
+Well, obviously. Or else there wouldn't have been a video of it.
+Yeah the person on highlightreel a few days ago. Assuming thats where you got the idea from.
+Exquisite
+I felt bad for the horse. 🥲🥲🥲
+
+It's great to be able to do that kind of things though.
+😂🤣😂🤣
+Professor Odd
+
+Nurse Weird
+
+Mr.Awkward MD
+did he get payed
+Wow. This game still amazes me!!!
+They should keep developing the game and add more to it!
+That’s awesome!
+Wow I did not but you can actually sell them but whatever :/
+Clever
+When this game launched someone uploaded a vídeo of a family chasing arthur through the whole map.
+
+I need it!
+Lmao
+You know how to makie friends
+Don’t spend it all in one place
+[Oh Arthur](https://www.reddit.com/r/reddeadredemption2/s/kuXZHA2pft)
+I tried this right after I found the third meteorite and lost it :( can’t go back and get it either.
+That’s the evilest thing I can imagine
+No I like horses
+I bough this game on Friday. Wanted to play it for years after hearing it’s so good. I wasn’t prepared for how slow everything is. Just walking or doing anything feels like I’m moving through molasses. Sticking with it for a few hours, spending way too much time riding horse from place to place. The gun reticle is a small dot. The controls are a mess. Hold this and press this, hold this then release this. I accidentally shot my gun at a wood fence and got a bounty. All I’m doing is dirty work for Dutch. The game is a massive slow grind. Not sure I can hang. Maybe uninstall soon but hate to waste the money. It’s real nice visually but too dang slow and grindy. It feels like a western survival sim. I thought it was an rpg/3rd person shooter. Maybe a really overrated game, or just not for me. Maybe both. It really bugs me that you can’t bring some boys along by your choice for a mission. Also really bugs me you can’t manually save during a mission.
+    You basically follow the story, complete mission and advance thru the chapters. This way you'll finish the game in no time.
+
+BUT, the majority here (including myself), like the other stuffs. When you are not doing missions, you can roam around, explore places, hunt, do fishing, treasure hunting, train robbery etc.
+
+Mission wise, it is not a big game, but everything else is very detailed, you can spend months doing stuff. 
+
+To me, this game is one of the best games (if not THE best) ever created.
+
+Just take a look at this video above. I've played this game for over a year & I didn't know that I could do it! That's insane.
+you’re a good man arthur morgan
+This was epic. Omfg funny
+“Dammit”
+Oh shit I didn’t watch it all the way thru!! Good rockstart is awesome even tho they suck ass for making invisible snipers and forcing you to do shit
+u/savevideo
+    ###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+I’ll be back
+that was awesome
+Ollie ahkbar
+Ain’t no way this game this detailed. I need to finish
+I did try to do this. Seamus would not buy the cart, he wouldn’t open the doors. There was a pop up explaining why, but I don’t remember what it said.
+😂😂😂🤣🤣
+When this baby gets up to 8mph, you're gonna see some serious shit
+Well done, 47
+Came here to say this lol. Definitely gonna try!
+Cutscene skips be like
+Hell, I'm impressed.
+Lmao
+I had no idea that it worked like that and it’s so cool that it does.
+The new Oregon trail looks wild
+It's been established that horses can't get up to 88 miles an hour. You need a steam train with some boosted fuel. That should fix your explosion problems.
+No but I'm going to now
+Reminds me of Golden Eye where you can throw a grande out of a window just before a mission ends and then in the cutscene it explodes.
+Thought OP was doing some weird version of Snake. Was not disappointed.
+Still learning new things about this game… wow
+Rdr2 never fails to amaze me
+Not yet
+how much does the fence pay you for oil?
+😂😂😂
+didn';t even get paid.
+Back to the future style
+bros a trailblazer
+The amount of details in this game....such a gem
+Lmao great work
+Do it on the first Reverend Swanson mission. You can chase the oil guy for a long time.
+“Damnit.”
+That's hilarious 😂
+This is why real time cutscenes are the best
+"Ugh, damn it."  LMAO
+This game never ceases to amaze me
+Those poor horses
+Amazing
+How is this not the greatest game of all time.
+    It is
+😂 that’s ace, did u still get paid
+Prepare to have your video reuploaded to YouTube titled "This is why real time cutscenes are superior"
+Lol
+Hahahahaha amazing
+Always a buyer for oi- aaaaaaaaaah
+Bro got the top post in the entire subreddit in just 3 days. Congrats!
+That is funny as hell, 🤣
+this game is fucking amazing haha.
+I love Arthur’s look of like “what the fuck” as if he had no clue how that happened
+That chicken at the end
+Y’all doing that while I’m still on chapter 1 story mode 💀
+I have had sex 202 times and only 2 were women
+The “damnit” as he gets up makes it. Laughed way too hard at that.
+Fuc&$:g awesome
+Does Seamus survive? Because I don't think this is part of the story.
+I've got a plan! Imma do this but instead take it back to camp and put the wagon next to Micah 😌
+No, because that’s my go to fence and him dying is bad for business
+Wow
+![gif](emote|free_emotes_pack|joy)
+"Got something here for you."
+You sir. Are the smartest person alive.
+If you ain't ever done this, you ain't a real RDR2 fan.
+That was really cool
+This is the greatest game
+I once threw a dynamite just before starting a mission where hosea and Seamus are sitting together. Seamus was killed and hosea still did the mission with injuries
+Most detailed and immersive video game of all time. Adding an amazing story only helped solidify it as my favorite. They outdid themselves with this one. Fingers crossed for gta 6
+I was going to post this clip earlier then the algorithm threw it on my feed, 25 days late. Almost like it was telling me “nope, that’s a repost, dumbass”.
+
+Anyways, got somethin’ here for ya.
+That’s great 😂🤣 poor guy just wanted to buy a stolen wagon 😂🤣
+Epic
+That is absolutely twisted af. I love it. Fuck that two-bit, cheap hick, anyway
+Yes I have
+bro i gotta try that wtf 🤣🤣🤣
+So going to try his
+This game is amazing
+That’s unbelievable. How awesome is that!!!  Love it
+Next time I see an oil wagon I'm blowing it up cause it just killed my horse
+No, I will inevitably die haha. That's some real outlaw shit🍻😂
+no bro that’s just you
+“Oil, good-“ Not so good now is it?
+Does he respawn
+Did you get the cash for it? Or did explosion cut it off
+That was funny
+Hilarious
+But did he get paid?
+Never thought to kill shamus I needed his loot 😂
+‘Do I still get paid?’
+Where can you find one?
+“Dammit.”
+This is why R* games are SO FUN. I love doing things like this in missions trying to kill NPC’s that aren’t supposed to die. You can do something 6 years later that nobody else has ever thought of.
+Imagine you go slightly faster with no oil in it. That's peak game detail right there.
+Nope, but I am now🤣🤣🤣🤣
+Ur so mad boy
+I never tried it before!
+You stole this video and got 40k views you are a Disgrace
+🤣🤣🤣
+Lmao! Poor Seamus
+Ok now someone do this and ride into a clan meeting. Ok, I’ll try..
+u/savevideo
+    ###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+The details are insane
+what a nice detail tbh lol
+The the attention to detail is absolutely amazing in this game!
+I stole a wagon one time that had a woman on it who never got off.  I assumed she would just be gone, or hop off before the wagon pulled into the barn. Nope. Rolled right in there with her and as the doors closed she was still sitting on it. Felt a little bad for that one. I hadn’t intended to be a human trafficker.
+    You weren’t paid extra either I bet 
+
+Shamus is cheap
+        Ackshually, it’s spelt “Seamus”
+            Semenus
+            Fucking Irish (as in Hibernian)
+    Dont feel bad. He will sell her for a good price. He sells other kinds of “wagons”
+well...it sure as shit breaks the interaction though lol
+
+can't cover for everything in open world games
+    It makes it funny. What more do you want?
+        Mexico DLC
+            Undead nightmare 2!
+                I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+            Sepia filter?
+                waltuh
+            I heard that's going to be released the same day as Half-Life 3
+        Online content
+            For GTAV? Sure!
+                Shark cards oo-haha
+            60fps with duelsense support
+        I don't want any more, I said devs can't cover for everything...they just can't
+
+I didn't mean to come off as disappointed or demanding
+        liars dice
+    [I can't not post this](https://youtu.be/Brp5iwZoCoc)
+        Actually laughed out loud at that, that's amazing
+            The comedic timing is astonishingly good, it's too perfect!
+        [Viva la Dirt League ](https://youtube.com/@VivaLaDirtLeague) needs to do a video based on this
+        Oh my god incredible 😭
+        This had me full on crying and snorting from how hard I was laughing, the comedic timing is impeccable 😂
+        I would like to give my humble thanks to you for this humorous video. I laughed so hard some spittle was expelled
+        I'd always get jump scared by these things even when intentionally hunting for them.
+        He heard food and decided it wasn’t time to die
+        Omg lol!
+        I cried laughing at this, the final part with uncle had me dying.
+        This is fucking hilarious! I laughed way too much at that
+        Since I hated the everloving shit out of John, I took great pleasure in watching that. Thank you.
+            What, why?
+                He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+                    I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+                    Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+                        He’s a whiny lil bitch in rd1 too.
+                    Fair.
+        Eh it's a mod, but it's funny
+    Seemed pretty realistic to me
+        yea the fac that the dude just accepts a leaking oil tank on his property is especially realistic
+            You've clearly never fenced stolen oil drums before
+    are speedrunners using this? sounds like a wet dream for a glitcher.
+    ^damnit
+    Not being covered would be if neither character reacted.
+    At least he still got paid tho right
+This has been a thing since Red Dead Revolver. I remember playing as Manny Quinn and setting people/myself on fire during cutscenes. Thought it was hilarious then, and still do now lol
+the fact that that works is insane. 
+
+rockstar is incredible
+    Its not hard to make it work, they actually don't have to code anything special, just manipulate coordinates of objects so they stand in right place, detach the camera from player and start animations. They don't despawn the cart and spawn a new one for the cutscene, it's the exact same one and that's why it kept its holes.
+    [deleted]
+        most cut scenes do work like that, because it's far easier
+            [deleted]
+                I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+                    MGSV had a pretty advanced level of interaction with the world
+                    Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+                        it's a game there supposed to be fun
+                        You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+                    [deleted]
+                        GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+                They’re still incredible.
+                It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+                    [deleted]
+                    The sheer irony of this statement.
+                    Oh fuck you you pretentious dick.
+        Oh shut the fuck up lol
+            Hah. I had the same reaction.
+        [deleted]
+They don't really have a choice because the cutscene is not a video, it's actually still in the live game. The only reason we had video playback cutscenes was it was too hard to program/write all that junk into the live game. Also, the graphics were too crappy back then. But now, the graphics are so good that the cutscene can be done with live in-game footage.
+    But normally in other games, the explosion would happen, but the main character and the guy talking would act like nothing is happening, until the cutscene ends, and then they suddenly cry out in pain from being on fire.
+        Never change Bethesda. Never change.
+It sucks when your horse wanders into a campfire and self immolates before you can end the conversation. Actually, now that I think back on it that was actually pretty awesome. I love this game
+Yeah actually worked seamlessly with the cinematic
+    It's all in-engine, there was no cinematic or cutscene. It may seem pedantic but it's relevant because that's the reason it works.
+        It's a cinematic in-engine as opposed to a pre-rendered cinrmatic, or cutscene if you will since cinematics are often implied to be more .. cinematic
+            There was no cut, so it definitely wasn't a cutscene. It was an animation, not a cinematic.
+Like the cougar in the house building scene! :)
+    
+
+https://youtu.be/Brp5iwZoCoc?si=n_2hzNyVEeUq8lzF
+    It just won’t leave him alone!
+There's a lot of Youtube vids showing these things in RDR2 and it's hilarious. Where they intentionally throw dynamite (or what have you) and everyone is burning up as they're talking during the cutscenes. 
+
+There was one with Strauss and his face was melting. It was gruesome but funny to see him carry on the conversation like normal (and Rockstar's body deformation when they get burned is almost too real).
+I wish other sections had this kind kind of freedom lmao. Usually it just fails if you do it slightly wrong.
+Do we lose honor by doing this
+Came here to say this lol. Definitely gonna try!
+    Where did he get that Oil tanker anyways? I don't recall a mission driving one and never seen it before this clip.
+        Pouring Forth Oil is the mission but you can find them at Cornwall Kerosene And Tar and on the road in between there and Valentine
+Ya I wanna run away as the fire tries to catch me
+Black gold
+    Texas tea.
+        Next thing you know, ol' Jed's a millionaire
+            His friends all said, “Jed, move away from there!”
+                Ol' Californee is the place you wanna be
+        We gotta move now, to Cal-ah-fore-nee,
+
+Be a Beverly Hill-Bill-Leeee^e^^e
+        Oil that is
+hell nah they still exist 😭
+Just slowly roll her right into the center of town
+    With your horse waiting to pick you up, then go ride back out to the starting point, light it then walk away in slow motion
+        I was gonna play another game tomorrow, almost finishing it. But that can wait. Saint denis bought to have a canon event
+I now want to trot around town with a flame trail behind me
+It’s really handy for stealing people’s supply wagons
+“*Why does this keep HAPPENING TO ME?*”
+    “You’re telling me I’m a storybook character from a hundred years from now, living inside a fancy electric box? Mister, the craziest story I’ve ever heard!”
+        Is that an actual quote from the game?
+            No, just made it up with my best Arthur voice.
+                Nice work!
+"Okay, I'll catch ya later then."
+The timing for all of it was too good.
+It’s like this is such a minor inconvenience for him and a daily occurrence
+"Not again"
+The goat's what?
+    It’s pajamas?
+        It's bananas!
+            It's coming down the stairs!
+    It's a minor spelling mistake does it matter that much?
+        He’s just making joke’s
+            He’s making joke’s what?
+                It's a minor spelling mistake, does it....
+
+Wait... Shit.
+                    woosh's
+                        Woosh's what?
+        Yes
+    Corrected 😂 I was high
+[deleted]
+It’s not that deep bro, it’s just a cutscene that plays in real time, it’s not like they went out of their way to make that a possibility it’s a happy accident
+    A lot of other games, the characters would not react to the explosion even if it’s in real time, it would just occur in the background.
+It’s not really a cutscene though, it’s just a fixed camera with live gameplay
+Rockstar really the 🐐s anus
+It’s his hairline and voice I think
+    It's definitely the hair.. just shave it and grow a beard already dude lmao
+If you find the person who made this video, ask them I guess.
+If you change your horse, clothes and hair, you can reset that behaviour, but as soon as they catch you doing anything bad again they'll see through the disguise and be back to shooting you on sight.
+    I’ve never had luck getting this method to work :(
+    Ohhhhhh
+He still gets off all casually like even if he dies it’s still the funniest thing he’s ever done
+$50?!
+
+He gives me $40 for a carriage...
+
+Oil must've been cheap as shit in those days for an entire tanker to only be worth a tenner.
+    or seamus is a cheapskate and gonna make bank with that oil
+That music tho
+I've done that in the mission. It doesn't outright fail, but you cannot progress without the horse, your horse is still have way to Colter, and you cannot whistle for it at that range.
+The same thing happened to me accidentally in the mission you capture Ramon Cortez with Sadie lmaoooo
+I was JUST thinking what would be the best place to do this and you nailed it on the head. Thanks for the idea!
+RemindMe! 28 days
+Did you try it in Vanhorn?
+RemindMe! 1 week
+    I will be messaging you in 7 days on [**2023-12-03 22:12:27 UTC**](http://www.wolframalpha.com/input/?i=2023-12-03%2022:12:27%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/kaw6kjc/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Freddeadredemption2%2Fcomments%2F1849zcb%2Fanyone_tried_this%2Fkaw6kjc%2F%5D%0A%0ARemindMe%21%202023-12-03%2022%3A12%3A27%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201849zcb)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+They didn’t really do much with online either. Rockstar resources goes mostly to managing GTA Online.
+I hate to say it, but sounds like the time of the Story DLC is dead. Don't look back.
+
+Because game production is more expensive and takes longer, I see them "sorta" releasing DLC in the online mode, the way they continued Lamar and Franklin's story in the GTA Online DLC. That way, Rockstar somewhat satisfies fans wanting some story DLC but Rockstar sneakily makes money back with the microtransactions. Such is the way now.
+    It’s just odd that they still could have made money off of content had they just put out more single player content
+Shit, even online would have been cool if they had some sort of regular co-op instead of the weird one-off mission things.
+Seems like a clean wholesome transaction. I see nothing wrong here.
+He’ll respawn but he’ll be all bandaged up from his injuries. It’s awesome
+Yes all fencekeepers respawn after they get killed. Same with storekeepers and bartenders
+    And trappers. I saw a guy on YouTube accidentally shoot one and he respawned a couple days later still with a bloody chest lol.
+Yup I killed him 3 times yesterday, lol.
+HAPPY CAKE DAY DAMMIT
+First thing that came to mind. Now I have urge to watch Die Hard 2.
+Actually pretty realistic. No air means no explosion.
+They’re quite common, they spawn in their natural habitat at the Cornwall Oil Fields.
+    Ohh, well thank you for the info 🤠
+^[Sokka-Haiku](https://www.reddit.com/r/SokkaHaikuBot/comments/15kyv9r/what_is_a_sokka_haiku/?utm_source=share&utm_medium=web2x&context=3) ^by ^sharky1500_:
+
+*Didn't know Seamus*
+
+*Had unique dialogue if*
+
+*You bring him oil wagons*
+
+---
+^Remember ^that ^one ^time ^Sokka ^accidentally ^used ^an ^extra ^syllable ^in ^that ^Haiku ^Battle ^in ^Ba ^Sing ^Se? ^That ^was ^a ^Sokka ^Haiku ^and ^you ^just ^made ^one.
+Bots
+    I can assure you i am not a bot.
+Is this pasta? It's really good.
+WHA?????
+
+Whatever you take, take half of it from now on...
+Goodbye horses
+Hello /u/Celestial_Mystic_Son, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+Hello /u/Blackwater_Gentlemen, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+Hello /u/First-Fact-7007, welcome to our subreddit. Due to spam, we require users to have at least 3 day old accounts. Please DO NOT send modmails regarding this. You will be able to post freely after the proper account age.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/reddeadredemption2) if you have any questions or concerns.*
+Ditto
+You basically follow the story, complete mission and advance thru the chapters. This way you'll finish the game in no time.
+
+BUT, the majority here (including myself), like the other stuffs. When you are not doing missions, you can roam around, explore places, hunt, do fishing, treasure hunting, train robbery etc.
+
+Mission wise, it is not a big game, but everything else is very detailed, you can spend months doing stuff. 
+
+To me, this game is one of the best games (if not THE best) ever created.
+
+Just take a look at this video above. I've played this game for over a year & I didn't know that I could do it! That's insane.
+###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+It is
+###[View link](https://rapidsave.com/info?url=/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/reddeadredemption2/comments/1849zcb/anyone_tried_this/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)
+You weren’t paid extra either I bet 
+
+Shamus is cheap
+    Ackshually, it’s spelt “Seamus”
+        Semenus
+        Fucking Irish (as in Hibernian)
+Dont feel bad. He will sell her for a good price. He sells other kinds of “wagons”
+It makes it funny. What more do you want?
+    Mexico DLC
+        Undead nightmare 2!
+            I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+        Sepia filter?
+            waltuh
+        I heard that's going to be released the same day as Half-Life 3
+    Online content
+        For GTAV? Sure!
+            Shark cards oo-haha
+        60fps with duelsense support
+    I don't want any more, I said devs can't cover for everything...they just can't
+
+I didn't mean to come off as disappointed or demanding
+    liars dice
+[I can't not post this](https://youtu.be/Brp5iwZoCoc)
+    Actually laughed out loud at that, that's amazing
+        The comedic timing is astonishingly good, it's too perfect!
+    [Viva la Dirt League ](https://youtube.com/@VivaLaDirtLeague) needs to do a video based on this
+    Oh my god incredible 😭
+    This had me full on crying and snorting from how hard I was laughing, the comedic timing is impeccable 😂
+    I would like to give my humble thanks to you for this humorous video. I laughed so hard some spittle was expelled
+    I'd always get jump scared by these things even when intentionally hunting for them.
+    He heard food and decided it wasn’t time to die
+    Omg lol!
+    I cried laughing at this, the final part with uncle had me dying.
+    This is fucking hilarious! I laughed way too much at that
+    Since I hated the everloving shit out of John, I took great pleasure in watching that. Thank you.
+        What, why?
+            He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+                I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+                Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+                    He’s a whiny lil bitch in rd1 too.
+                Fair.
+    Eh it's a mod, but it's funny
+Seemed pretty realistic to me
+    yea the fac that the dude just accepts a leaking oil tank on his property is especially realistic
+        You've clearly never fenced stolen oil drums before
+are speedrunners using this? sounds like a wet dream for a glitcher.
+^damnit
+Not being covered would be if neither character reacted.
+At least he still got paid tho right
+Its not hard to make it work, they actually don't have to code anything special, just manipulate coordinates of objects so they stand in right place, detach the camera from player and start animations. They don't despawn the cart and spawn a new one for the cutscene, it's the exact same one and that's why it kept its holes.
+[deleted]
+    most cut scenes do work like that, because it's far easier
+        [deleted]
+            I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+                MGSV had a pretty advanced level of interaction with the world
+                Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+                    it's a game there supposed to be fun
+                    You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+                [deleted]
+                    GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+            They’re still incredible.
+            It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+                [deleted]
+                The sheer irony of this statement.
+                Oh fuck you you pretentious dick.
+    Oh shut the fuck up lol
+        Hah. I had the same reaction.
+    [deleted]
+But normally in other games, the explosion would happen, but the main character and the guy talking would act like nothing is happening, until the cutscene ends, and then they suddenly cry out in pain from being on fire.
+    Never change Bethesda. Never change.
+It's all in-engine, there was no cinematic or cutscene. It may seem pedantic but it's relevant because that's the reason it works.
+    It's a cinematic in-engine as opposed to a pre-rendered cinrmatic, or cutscene if you will since cinematics are often implied to be more .. cinematic
+        There was no cut, so it definitely wasn't a cutscene. It was an animation, not a cinematic.
+It just won’t leave him alone!
+Where did he get that Oil tanker anyways? I don't recall a mission driving one and never seen it before this clip.
+    Pouring Forth Oil is the mission but you can find them at Cornwall Kerosene And Tar and on the road in between there and Valentine
+Texas tea.
+    Next thing you know, ol' Jed's a millionaire
+        His friends all said, “Jed, move away from there!”
+            Ol' Californee is the place you wanna be
+    We gotta move now, to Cal-ah-fore-nee,
+
+Be a Beverly Hill-Bill-Leeee^e^^e
+    Oil that is
+With your horse waiting to pick you up, then go ride back out to the starting point, light it then walk away in slow motion
+    I was gonna play another game tomorrow, almost finishing it. But that can wait. Saint denis bought to have a canon event
+“You’re telling me I’m a storybook character from a hundred years from now, living inside a fancy electric box? Mister, the craziest story I’ve ever heard!”
+    Is that an actual quote from the game?
+        No, just made it up with my best Arthur voice.
+            Nice work!
+It’s pajamas?
+    It's bananas!
+        It's coming down the stairs!
+It's a minor spelling mistake does it matter that much?
+    He’s just making joke’s
+        He’s making joke’s what?
+            It's a minor spelling mistake, does it....
+
+Wait... Shit.
+                woosh's
+                    Woosh's what?
+    Yes
+Corrected 😂 I was high
+A lot of other games, the characters would not react to the explosion even if it’s in real time, it would just occur in the background.
+It's definitely the hair.. just shave it and grow a beard already dude lmao
+I’ve never had luck getting this method to work :(
+Ohhhhhh
+or seamus is a cheapskate and gonna make bank with that oil
+I will be messaging you in 7 days on [**2023-12-03 22:12:27 UTC**](http://www.wolframalpha.com/input/?i=2023-12-03%2022:12:27%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/reddeadredemption2/comments/1849zcb/anyone_tried_this/kaw6kjc/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Freddeadredemption2%2Fcomments%2F1849zcb%2Fanyone_tried_this%2Fkaw6kjc%2F%5D%0A%0ARemindMe%21%202023-12-03%2022%3A12%3A27%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201849zcb)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+It’s just odd that they still could have made money off of content had they just put out more single player content
+And trappers. I saw a guy on YouTube accidentally shoot one and he respawned a couple days later still with a bloody chest lol.
+Ohh, well thank you for the info 🤠
+I can assure you i am not a bot.
+Ackshually, it’s spelt “Seamus”
+    Semenus
+    Fucking Irish (as in Hibernian)
+Mexico DLC
+    Undead nightmare 2!
+        I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+    Sepia filter?
+        waltuh
+    I heard that's going to be released the same day as Half-Life 3
+Online content
+    For GTAV? Sure!
+        Shark cards oo-haha
+    60fps with duelsense support
+I don't want any more, I said devs can't cover for everything...they just can't
+
+I didn't mean to come off as disappointed or demanding
+liars dice
+Actually laughed out loud at that, that's amazing
+    The comedic timing is astonishingly good, it's too perfect!
+[Viva la Dirt League ](https://youtube.com/@VivaLaDirtLeague) needs to do a video based on this
+Oh my god incredible 😭
+This had me full on crying and snorting from how hard I was laughing, the comedic timing is impeccable 😂
+I would like to give my humble thanks to you for this humorous video. I laughed so hard some spittle was expelled
+I'd always get jump scared by these things even when intentionally hunting for them.
+He heard food and decided it wasn’t time to die
+Omg lol!
+I cried laughing at this, the final part with uncle had me dying.
+This is fucking hilarious! I laughed way too much at that
+Since I hated the everloving shit out of John, I took great pleasure in watching that. Thank you.
+    What, why?
+        He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+            I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+            Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+                He’s a whiny lil bitch in rd1 too.
+            Fair.
+Eh it's a mod, but it's funny
+yea the fac that the dude just accepts a leaking oil tank on his property is especially realistic
+    You've clearly never fenced stolen oil drums before
+most cut scenes do work like that, because it's far easier
+    [deleted]
+        I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+            MGSV had a pretty advanced level of interaction with the world
+            Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+                it's a game there supposed to be fun
+                You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+            [deleted]
+                GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+        They’re still incredible.
+        It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+            [deleted]
+            The sheer irony of this statement.
+            Oh fuck you you pretentious dick.
+Oh shut the fuck up lol
+    Hah. I had the same reaction.
+[deleted]
+Never change Bethesda. Never change.
+It's a cinematic in-engine as opposed to a pre-rendered cinrmatic, or cutscene if you will since cinematics are often implied to be more .. cinematic
+    There was no cut, so it definitely wasn't a cutscene. It was an animation, not a cinematic.
+Pouring Forth Oil is the mission but you can find them at Cornwall Kerosene And Tar and on the road in between there and Valentine
+Next thing you know, ol' Jed's a millionaire
+    His friends all said, “Jed, move away from there!”
+        Ol' Californee is the place you wanna be
+We gotta move now, to Cal-ah-fore-nee,
+
+Be a Beverly Hill-Bill-Leeee^e^^e
+Oil that is
+I was gonna play another game tomorrow, almost finishing it. But that can wait. Saint denis bought to have a canon event
+Is that an actual quote from the game?
+    No, just made it up with my best Arthur voice.
+        Nice work!
+It's bananas!
+    It's coming down the stairs!
+He’s just making joke’s
+    He’s making joke’s what?
+        It's a minor spelling mistake, does it....
+
+Wait... Shit.
+            woosh's
+                Woosh's what?
+Yes
+Semenus
+Fucking Irish (as in Hibernian)
+Undead nightmare 2!
+    I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+Sepia filter?
+    waltuh
+I heard that's going to be released the same day as Half-Life 3
+For GTAV? Sure!
+    Shark cards oo-haha
+60fps with duelsense support
+The comedic timing is astonishingly good, it's too perfect!
+What, why?
+    He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+        I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+        Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+            He’s a whiny lil bitch in rd1 too.
+        Fair.
+You've clearly never fenced stolen oil drums before
+[deleted]
+    I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+        MGSV had a pretty advanced level of interaction with the world
+        Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+            it's a game there supposed to be fun
+            You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+        [deleted]
+            GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+    They’re still incredible.
+    It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+        [deleted]
+        The sheer irony of this statement.
+        Oh fuck you you pretentious dick.
+Hah. I had the same reaction.
+There was no cut, so it definitely wasn't a cutscene. It was an animation, not a cinematic.
+His friends all said, “Jed, move away from there!”
+    Ol' Californee is the place you wanna be
+No, just made it up with my best Arthur voice.
+    Nice work!
+It's coming down the stairs!
+He’s making joke’s what?
+    It's a minor spelling mistake, does it....
+
+Wait... Shit.
+        woosh's
+            Woosh's what?
+I haven't actually played games regularly in many years now, but I swear on my Granny, I would buy a brand new Xbox if Undead Nightmare 2 was released.
+waltuh
+Shark cards oo-haha
+He was just a really shitty character. I never played RDR 1, so I had no nostalgic feelings towards him, which probably helps. Worst father\\husband\\gangmember ever. Constantly fucking up, constantly overestimating himself. Just a huge letdown after playing as Arthur.
+    I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+    Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+        He’s a whiny lil bitch in rd1 too.
+    Fair.
+I mean, the fact that you can shoot holes in an oil tank for the oil to drop out, that you can light the oil by shooting at it, that the fire follows the trail of the oil, and that the tank explodes when the oil reaches the fire, I can’t think of any other open world game with that level of interaction with the world
+    MGSV had a pretty advanced level of interaction with the world
+    Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+        it's a game there supposed to be fun
+        You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+    [deleted]
+        GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+They’re still incredible.
+It’s far easier to do pre rendered cutscenes than real time cutscenes, don’t speak with such confidence on things you’re ignorant about.
+    [deleted]
+    The sheer irony of this statement.
+    Oh fuck you you pretentious dick.
+Ol' Californee is the place you wanna be
+Nice work!
+It's a minor spelling mistake, does it....
+
+Wait... Shit.
+    woosh's
+        Woosh's what?
+I don't hate him but I do have pretty much the same thoughts on him being a disappointment after playing Arthur. Arthur does a lot of bad things but felt like he was capable where John was just... a fuck up. It also felt like there was just less depth to his character, which is probably in part due to spending less time with him. On the other hand I liked Arthur pretty quickly so there's got to be more to it than just time.
+
+I wonder if it's also because I also haven't played RDR 1 so I didn't get attached to whatever he becomes in that game.
+Yea, I wish they had the option where you could switch back to Arthur after completing the main quest.
+
+I, also, never played RDR1, but that's kind of the thing... RDR2 is a prequel to RDR1. So the guy has to have room to grow through RDR1.
+    He’s a whiny lil bitch in rd1 too.
+Fair.
+MGSV had a pretty advanced level of interaction with the world
+Why did the gun shot ignite the oil?
+
+Why did the oil explode?
+
+Cartoon logic is prevalent here.
+    it's a game there supposed to be fun
+    You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+[deleted]
+    GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+[deleted]
+The sheer irony of this statement.
+Oh fuck you you pretentious dick.
+woosh's
+    Woosh's what?
+He’s a whiny lil bitch in rd1 too.
+it's a game there supposed to be fun
+You’re right, Oil needs to be atomized to ignite. I’m an hvac technician but I’m ok with the liberties the game took.
+GTA 5 - interactive world?? HOW?? It's extremely un-interactive. In GTA 4 you could walk into fast foods and buy and eat food. Here everything other than pre-scripted shops is closed.
+Woosh's what?

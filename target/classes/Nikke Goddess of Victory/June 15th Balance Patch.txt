@@ -1,0 +1,166 @@
+[[June 15th Balance Patch]]
+
+
+ 1. Edited description terms of some skills for easier comprehension.
+
+2. Added description terms for some skills. Fixed an issue where some skills that should be activated when attacks are launched are only activated when hits are landed.  
+Applies to:  
+\- Product 12’s Skill 1: Action: Increase ATK  
+\- Brid’s Skill 1: Acceleration  
+\- Poli’s Skill 1: Brave Call  
+\- Rupee’s Skill 2: Mileage  
+\- Anne: Miracle Fairy’s Skill 1: Fairy Dance
+
+3. Fixed an issue where Sin’s Skill 1: Full Stop is categorized and applied as debuff instead of buff.
+
+4. Adjusted Guillotine’s skill values as follows:  
+\- Lowered activation condition of Skill 1: Residual Heat from landing 100 normal attacks to landing 30 normal attacks  
+\- Increased Critical Damage of Skill 2: Malice from 14.46% to 14.69% (with Lv.10 as the benchmark)  
+\- Raised the increase of ATK according to HP loss from 0.2% to 0.96% (with Lv.10 as the benchmark)
+
+5. Fixed an issue where Taunt and/or Attract of Nikkes cannot take effect immediately when Raptures cast skills (manifested as red circles gathering).
+
+6. Fixed an issue where the description of Rosanna’s Burst Skill is unclear.
+
+Before: Attacker enemy unit(s)  
+After update: Prioritizes Attacker enemy unit(s)
+
+7. Fixed an issue where the additional damage buff of Snow White’s Skill 1: Determination does not take effect when shooting decoys.  
+Nikkes using decoys:  
+\- Rei  
+\- Delta
+
+8. Fixed an issue where some skills that are activated when attacks are launched are labeled as activated when hits are landed.  
+Sin’s Skill 1: Full Stop  
+Guilty’s Skill 1: Mind If I Borrow This?  
+Guilty’s Skill 2: Time to Play  
+Drake’s Skill 2: Thunderbolt
+
+
+THE GUILLOTINE IS REAL I NEVER STOPPED BELIEVING
+
+https://preview.redd.it/c7b406p2fz5b1.jpeg?width=1170&format=pjpg&auto=webp&s=d55e0b977e06d5a8e7feca7251b351107db49e11
+Pretty significant Guillotine buff
+Guillotine de mephisto buff we eaten good bois
+Damn after this I might actually build my core 1 Guillotine
+Guillotine will spend more health a lot more quickly (20.1% hp per magazine by default from 6.03% per magazine), but her attack buff is now almost 5x higher, starting at 28.8% right when she hits 70% hp, from its original value of 6%.
+
+This should cause her to outpace a decent number of healers, especially if they're burst only. Indomitability from characters like Blank will probably be quite important to running guillotine successfully.
+Yea cause Guilty needed to be buffed, while my soda struggles to maintain her stacks
+    She was not buffed, she just went through an small fix.
+        No dude I was dumb it was guillotine not guilty
+I just pulled guillotine from social recently..good chance to try her out
+BOYS WAKE THE FUCK UP! GUILLOTINE WILL CARRY ELYSION TOWER!
+Well, the buffs on Guillotine are quite interesting...
+
+She's killing herself faster now, which means that she can outpace low amounts of healing, but she can't handle a Blanc+Noir team. Her attack buff becomes significantly stronger when at low HP. 48% Attack boost at 50% HP is not bad in theory, with more being possible at lower HP values. Assuming she can't actually kill herself with her skill like Scarlet, the theoretical maximum should be 95.04% Attack boost when she has 1% HP left or some such.
+
+However, this doesn't fix the core issues that Guillotine has. 
+
+First is the fact that suicidal skills are inherently bad in any game-mode where CP value is relevant. The only reason it's not a bigger problem on Scarlet is because 1, she doesn't need to stay at low HP and 2, she's much stronger period in every way.
+
+Second issue is that CP difference or no, to get the most out of Guillotine, you need her at low HP, and at low HP most things that sneeze in her direction will kill her. Which means that you can only really use her at her best against bosses that are mostly passive, like Gravedigger, or with a tank with essentially constant taunt and self-sustain... and we only have two of those right now, Noise and Makima-ish. You absolutely CANNOT pair Guillotine effectively with Manual Pepper, Rapunzel, Blanc+Noir, or dual 40s B1 healer combos... she won't be likely to survive in any situation where that sort of sustain is needed anyway.
+
+Third issue is that her burst is still ass outside of bosses with no adds.
+
+Which means that all in all, she still remains a mediocre unit that needs high investment to do any kind of job at an "ok at best" level, and likely not even that. The fact that she doesn't contribute anything to the team like other units that aren't powerhouses on their own doesn't help either.
+
+So all in all, this makes Guillotine marginally more usable, but still not really worth the investment unless you REALLY like her a lot and have the resources to spare.
+    Isn't Scarlet's skill costs some % of CURRENT HP? In that case she can't kill herself
+        That's when a single stray shot from any enemy will kill Scarlet.
+    She won't get the max atk buff, but with Blanc + Noir she's pretty much guaranteed to get Indomitability every rotation which means survivability won't be as much of an issue.
+        The problem is that the Indomitability also comes with a Max HP increase, which results in healing, especially when combined with the rest of Blanc's effects. On an optimized team, the healing will be up more often than not.
+
+Without a device capable of running at 60 fps, odds are that Blanc's healing will outpace Guillotine's self-damage due to how the rate of fire will be affected.
+
+After all, with no Ammo increase, Guillotine can only reduce her HP 10 times before she needs to reload, for a total of 20.1% HP lost. This means that one magazine isn't even enough to get her to 70% HP where her passive activates to begin with, and it definitely won't outpace Blanc's ridiculous healing, especially not if we're talking about a 4/7/10 Blanc with OL gear, and thus with ridiculously massive HP values.
+
+You'd need plenty of OL gear with max ammo, and probably a built up Bastion cube, to have a constant HP drain that's efficient enough to keep up with Blanc's healing. Even then it's a maybe outside of devices with 60 fps, which not everyone will have.
+
+I'm honestly not sure if all the investment would be worth it, not with all the RNG involved in Manufacturer gear as well as T9 gear in general.
+
+Lastly, even with the Indomitability... it's not up 100% of the time, which means that all it takes is a hard shot at the wrong time, and Guillotine goes down. Granted, Scarlet has that problem too to an extent, but in her case, it doesn't matter if she's at low HP or not to begin with.
+            I think it's more fair to judge Nikkes at their best potential rather than lowball it. Units like Snow White and Alice are very underwhelming with medium investment but are the top 2 DPS at max. At max investment, Guillotine should have pretty good buff uptime even with Blanc. She only needs to be around 50% HP to have comparable buffs to Modernia, although Modernia is still overall better due to her scaling. Guillotine does have the benefit of having a Burst that actually does damage though.
+
+Also, boss attacks are very consistent in terms of timing and the ones that are more frequent are usually iframeable. Shift Up lines up attacks and mechanics to be pretty close to a 20s rotation so even though Indomitability isn't 100% uptime, it really won't be as big of an issue as you think it is. The only pretty bad enemies for Guillotine are those gas Raptures which constantly tick.
+
+Edit: Also, Elysion Attacker gear is not a very hot commodity with only Summer Neon who is pretty niche coming up being a contender. You've got maybe Helm/Privaty/D too but they're not really DPS so don't really scale well from OLs other than the CP boost so you're pretty safe giving Guillotine your Elysion Attacker gear. Every Nikke has the issue of Manufacturer gear being rare so I don't think that's a good point, although you could argue whether or not she's worth the modules.
+    As a longtime Guillotine user, I think I see the logic of the buffs. On paper she seems designed as a high-risk high-reward unit, but more often than not, this never comes into play. Stages either end too quickly for her to knock her own HP down sufficiently, or running with some decent heals (e.g. auto Pepper) means her HP drain will be completely counteracted.
+
+It works a little better on longer boss stages, like SI Modernia, but even then, it takes forever to drain, and by the end, even with zero healing, she usually has a comfortable amount of HP left, maybe 25% or so, enough to survive random machine gunning.
+
+Despite her rarely being able to make full use of her buffs, I've found that her damage rivals or exceeds higher rated units like Drake; I've even seen Guillotine outdamage her in majority near-field stages. I still think Drake currently deserves the higher rating due to her team utility, better burst, and being important in specific comps like SI Gravedigger, but what these buffs do is replace all of that with even higher damage by fixing her high-risk high-reward design - presumably with the intent of bringing Guillotine up to a similar tier in a different way.
+
+The 'risk' part, with her being vulnerable at low HP, does sound like a big liability on paper. But since it's currently barely an issue, increasing that risk in exchange for more and faster damage is exactly what she needed, in my opinion. We'll still have to see if 3x more self-damage is too much, but as it is, it's definitely way too little.
+
+I am particularly interested to see how SI Modernia plays out - whether the added damage Guillotine does to the boss will end the fight fast enough to outpace her killing herself. I think that aspect will be key to using her effectively - hit fast and hard enough to 'outrun' both her self-damage as well as external sources of damage. This is a favored strat in a lot of stages and comps already, so I think there is real potential here for her to shine once the update hits.
+
+Her burst targeting is still ass though.
+\> Fixed an issue where the description of Rosanna’s Burst Skill is unclear.
+
+Before: Attacker enemy unit(s)  
+After update: Prioritizes Attacker enemy unit(s)  
+
+
+It's not just unclear. It has wholly different meaning
+Oh, so that's what broke taughting last patch. Glad to see it finally fixed.
+Aw Rei doesn’t hard counter Snow anymore. Ha ha
+
+I’m happy guillotine is getting buffs though. Elysion has been falling behind
+Ooo maybe I can clear Elysion 115 now lol
+damn they buffed guillotine welp guess it's finally happened a none meta character gets a buff now i know there is hope for quency's hp and atk skills to get a buff
+She was not buffed, she just went through an small fix.
+    No dude I was dumb it was guillotine not guilty
+Isn't Scarlet's skill costs some % of CURRENT HP? In that case she can't kill herself
+    That's when a single stray shot from any enemy will kill Scarlet.
+She won't get the max atk buff, but with Blanc + Noir she's pretty much guaranteed to get Indomitability every rotation which means survivability won't be as much of an issue.
+    The problem is that the Indomitability also comes with a Max HP increase, which results in healing, especially when combined with the rest of Blanc's effects. On an optimized team, the healing will be up more often than not.
+
+Without a device capable of running at 60 fps, odds are that Blanc's healing will outpace Guillotine's self-damage due to how the rate of fire will be affected.
+
+After all, with no Ammo increase, Guillotine can only reduce her HP 10 times before she needs to reload, for a total of 20.1% HP lost. This means that one magazine isn't even enough to get her to 70% HP where her passive activates to begin with, and it definitely won't outpace Blanc's ridiculous healing, especially not if we're talking about a 4/7/10 Blanc with OL gear, and thus with ridiculously massive HP values.
+
+You'd need plenty of OL gear with max ammo, and probably a built up Bastion cube, to have a constant HP drain that's efficient enough to keep up with Blanc's healing. Even then it's a maybe outside of devices with 60 fps, which not everyone will have.
+
+I'm honestly not sure if all the investment would be worth it, not with all the RNG involved in Manufacturer gear as well as T9 gear in general.
+
+Lastly, even with the Indomitability... it's not up 100% of the time, which means that all it takes is a hard shot at the wrong time, and Guillotine goes down. Granted, Scarlet has that problem too to an extent, but in her case, it doesn't matter if she's at low HP or not to begin with.
+        I think it's more fair to judge Nikkes at their best potential rather than lowball it. Units like Snow White and Alice are very underwhelming with medium investment but are the top 2 DPS at max. At max investment, Guillotine should have pretty good buff uptime even with Blanc. She only needs to be around 50% HP to have comparable buffs to Modernia, although Modernia is still overall better due to her scaling. Guillotine does have the benefit of having a Burst that actually does damage though.
+
+Also, boss attacks are very consistent in terms of timing and the ones that are more frequent are usually iframeable. Shift Up lines up attacks and mechanics to be pretty close to a 20s rotation so even though Indomitability isn't 100% uptime, it really won't be as big of an issue as you think it is. The only pretty bad enemies for Guillotine are those gas Raptures which constantly tick.
+
+Edit: Also, Elysion Attacker gear is not a very hot commodity with only Summer Neon who is pretty niche coming up being a contender. You've got maybe Helm/Privaty/D too but they're not really DPS so don't really scale well from OLs other than the CP boost so you're pretty safe giving Guillotine your Elysion Attacker gear. Every Nikke has the issue of Manufacturer gear being rare so I don't think that's a good point, although you could argue whether or not she's worth the modules.
+As a longtime Guillotine user, I think I see the logic of the buffs. On paper she seems designed as a high-risk high-reward unit, but more often than not, this never comes into play. Stages either end too quickly for her to knock her own HP down sufficiently, or running with some decent heals (e.g. auto Pepper) means her HP drain will be completely counteracted.
+
+It works a little better on longer boss stages, like SI Modernia, but even then, it takes forever to drain, and by the end, even with zero healing, she usually has a comfortable amount of HP left, maybe 25% or so, enough to survive random machine gunning.
+
+Despite her rarely being able to make full use of her buffs, I've found that her damage rivals or exceeds higher rated units like Drake; I've even seen Guillotine outdamage her in majority near-field stages. I still think Drake currently deserves the higher rating due to her team utility, better burst, and being important in specific comps like SI Gravedigger, but what these buffs do is replace all of that with even higher damage by fixing her high-risk high-reward design - presumably with the intent of bringing Guillotine up to a similar tier in a different way.
+
+The 'risk' part, with her being vulnerable at low HP, does sound like a big liability on paper. But since it's currently barely an issue, increasing that risk in exchange for more and faster damage is exactly what she needed, in my opinion. We'll still have to see if 3x more self-damage is too much, but as it is, it's definitely way too little.
+
+I am particularly interested to see how SI Modernia plays out - whether the added damage Guillotine does to the boss will end the fight fast enough to outpace her killing herself. I think that aspect will be key to using her effectively - hit fast and hard enough to 'outrun' both her self-damage as well as external sources of damage. This is a favored strat in a lot of stages and comps already, so I think there is real potential here for her to shine once the update hits.
+
+Her burst targeting is still ass though.
+No dude I was dumb it was guillotine not guilty
+That's when a single stray shot from any enemy will kill Scarlet.
+The problem is that the Indomitability also comes with a Max HP increase, which results in healing, especially when combined with the rest of Blanc's effects. On an optimized team, the healing will be up more often than not.
+
+Without a device capable of running at 60 fps, odds are that Blanc's healing will outpace Guillotine's self-damage due to how the rate of fire will be affected.
+
+After all, with no Ammo increase, Guillotine can only reduce her HP 10 times before she needs to reload, for a total of 20.1% HP lost. This means that one magazine isn't even enough to get her to 70% HP where her passive activates to begin with, and it definitely won't outpace Blanc's ridiculous healing, especially not if we're talking about a 4/7/10 Blanc with OL gear, and thus with ridiculously massive HP values.
+
+You'd need plenty of OL gear with max ammo, and probably a built up Bastion cube, to have a constant HP drain that's efficient enough to keep up with Blanc's healing. Even then it's a maybe outside of devices with 60 fps, which not everyone will have.
+
+I'm honestly not sure if all the investment would be worth it, not with all the RNG involved in Manufacturer gear as well as T9 gear in general.
+
+Lastly, even with the Indomitability... it's not up 100% of the time, which means that all it takes is a hard shot at the wrong time, and Guillotine goes down. Granted, Scarlet has that problem too to an extent, but in her case, it doesn't matter if she's at low HP or not to begin with.
+    I think it's more fair to judge Nikkes at their best potential rather than lowball it. Units like Snow White and Alice are very underwhelming with medium investment but are the top 2 DPS at max. At max investment, Guillotine should have pretty good buff uptime even with Blanc. She only needs to be around 50% HP to have comparable buffs to Modernia, although Modernia is still overall better due to her scaling. Guillotine does have the benefit of having a Burst that actually does damage though.
+
+Also, boss attacks are very consistent in terms of timing and the ones that are more frequent are usually iframeable. Shift Up lines up attacks and mechanics to be pretty close to a 20s rotation so even though Indomitability isn't 100% uptime, it really won't be as big of an issue as you think it is. The only pretty bad enemies for Guillotine are those gas Raptures which constantly tick.
+
+Edit: Also, Elysion Attacker gear is not a very hot commodity with only Summer Neon who is pretty niche coming up being a contender. You've got maybe Helm/Privaty/D too but they're not really DPS so don't really scale well from OLs other than the CP boost so you're pretty safe giving Guillotine your Elysion Attacker gear. Every Nikke has the issue of Manufacturer gear being rare so I don't think that's a good point, although you could argue whether or not she's worth the modules.
+I think it's more fair to judge Nikkes at their best potential rather than lowball it. Units like Snow White and Alice are very underwhelming with medium investment but are the top 2 DPS at max. At max investment, Guillotine should have pretty good buff uptime even with Blanc. She only needs to be around 50% HP to have comparable buffs to Modernia, although Modernia is still overall better due to her scaling. Guillotine does have the benefit of having a Burst that actually does damage though.
+
+Also, boss attacks are very consistent in terms of timing and the ones that are more frequent are usually iframeable. Shift Up lines up attacks and mechanics to be pretty close to a 20s rotation so even though Indomitability isn't 100% uptime, it really won't be as big of an issue as you think it is. The only pretty bad enemies for Guillotine are those gas Raptures which constantly tick.
+
+Edit: Also, Elysion Attacker gear is not a very hot commodity with only Summer Neon who is pretty niche coming up being a contender. You've got maybe Helm/Privaty/D too but they're not really DPS so don't really scale well from OLs other than the CP boost so you're pretty safe giving Guillotine your Elysion Attacker gear. Every Nikke has the issue of Manufacturer gear being rare so I don't think that's a good point, although you could argue whether or not she's worth the modules.

@@ -1,6 +1,5 @@
-edu\arizona\cs\ResultClass.class
-edu\arizona\cs\PseudoWatson$1.class
-edu\arizona\cs\QueryEngine.class
-edu\arizona\cs\PseudoWatson$ResultClass.class
+edu\arizona\cs\PseudoWatson$QueryResult.class
 edu\arizona\cs\PseudoWatson.class
 edu\arizona\cs\WatsonIndex.class
+edu\arizona\cs\PseudoWatson$1.class
+edu\arizona\cs\PseudoWatson$MatchedAnswer.class
