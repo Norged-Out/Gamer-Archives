@@ -1,0 +1,557 @@
+[[Gamewith ratings for the new characters]]
+
+
+
+
+
+Everyone 🥵, Raziel 🐑
+    I hate how this is the first comment I read right after saying BAA like a goddamn sheep
+        SAME
+    gatling is the best !!!!!
+As somebody who hasn't gotten any of them:  
+
+
+* Fenie's clearly a hard content character and will see her rating drift up as use cases for her are discovered. Having a built-in sub-all and wanting to die means in the right raid with the right set-up you can get all of her good buffs up pretty quickly, but that's going to take more testing I assume than anybody's done yet (it's also not likely on FA without specific set-ups). Her weapon is a 10.0 mainhand, to say the least.  
+ 
+* Horus is paying the CA character tax - I actually think she'll be way better in practice because of how good her skill 2 buffs are and how good of a panic button her skill 3 is; I would outright be tempted to run her instead of Yuni in Agastia alongside Cosmos and Summer Seruel, but similar to Summer Seruel I think her use-case just isn't high enough to be more generally recommended.  
+
+* Magus - here's the problem with characters like her and Summer Cupitan who tie their multi-hits to enemy debuffs - can anybody think of important content that we run for several days in a row for several hours at a time where the boss clears their own debuffs? NM100+ aside - I don't think they needed to add in the 5k self-damage AND her debuffs getting stripped if she dies, but maybe she'll get some synergy somewhere later. As somebody who runs S. Cupitan in Cosmos despite the downsides, I'll also say - the dispel heavy kit, applying stacks of Toxicosis and Glaciate, and doing some team-wide buffing, she could be way worse.
+    [Someone posted a 4 turn/4m honors agastia full auto with cosmos/horus/seruel](https://youtu.be/xGbXKeEJsiM)
+        The vision is REAL
+        I wonder who could replace cosmos if I don't have her
+            I'm not really sure there is a replacment for cosmos in this team... she does so much more damage than anyone else you could replace her with.
+                Also if you enter 40% without the FC thing up she's the only one who can easily clear the 6 DMG omen easily.
+            No one. Cosmos can do 6 element damage, 12 hits.
+
+Pretty much make her a core in Agastia, especially Full Auto.
+                sure is rough as a cosmosless to do this raid
+                    It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+                could anyone replace seruel?
+                    [This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+                        >Juliet can be replaced by stronger characters
+
+Like who?
+                            I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+                                I tried Juliet. Works quite good too :)
+    Fennie has 70% def down on her passive pre-revive. It’s going to be very easy to blow her up turn 1 in any relevant raid. 
+
+EDIT-The far bigger problem with Magus is her auto-nuke being end of turn instead of during attack phase. Makes it garbage for V2 just like Lich’s.
+    New player here, And this is why I only play the story... I feel like a headless fish out of water with anything else.
+        Meta really doesn't matter until like the very highest levels or if you want to clear things without much effort. If you're just starting out a character being SSR makes them really good for you, it's not until you have a lot of them that you really need to go "okay so x character is really good and y character fit with them and have nice synergy for my z element team"
+            The big example for this is like when your starting out, you honestly can get away with Lyria + 2 extras for the most important thing to do in this game - Farming M2. This is true until like your trying to get into Faa HL and such and those are leechable nowadays.
+        As a new player, my best advice for you is - every single character in the game is viable; if you don't sweat the meta and are just looking to have fun, experience new content, and get the dopamine hit from getting the weapons and characters you want, you'll be fine without worrying about the metahead analysis.  
+
+
+The meta comes into play for:
+
+* Endgame content (nothing you have to worry about for a long while)
+* Placing moderately high in GW (you can do this without a meta comp just through sweat and effort, but is also not something you should worry about for a while)
+* Complaining about the tiers on Reddit
+
+If your favorite character in the game was a 9.0 on the tiers, you should use them anyways and just tweak your line-ups as you get more familiar with the game or want to try out harder content, and if you're just here for the story and events, don't sweat it - nothing tied to the story or the events is ever so hard that you can't clear it with a team of faves. Just have fun with it!
+            My friend loves Miyuki Sawashiro, she's her favorite VA
+
+As a result, Katalina *never* leaves her water team. No matter the content, no matter the boss, she is running Kat. 
+
+And like, that's a viable way to play the game!
+                I love Kana Ueda and that is why Yuel is my absolute favorite character.  I have every version of Yuel and I use her quite regularly.
+        Been playing since 2018, I learn new things all the time. It comes gradually. Trying to understand everything all at once will just get you confused.
+        If you're new, no need to worry about the meta so much. They become important when you're tackling endgame stuffs. Since there's roulette going on rn, I'm sure you're able to get some good SSRs to work with
+        You'd still feel the same going into meta discussion topics in every other game, this is not any different
+    The self-damage is whatever (not their typical design strategy but I'm assuming there's a consideration for her future 5* baked in), but her debuff expiring if she dies is just plain mean. I can't think of a single situation where players might abuse it (it makes S.Azusa not miss, but that's about it), it's just there to make you feel extra bad if you let her die.
+        She’s a Summer unit so a 5* isn’t really in the consideration here.
+            That will no longer be true after S.Zoi gets hers. Which is totally happening. Any time now.
+                szoi isnt a summer unit no more after her grand promotion. if she gets a ulb thats because of her grand status
+                    She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+    Honestly didn't care about Magnus that much till I found out about the self damage.  Since lich
+        Note that her self damage is **not** a DoT, meaning Death's Grace doesn't magically turn it into a 5k HoT.
+
+Yes, she just takes 5k damage up the ass every turn with no prevention method. At least it doesn't eat Fediel's shield on top of it.
+            Ah, well that killed my hope, she had like all the weird skills I wanted to slot in.
+one important note on horus. With Kengo, SSereul, and Yuni paired with a fairly simple magna grid, can cap CAs and can full burst every turn (5 CA minimum) and on top of this, horus is dealing a MINimum 16 debuffs per turn (8 attack / def, 8 random) and 8 more if she has her s1 ready
+
+Edit: tried the team in subaha and it was by far the most braindead 9 mil honors ever. Yunis sustain is too good, it beats half the arcardias without thinking, and skill damage with a little management. Gnosis is pretty tough but it doesn't hamper the team much, and the last three just take micro managing
+Looks like today's new units are ass.
+    and raziel is a sheep
+        I'm new around here: What does 'sheep' mean?
+            both the ass and sheep are jokes, read the letters ranks of every char one by one
+                Oh!
+
+That's adorable, I'm going to be really annoying about this forever.
+                    Fyi I LOLed when I saw your flair
+    Damn Gamewith, what you doin out here with all this ass?
+    I wonder how many new units back then that were snakes (SSS)
+So much ass
+    Especially Horus
+Fenie and her weapon are looking pretty good for hard content.
+
+[めっちゃ硬くて高難度適性の高いリミフェニーの強みの落とし穴＆リミフェニー採用型シエテHLフルオートソロ討伐【グラブル】 (youtube.com)](https://www.youtube.com/watch?v=VApl6WsxjFg) solo FA Siete
+
+[スパバハソロもできる火属性のリミフェニーの性能を見ていく！ 【ゆっくり解説/グラブル】 (youtube.com)](https://www.youtube.com/watch?v=g-3lGGZp-9I) solo SUBaha
+
+[スパルシ　ルシゼロ　フェニー採用型火モンク　　【グラブル】 (youtube.com)](https://www.youtube.com/watch?v=qPw_UQcNd_0) FaaZero
+
+The craziest part for me is that Agni can make a manual team for hard fights by simply taking their burst team and replacing the Alanaan sac slot with Fenie. Of course it's not the same in terms of weapons and summons, but it's still impressive.
+Scores updated:
+
+Horus now A SS S (probably because of the Agastia FA)
+
+Magus now A S SS
+    i feel like people should have waited like a day more or two before making the post
+
+As they would still have tested them
+        And miss out on the memes? Perish the thought.
+Why does Raziel get two A's? I truly love her as a character don't get me wrong, but her kit doesn't seem good for 2024, especially for veterans; grands/seasonals even the old ones aging years still pull more weight.
+    I think for new players her buffs are enough to make B-A-A sort of valid. 50% Atk Up, 50% Def Up, 100/30 DATA, and 30% Dodge Rate with a 5/7 uptime is really good if you're brand new to the game, same with skill 1 almost capping atk/def down with mismist.
+
+You're 100% right that there is zero circumstances in which I think any veteran would run her, but somebody who just started playing today could have a really solid, completely free early game team with Raziel, Eventdalphon, and whatever other filler character you want to round that team off with.
+        There's literally people slotting her in for Agastia, Hexa and even FaaZero. Her kit seems to synergies with the other top units
+            Honestly, good for her! I hadn't seen her in those niches yet myself but look, buffs are buffs, and Atk/Def Down is Atk/Def Down.
+        It doesn't look like this in first glance, but she have good synergy with v2 battles, especially with later ones. Her skill is crazy with primal grid so it's possible to spam it with yuni, her stacks is not big problem. 30% ta helps hit 100% ta easier with good atk and def boosts which is always helpful. She have own passive bonus damage so she also decent for hit count triggers. Debuffs, weapon skills and refresh is good bonuses. She is not strong or broken, but she is actually decent because she can help with most of v2 cancel conditions.
+            I run double Rinne Zeus and was less impressed with her damage output on testing but I hadn't even thought of the Yuni applicability, so that's also a huge point in her favor - I'm glad she has the potential to be made stronger by other units, I rescind my "zero circumstances" to be sure.
+        Ah okay, that's fair point. 50% def is pretty strong indeed, even for late-games.
+            It also helps that iirc Light is one of few ele who doesnt truly have the buff pack archetype(even if i'd argue its not that good most of the time) and she kinda pack it further with 30% dodge. As far as basic buff pack short of damage cap goes its a contender for the best in the game, tbh
+
+Having a hitcount button can also be quite valuable esp since her hitcount handling is super consistent between it and her passive 1 and always getting Celestial active
+
+Shes not "great" but i think theres plenty of good traits on her
+        Veterans are the most likely players  to try and meme build story-possible teams though, since their grids should be able to overcompensate enough to use MUCH weaker characters to a higher degree of efficiency.More to the point though, her kit is actually stupidly synergistic at higher difficulty fights, somehow, so she's not even a meme, she's actually viable in a number of areas, and almost all of them are V2 fights.
+    She's a completely free unit that will be available to everyone now, and  as soon as the story event gets archived everyone forever. Just like Sandy beforehand, she's also likely  to get a relatively swift FLB too, so she should improve, but a free BAA in light for *new players* is really really good.
+    Afaik she can kill arca 3 bar otk
+I'm just gonna sit and wait and see if any artist draws Raziel in Anila's outfit.
+
+...for reasons.
+    I already saw someone draw Raziel in Magus' outfit, pretty good tbh
+        ahem, source perchance?
+            https://twitter.com/hews__/status/1768770569569550414?t=1_f1yGWWnqDGmqFKGIpp2A&s=19
+                ...Of course it would be hews, lord and savior of tiddies.
+                Sasuga Hews sama
+At the very least, I can fully agree with that score for Horus uncap.
+ASS ASS ASS                                         
+I'm gonna roll on the Flash                                   
+Unite and Fight                                        
+To be the winner                                     
+Yeah, yeah, yeah                                 
+I'm gonna spark on the ASS                             
+And you'll see the big show
+Magus is pretty good, works well together with Lich & Fediel (loses 5k per turn, recovers 3.5k HP per turn so she lives pretty long through the fight).
+
+ Her turn-based damage is comparable to Lich and the three of them synergize perfectly as you get a lot of debuffs to maximize the hitcount of Magus' S1
+It's safe to say that this banner has good ASSets.
+> they disabled user score for Magus
+
+> Magus does exactly the same as s.Magisa but without utility + she is very suicide/glass canon because of S3 killing her and it not working with Lich DoT->HoT gimmick
+
+I swear to God I'm starting to believe that the "Cygames is paying those tier list sites to promote cetain new characters so people will whale on them" rumor is actually legit
+I rate Horus and Magus H for Horny
+    \*bonk\*s are incoming
+ASS WE CAN
+I am not above admitting I want Magus for 2 reasons, coomer ones and "lookit at the big numbers" ones.
+I've always been a A.S.S. enjoyer myself
+All dat ASS
+🍑🍑🐑
+The new tierlist, The ASS list
+Arent those still temporary ?
+    Ass is eternal 
+        Ass is actually evoker
+            Screw the downvotes, I laughed
+I know she's a free character, but I wish Raziel was better.   
+Grand Raziel soon plz.
+    People are already dragging her into every hard fight they can think of and she's doing fine there.
+A S S
+What each score mean? I just started and I got the dark one. Pretty cute, I'm glad she has an S score, don't know how much this will matter...
+    You can actually see the definitions on the gbf wiki when you search for a character and look at their strategy tab.
+I think it was like:
+Grind,Full auto,Hard content.
+The overall ratings also have a definition when you search for SSR character tier list.
+For SSR
+10= game breaking
+9.5-9.9 Vital in Teams
+9.4-9.0 Pretty much "if you don't have anything above use this"
+Everything under 9.0 is a rare circumstance choice since some low tier characters have unique skill sets
+Everything under 8.0 should be an Sr unit and is mostly likely a problem than help.
+Being a new player you shouldn't much worry for the scores till you get more characters and go into hard content.
+Do utilize the wiki however,there are many things that aren't explained or even hidden when it comes to the content.
+        I'm more seeing it like... everything above 9 is usable.... but sometimes in very specific circumstances.
+Hi I’m fairly new to this game (in terms of actually starting to understand the content, I’ve been playing for a while now without actually knowing what the hell I’m doing), is it worth sparking for one of these characters?
+    Fenie in particular there is no reason to Spark. She is a Grand character meaning she is always going to be available in future Flash Galas.
+
+Magus and Horus meanwhile are seasonal characters, meaning their availability is significantly more limited to say the least.
+        Thank you for the quick reply!
+
+Also the main reason why I was wondering whether to go for a spark or not, is that I got lucky and got a 100 pull from the roulette, I have enough crystals to get 300 sparks, do you think it is worth going for it this time around?
+            I would say if you really would like to have Horus and Magus or some other Sparkable Character in this Flash, then it is a good idea, specially with both being strong characters. In general, gacha (Or specifically, 6% Rates Gacha, **never** normal Gacha) with Limited Characters are the best ones to Spark in even if you are not aiming for the Limited Characters. Since it means even if you are not aiming for them, you might get them while rolling for your actual target.
+
+But I will add: We are in a period of free rolls, so you may want to wait until the last day before the gacha changes (It is listed in game, just convert the timezones from JST to your own). The reason for that is that if you are gonna Spark during a period of Free Rolls, you want to use as little of your own resources for that Spark as possible. Specially since you might get the character you want during Free Rolls already.
+
+So for example, you got 100 Free Rolls. If you Spark now you will spend 200 Rolls worth of resources. But if in the next few days, you get say, 50 more Free Rolls before the gacha changes, you will only have to spend 150 Rolls worth of currency compared to if you Sparked now, meaning you save up 50 rolls worth of currency.
+                disagree on the 'never spark 3% banners' take if you're f2p and don't buy suptixes - with how broken some of the perms are it's sometimes worth sparking, especially that new years banner with 200 free rolls (i sparked bowman last year and ragazzo this year and used both of them extensively)
+
+for reference i also sparked predator on a 3% banner before 2020 dark gw (no free rolls during that time too) and she has done way more than any grand could do (well, besides szoi because she was part of the same comp lol) for me in the next year or two before i moved from enmity bursting to better setups
+
+tho i'd agree it's probably not until you get most of the relevant grands that you should start doing this - limited pools will have way more good characters to pull for newer players even if you're aiming for only a select few
+                Thanks again!
+
+I think I now have a better understanding of the gacha system. Since all my characters right now are pretty low rated on any tier list, I guess it wouldn’t hurt sparking/pulling for strong units.
+
+I’ll wait until the 18th and then just spend extra crystals for a sparked character, thank you again!
+                    Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+            Discounted sparks during anni/ny are rarely a bad idea, unless you don’t want anything.  Definitely wait till the last day of flash to decide though, you’ve got more roulette coming.
+                Thank you for the advice! I will wait 2 days to go for the remaining pulls I need for a spark.
+        There's no good reason to spark Fenie on THIS banner, especially before the last day of free pulls on it, but her Staff is an utterly bonkers MH weapon, and she's a super suicide enabler for evokers, so she'll see a LOT of play quite soon.
+             How is she an enabler for the evokers? She starts with autorevive so it will take longer to get them out then someone like Ragazzo and all testing I've seen of her keeps her alive throughout the battle
+            Evoker enabler? No.
+A lot of Japanese players are making Raziel work though, never have I seen people so intent in bringing an event character (with a rather basic kit) to hard end game raids and actually clearing with them.
+
+Among the other three, I'll rank Magus last, Horus second and Fenie first.
+
+As a grand, both Fenie and her weapon are obnoxious, self explanatory.
+
+Horus brings covers the lacking part for light CA in regards to debuff, and also cementing her place in V2 raids. If you thought Agastia was easy, Hrous makes Agastia completely laughable now, as light is now able to clear **ALL** Agastia omens (the debuff one was considered hardest). As a result, the Europa summon strategy is now unnecessary. By herself, she also works great with G Sandy, Cosmos and S Seruel.
+
+Magus is just damage and more damage, something which I'm not sure Dark needs at this point. She also has a survivability issue in the long run if you do not consider sustain. But she's definitely peak for burst in short fights. As a bonus, her 10% skill accuracy rate factors into S Azusa.
+So they're all ass?
+[\[GBF\] Dark Rapture Zero with Magus | 【グラブル】ルシゼロ w/ メイガス (youtube.com)](https://www.youtube.com/watch?v=7dsQP5G-hZ0) FaaZero with Magus. Description straight up tells you: "Just use Six".
+Threw money to Spark the Fire Birb because my luck is cancer currently, got Magus earlier and since then it's been summons after summons with basically no units lol, at least I have Bel now though
+They're all ASS, got it.
+The rating bro, wow, A S S.
+I hate how this is the first comment I read right after saying BAA like a goddamn sheep
+    SAME
+gatling is the best !!!!!
+[Someone posted a 4 turn/4m honors agastia full auto with cosmos/horus/seruel](https://youtu.be/xGbXKeEJsiM)
+    The vision is REAL
+    I wonder who could replace cosmos if I don't have her
+        I'm not really sure there is a replacment for cosmos in this team... she does so much more damage than anyone else you could replace her with.
+            Also if you enter 40% without the FC thing up she's the only one who can easily clear the 6 DMG omen easily.
+        No one. Cosmos can do 6 element damage, 12 hits.
+
+Pretty much make her a core in Agastia, especially Full Auto.
+            sure is rough as a cosmosless to do this raid
+                It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+            could anyone replace seruel?
+                [This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+                    >Juliet can be replaced by stronger characters
+
+Like who?
+                        I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+                            I tried Juliet. Works quite good too :)
+Fennie has 70% def down on her passive pre-revive. It’s going to be very easy to blow her up turn 1 in any relevant raid. 
+
+EDIT-The far bigger problem with Magus is her auto-nuke being end of turn instead of during attack phase. Makes it garbage for V2 just like Lich’s.
+New player here, And this is why I only play the story... I feel like a headless fish out of water with anything else.
+    Meta really doesn't matter until like the very highest levels or if you want to clear things without much effort. If you're just starting out a character being SSR makes them really good for you, it's not until you have a lot of them that you really need to go "okay so x character is really good and y character fit with them and have nice synergy for my z element team"
+        The big example for this is like when your starting out, you honestly can get away with Lyria + 2 extras for the most important thing to do in this game - Farming M2. This is true until like your trying to get into Faa HL and such and those are leechable nowadays.
+    As a new player, my best advice for you is - every single character in the game is viable; if you don't sweat the meta and are just looking to have fun, experience new content, and get the dopamine hit from getting the weapons and characters you want, you'll be fine without worrying about the metahead analysis.  
+
+
+The meta comes into play for:
+
+* Endgame content (nothing you have to worry about for a long while)
+* Placing moderately high in GW (you can do this without a meta comp just through sweat and effort, but is also not something you should worry about for a while)
+* Complaining about the tiers on Reddit
+
+If your favorite character in the game was a 9.0 on the tiers, you should use them anyways and just tweak your line-ups as you get more familiar with the game or want to try out harder content, and if you're just here for the story and events, don't sweat it - nothing tied to the story or the events is ever so hard that you can't clear it with a team of faves. Just have fun with it!
+        My friend loves Miyuki Sawashiro, she's her favorite VA
+
+As a result, Katalina *never* leaves her water team. No matter the content, no matter the boss, she is running Kat. 
+
+And like, that's a viable way to play the game!
+            I love Kana Ueda and that is why Yuel is my absolute favorite character.  I have every version of Yuel and I use her quite regularly.
+    Been playing since 2018, I learn new things all the time. It comes gradually. Trying to understand everything all at once will just get you confused.
+    If you're new, no need to worry about the meta so much. They become important when you're tackling endgame stuffs. Since there's roulette going on rn, I'm sure you're able to get some good SSRs to work with
+    You'd still feel the same going into meta discussion topics in every other game, this is not any different
+The self-damage is whatever (not their typical design strategy but I'm assuming there's a consideration for her future 5* baked in), but her debuff expiring if she dies is just plain mean. I can't think of a single situation where players might abuse it (it makes S.Azusa not miss, but that's about it), it's just there to make you feel extra bad if you let her die.
+    She’s a Summer unit so a 5* isn’t really in the consideration here.
+        That will no longer be true after S.Zoi gets hers. Which is totally happening. Any time now.
+            szoi isnt a summer unit no more after her grand promotion. if she gets a ulb thats because of her grand status
+                She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+Honestly didn't care about Magnus that much till I found out about the self damage.  Since lich
+    Note that her self damage is **not** a DoT, meaning Death's Grace doesn't magically turn it into a 5k HoT.
+
+Yes, she just takes 5k damage up the ass every turn with no prevention method. At least it doesn't eat Fediel's shield on top of it.
+        Ah, well that killed my hope, she had like all the weird skills I wanted to slot in.
+and raziel is a sheep
+    I'm new around here: What does 'sheep' mean?
+        both the ass and sheep are jokes, read the letters ranks of every char one by one
+            Oh!
+
+That's adorable, I'm going to be really annoying about this forever.
+                Fyi I LOLed when I saw your flair
+Damn Gamewith, what you doin out here with all this ass?
+I wonder how many new units back then that were snakes (SSS)
+Especially Horus
+i feel like people should have waited like a day more or two before making the post
+
+As they would still have tested them
+    And miss out on the memes? Perish the thought.
+I think for new players her buffs are enough to make B-A-A sort of valid. 50% Atk Up, 50% Def Up, 100/30 DATA, and 30% Dodge Rate with a 5/7 uptime is really good if you're brand new to the game, same with skill 1 almost capping atk/def down with mismist.
+
+You're 100% right that there is zero circumstances in which I think any veteran would run her, but somebody who just started playing today could have a really solid, completely free early game team with Raziel, Eventdalphon, and whatever other filler character you want to round that team off with.
+    There's literally people slotting her in for Agastia, Hexa and even FaaZero. Her kit seems to synergies with the other top units
+        Honestly, good for her! I hadn't seen her in those niches yet myself but look, buffs are buffs, and Atk/Def Down is Atk/Def Down.
+    It doesn't look like this in first glance, but she have good synergy with v2 battles, especially with later ones. Her skill is crazy with primal grid so it's possible to spam it with yuni, her stacks is not big problem. 30% ta helps hit 100% ta easier with good atk and def boosts which is always helpful. She have own passive bonus damage so she also decent for hit count triggers. Debuffs, weapon skills and refresh is good bonuses. She is not strong or broken, but she is actually decent because she can help with most of v2 cancel conditions.
+        I run double Rinne Zeus and was less impressed with her damage output on testing but I hadn't even thought of the Yuni applicability, so that's also a huge point in her favor - I'm glad she has the potential to be made stronger by other units, I rescind my "zero circumstances" to be sure.
+    Ah okay, that's fair point. 50% def is pretty strong indeed, even for late-games.
+        It also helps that iirc Light is one of few ele who doesnt truly have the buff pack archetype(even if i'd argue its not that good most of the time) and she kinda pack it further with 30% dodge. As far as basic buff pack short of damage cap goes its a contender for the best in the game, tbh
+
+Having a hitcount button can also be quite valuable esp since her hitcount handling is super consistent between it and her passive 1 and always getting Celestial active
+
+Shes not "great" but i think theres plenty of good traits on her
+    Veterans are the most likely players  to try and meme build story-possible teams though, since their grids should be able to overcompensate enough to use MUCH weaker characters to a higher degree of efficiency.More to the point though, her kit is actually stupidly synergistic at higher difficulty fights, somehow, so she's not even a meme, she's actually viable in a number of areas, and almost all of them are V2 fights.
+She's a completely free unit that will be available to everyone now, and  as soon as the story event gets archived everyone forever. Just like Sandy beforehand, she's also likely  to get a relatively swift FLB too, so she should improve, but a free BAA in light for *new players* is really really good.
+Afaik she can kill arca 3 bar otk
+I already saw someone draw Raziel in Magus' outfit, pretty good tbh
+    ahem, source perchance?
+        https://twitter.com/hews__/status/1768770569569550414?t=1_f1yGWWnqDGmqFKGIpp2A&s=19
+            ...Of course it would be hews, lord and savior of tiddies.
+            Sasuga Hews sama
+\*bonk\*s are incoming
+Ass is eternal 
+    Ass is actually evoker
+        Screw the downvotes, I laughed
+People are already dragging her into every hard fight they can think of and she's doing fine there.
+You can actually see the definitions on the gbf wiki when you search for a character and look at their strategy tab.
+I think it was like:
+Grind,Full auto,Hard content.
+The overall ratings also have a definition when you search for SSR character tier list.
+For SSR
+10= game breaking
+9.5-9.9 Vital in Teams
+9.4-9.0 Pretty much "if you don't have anything above use this"
+Everything under 9.0 is a rare circumstance choice since some low tier characters have unique skill sets
+Everything under 8.0 should be an Sr unit and is mostly likely a problem than help.
+Being a new player you shouldn't much worry for the scores till you get more characters and go into hard content.
+Do utilize the wiki however,there are many things that aren't explained or even hidden when it comes to the content.
+    I'm more seeing it like... everything above 9 is usable.... but sometimes in very specific circumstances.
+Fenie in particular there is no reason to Spark. She is a Grand character meaning she is always going to be available in future Flash Galas.
+
+Magus and Horus meanwhile are seasonal characters, meaning their availability is significantly more limited to say the least.
+    Thank you for the quick reply!
+
+Also the main reason why I was wondering whether to go for a spark or not, is that I got lucky and got a 100 pull from the roulette, I have enough crystals to get 300 sparks, do you think it is worth going for it this time around?
+        I would say if you really would like to have Horus and Magus or some other Sparkable Character in this Flash, then it is a good idea, specially with both being strong characters. In general, gacha (Or specifically, 6% Rates Gacha, **never** normal Gacha) with Limited Characters are the best ones to Spark in even if you are not aiming for the Limited Characters. Since it means even if you are not aiming for them, you might get them while rolling for your actual target.
+
+But I will add: We are in a period of free rolls, so you may want to wait until the last day before the gacha changes (It is listed in game, just convert the timezones from JST to your own). The reason for that is that if you are gonna Spark during a period of Free Rolls, you want to use as little of your own resources for that Spark as possible. Specially since you might get the character you want during Free Rolls already.
+
+So for example, you got 100 Free Rolls. If you Spark now you will spend 200 Rolls worth of resources. But if in the next few days, you get say, 50 more Free Rolls before the gacha changes, you will only have to spend 150 Rolls worth of currency compared to if you Sparked now, meaning you save up 50 rolls worth of currency.
+            disagree on the 'never spark 3% banners' take if you're f2p and don't buy suptixes - with how broken some of the perms are it's sometimes worth sparking, especially that new years banner with 200 free rolls (i sparked bowman last year and ragazzo this year and used both of them extensively)
+
+for reference i also sparked predator on a 3% banner before 2020 dark gw (no free rolls during that time too) and she has done way more than any grand could do (well, besides szoi because she was part of the same comp lol) for me in the next year or two before i moved from enmity bursting to better setups
+
+tho i'd agree it's probably not until you get most of the relevant grands that you should start doing this - limited pools will have way more good characters to pull for newer players even if you're aiming for only a select few
+            Thanks again!
+
+I think I now have a better understanding of the gacha system. Since all my characters right now are pretty low rated on any tier list, I guess it wouldn’t hurt sparking/pulling for strong units.
+
+I’ll wait until the 18th and then just spend extra crystals for a sparked character, thank you again!
+                Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+        Discounted sparks during anni/ny are rarely a bad idea, unless you don’t want anything.  Definitely wait till the last day of flash to decide though, you’ve got more roulette coming.
+            Thank you for the advice! I will wait 2 days to go for the remaining pulls I need for a spark.
+    There's no good reason to spark Fenie on THIS banner, especially before the last day of free pulls on it, but her Staff is an utterly bonkers MH weapon, and she's a super suicide enabler for evokers, so she'll see a LOT of play quite soon.
+         How is she an enabler for the evokers? She starts with autorevive so it will take longer to get them out then someone like Ragazzo and all testing I've seen of her keeps her alive throughout the battle
+        Evoker enabler? No.
+SAME
+The vision is REAL
+I wonder who could replace cosmos if I don't have her
+    I'm not really sure there is a replacment for cosmos in this team... she does so much more damage than anyone else you could replace her with.
+        Also if you enter 40% without the FC thing up she's the only one who can easily clear the 6 DMG omen easily.
+    No one. Cosmos can do 6 element damage, 12 hits.
+
+Pretty much make her a core in Agastia, especially Full Auto.
+        sure is rough as a cosmosless to do this raid
+            It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+        could anyone replace seruel?
+            [This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+                >Juliet can be replaced by stronger characters
+
+Like who?
+                    I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+                        I tried Juliet. Works quite good too :)
+Meta really doesn't matter until like the very highest levels or if you want to clear things without much effort. If you're just starting out a character being SSR makes them really good for you, it's not until you have a lot of them that you really need to go "okay so x character is really good and y character fit with them and have nice synergy for my z element team"
+    The big example for this is like when your starting out, you honestly can get away with Lyria + 2 extras for the most important thing to do in this game - Farming M2. This is true until like your trying to get into Faa HL and such and those are leechable nowadays.
+As a new player, my best advice for you is - every single character in the game is viable; if you don't sweat the meta and are just looking to have fun, experience new content, and get the dopamine hit from getting the weapons and characters you want, you'll be fine without worrying about the metahead analysis.  
+
+
+The meta comes into play for:
+
+* Endgame content (nothing you have to worry about for a long while)
+* Placing moderately high in GW (you can do this without a meta comp just through sweat and effort, but is also not something you should worry about for a while)
+* Complaining about the tiers on Reddit
+
+If your favorite character in the game was a 9.0 on the tiers, you should use them anyways and just tweak your line-ups as you get more familiar with the game or want to try out harder content, and if you're just here for the story and events, don't sweat it - nothing tied to the story or the events is ever so hard that you can't clear it with a team of faves. Just have fun with it!
+    My friend loves Miyuki Sawashiro, she's her favorite VA
+
+As a result, Katalina *never* leaves her water team. No matter the content, no matter the boss, she is running Kat. 
+
+And like, that's a viable way to play the game!
+        I love Kana Ueda and that is why Yuel is my absolute favorite character.  I have every version of Yuel and I use her quite regularly.
+Been playing since 2018, I learn new things all the time. It comes gradually. Trying to understand everything all at once will just get you confused.
+If you're new, no need to worry about the meta so much. They become important when you're tackling endgame stuffs. Since there's roulette going on rn, I'm sure you're able to get some good SSRs to work with
+You'd still feel the same going into meta discussion topics in every other game, this is not any different
+She’s a Summer unit so a 5* isn’t really in the consideration here.
+    That will no longer be true after S.Zoi gets hers. Which is totally happening. Any time now.
+        szoi isnt a summer unit no more after her grand promotion. if she gets a ulb thats because of her grand status
+            She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+Note that her self damage is **not** a DoT, meaning Death's Grace doesn't magically turn it into a 5k HoT.
+
+Yes, she just takes 5k damage up the ass every turn with no prevention method. At least it doesn't eat Fediel's shield on top of it.
+    Ah, well that killed my hope, she had like all the weird skills I wanted to slot in.
+I'm new around here: What does 'sheep' mean?
+    both the ass and sheep are jokes, read the letters ranks of every char one by one
+        Oh!
+
+That's adorable, I'm going to be really annoying about this forever.
+            Fyi I LOLed when I saw your flair
+And miss out on the memes? Perish the thought.
+There's literally people slotting her in for Agastia, Hexa and even FaaZero. Her kit seems to synergies with the other top units
+    Honestly, good for her! I hadn't seen her in those niches yet myself but look, buffs are buffs, and Atk/Def Down is Atk/Def Down.
+It doesn't look like this in first glance, but she have good synergy with v2 battles, especially with later ones. Her skill is crazy with primal grid so it's possible to spam it with yuni, her stacks is not big problem. 30% ta helps hit 100% ta easier with good atk and def boosts which is always helpful. She have own passive bonus damage so she also decent for hit count triggers. Debuffs, weapon skills and refresh is good bonuses. She is not strong or broken, but she is actually decent because she can help with most of v2 cancel conditions.
+    I run double Rinne Zeus and was less impressed with her damage output on testing but I hadn't even thought of the Yuni applicability, so that's also a huge point in her favor - I'm glad she has the potential to be made stronger by other units, I rescind my "zero circumstances" to be sure.
+Ah okay, that's fair point. 50% def is pretty strong indeed, even for late-games.
+    It also helps that iirc Light is one of few ele who doesnt truly have the buff pack archetype(even if i'd argue its not that good most of the time) and she kinda pack it further with 30% dodge. As far as basic buff pack short of damage cap goes its a contender for the best in the game, tbh
+
+Having a hitcount button can also be quite valuable esp since her hitcount handling is super consistent between it and her passive 1 and always getting Celestial active
+
+Shes not "great" but i think theres plenty of good traits on her
+Veterans are the most likely players  to try and meme build story-possible teams though, since their grids should be able to overcompensate enough to use MUCH weaker characters to a higher degree of efficiency.More to the point though, her kit is actually stupidly synergistic at higher difficulty fights, somehow, so she's not even a meme, she's actually viable in a number of areas, and almost all of them are V2 fights.
+ahem, source perchance?
+    https://twitter.com/hews__/status/1768770569569550414?t=1_f1yGWWnqDGmqFKGIpp2A&s=19
+        ...Of course it would be hews, lord and savior of tiddies.
+        Sasuga Hews sama
+Ass is actually evoker
+    Screw the downvotes, I laughed
+I'm more seeing it like... everything above 9 is usable.... but sometimes in very specific circumstances.
+Thank you for the quick reply!
+
+Also the main reason why I was wondering whether to go for a spark or not, is that I got lucky and got a 100 pull from the roulette, I have enough crystals to get 300 sparks, do you think it is worth going for it this time around?
+    I would say if you really would like to have Horus and Magus or some other Sparkable Character in this Flash, then it is a good idea, specially with both being strong characters. In general, gacha (Or specifically, 6% Rates Gacha, **never** normal Gacha) with Limited Characters are the best ones to Spark in even if you are not aiming for the Limited Characters. Since it means even if you are not aiming for them, you might get them while rolling for your actual target.
+
+But I will add: We are in a period of free rolls, so you may want to wait until the last day before the gacha changes (It is listed in game, just convert the timezones from JST to your own). The reason for that is that if you are gonna Spark during a period of Free Rolls, you want to use as little of your own resources for that Spark as possible. Specially since you might get the character you want during Free Rolls already.
+
+So for example, you got 100 Free Rolls. If you Spark now you will spend 200 Rolls worth of resources. But if in the next few days, you get say, 50 more Free Rolls before the gacha changes, you will only have to spend 150 Rolls worth of currency compared to if you Sparked now, meaning you save up 50 rolls worth of currency.
+        disagree on the 'never spark 3% banners' take if you're f2p and don't buy suptixes - with how broken some of the perms are it's sometimes worth sparking, especially that new years banner with 200 free rolls (i sparked bowman last year and ragazzo this year and used both of them extensively)
+
+for reference i also sparked predator on a 3% banner before 2020 dark gw (no free rolls during that time too) and she has done way more than any grand could do (well, besides szoi because she was part of the same comp lol) for me in the next year or two before i moved from enmity bursting to better setups
+
+tho i'd agree it's probably not until you get most of the relevant grands that you should start doing this - limited pools will have way more good characters to pull for newer players even if you're aiming for only a select few
+        Thanks again!
+
+I think I now have a better understanding of the gacha system. Since all my characters right now are pretty low rated on any tier list, I guess it wouldn’t hurt sparking/pulling for strong units.
+
+I’ll wait until the 18th and then just spend extra crystals for a sparked character, thank you again!
+            Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+    Discounted sparks during anni/ny are rarely a bad idea, unless you don’t want anything.  Definitely wait till the last day of flash to decide though, you’ve got more roulette coming.
+        Thank you for the advice! I will wait 2 days to go for the remaining pulls I need for a spark.
+There's no good reason to spark Fenie on THIS banner, especially before the last day of free pulls on it, but her Staff is an utterly bonkers MH weapon, and she's a super suicide enabler for evokers, so she'll see a LOT of play quite soon.
+     How is she an enabler for the evokers? She starts with autorevive so it will take longer to get them out then someone like Ragazzo and all testing I've seen of her keeps her alive throughout the battle
+    Evoker enabler? No.
+I'm not really sure there is a replacment for cosmos in this team... she does so much more damage than anyone else you could replace her with.
+    Also if you enter 40% without the FC thing up she's the only one who can easily clear the 6 DMG omen easily.
+No one. Cosmos can do 6 element damage, 12 hits.
+
+Pretty much make her a core in Agastia, especially Full Auto.
+    sure is rough as a cosmosless to do this raid
+        It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+    could anyone replace seruel?
+        [This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+            >Juliet can be replaced by stronger characters
+
+Like who?
+                I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+                    I tried Juliet. Works quite good too :)
+The big example for this is like when your starting out, you honestly can get away with Lyria + 2 extras for the most important thing to do in this game - Farming M2. This is true until like your trying to get into Faa HL and such and those are leechable nowadays.
+My friend loves Miyuki Sawashiro, she's her favorite VA
+
+As a result, Katalina *never* leaves her water team. No matter the content, no matter the boss, she is running Kat. 
+
+And like, that's a viable way to play the game!
+    I love Kana Ueda and that is why Yuel is my absolute favorite character.  I have every version of Yuel and I use her quite regularly.
+That will no longer be true after S.Zoi gets hers. Which is totally happening. Any time now.
+    szoi isnt a summer unit no more after her grand promotion. if she gets a ulb thats because of her grand status
+        She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+Ah, well that killed my hope, she had like all the weird skills I wanted to slot in.
+both the ass and sheep are jokes, read the letters ranks of every char one by one
+    Oh!
+
+That's adorable, I'm going to be really annoying about this forever.
+        Fyi I LOLed when I saw your flair
+Honestly, good for her! I hadn't seen her in those niches yet myself but look, buffs are buffs, and Atk/Def Down is Atk/Def Down.
+I run double Rinne Zeus and was less impressed with her damage output on testing but I hadn't even thought of the Yuni applicability, so that's also a huge point in her favor - I'm glad she has the potential to be made stronger by other units, I rescind my "zero circumstances" to be sure.
+It also helps that iirc Light is one of few ele who doesnt truly have the buff pack archetype(even if i'd argue its not that good most of the time) and she kinda pack it further with 30% dodge. As far as basic buff pack short of damage cap goes its a contender for the best in the game, tbh
+
+Having a hitcount button can also be quite valuable esp since her hitcount handling is super consistent between it and her passive 1 and always getting Celestial active
+
+Shes not "great" but i think theres plenty of good traits on her
+https://twitter.com/hews__/status/1768770569569550414?t=1_f1yGWWnqDGmqFKGIpp2A&s=19
+    ...Of course it would be hews, lord and savior of tiddies.
+    Sasuga Hews sama
+Screw the downvotes, I laughed
+I would say if you really would like to have Horus and Magus or some other Sparkable Character in this Flash, then it is a good idea, specially with both being strong characters. In general, gacha (Or specifically, 6% Rates Gacha, **never** normal Gacha) with Limited Characters are the best ones to Spark in even if you are not aiming for the Limited Characters. Since it means even if you are not aiming for them, you might get them while rolling for your actual target.
+
+But I will add: We are in a period of free rolls, so you may want to wait until the last day before the gacha changes (It is listed in game, just convert the timezones from JST to your own). The reason for that is that if you are gonna Spark during a period of Free Rolls, you want to use as little of your own resources for that Spark as possible. Specially since you might get the character you want during Free Rolls already.
+
+So for example, you got 100 Free Rolls. If you Spark now you will spend 200 Rolls worth of resources. But if in the next few days, you get say, 50 more Free Rolls before the gacha changes, you will only have to spend 150 Rolls worth of currency compared to if you Sparked now, meaning you save up 50 rolls worth of currency.
+    disagree on the 'never spark 3% banners' take if you're f2p and don't buy suptixes - with how broken some of the perms are it's sometimes worth sparking, especially that new years banner with 200 free rolls (i sparked bowman last year and ragazzo this year and used both of them extensively)
+
+for reference i also sparked predator on a 3% banner before 2020 dark gw (no free rolls during that time too) and she has done way more than any grand could do (well, besides szoi because she was part of the same comp lol) for me in the next year or two before i moved from enmity bursting to better setups
+
+tho i'd agree it's probably not until you get most of the relevant grands that you should start doing this - limited pools will have way more good characters to pull for newer players even if you're aiming for only a select few
+    Thanks again!
+
+I think I now have a better understanding of the gacha system. Since all my characters right now are pretty low rated on any tier list, I guess it wouldn’t hurt sparking/pulling for strong units.
+
+I’ll wait until the 18th and then just spend extra crystals for a sparked character, thank you again!
+        Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+Discounted sparks during anni/ny are rarely a bad idea, unless you don’t want anything.  Definitely wait till the last day of flash to decide though, you’ve got more roulette coming.
+    Thank you for the advice! I will wait 2 days to go for the remaining pulls I need for a spark.
+ How is she an enabler for the evokers? She starts with autorevive so it will take longer to get them out then someone like Ragazzo and all testing I've seen of her keeps her alive throughout the battle
+Evoker enabler? No.
+Also if you enter 40% without the FC thing up she's the only one who can easily clear the 6 DMG omen easily.
+sure is rough as a cosmosless to do this raid
+    It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+could anyone replace seruel?
+    [This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+        >Juliet can be replaced by stronger characters
+
+Like who?
+            I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+                I tried Juliet. Works quite good too :)
+I love Kana Ueda and that is why Yuel is my absolute favorite character.  I have every version of Yuel and I use her quite regularly.
+szoi isnt a summer unit no more after her grand promotion. if she gets a ulb thats because of her grand status
+    She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+Oh!
+
+That's adorable, I'm going to be really annoying about this forever.
+    Fyi I LOLed when I saw your flair
+...Of course it would be hews, lord and savior of tiddies.
+Sasuga Hews sama
+disagree on the 'never spark 3% banners' take if you're f2p and don't buy suptixes - with how broken some of the perms are it's sometimes worth sparking, especially that new years banner with 200 free rolls (i sparked bowman last year and ragazzo this year and used both of them extensively)
+
+for reference i also sparked predator on a 3% banner before 2020 dark gw (no free rolls during that time too) and she has done way more than any grand could do (well, besides szoi because she was part of the same comp lol) for me in the next year or two before i moved from enmity bursting to better setups
+
+tho i'd agree it's probably not until you get most of the relevant grands that you should start doing this - limited pools will have way more good characters to pull for newer players even if you're aiming for only a select few
+Thanks again!
+
+I think I now have a better understanding of the gacha system. Since all my characters right now are pretty low rated on any tier list, I guess it wouldn’t hurt sparking/pulling for strong units.
+
+I’ll wait until the 18th and then just spend extra crystals for a sparked character, thank you again!
+    Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+Thank you for the advice! I will wait 2 days to go for the remaining pulls I need for a spark.
+It is, I'm planning to spark Cosmos on this banner because of that and faa zero, it's just feels bad to not have her at this point.
+[This one](https://www.youtube.com/watch?v=Tc4Ir2MYnFQ) shows a team of Cosmos, Horus and Juliet doing a full auto solo clear of Agastia with Kengo MC (Juliet can be replaced by stronger characters)
+    >Juliet can be replaced by stronger characters
+
+Like who?
+        I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+            I tried Juliet. Works quite good too :)
+She is, in fact, both a Summer unit and a Grand unit. Both tags are on her character page in the game.
+Fyi I LOLed when I saw your flair
+Just remember the banner changes on the 18th around ~11am if you are in Europe and morning in America, so be sure to use your pulls before then. If you go to the [main page of the wiki](https://gbf.wiki/Main_Page) and scroll down to "Draw promotions", you'll see how much time is left before the change.
+>Juliet can be replaced by stronger characters
+
+Like who?
+    I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+        I tried Juliet. Works quite good too :)
+I think the video used Juliet for crest generation, so if you have V. Aglovale you could use him
+    I tried Juliet. Works quite good too :)
+I tried Juliet. Works quite good too :)

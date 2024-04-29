@@ -1,0 +1,535 @@
+[[We have two classes specializing in Skill Damage and barely any damage-inflicting skills]]
+
+
+The sheer amount of support/buff skills on all the archetypes bummed me a bit:
+
+*Alchemist: 3 buff skills*
+
+*Handler: 3 Buff skills*
+
+***Gunslinger****: 2 Buff skills,* ***Quickdraw***
+
+***Archon****: Two buff,* ***Havoc form***
+
+***Challenger****:* ***War Stomp****, Two damage buff skills*
+
+***Summoner****:* ***Three summons of different flavor***
+
+***Engineer****:* ***Three summons of different flavor***
+
+*Hunter: Three buff skills*
+
+*Invader: Three buff/combat utility skills*
+
+*Medic: Three buff/healing skills*
+
+*Explorer: Three dang buff skills*
+
+Overall: *24* buff abilities vs. *9* damage dealing abilities, but 6 of them are on two archetypes and are actually summons, so damage is indirect.
+
+What happened there? There are only three direct damage dealing skills in this game, and only one of them is really great, which is Havoc Form. The rest of damage dealing skills are summons, and 90% of the damage-buffing abilities work for weapon damage only  (Invader, Challenger, Gunslinger, Alchemist, everything hunter minus Hmark) while there is only two that buff Mod damage and generation.
+
+Handler and Alchemist have the exact same skill distribution for example, each having an attack buff, defense buff and Heal buff. It all feels a bit skewed towards gunplay, and the skill-damage based classes basically having barely any good combinations. Couldn't a class like Alchemist get a damage-inflicting vial attack for example, or Explorers treasure hunter be baked into the first ability and given a third ability like a shovel throw with multiple charges?
+
+Currently Mod and Skill damage playstyles feel a bit restricted with only having access to three specialized archetypes, it would be great if new Archetypes would show some love to the casters. We're still lacking an element and status based archetype and don't even have traits for these types of damage yet.
+
+That doesn't mean that playing a caster is impossible, just that the variety is very poor when compared to gunplay. This is my opinion one of the biggest steps back from Remnant 1, as there were better status focused and mod focused builds there, with a much greater variety, despite Archetypes not existing. Mods felt more cast-y when our character would launch radioactive projectiles or volatile quills from their hands, or materialize and icy spear and throw it, maybe summon a blizzard. I was hoping for there to be some abilities like this, so far it just seems to be all about different flavors of defense/offense buffs.
+
+
+Did you want to throw the dog like a boomerang?
+    [relevant](https://media.tenor.com/MgsDjWU8ca4AAAAd/angelo-ff8.gif)
+        Hahaha I forgot about this. Classic
+        There's a full cgi version of this for a different ff game and it's glorious
+        Thank you for this.
+    That would be amazing to be honest! Mounting a laser to its back and telling it to melt a target would do too, though. I find complaints about the dog being entirely passive in a lot of fights justified, since bosses like mother mind or annihilation are flyers.
+        Well yes, the term "handler" applies it is an attack dog. Nobody brings a dog to a fight for emotional support.
+
+Well most people don't.
+
+Okay maybe a lot do
+            Support doggo best doggo
+        I’d take it.  My dog was useless during the final boss fight.  Just ran around and revived me once.  The dog being restricted to melee is pretty limiting in that hives. I played handler/summoner as my main combo the whole game (only switched it out to level other archetypes) and my build was pretty useless on the final fight.  The melee summons were as useless as the dog, and the fliers shots were too slow to hit the hose. I switched from level 10/10 handler/summoner to 10/5 handler/engineer and won easily as the laser turret focused 100% on the weak-spot.
+        Hahahahaha that fucked me up
+    Put a gun on his back and let him run around like a zoid
+        That is a term I haven't heard in years. We need more Zoids.
+    Well now I do. Go get em Fido!
+    I wanted to fire it from my wrist like Angelo from ff8
+    Yes and now this is the only thing I wnat that would satisfy me.
+    I don't know about anyone else but that would be cool and I also want to be able to strap engineer turrets to my dog
+I was hoping for more classes / skills like Archon and Havoc. Invader could have been so much more. Could have had 3 dashes that have very low cooldowns, must be used on an enemy and damage in anything in it's path.  Could have had a form where you become ethereal, equip 2 blades and gain a very aggressive melee and mobile playstyle for a period of time.
+
+Engineer could have been calling / creating a armoured suit (like Iron Man MK1), have mounted rockets and machine guns for a period of time.
+
+You get the drift. I'm disappointed that only Archon and technically Summoner have what you could consider an "Ultimate" skill. The rest would be considered average or anything but ultimate. Usually that would be ok but when you're limited to 1 skill per class then it's an issue.
+    I do like the "roaming super" vibe of the Havoc form, but I also would be happy with getting an ability with 100 charges that quickly fires an energy beam from my arm or allows me to do a rocket jump that causes an explosion on impact. Not all of the abilities need to transform your characters movement and attack set, but some phase daggers for invader or an elemental vial for Alchemist would greatly enhance the way these classes can be played and combined with other classes.
+        100%, the transformative one just sticks to my mind because that 1 skill essentially gives you 3. But a laser beam from an arm cannon sounds amazing.
+
+I just look at the handler and it's just 3 different auras. I love the dog, but the skill is one of the least impact full.
+    YES! GIVE MY BELOVED ENGI A MF MECH SUIT!!!
+    They literally just grabbed and condensed a bunch of concepts from the first game and turned it into a skill. Hunter's Mark skill was Hunter's Mark mod from the first game. The Alchemist's Frenzy Dust was the Frenzy Dust consumable from the first game. You can't find a damage traits anymore because they're all bunched into perks and stuff. Some skills give stagger resistance, but it's like, dude, Leto's armor in the first game gave me 100% stagger resistance uptime. I guess you could say there were just a lot of stuff shifted all over the place. It's not necessarily a bad thing I'll say, but truthfully it just feels so messy and much less straightforward than the first game.
+Holding heavy weapons scales with skill damage and can get pretty bonkers. Honestly feels like the better way to use the engi skills. Absolutely melts bosses when built for skill damage and my current build has only a 17 second downtime between overclocks
+
+EDIT: the 17 second downtime was a bug I was encountering where my cooldown was ticking down while my weapon was in the overclock state. My actual cooldown is now somewhere around 32 seconds after revising the build without the bug being active.
+    That is true, I did Apoc HC Annihilation with it, actually! To reiterate, I am not saying skill damage builds are bad, but that there's not enough build options when compared to Guns and the amount of buff skills this game has :)
+
+Ideally we should be seeing more stuff like this in the future instead of HuGs memes and sporebloom.
+        That is true, I 100% agree. Just didn’t want engi being fully dismissed when they are one of the few (sadly) ways to actually play a skill build.
+            Gone are the days where we refer to skill builds as builds that require gaming aptitude and mental finesse.
+    Also the melee with the heavy weapon is disgusting. It does so much damage. You can use the lifedrain on melee ring and never die
+    Is it only when you're holding it, or does it also scale when you set it down?
+        To be honest I’m not sure since I’ve never really set my turret down. I would assume it still does but it also counts as a summon too so anything that interacts with summons will also affect the turret.
+    So for 70%, do you drop pawn ring for zania/bright steel?  Silver ribbon?  You sub archon for swapping between havoc form/gun or you leaning into the damage with the gun?  Trying to decide if it's more fun to run archon because of the additional mod/havoc usage, or just lean into the gatling gun.
+        What 70% are you talking about? Armor weight? Heavy weapons dodge speed is not affected by encumbrance so wear Leto. Not sure if stamina cost is.
+
+>Silver ribbon? 
+
+My current heavy weapons build makes heavy use of relic synergy effects. Engineer perk makes it so that using a relic also fills up heavy weapons ammo. So long as you have relic charges you can completely neglect cooldown reduction while maintaining near 100% uptime on heavy weapon use.
+
+Amulet: Ankh
+
+Rings: Power Saver, Mechanics Cog, Burden of the Destroyer, Blessed Ring
+
+Traits: Glutton, Vigor, Fortify, Expertise, Barkskin and Flash Caster for QoL.
+
+Lifeless Heart is the ideal relic giving you 2x relic charges for up to 20 at max relic level.
+
+Other good Rings are Fae Shaman if you don't have Glutton and Sapphire Dreamstone for higher uptime on weapon overclock.
+
+>You sub archon for swapping between havoc form/gun
+
+The heavy weapons only scale off skill damage not mod. While carrying you can't make use of either attached weapon mods on your actual guns either. Archon offers very little overall to heavy weapon carry builds. 
+
+Use either medic or alchemist instead. Both classes have +25% bonus to all damage and +5% crit. You can also make use of both classes defensive abilities then summon the gun.
+            Ankh isn't good in my experience since you'll almost certainly be refilling your ammo less frequently than every 15 seconds. Better to use silver ribbon.
+                Just use a relic whenever the buff expires. Power saver + lifeless heart gives you an absolutely ridiculous amount of relic charges that you'll never realistically run out.
+
+I agree though. Silvercribbon is good, but I still prefer Ankh.
+
+It comes down to what items you have. If Cass isn't busy bring useless and sells Mechani's Cog, Ankh is better since haste buff doesn't stack.
+
+If you don't have Glutton, Silver Ribbon is much better than Ankh.
+                    Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+            I was testing sapphire dreamstone yesterday and it didn’t seem to reduce the overclock cooldown at all. I unloaded a full 150 shots into a dummy and crit plenty of times and my cooldown never dropped a single second
+    How you getting 17 sec over clock?
+        So it turns out that my overclock was bugged while I was testing in the shooting range trying to find a good balance of cooldown reduction and damage. My overclock cooldown was ticking down while it was active so it was giving me ridiculously low cooldown. My cooldown is actually 32 seconds I think? Could be less if I used the skill cooldown concoction.
+I just wish they could buff QuickDraw! I would love to do a skill spam build around that one skill but it’s damage is so low
+    Is it? I've been running Quickdraw a ton recently. Usually, it can 1 or 2 shot an elite, and can take a massive chunk out of a bosses health.
+        It doesn't benefit off of Gunslinger's own damage bonuses by virtue of being a skill, so the moment you move into nightmare+ the damage tanks hard.
+        How? One quickdraw will barely kill a common enemy on apoc.
+            The skills aren't balanced for apoc in general. Only maybe 20% of them are viable at that difficulty. You can't gauge the quality of an item or skill solely based on how it performs on apoc.
+                It just sucks cause that's where I'm at. If I'm not playing on Apoc, the game's too easy. Wish there was a way to reset weapon levels.
+                    As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+Yeah its hella annoying. I proposed changing it to skill efficiency instead of damage
+Skill damage buffs the dog so leaving them out because the dog also has 3 buffs associated with it inflates the numbers.  All 3 skill choices on handler benefit from skill damage.
+There's 3 dlcs coming. I'm sure it will fill out.
+That’s why I only use Quick Draw and War Stomp… Gives me actual “attack powers” and makes the game feel a little bit more like Outsiders or Mass Effect in that regard…
+
+It’s much more fun having more attacks at your disposal
+    Oh man. Those are fun to use particularly when you're starting out in the game. I agree with you. But when you get to level 10+ on Apoc, the damage is way too low, all the other skills are better options. Sad.
+I think an alternate kind of engineer that could call down mortar strikes, create damaging energy walls or summon a drone with a activated damage ability on cooldown would be neat.
+
+Drone pretty much already has a model in N erud.
+We need a wizard archetype in the DLC. Just let throw so e straight up SPELLS
+    Well we kind of already have a wizard archetype, it is called Archon.
+i think there is just to much specific damage buffs that ultimately pigeon hole you into 1 direction to feel strong in apoc difficulty... if it doesnt effect ranged damage, it isnt desirable.  something initially innocent like relic mods end up being a major power budget at mythic level but only buff 1 type of damage each... and why would you not choose ranged/weakspot damage here which does not help skill/mod damage.
+
+it ends up even leaving melee in a bad spot as a result as well.  the backdash dodge into heavy melee seems like great gameplay but feels extremely unrewarding in play unless you build around it... and then your gun damage suffers if you do.
+
+the main "problem" surrounding this is that in a gunplay focused game, guns are predominantly your best, most consistent option to deal damage.  skills and mods (outside of archon AT) feel unrewarding if you attempt to build into them in comparison to raw gun builds.  i would call special attention to bullet buff mods (hot shot) as furthering this problem... they give gun builds an easy option for more gun damage and a way to entirely ignore the plethora of mods in the game.
+    I agree on the bullet buffs especially. There isn't even any other mod or ability that can apply corrosion, for example. If we look at mods like prismatic driver that serve as an alt-fire, even on a non gun-focused build, you are still often getting better DPS out of just using a +10 mutator and a bullet mod, eg. momentum and corrosive bullets, which would equal a 55% base crit on the Blackmaw, 10% base, 15% from bullets and 30% from momentum, giving it insane sustained damage that sill outclasses mod damage.
+    Mod builds are fine, honestly. I think the bigger issue is that ranged damage can get *too* high. Killing bosses in under a minute on apocalypse is, frankly, lame.
+
+There's way too many mods in general that are just "Shoot better" or "Detonate a mark applied after shooting it" though. Weapon mod variety is kinda lacking on that front IMO, though I'm not surprised considering that your only real choices for a 'mage' mod power build archetype are archon, alchemist, and medic, two of which are supports and it's more that they just buff all damage so they work with it that way (Summoner can work too, though personally I'm not a fan of it). The game in general seems to try to shove you towards only guns, something I had hoped they'd address some since the first did similar.
+I hope each class gets like 2 new abilities give engineer 2 flying drones and a boozka and let challenger summon a giant sword. Give everyone somethin
+I was having similar thoughts on this for a long time, tried to make a skill damage/cooldown build only to discover the only real option for that is quick draw and maybe havoc form. 
+
+When I discovered alchemist was in the game I was so excited to try it only to discover it was a little underwhelming - no bomb chucking, no weapon coating and no randomness that come with experimenting. I would’ve loved a archetype dedicated to explosive damage as well, call it grenadier and give it abilities like throw explosive you can detonate, lay down mines or even fire a rocket launcher (could even make it a heavy weapon too). 
+
+At the very least, alchemist consumable passive should also have some effect on the bombs you can buy.
+Alchemist and Handler should definitely have a damaging skill.
+Engineer you can hold the heavy weapons and they’re functionally different from the turrets. This is the skill based damage class. But i agree its a weird step back taking away the magic and making them skills but not being distrubuted. Like the alchemist hold throws could have been debuffs inflicting the opposite. I.e. stone skin makes enemies brittle, elixir of life is a damaging poison when thrown. And its so crazy to me that challenger is the melee tank but doesnt have an engage. Warstomp could have been tap to do the AoE cone and hold to do a leaping ground pound like Diablo 3 barbarian
+Caster builds “cast” through mods, not skills. My personal favorite method for a caster is to run Medic/Summoner. Medic gives a passive +25% global damage through Invigorated and Summoner  gives a +35% to Skill and Mod damage for having a minion active. I use Dense Silicon and Encrypted ring for utility Mod and Health regen. My other 2 ring slots and amulet slot cycle depending on what I’m fighting and which mods I’m using.   
+  
+I’ll also change summons depending on what I’m fighting and what I need. However, if using Flyers or Murder Balloons I only ever have 1 out at a time so that if I need to I can sacrifice one and have another to cast immediately to keep my full 60% damage buff on.
+Mod damage is not restricted at all mod builds are some of the most powerful build in game. I’m pretty sure the devs don’t want ppl to deviate from actually using guns which is gonna happen if you have a whole system of damaging skills. They don’t want player just using skills.
+It’s not Destiny 2 - looking at you supers. It’s not supposed to be a game with crazy abilities. Personally I don’t like havoc form. It doesn’t fit the general theme of the game. That being a grounded sci-fi, magic, shooter. Keyword… Grounded. How the heck is havoc form “grounded”. 
+
+Grounded meaning. A slight touch of reality. Not obscene space magic like destiny 2, war frame, etc.
+    That's not really true, Remnant 1 + 2 both have tons of crazy space magic, where some mods work more like actual spells. I mean how do you summon an ethereal crow from your weapon or just materialize root minions, each world we set foot on is a new kind of sci-fi or magic or both.
+
+It's not the same art style/vibe as destiny, but generally with the worldstones and dimension travel both game showes us that there are no limits to the imaginable. Magic is part of the lore, so is the weird sci-fi stuff happening on N'erud.
+
+As for "supers", that's havoc form and that's really it, R1 had the stormcaller mod.
+    I think it's because they honestly just wanted the Archon to have a cool feeling and looking ability for all the trouble you go through to get them. Without Havoc form Archon would honestly be 99% used just for the perks and weapons because the other abilities are just "X buff in X AOE". I do feel kinda weird about having a skill damage based ability for a class who's buffs are specifically for mod damage, think it would make more sense to have Havoc temporarily give you infinite use of your mods with increased damage and maybe life steal to give you some temporary tankiness.
+        Agreed, Archons active skills are very meh until you get Stromcaller, and Stormcaller is a bit out of place. They could have baked Chaos Gate into Reality Rune and given the class another skill, or made Stormcaller profit from mod damage and skill damage (and adjusted the numbers). I don't think anyone actually uses Chaos Gate as it gives everyone inside +15% damage received, which is the different between a hit and a OHKO on higher difficulties.
+            Chaos gate definitely needs a way way bigger damage buff. 15% is nothing, that's like one amulet or two rings worth of damage increase for a 20 second duration while also taking extra damage. Only time I use it is during boss fights when the reality rune doesn't help anyways to give my turret a damage boost and so I can pop in and out to recharge my mods
+            Reality rune is already extremely slept on, if it also had the effects of chaos gate it would be *absurdly* broken. (They need to fix chaos gate tanking FPS though)
+                It's C-Tier in my book, if you run 80% DR like most people do these days it does nothing, and you can get reliable slow from mutators or mods without having to sacrifice your ability slot for it. Archon is the last class most people unlock, so you will likely have very solid gear on your toon by the time you get it. Yes, 25% DR sounds good on paper, but then the factors to reliably profit from it are not there, especially since you spend 90% of the game moving and there's so many buffs you can apply and take with you.
+
+&#x200B;
+
+Chaos gate on the other hand is the worst ability out there, the damage increase is lower than the handler doggo ATK buff, you are limited to a 7m zone instead of taking the buff with you, turning this into a friendly-fire mess in multiplayer and 25% increased mod gen are just barely noticeable. That, and you take MORE damage while inside, ***this is the only ability in the game that debuffs you*****.**
+                    The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+                        But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+                            You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+                                I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                                    I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+        Honestly the AoE slow you start with as Archon is really good.
+            Yeah it's actually good, the slowing of projectiles really helps it a lot
+        I completely agree! And it is a pain in the butt to get. I think your idea about changing the skill is a good one that fits the kit of archon much better than “storm caller”.
+    You're going to hate me for saying this, but I hear havoc form and grounded, my only thought is: but it has to be grounded or your heart would give out!
+Iirc I think skill damage buffs the potency of buffs as well
+    It does not
+Handler benefit from skill damage too- it increases the dogs damage
+    He means more like he wants there to be more skills in the game where your character does a special move and creates damage.
+        That’s totally fair, but if your counting summoner as a “skill damage” class I feel like you’ve got to also count handler
+            > if your counting
+
+*you're
+
+ *Learn the difference [here](https://www.wattpad.com/66707294-grammar-guide-there-they%27re-their-you%27re-your-to).*
+*** 
+ ^(Greetings, I am a language corrector bot. To make me ignore further mistakes from you in the future, reply `!optout` to this comment.)
+Handler dog don't scale of skill damage? It is basically a summon.
+    He means more like he wants there to be more skills in the game where your character does a special move and creates damage.
+Skills are overall disappointing. Here's hoping they are reworked for the DLC
+
+Too many skills don't really change fundamental gameplay. They mostly buff what you were going to do anyways. The medic is an exception I think is well designed.
+
+There are many skills I like. Quickdraw, war stomp, engineer turret (but do we really need 3?), hunter's mark, and invader warp. Most other skills don't make the classes feel 'special' though.
+Very good boy I'd also skill dmg based so technically 10 skills vs 9. But as for the dog I'd want one like the dog from secret of evermore... it changed how it looked and attacked based on the world/time period... secret of evermore was a square game on super Nintendo that played like secret of mana. It is better to see it by looking it up . I think it'd be a cool dlc or a mod for comp though . Imagine a flying doggo shooting laser on n,erud
+ A giant wolf on losomn etc. It'd have been fun
+I'd love to see a twin blades weapon like Ayame from Tenchu. Just 2 blades held overhand for slashy stabby combo fun.
+We need a molotov cocktail ability for alchemist. Also it would be cool if you could mix your own potion for alchemist to have a special effect or just explode, honestly alchemist is very good but very boring and needs some flavor to his kit
+[relevant](https://media.tenor.com/MgsDjWU8ca4AAAAd/angelo-ff8.gif)
+    Hahaha I forgot about this. Classic
+    There's a full cgi version of this for a different ff game and it's glorious
+    Thank you for this.
+That would be amazing to be honest! Mounting a laser to its back and telling it to melt a target would do too, though. I find complaints about the dog being entirely passive in a lot of fights justified, since bosses like mother mind or annihilation are flyers.
+    Well yes, the term "handler" applies it is an attack dog. Nobody brings a dog to a fight for emotional support.
+
+Well most people don't.
+
+Okay maybe a lot do
+        Support doggo best doggo
+    I’d take it.  My dog was useless during the final boss fight.  Just ran around and revived me once.  The dog being restricted to melee is pretty limiting in that hives. I played handler/summoner as my main combo the whole game (only switched it out to level other archetypes) and my build was pretty useless on the final fight.  The melee summons were as useless as the dog, and the fliers shots were too slow to hit the hose. I switched from level 10/10 handler/summoner to 10/5 handler/engineer and won easily as the laser turret focused 100% on the weak-spot.
+    Hahahahaha that fucked me up
+Put a gun on his back and let him run around like a zoid
+    That is a term I haven't heard in years. We need more Zoids.
+Well now I do. Go get em Fido!
+I wanted to fire it from my wrist like Angelo from ff8
+Yes and now this is the only thing I wnat that would satisfy me.
+I don't know about anyone else but that would be cool and I also want to be able to strap engineer turrets to my dog
+I do like the "roaming super" vibe of the Havoc form, but I also would be happy with getting an ability with 100 charges that quickly fires an energy beam from my arm or allows me to do a rocket jump that causes an explosion on impact. Not all of the abilities need to transform your characters movement and attack set, but some phase daggers for invader or an elemental vial for Alchemist would greatly enhance the way these classes can be played and combined with other classes.
+    100%, the transformative one just sticks to my mind because that 1 skill essentially gives you 3. But a laser beam from an arm cannon sounds amazing.
+
+I just look at the handler and it's just 3 different auras. I love the dog, but the skill is one of the least impact full.
+YES! GIVE MY BELOVED ENGI A MF MECH SUIT!!!
+They literally just grabbed and condensed a bunch of concepts from the first game and turned it into a skill. Hunter's Mark skill was Hunter's Mark mod from the first game. The Alchemist's Frenzy Dust was the Frenzy Dust consumable from the first game. You can't find a damage traits anymore because they're all bunched into perks and stuff. Some skills give stagger resistance, but it's like, dude, Leto's armor in the first game gave me 100% stagger resistance uptime. I guess you could say there were just a lot of stuff shifted all over the place. It's not necessarily a bad thing I'll say, but truthfully it just feels so messy and much less straightforward than the first game.
+That is true, I did Apoc HC Annihilation with it, actually! To reiterate, I am not saying skill damage builds are bad, but that there's not enough build options when compared to Guns and the amount of buff skills this game has :)
+
+Ideally we should be seeing more stuff like this in the future instead of HuGs memes and sporebloom.
+    That is true, I 100% agree. Just didn’t want engi being fully dismissed when they are one of the few (sadly) ways to actually play a skill build.
+        Gone are the days where we refer to skill builds as builds that require gaming aptitude and mental finesse.
+Also the melee with the heavy weapon is disgusting. It does so much damage. You can use the lifedrain on melee ring and never die
+Is it only when you're holding it, or does it also scale when you set it down?
+    To be honest I’m not sure since I’ve never really set my turret down. I would assume it still does but it also counts as a summon too so anything that interacts with summons will also affect the turret.
+So for 70%, do you drop pawn ring for zania/bright steel?  Silver ribbon?  You sub archon for swapping between havoc form/gun or you leaning into the damage with the gun?  Trying to decide if it's more fun to run archon because of the additional mod/havoc usage, or just lean into the gatling gun.
+    What 70% are you talking about? Armor weight? Heavy weapons dodge speed is not affected by encumbrance so wear Leto. Not sure if stamina cost is.
+
+>Silver ribbon? 
+
+My current heavy weapons build makes heavy use of relic synergy effects. Engineer perk makes it so that using a relic also fills up heavy weapons ammo. So long as you have relic charges you can completely neglect cooldown reduction while maintaining near 100% uptime on heavy weapon use.
+
+Amulet: Ankh
+
+Rings: Power Saver, Mechanics Cog, Burden of the Destroyer, Blessed Ring
+
+Traits: Glutton, Vigor, Fortify, Expertise, Barkskin and Flash Caster for QoL.
+
+Lifeless Heart is the ideal relic giving you 2x relic charges for up to 20 at max relic level.
+
+Other good Rings are Fae Shaman if you don't have Glutton and Sapphire Dreamstone for higher uptime on weapon overclock.
+
+>You sub archon for swapping between havoc form/gun
+
+The heavy weapons only scale off skill damage not mod. While carrying you can't make use of either attached weapon mods on your actual guns either. Archon offers very little overall to heavy weapon carry builds. 
+
+Use either medic or alchemist instead. Both classes have +25% bonus to all damage and +5% crit. You can also make use of both classes defensive abilities then summon the gun.
+        Ankh isn't good in my experience since you'll almost certainly be refilling your ammo less frequently than every 15 seconds. Better to use silver ribbon.
+            Just use a relic whenever the buff expires. Power saver + lifeless heart gives you an absolutely ridiculous amount of relic charges that you'll never realistically run out.
+
+I agree though. Silvercribbon is good, but I still prefer Ankh.
+
+It comes down to what items you have. If Cass isn't busy bring useless and sells Mechani's Cog, Ankh is better since haste buff doesn't stack.
+
+If you don't have Glutton, Silver Ribbon is much better than Ankh.
+                Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+        I was testing sapphire dreamstone yesterday and it didn’t seem to reduce the overclock cooldown at all. I unloaded a full 150 shots into a dummy and crit plenty of times and my cooldown never dropped a single second
+How you getting 17 sec over clock?
+    So it turns out that my overclock was bugged while I was testing in the shooting range trying to find a good balance of cooldown reduction and damage. My overclock cooldown was ticking down while it was active so it was giving me ridiculously low cooldown. My cooldown is actually 32 seconds I think? Could be less if I used the skill cooldown concoction.
+Is it? I've been running Quickdraw a ton recently. Usually, it can 1 or 2 shot an elite, and can take a massive chunk out of a bosses health.
+    It doesn't benefit off of Gunslinger's own damage bonuses by virtue of being a skill, so the moment you move into nightmare+ the damage tanks hard.
+    How? One quickdraw will barely kill a common enemy on apoc.
+        The skills aren't balanced for apoc in general. Only maybe 20% of them are viable at that difficulty. You can't gauge the quality of an item or skill solely based on how it performs on apoc.
+            It just sucks cause that's where I'm at. If I'm not playing on Apoc, the game's too easy. Wish there was a way to reset weapon levels.
+                As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+Oh man. Those are fun to use particularly when you're starting out in the game. I agree with you. But when you get to level 10+ on Apoc, the damage is way too low, all the other skills are better options. Sad.
+Well we kind of already have a wizard archetype, it is called Archon.
+I agree on the bullet buffs especially. There isn't even any other mod or ability that can apply corrosion, for example. If we look at mods like prismatic driver that serve as an alt-fire, even on a non gun-focused build, you are still often getting better DPS out of just using a +10 mutator and a bullet mod, eg. momentum and corrosive bullets, which would equal a 55% base crit on the Blackmaw, 10% base, 15% from bullets and 30% from momentum, giving it insane sustained damage that sill outclasses mod damage.
+Mod builds are fine, honestly. I think the bigger issue is that ranged damage can get *too* high. Killing bosses in under a minute on apocalypse is, frankly, lame.
+
+There's way too many mods in general that are just "Shoot better" or "Detonate a mark applied after shooting it" though. Weapon mod variety is kinda lacking on that front IMO, though I'm not surprised considering that your only real choices for a 'mage' mod power build archetype are archon, alchemist, and medic, two of which are supports and it's more that they just buff all damage so they work with it that way (Summoner can work too, though personally I'm not a fan of it). The game in general seems to try to shove you towards only guns, something I had hoped they'd address some since the first did similar.
+That's not really true, Remnant 1 + 2 both have tons of crazy space magic, where some mods work more like actual spells. I mean how do you summon an ethereal crow from your weapon or just materialize root minions, each world we set foot on is a new kind of sci-fi or magic or both.
+
+It's not the same art style/vibe as destiny, but generally with the worldstones and dimension travel both game showes us that there are no limits to the imaginable. Magic is part of the lore, so is the weird sci-fi stuff happening on N'erud.
+
+As for "supers", that's havoc form and that's really it, R1 had the stormcaller mod.
+I think it's because they honestly just wanted the Archon to have a cool feeling and looking ability for all the trouble you go through to get them. Without Havoc form Archon would honestly be 99% used just for the perks and weapons because the other abilities are just "X buff in X AOE". I do feel kinda weird about having a skill damage based ability for a class who's buffs are specifically for mod damage, think it would make more sense to have Havoc temporarily give you infinite use of your mods with increased damage and maybe life steal to give you some temporary tankiness.
+    Agreed, Archons active skills are very meh until you get Stromcaller, and Stormcaller is a bit out of place. They could have baked Chaos Gate into Reality Rune and given the class another skill, or made Stormcaller profit from mod damage and skill damage (and adjusted the numbers). I don't think anyone actually uses Chaos Gate as it gives everyone inside +15% damage received, which is the different between a hit and a OHKO on higher difficulties.
+        Chaos gate definitely needs a way way bigger damage buff. 15% is nothing, that's like one amulet or two rings worth of damage increase for a 20 second duration while also taking extra damage. Only time I use it is during boss fights when the reality rune doesn't help anyways to give my turret a damage boost and so I can pop in and out to recharge my mods
+        Reality rune is already extremely slept on, if it also had the effects of chaos gate it would be *absurdly* broken. (They need to fix chaos gate tanking FPS though)
+            It's C-Tier in my book, if you run 80% DR like most people do these days it does nothing, and you can get reliable slow from mutators or mods without having to sacrifice your ability slot for it. Archon is the last class most people unlock, so you will likely have very solid gear on your toon by the time you get it. Yes, 25% DR sounds good on paper, but then the factors to reliably profit from it are not there, especially since you spend 90% of the game moving and there's so many buffs you can apply and take with you.
+
+&#x200B;
+
+Chaos gate on the other hand is the worst ability out there, the damage increase is lower than the handler doggo ATK buff, you are limited to a 7m zone instead of taking the buff with you, turning this into a friendly-fire mess in multiplayer and 25% increased mod gen are just barely noticeable. That, and you take MORE damage while inside, ***this is the only ability in the game that debuffs you*****.**
+                The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+                    But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+                        You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+                            I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                                I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+    Honestly the AoE slow you start with as Archon is really good.
+        Yeah it's actually good, the slowing of projectiles really helps it a lot
+    I completely agree! And it is a pain in the butt to get. I think your idea about changing the skill is a good one that fits the kit of archon much better than “storm caller”.
+You're going to hate me for saying this, but I hear havoc form and grounded, my only thought is: but it has to be grounded or your heart would give out!
+It does not
+He means more like he wants there to be more skills in the game where your character does a special move and creates damage.
+    That’s totally fair, but if your counting summoner as a “skill damage” class I feel like you’ve got to also count handler
+        > if your counting
+
+*you're
+
+ *Learn the difference [here](https://www.wattpad.com/66707294-grammar-guide-there-they%27re-their-you%27re-your-to).*
+*** 
+ ^(Greetings, I am a language corrector bot. To make me ignore further mistakes from you in the future, reply `!optout` to this comment.)
+He means more like he wants there to be more skills in the game where your character does a special move and creates damage.
+Hahaha I forgot about this. Classic
+There's a full cgi version of this for a different ff game and it's glorious
+Thank you for this.
+Well yes, the term "handler" applies it is an attack dog. Nobody brings a dog to a fight for emotional support.
+
+Well most people don't.
+
+Okay maybe a lot do
+    Support doggo best doggo
+I’d take it.  My dog was useless during the final boss fight.  Just ran around and revived me once.  The dog being restricted to melee is pretty limiting in that hives. I played handler/summoner as my main combo the whole game (only switched it out to level other archetypes) and my build was pretty useless on the final fight.  The melee summons were as useless as the dog, and the fliers shots were too slow to hit the hose. I switched from level 10/10 handler/summoner to 10/5 handler/engineer and won easily as the laser turret focused 100% on the weak-spot.
+Hahahahaha that fucked me up
+That is a term I haven't heard in years. We need more Zoids.
+100%, the transformative one just sticks to my mind because that 1 skill essentially gives you 3. But a laser beam from an arm cannon sounds amazing.
+
+I just look at the handler and it's just 3 different auras. I love the dog, but the skill is one of the least impact full.
+That is true, I 100% agree. Just didn’t want engi being fully dismissed when they are one of the few (sadly) ways to actually play a skill build.
+    Gone are the days where we refer to skill builds as builds that require gaming aptitude and mental finesse.
+To be honest I’m not sure since I’ve never really set my turret down. I would assume it still does but it also counts as a summon too so anything that interacts with summons will also affect the turret.
+What 70% are you talking about? Armor weight? Heavy weapons dodge speed is not affected by encumbrance so wear Leto. Not sure if stamina cost is.
+
+>Silver ribbon? 
+
+My current heavy weapons build makes heavy use of relic synergy effects. Engineer perk makes it so that using a relic also fills up heavy weapons ammo. So long as you have relic charges you can completely neglect cooldown reduction while maintaining near 100% uptime on heavy weapon use.
+
+Amulet: Ankh
+
+Rings: Power Saver, Mechanics Cog, Burden of the Destroyer, Blessed Ring
+
+Traits: Glutton, Vigor, Fortify, Expertise, Barkskin and Flash Caster for QoL.
+
+Lifeless Heart is the ideal relic giving you 2x relic charges for up to 20 at max relic level.
+
+Other good Rings are Fae Shaman if you don't have Glutton and Sapphire Dreamstone for higher uptime on weapon overclock.
+
+>You sub archon for swapping between havoc form/gun
+
+The heavy weapons only scale off skill damage not mod. While carrying you can't make use of either attached weapon mods on your actual guns either. Archon offers very little overall to heavy weapon carry builds. 
+
+Use either medic or alchemist instead. Both classes have +25% bonus to all damage and +5% crit. You can also make use of both classes defensive abilities then summon the gun.
+    Ankh isn't good in my experience since you'll almost certainly be refilling your ammo less frequently than every 15 seconds. Better to use silver ribbon.
+        Just use a relic whenever the buff expires. Power saver + lifeless heart gives you an absolutely ridiculous amount of relic charges that you'll never realistically run out.
+
+I agree though. Silvercribbon is good, but I still prefer Ankh.
+
+It comes down to what items you have. If Cass isn't busy bring useless and sells Mechani's Cog, Ankh is better since haste buff doesn't stack.
+
+If you don't have Glutton, Silver Ribbon is much better than Ankh.
+            Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+    I was testing sapphire dreamstone yesterday and it didn’t seem to reduce the overclock cooldown at all. I unloaded a full 150 shots into a dummy and crit plenty of times and my cooldown never dropped a single second
+So it turns out that my overclock was bugged while I was testing in the shooting range trying to find a good balance of cooldown reduction and damage. My overclock cooldown was ticking down while it was active so it was giving me ridiculously low cooldown. My cooldown is actually 32 seconds I think? Could be less if I used the skill cooldown concoction.
+It doesn't benefit off of Gunslinger's own damage bonuses by virtue of being a skill, so the moment you move into nightmare+ the damage tanks hard.
+How? One quickdraw will barely kill a common enemy on apoc.
+    The skills aren't balanced for apoc in general. Only maybe 20% of them are viable at that difficulty. You can't gauge the quality of an item or skill solely based on how it performs on apoc.
+        It just sucks cause that's where I'm at. If I'm not playing on Apoc, the game's too easy. Wish there was a way to reset weapon levels.
+            As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+Agreed, Archons active skills are very meh until you get Stromcaller, and Stormcaller is a bit out of place. They could have baked Chaos Gate into Reality Rune and given the class another skill, or made Stormcaller profit from mod damage and skill damage (and adjusted the numbers). I don't think anyone actually uses Chaos Gate as it gives everyone inside +15% damage received, which is the different between a hit and a OHKO on higher difficulties.
+    Chaos gate definitely needs a way way bigger damage buff. 15% is nothing, that's like one amulet or two rings worth of damage increase for a 20 second duration while also taking extra damage. Only time I use it is during boss fights when the reality rune doesn't help anyways to give my turret a damage boost and so I can pop in and out to recharge my mods
+    Reality rune is already extremely slept on, if it also had the effects of chaos gate it would be *absurdly* broken. (They need to fix chaos gate tanking FPS though)
+        It's C-Tier in my book, if you run 80% DR like most people do these days it does nothing, and you can get reliable slow from mutators or mods without having to sacrifice your ability slot for it. Archon is the last class most people unlock, so you will likely have very solid gear on your toon by the time you get it. Yes, 25% DR sounds good on paper, but then the factors to reliably profit from it are not there, especially since you spend 90% of the game moving and there's so many buffs you can apply and take with you.
+
+&#x200B;
+
+Chaos gate on the other hand is the worst ability out there, the damage increase is lower than the handler doggo ATK buff, you are limited to a 7m zone instead of taking the buff with you, turning this into a friendly-fire mess in multiplayer and 25% increased mod gen are just barely noticeable. That, and you take MORE damage while inside, ***this is the only ability in the game that debuffs you*****.**
+            The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+                But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+                    You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+                        I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                            I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+Honestly the AoE slow you start with as Archon is really good.
+    Yeah it's actually good, the slowing of projectiles really helps it a lot
+I completely agree! And it is a pain in the butt to get. I think your idea about changing the skill is a good one that fits the kit of archon much better than “storm caller”.
+That’s totally fair, but if your counting summoner as a “skill damage” class I feel like you’ve got to also count handler
+    > if your counting
+
+*you're
+
+ *Learn the difference [here](https://www.wattpad.com/66707294-grammar-guide-there-they%27re-their-you%27re-your-to).*
+*** 
+ ^(Greetings, I am a language corrector bot. To make me ignore further mistakes from you in the future, reply `!optout` to this comment.)
+Support doggo best doggo
+Gone are the days where we refer to skill builds as builds that require gaming aptitude and mental finesse.
+Ankh isn't good in my experience since you'll almost certainly be refilling your ammo less frequently than every 15 seconds. Better to use silver ribbon.
+    Just use a relic whenever the buff expires. Power saver + lifeless heart gives you an absolutely ridiculous amount of relic charges that you'll never realistically run out.
+
+I agree though. Silvercribbon is good, but I still prefer Ankh.
+
+It comes down to what items you have. If Cass isn't busy bring useless and sells Mechani's Cog, Ankh is better since haste buff doesn't stack.
+
+If you don't have Glutton, Silver Ribbon is much better than Ankh.
+        Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+I was testing sapphire dreamstone yesterday and it didn’t seem to reduce the overclock cooldown at all. I unloaded a full 150 shots into a dummy and crit plenty of times and my cooldown never dropped a single second
+The skills aren't balanced for apoc in general. Only maybe 20% of them are viable at that difficulty. You can't gauge the quality of an item or skill solely based on how it performs on apoc.
+    It just sucks cause that's where I'm at. If I'm not playing on Apoc, the game's too easy. Wish there was a way to reset weapon levels.
+        As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+Chaos gate definitely needs a way way bigger damage buff. 15% is nothing, that's like one amulet or two rings worth of damage increase for a 20 second duration while also taking extra damage. Only time I use it is during boss fights when the reality rune doesn't help anyways to give my turret a damage boost and so I can pop in and out to recharge my mods
+Reality rune is already extremely slept on, if it also had the effects of chaos gate it would be *absurdly* broken. (They need to fix chaos gate tanking FPS though)
+    It's C-Tier in my book, if you run 80% DR like most people do these days it does nothing, and you can get reliable slow from mutators or mods without having to sacrifice your ability slot for it. Archon is the last class most people unlock, so you will likely have very solid gear on your toon by the time you get it. Yes, 25% DR sounds good on paper, but then the factors to reliably profit from it are not there, especially since you spend 90% of the game moving and there's so many buffs you can apply and take with you.
+
+&#x200B;
+
+Chaos gate on the other hand is the worst ability out there, the damage increase is lower than the handler doggo ATK buff, you are limited to a 7m zone instead of taking the buff with you, turning this into a friendly-fire mess in multiplayer and 25% increased mod gen are just barely noticeable. That, and you take MORE damage while inside, ***this is the only ability in the game that debuffs you*****.**
+        The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+            But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+                You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+                    I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                        I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+Yeah it's actually good, the slowing of projectiles really helps it a lot
+> if your counting
+
+*you're
+
+ *Learn the difference [here](https://www.wattpad.com/66707294-grammar-guide-there-they%27re-their-you%27re-your-to).*
+*** 
+ ^(Greetings, I am a language corrector bot. To make me ignore further mistakes from you in the future, reply `!optout` to this comment.)
+Just use a relic whenever the buff expires. Power saver + lifeless heart gives you an absolutely ridiculous amount of relic charges that you'll never realistically run out.
+
+I agree though. Silvercribbon is good, but I still prefer Ankh.
+
+It comes down to what items you have. If Cass isn't busy bring useless and sells Mechani's Cog, Ankh is better since haste buff doesn't stack.
+
+If you don't have Glutton, Silver Ribbon is much better than Ankh.
+    Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+It just sucks cause that's where I'm at. If I'm not playing on Apoc, the game's too easy. Wish there was a way to reset weapon levels.
+    As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+It's C-Tier in my book, if you run 80% DR like most people do these days it does nothing, and you can get reliable slow from mutators or mods without having to sacrifice your ability slot for it. Archon is the last class most people unlock, so you will likely have very solid gear on your toon by the time you get it. Yes, 25% DR sounds good on paper, but then the factors to reliably profit from it are not there, especially since you spend 90% of the game moving and there's so many buffs you can apply and take with you.
+
+&#x200B;
+
+Chaos gate on the other hand is the worst ability out there, the damage increase is lower than the handler doggo ATK buff, you are limited to a 7m zone instead of taking the buff with you, turning this into a friendly-fire mess in multiplayer and 25% increased mod gen are just barely noticeable. That, and you take MORE damage while inside, ***this is the only ability in the game that debuffs you*****.**
+    The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+        But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+            You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+                I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                    I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+Having to put down the weapon and use a relic every 15 seconds is enough of a DPS loss that silver ribbon comes out ahead whether you have glutton or not. Ankh is better if not all your damage is coming from skills, but for perma-carry engineer silver ribbon is better.
+
+Also, mechanist's cog doesn't give haste. It gives bulwark and a flat move speed buff.
+As much as I love Remnant 2, I wish the difficulties were handled better. I've always believed that a game should never force a player to change their build. If you're skilled enough, you should be able to beat any boss, on any difficulty, with any build. But the poorly thought-out affix system can create combinations that will completely invalidate some builds to the point that the boss is literally unbeatable without a respec. I don't like playing on apoc because I don't like having to do a coin flip everytime I fight a boss. Will he be difficult but fair, or will he spawn with an affix combination that makes him unkillable with my current build.
+The 25% DR is the least important part of it, but sure.
+
+The projectile slow and slow it applies to enemies make it incredibly powerful as making an effective wall on the battlefield if used properly.
+
+That said, I do like the bonus DR personally since I run light armor. It's pretty much a bonus though.
+    But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+        You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+            I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+                I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+But then the alchemists first ability gives you 25% DR you can take with you, less stagger, allowing for effective hit trading. The projectiles in Reality rune just slow down, meaning you can run into them if an enemy does a projectile spam attack, oneshotting you.
+    You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+        I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+            I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+You don't treat it as a buff field, you treat it as effectively a wall you can use, both for melee and ranged (And it debuffs melee). I typically bait projectiles into coming at me while standing in the center of it, then back away behind it, once they're nearing the border of it you just side step to be 100% safe. It completely negates any projectile enemy unless they're firing from your sides, and even then you just avoid them normally.
+
+If you run into them in the bubble, you fucked up hard. For melee enemies you can also go into the bubble to bait out melee combos and then just casually roll/run out so they flail at the air.
+
+Reality rune is *fantastic.* Treating it solely like a 25% DR field is **massively** underselling it. The point of it is to avoid the damage entirely in the first place, and it makes it *way* easier to do so.
+    I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+        I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+I disagree with almost everything you said, because there are just so many better abilties to use instead of reality rune. Most projectiles can easily be sidestepped, and the DPS-increase or survivability I get from other abilities is just way too good to pass on, e.g. the stagger reduction from alchemist just allows me to keep shooting and outheal the damage, that works on the bloat king even on apoc. I would see the use case on Venom Apoc, who has in my opinion the most deadly projectile attack in the game, but then I also like to just bait him around the building, which makes him miss always. Most really deadly enemy attacks are melee, the only boss I consistently had problems with was Sha'hala projectile spam, until I found out you can just sidestep these, too. It's cool if the ability works for you, and if you find it useful for your build that's totally fine, happy to agree to disagree. What do you think of Chaos gate?
+    I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.
+I think it [destroys my FPS](https://www.youtube.com/watch?v=CnoEIpmVtTg) so I have no real strong opinions on it since I barely touch it. It's... fine though? It's a medium risk, medium reward skill. It's one of the only ways to just straight up improve damage, not to mention increase mod generation so I don't really mind the damage taken increase.

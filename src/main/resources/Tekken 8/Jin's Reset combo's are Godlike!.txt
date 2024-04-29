@@ -1,0 +1,547 @@
+[[Jin's Reset combo's are Godlike!]]
+
+
+
+
+
+Good heavens
+This isn't "godlike" the opponent has no clue he needs to either tech roll and block or just lay down.
+    I believe the only way not to eat guaranteed damage after this spike is stand up and block. More characters have this, probably even all, idk. See [this mainman video](https://youtu.be/_CE01wUB9cI)
+        Basically now if you dont tech you can get picked up again but if you tech roll you can also get picked up again, you need to know what do do exactly after every ender instead of always try to tech roll.
+            I think you can't actually tech roll out of this because you're flat on the ground. You'll only sideroll, which is also dangerous but doesn't guarantee a full combo. I believe it just flips over if you do that in stead of relaunch. I think this guy just tried to spring kick and get up kick. You'll get relaunched if you retaliate. At least that's what it seems to be to me. Would need to test with this specific move as I've only tried with another character. Could be wrong for this specific case.
+                I know mutiple characters has at least 1 spike move that causes a follow up to only be blockable by standing up so I assume this is just a new thing they make in T8 and should be universal.
+                    Yeah definitely. Makes oki quite interesting actually. I like it.
+                        IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+                            I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+                                In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                                    That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+                            I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+                            it’s not a guessing game tho you can react to every single one of these slow options
+                                It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                                    no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+                    It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+        Stand up and block, yeah, but alternatively you can do the recovery kick (d+3 or d+4 while on the ground) and you will interrupt the dash.
+            Are you sure? If so that's just with this specific instance, cause in general with the setups with this type of spike you'll eat shit with everything but standup.
+    > This isn't "godlike" the opponent has** no clue he needs to either tech roll** and block or just lay down.
+
+
+
+How you expect him to tech roll, when he was bound to ground? What do I miss?
+        If you watch closely, he was not bound the entire time,  he had 3 opportunities to tech roll or use a getup option. One he chose to stand, one he chose to spring kick, and the last one I forget. He definitely did not tech roll any of the three.
+            Hey I'm kinda new, since I usually find myself in some similar situations and hear the word tech roll a lot could you explain it a bit to me? Like is it when you roll either left or right while on the ground?
+                Tech roll is when you press either the 1 or 2 button (left or right punch) right as your character hits the ground. They will go into the roll animation and be invulnerable for a few frames. You can tech roll as long as your character is not "bound" as part of a combo. Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground. 
+
+If you're a beginner and unsure, you can basically just keep quickly pressing the 1 or 2 button while you are getting combo'd and your character will roll at the first available opportunity.  
+
+I'm this video, when Jim does the 3~3 kick, it's considered a reset because the opponent had a chance to use an option, be it tech roll, Chinese getup, stand, getup kick, spring kick, or even just staying grounded. They chose the wrong option 3 times in a row and Jim was able to "reset" and re-launch them for another combo. 
+
+Oki in Tekken is the scenario where one player is grounded and the other player is able to play a sort of rock-paper-scissors as to what happens next. Each character has different setups and generally can select different options as a mix-up for what happens next. When in doubt as a new player, I'd recommend staying grounded first, it's a good way to check that the opponent will do, and generally while you might take some damage, it's relatively limited in how much and you'll never get reset like this. Tech roll can be a good option since it provides some invulnerability, but people have traps and setups if you only use the roll option. Standing getup and then blocking is one of your faster and safer options, you press up on the stick and then hold back to block. Getup kicks are generally bad, and unless you are sure it'll connect, you are very likely to get punished or launched for choosing that option.
+                    Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+                        The in game practice mode calls it ukemi roll if you want to practice with it
+                    > Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+            You can't tech roll a spike. The option to tech roll is completely removed. The only option that beats this is holding up to stand and block. Then if Jin chooses to go low and launch, you're fucked again.
+            > If you watch closely, he was not bound the entire time, he had 3 opportunities to tech roll or use a getup option.
+
+I rewatched closely. He actualy was bound in first 2. Last one ye he just ate launch.
+        Yeah you just lay there the mid whiffs then a toe kick will let you up.
+    He was picking options to deal with D2 I conditioned him in the previous rounds to expect D2 in that scenario.
+        He doesn't need to pick options, just tech roll lmao
+            Tech roll doesn’t escape cd1 after df 3~3
+            You cannot techroll to avoid it after that spike.
+            U cant lul
+    how do you tech roll? And why continue to lay down? Wouldn't he just get hit?
+    Yeh paul's just getting up the same unsafe way each time.
+    how do u tech roll. i tried few times and even mid air it wont allow you  unless you close to end of combo near the wall already.
+        You cannot tech roll during a combo, it's only an option after your character lands at the end of the combo. 
+
+You also cannot tech roll while being "bound" which is the animation in the middle of the combo where their feet are in the air, their shoulders slam the ground and they bounce off the ground.
+    even when i block and tech roll, i still get hit.
+        Tech roll is fully invincible.
+            so its just broke then? lmao
+How do you to the ground splatting kick after zen u+1?
+    Df 3~3
+        That's a deeply satisfying notation for a question mark kick, cool
+        What does the ~ notate? (New to Tekken)
+            In quick succession. So hold df and double tap 3 quickly 
+I feel like I play against that kind of player every match
+can you like teach me how to play the game, im sitting with Jin since T3 and i dont know shit
+    Find an opponent who repeatedly stands the punishment.
+        doesnt really solves my skill issue
+For everyone's knowledge, you can block this by holding UP. The top comments on this thread are wrong, you cannot techroll this in time due to the spike.
+
+If you try to techroll, you get hit. If you hold back, you also get hit. By holding up, your character stands up immediately and will be blocking.
+    I gotta get in the habit of this, SF6 got me mashing back on every knockdown...
+        That's gonna be where just Tekken players are at, too. Holding back was usually the best way to wake up in T7.
+Damn! Then there’s me being proud of finally being able to move my fingers fast enough to do the zen cancels mid combo consistently🤣
+    Progress is progress
+I'm happy I check reddit because I mainly fight vs my friends and think that i should try fighting online. Then I see videos like this and I'm like "nah I'm good"
+if this happens to you, press 1 or 2 to tech roll. its the safest wakeup option! (although you are probably on disadvantage when you stand up)
+    You cant techroll after a spike like this. He can probably just stand up and block the cd1 tho.
+        there are different set ups in that video. i was talking about the last one. but you are right, the best option if you get spiked is to hold up to wake up and block
+Mighty Ruler damn that's nice man.
+
+I was Ryujin in Tekken 7 with Kuma and now I'm fighting for my life to get Tenryu lmao.
+mighty ruler bullying an eliminator 😅
+Godlike=opponent is clueless on how the game works
+    Tbf ground game is not exactly explained in-game. And this spike tech is new to T8
+I've been missing out on some meaty chunks of jins kit. Thank you for posting this
+the whole i the idea is that the jin players is doing less damage with the combo then if he did a optimal but instead he gets pressure and a mixup, if he’s guesses right he gets more damage then the optimal would’ve, but it’s not guranteed ofc. what happened in the vid isn’t even realistic the kazuya mashed on wake-up every time.   it’s more like a knowledge check than it is sum new broken tech 
+
+TLDR: Lessing dmg for more pressure and potentially more reward, reset, not guranteed, and it’s a knowledge check.
+I just fought this guy too! He knows his punishes but his favorite move in the whole wide world is DF2 in neutral.
+
+Maybe didn't deserve the smoke you gave him though lmao
+Is there a way to break a juggle combo?  
+
+
+Kazuya spent around 80% of time of this vid mid-air or being "lifted up" again once hit the ground. How does it make sense?
+    It’s not a true combo. There are ways to avoid this
+        What's the way to avoid this? From the comments it seems like tech rolls are not an option.
+            You press Up to stand and block. If you wanna play it safer you can take the cd1 while on the ground and then stand up
+                But cd1 launched Paul off the ground right in the end, i thought it only flips, can you explain why?
+                    The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+    Mk1 did right because they had kameo characters to break if you have the meter but in solo game there should be a meter to break and get out of a combo if you feel like you're gonna sit and stare at the screen until you're dead, ofcourse they should have a cooldown on the break but definitely it helps the game to have a healthy balance l
+        It’s balanced because it’s not a real combo. That’s why its called a RESET combo
+        Or just balance the game better so you don't need to gamble with 1:10 odds every time you get up off the floor.
+I need to get to this level
+Good lord almighty 😮‍💨😮‍💨
+im taking down notes on this thanks
+"Jin is easy in Tekken 8" 🤓
+    he is. and he's absurdly strong on top of that.
+    He’s definitely easier than 7 but I still don’t know about him being a character for beginners yet. Still a Mishima at the end of the day
+        Not really. He is perfectly functional without the Mishima stuff, like Reina. Both have stance mixups, 15f launch options, good combo and carry, good universal tools like pokes, power crush, high crush and low crush options, the Mishima stuff are just cherry on top.
+
+Compare those to Kazuya and a smaller extent DVJ, they are more reliant on the Mishima movement playstyle although DVJ is also loads of BS now with the new mourning crow approach tool.
+            Yeah Kazuya and Hei were the more technical pair now it kind of feels like Kaz is by himself. Reina has sauce but her generic tools are pretty great.
+    Yes he is
+    Is this video supposed to prove that he isn't easy???? Because he can do a braindead spike into fucked up oki situation? That sounds pretty easy to me...
+    He’s brain dead easy with the most well rounded kit in the game. They even gave him a fucking free full screen wavedash with zero execution behind it
+I don't play Tekken or any fighting games but I can tell you that from the past it's shit like this that made me rage quit in the SNES and PS1 days
+And people say Jins not OP and easy to play as 🤣🤣🤣🤡🤡🤡
+    kazuya pressed 2 times in a row resulting launched by ecd1 bruh
+    Still crying I see. How about you Get Good.
+        "Get good" coming from someone button mashing for combos 🤣🤡
+            Her tag is litterally Lee, the absolute WORST character to mash combos with
+            That's a certified scrub quote.  
+
+What makes you think they button mash?
+            That's Lee not Hwo
+I prefer calling that "lame"
+Bruh, this isn’t even a reset combo, fuck outta here
+    You are not very bright are you? Lol
+        Says the dude talking outta his ass
+            sorry that he beat your ass so hard in this video bro, someone had to be the trainning dummy.
+                Learn to play the game first then talk to me
+        Learn the game
+1. This isn't a combo.  
+2. Resets are by definition, not combos.
+    >Resets are by definition, not combos.
+
+But the followups after are. Just like an "Electric combo" refers to a combo you do off of an Electric, a "reset combo" is one you do off of a reset.
+you can do it with any character isn’t it?
+New to tekken. Could he have just blocked high on wake up? Why did it keep launching
+Damn thats good!
+
+Any chance I could get the inputs on that?
+All you gotta do is stay down for a half sec
+kaz's not tech rolling.
+
+oh so you have to quick stand? nasty.
+crazy how jin’s bnbs have basically been the same since tag 2 lol
+In my whole time of buying Tekken 7 launch day to now, I’ve never known how to do that hidden combo after you first launched him and hit with hook fist. I think it’s one of those legacy moves that have carried over without being in the move list since idk Tekken 4 or something
+    All of those moves are in the list lol.
+    back forward 23?  yeah, its one of his bnb. but you have to hit the forward 2 clean or it wont work.
+Mine are godlike too when the other guy just mash on wake up or don't know what a tech roll is
+I'm stealing this good shit. Thanks!
+    the trick is to quick rise, then block. press up, dont side roll. kaz has it too.
+That man got flipped like a pancake
+Let my man breathe
+"When do I get to play."
+Bro didn’t not pay 70 dollars to block
+‘my opponent doesn’t know how to get off the ground’
+:always has been:
+Gah Damn. Looks like a lesser infinite.
+I hate the new jin
+I don't know why everyone doesn't use jin he is broken
+    There are bigger monsters and tech in Tekken 8 that makes this looks like childs play.
+        Yeah like kuma, victor and etc.
+More cheese like
+Yeah Hwoarang also has something like this. The problem is you probably are not mashing tech because you didn't know they will spike there. Some good tech but after one or two combo opponent probably already learned the timing.
+How do you get the red eyes crouch dash after the low kick?
+Damn I did this a bunch and thought I was the hottest Jin and no one will ever figure this one out. I see this has, in fact, been figured out 😭
+I believe the only way not to eat guaranteed damage after this spike is stand up and block. More characters have this, probably even all, idk. See [this mainman video](https://youtu.be/_CE01wUB9cI)
+    Basically now if you dont tech you can get picked up again but if you tech roll you can also get picked up again, you need to know what do do exactly after every ender instead of always try to tech roll.
+        I think you can't actually tech roll out of this because you're flat on the ground. You'll only sideroll, which is also dangerous but doesn't guarantee a full combo. I believe it just flips over if you do that in stead of relaunch. I think this guy just tried to spring kick and get up kick. You'll get relaunched if you retaliate. At least that's what it seems to be to me. Would need to test with this specific move as I've only tried with another character. Could be wrong for this specific case.
+            I know mutiple characters has at least 1 spike move that causes a follow up to only be blockable by standing up so I assume this is just a new thing they make in T8 and should be universal.
+                Yeah definitely. Makes oki quite interesting actually. I like it.
+                    IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+                        I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+                            In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                                That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+                        I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+                        it’s not a guessing game tho you can react to every single one of these slow options
+                            It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                                no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+                It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+    Stand up and block, yeah, but alternatively you can do the recovery kick (d+3 or d+4 while on the ground) and you will interrupt the dash.
+        Are you sure? If so that's just with this specific instance, cause in general with the setups with this type of spike you'll eat shit with everything but standup.
+> This isn't "godlike" the opponent has** no clue he needs to either tech roll** and block or just lay down.
+
+
+
+How you expect him to tech roll, when he was bound to ground? What do I miss?
+    If you watch closely, he was not bound the entire time,  he had 3 opportunities to tech roll or use a getup option. One he chose to stand, one he chose to spring kick, and the last one I forget. He definitely did not tech roll any of the three.
+        Hey I'm kinda new, since I usually find myself in some similar situations and hear the word tech roll a lot could you explain it a bit to me? Like is it when you roll either left or right while on the ground?
+            Tech roll is when you press either the 1 or 2 button (left or right punch) right as your character hits the ground. They will go into the roll animation and be invulnerable for a few frames. You can tech roll as long as your character is not "bound" as part of a combo. Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground. 
+
+If you're a beginner and unsure, you can basically just keep quickly pressing the 1 or 2 button while you are getting combo'd and your character will roll at the first available opportunity.  
+
+I'm this video, when Jim does the 3~3 kick, it's considered a reset because the opponent had a chance to use an option, be it tech roll, Chinese getup, stand, getup kick, spring kick, or even just staying grounded. They chose the wrong option 3 times in a row and Jim was able to "reset" and re-launch them for another combo. 
+
+Oki in Tekken is the scenario where one player is grounded and the other player is able to play a sort of rock-paper-scissors as to what happens next. Each character has different setups and generally can select different options as a mix-up for what happens next. When in doubt as a new player, I'd recommend staying grounded first, it's a good way to check that the opponent will do, and generally while you might take some damage, it's relatively limited in how much and you'll never get reset like this. Tech roll can be a good option since it provides some invulnerability, but people have traps and setups if you only use the roll option. Standing getup and then blocking is one of your faster and safer options, you press up on the stick and then hold back to block. Getup kicks are generally bad, and unless you are sure it'll connect, you are very likely to get punished or launched for choosing that option.
+                Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+                    The in game practice mode calls it ukemi roll if you want to practice with it
+                > Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+        You can't tech roll a spike. The option to tech roll is completely removed. The only option that beats this is holding up to stand and block. Then if Jin chooses to go low and launch, you're fucked again.
+        > If you watch closely, he was not bound the entire time, he had 3 opportunities to tech roll or use a getup option.
+
+I rewatched closely. He actualy was bound in first 2. Last one ye he just ate launch.
+    Yeah you just lay there the mid whiffs then a toe kick will let you up.
+He was picking options to deal with D2 I conditioned him in the previous rounds to expect D2 in that scenario.
+    He doesn't need to pick options, just tech roll lmao
+        Tech roll doesn’t escape cd1 after df 3~3
+        You cannot techroll to avoid it after that spike.
+        U cant lul
+how do you tech roll? And why continue to lay down? Wouldn't he just get hit?
+Yeh paul's just getting up the same unsafe way each time.
+how do u tech roll. i tried few times and even mid air it wont allow you  unless you close to end of combo near the wall already.
+    You cannot tech roll during a combo, it's only an option after your character lands at the end of the combo. 
+
+You also cannot tech roll while being "bound" which is the animation in the middle of the combo where their feet are in the air, their shoulders slam the ground and they bounce off the ground.
+even when i block and tech roll, i still get hit.
+    Tech roll is fully invincible.
+        so its just broke then? lmao
+Df 3~3
+    That's a deeply satisfying notation for a question mark kick, cool
+    What does the ~ notate? (New to Tekken)
+        In quick succession. So hold df and double tap 3 quickly 
+Find an opponent who repeatedly stands the punishment.
+    doesnt really solves my skill issue
+I gotta get in the habit of this, SF6 got me mashing back on every knockdown...
+    That's gonna be where just Tekken players are at, too. Holding back was usually the best way to wake up in T7.
+Progress is progress
+You cant techroll after a spike like this. He can probably just stand up and block the cd1 tho.
+    there are different set ups in that video. i was talking about the last one. but you are right, the best option if you get spiked is to hold up to wake up and block
+Tbf ground game is not exactly explained in-game. And this spike tech is new to T8
+It’s not a true combo. There are ways to avoid this
+    What's the way to avoid this? From the comments it seems like tech rolls are not an option.
+        You press Up to stand and block. If you wanna play it safer you can take the cd1 while on the ground and then stand up
+            But cd1 launched Paul off the ground right in the end, i thought it only flips, can you explain why?
+                The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+Mk1 did right because they had kameo characters to break if you have the meter but in solo game there should be a meter to break and get out of a combo if you feel like you're gonna sit and stare at the screen until you're dead, ofcourse they should have a cooldown on the break but definitely it helps the game to have a healthy balance l
+    It’s balanced because it’s not a real combo. That’s why its called a RESET combo
+    Or just balance the game better so you don't need to gamble with 1:10 odds every time you get up off the floor.
+he is. and he's absurdly strong on top of that.
+He’s definitely easier than 7 but I still don’t know about him being a character for beginners yet. Still a Mishima at the end of the day
+    Not really. He is perfectly functional without the Mishima stuff, like Reina. Both have stance mixups, 15f launch options, good combo and carry, good universal tools like pokes, power crush, high crush and low crush options, the Mishima stuff are just cherry on top.
+
+Compare those to Kazuya and a smaller extent DVJ, they are more reliant on the Mishima movement playstyle although DVJ is also loads of BS now with the new mourning crow approach tool.
+        Yeah Kazuya and Hei were the more technical pair now it kind of feels like Kaz is by himself. Reina has sauce but her generic tools are pretty great.
+Yes he is
+Is this video supposed to prove that he isn't easy???? Because he can do a braindead spike into fucked up oki situation? That sounds pretty easy to me...
+He’s brain dead easy with the most well rounded kit in the game. They even gave him a fucking free full screen wavedash with zero execution behind it
+kazuya pressed 2 times in a row resulting launched by ecd1 bruh
+Still crying I see. How about you Get Good.
+    "Get good" coming from someone button mashing for combos 🤣🤡
+        Her tag is litterally Lee, the absolute WORST character to mash combos with
+        That's a certified scrub quote.  
+
+What makes you think they button mash?
+        That's Lee not Hwo
+You are not very bright are you? Lol
+    Says the dude talking outta his ass
+        sorry that he beat your ass so hard in this video bro, someone had to be the trainning dummy.
+            Learn to play the game first then talk to me
+    Learn the game
+>Resets are by definition, not combos.
+
+But the followups after are. Just like an "Electric combo" refers to a combo you do off of an Electric, a "reset combo" is one you do off of a reset.
+All of those moves are in the list lol.
+back forward 23?  yeah, its one of his bnb. but you have to hit the forward 2 clean or it wont work.
+the trick is to quick rise, then block. press up, dont side roll. kaz has it too.
+There are bigger monsters and tech in Tekken 8 that makes this looks like childs play.
+    Yeah like kuma, victor and etc.
+Basically now if you dont tech you can get picked up again but if you tech roll you can also get picked up again, you need to know what do do exactly after every ender instead of always try to tech roll.
+    I think you can't actually tech roll out of this because you're flat on the ground. You'll only sideroll, which is also dangerous but doesn't guarantee a full combo. I believe it just flips over if you do that in stead of relaunch. I think this guy just tried to spring kick and get up kick. You'll get relaunched if you retaliate. At least that's what it seems to be to me. Would need to test with this specific move as I've only tried with another character. Could be wrong for this specific case.
+        I know mutiple characters has at least 1 spike move that causes a follow up to only be blockable by standing up so I assume this is just a new thing they make in T8 and should be universal.
+            Yeah definitely. Makes oki quite interesting actually. I like it.
+                IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+                    I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+                        In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                            That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+                    I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+                    it’s not a guessing game tho you can react to every single one of these slow options
+                        It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                            no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+            It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+Stand up and block, yeah, but alternatively you can do the recovery kick (d+3 or d+4 while on the ground) and you will interrupt the dash.
+    Are you sure? If so that's just with this specific instance, cause in general with the setups with this type of spike you'll eat shit with everything but standup.
+If you watch closely, he was not bound the entire time,  he had 3 opportunities to tech roll or use a getup option. One he chose to stand, one he chose to spring kick, and the last one I forget. He definitely did not tech roll any of the three.
+    Hey I'm kinda new, since I usually find myself in some similar situations and hear the word tech roll a lot could you explain it a bit to me? Like is it when you roll either left or right while on the ground?
+        Tech roll is when you press either the 1 or 2 button (left or right punch) right as your character hits the ground. They will go into the roll animation and be invulnerable for a few frames. You can tech roll as long as your character is not "bound" as part of a combo. Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground. 
+
+If you're a beginner and unsure, you can basically just keep quickly pressing the 1 or 2 button while you are getting combo'd and your character will roll at the first available opportunity.  
+
+I'm this video, when Jim does the 3~3 kick, it's considered a reset because the opponent had a chance to use an option, be it tech roll, Chinese getup, stand, getup kick, spring kick, or even just staying grounded. They chose the wrong option 3 times in a row and Jim was able to "reset" and re-launch them for another combo. 
+
+Oki in Tekken is the scenario where one player is grounded and the other player is able to play a sort of rock-paper-scissors as to what happens next. Each character has different setups and generally can select different options as a mix-up for what happens next. When in doubt as a new player, I'd recommend staying grounded first, it's a good way to check that the opponent will do, and generally while you might take some damage, it's relatively limited in how much and you'll never get reset like this. Tech roll can be a good option since it provides some invulnerability, but people have traps and setups if you only use the roll option. Standing getup and then blocking is one of your faster and safer options, you press up on the stick and then hold back to block. Getup kicks are generally bad, and unless you are sure it'll connect, you are very likely to get punished or launched for choosing that option.
+            Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+                The in game practice mode calls it ukemi roll if you want to practice with it
+            > Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+    You can't tech roll a spike. The option to tech roll is completely removed. The only option that beats this is holding up to stand and block. Then if Jin chooses to go low and launch, you're fucked again.
+    > If you watch closely, he was not bound the entire time, he had 3 opportunities to tech roll or use a getup option.
+
+I rewatched closely. He actualy was bound in first 2. Last one ye he just ate launch.
+Yeah you just lay there the mid whiffs then a toe kick will let you up.
+He doesn't need to pick options, just tech roll lmao
+    Tech roll doesn’t escape cd1 after df 3~3
+    You cannot techroll to avoid it after that spike.
+    U cant lul
+You cannot tech roll during a combo, it's only an option after your character lands at the end of the combo. 
+
+You also cannot tech roll while being "bound" which is the animation in the middle of the combo where their feet are in the air, their shoulders slam the ground and they bounce off the ground.
+Tech roll is fully invincible.
+    so its just broke then? lmao
+That's a deeply satisfying notation for a question mark kick, cool
+What does the ~ notate? (New to Tekken)
+    In quick succession. So hold df and double tap 3 quickly 
+doesnt really solves my skill issue
+That's gonna be where just Tekken players are at, too. Holding back was usually the best way to wake up in T7.
+there are different set ups in that video. i was talking about the last one. but you are right, the best option if you get spiked is to hold up to wake up and block
+What's the way to avoid this? From the comments it seems like tech rolls are not an option.
+    You press Up to stand and block. If you wanna play it safer you can take the cd1 while on the ground and then stand up
+        But cd1 launched Paul off the ground right in the end, i thought it only flips, can you explain why?
+            The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+It’s balanced because it’s not a real combo. That’s why its called a RESET combo
+Or just balance the game better so you don't need to gamble with 1:10 odds every time you get up off the floor.
+Not really. He is perfectly functional without the Mishima stuff, like Reina. Both have stance mixups, 15f launch options, good combo and carry, good universal tools like pokes, power crush, high crush and low crush options, the Mishima stuff are just cherry on top.
+
+Compare those to Kazuya and a smaller extent DVJ, they are more reliant on the Mishima movement playstyle although DVJ is also loads of BS now with the new mourning crow approach tool.
+    Yeah Kazuya and Hei were the more technical pair now it kind of feels like Kaz is by himself. Reina has sauce but her generic tools are pretty great.
+"Get good" coming from someone button mashing for combos 🤣🤡
+    Her tag is litterally Lee, the absolute WORST character to mash combos with
+    That's a certified scrub quote.  
+
+What makes you think they button mash?
+    That's Lee not Hwo
+Says the dude talking outta his ass
+    sorry that he beat your ass so hard in this video bro, someone had to be the trainning dummy.
+        Learn to play the game first then talk to me
+Learn the game
+Yeah like kuma, victor and etc.
+I think you can't actually tech roll out of this because you're flat on the ground. You'll only sideroll, which is also dangerous but doesn't guarantee a full combo. I believe it just flips over if you do that in stead of relaunch. I think this guy just tried to spring kick and get up kick. You'll get relaunched if you retaliate. At least that's what it seems to be to me. Would need to test with this specific move as I've only tried with another character. Could be wrong for this specific case.
+    I know mutiple characters has at least 1 spike move that causes a follow up to only be blockable by standing up so I assume this is just a new thing they make in T8 and should be universal.
+        Yeah definitely. Makes oki quite interesting actually. I like it.
+            IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+                I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+                    In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                        That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+                I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+                it’s not a guessing game tho you can react to every single one of these slow options
+                    It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                        no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+        It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+Are you sure? If so that's just with this specific instance, cause in general with the setups with this type of spike you'll eat shit with everything but standup.
+Hey I'm kinda new, since I usually find myself in some similar situations and hear the word tech roll a lot could you explain it a bit to me? Like is it when you roll either left or right while on the ground?
+    Tech roll is when you press either the 1 or 2 button (left or right punch) right as your character hits the ground. They will go into the roll animation and be invulnerable for a few frames. You can tech roll as long as your character is not "bound" as part of a combo. Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground. 
+
+If you're a beginner and unsure, you can basically just keep quickly pressing the 1 or 2 button while you are getting combo'd and your character will roll at the first available opportunity.  
+
+I'm this video, when Jim does the 3~3 kick, it's considered a reset because the opponent had a chance to use an option, be it tech roll, Chinese getup, stand, getup kick, spring kick, or even just staying grounded. They chose the wrong option 3 times in a row and Jim was able to "reset" and re-launch them for another combo. 
+
+Oki in Tekken is the scenario where one player is grounded and the other player is able to play a sort of rock-paper-scissors as to what happens next. Each character has different setups and generally can select different options as a mix-up for what happens next. When in doubt as a new player, I'd recommend staying grounded first, it's a good way to check that the opponent will do, and generally while you might take some damage, it's relatively limited in how much and you'll never get reset like this. Tech roll can be a good option since it provides some invulnerability, but people have traps and setups if you only use the roll option. Standing getup and then blocking is one of your faster and safer options, you press up on the stick and then hold back to block. Getup kicks are generally bad, and unless you are sure it'll connect, you are very likely to get punished or launched for choosing that option.
+        Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+            The in game practice mode calls it ukemi roll if you want to practice with it
+        > Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+You can't tech roll a spike. The option to tech roll is completely removed. The only option that beats this is holding up to stand and block. Then if Jin chooses to go low and launch, you're fucked again.
+> If you watch closely, he was not bound the entire time, he had 3 opportunities to tech roll or use a getup option.
+
+I rewatched closely. He actualy was bound in first 2. Last one ye he just ate launch.
+Tech roll doesn’t escape cd1 after df 3~3
+You cannot techroll to avoid it after that spike.
+U cant lul
+so its just broke then? lmao
+In quick succession. So hold df and double tap 3 quickly 
+You press Up to stand and block. If you wanna play it safer you can take the cd1 while on the ground and then stand up
+    But cd1 launched Paul off the ground right in the end, i thought it only flips, can you explain why?
+        The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+Yeah Kazuya and Hei were the more technical pair now it kind of feels like Kaz is by himself. Reina has sauce but her generic tools are pretty great.
+Her tag is litterally Lee, the absolute WORST character to mash combos with
+That's a certified scrub quote.  
+
+What makes you think they button mash?
+That's Lee not Hwo
+sorry that he beat your ass so hard in this video bro, someone had to be the trainning dummy.
+    Learn to play the game first then talk to me
+I know mutiple characters has at least 1 spike move that causes a follow up to only be blockable by standing up so I assume this is just a new thing they make in T8 and should be universal.
+    Yeah definitely. Makes oki quite interesting actually. I like it.
+        IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+            I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+                In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                    That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+            I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+            it’s not a guessing game tho you can react to every single one of these slow options
+                It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                    no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+    It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+Tech roll is when you press either the 1 or 2 button (left or right punch) right as your character hits the ground. They will go into the roll animation and be invulnerable for a few frames. You can tech roll as long as your character is not "bound" as part of a combo. Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground. 
+
+If you're a beginner and unsure, you can basically just keep quickly pressing the 1 or 2 button while you are getting combo'd and your character will roll at the first available opportunity.  
+
+I'm this video, when Jim does the 3~3 kick, it's considered a reset because the opponent had a chance to use an option, be it tech roll, Chinese getup, stand, getup kick, spring kick, or even just staying grounded. They chose the wrong option 3 times in a row and Jim was able to "reset" and re-launch them for another combo. 
+
+Oki in Tekken is the scenario where one player is grounded and the other player is able to play a sort of rock-paper-scissors as to what happens next. Each character has different setups and generally can select different options as a mix-up for what happens next. When in doubt as a new player, I'd recommend staying grounded first, it's a good way to check that the opponent will do, and generally while you might take some damage, it's relatively limited in how much and you'll never get reset like this. Tech roll can be a good option since it provides some invulnerability, but people have traps and setups if you only use the roll option. Standing getup and then blocking is one of your faster and safer options, you press up on the stick and then hold back to block. Getup kicks are generally bad, and unless you are sure it'll connect, you are very likely to get punished or launched for choosing that option.
+    Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+        The in game practice mode calls it ukemi roll if you want to practice with it
+    > Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+But cd1 launched Paul off the ground right in the end, i thought it only flips, can you explain why?
+    The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+Learn to play the game first then talk to me
+Yeah definitely. Makes oki quite interesting actually. I like it.
+    IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+        I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+            In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+                That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+        I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+        it’s not a guessing game tho you can react to every single one of these slow options
+            It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+                no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+It has been a thing since at least TTT. We used to have setups you could only NEUTRAL guard to get out of. This is baby stuff.
+Wow thank you for the very in-depth explanation! 
+
+I was guilty of always using the jumping kick to get up cause it served me well in green, but now that I'm in yellow-orange I started to get tossed around like trash lol
+
+I already applied a bit of what u told me and I'm seeing some slight improvements tho, again thank u !
+    The in game practice mode calls it ukemi roll if you want to practice with it
+> Bound is a different animation, and it kind of looks like the characters feet are in the air and their back slams on the ground.
+
+I see where we have confusion now.
+
+Bound, as part of juggle, doesn't have place in tekken since 7. In tekken 8, what you see in video when paul on back with legs up, is called tornado now, and you can't escape it because it's natural extention of combo.
+
+I was used ground bound as ground spike meaning, or whatever you call it. It's when you get pinned to ground by move with downward movement in it (they usually also put you in crouch if you block them).
+
+There is two subgroups for to get up. One is 'Wake Up' (spring kick, side roll, that stuff), second it 'Ground technique' with tech roll being part of second. When you land on ground, in small moment you can use any 'Ground technique'. If you didn't used that, you then can only use 'Wake Up' options. But when oponent slam you into ground you left only with 'Wake Up' options, and can't use 'Ground technique' things. So you can't techroll if Jin end his combo with f3~3.
+The last one was also a tornado which means he was “floating” so i guess he did a spring kick
+IDK, I think the punishment for not guessing correctly on wake up is far too severe. The ability to force someone to stand or eat significant damage but also be able to go low and get significant damage if they stand is... something.
+
+T8 is essentially Forced Mix Ups: The Game. Guess wrong twice and you're dead. It's like every character is Akuma with full meter. They don't even need a launch to enforce this kind of pressure. They just need to hit a heat engager or a move that can launch in heat and that could be gg - you lose because you got hit by one move that does 20 damage, either launched with heat or heat engaged into a +17 mix up, and then you guessed wrong on wake up.
+    I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+        In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+            That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+    I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+    it’s not a guessing game tho you can react to every single one of these slow options
+        It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+            no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+The in game practice mode calls it ukemi roll if you want to practice with it
+I understand your pov but to me it just makes the ground game more interesting. It's never guaranteed to be more damage than a regular combo, except maybe on backturn sometimes. Spike into big oki was always a thing already. This new spike doesn't change that really, it just changes the wake up game a little bit.
+
+E: Not sure why this is getting downvoted? You always have to sacrifice a bit of your combo to spike someone and the followup is not guaranteed on standup. On standup you have time to respond with a block or a duck to guess the followup if your opponent doesn't go for the guaranteed-on-everything-but-standup option. This can be a sacrifice of upwards of 25 damage basically for a mixup.
+    In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+        That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+I think before you play the ground game you first need to play the "spike = stand fly = roll" game or you never even get to play anything because you will be in a combo loop.
+it’s not a guessing game tho you can react to every single one of these slow options
+    It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+        no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+In a vacuum, it's not that bad. Combined with everything else, it creates a game where it isn't uncommon for matches to end 3-2 with every round being a perfect. Feels like too much of a dice roll to me, personally.
+    That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+It absolutely is a guessing game. You need to commit to an option long before you can see what option your opponent has chosen.
+    no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
+That's fair. I don't currently see it that way but it may change over time. We'll have to see how the meta evolves :)
+no you don’t LOL bro nothing in the game comes even remotely close to 3.5 frames you have more than double the time you actually need LOLOLOLOL
