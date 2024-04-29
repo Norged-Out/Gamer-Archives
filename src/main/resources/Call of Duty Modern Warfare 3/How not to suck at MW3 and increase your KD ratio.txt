@@ -1,0 +1,896 @@
+[[How not to suck at MW3 and increase your KD ratio]]
+
+
+**In celebration for #1 on r/MW3:   ~~EERL4KLY7Z  (it can be used twice)~~ I have 4 more codes if anyone wants to trade**
+
+I went from .8 K/D to 1.5 in just 1 week back in MW2 following tips from Seananners on Youtube. The following is what I learned:
+
+Kill death ratio is simply the number of kills divided by the number of deaths in a game. This number can change exponentially in both ways. When you get more kills, you earn more killstreaks enabling even more kills. When you get more deaths, you provide your opponents more kill streaks enabling them to get more kills. At MINIMUM aim to have a 1.0 K/D.  I believe this is achievable in public games by the most uncoordinated people as long as they are willing to work on it. 
+
+Improving your ratio can happen in 2 ways. More kills and less deaths. First, I will give you a few exercises to do in order to increase your control of the game. This will help both sides of the equation. Next, I'll teach you how not to die needlessly, and finally you will get some great tips on how to get more kills. 
+
+
+**Controller Sensitivity**
+
+Ever see the enemy in your peripheral vision, spin to shoot them and die before your sights aren't even close? Me too :( I stopped this entirely by bumping up my controller sensitivity. It took only 2 games to go from playing at the default (2?) up to 8. This is how:
+**Exercise #1**
+If your sensitivity is < 5 go into your options and set your controller sensitivity to 10. RIGHT NOW. Just do it. If you are used to a low sensitivity and go to 10,** it will suck**. You might even get a headache. **The goal is to train your thumbs/brain to use smaller movements. The goal is NOT to keep a high sensitvity.** Once you are able to make it through an entire game without the camera spinning every which way, and you get at least a few legitimate kills that required you to quickly aim, drop your sensitivity down to 7. This is where you will really master controlling your aim. **After playing like this for a few days, pick the setting you like best and stay there. Ultimately, you will want to use whatever is most comfortable, even if its a 2 or 3.** 
+
+
+**Exercise #2**
+
+Play the spec ops training course until you can get the 3 star rating with your sensativity level. For new or inexperience players, this is not easy. If you get into a slump, come back to this and practice up. Be efficient with ammo, aiming, movement, and timing. 
+
+
+**Button Layout**
+
+Go to your options and switch your button layout to Tactical. This will allow you to go prone in a moment's notice. It switched the prone and melee buttons. This also means it will be more difficult to recover from a missed knifing, but you really shouldn't be trying to knife someone if you have a chance to miss and you have bullets in your primary or secondary weapons. It takes a little getting used to, but it is well worth it in the end. 
+
+
+**Theater Mode**
+
+Go to your opens and turn theater mode off. Unless you actually want to use this feature, it only slows down your system. If you do want to use it, most likely you are good enough to be posting videos on the internet and already know this stuff ;p
+
+
+When I finally sat down to analyze why I sucked so much at CoD, I found that I was dying to stupid stuff. I had no discipline. You see videos of great players on youtube running not stop getting kill after kill and it can be discouraging, but you must realize they are putting a LOT of techniques and great discipline to use that you do not see. They are able to do this because they know the maps and they are watching the mini map constantly. The first thing I worked on was preventing deaths dying in situations where my enemy saw me and killed me before I got a chance to acknowledge they were even there. 
+
+
+
+**STOP SPRINTING**
+
+More often than not, new players find themselves often dying because they were sprinting around a corner and although they saw the enemy first, they couldn't aim in time to shoot. When you are sprinting you cannot look down the sights as fast, so just stop. What is the hurry anyway? 
+**Exercise 2** 
+Play 5 games and NEVER sprint. Not once. If you sprint, start your counter over. Learn that it is OK to get someone slower. This will keep you alive. If your goal is to get to one side of the map to the other as fast as possible, keep in mind that dying because you were sprinting doesn't help your reach your goal. Slow and steady wins the race.
+
+
+The second issue I worked on was preventing the deaths where I was simply in a bad position on the map. Ever notice, how there seems to be this one place on the map that is the hot spot. If you go there, you will probably die. **STOP GOING THERE** I don't know if we are just retarded or what, but I know I had a tough time with this. The middle of the map is so interesting! Guess what. You don't have to go there!.
+
+
+**Stay on the edge of the map** 
+
+If you stay on the edge of the map, you will always have at least 1 side you don't have to worry about the enemy coming from. In many cases, you can find cover for 1 or 2 more sides, and you really only have to worry about the enemy in 1 direction. You will learn maps faster this way too. If you stay only on the edges of the map, there are fewer perspectives to learn as far as where people might be positioned. The same goes for buildings. If you are inside a building **hug the wall** There is absolutely no reason to be out in the open, yet people do it all the time. If you are not touching a cover surface or the edge of the map, that should be your #1 goal. 
+
+
+**Dying to killstreaks -- Don't do it** 
+
+One thing that seems to be different in MW3, is that killstreaks don't seem to rule as much as they did in MW2. Maybe its because everyone still sucks, but it really seems more gun oriented. The threat is still there to multiple deaths from kill streaks though. These are, by far, the easiest deaths to prevent. If you have not yet devoted one of your custom slots to an Anti-air class, go do it now. For the love of FSM, just do it! Maybe everyone knows they can do it, but are thinking "Surely someone else will shoot down the apache, so I won't bother." Guess what, ** no one else will kill it** Sure, you can hide, but you can't be sure your teammates will, and that means more kills for the enemy, which means more killstreaks. This is not good. Shoot down all deadly, airborn killstreaks. Once the Apache/AC130/Chopper Gunner/Osprey/etc is announced, switch to your anti-air class and shoot it down if you die. I promise you, that no one else will. **Shoot the middle chopper in a Strafe Run, it will blow the other two up!** 
+
+Something new in MW3, is the explosive carepackage. It only took me 10 deaths to learn to not pickup enemy care packages without sitrep. **Just stop picking up carepackages if they are not yours.** 
+
+Use EMP grenades. Kill SAMs, sentry turrets, and any other ground-based killstreaks with them. You'll get credit for a kill, and you'll help your team. 
+
+
+**Stop dying in a fair gunfight**
+
+So another, big issue I had was my aim sucked and I'd die in a fair gunfight. Sometimes I would get the first shot off even and I'd be the one dead in a mid/long range fight. This is so frustrating! You cannot immediately improve your aim. It takes time, but what you can do is improve your survivability. If you are shooting at someone in mid/long range and miss, or you lose your hit marker after a few hits and they are still alive, turn around and run away. Don't strafe, don't back up and hide, do NOT go prone behind that car. Turn the fuck around and run. For me, it was hard for me to accep that I had to cut my losses. **If they are hitting you and you aren't hitting them, you will die if you stay. RUN!** I don't mean, run to cover. I mean, run away entirely. Move on. Your position was comprimised and if you poke your head there again, you will die. Even if someone else kills your target, you can expect that at least 1 or 2 of his friends spawned near him and will have seen your red dot on the minimap when you were shooting. Another thing that was tough was the 'turning around' part. I used to strafe  away. I eventually realized that I died about 80% of the time when I did this. Once I learned to turn around and sprint around the corner and then keep going, I was dying only 20% of the time in these kind of gunfight situations.
+
+
+
+**Winning a gunfight**
+
+Let's move on to increasing kills to improve our K/D ratio. Remember those lost gunfights I told you to run away from? What if you just stop losing them entirely? Besides just having enough time put in to learn to aim properly, there are some simple things you can do to help win each type of gunfight. In long range gun fights, firing in bursts is essential. If you have an automatic weapon, try to fire in 2/3 round bursts. This allows you a faction of a second to makeup for the kick back of the gun. The further away your enemy, the less effective spraying them with bullets will be. If they are out in the open, aim at the body, not the head. If your sights are aimed at their feet when you pull the trigger, feel free to do a 4/5 round burst first and then 2/3 round bursts after. 
+
+Also, get in the habit of **squeezing the trigger**. Don't pull it, yank it, or smash it with your finger, but squeeze it. Get used to the minimum amount of pressure it takes to actually fire. This may not make sense at first, but the same holds true with firing a real weapon. The idea is that you want to move the trigger to the point at which the weapon fires. The goal is NOT to make the trigger move as far as it can as fast as you can. Once you learn to do this, your trigger finger movements will be much more efficienty and your brain will hone in your hand/eye coordination that much faster.
+
+
+
+Part 2:
+
+
+For close to midrange gunfights, when you run out of ammo in your primary weapon, switch to your secondary  ASAP and continue shooting. Switching to your secondary is much faster than reloading. Do not throw a grenade while your enemy is in line of sight. It will slow you down too much.  If you can't take cover or run, MOVE while you are reloading, re-aiming, or switching weapons. 
+
+**Learn to drop-shot** (you switched to Tactical button layout right?): If you are in a close/midrange gunfight and you happen to be out in the open (WTF are you doing out in the open anyway??). Try a dropshot. As you are aiming, press your right button down to go prone and shoot all in one motion. This simultaneously decreases your exposed body surface, decreases kickback, and increases your accuracy. 
+
+**Don't move after you get a kill**
+If you killed an enemy, it is likely one of his teammates was near, or spawned close by. This is especially true in kill confirmed, but even in other gametypes, 'birds of a feather flock together'. Use this to your advantage, keep your sights on the doorway, top of the stairs, or just at body/head level at the corner of that building. If you don't see anyone coming after 5-10 seconds, move. Sometimes it is even worthwhile to toss a grenade in that direction. I get a lot of blind kills this way because the chances of an enemy being close behind his teammate is rather high. If you are in close range, run into an enemy kill him and empty your clip, switch to your secondary weapon immediately so you can kill the guy behind him. (he'll be there 20% of the time). If not, reload your primary.  At mid-range and long-range feel free to reload after each kill.
+
+**Reload under cover!** 
+Do not reload while you are turning a corner, walking by a window, going through a doorway, or anything else that might involve seeing a new part of the map or exposing yourself. If you can't shoot back, why allow your enemy to shoot you? 
+
+**Use your secondary weapons more** 
+They are actually pretty decent. I've known some people who pretty much never use their pistol. The FMG-9 is a great addition to any sniper class. **Remember to switch to your FMG-9 as soon as you spawn to unfold it**. It will stay unfolded after the first time, so make sure you have it ready later on when you might need it. 
+
+**Keep your sights somewhere useful**
+Stop aiming at the ground when you are running. Always keep your sights where the enemy could be. There is absolutely no reason to aim your gun midway up a wall with no doors, windows, or stairs. Try to remember which side of the entryway, stairs, building, etc they came out of and aim there. Even when you are moving. Doing this means you have less distance to move your crosshairs when the enemy pops out. 
+
+**Keep your finger on the trigger**
+Remember how I told you to 'squeeze' the trigger? You should always be touching it unless you are throwing a grenade. Firing your weapon should not be a knee jerk reaction that involves moving your finger a great (relative) distance. You want to minimize the amount of work your trigger finger has to do. This will result in faster reation times. 
+
+**Multikills**
+At mid/long range, if there are multiple enemies to kill and they are spread out, aim, look down the sight (LDS), fire/kill, release your LDS, re-aim, LDS, fire. This will increase your accuracy for any subsequent kills after your first. Only keep your LDS after a kill if they are very close by and you can begin firing almost immediatly after the first kill. For non-objective based gametypes, just run away after a few kills and the rest start shooting back. 2-0 is better than 3-1 in TDM
+
+If you suddenly enter an area with multiple close range enemies in the open, do not ADS, aim at legs/crotch area and start spraying. This would be a good time to use that dropshot technique mentioned above. In general, you should avoid ADS when in close range. 
+
+
+**Use decent gear and actually USE IT**
+Sniper rifles require a knack that takes time and practice. Avoid them if a higher K/D is your goal and you don't already know how to use sniper rifles well. All of the SMGs all seem to be quite nice in FFA, tight maps, and close range. If this is your style, knock yourself out. ARs are king in CoD, so if you don't have a preference, grab one of these. **Even though they are automatic, remember to use bursts**. If you don't already, this will probably improve your ability to kill at mid-long range the most of any other tip.
+
+The frag grenade does more damage than the semtex and allows for more flexibility (you can bounce it off thigns and cook it). Get in the habbit of throwing your grenede almost every round. Toss it over the wall,  in the window, down the stairs, etc. You've got it, so make use of it. Even if you don't kill someone, you get information. If you see a hitmarker, you know an enemy is/was there. If you don't, you know its probably safe. If you do get a kill, then WOOHOO! Wait until you start getting into more situations where you've run out of ammo, and really had your grenedes still before you stop randomly throwing them early on. This really doesn't happen until your K/D gets a bit higher, so use those grenedes. On a side note, the bouncing betty is AMAZING in domination . . .
+
+**Take advantage of the new perks system**
+One of the most effective ways to get fast XP now is to use the specialist strike package. You choose Hardline for your 2nd perk, and every 2 kills you get a new perk. After an 8 killstreak, you get EVERY PERK. You get XP really fast this way. Another perk that can get you great XP is the balistic vest in a Ground Wars game. Once you get the killstreak, wait until you die. Place it in a covered area near your spawn and stay close to keep your team spawning there. Everyone that picks up a vest will earn you 50XP. Also, note that **kill streaks roll over now**. So if you get 20 kills in one game and use ONLY UAV in support, you'll get 6 UAVs. If you use UAV, airdrop trap, and stealth bomber, you will only get 1 UAV.
+
+**Keep your eyes on the minimap**
+UAVs seem to be up constantly. If its not, a red blip will still show up when the enemy fires their weapon. If you use the Recon perk and hit someone with a grenade, it will mark them. This means you know where the majority of the enemy is nearly all of the time once the game gets going. Don't ignore this huge advantage. Watch the minimap to see where you team is and where the enemy is. **If you see a teammate disappear off the minimap, they probably died, so be careful if you are headed to where they were.** Similarly, if you see a red dot near you, be on the lookout for that person. Even better, is the advanced UAV where you can see what direction they are facing. Try to approach them from behind. 
+
+**Exercise #3**
+Setup a custom slot with only UAV in the support package (no other skillstreaks). Use Hardline for your 2nd perk. Play 5 matches where you spend the majority of the time looking only at the minimap. Make sure you keep UAV up as much as you have it available to use. Stay on the edges of the map as instructed before, and within range of your team. The goal for all 5 matches should be to see every enemy coming unless you are using the perk to stay hidden. This will help you learn how distance on the minimap translates into real distance in game. You should also learn how much latency there is between the enemy's location on the minimap while they are moving. Once you have honed your map sense, you won't be caught off guard and you can start hunting the other guy down.
+
+**Learning the maps**
+Much of the 'skill' people get in the CoD games comes from knowing the maps. While the true skill is in many of the areas mentioned above, there is no denying that an intimate knowledge of each map is crucial for success. As mentioned before, stay on the outside of the map. If you keep to the edges, you don't have to worry about at least 1 direction.  The other advantage is that there are fewer positions you can be in while playing that map if you limit your scope to the outside. This means there are fewer 'spots' to learn. 
+
+When you get killed, don't rush to respawn. Watch that killcam and make sure you know exactly where they were and how they got there. Think about using that position or technique for yourself.
+
+**Don't camp!**
+I say this not because it is bad manner, rude, or cheesy, but because it is not effective. Camping is staying in one spot and just waiting for someone to come. I am not referring to the 5-10 second wait after a kill like I mention above. I'm referring to going to an area you intend on spending as much time as possible. When you do this and keep coming back, the enemy will catch on and you will be giving them free kills. I know it feels like the other team is camping much of the time when they are tucked away in a corner or prone at the corner of the stairs, but keep in mind, they might have just spawned there. They may have just killed someone and they are waiting to reload and make sure someone else wasn't coming (you did though). Conversely, if you keep seeing the same person in the same spot, time and time again go kill them. Take your free kills if they are handing them out. Just don't approach in the same way that got you killed. Toss a grenede or come up from behind. 
+
+**Stay away from your team**
+Its almost never a good idea to bunch up. Sure, you want to stay nearby, but don't stand behind or directly next to a teammate if you can avoid it. It hinders your ability to move, and if they shoot and show up as a red dot, you'll be in the same spot the dot is on the minimap. This is bad. On the offensive side, why compete for kills? Cover their back, or move around a building to hit another angle. 
+
+    
+**Slow down at the start of a game**
+Other than to cap the first flag in domination, there is no huge advantage to sprinting to the enemy at the start of a new game/round. You can get a great idea of where the other team is by just watching for the red dots on the minimap, or looking to see where you teammates died (the ones that thought they needed to sprint to the enemy). Also, if everyone sprints off into the middle of the map and there is no one left behind, the enemy could end up spawning behind you. 
+
+**Check your six!!**
+As you skirt around the edge of the map, slow down before each new opening into the middle. Check behind you. Is there a green area on the minimap? If not, turn around make sure the enemy didn't just spawn behind you then continue. The spawning system in MW3 appears to allow enemies to spawn relatively close sometimes. While I don't recommend camping in one general area the entire game, it doesn't hurt to patrol back and forth in an area with a lot of action until you are comfortable that it is all clear. If you get 1 kill, wait 10 seconds get another kill, wait, kill etc. The other side might think you are camping and try to flank you from behind. *If your team isn't behind you, your enemy probably is.*
+
+
+
+
+TL;DR
+
+**Copied from a comment I left on another post**
+
+* Stay on the outside of the map. Don't go in the middle. just DON'T
+* Do not sprint constantly. Only sprint up to people on your team. 
+* Hug walls
+* If you kill someone stay where you are and wait for 5-10 seconds with your sights pointed in the direction they came from before moving on. Their friends will show up, I promise. 
+* Don't aim down the sights in close quarters combat. 
+* With an automatic weapon at close to mid range, aim near the feet if you plan on spraying
+* With an automatic weapon, fire in bursts at long range ( 3 round bursts work well for me)
+* Adjust your button layout to tactical. This will make meleeing your opponent much easier. 
+* Adjust your sensitivity upwards every few games until you are able to play with a 10 sensitivity. Leave it like this for 10+ games, then drop it down if you like (no lower than 7). Think of it as sensitivity training for your thumbs. If you are sniping from long ranges, you can go much lower, but there aren't any great maps for that just yet.
+* Turn off theater mode
+* Don't use assault strike package. Use either of the other two. 
+* Keep in mind that killstreaks reset, so if you get 20 kills in one game and use ONLY UAV in support, you'll get 6 UAVs.  If you use UAV, airdrop trap, and stealth bomber, you will only get 1 UAV. 
+* Stick to 1 solid gun until your K/D is decent. (MP5, UMP, M4A1 seem to be the best for  < lvl 42 if you are having trouble)
+* Watch your minimap. Get in the habbit of dying because you were watching your minimap and not the screen. Once you have MINIMAP ingrained into your skull, start paying 'just enough' attention to the rest of your screen. 
+* Watch your killcam to learn where enemies were. Watch out next time you are in that area, and think about using that spot yourself sometime.
+* Setup an anti-air custom slot. Switch to this anytime an air kill streak is up. When you die, shoot it down and switch back to your main setup for the next death. **So many people choose to die 5x rather than killing that damn AC130 or Osprey**
+* STOP AIMING AT THE WALL. -- When you are kneeling in a corner or behind some barrels, don't aim at the wall. have your sights on the doorway or just above the stairs so you can pull  the trigger as soon as the enemy shows up. At the moment, walking through walls in MW3, doesn't happen. 
+        [deleted]
+            Upvote for more great advice! This is a little more advanced than what I was intending for structure of my post (plus I had to break my 30,000 word post up into  a post with 2 comments so I didn't have the room to discuss class setups)
+                Fair enough, Captain.
+        good guide, with one problem: sensitivity. a higher sensitivity is not better, it will be better for turning on people quicker, but it limits your ability to do very slight adjustments, like managing small recoil, at long ranges. You don't need a high sensitivity to be a good player, for anyone who knows who sandy ravage is he has a 3 sensitivity. You need to find the sensitivity that's right for you!!!
+            The exercise wasn't only to have people increase their sensitivity, but to train their thumbs. After playing a higher sensitivity and dropping down lower, you will have MUCH better control. I don't recommend sticking at 10   permanently. Use whatever is most comfortable, but try the exercise I recommend first. Get to where you can use 8 very well for a day or two, then go back down to 4. Come back and complain if it didn't make you better.
+                sorry, didn't realize that's what you meant. carry on
+                    yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+        Why turn off theatre mode?
+            supposedly it can help decrease lag
+    "switch to your FMG-9 as soon as you spawn to unfold it. It will stay unfolded after the first time"
+OMG I didn't know this. So many deaths because I had to wait for that stupid gun to flip open.
+tl;dr - use the type 95
+    Haha.. it is definitely a great gun but have you tried the G36C? That gun is where its at . . .
+        Is the 36 that good?  I tried it last night and couldn't quite get in the groove with it :(
+            Its powerful, fast reload time, nice iron sights, good range, fast firing rate. Not sure I could ask for more. Kickback isn't bad on it.  I love it.
+                I'll have to give it another try but I'm loving the CM901 right now so it may have to wait awhile :)
+                    It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+                        I like the feel.  It's manageable and feels like a slow firing ACR.  
+                        It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+                            People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+                            I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+                                Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                                    I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+                still love the m4a1 over all.
+            ACR outclasses every assault rifle except the type 93.
+                I'm starting to come around to the mk14. Its obviously a mid to long range assault rifle, but you need only 2-3 bullets to kill a person. Much better than the FAL and about the same as the G3 from COD 4.
+                    With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+    That gun is ridiculously overpowered.
+        I disagree: the silencer drastically reduces its power, making it at least a 2 burst kill, so you have to go loud for it to be good
+            Nope. It's always *at least* a three bullet kill. Minimum two bullet. Has a *1000* RPM ROF. Minimal recoil. AND you can put Rapid Fire on it. Pretty sure that's about 1330rpm.
+                "at least a three bullet kill. Minimum two bullet." 
+
+What?
+                    [Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+                        lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+                    How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+                        Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+                        "At least"="Minimum"
+        For some reason I keep getting killed more when I use it. E.g. kill confirmed there is so much activity that even with rapid fire the gun is too slow. Switched to P90 and I did much better. I think my problem was that with fast paced game I missed my first burst or there were multiple targets. Yes and the fact that I suck :D
+            The gun is good for medium-long range kills on alone sprinters. If somebody is running towards you on a generally open map when they're on their own, it's great because you should usually be able to get him with 2 bursts. You have to know when to use it as much as how.
+            P90 for life.
+    type 95 silenced w/ rapid fire on search - the best
+Great tips! Very well thought out. 
+
+I think one of the biggest reasons that a lot of people are frustrated right now is because they simply do not know the maps that well. Yes, they might be a bit familiar with them and know the basic routes to take. However; learning the maps isn't just about learning the layouts. 
+
+##Spawns
+You may not have realized it, but during the months you spent playing previous COD titles, you developed a sense for where the enemy was likely to spawn from. For example, in FFA Terminal in MW2, the shop by Dom Flag A was always a hotbed for spawns. The bookstore too. Back when MW2 first came out, I remember people complaining about how the spawns were messed up. Maps like Terminal frustrated the shit out of me at first. However, over time (and through experience), I developed an understanding of where enemies were likely to come from. The same thing happened when Black Ops was released. Everyone was complaining about how bad the spawns were. However, after about a month or, people stopped mentioning that complaint. Why? Because people slowly developed a sense for the spawns without even realizing it.
+
+##Flow
+The flow of a map is equally important. Where are the high traffic areas? What spots are players drawn to? Where are the most popular camping spots? When you have C and B flags in Domination captured, where does the enemy team spawn? When a game starts off, what popular routes does the enemy team take? What areas are too risky to walk through? Do guys like overlooking that balcony over there or do they prefer to poke their head out the window behind you?
+
+##Iconic
+I've noticed a lot of complaints about the maps not being "iconic" like Terminal in MW2 or Crash in COD 4. I don't think people realize that a map is never iconic because of its aesthetics. For example, Carnival in MW2 looked great and it had a lot of interesting aesthetic features. However, I don't think anyone will look back on it and consider it to be iconic, because lets face it, it came out late in the game's life and the flow of the map wasn't special. The things that make a map iconic are:
+
+* Your memories of playing on them. Yes - a lot of this is to do with nostalgia. Remember that quad spray you got on Vacant? That 1v6 clutch you pulled off on Firing Range? That 30-0 FFA game you got on Highrise?
+
+* The flow (as mentioned above). The flow is basically what makes the map interesting and exciting to play. The flow determines how the action unfolds. At the moment, none of the maps have a coherent flow because the game hasn't been out long enough for players to develop a "hivemind".
+    Great points. I've been using the bouncing betty quite a bit to learn the flow. I'll put in area I think there is a lot of traffic and tread carefully until it goes off to confirm my suspicion. I've found a few areas where I'm almost sure to get a kill or 2 if I put it in the right spot. Now I know they are areas to watch closely when I'm nearby. 
+    I'm going to have to disagree with your spawn assessment... 
+
+The spawns in Blops were thoroughly broken.  In fact, they were so broken that Treyarch had to release a series of patches to fix them.  The same seems to be true with this game.  At no point should enemies spawn behind you in gametypes like Domination and there shouldn't be a period where you're spawning in someones sights repeatedly.  
+
+I'm sure that there will be fixes forthcoming for the spawn issues.  
+
+I can't comment on MW2 since I bought it about 2 months after everyone else :(
+        >At no point should enemies spawn behind you in gametypes like Domination
+
+Well, it can happen if your any of your team mates push too far into the enemy spawn. When you have two flags captured and some knucklehead on your team decides to run into the area around the enemy team's flag, it'll flip the spawns.
+            Very true.  I should've been more clear on that point, however, in MW3 I've found that regardless of map control, there are people spawning EVERYWHERE at any time.
+                Join a map and run into a corner and sit there, you should notice your teammates will start spawning on top of you fairly soon. The randomness you see is probably due to the game spawning people close to their teammates.
+        They never patched Blops spawns. It had more to do with everyone just learning spawns like every COD beforehand. 
+
+For example, I've watched some of my old gameplay one of which was a Dom game on WMD on the second day since launch. I remember complaining about the broken spawn system since I got shot in the back near that HQ point by the train. In actuallity, we were just triple capping and *that is the actual* spawn point when the opposing team gets trip capped. I just hadn't learned that yet. 
+            Grrrr... I'm looking for the patch notes, but I'm positive that they had to do some serious adjustments with the way the game interpreted safe/good spawns.  
+
+I'll have to update later.
+
+I swear I'm not crazy :)
+                I remember that being the case as well.
+    The one thing that I've come to find quickly is that if you start to stray far from your team, watch your back because enemies are going to spawn next to or behind you.  In MW3, the first couple of games on every map I would go into the theater and look at where the enemies spawned. Theater can be an extremely useful tool if you use it in that way. 
+[deleted]
+    This. I was SO glad when I realised shooting air support counts towards your streak.
+I have a 1.5+ KD and am typically first or second on the team.  I play at the default sensitivity (2 I think?).  I have never been able to play FPS at high sensitives.  That tip isn't absolutely necessary I don't think.  Everything else seems pretty typical and second nature to experienced players but for a new player they really should listen and practice.
+    The exercise isn't necessarily meant to cause you to change your sensitivity. It is more or less to train your mind and thumbs. After using a very high sensitivity and doing halfway decent with it, you can lower it and have much better control. I personally use 7 or 8 most of the time now. Any less and I'm unable to do a 180 and kill someone that comes up behind me in time. I've had so many of these kinds of kills, i feel bad for them. They spawn behind me, run into me and get all excited. They smash their trigger and miss. I spin around and headshot. Nothing they can do. 
+Tide goes in tide goes out. No explanation
+        Bread goes in, toast comes out.  You can't explain that.
+            lol :p
+I'm a pretty good player, but your tips are freaking amazing! Listen to him guys, the man has wisdom.
+    I know more about the game than I can actually execute. These are specific things I am working on myself :p They really do help. I attribute much of the knowledge from watching Seananners. 
+
+Of course you can run and gun and go crazy, but learn the basics first. Once you know how to use the minimap, listen to the sounds in your headset, and you generally have good map awareness, you can go crazy. I didn't mention it in this post, but a good headset can make a HUGE difference). 
+        So far headset hasn't been that great for me. There are way too many predator missiles, sams etc. going all the time that I cannot hear the enemies.
+2.1 k/d player here.   I agree lurking outskirts of maps,  but you did describe how to play pretty pussyish.   It's all about routes and timing.   Obviously don't rush in to something and die.   But if you have the right route,  you can kill them in the middle of a big firefight.   Just practice and adapt to your own style of play.   
+    Nevertheless,  these are good tips to NEW players. 
+    Yeah, but the audience was people that are really sucking. learning routing and timing is a little more advanced ;-)
+Another important thing: motivation. If you're not really into the game at the moment, do something else until you actually REALLY want to play. If you don't want to play, you won't be as energetic and aware of your surroundings. Always remember: BOREDOM DULLS YOUR SENSES!
+    I started doing much better (still very much a noob) once I started to really concentrate on 3-5 matches at a time and take a break for several minutes.  Between trying to learn the methods of different objectives and how to play *to* them as well as still getting familiar with the maps. It isn't just boredom that dulls senses, in my case it was/is a matter of keeping my head in the current match and not dwelling on figuring out what I did wrong 2 or 3 matches prior.
+Great read, although your title should not be limited to increasing K/D but also increasing XP.
+
+What frustrates me about K/D is that if you start off shitty, you've dug yourself in a hole and it's a bitch to get it back up.   I had been playing BF3 nonstop for 2 weeks before this came out and took me a while to learn the new maps, forget the BF3 button layout, get used to the faster gameplay, etc.  Plus I was playing objectives and wasn't too concerned with my k/d so after about 24 hours of play I'm at .75 k/d.
+
+So now just to get it to 1.00 I'll need 24 hours of 1.25 k/d.
+
+I really wish there was a rolling K/D stat so I can compare what it's looked like over time and see if I'm getting better or worse (maybe it's in Elite but I still haven't been able to log in).
+
+    This **was available in Black Ops**... you could filter the leaderboard to show how you were performing that week, month, or all-time. 
+
+Too bad IW left a ton of good crap out in favor of CoD Elite. 
+        The option is still there :)
+
+Filter > Duration > Weekly
+    10th prestige and you can reset your stats :p
+        Yeah, by the time I get to 10th prestige I will reset my stats...by getting MW4.
+            >Yeah, by the time I get to 10th prestige I will reset my stats...by getting W@W2.
+
+FTFY
+
+
+                I cant wait for World of Warcraft 2 either.
+                doing so will reset your prestige and rank as well.
+I played a round right after reading this and tried to follow all your tips and I went 23 and 1. True story
+    I read these tips, played for 12 hours straight, and my girlfriend got pregnant! it's a miracle!
+        Nice try saint Joseph.
+Thanks for the tips.... Now if I can only get home to try these out...
+I increased my KD just by playing Team Defender.
+I plan on practicing and applying these skills to surprise my boyfriend when he gets home from work. Thank you!
+People should upvote this as soon as they see the words, "how not to suck"
+    I wish it wasn't so long :(  I should take the time to put this into a real website
+[deleted]
+    B becomes Knife, and right analog stick down (pushing it in) becomes prone/kneel.
+
+It takes getting used to. Maybe 5 full games or more, but it is very much worth it. I don't think they had this in blackops, at least I was never able to find it.
+        It's been in every CoD game since MW at least.
+            OK. I never found it in black ops and within a few weeks of Blops coming out, my xbox died so I didn't play it much other than at my brother's house on his 70 inch screen.
+                deleted  ^^^^^^^^^^^^^^^^0.5688  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/86730)
+        [deleted]
+            Yep.
+
+The main thing is that your thumb is already there while you are moving/aiming and you can continue to aim as you go prone, whereas with the default, you can't aim and go prone at the same time. This is a great "OH SHIT" move in close-mid range
+                Don't you lose a lot of knife hits though? 90% of my knife kills are from bumping into a guy running round a corner and having a quicker click than him. If I had to reach over to B to do that I know I'd lose every time. 
+                    nope. not really if that happens you can also spray from the hip...
+                        I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+                            Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+    Tactical switches B and Right Stick, so basically RS makes you crouch and B melees in Tactical.
+[deleted]
+    Totally agree. Sensitivity should be about comfort level. I agree that it is beneficial to bump up your sensitivity... and starting at a higher sensitivity than you are comfortable with will improve your control overall (but it will take time). 
+
+In the end, settle on what makes you accurate and allows you to play in your comfort zone. If you desire to spin around faster, then definitely bump it up and get out of your comfort zone to achieve that skill. 
+
+I am at about 6 and perfectly happy. 
+You generally **do not** want to have such a high sensitivity. Using a 3 or 4 should be more than enough for most players, especially those who are having trouble doing well.
+This is simply amazing and one of the best, if not the best "pro tip" posting I have yet to see on here. They are all helping but this one is so in depth. Being such a "noob" as the kids call it these days, posts like this one gives me hope!
+Hey man great advice. I was already a positive K / D player but I used some of your tactics and made me even better. I went from going 15 and 10 to having games at 21 and.7 and one at 15 and 3. The most important thing i picked up was taking it slower than usually did. Great ad ice!!!!
+    Taking it slower will often make you faster ;p  Its important to find the right balance, but sometimes overcompensating in one direction allows you to learn new things.
+Tried some of these and noticed a small improvement in my first game using them. It's so hard not to sprint! Playing with a sensitivity of 10 is no picnic either.
+Im gonna try the Sensitivity one.  Never thought of it before.
+
+Nice guide!
+that sensitivity training exercise if fucking GOLD!  Also the slowing down advice is great too...some guru shit right there @Cyrex!
+I can maintain a pretty good ratio in TDM following these tips.   Another tip I suggest is to not reload immediately after killing someone. 
+    This is a bad habit of mine.
+Not sure why everyone says go with sensitivity 7. I usually play on 4 and have never had an issue spinning and getting people (then again I do react a bit faster). 
+
+EDIT: Aside from that, really top notch advice. Kudos for actually typing it all out and in a coherent manner on top of that! 
+    You don't absolutely have to use a higher sensitivity. But you should be able to. Set it to 10 and play like that for a few games, maybe a day. THEN pick which one you like best. I'm guessing it'll end up being higher than it was . . .
+        I followed your advice and went from 2 to 5. It seems like I can react much faster now.
+        Oh I know it'll be higher than it was. It's just that I'm comfortable where I am and have never had an issue with it. But I still agree with your advice. Others should still try it out (I don't even want to imagine the number of users who don't even know they can change their sensitivity). 
+            I play on a 3 and do fine as well. I used to play on a 7 on MW2 and 5 on BLOPS though.
+                I always played on max for Halo, never played higher than 5 for CoD.
+    I'm with ya, high sensitivity isn't that great because you are really sacrificing precision. My friend who was ranked second in Dom in BLOPS uses a 1 sensitivity. You're going to get more kills by being precise rather than being able to turn on people. 
+
+Also, this game really gives you little possibility of turning on a guy unless they are really really terrible.
+        The rule I learned is counter strike is you drop your sensitivity the longer the shot your making is. So for smg's and pistols you want a higher setting than when your just using sniper rifles.
+Thanks, certainly some things to think about.
+
+> What is the hurry anyway?
+
+The enemy's got the UAV up?
+    Yeah. I'm not necessarily saying that sprinting is bad, but newer players with crappy scores usually can stand to slow down.
+        Mine was actually the opposite.  I was going slow *and* walking out into open spaces, so I was obviously getting killed a lot more.  Now I use extreme conditioning for the majority of my classes.  I'm pretty much exclusively an smg player, but after a few days on the maps and learning heavy traffic areas, I run fast to get the drop on my opponent and hug the walls / pop out from time to time to look down long distances.
+
+It's been pretty effective. 
+            I go fast too, but I slow down near corners, doors, stairs, etc until i know its clear. This is something you have to learn and get a feel for though. Starting out slow is how you learn. The longer you stay alive, the more you can learn ;p
+I agree with you on the running away part, but one thing is if they're less than 10 seconds away, sometimes they;ll catch you and if you run and then wait, you pick up an easy kill for other dude being bad. Claymores/Bouncing Betties work for this as well, actually easier. Just set one up, run away, and if the guy is under the top 25% skillcap, chances are he's going to feel cocky that you're running, and he's gonna get greedy. I've been outplayed by this kind of shit plenty/
+    Well, this is a case where you sprint. My "stop sprinting" advice was more for when you are exploring new areas. If you are running away from an enemy that knows your position, you should absolutely sprint to better cover. Maybe even fall back to another area in LOS of your old position and wait for them to come 'get you'.  The main point was "don't just crouch behind that barrel, or sneak to the side and hide behind the wall. MOVE. 
+
+Bouncing betty is great to lay down on your way out. If they are closing and headed toward you as you retreat, tossing your frag grenade at your feet as you run is effective also. 
+Thanks for taking the time to share some great tips.
+[deleted]
+    I used to always have Red Dot or Holo Sights on my guns then I started just using iron sights or FMJ (MW2) and pretty much never used Dot Sights again. I do so much better with just iron sights.
+Some of these suggestions are best tried in previous COD games, or survival mode, such as tactical layout, high sensitivity, drop shots, 3 round bursts, staring at the mini map etc. Some things will often get you killed in the beginning, and can make increasing your KDR harder. If you can refine them in previous COD games you will be able to transfer to MW3 and see instant results.
+PC player here and I do really well (currently looking at a 2.45 KDR). Granted that is partying with clanmates. 
+
+A couple things I would add is that you need to play overpowered kits. Stop using weapons and perks you do shitty with, find and practice with 2, maybe 3 loadouts max that you do really well with. If you are constantly changing shit life will be hard. Remember it's important to stop having fun. :P
+
+On PC, Stalker is completely amazing/op. But no mouse on consoles is honestly a different game so it may not be as true there. It's precious in every single way but some of that power may come from the nature of mouse and keyboard so YMMV. Quickdraw pro is pretty amazing, maybe essential unless you need assassin/have some other particularly good reason not to?
+
+In general, SMGs and ARs are good. If you have the balls and bro skillz, you should always have a kit with an SMG, Lightweight, Quickdraw and Stalker available for flanking and murdering the entire enemy team. Unrelated protip for all COD games - *in general*, if a silencer makes a weapon take more shots to kill, it's less of a malus on high ROF weapons that already take several shots to kill - i.e. the difference between 2 shots and 3 shots to kill is much larger than 3 and 4. So the silencer works really well on a gun like the M4 or SCARL. 
+
+If you're gonna use the LMGs and Sniper Rifles get the Speed proficiency.
+
+You don't have to take a 3rd killstreak, and this is useful for support. Try taking UAV, CUAV, no 3rd killstreak. Every 5 kills you get a UAV and Counter UAV. Add hardline to this setup and you get a UAV at 3 and CUAV at 4, then it resets again. So effectively 50% of your kills/points reward a killstreak. Pretty amazing IMO. If you are able to at least kill a lot of people but you're not good at staying alive, instead of the assault package, turret/advuav, stealth bomber, and crazy 4-care-package airplane thingy from the Support line will give you consistent fun.
+
+The Assault package is my favorite, but it's not nearly as overpowered as Predator -> harrier -> gunship was in MW2; and if my KDR was lower I would do the above thingies with the support package a lot. Also, the specialist package is good for leveling up. I do use a Hardline+UAV/CUAV kit I highly recommend it.
+thanks, while not bad at mw3, i am neither great.  i usually end up with a few more deaths then kills.  I'm going to give your tips a try and let you know the outcome.
+Which game modes are best for getting better at the game?
+A lot of this stuff is common sense, you learn on your own or doesn't need explanation. Still great thread, I was referred from here: http://www.reddit.com/r/mw3/comments/oavcd/mw3_protips_collection_thread/
+Saved.
+One minor thing I'd thought I'd add... if you plan on staying alive longer, Scavenger Pro is a must!  Also, I've found that LMG's are really effective if you have good aim (any one will do, preferably not the PKP Pecheneg).  Sleight of Hand comes in really handy and attaching a silencer with the "Kick" perk really makes this a lethal choice.  Opinions on this choice?
+This doesn't help the fact that I put bullet after bullet into someone, only for them to seemingly kill me in one bullet because of the ridiculous connection issues.
+    Which connection issues? So far I've always found a game with <50ms ping.
+        Well, it's not connection issues, it's got to be either some ridiculous amount of lag compensation, or just bad net code. My connection is amazing yet I always end up behind people in-game.
+Does turning off Theater Mode have any effect on an X360?
+    I noticed an improvement. 
+        I noticed zero improvement.
+
+It's just a myth. 
+            I actually tested load times and they sped up when I turned it off. At a minimum, you are using less of your HDD space.
+            There probably is a right answer we just dont know cause we didnt write the code for the game, as far as im concerned it cant hurt to turn off theater mode and try it out, if not turn it back on.
+[deleted]
+    Correction: It shows where they **were** ;-) Don't expect someone to be EXACTLY where the red dot is on the map. 
+        What Esslemut is saying is that don't expect that because there isn't a dot there, that there isn't a person there.  Assassin is a *motherfucker...*
+        This is where I thought he was going with this...
+2.0 ratio for all past CoD games using a 1 or 2 sensitivity... that's the only thing i contest. the rest is just kinda basic knowledge. 
+[deleted]
+    I agree but after a while the game is more fun when you can at least keep 1.0 K/D and sometimes get 1.5-3. Currently I'm somewhere around 0.67 (up from 0.5 when I started MW3) and it sucks to have games where I get like 5 kills and die 13 times.
+    You phrase that as if the fantasty football guys aren't having fun when in reality, an intense match-up against one of your buddies is some of the most fun you'll have. 
+
+Same with COD. I don't know about you, but doing well in the game and pulling a 50-2 sure is gratifying and fun. 
+I apologize if the following comes of as a douche but...
+
+Fuck Almost everything you said. You basically described how to become a try-hard camping douchebag who wouldn't touch an objective if their life depended on it. Fuck Dropshotters. Fuck KDR Whores. Fuck people who stay to the edge of the map when the damn flags are in the middle. 
+
+-Signed *a-Panic-Knifing-Full-Sprinting-Aweful-KDR* Team Player.
+    Not sure if "aweful" is a typo or a sneaky comment. 
+
+Also I'm pretty sure OP is trying to help people improve their game in general. You can't exactly do anything objective based when you've got choppers and enemies shooting you, can you?
+        [totally meant to do that](http://alltheragefaces.com/img/faces/svg/neutral-bad-poker-face.svg)
+    1. Drops Shotting is a 
+            whoooop
+    [deleted]
+        just followin' reddit's rules of karma more bang for your fuck.
+    I hear ya. On the plus side the past 4 CoD games let you do that and still have fun. :-/
+Stopped reading at 'Controller Sensitivity'
+    Same.   
+[deleted]
+    i used the word in the mathematical sense as in non-linear... and it does not mean doubling. If you want to correct someone, go learn the subject.
+    just try to image 0.8 getting better by using any exponential increase
+i want to downvote this into oblivion because of how much it annoys me, and how much of it is basic common sense. But after realising not every one is cut out for fps games, it makes a perfect sense to tell them how to improve. Well done op for taking the time to compile the info for the newbs
+I agree, except fuck secondary weapons and anti air if your planning to go with an assualt,LMG or SMG. Go with stinger as secondary there. Now if you got extended mags on your SMG or assualt rifle you have all the bullets you will need for a couple kills. Use frag, cause its fun, good and way more pro then stick grenade. Also use anti equipment grenade. You get one less, but great for many occasions. 
+
+Use secondary guns only if you go sniper or riot shield. 
+
+Use sitrep(getting sitrep pro really revolutionizes your play, plus dead silence is for faggots). Marathon(sleight of hand is gay) and your choice of hardline or assassin. Preferably hardline as first class and when you die switch to assassin,most likely the time UAVs start showing up. 
+
+I have an ok K/D i like to be in cover most of the time, and don't mind running to cover or to flank. 
+Higher sensitivity =/= good. 
+
+And you should always move after a kill. 
+
+Plus, nobody really cares about kd. 
+i have a 2.5 kd but i do none of this....
+Tip #1 to get a better K/D ratio and the only one you need is use a mouse and keyboard. 
+    5 million people on Xbox.. 300,000 on PC :(.. i'm a PC gamer, but  i'm going with XBox for this game . . .
+
+
+        Yeah and every single one of them are bad on consoles.
+            My main issue with PCs is it is easier to cheat and manipulate the game files, so there is more of it. That ruins games IMO. I used to run a very large gaming community site (at the time back in 2000). FPS shooters are much better on PC, but multiplayer is more fun (less cheating) on consoles.
+I would like to say this is just not all correct allot of it is common sense and mostly preference. This will not make you better at COD It'll just increase your KD.
+    in TDM, that is all that matters...
+        Having read all of the above lots of times i want to thank you for the post,iam a poor player who doesnt get very high kills or has a good kd actually it sucks so thats why i looked for a post like this, im 48yrs old and came in to cod late with mw2 and probebly dont have the reactions of you younger guys and gals, i am in a great clan who have great players,ive been in it since the start of my cod time just over 3yrs and they accept that im not very good,but lately i havent been playing with them as i feel that my game has got really bad, im going to try all the tips you have shown here in a hope to get back to enjoying mw3, thanks again mate! My xbox live gt is IDS Ghost if anyone wants to add me to practice together if you are where i am at right now?  not a happy place lol.
+            I'm 30 ;p you aren't 'that' much older ;p
+Games were so much simpler back then. You can't "get good" in a game these ways today.
+    It is totally possible to get better at games using these techniques today. Its about experimentation, learning all of the controls, settings, etc. and then determining what works best for you. Also focusing on technique and trying new things with a focus on the end goal of improvement. Focusing on improvement rather than winning during the learning process is key. Winning becomes a side-effect which is what is required for growth. A focus directly on winning can cause tunnel vision which makes it much more difficult to identify problems
+no offense, but absolutley none of this was useful, or benificial to me in any way. I’m still going 0/9, 1/12, 3/17, 4/26 and havin to back outt every match I get in to keep from doin any worse.
+Love this thank you for spending the time to help dads like me who suck and NEED to kick their sons butt haha
+    12 years ago and these tips still work in most FPS games
+
+**Slow down at the start of a game**
+Other than to cap the first flag in domination, there is no huge advantage to sprinting to the enemy at the start of a new game/round. You can get a great idea of where the other team is by just watching for the red dots on the minimap, or looking to see where you teammates died (the ones that thought they needed to sprint to the enemy). Also, if everyone sprints off into the middle of the map and there is no one left behind, the enemy could end up spawning behind you. 
+
+**Check your six!!**
+As you skirt around the edge of the map, slow down before each new opening into the middle. Check behind you. Is there a green area on the minimap? If not, turn around make sure the enemy didn't just spawn behind you then continue. The spawning system in MW3 appears to allow enemies to spawn relatively close sometimes. While I don't recommend camping in one general area the entire game, it doesn't hurt to patrol back and forth in an area with a lot of action until you are comfortable that it is all clear. If you get 1 kill, wait 10 seconds get another kill, wait, kill etc. The other side might think you are camping and try to flank you from behind. *If your team isn't behind you, your enemy probably is.*
+
+
+
+
+TL;DR
+
+**Copied from a comment I left on another post**
+
+* Stay on the outside of the map. Don't go in the middle. just DON'T
+* Do not sprint constantly. Only sprint up to people on your team. 
+* Hug walls
+* If you kill someone stay where you are and wait for 5-10 seconds with your sights pointed in the direction they came from before moving on. Their friends will show up, I promise. 
+* Don't aim down the sights in close quarters combat. 
+* With an automatic weapon at close to mid range, aim near the feet if you plan on spraying
+* With an automatic weapon, fire in bursts at long range ( 3 round bursts work well for me)
+* Adjust your button layout to tactical. This will make meleeing your opponent much easier. 
+* Adjust your sensitivity upwards every few games until you are able to play with a 10 sensitivity. Leave it like this for 10+ games, then drop it down if you like (no lower than 7). Think of it as sensitivity training for your thumbs. If you are sniping from long ranges, you can go much lower, but there aren't any great maps for that just yet.
+* Turn off theater mode
+* Don't use assault strike package. Use either of the other two. 
+* Keep in mind that killstreaks reset, so if you get 20 kills in one game and use ONLY UAV in support, you'll get 6 UAVs.  If you use UAV, airdrop trap, and stealth bomber, you will only get 1 UAV. 
+* Stick to 1 solid gun until your K/D is decent. (MP5, UMP, M4A1 seem to be the best for  < lvl 42 if you are having trouble)
+* Watch your minimap. Get in the habbit of dying because you were watching your minimap and not the screen. Once you have MINIMAP ingrained into your skull, start paying 'just enough' attention to the rest of your screen. 
+* Watch your killcam to learn where enemies were. Watch out next time you are in that area, and think about using that spot yourself sometime.
+* Setup an anti-air custom slot. Switch to this anytime an air kill streak is up. When you die, shoot it down and switch back to your main setup for the next death. **So many people choose to die 5x rather than killing that damn AC130 or Osprey**
+* STOP AIMING AT THE WALL. -- When you are kneeling in a corner or behind some barrels, don't aim at the wall. have your sights on the doorway or just above the stairs so you can pull  the trigger as soon as the enemy shows up. At the moment, walking through walls in MW3, doesn't happen. 
+    [deleted]
+        Upvote for more great advice! This is a little more advanced than what I was intending for structure of my post (plus I had to break my 30,000 word post up into  a post with 2 comments so I didn't have the room to discuss class setups)
+            Fair enough, Captain.
+    good guide, with one problem: sensitivity. a higher sensitivity is not better, it will be better for turning on people quicker, but it limits your ability to do very slight adjustments, like managing small recoil, at long ranges. You don't need a high sensitivity to be a good player, for anyone who knows who sandy ravage is he has a 3 sensitivity. You need to find the sensitivity that's right for you!!!
+        The exercise wasn't only to have people increase their sensitivity, but to train their thumbs. After playing a higher sensitivity and dropping down lower, you will have MUCH better control. I don't recommend sticking at 10   permanently. Use whatever is most comfortable, but try the exercise I recommend first. Get to where you can use 8 very well for a day or two, then go back down to 4. Come back and complain if it didn't make you better.
+            sorry, didn't realize that's what you meant. carry on
+                yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+    Why turn off theatre mode?
+        supposedly it can help decrease lag
+"switch to your FMG-9 as soon as you spawn to unfold it. It will stay unfolded after the first time"
+OMG I didn't know this. So many deaths because I had to wait for that stupid gun to flip open.
+Haha.. it is definitely a great gun but have you tried the G36C? That gun is where its at . . .
+    Is the 36 that good?  I tried it last night and couldn't quite get in the groove with it :(
+        Its powerful, fast reload time, nice iron sights, good range, fast firing rate. Not sure I could ask for more. Kickback isn't bad on it.  I love it.
+            I'll have to give it another try but I'm loving the CM901 right now so it may have to wait awhile :)
+                It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+                    I like the feel.  It's manageable and feels like a slow firing ACR.  
+                    It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+                        People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+                        I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+                            Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                                I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+            still love the m4a1 over all.
+        ACR outclasses every assault rifle except the type 93.
+            I'm starting to come around to the mk14. Its obviously a mid to long range assault rifle, but you need only 2-3 bullets to kill a person. Much better than the FAL and about the same as the G3 from COD 4.
+                With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+That gun is ridiculously overpowered.
+    I disagree: the silencer drastically reduces its power, making it at least a 2 burst kill, so you have to go loud for it to be good
+        Nope. It's always *at least* a three bullet kill. Minimum two bullet. Has a *1000* RPM ROF. Minimal recoil. AND you can put Rapid Fire on it. Pretty sure that's about 1330rpm.
+            "at least a three bullet kill. Minimum two bullet." 
+
+What?
+                [Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+                    lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+                How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+                    Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+                    "At least"="Minimum"
+    For some reason I keep getting killed more when I use it. E.g. kill confirmed there is so much activity that even with rapid fire the gun is too slow. Switched to P90 and I did much better. I think my problem was that with fast paced game I missed my first burst or there were multiple targets. Yes and the fact that I suck :D
+        The gun is good for medium-long range kills on alone sprinters. If somebody is running towards you on a generally open map when they're on their own, it's great because you should usually be able to get him with 2 bursts. You have to know when to use it as much as how.
+        P90 for life.
+type 95 silenced w/ rapid fire on search - the best
+Great points. I've been using the bouncing betty quite a bit to learn the flow. I'll put in area I think there is a lot of traffic and tread carefully until it goes off to confirm my suspicion. I've found a few areas where I'm almost sure to get a kill or 2 if I put it in the right spot. Now I know they are areas to watch closely when I'm nearby. 
+I'm going to have to disagree with your spawn assessment... 
+
+The spawns in Blops were thoroughly broken.  In fact, they were so broken that Treyarch had to release a series of patches to fix them.  The same seems to be true with this game.  At no point should enemies spawn behind you in gametypes like Domination and there shouldn't be a period where you're spawning in someones sights repeatedly.  
+
+I'm sure that there will be fixes forthcoming for the spawn issues.  
+
+I can't comment on MW2 since I bought it about 2 months after everyone else :(
+    >At no point should enemies spawn behind you in gametypes like Domination
+
+Well, it can happen if your any of your team mates push too far into the enemy spawn. When you have two flags captured and some knucklehead on your team decides to run into the area around the enemy team's flag, it'll flip the spawns.
+        Very true.  I should've been more clear on that point, however, in MW3 I've found that regardless of map control, there are people spawning EVERYWHERE at any time.
+            Join a map and run into a corner and sit there, you should notice your teammates will start spawning on top of you fairly soon. The randomness you see is probably due to the game spawning people close to their teammates.
+    They never patched Blops spawns. It had more to do with everyone just learning spawns like every COD beforehand. 
+
+For example, I've watched some of my old gameplay one of which was a Dom game on WMD on the second day since launch. I remember complaining about the broken spawn system since I got shot in the back near that HQ point by the train. In actuallity, we were just triple capping and *that is the actual* spawn point when the opposing team gets trip capped. I just hadn't learned that yet. 
+        Grrrr... I'm looking for the patch notes, but I'm positive that they had to do some serious adjustments with the way the game interpreted safe/good spawns.  
+
+I'll have to update later.
+
+I swear I'm not crazy :)
+            I remember that being the case as well.
+The one thing that I've come to find quickly is that if you start to stray far from your team, watch your back because enemies are going to spawn next to or behind you.  In MW3, the first couple of games on every map I would go into the theater and look at where the enemies spawned. Theater can be an extremely useful tool if you use it in that way. 
+This. I was SO glad when I realised shooting air support counts towards your streak.
+The exercise isn't necessarily meant to cause you to change your sensitivity. It is more or less to train your mind and thumbs. After using a very high sensitivity and doing halfway decent with it, you can lower it and have much better control. I personally use 7 or 8 most of the time now. Any less and I'm unable to do a 180 and kill someone that comes up behind me in time. I've had so many of these kinds of kills, i feel bad for them. They spawn behind me, run into me and get all excited. They smash their trigger and miss. I spin around and headshot. Nothing they can do. 
+Tide goes in tide goes out. No explanation
+    Bread goes in, toast comes out.  You can't explain that.
+        lol :p
+I know more about the game than I can actually execute. These are specific things I am working on myself :p They really do help. I attribute much of the knowledge from watching Seananners. 
+
+Of course you can run and gun and go crazy, but learn the basics first. Once you know how to use the minimap, listen to the sounds in your headset, and you generally have good map awareness, you can go crazy. I didn't mention it in this post, but a good headset can make a HUGE difference). 
+    So far headset hasn't been that great for me. There are way too many predator missiles, sams etc. going all the time that I cannot hear the enemies.
+Nevertheless,  these are good tips to NEW players. 
+Yeah, but the audience was people that are really sucking. learning routing and timing is a little more advanced ;-)
+I started doing much better (still very much a noob) once I started to really concentrate on 3-5 matches at a time and take a break for several minutes.  Between trying to learn the methods of different objectives and how to play *to* them as well as still getting familiar with the maps. It isn't just boredom that dulls senses, in my case it was/is a matter of keeping my head in the current match and not dwelling on figuring out what I did wrong 2 or 3 matches prior.
+This **was available in Black Ops**... you could filter the leaderboard to show how you were performing that week, month, or all-time. 
+
+Too bad IW left a ton of good crap out in favor of CoD Elite. 
+    The option is still there :)
+
+Filter > Duration > Weekly
+10th prestige and you can reset your stats :p
+    Yeah, by the time I get to 10th prestige I will reset my stats...by getting MW4.
+        >Yeah, by the time I get to 10th prestige I will reset my stats...by getting W@W2.
+
+FTFY
+
+
+            I cant wait for World of Warcraft 2 either.
+            doing so will reset your prestige and rank as well.
+I read these tips, played for 12 hours straight, and my girlfriend got pregnant! it's a miracle!
+    Nice try saint Joseph.
+I wish it wasn't so long :(  I should take the time to put this into a real website
+B becomes Knife, and right analog stick down (pushing it in) becomes prone/kneel.
+
+It takes getting used to. Maybe 5 full games or more, but it is very much worth it. I don't think they had this in blackops, at least I was never able to find it.
+    It's been in every CoD game since MW at least.
+        OK. I never found it in black ops and within a few weeks of Blops coming out, my xbox died so I didn't play it much other than at my brother's house on his 70 inch screen.
+            deleted  ^^^^^^^^^^^^^^^^0.5688  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/86730)
+    [deleted]
+        Yep.
+
+The main thing is that your thumb is already there while you are moving/aiming and you can continue to aim as you go prone, whereas with the default, you can't aim and go prone at the same time. This is a great "OH SHIT" move in close-mid range
+            Don't you lose a lot of knife hits though? 90% of my knife kills are from bumping into a guy running round a corner and having a quicker click than him. If I had to reach over to B to do that I know I'd lose every time. 
+                nope. not really if that happens you can also spray from the hip...
+                    I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+                        Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+Tactical switches B and Right Stick, so basically RS makes you crouch and B melees in Tactical.
+Totally agree. Sensitivity should be about comfort level. I agree that it is beneficial to bump up your sensitivity... and starting at a higher sensitivity than you are comfortable with will improve your control overall (but it will take time). 
+
+In the end, settle on what makes you accurate and allows you to play in your comfort zone. If you desire to spin around faster, then definitely bump it up and get out of your comfort zone to achieve that skill. 
+
+I am at about 6 and perfectly happy. 
+Taking it slower will often make you faster ;p  Its important to find the right balance, but sometimes overcompensating in one direction allows you to learn new things.
+This is a bad habit of mine.
+You don't absolutely have to use a higher sensitivity. But you should be able to. Set it to 10 and play like that for a few games, maybe a day. THEN pick which one you like best. I'm guessing it'll end up being higher than it was . . .
+    I followed your advice and went from 2 to 5. It seems like I can react much faster now.
+    Oh I know it'll be higher than it was. It's just that I'm comfortable where I am and have never had an issue with it. But I still agree with your advice. Others should still try it out (I don't even want to imagine the number of users who don't even know they can change their sensitivity). 
+        I play on a 3 and do fine as well. I used to play on a 7 on MW2 and 5 on BLOPS though.
+            I always played on max for Halo, never played higher than 5 for CoD.
+I'm with ya, high sensitivity isn't that great because you are really sacrificing precision. My friend who was ranked second in Dom in BLOPS uses a 1 sensitivity. You're going to get more kills by being precise rather than being able to turn on people. 
+
+Also, this game really gives you little possibility of turning on a guy unless they are really really terrible.
+    The rule I learned is counter strike is you drop your sensitivity the longer the shot your making is. So for smg's and pistols you want a higher setting than when your just using sniper rifles.
+Yeah. I'm not necessarily saying that sprinting is bad, but newer players with crappy scores usually can stand to slow down.
+    Mine was actually the opposite.  I was going slow *and* walking out into open spaces, so I was obviously getting killed a lot more.  Now I use extreme conditioning for the majority of my classes.  I'm pretty much exclusively an smg player, but after a few days on the maps and learning heavy traffic areas, I run fast to get the drop on my opponent and hug the walls / pop out from time to time to look down long distances.
+
+It's been pretty effective. 
+        I go fast too, but I slow down near corners, doors, stairs, etc until i know its clear. This is something you have to learn and get a feel for though. Starting out slow is how you learn. The longer you stay alive, the more you can learn ;p
+Well, this is a case where you sprint. My "stop sprinting" advice was more for when you are exploring new areas. If you are running away from an enemy that knows your position, you should absolutely sprint to better cover. Maybe even fall back to another area in LOS of your old position and wait for them to come 'get you'.  The main point was "don't just crouch behind that barrel, or sneak to the side and hide behind the wall. MOVE. 
+
+Bouncing betty is great to lay down on your way out. If they are closing and headed toward you as you retreat, tossing your frag grenade at your feet as you run is effective also. 
+I used to always have Red Dot or Holo Sights on my guns then I started just using iron sights or FMJ (MW2) and pretty much never used Dot Sights again. I do so much better with just iron sights.
+Which connection issues? So far I've always found a game with <50ms ping.
+    Well, it's not connection issues, it's got to be either some ridiculous amount of lag compensation, or just bad net code. My connection is amazing yet I always end up behind people in-game.
+I noticed an improvement. 
+    I noticed zero improvement.
+
+It's just a myth. 
+        I actually tested load times and they sped up when I turned it off. At a minimum, you are using less of your HDD space.
+        There probably is a right answer we just dont know cause we didnt write the code for the game, as far as im concerned it cant hurt to turn off theater mode and try it out, if not turn it back on.
+Correction: It shows where they **were** ;-) Don't expect someone to be EXACTLY where the red dot is on the map. 
+    What Esslemut is saying is that don't expect that because there isn't a dot there, that there isn't a person there.  Assassin is a *motherfucker...*
+    This is where I thought he was going with this...
+I agree but after a while the game is more fun when you can at least keep 1.0 K/D and sometimes get 1.5-3. Currently I'm somewhere around 0.67 (up from 0.5 when I started MW3) and it sucks to have games where I get like 5 kills and die 13 times.
+You phrase that as if the fantasty football guys aren't having fun when in reality, an intense match-up against one of your buddies is some of the most fun you'll have. 
+
+Same with COD. I don't know about you, but doing well in the game and pulling a 50-2 sure is gratifying and fun. 
+Not sure if "aweful" is a typo or a sneaky comment. 
+
+Also I'm pretty sure OP is trying to help people improve their game in general. You can't exactly do anything objective based when you've got choppers and enemies shooting you, can you?
+    [totally meant to do that](http://alltheragefaces.com/img/faces/svg/neutral-bad-poker-face.svg)
+1. Drops Shotting is a 
+        whoooop
+[deleted]
+    just followin' reddit's rules of karma more bang for your fuck.
+I hear ya. On the plus side the past 4 CoD games let you do that and still have fun. :-/
+Same.   
+i used the word in the mathematical sense as in non-linear... and it does not mean doubling. If you want to correct someone, go learn the subject.
+just try to image 0.8 getting better by using any exponential increase
+5 million people on Xbox.. 300,000 on PC :(.. i'm a PC gamer, but  i'm going with XBox for this game . . .
+
+
+    Yeah and every single one of them are bad on consoles.
+        My main issue with PCs is it is easier to cheat and manipulate the game files, so there is more of it. That ruins games IMO. I used to run a very large gaming community site (at the time back in 2000). FPS shooters are much better on PC, but multiplayer is more fun (less cheating) on consoles.
+in TDM, that is all that matters...
+    Having read all of the above lots of times i want to thank you for the post,iam a poor player who doesnt get very high kills or has a good kd actually it sucks so thats why i looked for a post like this, im 48yrs old and came in to cod late with mw2 and probebly dont have the reactions of you younger guys and gals, i am in a great clan who have great players,ive been in it since the start of my cod time just over 3yrs and they accept that im not very good,but lately i havent been playing with them as i feel that my game has got really bad, im going to try all the tips you have shown here in a hope to get back to enjoying mw3, thanks again mate! My xbox live gt is IDS Ghost if anyone wants to add me to practice together if you are where i am at right now?  not a happy place lol.
+        I'm 30 ;p you aren't 'that' much older ;p
+It is totally possible to get better at games using these techniques today. Its about experimentation, learning all of the controls, settings, etc. and then determining what works best for you. Also focusing on technique and trying new things with a focus on the end goal of improvement. Focusing on improvement rather than winning during the learning process is key. Winning becomes a side-effect which is what is required for growth. A focus directly on winning can cause tunnel vision which makes it much more difficult to identify problems
+12 years ago and these tips still work in most FPS games
+[deleted]
+    Upvote for more great advice! This is a little more advanced than what I was intending for structure of my post (plus I had to break my 30,000 word post up into  a post with 2 comments so I didn't have the room to discuss class setups)
+        Fair enough, Captain.
+good guide, with one problem: sensitivity. a higher sensitivity is not better, it will be better for turning on people quicker, but it limits your ability to do very slight adjustments, like managing small recoil, at long ranges. You don't need a high sensitivity to be a good player, for anyone who knows who sandy ravage is he has a 3 sensitivity. You need to find the sensitivity that's right for you!!!
+    The exercise wasn't only to have people increase their sensitivity, but to train their thumbs. After playing a higher sensitivity and dropping down lower, you will have MUCH better control. I don't recommend sticking at 10   permanently. Use whatever is most comfortable, but try the exercise I recommend first. Get to where you can use 8 very well for a day or two, then go back down to 4. Come back and complain if it didn't make you better.
+        sorry, didn't realize that's what you meant. carry on
+            yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+Why turn off theatre mode?
+    supposedly it can help decrease lag
+Is the 36 that good?  I tried it last night and couldn't quite get in the groove with it :(
+    Its powerful, fast reload time, nice iron sights, good range, fast firing rate. Not sure I could ask for more. Kickback isn't bad on it.  I love it.
+        I'll have to give it another try but I'm loving the CM901 right now so it may have to wait awhile :)
+            It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+                I like the feel.  It's manageable and feels like a slow firing ACR.  
+                It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+                    People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+                    I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+                        Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                            I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+        still love the m4a1 over all.
+    ACR outclasses every assault rifle except the type 93.
+        I'm starting to come around to the mk14. Its obviously a mid to long range assault rifle, but you need only 2-3 bullets to kill a person. Much better than the FAL and about the same as the G3 from COD 4.
+            With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+I disagree: the silencer drastically reduces its power, making it at least a 2 burst kill, so you have to go loud for it to be good
+    Nope. It's always *at least* a three bullet kill. Minimum two bullet. Has a *1000* RPM ROF. Minimal recoil. AND you can put Rapid Fire on it. Pretty sure that's about 1330rpm.
+        "at least a three bullet kill. Minimum two bullet." 
+
+What?
+            [Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+                lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+            How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+                Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+                "At least"="Minimum"
+For some reason I keep getting killed more when I use it. E.g. kill confirmed there is so much activity that even with rapid fire the gun is too slow. Switched to P90 and I did much better. I think my problem was that with fast paced game I missed my first burst or there were multiple targets. Yes and the fact that I suck :D
+    The gun is good for medium-long range kills on alone sprinters. If somebody is running towards you on a generally open map when they're on their own, it's great because you should usually be able to get him with 2 bursts. You have to know when to use it as much as how.
+    P90 for life.
+>At no point should enemies spawn behind you in gametypes like Domination
+
+Well, it can happen if your any of your team mates push too far into the enemy spawn. When you have two flags captured and some knucklehead on your team decides to run into the area around the enemy team's flag, it'll flip the spawns.
+    Very true.  I should've been more clear on that point, however, in MW3 I've found that regardless of map control, there are people spawning EVERYWHERE at any time.
+        Join a map and run into a corner and sit there, you should notice your teammates will start spawning on top of you fairly soon. The randomness you see is probably due to the game spawning people close to their teammates.
+They never patched Blops spawns. It had more to do with everyone just learning spawns like every COD beforehand. 
+
+For example, I've watched some of my old gameplay one of which was a Dom game on WMD on the second day since launch. I remember complaining about the broken spawn system since I got shot in the back near that HQ point by the train. In actuallity, we were just triple capping and *that is the actual* spawn point when the opposing team gets trip capped. I just hadn't learned that yet. 
+    Grrrr... I'm looking for the patch notes, but I'm positive that they had to do some serious adjustments with the way the game interpreted safe/good spawns.  
+
+I'll have to update later.
+
+I swear I'm not crazy :)
+        I remember that being the case as well.
+Bread goes in, toast comes out.  You can't explain that.
+    lol :p
+So far headset hasn't been that great for me. There are way too many predator missiles, sams etc. going all the time that I cannot hear the enemies.
+The option is still there :)
+
+Filter > Duration > Weekly
+Yeah, by the time I get to 10th prestige I will reset my stats...by getting MW4.
+    >Yeah, by the time I get to 10th prestige I will reset my stats...by getting W@W2.
+
+FTFY
+
+
+        I cant wait for World of Warcraft 2 either.
+        doing so will reset your prestige and rank as well.
+Nice try saint Joseph.
+It's been in every CoD game since MW at least.
+    OK. I never found it in black ops and within a few weeks of Blops coming out, my xbox died so I didn't play it much other than at my brother's house on his 70 inch screen.
+        deleted  ^^^^^^^^^^^^^^^^0.5688  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/86730)
+[deleted]
+    Yep.
+
+The main thing is that your thumb is already there while you are moving/aiming and you can continue to aim as you go prone, whereas with the default, you can't aim and go prone at the same time. This is a great "OH SHIT" move in close-mid range
+        Don't you lose a lot of knife hits though? 90% of my knife kills are from bumping into a guy running round a corner and having a quicker click than him. If I had to reach over to B to do that I know I'd lose every time. 
+            nope. not really if that happens you can also spray from the hip...
+                I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+                    Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+I followed your advice and went from 2 to 5. It seems like I can react much faster now.
+Oh I know it'll be higher than it was. It's just that I'm comfortable where I am and have never had an issue with it. But I still agree with your advice. Others should still try it out (I don't even want to imagine the number of users who don't even know they can change their sensitivity). 
+    I play on a 3 and do fine as well. I used to play on a 7 on MW2 and 5 on BLOPS though.
+        I always played on max for Halo, never played higher than 5 for CoD.
+The rule I learned is counter strike is you drop your sensitivity the longer the shot your making is. So for smg's and pistols you want a higher setting than when your just using sniper rifles.
+Mine was actually the opposite.  I was going slow *and* walking out into open spaces, so I was obviously getting killed a lot more.  Now I use extreme conditioning for the majority of my classes.  I'm pretty much exclusively an smg player, but after a few days on the maps and learning heavy traffic areas, I run fast to get the drop on my opponent and hug the walls / pop out from time to time to look down long distances.
+
+It's been pretty effective. 
+    I go fast too, but I slow down near corners, doors, stairs, etc until i know its clear. This is something you have to learn and get a feel for though. Starting out slow is how you learn. The longer you stay alive, the more you can learn ;p
+Well, it's not connection issues, it's got to be either some ridiculous amount of lag compensation, or just bad net code. My connection is amazing yet I always end up behind people in-game.
+I noticed zero improvement.
+
+It's just a myth. 
+    I actually tested load times and they sped up when I turned it off. At a minimum, you are using less of your HDD space.
+    There probably is a right answer we just dont know cause we didnt write the code for the game, as far as im concerned it cant hurt to turn off theater mode and try it out, if not turn it back on.
+What Esslemut is saying is that don't expect that because there isn't a dot there, that there isn't a person there.  Assassin is a *motherfucker...*
+This is where I thought he was going with this...
+[totally meant to do that](http://alltheragefaces.com/img/faces/svg/neutral-bad-poker-face.svg)
+    whoooop
+just followin' reddit's rules of karma more bang for your fuck.
+Yeah and every single one of them are bad on consoles.
+    My main issue with PCs is it is easier to cheat and manipulate the game files, so there is more of it. That ruins games IMO. I used to run a very large gaming community site (at the time back in 2000). FPS shooters are much better on PC, but multiplayer is more fun (less cheating) on consoles.
+Having read all of the above lots of times i want to thank you for the post,iam a poor player who doesnt get very high kills or has a good kd actually it sucks so thats why i looked for a post like this, im 48yrs old and came in to cod late with mw2 and probebly dont have the reactions of you younger guys and gals, i am in a great clan who have great players,ive been in it since the start of my cod time just over 3yrs and they accept that im not very good,but lately i havent been playing with them as i feel that my game has got really bad, im going to try all the tips you have shown here in a hope to get back to enjoying mw3, thanks again mate! My xbox live gt is IDS Ghost if anyone wants to add me to practice together if you are where i am at right now?  not a happy place lol.
+    I'm 30 ;p you aren't 'that' much older ;p
+Upvote for more great advice! This is a little more advanced than what I was intending for structure of my post (plus I had to break my 30,000 word post up into  a post with 2 comments so I didn't have the room to discuss class setups)
+    Fair enough, Captain.
+The exercise wasn't only to have people increase their sensitivity, but to train their thumbs. After playing a higher sensitivity and dropping down lower, you will have MUCH better control. I don't recommend sticking at 10   permanently. Use whatever is most comfortable, but try the exercise I recommend first. Get to where you can use 8 very well for a day or two, then go back down to 4. Come back and complain if it didn't make you better.
+    sorry, didn't realize that's what you meant. carry on
+        yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+supposedly it can help decrease lag
+Its powerful, fast reload time, nice iron sights, good range, fast firing rate. Not sure I could ask for more. Kickback isn't bad on it.  I love it.
+    I'll have to give it another try but I'm loving the CM901 right now so it may have to wait awhile :)
+        It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+            I like the feel.  It's manageable and feels like a slow firing ACR.  
+            It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+                People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+                I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+                    Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                        I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+    still love the m4a1 over all.
+ACR outclasses every assault rifle except the type 93.
+    I'm starting to come around to the mk14. Its obviously a mid to long range assault rifle, but you need only 2-3 bullets to kill a person. Much better than the FAL and about the same as the G3 from COD 4.
+        With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+Nope. It's always *at least* a three bullet kill. Minimum two bullet. Has a *1000* RPM ROF. Minimal recoil. AND you can put Rapid Fire on it. Pretty sure that's about 1330rpm.
+    "at least a three bullet kill. Minimum two bullet." 
+
+What?
+        [Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+            lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+        How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+            Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+            "At least"="Minimum"
+The gun is good for medium-long range kills on alone sprinters. If somebody is running towards you on a generally open map when they're on their own, it's great because you should usually be able to get him with 2 bursts. You have to know when to use it as much as how.
+P90 for life.
+Very true.  I should've been more clear on that point, however, in MW3 I've found that regardless of map control, there are people spawning EVERYWHERE at any time.
+    Join a map and run into a corner and sit there, you should notice your teammates will start spawning on top of you fairly soon. The randomness you see is probably due to the game spawning people close to their teammates.
+Grrrr... I'm looking for the patch notes, but I'm positive that they had to do some serious adjustments with the way the game interpreted safe/good spawns.  
+
+I'll have to update later.
+
+I swear I'm not crazy :)
+    I remember that being the case as well.
+lol :p
+>Yeah, by the time I get to 10th prestige I will reset my stats...by getting W@W2.
+
+FTFY
+
+
+    I cant wait for World of Warcraft 2 either.
+    doing so will reset your prestige and rank as well.
+OK. I never found it in black ops and within a few weeks of Blops coming out, my xbox died so I didn't play it much other than at my brother's house on his 70 inch screen.
+    deleted  ^^^^^^^^^^^^^^^^0.5688  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/86730)
+Yep.
+
+The main thing is that your thumb is already there while you are moving/aiming and you can continue to aim as you go prone, whereas with the default, you can't aim and go prone at the same time. This is a great "OH SHIT" move in close-mid range
+    Don't you lose a lot of knife hits though? 90% of my knife kills are from bumping into a guy running round a corner and having a quicker click than him. If I had to reach over to B to do that I know I'd lose every time. 
+        nope. not really if that happens you can also spray from the hip...
+            I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+                Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+I play on a 3 and do fine as well. I used to play on a 7 on MW2 and 5 on BLOPS though.
+    I always played on max for Halo, never played higher than 5 for CoD.
+I go fast too, but I slow down near corners, doors, stairs, etc until i know its clear. This is something you have to learn and get a feel for though. Starting out slow is how you learn. The longer you stay alive, the more you can learn ;p
+I actually tested load times and they sped up when I turned it off. At a minimum, you are using less of your HDD space.
+There probably is a right answer we just dont know cause we didnt write the code for the game, as far as im concerned it cant hurt to turn off theater mode and try it out, if not turn it back on.
+My main issue with PCs is it is easier to cheat and manipulate the game files, so there is more of it. That ruins games IMO. I used to run a very large gaming community site (at the time back in 2000). FPS shooters are much better on PC, but multiplayer is more fun (less cheating) on consoles.
+I'm 30 ;p you aren't 'that' much older ;p
+Fair enough, Captain.
+sorry, didn't realize that's what you meant. carry on
+    yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+I'll have to give it another try but I'm loving the CM901 right now so it may have to wait awhile :)
+    It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+        I like the feel.  It's manageable and feels like a slow firing ACR.  
+        It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+            People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+            I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+                Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                    I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+still love the m4a1 over all.
+I'm starting to come around to the mk14. Its obviously a mid to long range assault rifle, but you need only 2-3 bullets to kill a person. Much better than the FAL and about the same as the G3 from COD 4.
+    With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+"at least a three bullet kill. Minimum two bullet." 
+
+What?
+    [Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+        lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+    How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+        Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+        "At least"="Minimum"
+Join a map and run into a corner and sit there, you should notice your teammates will start spawning on top of you fairly soon. The randomness you see is probably due to the game spawning people close to their teammates.
+I remember that being the case as well.
+I cant wait for World of Warcraft 2 either.
+doing so will reset your prestige and rank as well.
+deleted  ^^^^^^^^^^^^^^^^0.5688  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/86730)
+Don't you lose a lot of knife hits though? 90% of my knife kills are from bumping into a guy running round a corner and having a quicker click than him. If I had to reach over to B to do that I know I'd lose every time. 
+    nope. not really if that happens you can also spray from the hip...
+        I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+            Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+I always played on max for Halo, never played higher than 5 for CoD.
+yeah.. I assumed the "Exercise" label would infer that, but it obviously didn't based on ALL of the comments about people complaining about my controller sensitivity write up.
+It's far better than the CM901. Not sure why many people are using that. It's stats are horrible. 
+    I like the feel.  It's manageable and feels like a slow firing ACR.  
+    It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+        People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+        I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+            Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+                I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+With Stopping Power and a Holographic Sight, the FAL killed in two shots regardless of distance (In MW2 at least).
+[Relevant](http://www.youtube.com/watch?v=xVxyMm0Hza8&feature=related)
+    lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+How can you not understand that?
+
+Always kills in three bullets at the maximum. At close and medium range it kills in two.
+    Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+    "At least"="Minimum"
+nope. not really if that happens you can also spray from the hip...
+    I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+        Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+I like the feel.  It's manageable and feels like a slow firing ACR.  
+It kicks like shit! You have to do 2 round bursts to hit anything with that from 20+ meters
+    People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+    I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+        Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+            I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+lol i've seen this before but never with subtitles.
+
+"you want him to do you so much..." bahahaha
+Because the way to say that is "at most" a three bullet kill.  That means there would need to be no more than three bullets
+"At least"="Minimum"
+I mean when you've literally bumped straight into him. There's no time to spray him. It's a fight to the death and only knives have been invited. I'm going to lose if I need to hit B. I guess you get used to it. 
+    Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+People were raving about it so I gave it a shot when I unlocked it. It was horrible. I couldn't even use it until I unlocked Kick for it it was that bad. Straight back to the M4 until I unlocked the G36C. Looking forward to the ACR when I get this guy Gold.
+I know what you mean, but silenced with kick proficiency it's very manageable and will drop someone with 2 shots at mid range and 3-5 at long
+    Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+        I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+Having played both styles, yes - you use a lot more knife fights than you would otherwise, but you have to start balancing out wether or not drop shots or knife kills net you more kills.  Since I mainly move quickly and use an smg - I use default, but when I'm using an AR, I def. go tactical.
+Yeah but I'd rather stick with the SCAR instead for the time being and wait for the ACR which is just like the CM901 but much more accurate.
+    I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
+I feels yah, brah I switch back and forth between the two. Really just depends in what game type I am playing.
