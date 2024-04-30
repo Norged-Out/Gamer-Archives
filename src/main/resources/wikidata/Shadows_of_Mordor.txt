@@ -1,0 +1,40 @@
+{{about|the 1987 video game|the 2014 video game|Middle-earth: Shadow of Mordor}}
+{{Refimprove|date=April 2020}}
+{{Infobox video game
+|title = Shadows of Mordor
+|image = File:Shadows_of_Mordor_Amstrad_CPC_Cover_Art.jpg
+|caption = Amstrad CPC cover art
+|developer = [[Beam Software]]
+|publisher = [[Krome Studios Melbourne|Melbourne House]] [[Addison-Wesley]]
+|released = 1987
+|genre = [[Text adventure]]
+|modes = [[Single-player]]
+|platforms = [[Amstrad CPC]], [[Apple II]], [[Commodore 64]], [[DOS]], [[Classic Mac OS|Macintosh]], [[ZX Spectrum]]
+}}
+'''''Shadows of Mordor: Game Two of Lord of the Rings''''' is a [[text adventure game]] for the [[Commodore 64]], [[Amstrad CPC]], [[ZX Spectrum]], [[Apple II]], [[DOS]], and [[Classic Mac OS|Macintosh]]. It is based on the second part of ''[[The Lord of the Rings]]'' story. It's a sequel to ''[[Lord of the Rings: Game One]]'' and ''[[The Hobbit (1982 video game)|The Hobbit]]''.
+The game focuses on [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] (with [[Sméagol]] as an NPC) on their journey to [[Mordor]] to destroy the [[One Ring]]. The game is considered{{by whom|date=August 2017}} an improvement over its predecessor, though still not on par with ''[[The Hobbit (1982 video game)|The Hobbit]]''.
+The game was followed by ''The Crack of Doom'' in 1989, which was released on [[Commodore 64]], [[Apple II]], [[DOS]], and [[Classic Mac OS|Macintosh]].
+==Reception==
+''[[Macworld]]'' reviewed the Macintosh versions of ''[[The Hobbit (1982 video game)|The Hobbit]]'', ''[[Lord of the Rings: Game One|The Fellowship of the Ring]]'' and ''The Shadows of Mordor'' simultaneously, criticizing ''The Hobbit'', calling it "particularly clumsy" as it is "handicapped by a 400-word input vocabulary" as opposed to the latter two games' 800 words. ''Macworld'' calls ''The Fellowship of the Ring'' "particularly intricate" and recommends it as an entry point to the series as opposed to ''The Hobbit''. ''Macworld'' praises ''The Hobbit's'' graphics, but states that in ''The Fellowship of the Ring'' and ''The Shadows of Mordor'' the art adds little to the games' overall appeal. Furthermore, ''Macworld'' heralds the three games as "literate and faithful in spirit to original books", but criticizes the dated and "rigid" nature of the text-adventure format.
+==References==
+{{Reflist}}
+== External links ==
+* [http://www.mobygames.com/game/shadows-of-mordor ''Shadows of Mordor''] at [[MobyGames]]
+* {{IFDB|id=fvvyotspkgrb223k}}
+* {{WoS_game|id=0006960}}
+{{LOTR}}
+{{Middle-earth video games}}
+[[Category:1980s interactive fiction]]
+[[Category:1987 video games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Beam Software games]]
+[[Category:Classic Mac OS games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Interactive fiction based on works]]
+[[Category:Single-player video games]]
+[[Category:Video game sequels]]
+[[Category:Video games based on Middle-earth]]
+[[Category:Video games developed in Australia]]
+[[Category:ZX Spectrum games]]

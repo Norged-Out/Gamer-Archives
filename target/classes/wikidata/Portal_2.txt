@@ -1,0 +1,402 @@
+{{Short description|2011 video game}}
+{{Good article}}
+{{Use American English|date=January 2013}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox video game
+| title = Portal 2
+| image = Portal2cover.jpg
+| alt = Cover art of the game; two humanoid robots are shown standing into a large, futurist setting with catwalks, pneumatic tubes, and other features in the background. One robot (P-Body) is crossing between two portals in the foreground, the other (Atlas) watching from behind.
+| caption = Cover art, featuring co-op campaign characters [[ATLAS and P-body|ATLAS]] (bottom) and [[ATLAS and P-body|P-body]]
+| developer = [[Valve Corporation|Valve]]{{efn|[[Nvidia Lightspeed Studios]] ported the game to the Nintendo Switch.|lead=yes}}
+| publisher = Valve
+| series = ''[[Portal (video game series)|Portal]]''
+| engine = [[Source (game engine)|Source]]
+| platforms = {{Unbulleted list|[[Windows]]|[[Mac OS X]]|[[Linux]]|[[PlayStation 3]]|[[Xbox 360]]|[[Nintendo Switch]]}}
+| released = {{Collapsible list
+| title = April 18, 2011
+| titlestyle = font-weight:normal;background:transparent;text-align:left;
+| '''Windows, Mac OS X (digital)'''
+| {{Video game release|WW|April 18, 2011}}
+| '''Windows, Mac OS X, PlayStation 3, Xbox 360 (retail)'''
+| {{Video game release|NA|April 20, 2011|PAL|April 22, 2011}}
+| '''Linux (beta)'''
+| {{Video game release|WW|February 26, 2014}}
+| '''Nintendo Switch'''
+| {{Video game release|WW|June 28, 2022}}
+}}
+| genre = [[Puzzle-platform]]
+| modes = [[Single-player]], [[multiplayer]]
+| director = Joshua Weier
+| producer = [[Gabe Newell]]
+| artist = {{Unbulleted list|Jeremy Bennett|Randy Lundeen}}
+| writer = {{Unbulleted list|[[Erik Wolpaw]]|[[Jay Pinkerton]]|[[Chet Faliszek]]}}
+| composer = [[Mike Morasky]]
+}}
+'''''Portal 2''''' is a 2011 [[puzzle-platform|puzzle-platform game]] developed by [[Valve Corporation|Valve]] for [[Windows]], [[Mac OS X]], [[Linux]], [[PlayStation 3]], and [[Xbox 360]]. The digital PC version is distributed online by Valve's [[Steam (service)|Steam]] service, while all retail editions were distributed by [[Electronic Arts]]. A port for the [[Nintendo Switch]] was included as part of ''[[Portal: Companion Collection]]''.
+Like the original ''[[Portal (video game)|Portal]]'' (2007), players solve puzzles by placing portals and teleporting between them. ''Portal 2'' adds features including tractor beams, lasers, light bridges, and paint-like gels that alter player movement or allow portals to be placed on any surface. In the [[single-player]] campaign, players control [[Chell (Portal)|Chell]], who navigates the dilapidated [[Aperture Science Laboratories|Aperture Science Enrichment Center]] during its reconstruction by the supercomputer [[GLaDOS]] ([[Ellen McLain]]); new characters include robot [[Wheatley (Portal)|Wheatley]] ([[Stephen Merchant]]) and Aperture founder [[Cave Johnson (Portal)|Cave Johnson]] ([[J. K. Simmons]]). In the new cooperative mode, players solve puzzles together as robots Atlas and P-Body (both voiced by [[Dee Bradley Baker]]). [[Jonathan Coulton]] and [[The National (band)|the National]] produced songs for the game.
+Valve announced ''Portal 2'' in March 2010, and promoted it with [[alternate reality game]]s including the [[Potato Sack]], a collaboration with several [[Independent video game development|independent game developers]]. After release, Valve released [[downloadable content]] and a simplified [[Level editor|map editor]] to allow players to create and share levels.
+''Portal 2'' received critical acclaim for its gameplay, balanced [[learning curve]], pacing, [[dark humor]], writing, and acting. Like its predecessor, it has been described as one of the [[List of video games considered the best|greatest video games ever made]] by numerous publications and critics.
+== Gameplay ==
+[[File:Portal physics-2.svg|thumb|''Portal 2'' challenges the player to use teleportation to traverse obstacle courses. The player's speed does not change upon passing through portals. In this example, the vertical velocity of the falling character is converted into horizontal velocity by the portal.|alt=A schematic of two platforms separated by a gap and by height. One portal opening is located at the bottom of the gap, the other on a wall high above the lower platform. A human figure is shown by a trajectory path to be able to jump from the lower platform into the bottom portal and exit the top portal to land on the higher platform.|left]]
+''Portal 2'' is a first-person perspective puzzle game. The player takes the role of [[Chell (Portal)|Chell]] in the [[single-player]] campaign, as one of two robots{{mdash}}Atlas and P-Body{{mdash}}in the cooperative campaign, or as a simplistic humanoid icon in community-developed puzzles. Characters can withstand limited damage but will die after sustained injury. The goal of both campaigns is to explore the Aperture Science Laboratory—a complicated, malleable mechanized maze. While some parts of the game takes place in modular test chambers with clearly defined entrances and exits, other parts occur in behind-the-scenes areas where the objective is less clear.
+The initial tutorials guide the player through movement controls and interactions with their environment, and in the case of the cooperative campaign, interactions with the other player. Gameplay revolves around the use of the ''Aperture Science Handheld Portal Device'', which can create a pair of two portals on suitable surfaces through which the player or objects can pass through. Characters can use these portals to move between rooms or to "fling" objects or themselves across a distance.
+Additional game elements not featured in the original ''Portal'' include Thermal Discouragement Beams ([[laser]]s), Excursion Funnels ([[tractor beam]]s), and Hard Light Bridges, all of which can be transmitted through portals. Aerial Faith Plates catapult the player and objects through the air. The player must disable sentient, lethal [[Characters in the Portal series#Turrets|turrets]] or avoid their line of sight. The Weighted Storage Cube has been redesigned, and there are new types: Redirection Cubes, which have prismatic lenses that redirect laser beams, spherical [[Ball|Edgeless Safety Cubes]], an antique version of the Weighted Storage Cube used in the underground levels, and a cube-turret hybrid created by Wheatley after taking control of Aperture. Early demonstrations included Pneumatic Diversity Vents, shown to transport objects and transfer suction power through portals, but these do not appear in the final game. The typical objective of a test chamber or level is to use the portal gun and provided gameplay elements to open a locked exit door and progress to the next chamber.
+Paint-like gels (which are dispensed from pipes and can be transported through portals) impart certain properties to surfaces or objects coated with them. and white Conversion Gel to allow surfaces to accept portals. Only one type of gel can affect a certain surface at a time. Some surfaces, such as grilles, cannot be coated with a gel. Water can block or wash away gels, returning the surface or object to its normal state.
+In the cooperative campaign, two players can use the same console with a [[Split screen (computer graphics)|split screen]], or can use a separate computer or console; Windows, Mac OS X, and PlayStation 3 users can play with each other regardless of platform. Both player-characters are robots equipped with independent portal guns, a portal pair placed by either player is usable by both. The game provides voice communication between players, and online players can temporarily enter a split-screen view to help coordinate actions. Players can "ping" to draw the other player's attention to walls or objects, start countdown timers for synchronized actions, and perform joint gestures such as waving or hugging. The game tracks which chambers each player has completed and allows players to replay chambers they have completed with new partners.
+''Portal 2''{{'}}s lead writer [[Erik Wolpaw]] estimates each campaign to be about six hours long. ''Portal 2'' contains [[Audio commentary|in-game commentary]] from the game developers, writers, and artists. The commentary, which is unlocked per completed chapter, appears on node icons scattered through the chambers. According to Valve, each of the single-player and cooperative campaigns is 2 to 2.5 times as long as the campaign in ''Portal'', with the overall game five times as long.
+== Plot ==
+{{See also|List of Portal characters}}
+=== Backstory ===
+The ''Portal'' series shares a fictional universe with the [[Half-Life (series)|''Half-Life'' series]]. The events in ''Portal'' take place between the [[Half-Life (video game)|first]] and [[Half-Life 2|second]] ''Half-Life'' games, while most of ''Portal 2'' is set "a long time after" the events in ''Portal''.
+Before ''Portal'', [[Aperture Science]] conducted experiments to determine whether human subjects could safely navigate dangerous "test chambers", until the [[artificial intelligence]] [[GLaDOS]], governing the laboratory, killed its employees. At the end of the first ''Portal'', the protagonist [[Chell (Portal)|Chell]] destroys GLaDOS and momentarily escapes the facility, but is dragged back inside by an unseen figure later identified by writer Erik Wolpaw as the "Party Escort Bot". A [[Portal (video game series)#Portal 2: Lab Rat|promotional comic]] shows estranged Aperture Science employee Doug Rattmann, who used graffiti to guide the player in ''Portal'', placing Chell into [[suspended animation]] to save her life, until the beginning of ''Portal 2''.
+=== Single-player campaign ===
+In the Aperture Science facility, player-character Chell wakes in a [[Stasis (fiction)|stasis chamber]] resembling a [[motel]] room. The complex has become dilapidated after what appears to be millennia of decay. Wheatley ([[Stephen Merchant]]), a [[Personality cores|personality core]], guides her through old test chambers from the first game in an attempt to escape the facility after its reserve power is depleted. They accidentally reactivate the dormant GLaDOS ([[Ellen McLain]])
+GLaDOS subjects Chell to new tests until Wheatley helps her escape again. They sabotage Aperture's production of turrets and neurotoxin to prevent GLaDOS from killing them, then confront GLaDOS and perform a core transfer, replacing her with Wheatley as the laboratory's controller. Wheatley, immediately driven mad with power, installs GLaDOS on a [[potato battery]]. GLaDOS tells Chell that Wheatley was designed as an "intelligence dampening sphere" to deliberately produce illogical thoughts and hamper her own intelligence. Infuriated, Wheatley inadvertently destroys the lift to the surface with Chell and GLaDOS inside, causing them to fall to the laboratories' abandoned lowest levels.
+Chell retrieves the potato battery and they form a reluctant partnership to stop Wheatley before his incompetence destroys the facility. Ascending through laboratories built in the 20th century, they discover audio recordings by eccentric Aperture Science founder [[Cave Johnson (Portal)|Cave Johnson]] ([[J. K. Simmons]]). The recordings reveal how Aperture slowly lost money and prestige throughout the decades, as its pool of test subjects was altered from "astronauts, war heroes, and Olympians" in the 1950s, to homeless people in the 1970s, and Aperture's own employees in the 1980s. In 1981, Johnson became mortally ill after ingesting [[lunar regolith|Moon dust]] used to manufacture portal-conductive surfaces.
+Chell and GLaDOS return to Aperture's higher levels, where they discover Wheatley's utter incompetence has brought the Aperture facility on the verge of catastrophic failure.
+Wheatley reveals that he has a "surprise" for Chell and GLaDOS, later tricking them into a death trap. He reveals that he had discovered the two robots from the Cooperative Testing Initiative, the game's cooperative campaign, making Chell no longer useful to him. She manages to escape from the trap right before its activation. The game's final levels are spent escaping from Wheatley's numerous attempts to kill them.
+In the game's [[Boss (video games)|boss fight]] and ending, Chell confronts Wheatley and attaches corrupted personality cores ([[Nolan North]]) to force another core exchange and restore GLaDOS to authority. However, Wheatley demolishes the button necessary to initiate the transfer. As the facility crumbles, Chell places a portal on the Moon; she and Wheatley begin to be pulled into the vacuum of space. GLaDOS, having reasserted control over the facility, rescues Chell and abandons Wheatley to outer space. When Chell awakens, GLaDOS claims to have learned of humanity from the remnants of Caroline, Deciding that Chell is not worth the trouble of killing, GLaDOS frees her from the facility.
+=== Cooperative campaign ===
+The cooperative story is chronologically set after the events of the single player campaign, but players are not required to play them in order. Player characters ATLAS and P-Body are bipedal robots constructed by GLaDOS. In the first four 'sets' of levels, the robots are sent on ventures into the depths of the Aperture facilities to recover and upload data disks. After completion of each mission, the robots self-destruct and are reassembled to complete the next.
+At first, GLaDOS is excited about her non-human test subjects, but later becomes dissatisfied because the two robots cannot truly die, and at one point also gets uncomfortable with their close partnership. At the end of the story, the robots gain entry to "the Vault", a storage facility of thousands of humans placed in stasis. GLaDOS thanks the robots for their acquisition of new test subjects, and promptly destroys the robots.
+==== "Peer Review" DLC campaign ====
+The robots are reactivated by GLaDOS one week after the original co-op campaign, during which GLaDOS has already wiped out all of the found test subjects after attempting to turn them into "killing machines". The robots are sent to find a saboteur that has taken control of a prototype central core and is causing problems in the facility. The saboteur is revealed to be a bird pecking at the console's keyboard, which sends GLaDOS into a panic when she recognizes it as the one who tried to eat her during her time as a potato battery. The robots manage to shoo away the bird, earning a rare compliment from GLaDOS before she notices eggs in its nest. Instead of having them smashed, GLaDOS has the eggs taken to her chamber so that she can raise the baby birds to be her killing machines.
+== Development ==
+After the success of ''Portal'', Valve decided to make ''Portal 2'' a standalone product, partly because of pressure from other developers within Valve who wanted to work on a ''Portal'' product. Work began almost immediately after the release of ''Portal''. Valve committed more resources to ''Portal 2''{{'}}s development than they had for the first game; The initial team of four was expanded as subgroups formed to devise game mechanics and to plot the story. Participants in internal review processes were inspired by what they saw to join the project. According to Erik Wolpaw, some ''Portal 2'' developers worked on the ''[[Left 4 Dead]]'' games to help them meet milestones, but returned to ''Portal 2'', "with extra people in tow." Kim Swift, ''Portal''{{'}}s designer, left Valve for [[Airtight Games]] halfway through ''Portal 2''{{'}}s development.
+Project manager Erik Johnson said Valve's goal for ''Portal 2'' was to find a way to "re-surprise" players, which he considered a "pretty terrifying" prospect. After ''Portal 2''{{'}}s release, [[Geoff Keighley]] wrote that according to Newell, "''Portal 2'' will probably be Valve's last game with an isolated single-player experience". Newell said that Valve is not "giving up on single-player", but intends to include more social features on top of the single player experience, akin to the cooperative mode in ''Portal 2''.
+=== Design ===
+Initially, Valve planned to exclude portals from ''Portal 2.'' For five months, they focused on a gameplay mechanic called "F-Stop"; Valve did not discuss the specifics of the idea, as they planned to potentially reuse it in the future. In 2020, developer LunchHouse Software revealed they were using Valve's F-Stop code in their upcoming game ''Exposure.'' The mechanic was based on an "Aperture Camera", with which users could take photos of objects, store the object in a camera, and then replace it while rotating or scaling it. Valve's F-Stop game was set in the 1980s, and would not have featured Chell or GLaDOS; instead, it followed a new test subject involved in a conflict within Aperture after Johnson, in an attempt to reach immortality, uploaded himself into an artificial intelligence and took control of a robot army. Though the [[playtester]]s liked F-Stop, they expressed disappointment at the omission of portals. Based on the playtesting feedback, Newell directed the team to reconsider direction around October 2008.
+[[File:Portal2-chamber-comparison.jpg|thumb|Several test chambers from ''Portal'' (top) reappear in ''Portal 2'' (bottom), decayed by the passage of time.|alt=Two images showing the same test chamber from the same vantage point, consisting of a red button, a weighted cube dispenser, an exit door, and a translucent observation window, in both Portal and Portal 2. The top picture shows these elements in pristine condition, while the second shows discoloration, deterioration, and overgrowth from plants.|left]]
+Valve did not aim to make ''Portal 2'' more difficult than ''Portal'', but instead to produce "a game where you think your way through particular parts of the level, and feel really smart when you solve it". To allow players to learn the game rules incrementally, Valve designed two basic types of test chamber: one, which Valve called "checklisting", provides a safe environment for the player to experiment with a new concept, while the other combines elements in new ways to force the player to [[Lateral thinking|think laterally]].
+Test chambers began as [[Axonometric projection|isometric]] drawings on [[whiteboard]]. The developers ran a [[Sanity testing|sanity check]] before crafting simple levels with the [[Valve Hammer Editor|Hammer Editor]], Valve's level construction tool. Iterative playtesting ensured the solutions were neither too obvious nor too difficult; playtesters sometimes discovered alternative solutions, which the team removed if they were considered too easy.
+Valve aimed to teach new players the portal mechanics while still entertaining experienced players.
+The middle section of the single-player campaign takes place in large spaces where few portals can be placed, forcing players to find creative ways to cross. When Wheatley controls the Aperture facility, the designers "had a blast" creating deranged chambers reflecting Wheatley's stupidity. As solving constant puzzles would tire players, the designers inserted occasional "experiences" to provide respite and advance the plot.
+[[File:Portal 2 paint.jpg|thumb|''Portal 2'' features gels that impart special properties to surfaces or objects they touch. Here, blue Repulsion Gel causes the painted [[Characters in the Portal series#Turrets|turrets]] to bounce off any surface.|alt=]]
+The Repulsion (jumping) and Propulsion (running) gels in ''Portal 2'' originated in ''[[Tag: The Power of Paint]]''. Valve hired the ''Tag'' creators to develop the idea further and later decided to include it in ''Portal 2''. As the third ''Tag'' gel, which allows the character to walk on any surface regardless of gravity, gave playtesters motion sickness, it was replaced by Conversion gel, which integrates with the portal mechanic. The gels give the player more control over the environment, which increased the challenge for the puzzle designers.
+=== Cooperative mode ===
+The cooperative mode originated from players' requests and from anecdotes of players working together on the same computer or console to solve the game's puzzles. Wolpaw likened this to players working together on the same computer to solve [[Graphic adventure game|point-and-click adventure games]]. The cooperative campaign was also inspired by Valve's ''[[Left 4 Dead]]'' cooperative games, in which players enjoyed discussing their personal experiences with the game when they had finished playing it.
+While the single player campaign in ''Portal 2'' is designed to avoid frustrating the player, the cooperative levels focus on coordination and communication, and Valve recognizes they are much more difficult than the single-player puzzles. Valve did not include timed puzzles in the single-player campaigns in ''Portal'' and ''Portal 2'', but found that their inclusion in the cooperative mode is effective and gives players a positive feeling after they successfully plan and execute difficult maneuvers.
+Each puzzle chamber in the cooperative mode requires actions from both players. As soon as a playtester discovered a way to complete a puzzle with one set of portals, the level was sent back to the designers for further work. With few exceptions, Valve designed the chambers so that both players would remain in sight of each other to promote communication and cooperation. Some of the puzzle chambers were designed asymmetrically; one player would manipulate portals and controls to allow the other player to cross the room, emphasizing that the two characters, while working together, are separate entities. The designers soon realized that the ability to tag surfaces with instructional icons for one's partner was a necessary element, since they found this to be more effective for cooperation than simple, verbal instructions.
+Valve considered a competitive mode. According to Wolpaw, the mode was similar to the video game ''[[Speedball (video game)|Speedball]]''; one team would try to transport a ball from one side of the playing field to the other using portals, while the other team would attempt to stop them with their own use of portals. Matches would commence with this objective in mind, but quickly descended into chaos. Valve realized that people enjoyed solving puzzles with portals more and therefore they focused on the cooperative mode.
+=== Writing ===
+[[File:Gdc 2012 wolpaw faliszek pinkerton cropped.jpg|300x300px|thumb|Writers [[Jay Pinkerton]] (left), [[Erik Wolpaw]], and [[Chet Faliszek]] at the 2012 [[Game Developers Conference]] receiving the "Best Narrative" award for ''Portal 2''|alt=|left]]
+Wolpaw and ex-''[[National Lampoon (magazine)|National Lampoon]]'' writer [[Jay Pinkerton]] wrote the single-player story, while ''[[Left 4 Dead]]'' writer Chet Faliszek wrote GLaDOS's lines for the cooperative campaign. The game has 13,000 lines of dialogue. The writers felt they needed to create a larger story for a stand-alone title, and wanted the game to "feel relatively intimate", and avoided adding too many new characters.
+The developers initially envisioned a prequel set in the 1950s, long before GLaDOS took over the Aperture Science facility, with events set in motion when Aperture CEO Cave Johnson is put into a computer, only to realize it was a mistake. Valve attributed this leak to an "overeager agent". Following negative playtester feedback about the omission of Chell and GLaDOS, ''Portal 2'' was re-conceived as a sequel. The team returned to the idea of exploring parts of the facility from Aperture's early days, and reincorporated Johnson through a series of recordings.
+The writers originally conceived several premature joke game endings if the player performed certain actions, but these required too much development effort for little payback and were scrapped. One of these joke endings was triggered by shooting a portal onto the moon's surface, after which the player's character would die from asphyxiation over a closing song, but the idea of creating a portal on the moon was incorporated into the game's final ending. In an early version of the script, Chell finds a lost "tribe" of turrets looking for their leader, a huge "Animal King" turret which can be seen in in-game videos of the retail product. As a reward, the Animal King would have married Chell to a turret, which would have followed Chell around the game without visible movement. The cooperative campaign was planned to feature a more detailed storyline, in which GLaDOS would send two robots to discover human artifacts, such as a comic based on a [[pastiche]] of ''[[Garfield]]''. The writers hoped to use this idea to make the robots human-like for testing purposes, but recognized that unlike the captive audience of the single-player campaign, the two players in cooperative mode may simply talk over the story, and thus the story was condensed into very basic elements.
+Wolpaw said that while many story elements of ''Portal'' are revisited in ''Portal 2'', he avoided some of the [[Internet meme|memes]]—such as the frequently repeated "[[the cake is a lie]]". He said, "if you thought you were sick of the memes, I was sick of it way ahead of you". Wolpaw "couldn't resist putting in just one" cake joke. ''Portal 2'' produced its own memes, including a space-obsessed personality core. Valve later created a Space Core modification for the game ''[[The Elder Scrolls V: Skyrim]]'' (see [[#Downloadable content|below]]), and the Space Core also appeared as a laser-based engraving on a panel manufactured by [[NASA]] for the [[International Space Station]].
+The writers saw Aperture Science itself as a character. It is depicted as a "living, breathing place", In the ''Lab Rat'' comic, the facility is described as a "beautiful and terrible" place, "a [[Metastasis|metastasized]] amalgam of add-ons, additions and appropriations. Building itself out of itself."
+Richard McCormick of ''[[PlayStation 3 Magazine]]'' identified several elements of ''Portal 2''{{'}}s story that reference the myth of [[Prometheus]]; McCormick wrote that GLaDOS is a personification of Prometheus, who grants knowledge to humanity—in the form of the portal gun—and is then punished by being bound to a rock, pecked at by birds, and is cast into the pits of [[Tartarus]]. McCormick also likens Wheatley to Prometheus' foolish brother [[Epimetheus (mythology)|Epimetheus]]. Within the game, a turret makes reference to the Prometheus myth, the word "Tartarus" is visible on the supporting columns in the depths of Aperture Science, and a portrait of Cave and Caroline also shows [[Aeschylus]], the presumed author of ''[[Prometheus Bound]]''. Journalists and players have also found connections between ''Portal 2'' and ''Half-Life 2''. As an [[Easter egg (media)|easter egg]], a hidden area in ''Portal 2'' contains the empty dry dock of Aperture Science's cargo ship, the ''Borealis'', which is found during ''[[Half-Life 2: Episode Two]]'' to have been stranded in the Arctic as a result of a teleportation experiment.
+=== Character design ===
+{{See also|Chell (Portal)#Development and design|l1=Development of Chell|GLaDOS#In Portal 2|l2=GLaDOS|Wheatley (Portal)#Concept and creation|l3=Wheatley
+|Cave Johnson (Portal)#Concept and creation|l4=Cave Johnson}}
+[[File:JK Simmons 2009.jpg|thumb|upright|alt=J. K.Simmons at the 2007 Toronto International Film Festival|[[J. K. Simmons]] voices Cave Johnson, the eccentric CEO of Aperture Science.]]
+Though ''Portal 2'' introduced some new characters, the writers wanted to maintain the one-on-one relationships between each character and the player-character. Valve artists experimented with Chell's attire, and considered changing her (ambiguous) nationality. They returned to the orange "dehumanizing" jumpsuit from ''Portal'' with the top tied around Chell's waist to enhance her freedom of movement and help her "stand out more as an individual". ''[[PSM3]]'' called the new look "controversially sexy". Chell continues her role as a silent observer, as the straight man in response to the insanity around her and refuses to give her antagonists any satisfaction.
+As part of her character arc, the plot moves GLaDOS from her anger with Chell for her actions in ''Portal'', which Wolpaw said "was going to get old pretty quick", to an internal struggle.
+The writers considered introducing about six personality cores stored in portable spheres, whose main function would be story advancement. and Quint from ''[[Jaws (film)|Jaws]]'', [[Karen Prell]], a veteran performer for [[the Muppets]], led the animation team for Wheatley and the other personality cores.
+Pictures of Cave Johnson, based on the face of lead animator Bill Fletcher, appear throughout ''Portal 2''. The two robotic characters provide some amusing death scenes in the cooperative mode, such as struggling while being crushed by a lowering ceiling. The artists thought the look of the robots would help tell the story, and the fact that they are holding hands emphasizes the cooperative mode.
+=== Voice cast ===
+[[File:StephenMerchantAltNov09.jpg|thumb|upright|[[Stephen Merchant]] voices Wheatley, a personality core.|alt=]]
+GLaDOS returns from ''Portal'' as a major character and the game's antagonist, and is voiced by [[Ellen McLain]]. The writers found that they needed another character to play off Johnson, but did not want to hire another voice actor. Having already recruited McLain to play GLaDOS, they asked her to provide the voice for Caroline, Cave Johnson's assistant. The writers wrote Wheatley's lines with Merchant in mind, citing his unique "vocal silhouette" and his ability to [[ad lib]] in a "frantic" manner. They had assumed that Merchant would be unavailable and contacted ''[[The IT Crowd]]''{{'}}s writer [[Graham Linehan]] to try to get [[Richard Ayoade]], but then discovered that Merchant was interested. Merchant spent around sixteen hours recording lines and was given freedom to improvise.
+[[J. K. Simmons]] voices [[Cave Johnson (Portal)|Cave Johnson]], Aperture Science's founder and CEO. Simmons's selection helped to solidify the character's development.
+In the cooperative campaign, a separate story involves two robotic characters and GLaDOS. The designers initially planned to use Chell and a new human character called "Mel". GLaDOS' dialogue would play off the humans' "image issues", and this aspect was retained after the designers switched to using robots. Valve initially considered having GLaDOS deliver separate lines to each player, but they found this to be a significant effort for minimal benefit. The writers also tried adding lines for GLaDOS that would encourage the players to compete against each other for rewards, such as meaningless points, but playtesters did not respond well.
+=== Music ===
+{{Main|Music of Portal 2}}
+''Portal 2'' contains both scored and [[procedural generation|procedurally generated]] music created by Valve's composer, Mike Morasky, and two songs; "Want You Gone" recorded by [[Jonathan Coulton]], used on the final credits of the single-player mode, and "[[Exile Vilify]]" by [[The National (band)|the National]], used in the background of one of the Rat Man's dens. The full soundtrack "Songs to Test By", containing most of the songs in the game, was released as three free downloads between May and September 2011,
+== Release ==
+=== Announcement ===
+In January 2008, Valve spokesman Doug Lombardi told [[Eurogamer]], "There'll be more Portal, for sure", and ''Portal'' designer Kim Swift confirmed that work on ''Portal 2'' would begin the following month. Swift said that a [[multiplayer]] mode in ''Portal'' was "technically possible", but that it was "less fun than you'd think."
+''Portal 2'' was officially announced on March 5, 2010, via ''[[Game Informer]]''. Events during the preceding week foreshadowed the announcement. On March 1, Valve released a patch for ''Portal'' that included a new achievement, "Transmission Received", requiring the player to manipulate in-game radios. This revealed new sound effects that became part of an [[alternate reality game]] (ARG). Some of the new effects were of [[Morse code]] strings that suggested GLaDOS was rebooting, while others could be decoded as [[Slow-scan television|SSTV]] images from grainy Aperture Science videos. The images included hints to a [[bulletin-board system|BBS]] phone number that, when accessed, provided a large number of [[ASCII]]-based images relating to ''Portal'' and segments of Aperture Science documents. Many of these ASCII pictures were later published in the ''Game Informer'' reveal of the title. Valve's Adam Foster came up with the idea for the ARG, tying it to the ''Game Informer'' reveal, and he provided his own home phone line to run the BBS software on, as Valve's offices at the time were too modern to support the protocol. Foster estimates the ARG cost less than $100 to run.
+[[File:Gdc2010 newell portal BSOD.jpg|left|thumb|[[Gabe Newell]] and the GLaDOS [[blue screen of death]] at the 2010 [[Game Developers Conference]]|alt=Gabe Newell stands at a podium in front of a large screen. The screen is blue, similar to the "blue screen of death" for Windows, but with different text, including the word "GLaDOS".]]
+A second ''Portal'' patch released on March 3 altered the game's ending sequence to show Chell being pulled back into the Aperture facility. Gaming journalists speculated that an announcement of ''Portal 2'' was imminent. On March 5, ''[[Game Informer]]'' announced ''Portal 2''{{'}}s official release on the cover of its April issue. During the following week, Gabe Newell's speech accepting the [[Game Pioneer Award|Pioneer Award]] at the [[Game Developers Conference]] 2010 ended with a fake [[blue screen of death]] appearing on a screen behind him with a message purported to be from GLaDOS which hinted of further ''Portal 2'' news at the upcoming [[Electronic Entertainment Expo 2010|E3 2010]]. Two weeks before the E3, game journalists received a cryptic e-mail, worded as a press release from Aperture Science, hinting that the presentation on ''Portal 2'' would be replaced with "a surprise" jointly hosted by Aperture Science and Valve. This prompted speculation that the surprise would be the announcement of ''[[Half-Life 2: Episode Three]]'', but Valve confirmed that it would be about ''Portal 2''. The surprise was the announcement of ''Portal 2'' on PlayStation 3.
+=== Marketing and release ===
+The March 2010 announcement said that ''Portal 2'' would be released in late 2010. In August 2010, Valve postponed the release to February 2011, with a Steam release date of February 9, to allow it to complete changes to the game's dialogue, to fill and connect about sixty test chambers, and to finish refinements to the gel gameplay mechanic. Wolpaw stated that this eight-week delay was used to expand the game's content before reaching an internal milestone called a "content lock", after which no further content could be added. The remaining development work involved debugging. Newell allowed the delay considering the added benefits of the new content, because he thought the company would not lose any commercial opportunities because of it. ''Portal 2'' was the first Valve product simultaneously released for Windows and Mac OS X computers through the [[Steam (service)|Steam]] platform. Retail copies for all platforms were distributed by [[Electronic Arts]].
+{{multiple image
+| align = right
+| image1 = Portal 2 ad on a King County Metro bus in Bellevue, WA.jpg
+| width1 = 120
+| alt1 = The back of a brown, single-decker bus in a city street, with the text "Portal 2" and a blue symbol of a man that seems to be vanishing through a doorway
+| caption1 =
+| image2 = Portal 2 (double-deck) bus ad.jpg
+| width2 = 135
+| alt2 = The back of a brown, double-decker bus in a city street, with the text "Portal 2" and a blue symbol of a man that seems to be vanishing through a doorway
+| caption2 =
+| footer = ''Portal 2'' advertisements on the back of buses in [[Bellevue, Washington]], and [[Leeds, West Yorkshire]]
+}}
+On April 1, 2011, Valve released another alternate reality game called the [[Potato Sack]]. Players tried to solve the multi-tiered puzzle, coordinating efforts through web sites and chat rooms. Some journalists believed the game denoted the release of ''Portal 2'' on April 15, 2011, instead of the target release date of April 19, 2011. On April 15, the players discovered "GLaDOS@Home", a [[distributed computing]] spoof that encouraged participants to play the games to unlock ''Portal 2'' early. Once the puzzles were solved, ''Portal 2'' was unlocked on April 18 at around 21:30 [[Pacific Standard Time|PST]], roughly ten hours before its planned release at 7:00 PST on the next day.
+Valve created a series of television commercials to promote ''Portal 2''. Valve had worked with advertising agencies in the past, but Lombardi found the advertisements created had shown little ingenuity. Valve's Doug Lombardi had been disappointed by "Copycat treatments. Cliché treatments. Treatments that reveal the agency wasn't listening in the initial meeting." Using viewer feedback, Valve tailored the ad content until they were satisfied with the results. The ads took eight weeks to complete. An earlier video released on February 14, 2011, promoted the cooperative aspect of ''Portal 2'' as a St. Valentine's gift and "lit up our preorders, our buzz, all the metrics that are used and collected by publishers and retailers". Lombardi said the videos "dwarfed the demos and interviews we did".
+=== Additional and downloadable content ===
+{{Anchor|Bonus and downloadable content}}
+''Portal 2'' includes bonus content, including four promotional videos, a ''Lab Rat'' comic, and an interactive trailer for the 2011 film ''[[Super 8 (2011 film)|Super 8]]'', constructed with the Source game engine. A feature called "Robot Enrichment" allows players to customize the cooperative campaign characters with new gestures and cosmetic items such as hats or flags. These can be earned in-game, traded with other players, or bought through [[microtransactions]] at the in-game store.
+Valve planned to produce [[downloadable content]] for ''Portal 2'', beginning with "Peer Review", released on October 4, 2011. The content, which is free regardless of platform, includes a new cooperative campaign which extends the game's story. A week from the end of the cooperative campaign, GLaDOS prepares Atlas and P-Body to deal with an intruder within Aperture Science—the bird that had previously abducted her as a potato. The content also adds a "challenge mode" similar to that in ''Portal''—players try to complete specific chambers with the shortest time or fewest portals used, both which are tracked on overall and friends leaderboards. The challenge modes are available for both single-player and cooperative modes.
+According to Faliszek, [[user-generated content]] for ''Portal 2'' would be available on all platforms, but because of software dependencies, the necessary [[Mod (video games)|modding]] tools would only be available for Windows. Valve released [[beta version]]s of the modding tools on May 10, 2011, and supported a competition held by the community mapping website "Thinking with Portals" in May 2011, providing prizes for the most-selected maps. The "Perpetual Testing Initiative", a free title update for the Windows and Mac versions, was released on May 8, 2012, and includes a new level editor and a means of obtaining and sharing user-created levels through the Steam Workshop. In November 2011, GTTV host Geoff Keighley said that Valve was developing a simplified level editing tool to allow novice editors to assemble test chambers without learning how to use the modified [[Valve Hammer Editor]], and an in-game system to distribute user-created levels via the Steam Workshop. Within a few days of release, the Perpetual Testing Initiative add-on had been used to create 35,000 maps, with 1.3 million downloads of these maps through Steam. Within a month, more than 150,000 user-created maps were available.
+{{As of|January 2013}}, Valve supports fan reuse of ''Portal 2'' content, offering selected assets and assistance. The Windows release of ''[[Bastion (video game)|Bastion]]'' includes a weapon inspired by ''Portal 2''{{'}}s Conversion Gel and turrets; its developer [[Supergiant Games]] received writing assistance from Erik Wolpaw and McLain voiced new lines for the turrets. An add-on scenario for [[Hidden Path Entertainment]]'s [[tower defense]] game ''[[Defense Grid: The Awakening]]'' incorporates GLaDOS as an antagonist using new dialogue from McLain and assets from ''Portal 2''. Wolpaw and McLain also helped to create additional lines for GLaDOS for a custom single-player map commissioned by Gary Hudston, which he used to propose marriage to his fiancée, Stephanie. For a patch for Bethesda's ''[[The Elder Scrolls V: Skyrim]]'' that incorporated support for [[Steam Workshop]] content, Valve developed a free add-on module that introduced the Space Core as a non-player character that follows the player around. Valve collaborated with [[Zen Studios]] to create a ''Portal 2''-themed pinball table, among other Valve-themed tables, for their games ''[[Pinball FX 2]]'' and ''[[Zen Pinball]]''. A ''Portal 2''-themed set is available for ''[[Lego Dimensions]]'' by Warner Bros. Entertainment and [[Traveller's Tales]]; the game features additional stories written by Traveller's Tales with Valve's blessing set after the events of Portal 2, with Ellen McLain, Stephen Merchant and J.K. Simmons reprising their respective voice roles, as well as a new GLaDOS credits song written by Jonathan Coulton and performed by McLain.
+The Xbox 360 version was added to the backwards compatibility feature for the [[Xbox One]] in June 2016. Alongside ''Portal'', ''Portal 2'' was released on the [[Nintendo Switch]] on June 28, 2022, as part of ''Portal: Companion Collection'', developed by Valve and Nvidia Lightspeed Studios.
+== Use in education ==
+=== Teach with Portals ===
+Valve announced "Teach with Portals" and "Steam for Schools" in June 2012, initiatives that offered ''Portal 2'' and ''Portal 2 Puzzle Maker'' for education. The educational version was free but only contained the single-player campaign and ''Puzzle Maker'', and was only available for "Steam for Schools" users.
+Several critics wrote that ''Portal 2'' excels in teaching the player to solve puzzles; in a review for the ''New York Times'', Seth Schiesel wrote, "Somewhere out there an innovative, dynamic high school physics teacher will use ''Portal 2'' as the linchpin of an entire series of lessons and will immediately become the most important science teacher those lucky students have ever had." ''Portal'' developers Joshua Weier and Yasser Malaika led a team within Valve to explore ways of using ''Portal 2'' for education. In November 2012, Valve estimated that over 2,500 educators were using the "Teach with Portals" software within their lesson plans.
+=== Research ===
+In 2016, a study demonstrated that the ''Portal 2 Puzzle Maker'' can be used as a measure of [[Fluid and crystallized intelligence|fluid intelligence]], similar to the {{interlanguage link|Bochumer Matrices Test|de|Bochumer_Matrizentest|vertical-align=sup}} (BOMAT). Referred to as the Portal 2 Test Battery, the participants of the study completed a series of test chambers that progressively became harder.
+Some studies have been conducted to determine if video games can have a significant impact on cognitive and non-cognitive skills. Through multiple pretests and post tests, a 2014 study has shown that ''Portal 2'' can improve problem solving skills, spatial skills, and persistence for a designated task. The participants of this study did not need to have previous gaming experience. Another study done in 2017 found that commercial video games, like ''Portal 2'', can also increase communication, adaptability and resourcefulness.
+== Hardware support ==
+=== Razer Hydra ===
+[[Sixense]] developed a version of ''Portal 2'' to support the [[Razer Hydra]] [[motion controller]] for PC that allows enhanced control of some game elements. Ten extra single-player levels are available as downloadable content for this version. Writer Chet Faliszek said Sixense developers spent nine months to a year in-house at Valve preparing the native version. A limited edition of the Razer Hydra comes [[Product bundling|bundled]] with a copy of ''Portal 2'' for PC.
+=== PlayStation 3 ===
+The announcement that ''Portal 2'' would be available on [[PlayStation 3]] came as a surprise to the industry because Gabe Newell had criticized that console in the past, citing difficulties in the port of ''The Orange Box''. The move toward the PlayStation 3 was a result of growing frustration with Microsoft's policies for Xbox 360 content, including the difficulty of releasing [[Patch (computing)|patches]] and new content. Newell saw Sony's publication model as more open, allowing [[Steam (service)|Steam]]-like features to be used on the console. The game supports cross-platform play between the PlayStation 3, Windows, and OS X versions.
+The Steam overlay shows the player's friends on both Steam and the [[PlayStation Network]], with [[Achievement (video gaming)|achievements]] rewarded for both Steam and [[PlayStation Network Trophies]]. Players can unlock the game on Steam for Windows and OS X for no additional charge. In June 2012, Valve announced that the PlayStation 3 version would be patched later that year to include support for the PlayStation Move motion controller, and to add the additional content that was previously provided with the Hydra, under the name ''Portal 2 In Motion''. The patch was released in early November 2012. A free co-op add-on for the ''Portal 2 In Motion'' content was added in June 2013. Valve said that despite additional support for PlayStation 3 over Xbox 360, the core game is the same on both platforms.
+=== SteamOS and Linux ===
+As of February 2014, [[SteamOS]], Valve's own Linux-based operating system, supports ''Portal 2'' and [[Portal (video game)|its predecessor]], as do most modern [[Debian family|Debian-based Linux distributions]] on its services via the [[Steam (service)|Steam]] client. Released as a Beta in early 2014 for Linux distributions, it holds all of the same traits as the other versions, retaining cross-platform play, split screen and fully native controller support.
+== Reception ==
+=== Critical response ===
+{{Video game reviews
+| GR = (PC) 95 (X360) 94.00% (PS3) 93.95%
+| MC = 95/100
+| 1UP = A+
+| Edge = 9/10
+| EuroG = 10/10
+| Fam = 37 (10, 9, 9, 9)/40
+| G4 = 5/5
+| GI = 9.5/10
+| GSpot = 9.0/10
+| IGN = 9.5/10
+| PCGUS = 94/100
+}}
+[[File:Portal 2 pax prime 2010.jpg|thumb|left|A crowd gathering for the ''Portal 2'' demo booth at the [[PAX Prime]] 2010|alt=A crowd of people waiting in line in front of a partitioned 20'x20' area within a larger reception hall. The outside of the partition is decorated with Portal 2 artwork.]]''Portal 2'' was a strong favorite of gaming journalists during closed-door previews at the E3 2010 convention. The [[Game Critics Awards]], selected by journalists and critics, awarded ''Portal 2'' the title of Best PC Game and Best Action/Adventure Game, and nominated the game for Best of Show and Best Console Game. ''[[IGN]]'' named ''Portal 2'' as its Best of E3 for PC, Xbox 360, and PlayStation 3 systems and Best Puzzle Game, and nominated it for Best Overall Game. ''[[GameSpy]]'' named ''Portal 2'' the Best Overall Game and Best Puzzle Game of E3. ''Portal 2'' won the 2010 [[Spike Video Game Awards|Spike Video Game Award]] for "Most Anticipated Game for 2011".
+''Portal 2'' received universal acclaim upon release. Several reviewers identified ''Portal 2'' as an early contender for "Game of the Year", while others called it one of the best games of all time. Upon release, the game was widely considered to be as good as or better than the original. ''[[Eurogamer]]''{{'}}s Oli Welsh said that the game avoids the normal pitfalls that developers introduce in sequels, stating that "''Portal'' is perfect. ''Portal 2'' is not. It's something better than that." ''[[IGN]]''{{'}}s Charles Onyett wrote that the sequel "makes the original look like the prototype it was" by expanding the game in gameplay and story.
+Most reviewers praised the writing and voice acting in the game. Dan Stapleton of ''[[PC Gamer]]'' was able to predict many of the plot twists within ''Portal 2''{{'s}} story but "still looked forward to witnessing exactly how the characters would react"; he praised the development of the characters, as "their charm makes what would otherwise be an empty and lifeless world feel boisterous and alive". The characters were well received. Onyett wrote that Merchant's "obvious enthusiasm for the role benefits the game" and that the "consistently clever writing perfectly complements the onscreen action". In contrast, Peter Bright of ''[[Ars Technica]]'' wrote that compared to the loneliness and despair he felt while playing the first game, the characters, Wheatley and GLaDOS, lost some of this feeling and "the inane babble served only to disrupt the mood".
+''Portal 2''{{'}}s additional gameplay elements, like light bridges, lasers, and the gels, were praised as appropriate additions to the game. Reviewers were pleased with the difficulty of the puzzles throughout the game, which appeared visually complicated at first but had uncomplicated solutions. ''Time''{{'}}s Evan Narcisse said that he feared the addition of new gameplay elements would "dilute the purity of the experience, but everything's still executed with Valve's high level of charm and panache." Stapleton was not as pleased with the gel additions as with the other new mechanics, calling it "difficult to control". He felt that they have "only a couple of uses at most". Bright felt that ''Portal 2'' was easier than its predecessor, in part that he felt much of the game was effectively tutorials for the new gameplay additions, requiring "careful use of the tools provided", leaving him with the impression that "the game was on rails".
+The cooperative puzzle solving aspect was highlighted as a valuable addition to the game. Welsh called the cooperative mode "one of the most satisfying and genuinely collaborative gaming experiences you can have with a friend". Onyett wrote, "Valve knows how a good co-operative mode requires a game design that doesn't simply encourage but requires you to work together. In ''Portal 2'', communication is vital to success". Several reviewers praised the non-verbal cues that players could initiate to work with their partners. ''Portal 2'' was praised for the amount of detail in its design, sound, and music. Nelson credited the "sheer amount of detail" put into the game's world, and wrote, "it all feels very real and natural with brief moments where you're simply sucked into this world". Onyett was impressed with the amount of visual details and capabilities Valve achieved from their [[Source (game engine)|Source game engine]] and that the added details and animations of the levels "consistently serv[ed] not only to entertain the eye but to expand our understanding of the game's characters". Hoggins wrote that the game's world reacted to the player-character Chell's presence "in a startlingly organic way", and praised Valve's design as "an achievement of world-building that compares favourably with ''BioShock''{{'s}} underwater city of Rapture".
+Some reviewers said that the second act of the game, taking place in the less-structured portion of the old Aperture facilities, may be confusing to some players. Young wrote that in the second act, the game "cranks up the difficulty level at a speed that may dishearten casual gamers", and said that particularly when traveling between chambers, he had "absolutely no idea where I was supposed to head next".
+On April 20, 2011, it was reported that customers had launched a protest against perceived shortcomings of ''Portal 2''. Users complained that the game was too short{{mdash}}some saying that it is only four hours long, about the existence of paid, downloadable content for some versions at launch, and that the Windows and OS X versions were ports of the console version. Other journalists countered that the quality of the graphics on the Windows and Mac versions did not suggest a simple console port. Stephen Totilo of ''Kotaku'' wrote that the game lasted nine hours and that the downloadable content consisted purely of cosmetic add-ons. Some journalists said that the minimal impact of ''The Potato Sack'' alternative reality game on the early release of ''Portal 2'' may be influencing the user scores.
+=== Awards ===
+''Portal 2'' won the title of "Ultimate Game of the Year" at the 2011 [[Golden Joystick Awards]], and ranked second place on ''[[Time (magazine)|Time's]]'' "Top 10 Video Games of 2011". ''[[Gamasutra]]'', ''[[IGN]]'', ''[[Eurogamer]]'', ''[[Kotaku]]'', the [[Associated Press]], and ''[[Daily Mirror|The Mirror]]'' listed ''Portal 2'' as their top video game of 2011. The game received twelve nominations including "Game of the Year" for the 2011 [[Spike Video Game Awards]], where it was the most-nominated title, and won for "Best PC Game", "Best Male Performance" for Stephen Merchant, "Best Female Performance" for Ellen McLain, "Best Downloadable Content", and "Best Multiplayer Game". The title was nominated for five [[Game Developers Choice Awards]] for 2012, including "Game of the Year", and won in the "Best Narrative", "Best Audio" and "Best Game Design" categories. It was nominated for ten [[15th Annual Interactive Achievement Awards|Interactive Achievement Awards]] from the [[Academy of Interactive Arts & Sciences]], including "[[D.I.C.E. Award for Game of the Year|Game of the Year]]"; it was ultimately awarded with outstanding achievements in "[[D.I.C.E. Award for Online Game of the Year|Connectivity]]", "[[D.I.C.E. Award for Outstanding Achievement in Original Music Composition|Original Music Composition]]", and "[[D.I.C.E. Award for Outstanding Achievement in Character|Character Performance]]" for Wheatley. ''Portal 2'' was nominated for six [[British Academy Video Games Awards|BAFTA Video Games Award]] categories, and won for "[[British Academy Games Award for Best Game|Best Game]]", "Best Story" and "Best Design". The Game Audio Network Guild awarded the game for "Best Dialog", "Best Interactive Score", and "Best Original Vocal – Pop" (for "Want You Gone"). In the inaugural New York Videogame Critics Circle Awards, ''Portal 2'' was given the top honors for best writing and best acting. The Perpetual Testing Initiative add-on was awarded the 2012 [[Golden Joystick]] for "Best Use of DLC". ''Portal 2'' was nominated for the 2016 [[Steam Awards]] by the Steam community and won the award for “Villain Most In Need Of A Hug”.
+{| class="wikitable sortable"
+|+Awards and nominations for ''Portal 2''
+|-
+! Year !! Award !! Category !! Result !! {{Refh}}
+|-
+| style="text-align:center;" rowspan="2" | 2010
+| rowspan="2" | [[Game Critics Awards]]
+|Best PC Game
+|{{Won}}
+|style="text-align:center;" rowspan="2" |
+|-
+|Best Action/Adventure Game
+|{{Won}}
+|-
+| style="text-align:center;" rowspan="13" | 2011
+| [[Golden Joystick Awards]]
+|Ultimate Game of the Year
+|{{Won}}
+| align="center"|
+|-
+| rowspan="11" | [[Spike Video Game Awards]]
+|Game of the Year
+|{{Nom}}
+| rowspan="11" style="text-align:center;" |
+|-
+|Best Xbox 360 Game
+|{{Nom}}
+|-
+|Best PC Game
+|{{Won}}
+|-
+|Best Multiplayer
+|{{Won}}
+|-
+|Best Song in a Game ("Exile Vilify")
+|{{Nom}}
+|-
+|Best Song in a Game ("Want You Gone")
+|{{Nom}}
+|-
+|Best Original Score
+|{{Nom}}
+|-
+|Best Performance by a Human Male (Stephen Merchant)
+|{{Won}}
+|-
+|Best Performance by a Human Female (Ellen McLain)
+|{{Won}}
+|-
+|Character of the Year (Wheatley)
+|{{Nom}}
+|-
+|Best DLC (Peer Review)
+|{{Won}}
+|-
+|[[16th Satellite Awards]]
+|Outstanding Action/Adventure Game
+|{{Nom}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;" rowspan="25" | 2012
+| rowspan="5" | [[Game Developers Choice Awards]]
+|Game of the Year
+|{{Nom}}
+| style="text-align:center;" rowspan=5" |
+|-
+|Best Narrative
+|{{Won}}
+|-
+|Best Audio
+|{{Won}}
+|-
+|Best Game Design
+|{{Won}}
+|-
+|Innovation
+|{{Nom}}
+|-
+| rowspan="10" | [[15th Annual Interactive Achievement Awards]]
+|[[D.I.C.E. Award for Game of the Year|Game of the Year]]
+|{{Nom}}
+| style="text-align:center;" rowspan=10" |
+|-
+|[[D.I.C.E. Award for Outstanding Achievement in Game Direction|Outstanding Achievement in Game Direction]]
+|{{Nom}}
+|-
+|[[D.I.C.E. Award for Outstanding Technical Achievement|Outstanding Achievement in Gameplay Engineering]]
+|{{Nom}}
+|-
+|[[D.I.C.E. Award for Outstanding Achievement in Art Direction|Outstanding Achievement in Art Direction]]
+|{{Nom}}
+|-
+|[[D.I.C.E. Award for Online Game of the Year|Outstanding Achievement in Connectivity]]
+|{{Won}}
+|-
+|[[D.I.C.E. Award for Adventure Game of the Year|Adventure Game of the Year]]
+|{{Nom}}
+|-
+|Outstanding Innovation in Gaming
+|{{Nom}}
+|-
+|[[D.I.C.E. Award for Outstanding Achievement in Original Music Composition|Outstanding Achievement in Original Music Composition]]
+|{{Won}}
+|-
+|[[D.I.C.E. Award for Outstanding Achievement in Character|Outstanding Achievement in Character Performance]] (Wheatley)
+|{{Won}}
+|-
+|[[D.I.C.E. Award for Outstanding Achievement in Story|Outstanding Achievement in Story]]
+|{{Nom}}
+|-
+| rowspan="3" | [[Game Audio Network Guild Awards]]
+|Best Interactive Score
+|{{Sho|Tie}}
+| style="text-align:center;" rowspan=3" |
+|-
+|Best Original Vocal Song – Pop ("Want You Gone")
+|{{Won}}
+|-
+|Best Dialog
+|{{Won}}
+|-
+| rowspan="6" | [[8th British Academy Games Awards]]
+|[[British Academy Games Award for Best Game|Best Game]]
+|{{Won}}
+| style="text-align:center;" rowspan=6" |
+|-
+|Design
+|{{Won}}
+|-
+|Action
+|{{Nom}}
+|-
+|Performer (Stephen Merchant)
+|{{Nom}}
+|-
+|Story
+|{{Won}}
+|-
+|GAME Award of 2011
+|{{Nom}}
+|-
+|[[Golden Joystick Awards]]
+|DLC of the Year (Perpetual Testing Initiative)
+|{{Won}}
+| style="text-align:center;" rowspan=6" |
+|}
+=== Sales ===
+Based on sales data from [[Amazon.com]], ''Portal 2'' was the best-selling game in the United States in the first week of its release, but was overtaken by ''[[Mortal Kombat (2011 video game)|Mortal Kombat]]'' in its second week. According to [[NPD Group]], ''Portal 2'' was the second-best selling game in the U.S. in April 2011, at 637,000 copies, However, [[NPD Group|NPD]] does not include sales on Valve's Steam platform. ''Portal 2'' was the best selling game in the U.K. in the first week of its release, the first number-one for a Valve game. It retained the top spot during its second week.
+''Portal 2'' was released a few days before the [[PlayStation Network outage]]. ''[[Gamasutra]]'' analyst Matt Matthews said that, based on NPD Group data, the outage "did not seriously affect retail sales of software", but some developers did report drops in sales. ShopToNews analyst Joe Anderson expected that the effect of the outage on UK sales of ''Portal 2'' would be mild. On June 22, Newell announced that ''Portal 2'' had sold 3 million copies. {{As of|July 2011}}, Electronic Arts stated that more than 2 million copies of ''Portal 2'' have been sold by retailers worldwide. In an August 2011 interview, Newell stated that "''Portal 2'' did better on the PC than it did on the consoles". Upon release of the [[Perpetual Testing Initiative]] in May 2012, Newell stated that ''Portal 2'' had shipped more than 4 million units, with the personal computer versions outselling the console versions. Overall, ''Portal'' and ''Portal 2'' had together shipped more than 8 million units.
+== Mods ==
+{{see also|List of Source mods}}
+In addition to player-created levels, there have been complete [[mod (video gaming)|mods]] of ''Portal 2'' created by users. Several notable mods are self-contained playable campaigns in their own right, and have earned critical praise.
+=== ''Portal Stories: Mel'' ===
+{{Main|Portal Stories: Mel}}
+''Portal Stories: Mel'' is a single-player [[mod (video gaming)|mod]] of ''Portal 2'' developed by Prism Studios, a group made up of eight fans of the ''Portal'' series. The mod was released on June 25, 2015, for Windows, OS X and Linux systems, available freely to people that own ''Portal 2'' on Steam.
+=== ''Aperture Tag: The Paint Gun Testing Initiative'' ===
+{{Main|Aperture Tag: The Paint Gun Testing Initiative}}
+''Aperture Tag: The Paint Gun Testing Initiative'' is a single-player modification of ''Portal 2'' developed by "The Aperture Tag Team" released in 2014. The mod replaces the portal gun with a gun that can shoot the various gels (mimicking how ''Tag: the Power of Paint'' worked) to otherwise various portal-based puzzles.
+=== ''Thinking with Time Machine'' ===
+{{Main|Thinking with Time Machine}}
+''Thinking with Time Machine'' is a single player mod for ''Portal 2'' created by Ruslan Rybka and released in 2014, which gives the player the ability to record actions that can be played back by a duplicate of the player-character, including the use of a second set of portals.
+=== ''Portal Reloaded'' ===
+{{main|Portal Reloaded}}
+''Portal Reloaded'' is a single-player mod for ''Portal 2'' created by Jannis Brinkmann and was released on April 19, 2021, exactly 10 years after the release of ''Portal 2''. The mod gives players the ability to fire a third portal, the "time portal", to travel between the present and future versions of each test chamber.
+=== ''Portal Revolution'' ===
+{{main|Portal Revolution}}
+''Portal Revolution'' is a single-player mod for ''Portal 2'' developed by Second Face Software, released on January 6, 2024.
+== Notes ==
+{{Notelist}}
+== References ==
+{{Reflist|colwidth=30em}}
+== External links ==
+* {{Official website|http://www.thinkwithportals.com|name="Think With Portals" – official website}}
+* [http://teachwithportals.com/ "Teach with Portals"]
+* {{IMDb title|1648163}}
+* [http://www.gdcvault.com/play/1015821/Creating-a-Sequel-to-a "Portal 2: Creating a Sequel to a Game that Doesn't Need One" presentation] at the 2012 Game Developers Conference, March 7, 2012
+* [https://web.archive.org/web/20171018090414/https://vimeo.com/23534126 ''Portal 2'' presentation by Erik Wolpaw], as part of the [[New York University]] Game Design Series, May 6, 2011
+* [https://web.archive.org/web/20110423013529/http://www.thefinalhoursofportal2.com/ ''The Final Hours of Portal 2''], a digital book by Geoff Keighley
+* [http://pixelsmithstudios.com/honorable-mention/keith-lango-interview-20-year-cg-animator/ Interview with ''Portal 2'' animator Keith Lango]
+{{Portal series}}
+{{Half-Life series}}
+{{Valve}}
+{{BAFTA Games BG}}
+{{Golden Joystick GOTY}}
+{{Portal bar|Science fiction|Video games}}
+{{Sister bar|d=yes|auto=yes}}
+{{Authority control}}
+[[Category:2011 video games]]
+[[Category:3D platformers]]
+[[Category:British Academy Games Award for Best Game winners]]
+[[Category:British Academy Games Award for Game Design winners]]
+[[Category:Cooperative video games]]
+[[Category:Fiction set in the 1980s]]
+[[Category:First-person adventure games]]
+[[Category:First-person shooters]]
+[[Category:Golden Joystick Award for Game of the Year winners]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Switch games]]
+[[Category:Fiction about physics]]
+[[Category:Platformers]]
+[[Category:PlayStation 3 games]]
+[[Category:Portal (series)]]
+[[Category:Puzzle video games]]
+[[Category:Puzzle-platformers]]
+[[Category:Science fiction video games]]
+[[Category:Source (game engine) games]]
+[[Category:Split-screen multiplayer games]]
+[[Category:Fiction about teleportation]]
+[[Category:Valve Corporation games]]
+[[Category:Video game sequels]]
+[[Category:Video games about artificial intelligence]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games featuring female protagonists]]
+[[Category:Video games scored by Mike Morasky]]
+[[Category:Video games set in abandoned buildings and structures]]
+[[Category:Video games set in laboratories]]
+[[Category:Video games set in Michigan]]
+[[Category:Video games set in the 1950s]]
+[[Category:Video games set in the 1960s]]
+[[Category:Video games set in the 1970s]]
+[[Category:Video games set in the future]]
+[[Category:Video games using Havok]]
+[[Category:Video games with commentaries]]
+[[Category:Video games with cross-platform play]]
+[[Category:Video games with expansion packs]]
+[[Category:Video games with Steam Workshop support]]
+[[Category:Windows games]]
+[[Category:Xbox 360 games]]

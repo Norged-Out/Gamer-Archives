@@ -1,0 +1,815 @@
+Final Fantasy VII Remake - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a7805db1-baa7-4cd9-bce4-64c018f582ef","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Final_Fantasy_VII_Remake","wgTitle":"Final Fantasy VII Remake","wgCurRevisionId":1221015400,"wgRevisionId":1221015400,"wgArticleId":46994455,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Japanese-language text","CS1 uses Japanese-language script (ja)","CS1 Japanese-language sources (ja)","Webarchive template wayback links","CS1 French-language sources (fr)","CS1 German-language sources (de)","Articles with short description","Short description is different from Wikidata","Use American English from July 2020","All Wikipedia articles written in American English",
+"Use mdy dates from May 2021","Articles using Infobox video game using locally defined parameters","Articles using Wikidata infoboxes with locally defined images","Pages using multiple image with auto scaled images","Articles using Video game reviews template in single platform mode","Official website different in Wikidata and Wikipedia","Commons category link from Wikidata","2020 video games","Action role-playing video games","Biopunk","Climate change video games","Cyberpunk video games","Dystopian video games","Eco-terrorism in fiction","Environmental mass media","Final Fantasy video games","Final Fantasy VII","The Game Awards winners","Japan Game Award winners","Japanese role-playing video games","Neo-noir video games","New York Game Award winners","PlayStation 4 games","PlayStation 4 Pro enhanced games","PlayStation 5 games","Role-playing video games","Science fiction video games","Single-player video games","Video games about terrorism","Unreal Engine games","Video game remakes",
+"Video games developed in Japan","Video games directed by Tetsuya Nomura","Video games scored by Masashi Hamauzu","Video games scored by Nobuo Uematsu","Video games scored by Yasunori Nishiki","Video games set on fictional planets"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Final_Fantasy_VII_Remake","wgRelevantArticleId":46994455,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"wgULSCurrentAutonym":"English",
+"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q20155152","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+Jump to content
+Main menu
+<div
+class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+data-feature-name="main-menu-pinned"
+data-pinnable-element-id="vector-main-menu"
+data-pinned-container-id="vector-main-menu-pinned-container"
+data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+Main menu
+move to sidebar
+hide
+Navigation
+Main page Contents Current events Random article About Wikipedia Contact us Donate
+Contribute
+Help Learn to edit Community portal Recent changes Upload file
+Search
+<input
+class="cdx-text-input__input"
+type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+>
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+Contributions Talk
+<div
+class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+data-feature-name="toc-pinned"
+data-pinnable-element-id="vector-toc"
+>
+Contents
+move to sidebar
+hide
+<li id="toc-mw-content-text"
+class="vector-toc-list-item vector-toc-level-1">
+(Top)
+<li id="toc-Gameplay"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+1 Gameplay
+<li id="toc-Plot"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+2 Plot
+Toggle Plot subsection
+<li id="toc-Intermission"
+class="vector-toc-list-item vector-toc-level-2">
+2.1 Intermission
+<li id="toc-Development"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+3 Development
+Toggle Development subsection
+<li id="toc-Background"
+class="vector-toc-list-item vector-toc-level-2">
+3.1 Background
+<li id="toc-Design"
+class="vector-toc-list-item vector-toc-level-2">
+3.2 Design
+<li id="toc-Scenario"
+class="vector-toc-list-item vector-toc-level-2">
+3.3 Scenario
+<li id="toc-Music"
+class="vector-toc-list-item vector-toc-level-2">
+3.4 Music
+<li id="toc-Release"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+4 Release
+<li id="toc-Reception"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+5 Reception
+Toggle Reception subsection
+<li id="toc-Critical_response"
+class="vector-toc-list-item vector-toc-level-2">
+5.1 Critical response
+<li id="toc-Sales"
+class="vector-toc-list-item vector-toc-level-2">
+5.2 Sales
+<li id="toc-Accolades"
+class="vector-toc-list-item vector-toc-level-2">
+5.3 Accolades
+<li id="toc-Notes"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+6 Notes
+<li id="toc-References"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+7 References
+<li id="toc-Further_reading"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+8 Further reading
+<li id="toc-External_links"
+class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+9 External links
+Toggle the table of contents
+Final Fantasy VII Remake
+20 languages
+العربية Deutsch Ελληνικά Español فارسی Français 한국어 Bahasa Indonesia Italiano مصرى 日本語 Polski Português Русский Suomi ไทย Türkçe Українська Tiếng Việt 中文
+Edit links
+Article Talk
+English
+Read Edit View history
+Tools
+<div
+class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+data-feature-name="page-tools-pinned"
+data-pinnable-element-id="vector-page-tools"
+data-pinned-container-id="vector-page-tools-pinned-container"
+data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+Tools
+move to sidebar
+hide
+Actions
+Read Edit View history
+General
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code Wikidata item
+Print/export
+Download as PDF Printable version
+In other projects
+Wikimedia Commons Wikiquote
+From Wikipedia, the free encyclopedia
+2020 video game
+2020 video game .mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}} .mw-parser-output .ib-video-game .infobox-label{white-space:nowrap;padding-right:0.65em}.mw-parser-output .ib-video-game .infobox-above{font-style:italic} Final Fantasy VII Remake Cover art, featuring the game's protagonist Cloud Strife Developer(s) Square Enix Business Division 1 Publisher(s) Square Enix Director(s) .mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Tetsuya Nomura Naoki Hamaguchi Motomu Toriyama Producer(s) Yoshinori Kitase Designer(s) Naoki Hamaguchi Teruki Endo Programmer(s) Naoki Hamaguchi Daiki Hoshina Satoru Koyama Artist(s) Shintaro Takai Roberto Ferrari Writer(s) Kazushige Nojima Motomu Toriyama Composer(s) Masashi Hamauzu Mitsuto Suzuki &#91;a&#93; Series Final Fantasy Engine Unreal Engine 4 Platform(s) PlayStation 4 Intergrade PlayStation 5 Windows Release PlayStation 4 April 10, 2020 Intergrade PlayStation 5 June 10, 2021 Windows December 16, 2021 Genre(s) Action role-playing Mode(s) Single-player
+Final Fantasy VII Remake &#91;b&#93; is an action role-playing game by Square Enix , released for PlayStation 4 in April 2020. It is the first in a planned trilogy of games remaking the 1997 PlayStation game Final Fantasy VII . An enhanced version, Final Fantasy VII Remake Intergrade , &#91;c&#93; was released for PlayStation 5 and Windows in 2021.
+Set in the dystopian cyberpunk metropolis of Midgar , players control the mercenary Cloud Strife . He joins AVALANCHE , an eco-terrorist group trying to stop the powerful megacorporation Shinra from using the planet's life essence as an energy source. The gameplay combines real-time action with role-playing elements.
+Final Fantasy VII Remake was announced in 2015 following years of speculation. Several key staff members from the original game returned, including Tetsuya Nomura as the director, Yoshinori Kitase as the producer, Kazushige Nojima as the writer, Motomu Toriyama as a co-director, and the composer Nobuo Uematsu . The staff redesigned the characters to balance realism and stylization.
+Final Fantasy VII Remake received positive reviews, with praise for its graphics, gameplay, narrative, and music. Critics praised the expanded story and the updated battle system for its strategic elements and visual flourishes, but the linearity and repetitive side-quests received criticism. The game was one of the fastest-selling PlayStation 4 games, selling more than 3.5 million copies in three days and more than 7 million by September 2023. The second game in the remake trilogy, Final Fantasy VII Rebirth , was released in 2024.
+Gameplay [ edit ]
+While role-playing elements are still present in the gameplay similar to the original game, Remake uses a fast-paced real-time combat, as seen in this fight against two soldiers.
+Final Fantasy VII Remake is the first in a planned series of games remaking the 1997 PlayStation game Final Fantasy VII . It covers the first section of the original game, set in the metropolis Midgar. &#91;1&#93;
+Players control Cloud Strife , a former Shinra soldier turned mercenary who joins the eco-terrorist group AVALANCHE to fight the Shinra Corporation, who have been draining the planet's life energy. &#91;2&#93; &#91;3&#93; Every element has been remade, using real-time polygonal graphics as opposed to the pre-rendered environments of the original. &#91;4&#93; &#91;5&#93; The story includes major expansions to character development and some notable plot additions. &#91;6&#93;
+Exploration and battle mechanics both take place in real-time, like Final Fantasy XV . The game features an altered Active Time Battle (ATB) system from the original, which gradually fills up slowly, or can fill faster with attacks. Once it is filled, the player can halt the action and use special abilities such as magic, items, and special moves. The player can assign these special abilities to shortcut buttons, allowing them to play in real-time without pausing. Each special ability uses up a segment of the ATB bar. &#91;7&#93; The player can switch between party members at any time during battle. Each party member has their own individual skills, such as Cloud's close-quarters melee attacks and Barret's long-range distance attacks. &#91;8&#93; &#91;9&#93; Players are able to use magic and summons of large creatures, and a Limit Break gauge allows characters to perform more powerful attacks once charged. While the game has more real-time elements, strategic elements still remain, such as selecting weapons and magic for each character to wield. &#91;4&#93; &#91;5&#93; &#91;10&#93;
+Plot [ edit ]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em} See also: Characters of the Final Fantasy VII series
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "} .mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}} Final Fantasy VII chronology
+The First Soldier
+Before Crisis
+Crisis Core ( Last Order , Reunion )
+Final Fantasy VII ( Remake , Rebirth )
+Advent Children
+Dirge of Cerberus
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em} v t e
+Cloud Strife ( Cody Christian / Takahiro Sakurai ) &#91;d&#93; is a former member of SOLDIER, the elite warriors of the Shinra Electric Power Company. &#91;11&#93; Shinra uses Mako, a refined form of the Planet's spiritual energy harvested by massive reactors, to power the metropolis of Midgar and develop cutting-edge technology. &#91;12&#93; Disillusioned with Shinra, and at the request of his childhood friend Tifa Lockhart ( Britt Baron / Ayumi Ito ) &#91;e&#93; , Cloud takes a mercenary job for Avalanche, an eco-terrorist organization, led by Barret Wallace (John Eric Bentley/ Masahiro Kobayashi ). Barret believes excessive Mako harvesting harms the planet and leads a bombing attack on a Mako reactor. In the aftermath, Cloud is haunted by memories of Sephiroth ( Tyler Hoechlin / Toshiyuki Morikawa ), an enigmatic former SOLDIER member, and meets the florist Aerith Gainsborough ( Briana White / Maaya Sakamoto ) &#91;f&#93; . Strange ghost-like entities, who alternately help and hinder Cloud throughout the game, cause him to be recruited for another attack, in which he goes missing in action. Cloud meets Aerith again and protects her from Shinra forces. After they reunite with Tifa, the trio learns that Shinra plans to collapse a piece of the "plate" onto the Sector 7 slums. Avalanche fails to stop Shinra's plan, and the plate falls. Aerith helps most of the population, and Barret's daughter Marlene evacuate in time but is captured by Shinra.
+Cloud, Tifa, and Barret infiltrate Shinra headquarters and rescue Aerith from being used as an experiment by Shinra scientist Hojo ( James Sie / Shigeru Chiba ). She reveals that she is the last descendant of the Cetra, a near-extinct precursor race who resided in a "Promised Land," which Shinra covets for its boundless Mako reserves. The group meets a talking feline-like creature called Red XIII ( Max Mittelman / Kappei Yamaguchi ), who explains that the ghostly entities are called Whispers. They exist to ensure that the course of destiny is not altered by correcting any deviations from this course. Meanwhile, Sephiroth infiltrates Shinra and steals a mysterious entity known as " Jenova ," connected to the extinction of the Cetra.
+In a confrontation at the top of Shinra headquarters, Sephiroth murders the president of Shinra. Shinra's son Rufus ( Josh Bowman / Tōru Ōkawa ) assumes control of the company and fights Cloud, but is defeated. Cloud and his allies flee the scene via the Midgar Expressway but find Sephiroth waiting for them at the end. After defeating Whisper Harbinger, an entity formed by an amalgam of Whispers, Cloud's group battles Sephiroth. Sephiroth separates Cloud from the group, asking him to join him and defy fate. Cloud refuses and fights Sephiroth, but is defeated, although Sephiroth spares him and departs. Meanwhile, as Cloud's group leaves Midgar to stop Sephiroth, &#91;13&#93; SOLDIER Zack Fair (Caleb Pierce/ Kenichi Suzumura ) ends up alive and defeats an army of Shinra forces, and departs with Cloud to Midgar. &#91;14&#93;
+Intergrade adds additional ending scenes showing Cloud and his group arriving at the village of Kalm after hitching a ride with Chocobo Bill, and Zack entering the Sector 5 church searching for Aerith.
+Intermission [ edit ]
+Shortly after the bombing of Mako Reactor 5, Yuffie Kisaragi (Suzie Yeung &#91;15&#93; / Yumi Kakazu ), a ninja working for Wutai, arrives at Midgar and meets up with her partner Sonon Kusakabe (Aleks Le/ Yoshimasa Hosoya ) in order to steal Shinra's "Ultimate Materia." With the help of a local Avalanche cell, Yuffie and Sonon infiltrate the lab under Shinra headquarters and fight through Shinra's forces before discovering that the Ultimate Materia is not yet complete. As they try to escape, they are confronted by a Shinra supersoldier named Nero ( Sean Chiplock / Ryōtarō Okiayu ). Outmatched, Sonon sacrifices himself to ensure Yuffie can escape. She leaves Shinra headquarters just in time to see the Sector 7 plate fall. Sometime later, Yuffie has left Midgar and muses that to achieve her desire to see Shinra's downfall, she will need a team to help her.
+Development [ edit ]
+Background [ edit ]
+.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}} Yoshinori Kitase , director of the original game, returned as lead producer for Remake , while Motomu Toriyama directed alongside Tetsuya Nomura.
+Final Fantasy VII was developed by Square for the PlayStation console and released in 1997. &#91;16&#93; Its staff included producer, co-writer and series creator Hironobu Sakaguchi , director and co-writer Yoshinori Kitase, artist Yusuke Naora , character designer and co-writer Tetsuya Nomura , and writer Kazushige Nojima . &#91;17&#93; The game was a critical and commercial success, and established the Final Fantasy series as a major franchise. &#91;16&#93; It was expanded through the multimedia project Compilation of Final Fantasy VII , comprising additional games, films, and other media. &#91;18&#93;
+In the early 2000s, Square announced a remake for PlayStation 2 alongside Final Fantasy VIII and IX , but nothing further was heard of the project. &#91;19&#93; &#91;20&#93; It was abandoned because of the increased challenge of developing on new hardware and would have necessitated cutting content. &#91;21&#93; The staff were preoccupied with developing Final Fantasy XIII and its sequels, and Remake would have been an equally large or larger project hard to undertake at the same time. Once the XIII series ended, the team was free to pursue other projects. &#91;22&#93; Kitase claims that since XIII , he had been asked multiple times about developing this game. Co-director Naoki Hamaguchi was originally just a fan of the game so he was glad about his inclusion into the core development team. &#91;23&#93;
+Demand for a remake grew following a PlayStation 3 tech demo at the 2005 Electronic Entertainment Expo , showcasing the opening of Final Fantasy VII with Square's new Crystal Tools engine, in which, at the time, was known as its codename, the White Engine. Further demand came during the game's impending tenth anniversary in 2007. On both occasions, Square denied that any remake was in development, &#91;24&#93; &#91;25&#93; &#91;26&#93; for reasons including their focus on new games, the necessity to cut elements to make a remake manageable, the difficulty of developing for modern hardware, and the amount of development time it would require. &#91;27&#93; &#91;28&#93; &#91;29&#93; &#91;30&#93; &#91;31&#93;
+The Remake project began when Final Fantasy producer Shinji Hashimoto broached the subject to Kitase, Nojima, and Nomura. All three were reaching a stage of life that they defined as "that age": all felt that if they waited much longer, they might not be alive to or would be too old to develop a remake, and passing the project on to a new generation did not feel right. &#91;32&#93; &#91;33&#93; &#91;34&#93; Another reason for developing the remake was that Square Enix was creating a growing library of PlayStation 4 titles, and the team hoped to increase the console's popularity. &#91;34&#93; Nomura was appointed as director much to his own surprise when it was decided to create the remake but he was busy with the making of the video game Kingdom Hearts III at that time. &#91;35&#93;
+Design [ edit ]
+The cast of the game was redesigned in a more realistic style. Left to right: Red XIII , Aerith Gainsborough , Cloud Strife , Barret Wallace , and Tifa Lockhart .
+The game entered full production by late 2015, led by Business Division 1, an internal production team within Square Enix . &#91;36&#93; &#91;37&#93; &#91;38&#93; While Nomura was involved with the project from the start, he only discovered he was the director after seeing himself credited in an internal company presentation video, as he had expected Kitase to fill the role. &#91;32&#93; Nomura filled the role director for both Final Fantasy VII Remake and Kingdom Hearts III concurrently. &#91;39&#93; Another project leader was Naoki Hamaguchi, who had previously served as a programmer for Lightning Returns: Final Fantasy XIII and project lead for Mobius Final Fantasy . &#91;37&#93; Square Enix approached developing Remake at the same level as a main numbered entry in the Final Fantasy series. &#91;40&#93;
+While the team had the option of simply remastering Final Fantasy VII with better graphics as many fans had requested, they noted that its graphics and many of its mechanics had become dated by modern standards. With this in mind, they decided to do a full remake, rebuilding the game systems to suit contemporary tastes and using current gaming technology to recreate the world. &#91;32&#93; &#91;34&#93; An overarching goal of the project was to make the game feel both "new and nostalgic" for players of the original game while exemplifying the idea of Final Fantasy VII for new players. &#91;40&#93; This decision led to the creation of Remake &#39;s action-based battle system, which draws from that action-based style of Dissidia Final Fantasy . &#91;22&#93; Teruki Endo, who had previously worked on Monster Hunter World , served as battle director. &#91;41&#93; The team aimed to retain all of the gameplay mechanics popular in the original game, including Active Time Battle , while merging them with the action-based system. &#91;42&#93; &#91;40&#93;
+Rather than using the character models and graphical style of Advent Children , which by that point had been developed using ten-year-old technology, the team decided to create new designs and models for characters: Nomura wished to balance the realism of Advent Children with cartoon stylization. Nomura was in charge of the revamped main character designs, while designer Roberto Ferrari was in charge of designs for secondary characters. Character modeling was supervised by Visual Works , Square Enix's CGI development branch. &#91;21&#93; &#91;36&#93; Cloud Strife's initial redesign for Final Fantasy VII Remake departed more dramatically from the original's, but was later altered to more closely resemble Nomura's original concept. &#91;43&#93; Tifa Lockhart's original appearance was changed to make her look more realistic as members from the staff realized her design would not fit fight scenes. &#91;44&#93;
+Instead of creating a new engine, Square Enix licensed Epic Games ' Unreal Engine 4 to develop the game, with Square Enix and Epic Games Japan working together to optimize the engine for Remake . &#91;45&#93; &#91;46&#93; The team received technical assistance from the developers of Kingdom Hearts III , as the latter game was developed using the same engine. &#91;47&#93; The game's lighting is augmented with the lighting engine Enlighten. &#91;48&#93; To help with the action gameplay and video quality, Square Enix originally partnered with video game developer CyberConnect2 , with the two companies keeping in close contact due to different development styles. &#91;21&#93;
+In 2017, the game's development focus shifted from being developed with external partners to being a primarily internal project. &#91;37&#93; When the company first started the Remake project, the team had to decide the entire scope of the project. There were two directions possible: expand upon the original with multiple releases or include the entire scope of the original game in a single release. The team started to investigate what were the essential parts of the original and what parts are what the fans absolutely had to see; they quickly decided that there were so many parts that are essential and the fans would be upset if the team had to cut out anything. A single release with more depth would not be possible without cutting out parts of the original story. In the end, the team decided the best option for the project was to go for the highest level possible (such as within the city of Midgar, which was mostly inaccessible in the original) with an expanded story in multiple releases. &#91;21&#93; &#91;22&#93; &#91;49&#93; Each game is planned to be on a similar scale to Final Fantasy XIII . &#91;22&#93; The first part focuses on the city of Midgar due to its iconic status among the Final Fantasy community. &#91;50&#93;
+Regarding the scope for the first part of the Remake , Nomura mentioned that many were worried about how the company would be able to make a whole game based solely on Midgar, but he didn't think it would be a problem. Nomura said it takes about 7 hours to go through the Midgar section in the original game, going through the same gameplay in the Remake with 3D map in Midgar and new scenario, plus the time it takes to go from one point to another adds up. The overall gameplay of the Remake would be well enough to cover a whole game. The story and scenario writer, Nojima, also added that stopping the game at the end of Midgar would also allow for an adequate amount of story scenarios to be put in as well. Nomura further added that level designs would have to change again after the party leaves Midgar. If the developers were to do that, they would also have to split up other scenarios and even if they add new gameplay, it would have to end in an abrupt point of the story. That's why they felt that if they had everything focused in Midgar, they wouldn't have to split up any of the story elements that happen there. &#91;51&#93;
+Scenario [ edit ]
+While developing the scenario, the team needed to work carefully, so the game did not appear too nostalgic. They needed to make decisions about what could be carried over from the original and what needed adjustment due to changes in social norms since the original's release. &#91;21&#93; &#91;22&#93; &#91;36&#93; Despite there already being a story in place, which greatly simplified production on some fronts, Nojima was brought back in to create new story material. &#91;22&#93; &#91;32&#93; The scenario for the first part was completed in December 2015, covering the beginning of the game to the escape from Midgar. &#91;47&#93; &#91;40&#93; Kitase observed that despite 23 years passing since the original game was released, the themes of economic inequality, corporate monopoly, and environmentalism were still relevant to the current day. &#91;40&#93; Nomura expressed regret that other areas of Midgar, such as the upper plate, were inaccessible in the original game and wanted to address that in Remake in order to give players a better sense of the city and its culture. The roles of previously minor characters were also expanded for this purpose. &#91;40&#93;
+Despite being marketed as a remake, the narrative has multiple changes from the original game, such as Barret being attacked by the antagonist Sephiroth and saved by a Whisper. Sephiroth appears during the Midgar scenario despite not being properly introduced until a flashback Cloud experiences. Vice noted that Cloud sees the future of Aerith in the original 1997 game, leaving her fate unknown to returning fans. &#91;52&#93; Yoshinori Kitase refrained from explaining the reason for the changes from the narrative: "I want to let you know is that all of the lore from the works created after the original game, the [ Compilation of Final Fantasy VII ], that's all very much in the base of the canon for the remake, and going forward it will be too". &#91;53&#93;
+The main characters were adjusted in various ways for Remake . Rather than the "cool and collected" Cloud as seen in other games, Remake depicts his apathetic attitude as a façade to mask his insecurities. Nojima wanted to convey that his standoffishness could be seen as lame. &#91;54&#93; Cloud's initial redesign for Remake departed more dramatically from the original's, but was later altered to more closely resemble Nomura's design. &#91;43&#93; Tifa's desire for revenge against Shinra is complicated by her reluctance to enact violence. Barret's passion and charisma rallies other characters to follow his lead. &#91;54&#93; Nojima worked hard to make the interactions between these three natural. &#91;55&#93; It was important to Hamaguchi to include a scene wherein Cloud has an intimate conversation with one of his teammates based on the player's choices in homage to the "date" scene from the original game. &#91;56&#93; The development team avoided playing favorites between Tifa and Aerith, treating them both as main heroes. &#91;57&#93; In addition to returning characters, the team decided to expand the role of minor characters and write new characters. &#91;58&#93; Cloud's interactions with AVALANCHE members Biggs, Wedge, and Jessie further his character development and deepen the world of the story. &#91;54&#93; Sephiroth was initially intended to be a looming presence, inspired by the shark in Jaws , to mirror his role in this section of the original game. &#91;59&#93; However, Kitase reasoned that the original's Jaws -like approach would be ineffective because even new players were too familiar with the character. &#91;60&#93; Hamaguchi pitched an alternate ending in which Cloud faces off with Sephiroth, which led to him appearing more and more in the remake. &#91;51&#93;
+The game is fully voiced, with the original plan being for the voice actors from the CGI film Final Fantasy VII: Advent Children to reprise their roles. &#91;36&#93; &#91;47&#93; Ultimately, the English characters were recast for Remake . &#91;61&#93; According to Kitase, choosing a new generation of voices for the characters was part of the game's rebirth as Remake . &#91;50&#93; The Japanese voice actors remained the same with Takahiro Sakurai being surprised by this younger take on Cloud, having not played Cloud in the original unvoiced PlayStation video game. &#91;62&#93; For the English dub, Cody Christian commented on replacing Steve Burton voicing Cloud, stating, "Steve, you paved the way. You made this character what it is and have contributed in shaping a legacy" and thus wanted to not let Burton down with his take on the character. &#91;63&#93; John Eric Bentley voiced Barret, a character he admired when he played the 1997 game. He felt his familiarity with the original work improved his performance, aided by the translators who explained the context for his scenes. He wanted his portrayal of Barret to be multifaceted and serve as a positive example of Black representation in games . &#91;64&#93; Briana White (Aerith) studied Maaya Sakamoto 's acting in order to appeal to fans. Meanwhile, Britt Baron had little knowledge of Tifa when being cast, but grew to like her character. Other prominent actors include Erica Lindbeck (Jessie), Gideon Emery (Biggs), and Matt Jones (Wedge). &#91;65&#93; The game employs an algorithm to adjust characters' facial motions while speaking in order to automatically match lip syncing and emotion in every language. &#91;66&#93;
+Music [ edit ]
+See also: Music of the Final Fantasy VII series
+Composers Nobuo Uematsu ( left ) and Masashi Hamauzu ( right ) worked on the game's soundtrack, alongside several others.
+The game's soundtrack consists primarily of arrangements of pieces Nobuo Uematsu wrote for the original Final Fantasy VII , with original tracks by several other series veterans, such as Masashi Hamauzu and Mitsuto Suzuki. &#91;67&#93; Uematsu contributed one new track: the theme song for the game, "Hollow". It was the first time Uematsu and Kitase had worked together since Final Fantasy X (2001), with Kitase initially believing Uematsu would refuse as he had long since left Square Enix and found success as an independent composer. &#91;68&#93; Nomura intended "Hollow" to reflect Cloud's state of mind; he wanted it to be a rock song with male vocals and an image of "rain". &#91;69&#93; It was performed by Yosh, the vocalist for Survive Said the Prophet. &#91;70&#93; Hamauzu also expressed honor in doing the music alongside Uematsu, as the original game was his first exposure to the series. &#91;67&#93; Suzuki stated that the themes for Wall Market, Honeybee Inn, and Midgar Highway were among his favorite contributions. &#91;67&#93; &#91;71&#93;
+Remake employs adaptive music in its gameplay wherein multiple arrangements of a particular track are played simultaneously, which fade in and out with the player's actions, such as entering or exiting a battle. &#91;40&#93; Arrangements also shift within a battle depending on the emotions the developers wanted players to experience from moment to moment. Because cutscenes in Remake have voiced dialogue, the sound team needed to rearrange some tracks to accommodate this change but they were careful to preserve the original melodies. &#91;72&#93;
+Release [ edit ]
+A comparison between the original PlayStation 4 version of Remake (right) and Intergrade (left).
+Following years of rumors and fan requests, Final Fantasy VII Remake was announced during Sony's conference at E3 2015 . &#91;73&#93; &#91;74&#93; Visual Works created the announcement trailer. &#91;32&#93; Square Enix's stock prices rose to their highest rating since November 2008, and the YouTube release of the reveal trailer garnered over 10 million views in the following two weeks. &#91;75&#93; &#91;76&#93; The game was next showcased at the 2015 PlayStation Experience, demonstrating cutscenes and gameplay from the opening sequence. &#91;77&#93;
+During the Final Fantasy 30th anniversary opening ceremony event hosted by Square Enix in Tokyo on January 31, 2017 – the 20th anniversary of Final Fantasy VII – the game's first piece of CGI key art was unveiled, along with announcements for a collaboration event with Mobius Final Fantasy . &#91;78&#93; On February 18, Nomura revealed two screenshots, showing off the updated HUD . &#91;79&#93; Due to its lack of footage since 2015, switch to internal development, and other projects Nomura was involved in, there were concerns about the status of the project. Speaking following E3 2018, Nomura stated that the game was in development, with his full attention shifted to it when Kingdom Hearts III was completed. &#91;39&#93; &#91;80&#93;
+After years without substantial footage, a teaser trailer was shown during PlayStation's May 2019 State of Play broadcast. Kitase revealed that the team wanted to "try something new" on the State of Play broadcast by showing the trailer. &#91;81&#93; The release date, March 3, 2020, was revealed the following month in a second teaser trailer during an orchestral concert dedicated to the music of Final Fantasy VII in Los Angeles. &#91;82&#93; Further release details were announced at the company's E3 2019 press conference, including different editions of Remake . &#91;83&#93; Kitase later clarified at the event that Square Enix had yet to determine the number of games in the Remake series, adding that they were in the process of planning the second installment. &#91;84&#93;
+An extended gameplay showcase and demo was playable at E3 2019, demonstrating parts of the opening mission, including some of the exploration, combat system, and first boss battle. The playable demo received positive reception in early previews, with praise towards the graphics, gameplay and combat system. &#91;8&#93; &#91;85&#93; &#91;86&#93; &#91;87&#93; &#91;88&#93; &#91;89&#93; It won three awards at the Game Critics Awards for Best of Show, Best Console Game, and Best Role-Playing Game, &#91;90&#93; as well as the best looking Unreal Engine game at E3 2019. &#91;91&#93; Extended footage of the demo, as well as an additional trailer, was featured at the 2019 Tokyo Game Show . &#91;92&#93; Final Fantasy VII Remake was initially PlayStation 4 exclusive until 2021, with no further details about its release on other platforms at the time. &#91;93&#93; &#91;94&#93; The release date was pushed back from March 3 to April 10, 2020. &#91;95&#93; A demo was released on the PlayStation Store on March 2, 2020, covering the first chapter. &#91;96&#93;
+In March 2020, Square Enix revealed that Europe and Australia would receive physical copies of Final Fantasy VII Remake early, due to growing concerns of the effect of the COVID-19 pandemic on distribution. &#91;97&#93; &#91;98&#93; This did not apply to downloads, as they were not directly affected by the global supply chain. Artwork of Cloud was used on buildings in Los Angeles to promote the game. &#91;99&#93;
+The same year in June, a scene from Final Fantasy VII Remake was reproduced for the 8-bit NEC PC-88 computer by Japanese programmer Soba P. &#91;100&#93;
+An upgraded version of Remake for the PlayStation 5 , titled Final Fantasy VII Remake Intergrade , was released on June 10, 2021, featuring improved visuals and shorter load times, available at no additional cost to owners of the PS4 version. &#91;101&#93; It includes a PS5-exclusive DLC expansion titled Episode Intermission &#91;g&#93; featuring the playable character Yuffie Kisaragi , who does not appear in the Midgar segment of the original game. The DLC expansion is included with the purchase of Intergrade , but must be purchased separately if using the free upgrade from the PS4 version. &#91;101&#93; &#91;102&#93; Intergrade adds the ability to use traditional turn-based controls while in the game's normal difficulty mode, a photo mode, and better overall performance in framerate and resolution. &#91;101&#93;
+A port of Intergrade was released for Windows on December 16, 2021, via the Epic Games Store . &#91;103&#93; While anticipation was high, the port was criticised by players and critics for its stuttering and lack of customization, both stemming from a lack of optimization. &#91;104&#93; &#91;105&#93; It was released on Steam on June 17, 2022. &#91;106&#93; Square published a novel focused on the backstories of Tifa and Aerith, Final Fantasy VII Remake: Traces of Two Pasts . &#91;107&#93;
+Remake is the first in a planned trilogy of games remaking Final Fantasy VII . The second, Final Fantasy VII Rebirth , was released on February 29, 2024. &#91;108&#93; A prequel, Crisis Core: Final Fantasy VII Reunion – a remaster of the 2007 game Crisis Core: Final Fantasy VII – was released in December 2022. &#91;109&#93; &#91;110&#93; Music from Remake was included in the 2023 rhythm game Theatrhythm Final Bar Line . &#91;111&#93;
+Reception [ edit ]
+Critical response [ edit ]
+.mw-parser-output .video-game-reviews{float:right;clear:right;margin:0 1em 1em;text-align:center;padding:0}.mw-parser-output .vgr-left{float:left;clear:left;margin:0 1em 1em 0}.mw-parser-output .vgr-none{float:none;clear:left;margin:0 1em 1em 0}.mw-parser-output .vgr-single{width:23em}.mw-parser-output .vgr-edit-on-wikidata{border:1px solid #a2a9b1;border-top:none;padding:0.2em;background:#d1dbdf;color:#333;font-size:88%;font-weight:bold}.mw-parser-output .video-game-reviews table{border:1px solid #a2a9b1;margin:0;font-size:88%;width:100%}.mw-parser-output .video-game-reviews td,.mw-parser-output .video-game-reviews th,.mw-parser-output .video-game-reviews caption{border:1px solid #a2a9b1;vertical-align:middle}.mw-parser-output .video-game-reviews caption{border-bottom:none;background:#d1dbdf;color:#333;text-align:center;padding:0.2em 0.4em}.mw-parser-output .video-game-reviews th{background:#eaecf0;color:#333}.mw-parser-output .vgr-awards td{background:#f2f2f2;color:#333}.mw-parser-output .vgr-hrow th{background:#e8f4f8;color:#333}.mw-parser-output .video-game-reviews .table-na{color:#707070}.mw-parser-output .vgr-reviews,.mw-parser-output .vgr-reviews tr:last-child td,.mw-parser-output .vgr-reviews tr:last-child th{border-bottom:none}.mw-parser-output .vgr-title,.mw-parser-output .vgr-subtitle,.mw-parser-output .vgr-awards tr td:first-child{font-weight:bold}.mw-parser-output .mw-collapsed .vgr-title{display:inline}.mw-parser-output .video-game-reviews table tr td:first-child,.mw-parser-output .vgr-awards td{text-align:left}.mw-parser-output .video-game-reviews table tr td.vgr-center{text-align:center}.mw-parser-output .video-game-reviews .vgr-stacked{border-top:none}@media(max-width:720px){.mw-parser-output .video-game-reviews{width:100%;float:none;clear:both;margin:0}.mw-parser-output .video-game-reviews table{display:table}.mw-parser-output .video-game-reviews caption{display:table-caption}} Reception Aggregate score Aggregator Score Metacritic PS4: 87/100 &#91;112&#93; PS5: 89/100 &#91;113&#93; PC: 86/100 &#91;114&#93; Review scores Publication Score 4Players 82/100 &#91;115&#93; Destructoid PS4: 9/10 &#91;116&#93; PS5: 8/10 &#91;117&#93; Easy Allies 9/10 &#91;118&#93; Electronic Gaming Monthly &#91;119&#93; Eurogamer Recommended &#91;120&#93; Famitsu 39/40 &#91;121&#93; Game Informer 8.75/10 &#91;122&#93; GameRevolution &#91;123&#93; GameSpot PS4: 10/10 &#91;124&#93; PS5: 10/10 &#91;125&#93; GamesRadar+ &#91;126&#93; Hardcore Gamer 4/5 &#91;127&#93; IGN 8/10 &#91;128&#93; Jeuxvideo.com PS4: 18/20 &#91;129&#93; PS5: 18/20 &#91;130&#93; PlayStation Official Magazine – UK 10/10 &#91;131&#93; Push Square &#91;132&#93; RPGamer &#91;133&#93; Shacknews 9/10 &#91;134&#93; The Guardian &#91;135&#93; USgamer &#91;136&#93; VG247 &#91;137&#93; VideoGamer.com 8/10 &#91;138&#93;
+Final Fantasy VII Remake received "generally favorable" reviews, according to review aggregator Metacritic , &#91;112&#93; with critics praising its faithfulness to the original game. Tamoor Hussain of GameSpot states that, while Remake is only the initial entry in a full reimagining of the original game, it is rich in details that were previously unexplored, realizes new storytelling ambitions with confidence, and presents fresh perspectives that feel both meaningful and essential in his review. To summarize, he says that the game tells a smaller, more personal Final Fantasy VII tale and marries it with a smart mashup of action and RPG gameplay in order to deliver a must-play experience. &#91;124&#93; Tom Marks of IGN calls the game a "complete reinvention", praising the combat system. &#91;139&#93; Nahila Bonfiglio of The Daily Dot regarded it as one of the best games of 2020 based on multiple aspects that would appeal to the audience. &#91;140&#93; EGM claimed the game was captivating like the original. &#91;119&#93; Eurogamer also highly regarded the remake, to the point of finding it superior to the original title. &#91;120&#93;
+The narrative was praised for the characters and their arcs. &#91;116&#93; &#91;124&#93; &#91;139&#93; IGN called its "story fleshed out with real emotional arcs", praising its nostalgic feel, while criticizing the game for having "filler" and sometimes convoluted new plot points and side missions, but concluding that the remake brings a new life into a classic while standing as a great RPG on its own. &#91;139&#93; Shacknews wrote that the story in the remake is one of the strongest ever achieved by the company. &#91;134&#93; In general the voiceactors were well received, &#91;133&#93; &#91;132&#93; with Cody Christian 's performance as Cloud standing out as he enhances his character arc. &#91;141&#93; &#91;124&#93; &#91;139&#93; His interactions with the cast and the expansion of the minor characters in Avalanche was also well received by writers with his confrontations with Sephiroth &#91;118&#93; &#91;142&#93; Destructoid agreed about the cast, most notably Aerith, noting her fun characterization. &#91;116&#93; The handling of the city of Midgar and expansion of minor characters were praised by the media too. &#91;122&#93; &#91;119&#93; &#91;120&#93;
+Critical response to the new combat has been positive, partly due to the strategy needed and the distinctive fighting style of each playable character, such as Cloud wielding a sword, in contrast to Barret's shooting from afar. &#91;118&#93; &#91;116&#93; &#91;139&#93; &#91;124&#93; GamesRadar also praised the combat for the strategy required, due to each enemy having a weakness, and the variety among the characters thanks to their unique traits. &#91;126&#93; RPGamer praised both the return of Materia used to provide magic attacks and the addition of upgradeable weapons in order to let players decide which equipment they want to use. &#91;133&#93; RPGamer felt that Remake relied on "padding" to expand on the areas of the game, which they considered linear for the genre. &#91;133&#93; &#91;122&#93; GamesRadar criticized some of the side-quests in the game as lackluster though the interactions were better received. &#91;126&#93; &#91;122&#93; EGM claimed that some quests had too much padding, citing an example where the player has to constantly change the playable character to open multiple doors in the Shinra headquarters. &#91;119&#93; Easy Allies said that despite the linear gameplay, the reviewers finished the game in 38 hours, and still had plenty of quests left to complete. &#91;118&#93;
+In regards to Intergrade , Siliconera praised the focus on Yuffie's story even if she comes across as annoying due to her younger personality but felt her relationship with Sonon improved it. Besides the new minigame, Siliconera praised the improved graphics from Intergrade . &#91;143&#93; Enjoying the option of playing directly with the sidestory, Destructoid found Yuffie instead likable to the point of coming across as realistic and enjoyed her own style of gameplay. &#91;117&#93; GameSpot gave it a perfect score, also finding the graphics superior, most notably due to its framerate, fitting for a PlayStation 5 game which is more notable when Cloud becomes involved in fights. &#91;144&#93; PC Invasion also praised the framerate, making the PC version highly recommendable to play rather than the other ones. &#91;145&#93;
+Sales [ edit ]
+Final Fantasy VII Remake sold over 3.5 million units worldwide within three days. &#91;146&#93; This made it one of the biggest launches for a PlayStation 4 game and the fastest-selling PS4 exclusive, surpassing the launch sales of Marvel's Spider-Man (3.3 million; 2018) and God of War (3.1 million; 2018). &#91;147&#93; &#91;148&#93; By August 2020, that figure had increased to over 5 million on PS4. &#91;149&#93; By September 2023, the game had shipped and digitally sold over 7 million units worldwide. &#91;150&#93;
+In Japan, Final Fantasy VII Remake sold over a million units during its first week, &#91;151&#93; &#91;152&#93; with the game sold out in many stores. &#91;153&#93;
+In North America, Remake was the top-selling game of April 2020 and the third best-selling game of 2020, behind Call of Duty: Modern Warfare (2019) and Animal Crossing: New Horizons (2020). It became the fastest-selling Final Fantasy title in the franchise's history, surpassing the launch record previously set by Final Fantasy XV (2016), &#91;154&#93; and was the most downloaded PlayStation 4 game of April 2020 in the United States. &#91;155&#93;
+In the United Kingdom, the game debuted at the top of the weekly sales chart, &#91;156&#93; selling an estimated 60,000 physical units in its first weekend. &#91;157&#93; German trade association GAME reported that it took Final Fantasy VII Remake only a few days to sell more than 100,000 units within Germany, for which it won a Gold Sales Award. &#91;158&#93; It was the fourth most downloaded PlayStation 4 game of April 2020 in Europe. &#91;155&#93;
+Accolades [ edit ]
+After its release, Final Fantasy VII Remake was awarded the Editors' Choice from PlayStation. &#91;159&#93; It was also named IGN Japan's Game of the Year in 2020. &#91;160&#93; Both Anime News Network and Siliconera and RPG Site also listed the game as one of the best games of the year. &#91;161&#93; &#91;162&#93; &#91;163&#93;
+Awards for Final Fantasy VII Remake
+Year
+Award
+Category
+Recipient(s) and nominee(s)
+Result
+Ref
+2019
+Game Critics Awards
+Best of Show
+Final Fantasy VII Remake
+Won
+&#91;164&#93;
+Best Console Game
+Won
+Best Role-Playing Game
+Won
+2020
+CEDEC Awards
+Excellence in Sound
+Won
+&#91;165&#93;
+Golden Joystick Awards
+Ultimate Game of the Year
+Nominated
+&#91;166&#93; &#91;167&#93;
+PlayStation Game of the Year
+Nominated
+Best Visual Design
+Nominated
+The Game Awards 2020
+Game of the Year
+Nominated
+&#91;168&#93;
+Best Game Direction
+Nominated
+Best Narrative
+Nominated
+Best Art Direction
+Nominated
+Best Score/Music
+Won
+Best Role-Playing Game
+Won
+2021
+New York Game Awards
+Big Apple Award for Best Game of the Year
+Nominated
+&#91;169&#93;
+Tin Pan Alley Award for Best Music in a Game
+Nominated
+Statue of Liberty Award for Best World
+Nominated
+Great White Way Award for Best Acting in a Game
+Briana White as Aerith Gainsborough
+Nominated
+Freedom Tower Award for Best Remake
+Final Fantasy VII Remake
+Won
+17th British Academy Games Awards
+Animation
+Nominated
+&#91;170&#93;
+Performer in a Leading Role
+Cody Christian as Cloud Strife
+Nominated
+24th Annual D.I.C.E. Awards
+Game of the Year
+Final Fantasy VII Remake
+Nominated
+&#91;171&#93;
+Role-Playing Game of the Year
+Won
+Outstanding Achievement in Animation
+Nominated
+35th Japan Gold Disc Award
+Soundtrack Album of the Year
+Won
+&#91;172&#93;
+21st Game Developers Choice Awards
+Game of the Year
+Honorable mention
+&#91;173&#93;
+Best Audio
+Nominated
+Best Design
+Honorable mention
+Best Narrative
+Nominated
+Best Technology
+Honorable mention
+Best Visual Art
+Honorable mention
+Japan Game Awards 2021
+Award for Excellence
+Won &#91;h&#93;
+&#91;174&#93;
+2022
+The Steam Awards
+Best Soundtrack
+Final Fantasy VII Remake: Intergrade
+Won
+&#91;175&#93;
+Notes [ edit ]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+^ Original Final Fantasy VII music and the main theme "Hollow" were composed by Nobuo Uematsu . Additional music was contributed by Shotaro Shima, Yoshinori Nakamura, Yoshitaka Suzuki, Tadayoshi Makino, Keiki Kobayashi, Tsuyoshi Sekito , and Yasunori Nishiki .
+^ Japanese : ファイナルファンタジーVII リメイク , Hepburn : Fainaru Fantajī VII Rimeiku
+^ Japanese : ファイナルファンタジーVII リメイク インターグレード , Hepburn : Fainaru Fantajī VII Rimeiku Intāgurēdo
+^ Major Dodson and Yukihiro Aizawa voiced Cloud at 14 years old in English and Japanese, respectively.
+^ Glory Curda and Ayaka Mitsumoto voiced Tifa at 8 through 13 years old in English and Japanese, respectively.
+^ Capri Oliver and Chihiro Tanaka voiced Aerith at 7 years old in English and Japanese, respectively.
+^ Stylized as Episode INTERmission .
+^ Also awarded to nine other games. &#91;174&#93;
+References [ edit ]
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}} "Final Fantasy 7 Remake director suggests future instalments could focus on 'smaller sections' " . VGC . April 28, 2020. Archived from the original on April 29, 2020 . Retrieved April 28, 2020 .
+^ Webster, Andrew (April 9, 2020). "Redesigning Midgar, Final Fantasy VII Remake's gritty cyberpunk metropolis" . The Verge . Archived from the original on April 15, 2020 . Retrieved April 21, 2020 .
+^ " 'Final Fantasy VII' Remake Sells 3.5M Copies Over Launch Weekend" . The Hollywood Reporter . April 21, 2020. Archived from the original on April 21, 2020 . Retrieved April 21, 2020 .
+^ a b Schreier, Jason (December 5, 2015). "The Final Fantasy VII Remake Is Looking Hot" . Kotaku . Archived from the original on April 7, 2016 . Retrieved December 7, 2015 .
+^ a b "Final Fantasy VII Remake's Kitase Discusses Game's Battle System in Video" . Anime News Network . December 6, 2015. Archived from the original on April 1, 2016 . Retrieved December 7, 2015 .
+^ "No, Final Fantasy 7 Remake Is Not the 'Full Game'... So Where's the Rest of It?" , IGN , April 9, 2020, archived from the original on April 17, 2020 , retrieved April 24, 2020
+^ "Final Fantasy VII Remake still has ATB ... kinda" . VentureBeat . June 11, 2019. Archived from the original on June 17, 2019 . Retrieved June 12, 2019 .
+^ a b "Final Fantasy VII Remake hands-on preview - the biggest JRPG ever" . Metro . June 12, 2019. Archived from the original on June 13, 2019 . Retrieved June 12, 2019 .
+^ "Final Fantasy VII Remake details Turks, Avalanche, Cloud abilities, Chocobo &amp; Moogle summon, more; Aerith and Barret visuals" . Gematsu . November 25, 2019. Archived from the original on June 25, 2020 . Retrieved June 26, 2020 .
+^ Hamaguchi, Naoki. "How Square Enix created the Summons in Final Fantasy VII Remake" . PlayStation Blog . Archived from the original on June 22, 2020 . Retrieved June 16, 2020 .
+^ Square Enix. Final Fantasy VII Remake . Jessie: So what's SOLDIER boy's deal? Is he one of us now? He's got balls, this, uh... Uh...what was his name again? / Biggs: Cloud. Cloud Strife.
+^ Square Enix. Final Fantasy VII Remake . Barret: This pump's sole purpose is to drain the planet dry. While you sleep, while you eat, while you shit—it's here, sucking up mako. It doesn't rest and it doesn't care! You do realize what mako is, don't you? Mako is the lifeblood of our world. The planet bleeds green like you and me bleed red. The hell you think's gonna happen when it's all gone, huh!? Answer me! You gonna stand there and pretend you can't hear the planet crying out in pain? I know you can!
+^ Square Enix. Final Fantasy VII Remake . Cloud: Sephiroth. Long as he's still there. I... / Barret: I thought you beat him. / Cloud: .... / Aerith: We can. We will.
+^ Square Enix. Final Fantasy VII Remake . Zack: Wait, was that all of them? Hey Cloud, you see that?
+^ Agossah, Iyane (April 13, 2021). "Who is Suzie Yeung&#160;? FF7 Remake Yuffie DLC Voice Actor List Revealed" . Dualshockers . Archived from the original on June 11, 2021 . Retrieved June 10, 2021 .
+^ a b Stanton, Rick (June 2, 2013). "Final Fantasy 7 retrospective - The game that killed Squaresoft" . Eurogamer . Gamer Network. Archived from the original on March 26, 2016 . Retrieved May 5, 2016 .
+^ "The Making Of: Final Fantasy VII" . Edge . No.&#160;123. May 2003. pp.&#160;108–113. Archived from the original on May 9, 2012.
+^ Kohler, Chris (September 24, 2004). "More Compilation of Final Fantasy VII details" . GameSpot . CBS Interactive . Archived from the original on October 17, 2015 . Retrieved August 10, 2006 .
+^ Sato, Yukiyoshi Ike (October 30, 2013). "Final Fantasy remakes sold separately" . GameSpot . CBS Interactive . Archived from the original on October 30, 2013 . Retrieved October 27, 2016 .
+^ Eugene (October 26, 2013). "Square Enix Once Promised Final Fantasy VII, VIII And IX Remakes" . Siliconera . Curse, Inc. Archived from the original on May 16, 2016 . Retrieved November 18, 2016 .
+^ a b c d e Romano, Sal (December 7, 2015). "Final Fantasy VII Remake details: reason for multi-part release, CyberConnect2 collaboration, more" . Gematsu . CraveOnline . Archived from the original on April 10, 2016 . Retrieved December 7, 2015 .
+^ a b c d e f Juba, Joe (April 11, 2016). "10 Questions And Answers About The Final Fantasy VII Remake" . Game Informer . GameStop. Archived from the original on April 20, 2016 . Retrieved May 5, 2016 .
+^ "Introducing the FINAL FANTASY VII REMAKE development team" . Square Enix Games . November 25, 2019. Archived from the original on June 28, 2020 . Retrieved June 25, 2020 .
+^ Allen, Jason (May 16, 2005). "E3 2005: Eyes-on the Final Fantasy VII Tech Demo" . IGN . Ziff Davis . Archived from the original on February 20, 2006 . Retrieved July 16, 2008 .
+^ Orry, James (June 5, 2007). "Final Fantasy VII remake isn't happening" . VideoGamer.com . Candy Banana. Archived from the original on March 3, 2016 . Retrieved December 7, 2015 .
+^ Dunham, Jeremy (May 23, 2006). "Square Enix Responds to PS3 FF7 Rumors" . IGN . Ziff Davis . Archived from the original on March 1, 2013 . Retrieved December 7, 2015 .
+^ Nunnaley, Stephany (February 20, 2010). "Kitase: Final Fantasy VII to be remade only if takes a year to do so" . VG247 . VG247. Archived from the original on September 20, 2015 . Retrieved May 5, 2016 .
+^ Hillier, Brenna (June 26, 2012). "Wada: Final Fantasy VII remake would kill franchise" . VG247 . VG247. Archived from the original on September 11, 2015 . Retrieved May 5, 2016 .
+^ Gantayat, Anoop (May 16, 2012). "Nomura: New Titles Take Priority Over Final Fantasy VII Remake" . Andriasang . Andriasang.com. Archived from the original on April 4, 2016 . Retrieved May 5, 2016 .
+^ Evans-Thirlwell, Edwin (November 28, 2011). " "If I remade Final Fantasy VII, I'd be tempted to delete things" - FFXIII-2 producer" . Official Xbox Magazine . Archived from the original on November 30, 2011 . Retrieved May 5, 2016 .
+^ Pigna, Kris (February 21, 2010). "FFVII Remake 'Looking Pretty Unrealistic' " . 1UP.com . Ziff Davis . Archived from the original on November 6, 2012 . Retrieved December 7, 2015 .
+^ a b c d e 『FF』&amp;『KH』が導く新時代 - Case 1.0: 『ファイナルファンタジーVII』 フルリメイク作品 (仮題) . Famitsu Weekly (in Japanese) (1386). Enterbrain : 16–19. June 25, 2015. Translation Archived April 17, 2016, at the Wayback Machine
+^ Robinson, Martin (June 17, 2015). "Final Fantasy 7 remake was underway before the PS4 PC port was announced" . Eurogamer . Gamer Network. Archived from the original on April 16, 2016 . Retrieved May 5, 2016 .
+^ a b c Sato (June 19, 2015). "Why Square Enix Decided To Finally Make The Final Fantasy VII Remake" . Siliconera . Curse, Inc. Archived from the original on April 7, 2016 . Retrieved May 5, 2016 .
+^ Nakamura, Toshi (June 24, 2015). "How The Final Fantasy VII Remake Came to Be" . Kotaku . Archived from the original on June 28, 2020 . Retrieved June 26, 2020 .
+^ a b c d Romano, Sal (December 21, 2015). "Final Fantasy VII Remake staff discuss voiced dating scenes, mini-games, more" . Gematsu . CraveOnline . Archived from the original on April 10, 2016 . Retrieved May 5, 2016 .
+^ a b c Romano, Sal (May 29, 2017). "Final Fantasy VII Remake development shifts from external cooperation to internal focus" . Gematsu. Archived from the original on May 29, 2017 . Retrieved May 29, 2017 .
+^ Saed, Sherif (May 25, 2017). "Square Enix is hiring for the Final Fantasy 7 Remake" . VG247 . Videogaming247 Ltd. Archived from the original on May 25, 2017 . Retrieved May 29, 2017 .
+^ a b Farokhmanesh, Megan (June 14, 2018). "Kingdom Hearts III's director says he's putting equal effort into Final Fantasy VII Remake" . The Verge . Archived from the original on June 14, 2018 . Retrieved June 15, 2018 .
+^ a b c d e f g Inside FINAL FANTASY VII REMAKE – Episode 1: Introduction (YouTube video). Square Enix. March 16, 2020. Archived from the original on November 13, 2021.
+^ "The FINAL FANTASY VII REMAKE development team &#124; Square Enix Blog" . square-enix-games.com . Archived from the original on June 6, 2020 . Retrieved June 2, 2020 .
+^ Romano, Sal (February 2, 2017). "Final Fantasy VII Remake producer Yoshinori Kitase talks progress and more in Weekly Famitsu" . Gematsu . CraveOnline . Archived from the original on February 2, 2017 . Retrieved February 4, 2017 .
+^ a b "Final Fantasy VII Remake Changed Cloud's Design, Nomura Says It Is Closest to the Original" . Siliconera. February 7, 2018. Archived from the original on November 13, 2019 . Retrieved April 25, 2020 .
+^ Gibson, Nathan P. (June 21, 2019). "Tifa's Outfit Changed in Final Fantasy VII Remake on Advice From Ethics Department" . The Escapist . Archived from the original on January 9, 2021 . Retrieved May 4, 2020 .
+^ "Unreal Engine 4 Powering FINAL FANTASY VII REMAKE Development" . Unreal Engine Official News . December 7, 2015. Archived from the original on March 14, 2020 . Retrieved December 14, 2015 .
+^ "Final Fantasy VII Remake by Square Enix - E3 2019 Interview" . Unreal Engine Official YouTube Channel . June 13, 2019. Archived from the original on January 9, 2021 . Retrieved March 14, 2020 .
+^ a b c Romano, Sal (December 15, 2015). "Final Fantasy VII Remake part one scenario complete &#91;Update&#93;" . Gematsu . CraveOnline . Archived from the original on February 12, 2016 . Retrieved May 5, 2016 .
+^ Grubb, Jeff (July 6, 2016). "Square Enix, Geomerics make Enlighten lighting-tech pact after bright results in FFVII Remake" . VentureBeat . VentureBeat. Archived from the original on July 7, 2016 . Retrieved July 7, 2016 .
+^ "FINAL FANTASY VII REMAKE developers talk Midgar, Red XIII and more" . Square Enix Games . March 23, 2020. Archived from the original on March 28, 2020.
+^ a b Romano, Sal (June 15, 2019). "Final Fantasy VII Remake producer Yoshinori Kitase shares post-E3 2019 message" . Gematsu . CraveOnline . Archived from the original on June 15, 2019 . Retrieved June 16, 2019 .
+^ a b Final Fantasy 7 Remake Ultimania Book Interview With Nomura, Kitase, And Nojima . Square Enix. 2020. Archived from the original on January 9, 2021 . Retrieved May 3, 2020 .
+^ "The Amazing Way 'Final Fantasy VII Remake' Solved Its Villain Problem" . Vice . April 20, 2020. Archived from the original on June 3, 2020 . Retrieved June 25, 2020 .
+^ "Final Fantasy 7 Remake interview: "This had to be a complete standalone game, a real satisfying gaming experience" " . Vg247 . March 2, 2020. Archived from the original on April 9, 2020 . Retrieved June 25, 2020 .
+^ a b c Inside FINAL FANTASY VII REMAKE – Episode 2: Story and Characters (YouTube video). Square Enix. March 24, 2020. Archived from the original on November 13, 2021.
+^ "Final Fantasy VII Remake details Turks, Avalanche, Cloud abilities, Chocobo &amp; Moogle summon, more; Aerith and Barret visuals" . Gameatsu. November 25, 2019. Archived from the original on November 27, 2019 . Retrieved November 25, 2019 .
+^ "FINAL FANTASY VII REMAKE Creators Explain Episodic Release" . Nerdist. Archived from the original on April 13, 2020 . Retrieved April 14, 2020 .
+^ "Final Fantasy 7 Remake's Developers Tried to Avoid Playing Favorites With Tifa and Aerith" . US Gamer . April 2, 2020. Archived from the original on April 8, 2020 . Retrieved May 2, 2020 .
+^ "Interview: Final Fantasy VII Remake Producer and Co-Director on Development, Launch, and Being Grateful for the Fans" . Push Square . May 24, 2020. Archived from the original on June 3, 2020 . Retrieved June 25, 2020 .
+^ Klepek, Patrick (April 7, 2020). " 'Final Fantasy VII' Director on 'Twin Peaks', Princess Di, and High-Res Star Destroyers" . Vice . Archived from the original on May 15, 2020 . Retrieved June 25, 2020 .
+^ Heaney, Duncan (April 16, 2020). "The FINAL FANTASY VII REMAKE team discuss story, Sephiroth and more" . Square Enix . Archived from the original on September 22, 2020 . Retrieved July 31, 2020 .
+^ Kim, Matt (June 12, 2019). "Final Fantasy 7 Remake Replaces Longtime Cloud Strife Voice Actor" . USGamer . Gamer Network. Archived from the original on June 13, 2019 . Retrieved June 13, 2019 .
+^ "櫻井孝宏にとってのクラウドとは?『FFVIIリメイク』クラウド役・櫻井孝宏さんインタビュー" . Dengeki Online (in Japanese). February 13, 2020. Archived from the original on April 2, 2020 . Retrieved May 12, 2020 .
+^ "Final Fantasy VII Remake Has A Completely New Voice Cast" . Comic Book. Archived from the original on September 29, 2019 . Retrieved January 5, 2020 .
+^ "John Eric Bentley on creating a voice for Barret Wallace in Final Fantasy 7 remake" . Shacknews. April 20, 2020. Archived from the original on April 27, 2020 . Retrieved May 4, 2020 .
+^ "Final Fantasy 7 Remake Voice Cast On Living Up To Fan Expectation" . IGN . March 3, 2020. Archived from the original on April 22, 2020 . Retrieved June 10, 2020 .
+^ Inside FINAL FANTASY VII REMAKE – Episode 5: Graphics and Visual Effects (YouTube video). Square Enix. April 17, 2020. Archived from the original on November 13, 2021.
+^ a b c FINAL FANTASY VII REMAKE Team. "The music of FINAL FANTASY VII REMAKE - comments from the composers" . square-enix-games.com . Archived from the original on February 2, 2020 . Retrieved February 1, 2020 .
+^ Sato (May 14, 2018). "Nobuo Uematsu Confirmed To Be Working On Music For Final Fantasy VII Remake" . Siliconera . Curse, Inc. Archived from the original on May 14, 2018 . Retrieved May 14, 2018 .
+^ "FFVII Remake: Interview with Nomura Tetsuya and Kitase Yoshinori" . Frontline . April 17, 2020. Archived from the original on July 1, 2020 . Retrieved April 21, 2020 .
+^ FINAL FANTASY VII REMAKE Team (January 31, 2020). "Introducing the FINAL FANTASY VII theme song by Nobuo Uematsu" . Square Enix . Archived from the original on January 31, 2020 . Retrieved July 31, 2020 .
+^ "FFVII Remake: Track List" . Square Enix . Archived from the original on April 2, 2020 . Retrieved April 24, 2020 .
+^ Inside FINAL FANTASY VII REMAKE – Episode 4: Music and Sound Effects (YouTube video). Square Enix. April 8, 2020. Archived from the original on November 13, 2021.
+^ Brown, Peter (June 16, 2015). "Final Fantasy 7 Remake Announced by Sony at E3 2015" . GameSpot . CBS Interactive . Archived from the original on January 12, 2016 . Retrieved May 5, 2016 .
+^ Gotsuki, Aki (June 18, 2015). [E3 2015]「人喰いの大鷲トリコ」「シェンムーIII」,リメイク版「FFVII」など,話題作をSCE吉田修平氏が語る . 4Gamer.net . Aetas Inc. Archived from the original on December 8, 2015 . Retrieved May 5, 2016 .
+^ Moser, Cassidie (June 16, 2015). "E3 2015: Final Fantasy 7 Remake Boosts Square Enixs Stock" . IGN . Ziff Davis . Archived from the original on June 19, 2015 . Retrieved May 5, 2016 .
+^ Leack, Jonathan (June 30, 2015). "FFVII Remake Trailer Surpasses 10 Million Views, By Far Most Popular E3 2015 Video" . Game Revolution . CraveOnline . Archived from the original on September 10, 2015 . Retrieved May 5, 2016 .
+^ Kamen, Matt (December 5, 2015). "Final Fantasy VII Remake steals the show at Sony's PlayStation Experience" . Wired . Archived from the original on December 12, 2015 . Retrieved May 5, 2016 .
+^ "Square Enix Kicks off Final Fantasy 30th Anniversary Celebration" . Gamasutra . UBM TechWeb . January 31, 2017. Archived from the original on February 4, 2017 . Retrieved February 4, 2017 .
+^ Romano, Sal (February 8, 2017). "New Kingdom Hearts III and Final Fantasy VII Remake screenshots shown at MAGIC 2017" . Gematsu . CraveOnline . Archived from the original on March 7, 2017 . Retrieved February 19, 2017 .
+^ O'Conner, James (June 15, 2018). "The Final Fantasy 7 remake skipped E3, but it's still in active development" . VG247 . VG247. Archived from the original on June 15, 2018 . Retrieved June 15, 2018 .
+^ Kitase, Yoshinori (May 9, 2019). "A New Look at Final Fantasy VII Remake" . PlayStation Blog . PlayStation . Archived from the original on May 10, 2019 . Retrieved May 10, 2019 .
+^ Dornbush, Jonathan (June 9, 2019). "Final Fantasy VII Remake Release Date Announced - E3 2019" . IGN . Ziff Davis . Archived from the original on June 10, 2019 . Retrieved June 10, 2019 .
+^ Romano, Sal (June 11, 2019). "Final Fantasy VII Remake E3 2019 trailer, stage demo; special editions announced" . Gematsu . CraveOnline . Archived from the original on June 11, 2019 . Retrieved June 11, 2019 .
+^ Romano, Sal (June 11, 2019). "Square Enix uncertain how many games will span the Final Fantasy VII Remake project &#91;Update 2&#93;" . Gematsu . CraveOnline . Archived from the original on June 12, 2019 . Retrieved June 14, 2019 .
+^ "Final Fantasy VII Remake E3 2019 Preview - Blend of Real-Time, Tactical" . PlayStation LifeStyle . June 16, 2019. Archived from the original on June 17, 2019 . Retrieved June 17, 2019 .
+^ Machkovech, Sam (June 15, 2019). "Final Fantasy VII Remake hands-on: Already feels like the one for jaded JRPG fans" . Ars Technica . Archived from the original on June 17, 2019 . Retrieved June 17, 2019 .
+^ Moore, Ewan (June 13, 2019). "Final Fantasy VII Remake Preview: A Stunning, Faithful Recreation Of A Classic" . UNILAD . Archived from the original on June 17, 2019 . Retrieved June 17, 2019 .
+^ "Final Fantasy VII Remake hands-on – My reservations are gone" . VentureBeat . June 13, 2019. Archived from the original on June 16, 2019 . Retrieved June 17, 2019 .
+^ Gilbert, Ben (June 14, 2019). "I never played the classic RPG 'Final Fantasy VII' from 1997, but I just played the gorgeous new remake and it's pretty great" . Business Insider . Archived from the original on June 17, 2019 . Retrieved June 17, 2019 .
+^ " 'Final Fantasy VII' Remake Wins Best of Show at E3 2019" . The Hollywood Reporter . June 27, 2019. Archived from the original on June 27, 2019 . Retrieved June 27, 2019 .
+^ "Unreal E3 Awards 2019 - Eye Candy" . unrealengine.com . Epic Games. May 30, 2019. Archived from the original on October 26, 2019 . Retrieved September 28, 2019 .
+^ Webster, Andrew (September 11, 2019). "Final Fantasy VII Remake's TGS trailer is full of familiar scenes" . The Verge . Archived from the original on September 11, 2019 . Retrieved September 11, 2019 .
+^ Hall, Charlie (December 10, 2019). "Final Fantasy 7 remake is a timed exclusive for PS4 until 2021" . Polygon . Archived from the original on December 10, 2019 . Retrieved December 10, 2019 .
+^ Messner, Steven (February 5, 2020). "Final Fantasy 7 Remake's timed exclusivity now ends in April 2021" . PC Gamer . Archived from the original on March 2, 2020 . Retrieved March 4, 2020 .
+^ Wald, Heather (January 14, 2020). "Final Fantasy 7 Remake delayed to April 2020" . GamesRadar+ . Archived from the original on January 14, 2020 . Retrieved January 14, 2020 .
+^ Yin-Poole, Wesley (March 2, 2020). "Final Fantasy 7 Remake demo out now" . Eurogamer. Archived from the original on March 2, 2020 . Retrieved March 2, 2020 .
+^ Lada, Jenni (March 30, 2020). "Square Enix Shipping Final Fantasy VII Remake Physical Copies Early to Australia and Europe" . Siliconera. Archived from the original on August 29, 2020 . Retrieved April 5, 2021 .
+^ Fahey, Mike (April 1, 2020). "People Are Already Playing Final Fantasy VII Remake in Australia" . Kotaku . Archived from the original on April 3, 2020 . Retrieved April 1, 2020 .
+^ Pabon, Neal [@@NealPabon] (April 11, 2020). "We did it. #FinalFantasy7Remake is real. My sincerest thanks to the incredibly talented team at SE Japan and all my kickass co-workers at SE America for making this an amazing experience. Oh, and since you shouldn't be outside, please enjoy this out-of-home ad in Los Angeles.😊" ( Tweet ) . Retrieved May 6, 2020 &#8211; via Twitter .
+^ "It looks like this when reproducing the famous scene of FF7 remake with PC-88 real machine over 30 years ago" . GIGAZINE . June 30, 2020 . Retrieved November 27, 2021 .
+^ a b c Oloman, Jordan (February 26, 2021). "Final Fantasy 7 Remake Intergrade: Square Enix Clarifies Yuffie Episode Is PS5 Exclusive" . IGN . Archived from the original on March 3, 2021 . Retrieved March 12, 2021 .
+^ Ramsey, Robert (April 13, 2021). "Final Fantasy VII Remake Intergrade Yuffie DLC Officially Titled Episode INTERmission" . Push Square . Archived from the original on April 13, 2021 . Retrieved April 14, 2021 .
+^ McWhertor, Michael (December 10, 2021). "Final Fantasy 7 Remake coming to PC — with $69.99 console game pricing" . Polygon . Retrieved October 27, 2023 .
+^ Wes Fenlon (December 17, 2021). "Final Fantasy 7 Remake's PC port is a major disappointment" . PC Gamer . Archived from the original on January 7, 2022 . Retrieved December 20, 2021 .
+^ Bankhurst, Adam (November 1, 2021). "Final Fantasy 7 Remake On PC Has Some Major Problems" . IGN . Archived from the original on December 19, 2021 . Retrieved December 20, 2021 .
+^ McWhertor, Michael (June 16, 2022). "Final Fantasy 7 Remake Intergrade coming to Steam" . Polygon.com . Archived from the original on June 17, 2022 . Retrieved June 17, 2022 .
+^ "Square Enix Manga &amp; Books Licenses Final Fantasy VII Remake: Traces of Two Pasts Novel, YoRHa – Pearl Harbor Descent Record, More Manga" . Anime News Network . Archived from the original on March 24, 2022 . Retrieved February 21, 2023 .
+^ Zwiezen, Zack (June 16, 2022). " Final Fantasy VII Remake will be a trilogy" . Kotaku . Archived from the original on March 17, 2023 . Retrieved July 4, 2022 .
+^ Dinsdale, Ryan (September 13, 2022). "Crisis Core: Final Fantasy 7 Reunion Arrives This December" . IGN . Archived from the original on September 13, 2022 . Retrieved September 13, 2022 .
+^ Howard, Jessica (July 7, 2022). "Crisis Core: Final Fantasy 7 Reunion Team Discusses Changes Coming To Game And If Zack Or Cloud Is The Better Character" . GameSpot . Archived from the original on September 13, 2022 . Retrieved September 13, 2022 .
+^ Heaney, Duncan (December 8, 2022). "Theatrhythm Thursday: The Theatrhythm Final Bar Line track list" . Square Enix Blog . Square Enix North America. Archived from the original on February 21, 2023 . Retrieved February 21, 2023 .
+^ a b "Final Fantasy VII Remake for PlayStation 4 Reviews" . Metacritic . Archived from the original on March 1, 2020 . Retrieved April 6, 2020 .
+^ "Final Fantasy VII Remake Intergrade for PlayStation 5 Reviews" . Metacritic . Archived from the original on July 1, 2021 . Retrieved July 6, 2021 .
+^ "Final Fantasy VII Remake Intergrade for PC Reviews" . Metacritic . Archived from the original on February 13, 2023 . Retrieved February 15, 2023 .
+^ "Test: Final Fantasy 7 Remake (Rollenspiel)" . 4Players.de . April 6, 2020. Archived from the original on January 9, 2021 . Retrieved August 12, 2020 .
+^ a b c d Carter, Chris (April 6, 2020). "Review: Final Fantasy VII Remake" . Destructoid . Archived from the original on April 6, 2020 . Retrieved April 7, 2020 .
+^ a b Carter, Chris (June 9, 2021). "Review: Final Fantasy VII Remake Intergrade (INTERmission Yuffie DLC)" . Destructoid . Archived from the original on June 12, 2021 . Retrieved June 13, 2021 .
+^ a b c d Ellis, Bradley (April 6, 2020). "Review: Final Fantasy VII Remake" . Easy Allies . Archived from the original on September 2, 2017 . Retrieved April 7, 2020 .
+^ a b c d McCarter, Reid (April 6, 2020). "Final Fantasy VII Remake review" . EGM . Archived from the original on April 7, 2020 . Retrieved April 7, 2020 .
+^ a b c Wilson, Aoife (April 6, 2020). "Final Fantasy 7 Remake review - a faithful retread, with a few missteps along the way" . Eurogamer . Gamer Network . Archived from the original on April 9, 2020 . Retrieved April 8, 2020 .
+^ Romano, Sal (April 15, 2020). "Famitsu Review Scores: Issue 1637" . Gematsu . Archived from the original on April 16, 2020 . Retrieved April 16, 2020 .
+^ a b c d Juba, Joe (April 6, 2020). "Final Fantasy VII Remake Review – Old Friends And New Life" . Game Informer . Archived from the original on April 7, 2020 . Retrieved April 7, 2020 .
+^ Faulkner, Jason (April 6, 2020). "Final Fantasy VII Remake Review: Not a cloud in the sky" . Game Revolution . Archived from the original on April 8, 2020 . Retrieved April 7, 2020 .
+^ a b c d e Hussain, Tamoor (April 6, 2020). "Final Fantasy 7 Remake Review - Cruel One-Winged Angel's Thesis" . GameSpot . CBS Interactive . Archived from the original on April 7, 2020 . Retrieved April 6, 2020 .
+^ Hussain, Tamoor (June 9, 2021). "Final Fantasy 7 Remake Intergrade Review - Materia Improvements" . GameSpot . Archived from the original on June 14, 2021 . Retrieved June 13, 2021 .
+^ a b c Wald, Heather (April 6, 2020). "Final Fantasy 7 Remake review: "A loving reimagining of the original that delivers a new experience that's wholly its own" " . GamesRadar . Archived from the original on April 8, 2020 . Retrieved April 7, 2020 .
+^ "Review: Final Fantasy VII Remake" . Hardcore Gamer . April 10, 2020. Archived from the original on September 12, 2020 . Retrieved August 12, 2020 .
+^ Marks, Tom (April 6, 2020). "Final Fantasy 7 Remake Review" . IGN . Archived from the original on April 7, 2020 . Retrieved April 7, 2020 .
+^ Anagund (April 6, 2020). "Test du jeu Final Fantasy VII Remake sur PS4" . Jeuxvideo.com (in French). Webedia . Archived from the original on April 8, 2020 . Retrieved April 7, 2020 .
+^ L'avis de TheXsable (June 9, 2021). "Test FF7 Remake Intergrade: Plus beau que jamais sur PS5&#160;!" . Jeuxvideo.com . Archived from the original on June 13, 2021 . Retrieved June 13, 2021 .
+^ "Final Fantasy VII Remake". PlayStation Official Magazine – UK (175): 66. April 20, 2020.
+^ a b "Final Fantasy VII Remake Review (PS4)" . Push Square . Archived from the original on August 7, 2020 . Retrieved August 12, 2020 .
+^ a b c d Fuller, Alex (April 15, 2020). "Final Fantasy VII Remake Review" . RPGamer . Archived from the original on April 19, 2020 . Retrieved April 15, 2020 .
+^ a b Burke, Greg (April 6, 2020). "Final Fantasy 7 Remake review - Victory Fanfare" . Shacknews . Archived from the original on April 21, 2020 . Retrieved April 7, 2020 .
+^ Boxer, Steve (April 8, 2020). "Final Fantasy VII Remake review – a classic game reaches new heights" . The Guardian . Archived from the original on April 8, 2020 . Retrieved April 8, 2020 .
+^ Bailey, Kat (April 6, 2020). "Final Fantasy 7 Remake Review: A Classic's Long-Awaited Revival is Exhilarating, Tedious, and Shocking All at Once" . USgamer . Gamer Network . Archived from the original on April 9, 2020 . Retrieved April 7, 2020 .
+^ "Final Fantasy 7 Remake spoiler-free review – this game are sick" . VG247 . April 6, 2020. Archived from the original on August 17, 2020 . Retrieved August 12, 2020 .
+^ "Final Fantasy VII Remake review" . VideoGamer . Archived from the original on August 14, 2020 . Retrieved August 12, 2020 .
+^ a b c d e Marks, Tom (April 6, 2020). "Final Fantasy 7 Remake Review" . IGN . IGN. Archived from the original on April 6, 2020 . Retrieved April 6, 2020 .
+^ Bonfiglio, Nahila (April 17, 2020). "You should be using all this extra time to play 'Final Fantasy VII Remake' " . The Daily Dot . Archived from the original on April 21, 2020 . Retrieved April 18, 2020 .
+^ "Final Fantasy VII Remake rouses old, romantic feelings. But some of its changes will be divisive" . Washington Post . Archived from the original on April 15, 2020 . Retrieved March 12, 2023 .
+^ "There are four Sephiroths in Final Fantasy 7 Remake" . VG247 . April 29, 2020. Archived from the original on May 10, 2020 . Retrieved May 5, 2020 .
+^ "Review: FFVII Remake Intergrade Builds a Foundation" . Siliconera . June 21, 2021. Archived from the original on February 20, 2023 . Retrieved February 20, 2023 .
+^ "Final Fantasy 7 Remake Intergrade Review - Materia Improvements" . GameSpot . Archived from the original on June 14, 2021 . Retrieved February 20, 2023 .
+^ "Final Fantasy VII Remake Intergrade review — Echoes of the Past" . PC Invasion . December 16, 2021. Archived from the original on February 20, 2023 . Retrieved February 20, 2023 .
+^ Sheridan, Connor (April 21, 2020). "Final Fantasy 7 Remake launch numbers broke 3.5 million in first 3 days" . GamesRadar+ . Archived from the original on April 25, 2020 . Retrieved April 21, 2020 .
+^ Baird, Scott (April 21, 2020). "Final Fantasy 7 Remake Is The Fastest-Selling PS4 Exclusive" . Screen Rant . Archived from the original on January 9, 2021 . Retrieved April 22, 2020 .
+^ Amore, Samson (April 21, 2020). " "Final Fantasy VII Remake" Hits Record 3.5 Million Downloads in First 3 Days" . TheWrap . Archived from the original on January 9, 2021 . Retrieved April 21, 2020 .
+^ Yin-Poole, Wesley (August 7, 2020). "Final Fantasy 7 Remake hits 5m sold" . Eurogamer . Archived from the original on August 9, 2020 . Retrieved August 7, 2020 .
+^ Adam, Khayl (September 15, 2023). "Final Fantasy 7 Remake Crosses the 7 Million Copies Sold Mark" . Push Square . Retrieved September 15, 2023 .
+^ Romano, Sal (April 16, 2020). "Famitsu Sales: 4/6/20 – 4/12/20" . Gematsu. Archived from the original on April 16, 2020 . Retrieved April 16, 2020 .
+^ "『FF7 リメイク』発売3日で世界販売本数350万本突破!日本国内でも100万本以上を売り上げ" . Famitsu (in Japanese). April 21, 2020. Archived from the original on April 22, 2020 . Retrieved April 24, 2020 .
+^ Barton, Seth (April 20, 2020). "FF7 Remake well received in Japan despite lockdown – but Switch hardware sales plunge as supply tightens" . MCV/Develop . Archived from the original on January 9, 2021 . Retrieved April 21, 2020 .
+^ Bankhurst, Adam (May 22, 2020). "Final Fantasy 7 Remake Is April 2020's Best-Selling Game, Sets Franchise Record" . IGN . Ziff Davis . Archived from the original on May 22, 2020 . Retrieved May 24, 2020 .
+^ a b "Final Fantasy VII Remake Was the Most Downloaded US PlayStation Store Game in April" . Siilconera . May 7, 2020. Archived from the original on May 9, 2020 . Retrieved May 9, 2020 .
+^ "UK Charts: Final Fantasy 7 Remake is No.1 as boxed market grows again" . GamesIndustry.biz . April 12, 2020. Archived from the original on April 13, 2020 . Retrieved April 13, 2020 .
+^ Barker, Sammy (April 12, 2020). "Final Fantasy VII Remake Fares Admirably at UK Retail Amid Coronavirus Crisis" . Push Square . Gamer Network . Archived from the original on April 16, 2020 . Retrieved April 16, 2020 .
+^ "Glorreiche Rückkehr: game Sales Award für FINAL FANTASY VII Remake" (in German). game – Verband der deutschen Games-Branche. April 15, 2020. Archived from the original on April 21, 2020 . Retrieved April 18, 2020 .
+^ "Editors' Choice: Final Fantasy VII Remake is Worthy of its Name" . PlayStation . April 24, 2020. Archived from the original on April 25, 2020 . Retrieved April 25, 2020 .
+^ "IGN JAPAN ゲームオブザイヤー2020 今年のベストゲームTOP 10" . IGN . December 10, 2020. Archived from the original on December 10, 2020 . Retrieved December 10, 2020 .
+^ "Siliconera's PS4 Game of the Year 2020" . Siliconera . Archived from the original on December 30, 2020 . Retrieved January 3, 2020 .
+^ "LGBTQ+ Characters &amp; Video Games" . Anime News Network . Archived from the original on January 1, 2021 . Retrieved January 3, 2021 .
+^ "RPG Site Best of 2020 Awards - our picks for the best of the year" . RPG Site . December 30, 2020. Archived from the original on December 30, 2020 . Retrieved January 8, 2021 .
+^ "Final Fantasy 7 Remake Wins Best Of E3 - GS News Update" . GameSpot . Archived from the original on April 2, 2020 . Retrieved April 25, 2020 .
+^ "Final Fantasy VII Remake and Hideo Kojima Win at CEDEC Awards 2020" . Siliconera . September 3, 2020. Archived from the original on September 4, 2020 . Retrieved September 5, 2020 .
+^ Park, Gene (November 18, 2020). "Voting is live for the Golden Joystick Awards 2020 nominations" . GamesRadar+ . Archived from the original on October 1, 2020 . Retrieved November 18, 2020 .
+^ Jones, Ali (November 24, 2020). "The Last of Us 2 Wins Ultimate Game of the Year at the Golden Joystick Awards" . GamesRadar+ . Retrieved August 29, 2023 .
+^ Stedman, Alex (December 10, 2020). "The Game Awards 2020: Complete Winners List" . Variety . Retrieved January 4, 2024 .
+^ Craddock, Ryan (January 6, 2021). "Animal Crossing Nominated For New York Game Awards' GOTY, Will Be Co-Hosted By Reggie Fils-Aimé" . Nintendo Life . Gamer Network . Archived from the original on January 5, 2021 . Retrieved May 3, 2021 .
+^ "2021 BAFTA Games Awards: The Winners" . British Academy of Film and Television Arts . March 2021 . Retrieved July 8, 2023 .
+^ Rousseau, Jeffrey (April 22, 2021). "Hades wins Game of the Year at DICE Awards 2021" . GamesIndustry.biz . Archived from the original on April 22, 2021 . Retrieved April 22, 2021 .
+^ "Soundtrack Album of the Year" . The Japan Gold Disk Award. January 1, 2021. Archived from the original on April 17, 2021 . Retrieved April 5, 2021 .
+^ "Here are the nominees for the 21st annual Game Developers Choice Awards" . Game Developer . April 20, 2021 . Retrieved July 8, 2023 .
+^ a b Stenbuck, Kite (October 2, 2021). "Monster Hunter Rise, Ghost of Tsushima Share Japan Game Awards 2021 Grand Award" . Siliconera . Archived from the original on October 3, 2021 . Retrieved April 1, 2023 .
+^ Fragen, Jordan (January 3, 2023). "The Steam Awards 2022 announces winners" . VentureBeat . Archived from the original on January 1, 2024 . Retrieved January 1, 2024 .
+Further reading [ edit ]
+Final Fantasy VII Remake: World Preview . El Segundo, Calif.: Square Enix. 2020. ISBN &#160; 978-16-4609-084-6 .
+Final Fantasy VII Remake: Material Ultimania . El Segundo, Calif.: Square Enix. 2021. ISBN &#160; 978-16-4609-121-8 .
+Final Fantasy VII Remake: Material Ultimania Plus . El Segundo, Calif.: Square Enix. 2022. ISBN &#160; 9781646091768 . OCLC &#160; 1302986950 .
+External links [ edit ]
+.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}
+Wikiquote has quotations related to Final Fantasy VII Remake .
+Official website
+Intergrade website
+Final Fantasy VII Remake at IMDb
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em} v t e Games directed by Tetsuya Nomura Kingdom Hearts
+Kingdom Hearts
+Chain of Memories
+II
+Re:Chain of Memories
+Coded
+358/2 Days
+Birth by Sleep
+Re:coded
+3D: Dream Drop Distance
+HD 1.5 Remix
+χ
+HD 2.5 Remix
+Unchained χ
+HD 2.8 Final Chapter Prologue
+III
+Dark Road
+Melody of Memory
+Missing-Link
+IV
+Final Fantasy VII
+Remake
+The First Soldier
+Crisis Core: Reunion
+Ever Crisis
+Rebirth
+Other games
+Theatrhythm Final Bar Line
+Related
+Final Fantasy VII: Advent Children
+Final Fantasy XV
+Category
+v t e Final Fantasy VII and Compilation of Final Fantasy VII Video games Console
+Final Fantasy VII (1997)
+Dirge of Cerberus (2006)
+Crisis Core (2007)
+Remake (2020)
+Rebirth (2024)
+Mobile
+Before Crisis (2004)
+Snowboarding (2005)
+Dirge of Cerberus Lost Episode (2006)
+G-Bike (2014)
+The First Soldier (2021)
+Ever Crisis (2023)
+Films
+Advent Children
+Last Order
+Music
+Original
+Voices of the Lifestream
+Universe
+Characters
+Cloud Strife
+Barret Wallace
+Tifa Lockhart
+Aerith Gainsborough
+Yuffie Kisaragi
+Vincent Valentine
+Sephiroth
+Zack Fair
+Midgar
+Other
+Kingdom Hearts
+Super Smash Bros.
+for Nintendo 3DS and Wii U
+Ultimate
+Ehrgeiz
+PowerWash Simulator
+Unlicensed Famicom Demake
+v t e Final Fantasy by Square Enix (formerly Square ) Main games Final Fantasy Final Fantasy II Final Fantasy III Final Fantasy IV
+Music
+Stranger of Paradise
+Music
+Music
+Remake
+Characters
+Cecil
+Rydia
+Music
+Chronicles
+Remake
+The After Years
+Complete
+Final Fantasy V Final Fantasy VI Final Fantasy VII Final Fantasy VIII
+Faris Scherwiz
+Exdeath
+Music
+Characters
+Terra
+Celes
+Cyan
+Edgar and Sabin
+Gau
+Relm
+Setzer
+Shadow
+Strago
+Kefka
+Music
+Opera House
+Characters
+Cloud
+Barret
+Tifa
+Aerith
+Yuffie
+Vincent
+Sephiroth
+Zack
+Music
+Compilation
+Remake
+Rebirth
+Midgar
+Characters
+Squall
+Rinoa
+Selphie
+Edea
+Music
+Triple Triad
+Final Fantasy IX Final Fantasy X Final Fantasy XI Final Fantasy XII
+Characters
+Zidane
+Vivi
+Garnet
+Freya
+Quina
+Kuja
+Beatrix
+Music
+Characters
+Tidus
+Yuna
+Lulu
+Rikku
+Music
+X-2
+Music
+HD Remaster
+Spira
+Grandmasters
+Music
+Characters
+Vaan
+Fran
+Music
+Revenant Wings
+Ivalice
+Final Fantasy XIII Final Fantasy XIV Final Fantasy XV Final Fantasy XVI
+Characters
+Lightning
+Vanille
+Music
+XIII-2
+Music
+Lightning Returns
+Music
+Hildibrand
+Music
+Original version
+Heavensward
+Stormblood
+Shadowbringers
+Endwalker
+Characters
+Noctis
+Ignis
+Prompto
+Lunafreya
+Ardyn
+Cindy
+Development
+DLC
+Music
+Pocket Edition
+The Dawn of the Future
+Characters
+Dion Lesage
+Music
+Subseries
+Brave Exvius
+War of the Visions &#8202;
+Chocobo
+List of media
+Dimensions
+II &#8202;
+Crystal Chronicles
+Dissidia
+Fabula Nova Crystallis
+Ivalice
+Theatrhythm
+Curtain Call
+Final Bar Line &#8202;
+Other games
+Airborne Brigade
+All the Bravest
+Artniks
+Explorers
+Mario Hoops 3-on-3
+Mobius
+Mystic Quest
+Record Keeper
+Tactics
+The War of the Lions
+The 4 Heroes of Light
+Type-0
+HD &#8202;
+World of Final Fantasy
+Related series
+Bravely Default
+Itadaki Street
+Kingdom Hearts
+Mana
+SaGa
+Super Smash Bros.
+Films and animation
+Legend of the Crystals
+The Spirits Within
+Unlimited
+Advent Children
+Last Order
+Brotherhood
+Kingsglaive
+Final Fantasy XIV: Dad of Light
+Brave Father Online: Our Story of Final Fantasy XIV
+Related
+The Black Mages
+Final Fantasy Trading Card Game
+8-Bit Theater
+Final Fantasy VII NES demake
+Moguri Mod
+Category
+Media
+video games
+Recurring elements
+ATB
+Cactuar
+Chocobo
+Moogle
+Music
+concerts
+Wikimedia Commons has media related to Final Fantasy VII Remake .
+<!--
+NewPP limit report
+Parsed by mw‐web.codfw.main‐79fcff867d‐mmftc
+Cached time: 20240429182108
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 1.963 seconds
+Real time usage: 2.243 seconds
+Preprocessor visited node count: 14092/1000000
+Post‐expand include size: 521144/2097152 bytes
+Template argument size: 20147/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 748938/5000000 bytes
+Lua time usage: 1.225/10.000 seconds
+Lua memory usage: 18452066/52428800 bytes
+Lua Profile:
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction 320 ms 24.2%
+dataWrapper 220 ms 16.7%
+? 160 ms 12.1%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::match 120 ms 9.1%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::gsub 120 ms 9.1%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::find 40 ms 3.0%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getEntityStatements 40 ms 3.0%
+recursiveClone 40 ms 3.0%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::preprocess 40 ms 3.0%
+mw.executeFunction 20 ms 1.5%
+[others] 200 ms 15.2%
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1930.758 1 -total
+55.02% 1062.280 2 Template:Reflist
+35.00% 675.672 133 Template:Cite_web
+7.86% 151.851 2 Template:Short_description
+6.27% 120.991 1 Template:Infobox_video_game
+5.80% 111.995 21 Template:Cite_news
+5.69% 109.796 2 Template:Nihongo_foot
+5.02% 96.886 1 Template:Video_game_reviews
+4.46% 86.138 1 Template:Final_Fantasy_VII_chronology
+4.30% 83.069 15 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46994455-0!canonical and timestamp 20240429182108 and revision id 1221015400. Rendering was triggered because: page-view
+-->
+-->
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Final_Fantasy_VII_Remake&amp;oldid=1221015400 "
+Categories : 2020 video games Action role-playing video games Biopunk Climate change video games Cyberpunk video games Dystopian video games Eco-terrorism in fiction Environmental mass media Final Fantasy video games Final Fantasy VII The Game Awards winners Japan Game Award winners Japanese role-playing video games Neo-noir video games New York Game Award winners PlayStation 4 games PlayStation 4 Pro enhanced games PlayStation 5 games Role-playing video games Science fiction video games Single-player video games Video games about terrorism Unreal Engine games Video game remakes Video games developed in Japan Video games directed by Tetsuya Nomura Video games scored by Masashi Hamauzu Video games scored by Nobuo Uematsu Video games scored by Yasunori Nishiki Video games set on fictional planets Hidden categories: Articles containing Japanese-language text CS1 uses Japanese-language script (ja) CS1 Japanese-language sources (ja) Webarchive template wayback links CS1 French-language sources (fr) CS1 German-language sources (de) Articles with short description Short description is different from Wikidata Use American English from July 2020 All Wikipedia articles written in American English Use mdy dates from May 2021 Articles using Infobox video game using locally defined parameters Articles using Wikidata infoboxes with locally defined images Pages using multiple image with auto scaled images Articles using Video game reviews template in single platform mode Official website different in Wikidata and Wikipedia Commons category link from Wikidata
+This page was last edited on 27 April 2024, at 09:30 &#160;(UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0 ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-84db9bd6d8-ztzkt","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"1.963","walltime":"2.243","ppvisitednodes":{"value":14092,"limit":1000000},"postexpandincludesize":{"value":521144,"limit":2097152},"templateargumentsize":{"value":20147,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":748938,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1930.758 1 -total"," 55.02% 1062.280 2 Template:Reflist"," 35.00% 675.672 133 Template:Cite_web"," 7.86% 151.851 2 Template:Short_description"," 6.27% 120.991 1 Template:Infobox_video_game"," 5.80% 111.995 21 Template:Cite_news"," 5.69% 109.796 2 Template:Nihongo_foot"," 5.02% 96.886 1 Template:Video_game_reviews"," 4.46% 86.138 1 Template:Final_Fantasy_VII_chronology"," 4.30% 83.069 15 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"1.225","limit":"10.000"},"limitreport-memusage":{"value":18452066,"limit":52428800},"limitreport-profile":[["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::callParserFunction","320","24.2"],["dataWrapper \u003Cmw.lua:672\u003E","220","16.7"],["?","160","12.1"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::match","120","9.1"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::gsub","120","9.1"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::find","40","3.0"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::getEntityStatements","40","3.0"],["recursiveClone \u003CmwInit.lua:41\u003E","40","3.0"],["MediaWiki\\Extension\\Scribunto\\Engines\\LuaSandbox\\LuaSandboxCallback::preprocess","40","3.0"],["mw.executeFunction \u003Cmw.lua:507\u003E","20","1.5"],["[others]","200","15.2"]]},"cachereport":{"origin":"mw-web.codfw.main-79fcff867d-mmftc","timestamp":"20240429182108","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Final Fantasy VII Remake","url":"https:\/\/en.wikipedia.org\/wiki\/Final_Fantasy_VII_Remake","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20155152","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20155152","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-06-16T12:15:26Z","dateModified":"2024-04-27T09:30:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/ce\/FFVIIRemake.png","headline":"2020 action role-playing video game developed by Square Enix"}

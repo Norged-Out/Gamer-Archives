@@ -192,13 +192,10 @@ public class PseudoWatson {
                         //System.out.println("Incorrect!");
                         System.out.println("Query: " + qr.query);
                         System.out.println("Expected answer: " + qr.expectedAnswer);
+                        qr.topAnswer();
+                        System.out.println("----------------------------------");
                         incorrect++;
                     }
-                }
-                else{
-                    System.out.println("Got no answers");
-                    System.out.println("Query: " + qr.query);
-                    System.out.println("Expected answer: " + qr.expectedAnswer);
                 }
                 //queryResults.add(qr);
                 qr = null;

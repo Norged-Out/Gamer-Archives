@@ -1,0 +1,245 @@
+{{Short description|2018 video game}}
+{{pp|small=yes}}
+{{Good article}}
+{{Use mdy dates|date=June 2021||cs1-dates=ly}}
+{{Use American English|date=June 2021}}
+{{Infobox video game
+| image = Among Us cover art.jpg
+| alt = Cartoon astronauts in colored spacesuits floating through space. A bright light and many stars are visible behind them. In front of them are the words "Among Us", with the "A" replaced by an astronaut.
+| developer = Innersloth
+| publisher = Innersloth{{Efn|The console ports were published by PlayEveryWare, under the banner from Innersloth}}
+| released = {{Ubl|'''Android, iOS'''|June 15, 2018|'''Windows'''| November 16, 2018|'''Nintendo Switch'''|December 15, 2020|'''PS4, PS5, Xbox One, {{nowrap|Xbox Series X/S}}'''|December 14, 2021}}
+| platforms = {{Ubl|[[Android (operating system)|Android]]|[[iOS]]|[[Microsoft Windows]]|[[Nintendo Switch]]|[[PlayStation 4]]|[[PlayStation 5]]|[[Xbox One]]|[[Xbox Series X/S]]}}
+| modes = [[Multiplayer video game|Multiplayer]]
+| genre = {{hlist|[[Party video game|Party]]|[[Social deduction game|social deduction]]}}
+| programmer = Forest Willard{{Efn|name=fortebass|Better known as "ForteBass". }}
+| designer = Marcus Bromander{{Efn|name=puffballs|Better known as "PuffballsUnited". }}
+| composer = Marcus Bromander
+| artist = {{ubl|Marcus Bromander|Amy Liu}}
+| engine = [[Unity (game engine)|Unity]]
+| title = Among Us
+| caption = Cover art since June 15, 2021
+}}
+'''''Among Us''''' is a 2018 [[online multiplayer]] [[social deduction game]] developed and published by American game studio Innersloth. The game allows for [[cross-platform play]]; it was released on [[iOS]] and [[Android (operating system)|Android]] devices in June 2018 and on [[Windows]] later that year in November. It was ported to the [[Nintendo Switch]] in December 2020 and on the [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]] and [[Xbox Series X/S]] in December 2021. A virtual reality adaptation, ''[[Among Us VR]]'', was released on November 10, 2022.
+''Among Us'' takes place in [[Science fiction|space-themed]] settings where players are colorful, armless cartoon astronauts. Each player takes on one of two roles: most are Crewmates, but a small number are [[Impostor]]s. Crewmates work to complete assigned tasks in the game while identifying and voting out suspected Impostors (who appear identical to Crewmates) using social deduction, while Impostors have the objective of killing the Crewmates. The game was inspired by the party game [[Mafia (party game)|Mafia]] and the [[Science fiction film|science fiction]] [[Horror film|horror]] film ''[[The Thing (1982 film)|The Thing]]''.
+While the game was initially released in 2018 to little mainstream attention, it received a massive rise in popularity in 2020 due to many [[Twitch (service)|Twitch]] [[Online streamer|streamers]] and [[YouTuber]]s playing it during the [[COVID-19 pandemic]]. It received favorable reviews from critics for fun and entertaining gameplay. The game and its stylized characters have been the subject of various [[internet meme]]s.
+== Gameplay ==
+[[File:AmongUsWhiteKillBlue.png|thumb|left|alt=A white-suited astronaut named "Buddy" (the player) stands in front of an unnamed blue-suited corpse. The room they are in is labeled "Admin". In the hallway, slightly obscured by the sight line mechanic, is a pink-suited astronaut named "Chum". In the upper-left corner of the player's screen, there is a fake list of tasks as well as the player's goal: to kill all Crewmates. The player also has the option to Use, Report, Sabotage, and Kill. As the player has just killed, the button is on cooldown and faded.|In this gameplay screenshot of the original map, The Skeld, the white Impostor has killed the blue Crewmate. White's vision of the pink player has been partially obscured by the wall. Any player, including the killer, can report the dead body and trigger a meeting.{{Efn|In this image, white does not have a red name because the screenshot is from the Among Us trailer, made before Impostors had red names.}}]]
+''Among Us'' is a [[Multiplayer video game|multiplayer game]] for four to fifteen players. Up to three players are randomly and secretly chosen to be the Impostors each round. As of 2023, five playable [[Level (video games)|maps]] are available: a spaceship called "The Skeld", an office building called "MIRA HQ", a planet base called "Polus", and the Fungle, a mushroom jungle map. The Crewmates can win the game one of two ways: either by completing all assigned tasks or by ejecting all Impostors. Impostors can likewise win in two ways: either by killing or ejecting all Crewmates,{{Efn|The game automatically declares a victory in favor of the Impostors if the number of Crewmates is reduced to be equal to the number of Impostors; as this would cause the Impostors to always hold a plurality vote during an emergency meeting, making it impossible for Crewmates to vote out Impostors.}} or by sabotaging a critical system on the map (provided the Crewmates do not resolve it in time).{{Efn|Games can also end by players quitting the match if doing so fulfills any win condition. If a Crewmate quits the game, their tasks are automatically considered completed.}} and a vitals indicator in Polus that shows the living status of all players.
+Any living player may call a group meeting by reporting a dead body, or by pressing an Emergency Meeting button.{{Efn|During critical sabotages, emergency meetings cannot be called by button, but dead bodies can still be reported.}} During meetings, players discuss—via the [[Online chat|in-game text chat]] or an external [[Voice chat in online gaming|voice chat]] application such as [[Discord]] —who they believe to be Impostors based on available [[Eyewitness testimony|witness testimonies]], with Impostors lying to hide their identity or falsely accusing other players. Impostors can be identified beyond [[reasonable doubt]] if they are seen venting or killing a Crewmate, but ultimately players must weigh the veracity or value of each other's statements. Players then vote for who they believe is an Impostor; if a [[Plurality voting|plurality vote]] is obtained, the player who received the most votes is "ejected" from the game. Players who are killed or ejected become ghosts, which can still perform tasks (Crewmates) or sabotages (Impostors) but are otherwise unable to be seen by or interact with living players. Effectively, spectators and ghosts may see and pass through walls, follow players or other ghosts, and chat with other ghosts.
+A November 2021 update added additional specialized roles to the game: Crewmates can also be Engineers, Scientists, as well as normal crewmates. When a crewmates dies, they can be a guardian angel. The guardian angel role is not given at the beginning of the game. Engineers can traverse vents like Impostors, albeit to a limited capacity. On the other hand, impostors can stay in the vent as long as they want. Scientists can check vitals at any time to see if any player has been killed this round. Ghosts of Crewmates can become Guardian Angels, which can temporarily protect living players from being killed. Impostors likewise can be Shapeshifters, allowing them to temporarily morph into other players and assume their color and appearance. However, they might leave evidence behind depending on the game settings.
+An alternative "Hide and Seek" game mode was added in December 2022. There are no meetings or ejections, and a single Impostor (whose identity is known to the Crewmates) attempts to kill all Crewmates within a fixed countdown timer. Crewmates must hide or flee from the Impostor and can complete tasks to roll down the timer, as well as enter vents for a brief time to hide from the Impostor. Impostors cannot sabotage or vent in this mode. Crewmates are also given a display showing their proximity to the Impostor as well as the number of remaining Crewmates. Near the end of the game, they get the "seek" button allowing them to see where crewmates are.
+Before each game, various options can be adjusted to customize aspects of gameplay, such as player movement speed, the allowed number of emergency meetings, number of tasks and visual tasks, Players may modify their own appearances with [[Cosmetic (video gaming)|cosmetics]], including [[Skin (video gaming)|skins]], hats, visors, and pets, some of which are purchasable as [[microtransaction]]s.
+==Development and release==
+===Early development===
+{{Video game timeline
+|2018a=iOS/Android
+|2018b=Windows
+|2019a="MIRA HQ"
+|2019b="Polus"
+|2020=[[Nintendo Switch]]
+|2021a="The Airship"
+|2021b={{ubl|[[PlayStation 4]], [[PlayStation 5]],|[[Xbox One]] and [[Xbox Series X/S]]}}
+|2022={{ubl|''[[Among Us VR]]''|Hide-and-seek mode}}
+|2023="The Fungle"}}
+''Among Us'' was inspired by the live [[party game]] [[Mafia (party game)|''Mafia'']], The idea for the concept was originally given by Marcus Bromander, co-founder of Innersloth, who had played ''Mafia'' since he was a kid. In the original game, function cards were dealt and players wandered around a house, aimlessly, while another person secretly killed the players, drawing a finger around their neck. Most of its mechanics were still present in ''Among Us'', but the team wanted to "alleviate the need to create an interesting home model and have someone wandering around in a boring environment". So, they decided that the game would be space-themed and also added tasks, which, according to Forest Willard, programmer at Innersloth, "changed several times during development".
+Development began in November 2017. The game was initially intended to be a mobile-only [[local multiplayer]] game with a single map. Bromander paused development on Innersloth's other game, ''The Henry Stickmin Collection'', in order to build ''Among Us''{{'}} first map, The Skeld. When they began developing the first map, they intended that the ship was always in crisis and that the Impostors could do tasks. However, they found this setup "stressful" and decided that it "[would not leave] much time for detective work and informed meeting conversations". Willard described [[playtest]]ing as painful and frustrating, as the game would break down during sessions forcing him to send playtesters new builds off of [[Google Play]]. The team tested the game with 8 of their friends and never tested the game with 9 or the maximum of 10 players. The game was developed using the [[Unity (game engine)|Unity]] engine.
+The game was released in June 2018 to [[Android (operating system)|Android]] and [[iOS]] under the AppID "spacemafia". Originally, the game had no audio to avoid revealing hidden information in a local setting,{{Efn|For example, the sound of an Impostor killing a Crewmate could reveal to other Crewmates who the Impostor was.|name=|group=}} and Willard mixed sounds from numerous sound packs to compose the SFX during the game's Steam release.
+On August 8, 2019, Innersloth released a second map, MIRA HQ, The fourth map, the Airship, was released on March 31, 2021, and is based on a location in the ''Henry Stickmin'' universe. While the map packs are still available for purchase on all platforms, they now only provide the player the skins that were bundled with the maps. According to programmer Forest Willard, the team "stuck with [the game] a lot longer than we probably should have from a pure business standpoint", putting out regular updates to the game as often as once per week. This led to a steady increase in players, causing the game's player base to [[Snowball effect|snowball]]. Bromander attributed this to the studio having enough savings to keep working on the game even while it was not selling particularly well.
+===Canceled sequel and ongoing updates===
+In August 2020, the team shifted focus onto a sequel, ''Among Us 2''.{{Efn|When discussing its planned sequel, the game was given the [[retronym]] of "''Among Us'' 1" by the game's developers as well as several news outlets.|name=|group=}} * {{Cite web |last=Brian |first=Renadette |date=August 19, 2020 |title=Among Us 2 Announced Following First Game's Huge Surge In Popularity |url=https://gamerant.com/among-us-2-trailer/ |url-status=live |archive-url=https://web.archive.org/web/20200909025037/https://gamerant.com/among-us-2-trailer/ |archive-date=September 9, 2020 |access-date=September 8, 2020 |website=[[Game Rant]] |language=en-US}}
+* {{Cite web |author= |date=August 18, 2020 |title=Among Us 2 |url=https://innersloth.itch.io/among-us/devlog/171026/among-us-2 |url-status=dead |archive-url=https://web.archive.org/web/20200921123307/https://innersloth.itch.io/among-us/devlog/171026/among-us-2 |archive-date=September 21, 2020 |access-date=September 9, 2020 |website=Innersloth |language=en |via=[[Itch.io]]}}
+* {{Cite web |last=Perrault |first=Patrick |date=August 18, 2020 |title=Among Us 2 Announced |url=https://techraptor.net/gaming/news/among-us-2-announced |url-status=live |archive-url=https://web.archive.org/web/20200909025029/https://techraptor.net/gaming/news/among-us-2-announced |archive-date=September 9, 2020 |access-date=September 8, 2020 |website=TechRaptor |language=en}} During this time, Forest Willard and Amy Liu continued to update ''Among Us'', increasing the maximum player base, adding four servers and three regions, and implementing longer multiplayer codes to support more concurrent games. On September 23, 2020, the team announced that they abandoned development of the sequel in favor of reworking the original game's codebase, which they described as "outdated and not built to support adding so much new content", so the team made plans to rework the game's core code to enable adding new features. The team subsequently announced their plans to fix the game's server issues and widespread [[Cheating in online games|cheating]] problem,
+* {{Cite web|last=Grayson|first=Nathan|date=October 2, 2020|title=Among Us Has A Cheating Problem|url=https://kotaku.com/among-us-has-a-cheating-problem-1845256959|url-status=live|archive-url=https://web.archive.org/web/20201003212735/https://kotaku.com/among-us-has-a-cheating-problem-1845256959|archive-date=October 3, 2020|access-date=October 4, 2020|website=[[Kotaku]]|language=en-us}}
+* {{Cite web|last=Marshall|first=Cass|date=October 8, 2020|title=Among Us with randoms is rough|url=https://www.polygon.com/2020/10/8/21499102/amoung-us-playing-game-popularity-random-public-lobbies|url-status=live|archive-url=https://web.archive.org/web/20201009025656/https://www.polygon.com/2020/10/8/21499102/amoung-us-playing-game-popularity-random-public-lobbies|archive-date=October 9, 2020|access-date=October 9, 2020|website=[[Polygon (website)|Polygon]]|language=en}}
+* {{Cite magazine|last=Wilde|first=Tyler|date=October 5, 2020|title=Of course there are already Among Us cheaters|url=https://www.pcgamer.com/of-course-there-are-already-among-us-cheaters/|url-status=live|archive-url=https://web.archive.org/web/20201009115036/https://www.pcgamer.com/of-course-there-are-already-among-us-cheaters/|archive-date=October 9, 2020|access-date=October 9, 2020|magazine=[[PC Gamer]]|language=en-US}} as well as add a system for banning disruptive players. In October 2020, [[Color blindness|colorblind]] support for the "wires" task was added to the ''Among Us'' [[Beta development stage|beta]] on Steam, as well as some previously unannounced lobby customization options.
+In mid-February 2021, the game added a feature called Quickchat, which replaces the standard chat interface with a series of preset phrases that players must pick from. Players under the age of 13 are required to use Quickchat, but those over 13 are also allowed to use Free Chat, which allows them to type text messages. First announced at [[The Game Awards 2020]], the Airship map was released on March 31, 2021. In addition, Game Awards presenter [[Geoff Keighley]]'s face was added as a skin. The map itself is based upon the ''Henry Stickmin'' series' Toppat Clan Airship. Innersloth also stated that the map would be free to all players. It also features a skin bundle that includes ''Henry Stickmin''-themed cosmetic that can be bought on Steam.
+The accounts system was implemented along with the update, and it allows players to report players that are not following Innersloth's Code of Conduct in order to make the game a welcoming and respectful place. Punishment includes temporary to permanent bans. They also stated that reports would be viewed manually and not by bots, that account creations would be required if players want to use Free Chat or to customize their nicknames, and that people under the age of 13 would need their parents' permission to create an account. Implementing an account system also allowed Innersloth to add account linking and a friending system in future updates. Innersloth later revealed on the game's official Twitter account a new color to the game, Rose, which was included in the game's next update along with five other colors: Coral, Tan, Gray, Maroon, and Banana, which were revealed during [[Summer Game Fest]] on June 10, 2021, alongside other upcoming content, including a fifth map, new Hide & Seek game mode, and new roles. The new colors, along with 15 player lobby support, new meeting screen and revamp at the game's design, was released on June 15, 2021, during the game's third anniversary.
+On July 7, 2021, Innersloth released a minor update that adds a new task, "Clean Vent", which involves the Crewmate cleaning a specific vent, preventing Impostors (and as of the November 9 update, Engineers) from using it, as well as some icon changes. On November 9, 2021, a major update was released that introduced four new roles (Shapeshifter, Engineer, Scientist, and Guardian Angel), achievements, a level system, controller support, custom keybinds, visor cosmetics, cosmetic bundles called "Cosmicubes", various in-game currencies, and a major revamp to the in-game store, which also reveals the names of the costumes. On March 31, 2022, a friending system was added, which allows players to see who they recently played with, send and receive friend requests, send and receive lobby invites, as well as the ability to block people. On June 21, 2022, the game was patched to include colorblind text. At [[The Game Awards 2022]] on December 8, 2022, it was announced that the Hide & Seek mode would be released the following day.
+During a [[Nintendo Direct]] on September 14, 2023, the fifth map, "The Fungle", was announced. It was released on October 24, 2023.
+=== Console releases ===
+Amid its popularity, Innersloth considered releasing the game to [[PlayStation 4]] and [[Xbox One]] consoles, but encountered a problem in implementing player communication, since standard text-based or voice-based chat seemed unusable. They considered a system similar to the "quick comms" system from ''[[Rocket League]]'', as well as the possibility of developing an entirely new communication system for the game.
+''Among Us'' was released for the [[Nintendo Switch]] on December 15, 2020, the same day it was announced during an [[Indie World]] showcase. The Switch version supports cross-platform play with the mobile and Windows versions. This port was published by PlayEveryWare. Upon release, the Switch version had an [[Video game exploit|exploit]] to access ''The Airship'' prior to its official release in early 2021. The exploit was fixed two days after release in the Switch version's first update.
+''Among Us'' was released digitally for PlayStation 4, [[PlayStation 5]], Xbox One, and [[Xbox Series X/S]] consoles on December 14, 2021, along with its release on the [[Xbox Game Pass]] for console. These versions support cross-platform play with existing Windows, Switch, and mobile versions. Unique to the PlayStation ports are special customization options based on ''[[Ratchet & Clank]]''. Physical releases for consoles were available in Europe the same day, while North American physical releases were released in January 2022.
+===''Among Us VR''===
+{{main|Among Us VR}}
+During [[The Game Awards 2021]], a standalone VR version titled ''Among Us VR'' was announced. Co-developed by [[Schell Games]], Innersloth, and Robot Teddy, the game was released on November 10, 2022, for the [[Meta Quest 2]] and Windows via [[Steam (service)|Steam]], with a PlayStation 5 version via [[PlayStation VR2]] planned for the future.
+''Among Us VR'' features similar gameplay to the original game, but is played from a first-person perspective. Several of the original game's tasks were recreated, alongside new ones. At the time of release, the only level in the game is The Skeld 2; further content updates are planned, though no details have been announced.
+{{clear}}
+==Popularity==
+===2020 spike===
+[[File:Sodacrop.png|thumb|right|[[Sodapoppin]], a [[Streamer (video gaming)|streamer]], is credited with popularizing ''Among Us'' on the live-streaming platform [[Twitch (service)|Twitch]].|alt=Sodapoppin in a purple Twitch hoodie]]
+While ''Among Us'' was released in 2018, it was not until mid-2020 that it saw a surge of popularity, initially driven by content creators online in South Korea and Brazil. Bromander stated that the game is more popular in Mexico, Brazil, and South Korea than in the United States.
+The [[COVID-19 pandemic]] was frequently cited as a reason for the popularity of ''Among Us'', as it allowed for socializing despite [[Social distancing measures related to the COVID-19 pandemic|social distancing]].
+[[File:Pyrkon 2022 - Among Us cosplay.jpg|thumb|A [[cosplay]] of Crewmate (left)]]
+Emma Kent of ''[[Eurogamer]]'' believed that the release of Innersloth's ''The Henry Stickmin Collection'' also contributed to awareness of ''Among Us'',
+The game's popularity continued into the following months. [[YouTube]] reported that videos about ''Among Us'' were viewed 4&nbsp;billion times in September 2020, and [[TikTok]] videos related to ''Among Us'' had over 13&nbsp;billion views in October 2020. YouTuber CG5 wrote a song based on the game in September 2020, titled "Show Yourself", and gained over 60 million views in four months.{{efn|The song's popularity led to 2 sequels, Lyin' To Me and Good To Be Alive, released in November 2020 and February 2021, respectively.}} In September 2020, the game exceeded 100 million downloads and its player count rose to 1.5&nbsp;million concurrent players
+* {{Cite magazine|last=Macgregor|first=Jody|date=September 9, 2020|title=Multiplayer space mystery Among Us hits 1.5 million simultaneous players|url=https://www.pcgamer.com/multiplayer-space-mystery-among-us-hits-15-million-simultaneous-players/|url-status=live|magazine=[[PC Gamer]]|language=en-US|archive-url=https://web.archive.org/web/20200921123259/https://www.pcgamer.com/multiplayer-space-mystery-among-us-hits-15-million-simultaneous-players/|archive-date=September 21, 2020|access-date=September 12, 2020|ref=none}}
+* {{Cite news|last=O'Connor|first=Alice|date=September 8, 2020|title=Among Us had 1.5 million people playing at the same time this weekend|language=en-US|website=[[Rock Paper Shotgun]]|url=https://www.rockpapershotgun.com/2020/09/08/among-us-had-1-5-million-people-playing-at-the-same-time-this-weekend/|url-status=live|access-date=September 12, 2020|archive-url=https://web.archive.org/web/20200909025017/https://www.rockpapershotgun.com/2020/09/08/among-us-had-1-5-million-people-playing-at-the-same-time-this-weekend/|archive-date=September 9, 2020|ref=none}}
+* {{Cite web|last=Bailey|first=Dustin|date=September 7, 2020|title=Among Us reaches 1.5 million concurrent players|url=https://www.pcgamesn.com/among-us/player-count|url-status=live|archive-url=https://web.archive.org/web/20200909025026/https://www.pcgamesn.com/among-us/player-count|archive-date=September 9, 2020|access-date=September 8, 2020|website=[[PCGamesN]]|language=en-GB|ref=none}}
+* {{Cite web|last=Zheng|first=Jenny|date=September 18, 2020|title=Among Us Is Really, Really Popular Right Now|url=https://www.gamespot.com/articles/among-us-is-really-really-popular-right-now/1100-6482376/|url-status=live|archive-url=https://web.archive.org/web/20200921123301/https://www.gamespot.com/articles/among-us-is-really-really-popular-right-now/1100-6482376/|archive-date=September 21, 2020|access-date=September 19, 2020|website=[[GameSpot]]|language=en-US|ref=none}} (nearly 400 thousand of which were on Steam), The sudden increase in players overloaded the game's server, which according to Willard was "a totally free [[Amazon (company)|Amazon]] server, and it was terrible." This forced him to work quickly, under [[Crunch time (video gaming)|crunch time]], to resolve these issues.
+===Memes and mods===
+[[File:TST East Waterfront Podium Garden trash bin.JPG|thumb|Many [[internet memes]] about ''Among Us'' reference Crewmate's superficial resemblance to unrelated daily objects, such as this trash can, or a fingernail.]]
+In August 2020, Innersloth opened an online store for ''Among Us'' themed merchandise. which had been used before the game's release. Other slang terms as well as internet memes popularized and inspired by ''Among Us'' include "[[wikt:sussy|sussy]]" and "sussy [[Baka (Japanese word)|baka]]" (derived from "sus"), "when the imposter is sus" (a meme based on ''Among Us'', usually alongside an edited photo of [[Jerma985]]), and "[[wikt:amogus|amogus]]" (a [[satiric misspelling]] of "''Among Us''").{{efn|The "amogus" strain of internet memes draws its origin from the initial amogus meme of a ''[[StoneToss]]'' cartoon combined with an ''Among Us'' character.}} In addition, the meme "''Among Us'' everywhere" is a phenomenon where unexpected objects resemble the Crewmate character. In September 2022, "sus" was added to [[Merriam-Webster]]'s dictionary.
+During its time of widespread popularity, ''Among Us'' was controversially played by the U.S. Navy Esports team, in which players on the stream used in-game names referencing the slur ''[[nigger]]'' ("Gamer Word") and the [[Atomic bombings of Hiroshima and Nagasaki|bombing of Nagasaki]] ("Japan 1945" and "Nagasaki"). The stream was deemed "offensive" and "intolerable" by some viewers.
+* {{Cite web |last=Lemon |first=Jacon |date=September 13, 2020 |title=US Navy's Twitch account criticized for streaming games with offensive player names |url=https://www.newsweek.com/us-navys-twitch-account-criticized-streaming-games-offensive-player-names-1531578 |url-status=live |archive-url=https://web.archive.org/web/20200921123308/https://www.newsweek.com/us-navys-twitch-account-criticized-streaming-games-offensive-player-names-1531578 |archive-date=September 21, 2020 |access-date=September 15, 2020 |website=[[Newsweek]] |language=en |ref=none}}
+* {{Cite web |last=Gault |first=Matthew |date=September 14, 2020 |title=A U.S. Navy Twitch Stream Included Jokes About Nagasaki and the N-Word |url=https://www.vice.com/en_us/article/7kp3db/a-us-navy-twitch-stream-included-jokes-about-nagasaki-and-the-n-word |url-status=live |archive-url=https://web.archive.org/web/20200921123259/https://www.vice.com/en_us/article/7kp3db/a-us-navy-twitch-stream-included-jokes-about-nagasaki-and-the-n-word |archive-date=September 21, 2020 |access-date=September 15, 2020 |website=[[Vice Media|Vice]] |language=en |ref=none}}
+* {{Cite news |last=Marchetto |first=Claudia |date=September 14, 2020 |title=Among Us: la Marina americana lo gioca su Twitch usando nickname razzisti ed è bufera |url=https://www.eurogamer.it/articles/2020-09-14-news-videogiochi-among-us-giocato-twitch-marina-militare-usa-nickname-razzisti |url-status=live |archive-url=https://web.archive.org/web/20200921123341/https://www.eurogamer.it/articles/2020-09-14-news-videogiochi-among-us-giocato-twitch-marina-militare-usa-nickname-razzisti |archive-date=September 21, 2020 |access-date=September 15, 2020 |website=[[Eurogamer|Eurogamer.it]] |language=it |ref=none}} The sailor responsible for the stream was later kicked off the team. In October 2020, U.S. Representatives [[Alexandria Ocasio-Cortez]] and [[Ilhan Omar]] streamed the game alongside several other prominent streamers such as [[Pokimane]] and [[Hasan Piker]] as a way to encourage people to vote in the [[2020 United States presidential election]], drawing almost 700,000 concurrent viewers on Twitch.
+The game received several mods made by the community, which added roles, game modes, cosmetics, etc. ''Among Us'' was featured in [[Twitch Rivals|Twitch Rivals 2020]], an online gaming tournament which was held on December 4, 2020. During the event, players were able to receive an exclusive pet called "Glitch Pet", which is the Twitch logo.
+==== Chicken nugget auction ====
+{{see also|Unusual eBay listings#Food and drink}}
+In May 2021, an [[eBay]] user named Tav listed a [[Chicken McNuggets|Chicken McNugget]] from the 2021 [[BTS Meal]] by [[McDonald's]] for [[online auction]]. The nugget was listed because the seller felt it resembled a Crewmate, and was inspired by a 2017 auction for a [[Cheetos|Cheeto]] that looked similar to the gorilla [[Harambe]], which sold for {{Usd|99,900|link=yes}}. Despite Tav only expecting the nugget to sell for around {{Usd|50|link=}}, a [[bidding war]] began two days later, and the nugget was sold to an anonymous buyer for {{Usd|99,997}}. Tav decided to include [[Szechuan sauce (McDonald's)|Szechuan sauce]] after a comment on social media from [[Xbox]]. and following the sale, multiple other listings selling nuggets of a similar shape were made in hopes of profiting from the popularity of the original listing. Several [[TikTok]]ers and [[QAnon]]-adjacent [[Conspiracy theory|conspiracy theorists]] promoted misinformation and rumors claiming that the high price of the listing was a front for [[child sex trafficking]]. That October, Chilean chicken brand Super Pollo partnered with Innersloth to launch a Crewmate-shaped chicken nugget into the Earth's [[thermosphere]].
+===October 2020 and January 2021 hacks===
+In mid-October 2020, a hacker known as "Eris Loris" began targeting mainly North American servers. Several players on the ''Among Us'' [[Reddit#Subreddits|subreddit]] and [[Twitter]] reported this player hacking their lobbies and [[spamming]] in-game chat with promotions for his YouTube channel, links to his Discord server, and controversial political messages. Eris Loris threatened to personally hack players that refused to subscribe to his YouTube channel. The Discord server has been found to contain large amounts of offensive content, such as racist language, gore, pornography, and images depicting [[Cruelty to animals|animal abuse]].
+A ''[[Eurogamer]]'' report from October 23, 2020, features an interview with a person claiming to be Eris Loris, conducted via the Discord server from one of the links provided in the hacked games. In the interview, Loris claims he created the bot responsible for the hacks "in only six hours", and had enlisted up to 50 volunteers to form a [[botnet]] which boosted the strength of their attacks. Loris claimed that the hack impacted 4.9&nbsp;million players in 1.5&nbsp;million games. He added that the hacks were part of a publicity stunt to influence players to vote for [[Donald Trump]] in the [[2020 United States presidential election]].
+Innersloth added an in-game message warning players about the hacks on October 22, The team plans to address the hacking vulnerabilities as part of a planned overhaul for the game.
+==Reception==
+{{Video game reviews
+| qid = none
+| MC = PC: 85/100 [[Nintendo Switch|Switch]]: 79/100
+| 4P = 68/100
+| GI = 8/10
+| JXV = 14/20
+| IGN = 9/10
+| NLife = 8/10
+| PCM = 4/5 (iOS)
+| PSQ = 7/10
+}}
+''Among Us'' was well received by critics. On the aggregator website [[Metacritic]], the PC port received a 85 of 100 score based on 9 critic reviews, while the [[Nintendo Switch]] version received a 79 of 100 score based on 9 critic reviews, both them indicating "generally favorable reviews". Since December 2020, ''[[IGN]]'' considered it one of 2020's best reviewed games so far.
+Elliott Osange of ''Bonus Stage'' considered that the game is "silly fun", but felt that is more fun "to be an Impostor". Craig Pearson of ''[[Rock, Paper, Shotgun]]'' had the same opinion, found playing as an Impostor "a lot more fun" than playing as a Crewmate, which he called "exhausting". Andrew Penney of ''TheGamer'' said the game was "worth it for the price" and that "who you play with dictates how fun the game is." L'avis de Tiraxa of ''[[Jeuxvideo.com]]'' praised the game's Freeplay mode, which offers newer players "to browse the map alone to accommodate the places", as they would need to play several games in order to "perfect their strategies".
+Leana Hafer from ''[[IGN]]'' stated in her verdict on the game: "I don't have any sus that this will be the last game of its breed to make a splash, since we're already seeing its influence on even mega-games like Fortnite". As a negative point, she pointed out some technical problems, such as the difficulty of finding rooms that aren't already full or are a long way from getting there. She also lamented the lack of "mechanic to punish players who rage-quit when they don't get to play as impostor, or are caught dead to rights in the middle of a murder". Tiraxa of ''[[Jeuxvideo.com]]'' was more critical of the game, lamenting the lack of an inbuilt voice chat, server bugs which "[prevent] some from joining the party, in a totally unexplained way", public servers with strangers, which she considered "less entertaining" than private servers with friends, and the large development progress, stating that the game has a "bit of a way to go before it reaches its full potential". The mobile version of the game, although being free-to-play, was criticized. Osange of ''Bonus Stage'' called the presence of ads and in-app purchases of cosmetic changes that are mostly available for free on the PC version "nonsense". He also called the PC version "stable" but also stated that the Android version is "a device-by-device situation".
+The Nintendo Switch version received some criticism. William Antonelli of ''[[Insider Inc.|Insider]]'' said that the Switch controls give "many tasks a satisfying game response". However, he also stated that most of the tasks could be "done quickly with the Switch's touchscreen control", which can only be used when the console is in handheld mode. He noted that many of the game's tasks are difficult to complete using a gamepad, which is required when the console is connected to a larger screen, and considered this version "inferior" to the PC and mobile versions. He also stated that the communication system is "frustrating", as using the joystick to select letters is "slow", and said the fact that the game has support for multiplayer across multiple platforms gives Switch players "immediate disadvantage". PJ O'Reilly of ''Nintendo Life'' noted that the Switch lacked much of the additional content available on other platforms, such as skins, which he called a "shame".
+''Among Us'' has been frequently compared to ''[[Fall Guys]]'', as both became popular as party games during the COVID-19 pandemic; Comparisons have also been drawn between the two games' [[Avatar (computing)|avatars]], which have been said to look like [[jelly bean]]s. ''Among Us'' has also been compared to [[The Thing (1982 film)|''The Thing'']], ''[[Town of Salem]]'', ''Werewolves Within'', and ''[[Secret Hitler]]''.
+=== Sales ===
+{{As of|2020|9}}, [[Steam Spy]] estimated that the game had more than {{nowrap|10 million}} owners on [[Steam (service)|Steam]]. The [[Associated Press]] noted the game was the most downloaded app on the [[App Store (iOS)|iOS App Store]] for both [[iPhone]]s and [[iPad]]s in October 2020. According to [[SuperData Research]], the game had roughly {{nowrap|500 million}} players worldwide {{as of|2020|11|lc=y}}, with the [[free-to-play]] mobile version accounting for 97% of players and the [[buy-to-play]] PC version accounting for 3% of players, though it was the buy-to-play PC version that generated 64% of the game's gross revenue. ''Among Us'' became one of the best selling games of 2020 on Steam, being listed on the platinum category on "The Year's Top 100" list. The [[Nintendo Switch]] version's launch sold {{nowrap|3.2 million}} digital units in December 2020, making it the highest-earning version of the game for the month and one of the [[List of best-selling Nintendo Switch video games|best-selling games on the Nintendo Switch]].
+''Among Us'' was offered as a free game on the [[Epic Games Store]] during one week in May 2021. Its average daily player count jumped from around 350,000 players in the weeks before to over 2 million players during the giveaway. On June 29, 2021, Innersloth reported on [[Twitter]] that during the game's free promotion on Epic Games Store, at least 15 million copies were claimed.
+===Awards===
+{| class="wikitable plainrowheaders sortable" width="auto"
+|-
+! scope="col"| Award
+! scope="col"| Date of ceremony
+! scope="col"| Category
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Abbr|Ref.|References}}
+|-
+|[[Golden Joystick Awards#2020|Golden Joystick Awards 2020]]
+|November 24, 2020
+|Breakthrough Award
+|{{won}}
+|style="text-align:center;"|
+|-
+| rowspan="2" scope="row" |[[The Game Awards 2020]]
+|rowspan=2|December 10, 2020
+|Best Mobile Game
+|{{won}}
+|rowspan="2" style="text-align:center;"|
+|-
+| Best Multiplayer Game
+|{{won}}
+|-
+|[[Steam Awards#2020|Steam Awards 2020]]
+|January 3, 2021
+|Labor of Love Award
+|{{nominated}}
+|style="text-align:center;"|
+|-
+|[[2021 Kids' Choice Awards|Nickelodeon Kids' Choice Awards]]
+|March 13, 2021
+|[[Kids' Choice Award for Favorite Video Game|Favorite Video Game]]
+|{{won}}
+|style="text-align:center"|
+|-
+|[[Webby Awards]]
+|May 18, 2021
+|Breakout of the Year
+|{{won}}
+|style="text-align:center;"|
+|-
+|Mobile Games Awards
+|July 20, 2021
+|Best Indie Developer
+|{{won}}
+|style="text-align:center;"|
+|-
+|[[International Game Developers Association]]
+|August 27, 2021
+|Community Management
+|{{won}}
+|style="text-align:center;"|
+|-
+|App Store Awards
+|December 2, 2021
+|Connections
+|{{won}}
+|style="text-align:center;"|
+|-
+|[[British Academy Games Awards]]
+|April 7, 2022
+|Evolving Game
+|{{nominated}}
+|style="text-align:center;"|
+|}
+==Legacy==
+''Among Us'' has done collaborations and cross-overs with other games and studios. The first game they collaborated with was ''[[Fall Guys]]'', who added ''Among Us''-themed skins to their game. Characters from ''Among Us'' have made cameos in the indie games ''[[Astroneer]]'', ''[[Space Warlord Organ Trading Simulator]]'', ''[[Cosmonious High]]'', ''[[Samurai Gunn|Samurai Gunn 2]],'' and ''[[Fraymakers]]'', and ''Among Us'' is referenced in several stickers in the game ''[[A Hat in Time]]''. In a major update in collaboration with ''Innersloth'', indie developer ''Triband'' added characters and 35 ''Among Us''-themed levels to the game ''[[What the Golf|What The Golf?]]'' Several ''Among Us''-themed cards are included in ''[[The Binding of Isaac: Four Souls#Requiem Expansion|The Binding of Isaac: Four Souls Requiem]]''.
+Themed skins and cosmetics from other games and properties have been added to ''Among Us'' as well: ''Innersloth'' and ''[[Riot Games]]'' crossed-over to bring ''[[Arcane (TV series)|Arcane]]'' themed cosmetics to ''Among Us''. In addition to that, Innersloth has done crossovers with ''[[Halo (franchise)|Halo]]'', ''[[Ratchet & Clank]]'', and the movie franchise ''[[Scream (franchise)|Scream]]''. Cosmetics themed after [[Benoit Blanc]] from ''[[Glass Onion: A Knives Out Mystery]]'', were made available with the Hide 'N Seek update on December 9, 2022. Cosmetics and pets themed after the game ''[[Destiny 2]]'' were added to coincide with Destiny's ''Lightfall'' expansion on February 28, 2023.
+Outside of the game itself Innersloth has collaborated with ''[[BT21]]'', and ''Among Us''-themed posters were used to advertise the movie ''[[Free Guy]]''. The "ejected" animation was referenced in the season 2 trailer for the animated series ''[[Snoopy in Space]]'', and the Emergency Meeting screen was used in ''[[In Space with Markiplier]]''. In the manga series ''[[Komi Can't Communicate]]'', one chapter is dedicated to the game, and sees the characters dressed up as Crewmates. Among Us was also featured as a question on ''[[Jeopardy!]]'' ''Among Us'' is seen being played by characters in the 2022 film ''[[Glass Onion: A Knives Out Mystery]].''
+[[Epic Games]] featured a community-created game mode in ''[[Fortnite]] [[Fortnite Creative|Creative]]'' in December 2020 called "The Spy Within", which had very similar mechanics to ''Among Us'', in which among ten players, the others have to complete tasks to earn enough coins within a limited time while trying to deduce which two players are trying to sabotage that effort. Epic later added another (official and internally-developed) limited mode to ''Fortnite'' called "Impostors" in August 2021, which was recognized as even a closer take on ''Among Us'', as the same basic mechanics as "The Spy Within" were used, but now taking place within an underground bunker with a layout similar to the ''Among Us'' map. Innersloth responded in frustration to this mode, which gave no credit to Innersloth. Innersloth's co-founder Marcus Bromander stated "Is it really that hard to put 10% more effort into putting your own spin on it though?", while studio representative Callum Underwood said that Innersloth was open to collaborations, "Just ask and if you follow some basic rules it's usually fine". In an October 2021 blog posting, Epic Games did credit Innersloth and ''Among Us'' as inspirations for the "Impostors" mode. On June 17, 2022, both Epic and Innersloth announced a collab between ''[[Fortnite]]'' and ''Among Us'', with a "back bling" of a Crewmate in interchangeable colors and the "Distraction Dance" from Innersloth's ''Henry Stickmin'' franchise available in the ''Fortnite'' item shop. An ''Among Us''-themed downloadable content expansion for ''[[Vampire Survivors]]'', titled "Emergency Meeting", was released on December 18, 2023.
+===Artificial intelligence research===
+A simplified variation of ''Among Us'' called ''Hidden Agenda'' is used in the field of [[multi-agent reinforcement learning]] to show that [[artificial intelligence]] agents are able to learn a variety of social behaviors, including partnering and voting without need for communication in natural language.
+== Adaptations ==
+On December 28, 2021, H2 Interactive, who publishes ''Among Us'' in Japan, announced that a [[One-shot (comics)|one-shot]] [[manga]] based on the game would be published in ''[[CoroCoro Comic|Bessatsu CoroCoro]]''{{'}}s April issue on February 28, 2022.
+On June 27, 2023, it was confirmed that an animated series based on ''Among Us'' is being worked on by [[CBS Studios]], from ''[[Infinity Train]]'' creator Owen Dennis. On March 15, 2024, it was announced that American actors [[Randall Park]], [[Yvette Nicole Brown]], [[Elijah Wood]], and [[Ashley Johnson (actress)|Ashley Johnson]] would provide voice roles for the series. On March 27, 2024, it was announced that [[Dan Stevens]], [[Liv Hewson]] and [[Kimiko Glenn]] would join the cast. On April 4, 2024, it was announced that [[Debra Wilson]], [[Patton Oswalt]], [[Phil LaMarr]] and [[Wayne Knight]] would join the cast.
+==See also==
+* [[Impact of the COVID-19 pandemic on the video game industry]]
+==Notes==
+{{Notelist}}
+==References==
+{{Reflist|refs=
+* {{Cite news|date=September 24, 2020|title=The game that's so popular, it can't have a sequel|language=en-GB|work=[[BBC News]]|url=https://www.bbc.com/news/newsbeat-54277123|access-date=September 24, 2020|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924152951/https://www.bbc.com/news/newsbeat-54277123|url-status=live |ref=none}}
+* {{Cite web|last=Oloman|first=Jordan|title=Among Us 2 Cancelled, New Content Headed to Among Us 1|url=https://www.ign.com/articles/among-us-2-cancelled-among-us-1-updates|language=en|access-date=September 24, 2020|date=September 24, 2020|website=[[IGN]]|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924135125/https://www.ign.com/articles/among-us-2-cancelled-among-us-1-updates|url-status=live |ref=none}}
+* {{Cite web|last=Carpenter|first=Nicole|date=September 24, 2020|title=Among Us 2 canceled — but don't worry|url=https://www.polygon.com/2020/9/24/21454185/among-us-2-canceled-innersloth-game|access-date=September 24, 2020|website=[[Polygon (website)|Polygon]]|language=en|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924153209/https://www.polygon.com/2020/9/24/21454185/among-us-2-canceled-innersloth-game|url-status=live |ref=none}}
+* {{Cite web|last=Plunkett|first=Luke|date=September 23, 2020|title=Among Us 2 Cancelled One Month After It Was Announced|url=https://kotaku.com/among-us-2-cancelled-one-month-after-it-was-announced-1845160536|url-status=live|archive-url=https://web.archive.org/web/20200923234103/https://kotaku.com/among-us-2-cancelled-one-month-after-it-was-announced-1845160536|archive-date=September 23, 2020|access-date=September 24, 2020|website=[[Kotaku]]|language=en-us |ref=none}}
+* {{Cite magazine|last=Prescott|first=Shaun|date=September 23, 2020|title=Among Us 2 cancelled in favour of ongoing work on the current game|url=https://www.pcgamer.com/among-us-2-cancelled-in-favour-of-ongoing-work-on-the-current-game/|access-date=September 24, 2020|magazine=[[PC Gamer]]|language=en-US|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924125705/https://www.pcgamer.com/among-us-2-cancelled-in-favour-of-ongoing-work-on-the-current-game/|url-status=live |ref=none}}
+* {{Cite web|last=Peters|first=Jay|date=September 23, 2020|title=Among Us is so popular that its developers just canceled the sequel|url=https://www.theverge.com/2020/9/23/21453499/among-us-2-sequel-popular-canceled-developers-innersloth|access-date=September 24, 2020|website=[[The Verge]]|language=en|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924030235/https://www.theverge.com/2020/9/23/21453499/among-us-2-sequel-popular-canceled-developers-innersloth|url-status=live |ref=none}}
+* {{Cite web|last=Rothery|first=Jen|date=August 26, 2020|title=The best games like Among Us: seven of the top social deduction and imposter games|url=https://www.pcgamesn.com/social-deduction-games-like-among-us|url-status=live|archive-url=https://web.archive.org/web/20200921123303/https://www.pcgamesn.com/social-deduction-games-like-among-us|archive-date=September 21, 2020|access-date=September 14, 2020|website=[[PCGamesN]]|language=en-GB |ref=none}}
+* {{cite web|last1=Marshall|first1=Cass|date=September 22, 2020|title=Among Us is much better without 'confirm eject'|url=https://www.polygon.com/2020/9/22/21450928/among-us-confirm-eject-setting-best-experience|url-status=live|archive-url=https://web.archive.org/web/20200924153020/https://www.polygon.com/2020/9/22/21450928/among-us-confirm-eject-setting-best-experience|archive-date=September 24, 2020|access-date=September 22, 2020|website=[[Polygon (website)|Polygon]] |ref=none}}
+}}
+==External links==
+* {{Official website}}
+{{Nickelodeon Kids' Choice Award for Favorite Video Game}}
+{{Portal bar|Anime and manga|Internet|Science fiction|Video games}}
+{{Sister bar|auto=yes}}
+{{Authority control}}
+[[Category:Among Us| ]]
+[[Category:2018 video games]]
+[[Category:2020 in Internet culture]]
+[[Category:2020s fads and trends]]
+[[Category:Android (operating system) games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:IOS games]]
+[[Category:Impact of the COVID-19 pandemic on the video game industry]]
+[[Category:Indie games]]
+[[Category:Internet memes introduced in 2020]]
+[[Category:Manga based on video games]]
+[[Category:Multiplayer online games]]
+[[Category:Nintendo Switch games]]
+[[Category:Party video games]]
+[[Category:PlayEveryWare games]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation 5 games]]
+[[Category:Science fiction video games]]
+[[Category:Social deduction video games]]
+[[Category:Strategy video games]]
+[[Category:Survival video games]]
+[[Category:The Game Awards winners]]
+[[Category:Video games about extraterrestrial life]]
+[[Category:Video games about shapeshifting]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in outer space]]
+[[Category:Video games set on fictional planets]]
+[[Category:Video games with cross-platform play]]
+[[Category:Video games with customizable avatars]]
+[[Category:Webby Award winners]]
+[[Category:Windows games]]
+[[Category:Xbox One games]]
+[[Category:Xbox Series X and Series S games]]

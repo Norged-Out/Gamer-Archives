@@ -1,0 +1,132 @@
+{{Short description|2009 video game}}
+{{Use mdy dates|date=February 2016}}
+{{Infobox video game
+| title = Prototype
+| image = PROTOTYPE.png
+| developer = [[Radical Entertainment]]
+| publisher = [[Activision]]
+| director = Lindsey Williamson-Christy
+| producer = Tim Bennison
+| designer = [[Eric Holmes (video game designer)|Eric Holmes]]
+| programmer = Neall Verheyde
+| artist = {{Unbulleted list|Martin Bae|Maurice Kimball|Chris Hassell}}
+| writer = {{Unbulleted list|[[Dennis Detwiller]]|[[Paul Jenkins (writer)|Paul Jenkins]]}}
+| composer = {{Unbulleted list|[[Cris Velasco]]|[[Sascha Dikiciyan]]}}
+| series =
+| platforms = {{Unbulleted list|[[Microsoft Windows]]|[[PlayStation 3]]|[[Xbox 360]]|[[PlayStation 4]]|[[Xbox One]]}}
+| released = '''Microsoft Windows''', '''PlayStation 3''', '''Xbox 360'''{{Video game release|NA|June 9, 2009|AU|June 10, 2009|EU|June 12, 2009}}'''PlayStation 4'''{{Video game release|NA|August 11, 2015|PAL|August 19, 2015}}'''Xbox One'''{{Video game release|WW|August 12, 2015}}
+| genre = [[Action-adventure game|Action-adventure]]
+| modes = [[Single-player video game|Single-player]]
+| caption = Cover art depicting protagonist Alex Mercer
+}}
+'''''Prototype''''' (stylized as '''''[PROTOTYPE]''''') is a 2009 [[Action-adventure game|action-adventure]] [[video game]] developed by [[Radical Entertainment]] and published by [[Activision]]. It was released in June 2009 for the [[PlayStation 3]], [[Xbox 360]], and [[Microsoft Windows]]. In July 2015, the game was re-released alongside its sequel as the ''Prototype Biohazard Bundle'' for the [[PlayStation 4]] and [[Xbox One]]. Separate versions of the two games became available in August 2015. In ''Prototype'', players control an amnesiac [[shapeshifting|shapeshifter]] named Alex Mercer as he attempts to stop an outbreak of a virus called Blacklight in [[Manhattan]], which mutates individuals into powerful, violent monsters. Alex also attempts to uncover his mysterious past while coming into conflict with both the US military and a [[black operation]]s force called Blackwatch. Outside of the main story, players can freely explore the game's [[open world]] and engage in several different side activities.
+The game was well received by critics following its release, gaining praise for its originality, storytelling, and engaging gameplay, while being criticized for its control scheme and scenery. Several reviewers compared and contrasted it with ''[[Infamous (video game)|Infamous]]'', a game released about a month prior which had many elements similar to ''Prototype''. It was also a commercial success, selling 2.1 million copies by March 2012. A tie-in [[comic book]] [[Miniseries (comics)|miniseries]], which serves as a prequel to the events of the game, was published by [[DC Comics]]. A sequel, ''[[Prototype 2]]'', was released in April 2012.
+== Gameplay ==
+''Prototype'' is an [[Action-adventure game|action-adventure]] game played from a [[Third-person (video games)|third-person perspective]] and set in an [[open world]] based on modern-day [[Manhattan]]. The game's setting remains mostly faithful to the real city and includes all of its famous landmarks, including the [[Empire State Building]], the [[Chrysler Building]], [[40 Wall Street]], [[28 Liberty Street]], the [[Conde Nast Building]], the [[Metlife Building]], [[One New York Plaza]], and the [[New York Life Building]], among others.
+The player character, Alex Mercer, has the ability to [[Shapeshifting|shapeshift]], allowing him to change his body to resemble anyone. His powers also play into the game's combat system, as Alex can "consume" others to regain health, absorbing their biomass entirely. This also allows him to take on the forms of the human enemies he absorbs, thereby allowing the player to move about the enemy as one of them. The disguise will only last as long as Alex remains inconspicuous. Alex also possesses superhuman strength, and will kill most humans with a single punch. He can perform various [[melee]] attacks without shapeshifting, as well as more gymnastic moves such as air combos, sliding along the ground using any humanoid enemy's body, and a high-speed rolling cannonball attack.
+Alex can also transform parts of his body into a selection of martial implements acquired over the course of the game, either as purchased upgrades or being given them. Offensive powers include the large and powerful Blade arm, fast razor-sharp Claws (which can also erupt large spikes from the ground), the telescoping Whipfist, Musclemass that augments his strength, and the slow but powerful Hammerfists. Defensive options consist of a large shield on Alex's left arm for blocking ballistic attacks that needs to regenerate after excessive damage, and full body armor that exchanges agility and speed for toughness in hand-to-hand combat; both will allow Alex to plow through most obstacles when active. Vision modes include [[thermography|thermal]] vision, which allows Alex to see enemies through smoke and other obstacles at the expense of a decreased vision range, and Infected vision, which highlights those infected with the Blacklight virus as well as military units. Both vision modes muffle all of Alex's other senses, such as hearing, in order to concentrate on his sight. One defensive and offensive power may be active at a time, and using either will negate Alex's current disguise. In addition to his own abilities, Alex can take the weapons from defeated or absorbed enemies. These include automatic rifles, machine guns, grenade launchers and missile launchers. He can also seize control of military vehicles, such as tanks and helicopters.
+Alex's most powerful attacks are the Devastators, which require Alex to be in Critical Mass- either a state of near-death or the exact opposite, having excess stored biomass and increased health. These include the Tendril Barrage, which fires impaling tendrils from his body in all directions, the Groundspike Graveyard, which erupts massive spikes from the ground all around Alex, and the Critical Pain, which fires a single beam of hardened biomass from his hands to severely damage a single target.
+For movement around the city, Alex uses his increased physical abilities. When sprinting, he will automatically hop over cars, barriers and other obstacles without losing momentum. Alex will also scale any wall he comes into contact with and simply knock aside any humanoids that get in his way without stopping. He can jump great heights and distances, enough to clear five-story buildings, and can sprint at extreme speed indefinitely. Falls cause no damage to the player even from the greatest heights. Even small jumps are enough for Alex to dent the ground beneath him, and falls from sufficient heights will create shockwaves at the point of impact which will kill most humans nearby and send objects as large as cars flying. Falling height also factors into several of Alex's melee attacks.
+Enemies in the game consist of the Infected and the Military. The Infected consist of ordinary civilians infected with the Blacklight virus that are generally not a threat to Alex. However, the Hunters, huge creatures created from Infected water towers, are one of the main enemies in the game. Evolved Hunters referred to as Leaders are one of the most powerful creatures in the game and are incredibly hard for Alex to kill. The Military consist of ordinary soldiers which are usually not a threat to Alex, although they are capable of operating weaponry that is extremely dangerous to Alex, such as tanks and heavily armed helicopters. The Military also consists of Blackwatch, an agency dedicated to combating biological and nuclear warfare. Blackwatch is one of the intricate parts of the game's story and create some of the most deadly biological weaponry to combat Alex, including viral detectors capable of detecting Alex even in his disguise, and, introduced later in the game, the deadly poison Bloodtox, capable of slowly killing Alex and the Infected. Introduced later in the game are heavily armored and durable soldiers referred to as Super Soldiers, capable of fighting against Alex and some of the strongest Infected.
+In order to gain more advanced upgrades, Alex is capable of sneaking into Military Bases using a disguise and stealthily consume various officials within the base. He can also set off an alert within the base, in which the only way to escape is to slaughter whoever is in the base. Alex can also gain upgrades from the Infected by collecting genetic data. Infected Hives, like Military Bases, are located all over the city, and produce genetic data constantly. Alex can destroy the Infected Hives or simply absorb the data on the outside as it is being produced. At the start of the game, only small factions of the Infected and Military are present in the city. However, as the game progresses, the Military and the Infected begin to expand. Territory in the city is made out of three distinct zones. Blue Zones are in Military control and are relatively clean of the Infection. Red Zones thrive with the Infection, although there still remains a strong Military presence. In some areas of the city, a Blue Zone and a Red Zone might converge, creating a new and distinct Purple Zone. In these Zones, the Military and the Infected are in a constant battle for control. How the player decides to act in these Zones determine which faction seizes the territory.
+== Synopsis ==
+=== Characters ===
+The game's protagonist is Alexander J. "Alex" Mercer (voiced by [[Barry Pepper]]), a [[Shapeshifting|shapeshifter]] suffering from amnesia, causing him to forget his previous life, including how he obtained his powers. As he attempts to uncover his past and stop an outbreak of a virus called Blacklight, which has overrun Manhattan, Alex comes into conflict with two factions: the [[United States Marine Corps]] and Blackwatch, a [[Fort Detrick]] [[special forces]] unit dedicated to combating [[biological warfare]]; and the Infected, people infected by the Blacklight virus, which turns them into violent monsters. The main antagonist is Robert Cross ([[Jeffrey Pierce|Jeff Pierce]]), also known by his codename, "The Specialist", a Blackwatch officer tasked with containing Alex.
+Supporting characters include Alex's sister Dana Mercer ([[Lake Bell]]); Dr. Bradley Ragland ([[Phil LaMarr]]), who helps Alex throughout the game; Alex's ex-girlfriend Karen Parker ([[Vanessa Marshall]]); Dr. Raymond McMullen ([[Paul Guilfoyle]]), founder and head researcher of bio-research company Gentek; General Peter Randall ([[Gordon Clapp]]), the head of Blackwatch; Randall's second-in-command, Ian Taggart ([[Richard McGonagle]]); and Elizabeth Greene ([[Kari Wahlgren]]), also known as "The Mother", a former test subject that hosts the Blacklight virus. [[Brian Bloom]] has a minor role as a Blackwatch commander whose appearance Alex assumes at one point. Additional characters are voiced by [[Dave Fennoy]], [[Dave Wittenberg]], [[David Andriole]], [[David Lodge (voice actor)|David Lodge]], and Diane Hsu.
+=== Plot ===
+Alex Mercer wakes up in a [[morgue]] in the basement of Gentek, a [[genetic engineering]] company based in Manhattan, scaring away a pair of scientists that were about to perform an autopsy. Alex escapes and witnesses the scientists being gunned down by military operatives. Alex is discovered and attacked. He survives bullets being fired into his chest, and leaps over a wall to safety. He soon discovers he now possesses powerful abilities, including [[shapeshifting]], superhuman strength, speed, agility, durability, senses, endurance, weaponry and the ability to "consume" people to gain their memories, skills and appearance. With no memory of his previous life, Alex decides to find and consume those related to the conspiracy in order to uncover the truth, quickly bringing him into conflict with the US Military and Blackwatch, a [[Black operation|black ops]] unit trying to contain the Blacklight virus which is overrunning Manhattan.
+Alex makes contact with his sister, Dana, who assists him in tracking down targets, leading to the infiltration of Gentek headquarters, where Alex encounters a young woman called Elizabeth Greene who is contained in the building. Greene is a host for Blacklight, and upon her escape, she unleashes it upon Manhattan. Dana directs Alex to Karen Parker, his ex-girlfriend, who agrees to aid him in stopping the Blacklight outbreak, asking him to bring her samples of the virus. However, Karen later leads Alex into a trap, where he is confronted by Blacklight commander Robert Cross. During their battle, Alex almost defeats Cross, until Cross mentions 'Penn Station', triggering a flashback that leaves Alex dazed. Alex is injected with a parasite that threatens to kill him. Alex seeks help from Dr. Bradely Ragland, a [[Pathology|pathologist]] linked to Gentek. Ragland helps Alex remove the parasite and turn it into a weapon against Greene. However, when Alex tries using it on her, Greene's body rejects the parasite, which then transforms into a monstrous being: the Supreme Hunter. Alex defeats the Supreme Hunter, and later finds and kills Karen as revenge for setting him up.
+The origins of the virus and Elizabeth Greene are uncovered through a contact: in 1969 the government tested the virus' predecessor in [[Hope, Idaho]], designed to target predetermined [[Race (biology)|races]]. Although the entire town was infected, no ill effects manifested until Greene's infection. An [[Congenital disorder#Primarily structural|anomaly]] in her body's biology accepted the virus, rewriting her genetic code and causing her to take control of the infected town, becoming hostile in the process. The entire population of Hope, Idaho was liquidated by Blackwatch with only Greene and her son, codenamed "Pariah", surviving. Although kept separate, the two were held in captivity for further research. With samples taken from Greene's blood, Gentek's team led by Alex synthesized the current strain of Blacklight virus.
+Alex also discovers his own past: Blackwatch shut down the Gentek project due to [[News leak|leaks]] and ordered all project personnel eliminated. However, Alex disobeyed the order and took a sample of Blacklight as "insurance". Eventually pinned down by Blackwatch in [[Pennsylvania Station (New York City)|Penn Station]], Alex, in a final act of desperation and vengeance, shattered the vial containing the Blacklight, releasing the virus before being gunned down. The virus entered Alex's bloodstream through the bullet holes and repaired his body at the cellular level, giving him his powers in the process.
+The contact and Alex pump a new "Bloodtox" [[biological agent]] underground in order to drive the virus above ground where it can be fought directly, causing Greene to emerge, encased in a towering monstrosity. Greene falls from the monster in human form once she is defeated, and is consumed by Alex. Through her memories, it becomes apparent that General Randall, head of Blackwatch, is prepared to destroy Manhattan with a [[nuclear weapon]]. Alex, with the help of the contact - revealed to be Cross - infiltrates the [[USS Ronald Reagan (CVN-76)|USS Ronald Reagan]] to stop Randall. Once Alex consumes Randall, Cross is revealed to be the Supreme Hunter, who assumed Cross' identity after consuming him, and attacks Alex, asserting that when Blackwatch leaves NYZ (New York Zero, the name given to the city after the outbreak) they will no longer be searching for infected, and that after he consumes Alex, he will be strong enough to survive the nuclear detonation. Alex defeats the Supreme Hunter and moves the weapon out into the [[Atlantic Ocean]] with a helicopter, where it detonates and catches him in the blast. His remains float back to the city and regenerate after consuming a crow.
+During the credits, it is revealed that the public considers the military to have been the one who stopped the infection. A US Senator is heard telling the media that the events in Manhattan were a case of nuclear and biological terrorism, and promises retribution upon those responsible. Alex, reflecting on the recent events and the truth he uncovered about himself, claims he has "become something less than human, but also something more". After the credits, Manhattan is shown to be slowly recovering, with the virus close to being eradicated. Alex, standing on top of the [[Reuters Building]] in [[Times Square]], comments that his work is almost done.
+== Development and release ==
+The game was announced by [[Vivendi Games]] subsidiary [[Sierra Entertainment]] on August 10, 2007, revealing it would release for the [[Xbox 360]] and [[PlayStation 3]] in the summer of 2008. The company revealed more information about the title over the upcoming months, including support for [[THX]]'s neural 7.1 surround sound, being the first video game to support it, and the reveal of the voice cast in February. On April 8, 2008, Sierra announced the opening of the game's official website . On May 5, 2008, Sierra and Radical announced that the game would be pushed back to 2009.
+On July 28, 2008, after the merger of [[Activision]] and Vivendi Games to form [[Activision Blizzard]], the company announced that they would only publish five Sierra titles, with ''Prototype'' being one of the five titles retained alongside fellow Radical Entertainment title ''[[Crash: Mind Over Mutant]]''. On August 14, 2008, Radical laid off some of their staff, which led to a fear that the game would be delayed again.
+A [[Wii]] version was rumored to be in development, leading Activision to announce in May 2009 that no Wii version of the game was in development.
+On April 8, 2009, Activision announced they would release the game on June 5 in Europe, and on June 9 in North America. However, the game's European release was later delayed to June 12.
+=== Comic book ===
+On April 15, 2008, Sierra announced that a six-issue comic book miniseries would be released by [[DC Comics]] under their [[Wildstorm]] imprint. The comic book miniseries functions as a prequel to the game, revealing more details about the Blacklight outbreak and characters such as Elizabeth Greene.
+== Reception ==
+{{Video game reviews
+| PC = true
+| PS3 = true
+| X360 = true
+| na = true
+| Destruct_X360 = 7.5/10
+| EuroG_X360 = 7/10
+| GI_PS3 = 7.25/10
+| GI_X360 = 7.25/10
+| GamePro_PS3 = {{Rating|4.5|5}}
+| GamePro_X360 = {{Rating|4.5|5}}
+| GameRev_PS3 = C+
+| GameRev_X360 = C+
+| GSpot_PC = 8.5/10
+| GSpot_PS3 = 8.5/10
+| GSpot_X360 = 8.5/10
+| GSpy_PC = {{Rating|3|5}}
+| GSpy_PS3 = {{Rating|3|5}}
+| GSpy_X360 = {{Rating|3|5}}
+| GT_X360 = 8.6/10
+| GameZone_PC = 9/10
+| GameZone_PS3 = 9.4/10
+| GameZone_X360 = 7.8/10
+| GB_PS3 = {{Rating|4|5}}
+| GB_X360 = {{Rating|4|5}}
+| IGN_PC = 7.5/10
+| IGN_PS3 = (AU) 8.5/10 (US) 7.5/10
+| IGN_X360 = (AU) 8.5/10 (US) 7.5/10
+| OXM_X360 = 8.5/10
+| PCGUK_PC = 86%
+| PSM_PS3 = {{Rating|4|5}}
+| rev1 = ''[[The A.V. Club]]''
+| rev1_X360 = A−
+| rev2 = ''[[The Daily Telegraph]]''
+| rev2_X360 = 8/10
+| MC_PC = 79/100
+| MC_PS3 = 79/100
+| MC_X360 = 78/100
+}}
+The game received "generally favorable reviews" on all platforms according to the [[Review aggregator|review aggregation]] website [[Metacritic]]. The Xbox 360 version of ''Prototype'' was the top selling game of June 2009 in North America, with over 419,900 units sold. This made the game a [[Platinum Hits|Platinum Hit]]. As of March 2012, the game had sold 2.1 million copies worldwide.
+''[[GameSpot]]'' praised the game for its "intriguing storyline and protagonist" and "massive arsenal of moves and abilities", but criticized it for its "occasionally fiddly controls" and "dull scenery". ''[[The A.V. Club]]'' gave the same console version an "A−" ranking, calling the movement style "exhilarating" and saying it was a "mature, science-fiction superhero fantasy that somehow makes players feel simultaneously powerful and vulnerable." ''[[The Daily Telegraph]]'' gave it a similar score of eight out of ten and said it "offers an action-filled experience that few games can match, and the array of attacks on offer is almost unparalleled in both its variety and its easy accessibility. The pure adrenaline-boosting entertainment value of the finished product is enough to push most visual and gameplay niggles far enough into the background so as to eradicate them as concerns in all but the most snobbish of gamers." However, ''[[Teletext Ltd.|Teletext GameCentral]]'' gave it five out of ten, concluding, "The initial feelings of power and freedom hide another badly designed and unimaginative superhero sim." Though never received official copy in Japan, Famitsu praise the gameplay and visual effects.
+''Prototype'' was released two weeks after [[Sucker Punch Productions]]' ''[[Infamous (video game)|Infamous]]'', a game with many similar concepts including a character with superpowers, and a large open world environment that can be traveled by climbing up buildings and gliding about the city. This led many game critics to compare and contrast the games. In his ''[[Zero Punctuation]]'' review of ''Prototype'', Ben "Yahtzee" Croshaw compared the two games point for point, and determined that he could not tell which was the better game - ''Prototype'' won on open world gameplay and combat, while ''Infamous'' won on story and side missions. To decide which one was better, he jokingly stated that he'd award the best game to the team which created the best picture of the other main character wearing "a woman's bra". To his surprise, both development teams rose to the challenge, producing said images, and forcing Croshaw to call it a near-tie, edging out in favor of ''Infamous'', though he still noted that, like their games, both images created independently were nearly equal in the themes that they included. A review on ''GameSpot.com'' says: "[Mercer is an] incredibly fun character to play as in a game that also counts an intriguing story, varied missions, and some memorable boss battles among its features."
+During the [[13th Annual Interactive Achievement Awards]], the [[Academy of Interactive Arts & Sciences]] nominated ''Prototype'' for "[[D.I.C.E. Award for Action Game of the Year|Action Game of the Year]]".
+{{clear}}
+== Sequel ==
+{{Main|Prototype 2}}
+A sequel, titled ''[[Prototype 2]]'', was released in April 2012 for the PlayStation 3 and Xbox 360, and in July 2012 for Windows. The game follows a new protagonist, former [[United States Marine Corps|U.S. Marine]] Sergeant James Heller, as he pursues vengeance on Alex Mercer, who serves as the main antagonist.
+{{clear}}
+== References ==
+{{Reflist|30em}}
+== External links ==
+* {{moby game|id=/prototype__}}
+* {{IMDb title|1233574}}
+{{Radical Entertainment}}
+{{Authority control}}
+[[Category:2009 video games]]
+[[Category:Action-adventure games]]
+[[Category:Activision games]]
+[[Category:Biopunk]]
+[[Category:Fiction about bioterrorism]]
+[[Category:Games for Windows]]
+[[Category:Open-world video games]]
+[[Category:Parkour video games]]
+[[Category:PlayStation 3 games]]
+[[Category:PlayStation 4 games]]
+[[Category:Radical Entertainment games]]
+[[Category:Science fiction video games]]
+[[Category:Single-player video games]]
+[[Category:Stealth video games]]
+[[Category:Superhero video games]]
+[[Category:Video games about genetic engineering]]
+[[Category:Video games about shapeshifting]]
+[[Category:Video games about viral outbreaks]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games developed in Canada]]
+[[Category:Video games scored by Cris Velasco]]
+[[Category:Video games scored by Sascha Dikiciyan]]
+[[Category:Video games set in 2008]]
+[[Category:Video games set in New York City]]
+[[Category:Windows games]]
+[[Category:Xbox 360 games]]
+[[Category:Xbox One games]]
