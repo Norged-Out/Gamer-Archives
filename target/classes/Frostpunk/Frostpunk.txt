@@ -1,41 +1,139 @@
-[[Frostpunk]]
-
-
-
-
-
-# [Download Video](https://redditsave.com/info?url=https://www.reddit.com/r/whenthe/comments/19clocn/frostpunk/)
-
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/whenthe) if you have any questions or concerns.*
-Cant wait for Frostpunk 2:Frozen boogalo
-“Steward, why have you sent the leftover wood scraps to the culinary staff?”
-Holy shit another frostpunk player? I thought they had gone extinct
-    Trailer for 2 dropped btw!
-Discontent rises, hope falls
-Ok but isn't the point of the law that you're not telling them there's sawdust in the food
-    Maybe? That law doesnt cause any discontent but someone has to prep it, and the people react when a new law is intorduces
-A new law has been signed!
-
--discotent rises, hope falls-
-    Child Labour
-Sawdust(singular)
-Hear me hear me, new law in the city
-Just mandate mandatory moonshine for every meal.
-
-Luv‘ me Captain
-Luv‘ me Moonshine
-Simple as.
-FROSTPUNK MENTIONED
-
-THE CITY MUST SURVIVE
-    Hope falls
-
-Discontent rises
-I saw someone in the food channel of a server I’m on post 2 pieces of toast with beans dumped in a pile between the two pieces, meaning half the toast on each side was uncovered, and there was just a mound of beans in the middle. The fact that it's genuine British cuisine is appalling to me.
-Trailer for 2 dropped btw!
-Maybe? That law doesnt cause any discontent but someone has to prep it, and the people react when a new law is intorduces
-Child Labour
-Hope falls
-
-Discontent rises
+{{short description|2018 video game}}
+{{Infobox video game
+| title = Frostpunk
+| image = Frostpunk cover art.jpg
+| caption =
+| developer = [[11 bit studios]]
+| publisher = 11 bit studios
+| director = Michał Drozdowski
+| producer = {{unbulleted list|Błażej Żywiczyński|}}
+| designer = {{unbulleted list|Jakub Stokalski|Michał Drozdowski}}
+| programmer = {{unbulleted list|Aleksander Kauch|Rafał Podkowiński}}
+| artist = {{unbulleted list|Przemysław Marszał|Łukasz Juszczyk}}
+| engine = Liquid Engine
+| writer =
+| composer = Piotr Musiał
+| platforms = [[Microsoft Windows]] [[PlayStation 4]] [[PlayStation 5]] [[Xbox One]] [[macOS]]
+| released = {{unbulleted list|'''Microsoft Windows'''|April 24, 2018|'''PlayStation 4''', '''Xbox One'''|October 11, 2019|'''macOS'''|February 24, 2021|'''iOS''', '''Android'''|TBD}}
+| genre = [[City-building game|City-building]], [[Survival game|survival]]
+| modes = [[Single-player]]
+}}
+'''''Frostpunk''''' is a [[City-building game|city-building]] [[survival game]] developed and published by [[11 bit studios]]. Players take on the role of a leader in an [[alternate history]] late 19th century, in which they must build and maintain a city during a worldwide [[volcanic winter]], managing resources, making choices on how to survive, and exploring the area outside their city for survivors, resources, or other useful items. The game features several scenarios to undertake, each with their own stories and different challenges.
+The game was initially released for [[Microsoft Windows]] in April 2018 and was later made available for [[PlayStation 4]] and [[Xbox One]] in October 2019, and [[macOS]] in February 2021. The game received generally positive reviews upon release and sold over 3 million copies within three years of its release. 11 Bit studios has partnered with [[NetEase Games]] to release a port for [[iOS]] and [[Android (operating system)|Android]] titled ''Frostpunk Mobile''. A sequel, ''[[Frostpunk 2]]'', is set to be released in 2024.
+== Gameplay ==
+The player, known as "the Captain", starts out with a small group of survivors that consists of workers, engineers, and children, and several small caches of supplies with which to build a city. From there, the player harvests coal, wood, steel and food in order to keep their society warm and healthy in the midst of fluctuating cold temperatures. Weather conditions and political turmoil can cause citizens to not want to work. In most scenarios, the city is centered around the generator, a coal-reliant steam engine that produces heat in a circular radius, which can be extended and upgraded throughout the game to increase its area of coverage and heating, requiring greater coal input. Habitations, medical facilities and workplaces must be insulated to prevent becoming inoperable or causing frostbite and illness on its occupants. Some facilities that demand skilled work can only be operated by engineers, and most of them can be fully automated with the employment of giant autonomous machines called "Automatons". Children can be employed as part of the workforce or sent to shelters where they can become apprentices, providing some help to either medical or research facilities.
+The player has the option to use laws to regulate the productivity of their society at the cost of possibly raising discontent, e.g. allowing [[child labour]] or forcing temporary 24-hour shifts, but also laws to develop better healthcare like [[prosthetics]] or extra rations to the sick. In most scenarios, the player has the option to increase the citizens' support either by "Order" which includes buildings and laws to enforce security, or by "Faith", which includes buildings and laws that implement a religion. These two paths can be continued to the point of fanaticism, with the "Order" path leading to a militaristic [[autocracy]], while the "Faith" path leads to a total [[theocracy]]. With the final law on either path, the Captain is proclaimed absolute ruler, and the hope mechanic is discarded. In addition, a platform is constructed to execute "enemies" or "unbelievers" by [[scalding]] them to death with steam from the generator; the player may schedule an execution to lower discontent in their city. Adopting any of the last three laws of both paths will lead to the "Crossed the line" ending should the city survive, where the game remarks how humanity forsook its values in the quest for survival. 11BitStudios have mentioned multiple times that the Law system was designed to force players to weigh the choice between survival or humanity, creating a moral dilemma the game is based around.
+Technology is another gameplay feature, with the ever colder environment forcing the city to adapt with better insulation, stronger reactors, better industrial output and more efficient machinery. Building a workshop structure allows the player to research technology and buildings that will make the city more efficient. The city can construct a beacon to scout the surrounding frozen wasteland for additional survivors and resources.
+==Plot==
+The game is set in an alternate 1886-87 where the eruptions of [[Krakatoa]] and [[Mount Tambora]], the dimming of the Sun, and other unknown factors caused a worldwide [[volcanic winter]]. This in turn led to widespread crop failure and the death of millions. This event roughly lines up with the historical [[1883 eruption of Krakatoa]], a volcanic event that led to [[global cooling]].
+In response to this, several installations called "generators" were built by the [[British Empire]] and the United States in the coal-rich North, designed to be city centers in the event that dropping temperatures force mass migration from the south. In all scenarios, the player is the leader of a city or outpost, usually around a generator, and will have to manage resources to ensure the city's survival.
+The game launched with three scenarios, each with different backgrounds and storylines. The main story, "A New Home", involves refugees from [[London]] settling in their own city, which becomes known as "New London"; the settlers must face a "Great Storm", while also contending with the fall of the nearby city of Winterhome. "The Arks" is centered around a largely automated city run by scientists from [[Oxford]] and [[Cambridge]], seeking to preserve plant samples taken prior to the global cooling. "The Refugees" involves a group that has taken over a generator intended for use by wealthy nobles, and the social struggle that ensues.
+Three additional scenarios were added as [[downloadable content]], one free to all players and two as part of the [[Season pass (video games)|Season Pass]]. "The Fall of Winterhome", the free scenario, is a prequel set immediately before "A New Home", with the residents of Winterhome forced to evacuate their city due to a failing generator. "The Last Autumn" is also a prequel, set in [[Atlantic Canada]] just before the global winter begins, involving the construction of a generator for the evacuation of [[Liverpool]]. "On the Edge" is a sequel to "A New Home", centered around an outpost established by New London after the "Great Storm".
+Endless Mode was also introduced in a later patch that eschews narrative elements to focus on surviving for as long as possible while weathering intermediate storms. The DLCs from the Season Pass added additional settings for Endless Mode, such as "The Builders", involving the construction of a generator (based on "The Last Autumn") during winter conditions.
+== Development ==
+{{update-section|date=August 2023}}
+The game was announced in August 2016. The developers were initially targeting a release in late 2017, but it was delayed until 24 April 2018. The game was developed using 11Bit Studios internal game engine named Liquid Engine.
+Ports to [[iOS]] and [[Android (operating system)|Android]] are being developed by [[NetEase|NetEase Games]]. It is currently in the beta stage of game development. The game went through two rounds of regional testing, that were open to the public. The third round is live as of August 2023, accessible from Canada, Australia and New Zealand.
+==Reception==
+{{Video game reviews
+| MC = PC: 84/100 PS4: 87/100 XONE: 84/100
+| IGN = 9/10
+| PCGUS = 89/100
+| PSQ = {{Rating|8|10}}
+| EuroG = Recommended
+| GSpot = 9/10
+| GI = 8.75/10
+| PCGN = 8/10
+| Destruct = 8.5/10
+| HCG = 4/5
+| SN = 8/10
+}}
+''Frostpunk'' received "generally favorable reviews", according to [[review aggregator]] [[Metacritic]].
+''[[IGN]]'' wrote, "Even though the bleakness is palpable, ''Frostpunk'' is a captivating experience. The gameplay is unique and varied, using the best aspects of city-building and survival games, with a little exploration mixed in." ''[[GameSpot]]'' said it was "among the best overall takes on the survival city builder." ''[[Eurogamer]]'' recommended the game, calling it "a thrilling but thin survival twist on the city builder genre, oozing dark charisma and political dilemmas." ''[[PC Gamer]]'' lauded it for being "...a stressful, stylish, and addictive survival management game filled with incredibly difficult choices." ''[[Game Informer]]'' cited it as being one of the rare interactive experiences that forced the player to wrestle with big decisions.
+It sold over 250,000 copies within three days of its release, over 1.4 million within a year and 3 million within three years.
+===Awards and nominations===
+{| class="wikitable"
+|+
+! Year
+! Award
+! Category
+! Result
+! Ref
+|-
+| align="center" rowspan="5" | 2018
+| [[Game Critics Awards]]
+| Best Strategy Game
+| rowspan="4" {{nom}}
+| align="center" |
+|-
+| rowspan="2" |[[Golden Joystick Awards]]
+| Best Visual Design
+| align="center" rowspan="2" |
+|-
+| PC Game of the Year
+|-
+|[[The Game Awards 2018|The Game Awards]]
+| Best Strategy Game
+| align="center" |
+|-
+| Australian Game Awards
+| Best Visual Design
+|{{won}}
+| align="center" |
+|-
+| align="center" rowspan="6" | 2019
+|[[22nd Annual D.I.C.E. Awards]]
+|[[D.I.C.E. Award for Strategy/Simulation Game of the Year|Strategy/Simulation Game of the Year]]
+| rowspan="6" {{nom}}
+| align="center" |
+|-
+| National Academy of Video Game Trade Reviewers Awards
+| Game, Simulation
+| align="center" |
+|-
+| rowspan="3" | G.A.N.G. Awards
+| Music of the Year
+| align="center" rowspan="3" |
+|-
+| Best Original Soundtrack Album
+|-
+| Best Music for an Indie Game
+|-
+|[[15th British Academy Games Awards]]
+|Narrative
+|align="center"|
+|}
+==Board game==
+A ''Frostpunk'' board game designed by Jakub Wiśniewski and Glass Cannon Unplugged and loosely based on the video game was sold via Kickstarter in October 2020. The Kickstarter campaign achieved €2,496,308 in sales.
+==Sequel==
+{{main|Frostpunk 2}}
+A sequel was announced on August 12, 2021. ''[[Frostpunk 2]]'' is set in New London 30 years after the "Great Storm" of the original game, and the consequences of the advent of [[petroleum industry]] in New London. The game is set to be released on July 22, 2024.
+==See also==
+* ''[[Floodland (video game)|Floodland]]'' — similar gameplay, plot focuses on civilisation wiped out by [[tsunami]] rather than frost.
+* ''[[Surviving the Aftermath]]'' — similar gameplay, plot focuses on civilisation wiped out by [[radioactive fallout|nuclear war]] rather than frost.
+==References==
+{{Reflist|refs=
+{{cite web|url=https://steamcommunity.com/app/323190/discussions/0/1474221865181977445/ | title=What game engine the game? | date=April 1, 2020|access-date=April 1, 2020}}
+}}
+==External links==
+* {{Official website|http://www.frostpunkgame.com/}}
+{{11 Bit Studios}}
+[[Category:2018 video games]]
+[[Category:Fiction set in 1886]]
+[[Category:Video games set in the 1880s]]
+[[Category:Windows games]]
+[[Category:Alternate history video games]]
+[[Category:City-building games]]
+[[Category:Climate change video games]]
+[[Category:Real-time strategy video games]]
+[[Category:Simulation video games]]
+[[Category:Survival video games]]
+[[Category:Video games developed in Poland]]
+[[Category:Video games set in the Arctic]]
+[[Category:Steampunk video games]]
+[[Category:Post-apocalyptic video games]]
+[[Category:11 bit studios games]]
+[[Category:PlayStation 4 games]]
+[[Category:Xbox Cloud Gaming games]]
+[[Category:Xbox One games]]
+[[Category:1883 eruption of Krakatoa]]

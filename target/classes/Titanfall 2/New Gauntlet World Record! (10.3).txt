@@ -1,0 +1,969 @@
+[[New Gauntlet World Record! (10.3)]]
+
+
+
+
+
+A nice run as always think you’ll ever get a sub 10 second run one day?
+    Crouch kicks are still relatively new, so there's room to improve via execution and routing still. That and a bit more time might be all that's needed for a sub 10, if Shoe and I are willing to grind.
+        I still enjoy seeing your 12 second runs and now this I am happy hope you enjoy your new movement tech cash keep these speedruns up
+            glad you think they're as neat as i do! :D
+                There amazing and whenever I see your speedruns I forget how slow I am in mp
+                A lot of us do. Me n my boys keep up with your work
+
+Edit they came in after this to show me the 10.2 run all excited
+                They're inspiring c:
+        I'm amazed that things are still being discovered in Titanfall. Kudos ! Also, go for it, break that 10 seconds, you'll have that all your life !
+        Could you not do a longer run up beforehand to build up speed? That could speed it up.
+            Yeah, I also noticed that he entered it at 98 or smthn first time round, and finished at 109. Probably something to do with the angle he enters not being optimal, but I'd love to hear the explanation behind the difference in speeds.
+                Well, the gauntlet will break if you go in too fast. I don't know if that is the limit we're dealing with here, but I think so. You can try it out yourself- just damage-boost yourself with frag grenades directly before entering, there are probably also tutorials for it on youtube. When the gauntlet breaks, the bots won't spawn and there won't be a timer or the ghost. You can also get out of the map this way.
+                    Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+                        The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+                        That could be, but I don’t know a lot about Titanfall TAS and how it works…
+                        I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+    The pass through the end gate at the start was a full 8 mph slower than the one at then end. There's definitely room to knock that last bit off.
+    [removed]
+        Pilot… I am detecting an Elizabethan Era playwright in the vicinity.
+For those that are wondering how such a (relatively) huge cut was made to the WR time, recently the Titanfall 2 speedrun community has started to route and implement a new technique called Crouch kicks, which is a simple as ~~crouching and jumping~~ Pressing Crouch and Jump at the same time when going for a wall kick. [Bryonato has a great explanation of the inner workings of what this does](https://www.youtube.com/watch?v=omgJzksnZbc) but TL:DW, doing this lets you get the speed boost from both a end boost and a wall kick and lets you build more speed than we could ever imagine.
+
+Absolutely stellar Cash. i'd love to see the RTA sub 10 some day and i believe in you
+    :)
+        Everytime Cash Mayo breaks the WR:
+
+Captain lastimosa: "My time has come"
+
+*gets shot with the RE-45*
+        You have a recording of a sub-10 you're sitting on, don't you?
+            He probably does, just waits till someone beats his previous and uploads nearest one lmao
+            My theory is that he's had a sub 10 for years, people are just catching up enough that hes almost to the point of needing to use it.
+                [deleted]
+                    Yea I suppose.
+                Every other runner that comes close to Mayo's time causes him to use 1% more of his power.
+                Considering how recently the new Crouch kick technique was discovered he probably hasn't been sitting on a sub 10 for years, assuming it's not possible without this tech.
+
+MAYBE he knew this tech the whole time and has been practicing and improving his own routing in secret to have a head start when it was discovered by someone else but I doubt it.
+
+It'd likely be more valuable to get that technique out in the open so there are more eyes (and hands) working on fine tuning it and the routing as shared improvements could only help him push things even farther.
+
+Plus if he did know this technique long before now it'd kind of just suck to be sitting on it not being able to share his runs due to that spoiling the technique for everyone else.
+
+Not saying he doesn't potentially have better runs, just likely not ones he's been sitting on for years. I could definitely see him having a sub 10 run now though and he's just giving other people a chance to try to match this run or slightly beat it before pulling it out.
+                    No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+            Absolutely he likely does; man's raking in the gains one WR break at a time instead of showing only the peak of his results; just smart to do so.
+        [removed]
+            This looks like a karma bot fyi.
+                Why the hell do people upvote crappy ai nonsense comments? I see it all the time
+            TWOW?
+                Grrm finally done it?
+    Thank you for the explanation! Was truly bout to be like *wtf we were stuck at like 11.0 for foooreever* so that’s super cool!
+    So will Bryonato be doing more TF2 speed runs now?
+    After so long, they have discovered the basic mechanics of crouch jumping. I'm upset that I never thought to say anything.
+
+One of my mains over on Team Fortress 2 is soldier, a relatively slow class. Although soldier players have one thing to help them move fast. Rocket jumping!
+
+Crouch jumping in tf2 allows you to do some Source shenanigans, and allows for much better speed while rocket jumping, sticky jumping, sentry jumping, and surfing damage.
+
+Who would've guessed it would be useful in this TF2.
+        It’s less the actual crouching, it’s not really to do with that. It’s more that the crouch ends your wallrun so if you crouch and jump as you hit a wall you get the combined speed from both a wallkick and an end boost which obviously results in more speed than just a wallkick
+        It's extra weird that it wasn't found earlier considering Titanfall 2 is also using a version of source (albeit heavily modified)
+            I mean shit most games are probably all running on a version of a heavily modified quake engine.  (Or unreal)
+        its very specifically pressing crouch and jump at the exact same time when you go for a wall kick and nothing else.
+*Cash_Mayo breaks gauntlet record*
+
+Cash_Mayo: wanna see me do it again?
+
+Cash_Mayo: and again?
+
+Cash_Mayo: and again?
+
+Cash_Mayo: and again?
+
+Cash_Mayo: and again?
+    No one else has a chance and it's hysterical. 
+
+"Guys, look, I set the new record!"
+
+Cash_Mayo:
+"Oh, I don't think so."
+        > "Guys, look, I set the new record!"
+
+Cash_Mayo: https://i.kym-cdn.com/entries/icons/original/000/035/410/Screen_Shot_2020-10-05_at_11.51.58_AM.png
+            That wasn’t very cash ~~money~~ mayo of you
+        every time someone breaks the record Cash Mayo comes in and breaks that record’s back a la Bane vs Batman
+        Lmao literally yesterday whatevershoe got a 10.3 but missed a few targets, and then we get this lol
+        moon? Like the guy who invented the Carolina Reaper pepper, he says he has hotter ones but has no incentive to release them comercialy unless someone beats him. I think he busts them out for pepper eating contests and stuff though.
+    *Cash_Mayo breaks gauntlet record*
+
+Cash_Mayo: I'll fucking do it again!
+Holy shit dude
+    I’ve never even played this game and I can see how impressive that was. Looking forward to seeing the WR cut down.
+HOW DO PEOPLE STILL GET FASTER?
+    Not people, Cash Mayo
+        Cash Money Mayo
+    they took viper's words to heart
+
+> *you need to move a little faster than that, son — speed is life*
+    a new tech was discovered
+I like how no one beats his record so he beats his own records again and again
+    “Fine, I’ll do it myself”
+    I think one guy broke his record recently. IIRC it didn’t last a week.
+        It was a few months ago, I don’t remember the time but I think it was just sub 11 and not even a full week later and Cash Money Mayo comes in and destroys
+    That isn't terribly uncommon, and used to be moreso. A lot of games are dominated by one runner, or eras with one dominant runner if it has a community sized base for a long time.
+Me rushing to tell my dad how it wasn't fair that mom and Uncle John got to pillow fights late at night
+
+Fuck you Uncle John
+    Yeah fuck off uncle John, you pillow fight having cunt!
+    My Uncle John always made me pillow fight with him late at night when my parents were sleeping.
+        Me too man. We'd go down in the unfinished basement to do it since my parents wouldn't be able to hear us down there and we wouldn't wake them up. He even got my sister to join in a couple times. So much fun. Legally he wasn't allowed to see his own kids after he got out of prison, so we always felt kinda bad for him. He'd do so much for us like buy us clothes and toys. He even made us his own fruit juice that he'd give us before we went to sleep. My other uncle raped me like once or 30 times when I was younger and that fucking SUCKED. Literally.
+    Hate to break it to you, Champ..
+
+But ya moms a ho. 
+
+\#FreeUncleJack
+Ayeee thats amazing, love to see you get faster at this
+    Stop encouraging him! This is already way too fast, haha
+    [removed]
+        bot
+            Why are you getting downvoted lol, you are right
+                Yeah, ikr. If you check their profile all of their comments are like the same thing
+He does it again!
+Goddamn Cash Mayo at it again
+What a madlad
+[Cash_Mayo every time he breaks his own record](https://i.imgflip.com/26wvib.jpg)
+    This made me laugh as work. Thank you
+Alright who posted their record beating mayo's record before this
+He is beggining to believe
+    beginning??
+    this is already matrix 2 territory
+Me omw to see the video of Cash Mayo's newest Gauntlet WR
+Crouch kicks really doing wonders, excited to see if it can come down to a sub 10. Very cool :D
+Was about to comment that cash mayo could get it faster, then i checked the profile xD
+Guess who’s back, back again
+    *Cash_Mayo breaks gauntlet record*
+
+Cash_Mayo: and again?
+Get sub 9 you can do it dude.
+    I'm going to be the guy who says sub 9 is impossible so some young upstart will dedicate their lives to proving me wrong.
+        Good man
+        See you in the summoning salt video
+Holy fuck
+#MOTHER OF GOD
+Absolutely flawless! Congratulations dude!
+And with a CONTROLLER?
+    I am honestly surprised by this as well. I would have assumed he'd be on PC with accuracy like that.
+        Right?!?
+        He's almost certainly using controller for lurch-less movement tech. The gauntlet doesn't have any sharp turns that would require lurch-tech like tap strafing, and you get smoother runs by being more able to accurately control the direction of the movement inputs.
+Man I remember when gamesager was the shit in this game. I’m so happy to see the gauntlet is till being beaten :) this game is far from dead
+Just like quake
+You just never quit do you
+    *Took out ghaul. Woke up the traveler. And now half of what i hear in the streets is how much you and your clan are making a difference. And that's why i started this whole clan thing in the first place. People are still waiting for the Vanguard to lead the way. But it's time for a change! And guardians like you are making it happen. No pressure.*
+Dang, new WR, and cash mayo is about to brea- nevermind... that's them, and they are out of here
+This is incredible to watch. Well done!
+Dude you’re insane! Every time you break the record I think “how does he keep getting away with this?!” Congrats again on another record!
+ Hey cash you think you can get the top 3 achievement for me on the gauntlet? But with all seriousness damn I can’t even get less then 30 with all the glitches I try, it’s amazing to see how far the boundaries of TF2 can be pushed
+As always fucking amazing dude, it’s an honour to have witnessed this
+What was octanes time? Ik in lore that’s how he blew up his legs to get the fastest time but not sure what it was
+    Cash Mayo is octane!  I'm not sure what his record was when they made the character but he is based off of Cash Mayo.  Legend!
+        I thought you were kidding and looked it up, can but it's true!
+
+The record was 12 seconds at the time.
+        Is this real?
+            [Definitely Real](https://www.altchar.com/game-news/speedrunner-behind-octane-inspiration-breaks-titanfall-2-gauntlet-record-again-adsjU9p4mIog)
+            In what way ?  
+
+
+Octane is based on a real life speedrunner. The one who started using grenades to go faster in the Gauntlet. I don't know if Cash Mayo is this speedrunner though.
+                Cash Mayo definitely is the speed runner. He's a legend
+                    daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+                        There's threads from devs before he dropped that they based him on mayo's runs.
+What was the old record?
+    Around 12 I believe? Probably wrong tho
+
+Edit: it was 10.9
+        Previous record was 10.9. I had a 10.6 waiting to be verified before I published it, but by the time I got this one the next day the 10.6 still hadn't been verified.
+            Ah lol I was wrong then. This is fucking insane tho dude, can’t wait for a sub ten. With the new strat it def seemed possible.
+            Who verifies these? You mean just like a speedrunning community consensus?
+                The [Titanfall 2 leaderboards](https://www.speedrun.com/Titanfall_2) on speedrun.com have 6 moderators who watch and verify that all of the submitted runs are valid and legitimate. You can check out the rules tab to see what exactly they look for.
+Meep meep like shit
+octane ain't shit
+    He is based off this guy but yea you right
+Breaking news: "Who the fuck needs to sleep" guys are back and haven't eat for 5 weeks in order to get 0.00000012s faster run.
+Please make Titanfall 3.
+Blisk: "Oi, Marder, on second thought screw that contact."
+What's crazy is, its so optimized now, it doesn't look as impressive as the earlier runs I remember seeing for the first time years back.
+
+Its like, human perception of difficulty is not good.
+I can’t even understand what is happening. But looks super technical and hard to pull off so good job!
+I freaked out thinking someone beat Cash and then was so relieved that it was them
+Sub 10 sub 10 sub 10 sub 10
+Fun fact:
+
+This is how octane lost his legs
+I was like "Oh, somebody finally beat cash may- wait. No. It's cash mayo."
+Calm down Octane
+Jesus Christ it's Jason Bourne
+Fact: Mayo has runs up to 3 seconds but waits to post them till somebody else beats him.
+Ah so these are the type of players in playing with when I get wrecked during matches.
+Apex Legends is so neutered compared to this kind of movement.
+Why we have the embarrassment that is Apex Legends rather than an actual Titanfall BR is beyond me.
+Pretty good, but I’ve seen better. Get back in there and run it again.
+    I was about to be angry, than i saw the rest if the comment. Now i am at peace. Thank you.
+Now that's a true pilot
+And here i am just wanting the achievment…
+omg theres 3 in the top r/titanfall post titanfall 3 confirmed?!?!?!?!?!??!?!?!?!??!?!?!!??!?!?!?!??!?!?!?!
+Petition to put cash mayo on the gauntlet leaderboard above me. Its finally time
+    Ha, I might be fast but I'm not even close to being OG. Your spot there is still most fitting. Goatsager stays on top.
+crouch kicks are bonkers
+Oh my god
+And I thought I was impressive getting like 33 lol
+Don't know this game, looks cool though. Congrats!
+Jesus mate hats off to you
+username checks out
+Impressive! Anyone know what the theoretical time limit i
+Amazing
+OP: *snorts a line* “alright, let fuckin do this”
+Some day we’re gonna see a sub 10 and it’s gonna break this sub
+wow
+Too bad cooper became a greasy smear on that wall. (I know it's a vr sim but that speed is beyond recovery)
+cash mayo, the man who has the becomes the master achievement 50 times, and is making damn sure no one else gets it
+damn okay octane
+Best I could get ya is 5 mins.
+Peak pilot performance.
+Free weekend be like
+The Cash Mayo madman is back at it again, and this time, he's out for blood
+It shouldn’t be so surprising considering there are probably much older games that speed runners are still finding new techniques and routes for but regardless it’s absolutely amazing to watch each time Cash does this, each time you go “oh yeah so that’s probably the last time this gets broken!” Then you just need to wait a few months and it’s done again
+He hit that wall at the end at 100 km/h. WR achieved but the pilot's organs are on the outside now!
+Congrats! You’re the new octane
+Imagine if he spent the time on learing to eat pu**y. He would be a god
+At the first second I saw this I thought cash mayo was going to break this record again.Then I saw the OP name,cash mayo itself.Congrulations,pilot.
+I'd love to see Respawn's thoughts every time Cash trumps the record.
+Reminds me of the times before covid where me and my homie would just run gauntlet over and over swapping controllers to see if we could go faster.
+I remember the first time I did this about 4 or 5 years ago thinking, "someone's gonna do this in under 10 seconds" and we are nearly there
+This reminds me of the old slide maps in Urban Terror. Just insane speed built up.
+Wow. People still play this game? That is very cool
+I've always thought about trying out this game. Then I see stuff like this and realize I would be like a fetus playing in the NBA against a team of Lebron's, Curry's, and KD's.
+Summoning salt video on this when
+Is this a tas run?
+    Nope. This is raw controller input at real time.
+        Oh my gosh nice job man
+ But why are they apex guns ?
+    You do realize that titanfall is the game before apex. They are the same universe.
+You keep beating the record, IGN keeps redoing their "devs react to speedrun" vid.
+Cash what the fuck
+I was just talking with my friend about gauntlet speed runs
+The year is 2063. Governments have fallen and corporations have taken over. Humanity is at its lowest, the TF2 gauntlet run is now at 5.63s.
+We get near annual CoD games but only 2 of these....
+Bro octane was created because of you bro ur so fking awesome my guy
+Holy fucking shit
+Actually speechless ..
+Imagine if Apex had all of this movement system.
+“You’ve cleaned me out Cooper!”
+Laddies and Gentlemen, We have achieved Ultrasonic speed
+Fuck right off.  Well done my dude.
+Someday we will see the sub 10
+coming into this game as new and trying to keep up in the online is so fucking challenging when people are zooming around at 80+ kph..... xd
+This is kind of hypnotic.
+Scorch when he sees a ronin
+Imc Grunts: why was there a blur going mach 10
+
+Imc pilots: the end is near
+legend
+When you are on your way to make fuckin mac and cheese:
+
+And believe me, NOTHING CAN STOP YOU
+Jolly good show
+You never fail to impress me with how fast you go
+Surely sub 10 seconds is now within reach!
+The god has returned to break his own record again
+NYOOOOOM
+I remember trying to get the trophy for this. The horror
+GG
+That was satisfying as all hell. Good job.
+These are amazing broski I love getting updates on this keep up the amazing work mayo
+So cool to see new mechanics coming up even now
+absolutely insane in the best way possible. genuinely absurd how fast you are
+Disgustingly good run
+Wow Amazing
+This is the insanity that we’ve resorted to in the wake of not titanfall 3. Lord help us for what may come next.
+WTF?!
+Jesus fuck
+And i cant do it for the trophy :D
+Holy shit
+Yo amazing
+Ay let’s go you beat octane and kept your legs!
+I'm waiting for when we get to SM64 levels of speed running and this sub is talking about parallel universes.
+Holy moly
+Finally, my long awaited MLP reference is within reach!
+    i will be sure to get exactly 10 and not a millisecond faster
+        I have absolutely nothing to offer you in return, yet I'll be indebted to you for the duration of your speedrunning career. All because of a dated joke :)
+That was impressive to watch!
+Sub10 now Cash. You got this ;)
+Still a better Flash than CW.
+congrats mate you just made more history thats fucking crazy and amazing to see that theres still ways to go faster
+Short of a new massive time saving glitch, I really don’t think this can be beaten with normal human reactions. 
+
+I’ll pick my jaw up off the floor now.
+You are a fucking legend
+I wonder if he got the achievement.
+They can take the servers, but they can never take the gauntlet…
+I think I could do better.
+I don’t fully understand even what I watched, but I can appreciate the talent that I saw. Nicely done!
+Just when you think the record can’t be beat any more
+Great run, well done!
+
+Some the good old quaking "open arena" racing has been passed on to the younger gaming generation, I feel relieved!
+Awesome moves there!  Another record I'll never pass, haha....
+
+^I'm ^^totally ^^^fine...
+This game isnt even out yet and there are already people better at it than I will ever be.
+Wow that was incredible to watch kudos
+Never in a million years do I imagine I could ever do the first jump
+I don’t play this game I’m not even apart of this sub this video was recommended to me and God damn this was impressive.
+Good
+Wheres the sub 4 second run mayo
+King shit
+im here trying for literally weeks to get 3rd place
+:) :)
+At this point they should really just throw in another line for Lastimosa, asking the player if they’re going for a record or something lol.
+Awesome
+I can’t believe my eyes
+That's pretty noice
+That's how Octane tried to do it.
+This guy needs money, and egg emulsifications STAT!
+Take my upvote you sexy beast
+wow, you were flying that time
+Absolutely amazing.
+Has crouch jumping always been a mechanic? Was this always in the game?
+People have went fucking nuts on this goddamn thing in the past 5 years. Here's hoping we get more training courses in titanfall 3
+When a soldier main from tf2 goes to play tf2
+HOLY SHIT
+Hello
+Reddit glitched when I was watching this and played the audio from a video of a badger eating an egg instead of the audio from this run; I was very confused when I came to the comments and no one seemed to be acknowledging this
+Cash Mayo at it again with another record
+I was going to say "yes world record, I'll give him 2 days before Cash Mayo will beat him" then I realized that he was Cash Mayo
+BROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOYOUR INSANE
+Cash Mayo isn't human
+9.xx before we know it
+What in the fuck?!
+Gah. Dayum.
+I love how the debrief board has a Tip
+what the hell man
+
+&#x200B;
+
+also GG congrats
+Damn.  And I forever sit one trophy short of the platinum because I can't get through the gauntlet fast enough.  Watching this clip, I'm not even sure we are playing the same game.
+You are a legend, thanks for never givng up!
+Holy shit.
+#WOT
+They should somthing special for you.
+I got platinum trophy it was painful because of that. They must reward you.
+Wow👀
+Lastimosa: “Are you. A pilot in disguise? You beat all of us”
+I like to imagine that Cash_Mayo never actually got further from the tutorial and had never ended the game or play anything else.
+damn bro this is on the popular page of Reddit, good job
+I'm just gonna say. Going from 106km/hour (65mph) to a dead stop against a wall in a fraction of a second would be a good way to go splat.
+It's so satisfying to watch!
+Now I wanna see mayo gliding through an attrition match
+Yo Mayo!!! It’s been forever, the god of the gauntlet has made his return!
+This is what a no life looks like.
+Meanwhile I can’t even play trough this part without falling down 🤣🤣
+Has anyone tried tassing to find the max yet?
+Summoning salt video when?
+The real reason Titanfall 2 is dying— Gauntlet speedruns
+Damn bro got anxiety watch this
+What the fuck
+That was an enjoyable game
+How?
+This is very impressive, congrats.
+Impressive
+My god it's Jason Bourne
+Nutty.
+I don't play this game, but I usually find these insane runs on /r/all and am shocked every time at the accuracy and speed.
+Un freaken believable
+wait this isnt team fortress 2
+
+^^was ^^about ^^out ^^to ^^write ^^tf2 ^^lol
+He can't keep getting away with it
+It's absolutely amazing how much time you've shaved off using this technique! Im ready to see how far you can take it
+I have no idea what this game is but this post made me happy because it made me remember good old times in Quake 3 Defrag.
+
+Cool stuff :)
+As always Cash, nicely done! You sir are a literal beast!!
+When did that game turn into quake
+I got to the #1 placement for the trophy. But that's about it.
+Crazy my dude can I saved this one as well?
+hey remember me
+I just like to use the smart pistol but this is cool too.
+Geeeez. Beating the time on this is the one thing that stopped me getting the platinum trophy and you do it like this! Noice.
+You are a good player
+Never played and it popped in my feed. 
+
+
+Idk what the fuck i just watched. But dayum.
+Holy fuck dude
+Admin he doing it sideways
+whoa pretty satisfying to look at
+Looks like team fortress2 rocket jump speedruns. Good one mate
+Are the opponents always in the same place each time?
+jesus christ
+All the training and muscle memory that went into this and no one will care hours from now
+actually i just beat it
+Since the multiplayer for this game is virtually unplayable
+Wanna see me run the gauntlet?
+
+Wanna see me do it again?
+"No way gow did someone beat- nvm its hin again" lmfao
+Disgusting
+hey I'm the guy that comments cum on every video so
+
+
+(CUM)
+# this game is played by many players, many people like it and there is no eye-adaptation effect (or auto-exposure, or whatever it's called ...); I would like video game development to be without this effect, it would be better, well done to those who participated/decided on the development of titanfall!
+Damn I miss Titan Fall
+Holy fucking shit, just when you can’t get faster you become faster.
+Holy shit! Im proud to share the Mayo name!
+Nice one!
+FUCKIN CHRIST
+I came 3 times watching this
+Damn, you just flew. Did you drink some redbull?!
+Cool. But why?
+Meanwhile, I still haven’t beaten the in-game high score to get the achievement lol
+man you're something else...
+Always love seeing your mach 10 runs
+It took me a half hour to get to #5
+That's just inhuman haha, great job
+This blows me away. Wow
+Ur faster than octane!
+You get my free reward, now go get some sunlight.
+Absolutely insane speed. Does the game give you an accurate speed or does it just cap at 50 kph?
+You are a man of sheer fucking will.
+FASTER, FASTER , FASTER
+Aren't you the one they based Octane off of?
+Bruh I haven’t seen the last record video since it was posted and I can tell how much faster it is lmao
+This is insane. Holy smokes
+Haven’t checked in on Titanfall in a while… you guys have been busy, eh?
+Gauntlet noob here, what the fuck
+Jesus cash this is 7th time you bring up your record this week
+Wtf
+[Whistle] you were flyin' that time!
+Holy hell. Thats gotta be the greatest pilot I’ve ever seen.
+God damn my dude congratulations on taking the new record. I remember it took me like 7-8 try’s just to get the achievement. Great job dude
+Victroy SHOOOOOOOT :D
+That's fucking crazy!
+Your on octane
+Wow. How much did you practice?
+How would you react if someone did it in five seconds?
+What’s a kilometer
+Noice
+What’s the 2nd player time?
+These are the kind of guys I get teamed up with in Apex who will message me after a win to tell me how terrible I am.
+Cash Mayo at it again. It’s always a nice surprise to see you’ve somehow beat your record again
+Yall are nuts!
+Back at it again Mr. Mayo!
+Good rng
+Holy hell
+Some people have way too much time. I'm jealous of it
+Wow wow wow wow wow wow wow wow wow wow. I can’t even get below 30 seconds
+Seeing this shit makes me so happy for some reason. Its so innocent and just good vibes all round, fuck yeah.
+k lol
+Cash Mayo is the most reliably consistent good thing in the world right now. Always fast. Always entertaining. Always Cash. Always Mayo. 
+
+Solid run, my dude!
+And captain price still wouldn’t be impressed.
+What zero pussy does to a mf
+Quake 3 arena?
+But, and hear me out on this one, can you do that in the normal levels too?
+    Not the double fragboost that would normally kill you, but everything else translates directly for other levels. This game's campaign speedruns go hard af.
+Meanwhile me, happy for my 27 seconds
+I still remember pc players trying to shit on console for having less optimal movement and saying how they'd never be able to keep up lol
+My favorite part is always when he slams into the scoreboard at 100kph.
+I need to save this!
+Wow dude wow
+bruh
+Jeez
+wow
+What the fuck
+Octane at it again
+Team fortress 3
+Seeing that I'd say sub 10 was impossible but fuck me if the speed running community doesn't have a history of proving that wrong
+As awesome as this is it makes me feel so inadequate and bad at the game. Lmao.
+My favorite part was the brap brap at the end
+How do you even go about improving on this? When rewatching this, do you even see anything you can improve on by executing better, or do you have to start experimenting with new routes and techniques?
+I spent two and half hours today trying to get anything under 30 seconds and this video makes me hurt
+I still don’t have that achievement to hit top three, OP want my account?
+The legend returns
+“Okay okay not bad” dude that was the fasted anyone could ever do and this Cunt still ain’t impressed
+>a good gay for 3 months
+Get this man a free reward
+The actual embodiment of Octane.
+
+True legend.
+So bizarre, I don’t really think about titanfall 2 but then yesterday I got the itch to play through the campaign again and now this awesome speed run pops up!
+This is how that apex legends character lost his legs 🦵
+Me, knowing nothing about or playing Titanfall but having seen you hit sub 12:
+
+
+“Oh it’s cash isn’t it?”
+
+
+Good job bro waiting for sub 10
+Is it possible get tf 2 games on ps4 still?
+Thats nothing i beat it in 3:62
+>a good gay for 3 months
+What in the universe did I just witness
+Damn it, Cash. Not again! Well, you gotta strive to do it again and faster
+When they say prove you’re a virgin.
+Them:
+I recognised the course, but I couldn’t for the life of me remember the game… I know now reading the comments though
+I'm just sitting here wanting to get the achievement....
+I just beat this game yesterday with my son and I was soooo proud for getting 1:28 on that and here you go with this.
+I clicked on this thinking it was a New World post cos I saw gauntlet.
+Love titan fall been apart of this community for years just not the speed running aspect of it, how do people know times can still be improved if things are already pretty much optimized fully?
+    I wouldn't call this fully optimized. There are things to improve still, even just with execution. Crouch kicks have already helped dropped the time over a half second and they've only been here for like a week out of 5 years.
+Anyone know what the best TASBot run for this is? I need a bit of context with that time
+Fuck dude this is insanity.
+Crack…. Head…
+Meep! I shall never play the game again. 😞
+Kid can't be stopped.
+Poggers
+This looks like Quake 3 Defrag.
+
+Yes, I'm that old.
+Meanwhile I’m struggling for a minute
+Quake 3 strafe jump map vibes.
+Meanwhile me couldn't beat loutinosa yet ;-;
+Gauntlet looks a lot different than i remember it.
+He is the one
+Fucking sick
+Quick question: it somehow took me ages to realize you use a controller for these Speedrun; any reason In particular why?
+    It's just my preferred input method. I had 3k hours on controller before I switched to PC, and for gauntlet controller and KBM are about on even ground.
+God has spoken
+Damn I still struggle to get sub 35
+This is crazy and complex, Nice job!
+Woe :0
+It's kinda crazy how popular this game still is.
+When the world needed him most . . . He returned
+I always love seeing new runs.
+What. The. Fuck?
+It's even more beautiful than I thought it would be
+Ladies and gentlemen, he’s done it again
+That was honestly the coolest thing ive ever seen
+I can barely walk in a straight line..
+>Well now I know cash\_mayo's gonna...  
+>  
+>Wait. That is cash mayo.
+Great run
+Sub 10 and ill give reddit gold
+Did this give anyone Quake live vibes?
+Pft. Sonic the Hedghog would put you to shame🙄
+No
+This, lads, is how octane lost his legs
+I have no idea what game this is but man that looked really impressive.
+Yo it’s the Eva 8 from Apex
+Do you do speed runs of the whole game? Would love to see some.
+    I did them a while back! You can check out all my runs on my [speedrun dot com page](https://www.speedrun.com/user/CashMayo).
+Man I have no idea how people do this while I struggle to get that damn speed run trophy for the gauntlet. The only trophy I need before I get my platinum
+We get it, you have sex quickly. No need to gloat.
+How octane lost legs 🤔😂
+How many runs failed because you hit your head on the ceiling right at the end?
+I can't wait until you have to do 3 laps to build up the speed to get sub 5 seconds.
+me who was happy with a 24 second run
+At first i thought "Man this guy just beaten Cash Mayo". And then when i look at the username, it's cash mayo. Heh fair enough
+I'm satisfied beyond comprehension.
+legendary run for sure, well done
+Stickyjumping in TF2
+As an outsider to this game but a vet of FPS, this is pure art. 
+
+It's like a dance, but it kills things.
+I'm not exactly sure what just happened but it was damn impressive
+I love that this game came out 5 years ago, and people are still chasing faster and faster gauntlet runs.
+
+&#x200B;
+
+Plz give us Titanfall 3 :(
+I very well might apply to both. I’d rather him look like he could win a World Series they’d laugh if all of their earthly possessions, and to have an “impromptu” massage.
+
+You did not get the mental health and ongoing mental care she needed, clearly. I fear what his power may contain
+God damn!
+Never played the game but this looks hella impressive anyway.
+One of my friends said he completed it in 4.3 seconds and he showed me a pic but i think his was foto shopped
+is it active on on ps4…. this video made me miss the game/physics SO MUCH
+That’s insane I always struggled on a few parts I could never keep continuously going.
+u/savevideo
+Gaming
+me clutching my 32 second run to my chest: 🥲
+You mad man, you pulled it off 🤩
+This man is a legend
+I think sub 10 is possible, with good timing. I don’t run the gauntlet often but from this I see that you intercepted the same path as one of your grenades. After the grenade exploded. The third decoy. I believe that there’s a way to use that frag as a boost as well as a kill. 
+
+Is there a max speed on grenades? Idk. I don’t do many technical things. But I think that’s the easiest way to improve timing further.
+
+Thoughts?
+    Max velocity from explosions is 90. Above that, they don't add speed.
+Man, on xbox too. I could never do that and I've been playing xbox for 6 - 7 years
+I am speechless
+😲😲😲 wow😀
+Dude i dont even play this game and i inow that shit was awesome!
+im confused about everything titanfall and this doesnt help. On the plus side this probably is really impressive
+"Ok not bad not bad"
+Ngl i always find gauntlet speedruns satisfying
+So cool how you guys set these standards which lead to the development of octane.
+how tf
+Crouch kicks are still relatively new, so there's room to improve via execution and routing still. That and a bit more time might be all that's needed for a sub 10, if Shoe and I are willing to grind.
+    I still enjoy seeing your 12 second runs and now this I am happy hope you enjoy your new movement tech cash keep these speedruns up
+        glad you think they're as neat as i do! :D
+            There amazing and whenever I see your speedruns I forget how slow I am in mp
+            A lot of us do. Me n my boys keep up with your work
+
+Edit they came in after this to show me the 10.2 run all excited
+            They're inspiring c:
+    I'm amazed that things are still being discovered in Titanfall. Kudos ! Also, go for it, break that 10 seconds, you'll have that all your life !
+    Could you not do a longer run up beforehand to build up speed? That could speed it up.
+        Yeah, I also noticed that he entered it at 98 or smthn first time round, and finished at 109. Probably something to do with the angle he enters not being optimal, but I'd love to hear the explanation behind the difference in speeds.
+            Well, the gauntlet will break if you go in too fast. I don't know if that is the limit we're dealing with here, but I think so. You can try it out yourself- just damage-boost yourself with frag grenades directly before entering, there are probably also tutorials for it on youtube. When the gauntlet breaks, the bots won't spawn and there won't be a timer or the ghost. You can also get out of the map this way.
+                Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+                    The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+                    That could be, but I don’t know a lot about Titanfall TAS and how it works…
+                    I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+The pass through the end gate at the start was a full 8 mph slower than the one at then end. There's definitely room to knock that last bit off.
+[removed]
+    Pilot… I am detecting an Elizabethan Era playwright in the vicinity.
+:)
+    Everytime Cash Mayo breaks the WR:
+
+Captain lastimosa: "My time has come"
+
+*gets shot with the RE-45*
+    You have a recording of a sub-10 you're sitting on, don't you?
+        He probably does, just waits till someone beats his previous and uploads nearest one lmao
+        My theory is that he's had a sub 10 for years, people are just catching up enough that hes almost to the point of needing to use it.
+            [deleted]
+                Yea I suppose.
+            Every other runner that comes close to Mayo's time causes him to use 1% more of his power.
+            Considering how recently the new Crouch kick technique was discovered he probably hasn't been sitting on a sub 10 for years, assuming it's not possible without this tech.
+
+MAYBE he knew this tech the whole time and has been practicing and improving his own routing in secret to have a head start when it was discovered by someone else but I doubt it.
+
+It'd likely be more valuable to get that technique out in the open so there are more eyes (and hands) working on fine tuning it and the routing as shared improvements could only help him push things even farther.
+
+Plus if he did know this technique long before now it'd kind of just suck to be sitting on it not being able to share his runs due to that spoiling the technique for everyone else.
+
+Not saying he doesn't potentially have better runs, just likely not ones he's been sitting on for years. I could definitely see him having a sub 10 run now though and he's just giving other people a chance to try to match this run or slightly beat it before pulling it out.
+                No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+        Absolutely he likely does; man's raking in the gains one WR break at a time instead of showing only the peak of his results; just smart to do so.
+    [removed]
+        This looks like a karma bot fyi.
+            Why the hell do people upvote crappy ai nonsense comments? I see it all the time
+        TWOW?
+            Grrm finally done it?
+Thank you for the explanation! Was truly bout to be like *wtf we were stuck at like 11.0 for foooreever* so that’s super cool!
+So will Bryonato be doing more TF2 speed runs now?
+After so long, they have discovered the basic mechanics of crouch jumping. I'm upset that I never thought to say anything.
+
+One of my mains over on Team Fortress 2 is soldier, a relatively slow class. Although soldier players have one thing to help them move fast. Rocket jumping!
+
+Crouch jumping in tf2 allows you to do some Source shenanigans, and allows for much better speed while rocket jumping, sticky jumping, sentry jumping, and surfing damage.
+
+Who would've guessed it would be useful in this TF2.
+    It’s less the actual crouching, it’s not really to do with that. It’s more that the crouch ends your wallrun so if you crouch and jump as you hit a wall you get the combined speed from both a wallkick and an end boost which obviously results in more speed than just a wallkick
+    It's extra weird that it wasn't found earlier considering Titanfall 2 is also using a version of source (albeit heavily modified)
+        I mean shit most games are probably all running on a version of a heavily modified quake engine.  (Or unreal)
+    its very specifically pressing crouch and jump at the exact same time when you go for a wall kick and nothing else.
+No one else has a chance and it's hysterical. 
+
+"Guys, look, I set the new record!"
+
+Cash_Mayo:
+"Oh, I don't think so."
+    > "Guys, look, I set the new record!"
+
+Cash_Mayo: https://i.kym-cdn.com/entries/icons/original/000/035/410/Screen_Shot_2020-10-05_at_11.51.58_AM.png
+        That wasn’t very cash ~~money~~ mayo of you
+    every time someone breaks the record Cash Mayo comes in and breaks that record’s back a la Bane vs Batman
+    Lmao literally yesterday whatevershoe got a 10.3 but missed a few targets, and then we get this lol
+    moon? Like the guy who invented the Carolina Reaper pepper, he says he has hotter ones but has no incentive to release them comercialy unless someone beats him. I think he busts them out for pepper eating contests and stuff though.
+*Cash_Mayo breaks gauntlet record*
+
+Cash_Mayo: I'll fucking do it again!
+I’ve never even played this game and I can see how impressive that was. Looking forward to seeing the WR cut down.
+Not people, Cash Mayo
+    Cash Money Mayo
+they took viper's words to heart
+
+> *you need to move a little faster than that, son — speed is life*
+a new tech was discovered
+“Fine, I’ll do it myself”
+I think one guy broke his record recently. IIRC it didn’t last a week.
+    It was a few months ago, I don’t remember the time but I think it was just sub 11 and not even a full week later and Cash Money Mayo comes in and destroys
+That isn't terribly uncommon, and used to be moreso. A lot of games are dominated by one runner, or eras with one dominant runner if it has a community sized base for a long time.
+Yeah fuck off uncle John, you pillow fight having cunt!
+My Uncle John always made me pillow fight with him late at night when my parents were sleeping.
+    Me too man. We'd go down in the unfinished basement to do it since my parents wouldn't be able to hear us down there and we wouldn't wake them up. He even got my sister to join in a couple times. So much fun. Legally he wasn't allowed to see his own kids after he got out of prison, so we always felt kinda bad for him. He'd do so much for us like buy us clothes and toys. He even made us his own fruit juice that he'd give us before we went to sleep. My other uncle raped me like once or 30 times when I was younger and that fucking SUCKED. Literally.
+Hate to break it to you, Champ..
+
+But ya moms a ho. 
+
+\#FreeUncleJack
+Stop encouraging him! This is already way too fast, haha
+[removed]
+    bot
+        Why are you getting downvoted lol, you are right
+            Yeah, ikr. If you check their profile all of their comments are like the same thing
+This made me laugh as work. Thank you
+beginning??
+this is already matrix 2 territory
+*Cash_Mayo breaks gauntlet record*
+
+Cash_Mayo: and again?
+I'm going to be the guy who says sub 9 is impossible so some young upstart will dedicate their lives to proving me wrong.
+    Good man
+    See you in the summoning salt video
+I am honestly surprised by this as well. I would have assumed he'd be on PC with accuracy like that.
+    Right?!?
+    He's almost certainly using controller for lurch-less movement tech. The gauntlet doesn't have any sharp turns that would require lurch-tech like tap strafing, and you get smoother runs by being more able to accurately control the direction of the movement inputs.
+*Took out ghaul. Woke up the traveler. And now half of what i hear in the streets is how much you and your clan are making a difference. And that's why i started this whole clan thing in the first place. People are still waiting for the Vanguard to lead the way. But it's time for a change! And guardians like you are making it happen. No pressure.*
+Cash Mayo is octane!  I'm not sure what his record was when they made the character but he is based off of Cash Mayo.  Legend!
+    I thought you were kidding and looked it up, can but it's true!
+
+The record was 12 seconds at the time.
+    Is this real?
+        [Definitely Real](https://www.altchar.com/game-news/speedrunner-behind-octane-inspiration-breaks-titanfall-2-gauntlet-record-again-adsjU9p4mIog)
+        In what way ?  
+
+
+Octane is based on a real life speedrunner. The one who started using grenades to go faster in the Gauntlet. I don't know if Cash Mayo is this speedrunner though.
+            Cash Mayo definitely is the speed runner. He's a legend
+                daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+                    There's threads from devs before he dropped that they based him on mayo's runs.
+Around 12 I believe? Probably wrong tho
+
+Edit: it was 10.9
+    Previous record was 10.9. I had a 10.6 waiting to be verified before I published it, but by the time I got this one the next day the 10.6 still hadn't been verified.
+        Ah lol I was wrong then. This is fucking insane tho dude, can’t wait for a sub ten. With the new strat it def seemed possible.
+        Who verifies these? You mean just like a speedrunning community consensus?
+            The [Titanfall 2 leaderboards](https://www.speedrun.com/Titanfall_2) on speedrun.com have 6 moderators who watch and verify that all of the submitted runs are valid and legitimate. You can check out the rules tab to see what exactly they look for.
+He is based off this guy but yea you right
+I was about to be angry, than i saw the rest if the comment. Now i am at peace. Thank you.
+Ha, I might be fast but I'm not even close to being OG. Your spot there is still most fitting. Goatsager stays on top.
+Nope. This is raw controller input at real time.
+    Oh my gosh nice job man
+You do realize that titanfall is the game before apex. They are the same universe.
+i will be sure to get exactly 10 and not a millisecond faster
+    I have absolutely nothing to offer you in return, yet I'll be indebted to you for the duration of your speedrunning career. All because of a dated joke :)
+Not the double fragboost that would normally kill you, but everything else translates directly for other levels. This game's campaign speedruns go hard af.
+I wouldn't call this fully optimized. There are things to improve still, even just with execution. Crouch kicks have already helped dropped the time over a half second and they've only been here for like a week out of 5 years.
+It's just my preferred input method. I had 3k hours on controller before I switched to PC, and for gauntlet controller and KBM are about on even ground.
+I did them a while back! You can check out all my runs on my [speedrun dot com page](https://www.speedrun.com/user/CashMayo).
+Max velocity from explosions is 90. Above that, they don't add speed.
+I still enjoy seeing your 12 second runs and now this I am happy hope you enjoy your new movement tech cash keep these speedruns up
+    glad you think they're as neat as i do! :D
+        There amazing and whenever I see your speedruns I forget how slow I am in mp
+        A lot of us do. Me n my boys keep up with your work
+
+Edit they came in after this to show me the 10.2 run all excited
+        They're inspiring c:
+I'm amazed that things are still being discovered in Titanfall. Kudos ! Also, go for it, break that 10 seconds, you'll have that all your life !
+Could you not do a longer run up beforehand to build up speed? That could speed it up.
+    Yeah, I also noticed that he entered it at 98 or smthn first time round, and finished at 109. Probably something to do with the angle he enters not being optimal, but I'd love to hear the explanation behind the difference in speeds.
+        Well, the gauntlet will break if you go in too fast. I don't know if that is the limit we're dealing with here, but I think so. You can try it out yourself- just damage-boost yourself with frag grenades directly before entering, there are probably also tutorials for it on youtube. When the gauntlet breaks, the bots won't spawn and there won't be a timer or the ghost. You can also get out of the map this way.
+            Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+                The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+                That could be, but I don’t know a lot about Titanfall TAS and how it works…
+                I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+Pilot… I am detecting an Elizabethan Era playwright in the vicinity.
+Everytime Cash Mayo breaks the WR:
+
+Captain lastimosa: "My time has come"
+
+*gets shot with the RE-45*
+You have a recording of a sub-10 you're sitting on, don't you?
+    He probably does, just waits till someone beats his previous and uploads nearest one lmao
+    My theory is that he's had a sub 10 for years, people are just catching up enough that hes almost to the point of needing to use it.
+        [deleted]
+            Yea I suppose.
+        Every other runner that comes close to Mayo's time causes him to use 1% more of his power.
+        Considering how recently the new Crouch kick technique was discovered he probably hasn't been sitting on a sub 10 for years, assuming it's not possible without this tech.
+
+MAYBE he knew this tech the whole time and has been practicing and improving his own routing in secret to have a head start when it was discovered by someone else but I doubt it.
+
+It'd likely be more valuable to get that technique out in the open so there are more eyes (and hands) working on fine tuning it and the routing as shared improvements could only help him push things even farther.
+
+Plus if he did know this technique long before now it'd kind of just suck to be sitting on it not being able to share his runs due to that spoiling the technique for everyone else.
+
+Not saying he doesn't potentially have better runs, just likely not ones he's been sitting on for years. I could definitely see him having a sub 10 run now though and he's just giving other people a chance to try to match this run or slightly beat it before pulling it out.
+            No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+    Absolutely he likely does; man's raking in the gains one WR break at a time instead of showing only the peak of his results; just smart to do so.
+[removed]
+    This looks like a karma bot fyi.
+        Why the hell do people upvote crappy ai nonsense comments? I see it all the time
+    TWOW?
+        Grrm finally done it?
+It’s less the actual crouching, it’s not really to do with that. It’s more that the crouch ends your wallrun so if you crouch and jump as you hit a wall you get the combined speed from both a wallkick and an end boost which obviously results in more speed than just a wallkick
+It's extra weird that it wasn't found earlier considering Titanfall 2 is also using a version of source (albeit heavily modified)
+    I mean shit most games are probably all running on a version of a heavily modified quake engine.  (Or unreal)
+its very specifically pressing crouch and jump at the exact same time when you go for a wall kick and nothing else.
+> "Guys, look, I set the new record!"
+
+Cash_Mayo: https://i.kym-cdn.com/entries/icons/original/000/035/410/Screen_Shot_2020-10-05_at_11.51.58_AM.png
+    That wasn’t very cash ~~money~~ mayo of you
+every time someone breaks the record Cash Mayo comes in and breaks that record’s back a la Bane vs Batman
+Lmao literally yesterday whatevershoe got a 10.3 but missed a few targets, and then we get this lol
+moon? Like the guy who invented the Carolina Reaper pepper, he says he has hotter ones but has no incentive to release them comercialy unless someone beats him. I think he busts them out for pepper eating contests and stuff though.
+Cash Money Mayo
+It was a few months ago, I don’t remember the time but I think it was just sub 11 and not even a full week later and Cash Money Mayo comes in and destroys
+Me too man. We'd go down in the unfinished basement to do it since my parents wouldn't be able to hear us down there and we wouldn't wake them up. He even got my sister to join in a couple times. So much fun. Legally he wasn't allowed to see his own kids after he got out of prison, so we always felt kinda bad for him. He'd do so much for us like buy us clothes and toys. He even made us his own fruit juice that he'd give us before we went to sleep. My other uncle raped me like once or 30 times when I was younger and that fucking SUCKED. Literally.
+bot
+    Why are you getting downvoted lol, you are right
+        Yeah, ikr. If you check their profile all of their comments are like the same thing
+Good man
+See you in the summoning salt video
+Right?!?
+He's almost certainly using controller for lurch-less movement tech. The gauntlet doesn't have any sharp turns that would require lurch-tech like tap strafing, and you get smoother runs by being more able to accurately control the direction of the movement inputs.
+I thought you were kidding and looked it up, can but it's true!
+
+The record was 12 seconds at the time.
+Is this real?
+    [Definitely Real](https://www.altchar.com/game-news/speedrunner-behind-octane-inspiration-breaks-titanfall-2-gauntlet-record-again-adsjU9p4mIog)
+    In what way ?  
+
+
+Octane is based on a real life speedrunner. The one who started using grenades to go faster in the Gauntlet. I don't know if Cash Mayo is this speedrunner though.
+        Cash Mayo definitely is the speed runner. He's a legend
+            daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+                There's threads from devs before he dropped that they based him on mayo's runs.
+Previous record was 10.9. I had a 10.6 waiting to be verified before I published it, but by the time I got this one the next day the 10.6 still hadn't been verified.
+    Ah lol I was wrong then. This is fucking insane tho dude, can’t wait for a sub ten. With the new strat it def seemed possible.
+    Who verifies these? You mean just like a speedrunning community consensus?
+        The [Titanfall 2 leaderboards](https://www.speedrun.com/Titanfall_2) on speedrun.com have 6 moderators who watch and verify that all of the submitted runs are valid and legitimate. You can check out the rules tab to see what exactly they look for.
+Oh my gosh nice job man
+I have absolutely nothing to offer you in return, yet I'll be indebted to you for the duration of your speedrunning career. All because of a dated joke :)
+glad you think they're as neat as i do! :D
+    There amazing and whenever I see your speedruns I forget how slow I am in mp
+    A lot of us do. Me n my boys keep up with your work
+
+Edit they came in after this to show me the 10.2 run all excited
+    They're inspiring c:
+Yeah, I also noticed that he entered it at 98 or smthn first time round, and finished at 109. Probably something to do with the angle he enters not being optimal, but I'd love to hear the explanation behind the difference in speeds.
+    Well, the gauntlet will break if you go in too fast. I don't know if that is the limit we're dealing with here, but I think so. You can try it out yourself- just damage-boost yourself with frag grenades directly before entering, there are probably also tutorials for it on youtube. When the gauntlet breaks, the bots won't spawn and there won't be a timer or the ghost. You can also get out of the map this way.
+        Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+            The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+            That could be, but I don’t know a lot about Titanfall TAS and how it works…
+            I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+He probably does, just waits till someone beats his previous and uploads nearest one lmao
+My theory is that he's had a sub 10 for years, people are just catching up enough that hes almost to the point of needing to use it.
+    [deleted]
+        Yea I suppose.
+    Every other runner that comes close to Mayo's time causes him to use 1% more of his power.
+    Considering how recently the new Crouch kick technique was discovered he probably hasn't been sitting on a sub 10 for years, assuming it's not possible without this tech.
+
+MAYBE he knew this tech the whole time and has been practicing and improving his own routing in secret to have a head start when it was discovered by someone else but I doubt it.
+
+It'd likely be more valuable to get that technique out in the open so there are more eyes (and hands) working on fine tuning it and the routing as shared improvements could only help him push things even farther.
+
+Plus if he did know this technique long before now it'd kind of just suck to be sitting on it not being able to share his runs due to that spoiling the technique for everyone else.
+
+Not saying he doesn't potentially have better runs, just likely not ones he's been sitting on for years. I could definitely see him having a sub 10 run now though and he's just giving other people a chance to try to match this run or slightly beat it before pulling it out.
+        No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+Absolutely he likely does; man's raking in the gains one WR break at a time instead of showing only the peak of his results; just smart to do so.
+This looks like a karma bot fyi.
+    Why the hell do people upvote crappy ai nonsense comments? I see it all the time
+TWOW?
+    Grrm finally done it?
+I mean shit most games are probably all running on a version of a heavily modified quake engine.  (Or unreal)
+That wasn’t very cash ~~money~~ mayo of you
+Why are you getting downvoted lol, you are right
+    Yeah, ikr. If you check their profile all of their comments are like the same thing
+[Definitely Real](https://www.altchar.com/game-news/speedrunner-behind-octane-inspiration-breaks-titanfall-2-gauntlet-record-again-adsjU9p4mIog)
+In what way ?  
+
+
+Octane is based on a real life speedrunner. The one who started using grenades to go faster in the Gauntlet. I don't know if Cash Mayo is this speedrunner though.
+    Cash Mayo definitely is the speed runner. He's a legend
+        daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+            There's threads from devs before he dropped that they based him on mayo's runs.
+Ah lol I was wrong then. This is fucking insane tho dude, can’t wait for a sub ten. With the new strat it def seemed possible.
+Who verifies these? You mean just like a speedrunning community consensus?
+    The [Titanfall 2 leaderboards](https://www.speedrun.com/Titanfall_2) on speedrun.com have 6 moderators who watch and verify that all of the submitted runs are valid and legitimate. You can check out the rules tab to see what exactly they look for.
+There amazing and whenever I see your speedruns I forget how slow I am in mp
+A lot of us do. Me n my boys keep up with your work
+
+Edit they came in after this to show me the 10.2 run all excited
+They're inspiring c:
+Well, the gauntlet will break if you go in too fast. I don't know if that is the limit we're dealing with here, but I think so. You can try it out yourself- just damage-boost yourself with frag grenades directly before entering, there are probably also tutorials for it on youtube. When the gauntlet breaks, the bots won't spawn and there won't be a timer or the ghost. You can also get out of the map this way.
+    Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+        The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+        That could be, but I don’t know a lot about Titanfall TAS and how it works…
+        I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+[deleted]
+    Yea I suppose.
+Every other runner that comes close to Mayo's time causes him to use 1% more of his power.
+Considering how recently the new Crouch kick technique was discovered he probably hasn't been sitting on a sub 10 for years, assuming it's not possible without this tech.
+
+MAYBE he knew this tech the whole time and has been practicing and improving his own routing in secret to have a head start when it was discovered by someone else but I doubt it.
+
+It'd likely be more valuable to get that technique out in the open so there are more eyes (and hands) working on fine tuning it and the routing as shared improvements could only help him push things even farther.
+
+Plus if he did know this technique long before now it'd kind of just suck to be sitting on it not being able to share his runs due to that spoiling the technique for everyone else.
+
+Not saying he doesn't potentially have better runs, just likely not ones he's been sitting on for years. I could definitely see him having a sub 10 run now though and he's just giving other people a chance to try to match this run or slightly beat it before pulling it out.
+    No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+Why the hell do people upvote crappy ai nonsense comments? I see it all the time
+Grrm finally done it?
+Yeah, ikr. If you check their profile all of their comments are like the same thing
+Cash Mayo definitely is the speed runner. He's a legend
+    daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+        There's threads from devs before he dropped that they based him on mayo's runs.
+The [Titanfall 2 leaderboards](https://www.speedrun.com/Titanfall_2) on speedrun.com have 6 moderators who watch and verify that all of the submitted runs are valid and legitimate. You can check out the rules tab to see what exactly they look for.
+Out of interest, how the hell do the TAS runs function? fzzy enters the gauntlet at 250+ kph and completes it just fine, is the TAS slowdown also stopping it breaking maybe?
+    The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+    That could be, but I don’t know a lot about Titanfall TAS and how it works…
+    I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+Yea I suppose.
+No, he already knows every possible tech. He's know about this since launch. All of his clips are from launch and he just releases a new one when he needs to lower his record.
+daaaaaamn
+
+as an Octane main and Titanfall fan, this is incredibly amazing
+    There's threads from devs before he dropped that they based him on mayo's runs.
+The TAS rules allow quicksaves, specifically modified quicksaves that preserve velocity. Some quicksave fuckery with saving and loading in particular places means he can hit the trigger every time (or at least that's my understanding of it).
+
+That's not even getting into how the TAS runs are actually just different segments' recordings that are stitched together perfectly so it looks like it was all done in one take. With the velocity-preserving quicksaves it makes it very easy to edit segments together seamlessly.
+That could be, but I don’t know a lot about Titanfall TAS and how it works…
+I can give an educated guess, the reason the gauntlet breaks is most likely because you’re moving so fast you are before the trigger to spawn the bots and spawn the map geometry for the second half of the gauntlet one frame and past it on the next, skipping the trigger.
+
+The tas is most likely aligned to exactly hit that trigger on a frame.
+There's threads from devs before he dropped that they based him on mayo's runs.

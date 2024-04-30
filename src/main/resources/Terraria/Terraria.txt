@@ -1,0 +1,165 @@
+{{Short description|2011 video game}}
+{{for|the container used for growing plants|Terrarium}}
+{{pp-vandalism|small=yes}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox video game
+| title = Terraria
+| image = Terraria Steam artwork.jpg
+| developer = [[Re-Logic]]{{efn|Ported to mobile and console platforms by [[DR Studios]]. The mobile version was formerly developed by Codeglue, who also developed the [[Nintendo 3DS]] version. The console version was formerly developed by [[Pipeworks Studios]] and [[Engine Software]].}}
+| publisher = [[505 Games]]{{efn|The PC versions are self-published by [[Re-Logic]], while a retail Windows version was published by [[Headup Games]] in Europe. Japanese version published by [[Spike Chunsoft]].}}
+| platforms = {{Collapsible list|title={{nobold|[[Windows]]}}
+| [[PlayStation 3]]
+| [[Xbox 360]]
+| [[PlayStation Vita]]
+| [[iOS]]
+| [[Android (operating system)|Android]]
+| [[Windows Phone]]
+| [[PlayStation 4]]
+| [[Xbox One]]
+| [[macOS]]
+| [[Linux]]
+| [[Nintendo 3DS]]
+| [[Wii U]]
+| [[Nintendo Switch]]
+| [[Google Stadia]]
+}}
+| released = {{Collapsible list|title={{nobold|May 16, 2011}}
+| '''Windows'''
+| {{Video game release|WW|May 16, 2011}}
+| '''PlayStation 3'''
+| {{Video game release|NA|March 26, 2013|PAL|May 15, 2013}}
+| '''Xbox 360'''
+| {{Video game release|WW|March 27, 2013}}
+| '''PlayStation Vita'''
+| {{Video game release|PAL|December 11, 2013|NA|December 17, 2013}}
+| '''iOS'''
+| {{Video game release|WW|August 29, 2013}}
+| '''Android'''
+| {{Video game release|WW|September 13, 2013}}
+| '''Windows Phone'''
+| {{Video game release|WW|September 12, 2014}}
+| '''PlayStation 4'''
+| {{Video game release|WW|November 11, 2014}}
+| '''Xbox One'''
+| {{Video game release|WW|November 14, 2014}}
+| '''macOS''', '''Linux'''
+| {{Video game release|WW|August 12, 2015}}
+| '''Nintendo 3DS'''
+| {{Video game release|WW|December 10, 2015}}
+| '''Wii U'''
+| {{Video game release|PAL|June 24, 2016|NA|June 28, 2016}}
+| '''Nintendo Switch'''
+| {{Video game release|WW|June 27, 2019}}
+| '''Google Stadia'''
+| {{Video game release|WW|March 18, 2021}}
+}}
+| genre = [[Action-adventure]], [[Sandbox game|sandbox]]
+| modes = [[Single-player]], [[multiplayer]]
+| director =
+| producer = Whitney Spinks
+| designer = {{Unbulleted list
+| Andrew Spinks
+| Whitney Spinks
+| Yorai Omer
+}}
+| programmer = {{Unbulleted list
+| Yorai Omer
+| Andrew Spinks
+| Chris Bednarz
+}}
+| artist = {{Unbulleted list
+| Victor Moura
+| James Hayes
+| Jim Kjexrud
+}}
+| composer = Scott Lloyd Shelly
+| engine =
+}}
+'''''Terraria''''' ({{IPAc-en|pron|t|ə|ˈ|r|ɛər|i|ə|audio=En-us_Terraria.wav}}) is a 2011 [[action-adventure]] [[sandbox game]] developed by [[Re-Logic]]. The game was first released for [[Windows]] and has since been [[Porting|ported]] to other PC and console platforms. The game features exploration, crafting, building, painting, and combat with a variety of creatures in a [[procedurally generated]] [[2D computer graphics|2D]] world. ''Terraria'' received generally positive reviews and by 2022 had sold 44 million copies, making it one of the [[best-selling video games]].
+== Gameplay ==
+[[File:Terraria screenshot.png|thumb|left|In-game screenshot showing the player at the starting area of a newly generated world]]
+''Terraria'' is a [[2D computer graphics|2D]] [[sandbox game]] with gameplay that revolves around exploration, building, crafting, combat, survival, and mining, playable in both [[single-player]] and [[multiplayer]] modes. The game has a 2D [[Sprite (computer graphics)|sprite]] tile-based graphical style reminiscent of the 16-bit [[Sprite (computer graphics)|sprites]] found on the [[Super NES]]. The game is noted for its classic exploration-adventure style of gameplay, similar to games such as the ''[[Metroid]]'' series and ''[[Minecraft]]''.
+The game starts in a [[procedurally generated]] world, with players starting out with basic tools and a [[non-player character]] (NPC) guide to get them started and bring their attention to aspects of the game and progression.Some resources may only be found in specific areas of the map, stored in common and rare containers, or dropped by certain enemies. Players use resources to craft new items and equipment. Different recipes require different resources and crafting stations. Several items in ''Terraria'' create complex crafting trees involving a large amount of items to create a single powerful piece of equipment.
+Players have the option to customize their character's appearance when creating a new character, and in-game through items and NPCs. Along with that, players can obtain vanity items, which are special armor pieces and accessories with only a cosmetic effect, and dyes to change the color of equipped armor or accessories. Characters have three inventory slots for armor to be equipped, and several inventory slots for various accessories to provide a boost to a player's statistics, such as wings or boots, as well as vanity slots for all of them, allowing them to be hidden behind cosmetics while retaining their effects. Much like most Terraria items, armor and accessories can be crafted, found around the world, and obtained from defeating bosses.{{cn|date=November 2023}}
+Players can encounter many different types of enemies in ''Terraria'', the occurrence of which depends on several factors including time, location, and random events. Players may also battle [[boss (video gaming)|bosses]] that utilize a number of different combat mechanics and can drop rare and valuable items. Bosses are summoned by using certain items or when certain criteria are met. The defeat of some bosses is directly tied to in-game progression, while others remain optional. Defeating the Wall of Flesh boss advances the game into "hardmode", which adds many new enemies throughout the world, as well as new [[NPCs]] and items. Like bosses, players can battle special enemies and mini bosses during invasions, in which enemies appear constantly and they either must be defeated or a certain amount of time must pass before the event ends. ''Terraria'' also features seasonal events which activate during certain periods of the real world calendar year, adding new enemies and content.
+By completing specific goals, such as defeating a boss or obtaining a certain item, players can attract NPCs to occupy structures or rooms they have built, such as a merchant, nurse, or wizard. Some NPCs can be acquired by finding them throughout the world and will then reside in player-created houses after being rescued. Players may then buy or sell items and certain services from NPCs with coins obtained from defeating enemies and bosses. The game features many different biomes and areas, which are each home to a unique set of enemies and challenges. The Corruption, Crimson, and the hardmode-exclusive Hallow, will expand by slowly overtaking and converting nearby blocks. NPCs prefer to be around certain biomes and with certain other NPCs, and will raise and lower their prices and sell special items depending on if they are sufficiently happy.
+"Expert" and "Master mode" are difficulty modes that increase the challenge of the game in exchange for some exclusive items. "Journey" mode allows players to duplicate items, adjust the world's difficulty, and control weather and time at will while playing.
+''Terraria'' has support for [[Mod (video gaming)|mods]], which is facilitated by the third-party tModLoader. It later received official support when it was released as free [[downloadable content]] alongside the "Journey's End" update on [[Steam (service)|Steam]] in 2020. Mods for ''Terraria'' vary widely in their scope, content, and purpose. Some, such as Thorium and Calamity, add new content to the game, including new bosses, weapons, and biomes. Others, such as Overhaul, rework the mechanics of the game to provide players with a different experience. And additional ones, such as Recipe Browser, Veinminer, and Fargo's Mutant Mod, aim to improve quality of life by streamlining parts of the game.
+== Development and release ==
+Development of ''Terraria'' began in January 2011 by Re-Logic, built on the [[Microsoft XNA]] framework and written in [[C Sharp (programming language)|C#]]. Re-Logic was composed of Andrew "Redigit" Spinks, who designed and programmed the game; Finn Brice, who, along with Spinks, did the graphic design for the game. The music was composed by Scott Lloyd Shelly. The game was released for [[Windows]] on May 16, 2011. In December 2011, the game was updated to version 1.1, adding new monsters, bosses, NPCs, and items. The update also included improvements to the game's world generation technology and lighting system. In February 2012, the developers announced that they would not continue development but would release a final bug-fix patch. However, development resumed in 2013 with Spinks asking the community for ideas to include in future content updates.
+In September 2012, Spinks announced that [[Engine Software]] and [[505 Games]] would be porting ''Terraria'' to [[Xbox 360]] and [[PlayStation 3]]. The game was released for Xbox 360 via [[Xbox Live Arcade]] on March 27, 2013. The PlayStation 3 version was released via the [[PlayStation Network]] in North America on March 26, 2013 and in Europe and Australia on May 15, 2013. Shortly after the initial console release, 505 Games announced ''Terraria'' for [[PlayStation Vita]]; it was released in Europe on December 11, 2013, and in North America on December 17, 2013. [[Spike Chunsoft]] localized the PlayStation 3 and Vita versions for release in Japan, including exclusive items such as a costume based on [[Monokuma]] from their ''[[Danganronpa]]'' series. In May 2013, 505 Games announced a mobile version of ''Terraria'' ported by Dutch studio Codeglue for [[Android (operating system)|Android]], [[iOS]], and [[Windows Phone]]. It was released for iOS on August 29, 2013, and for Android on September 13, 2013. The Windows Phone version was released on September 12, 2014.
+In October 2013, Re-Logic released version 1.2 for ''Terraria'' on Windows. The update added a host of new mechanics, gameplay changes, and graphics adjustments. A [[Wii U]] version was released on the eShop in June 2016.
+Version 1.3 was released on June 30, 2015, adding even more items, events, enemies, bosses, and gameplay features. The update was released for consoles on December 12, 2017, and was released for mobile on August 27, 2019. In July 2016, [[505 Games]] announced that Engine Software and Codeglue would no longer be working on the console and mobile versions respectively and that a new studio, Pipeworks, would take over the development of those versions. A version for the [[Nintendo Switch]], ported by 505 Games, was released on June 27, 2019. In December 2018, 505 Games announced that development of the 1.3 update for mobile would be taken over by [[DR Studios]] to help Pipeworks focus on the Switch port of the game. In August 2020, Re-Logic announced that development of the Console and Switch would be taken over by [[DR Studios]].
+The fourth and final major update for the game, ''Journey's End'', was released on May 16, 2020, the ninth anniversary of the game's initial release. As with previous updates, it added new items, enemies, difficulty modes, and gameplay features.
+In February 2021, Spinks announced the cancellation of the [[Google Stadia|Stadia]] [[port (video gaming)|port]] of ''Terraria'' due to the suspension of the Re-Logic/Spinks's [[Google]] account without a given reason for over three weeks. He also announced that Re-Logic would not be working with Google again in the future stating, "I will not be involved with a corporation that values their customers and partners so little. Doing business with Google is a liability." He later clarified that existing [[Android (operating system)|Android]] and [[Google Play]] versions of the game will not be affected. Later that February, Google reached out to Re-Logic about the account shutdown and provided transparency around the situation and restored their accounts, and subsequently, Re-Logic reaffirmed that they still planned to release the game for Stadia, which it did on March 18, 2021.
+A March 2021 update for the Steam version of the game added direct support for resource packs, worlds, and character sharing through the [[Steam Workshop]]. tModLoader is still used to help provide and install [[mod (video games)|user-created mods]] for the game. In November 2021, a crossover update added content from the survival game ''[[Don't Starve Together]]'', which received its own ''Terraria''-themed content in return. An update known as "Labor of Love" (named after the Steam award) which added many quality-of-life features was released on September 28, 2022.
+=== Sequels ===
+In October 2013, Spinks announced that he was planning ''Terraria 2'', stating that it would be significantly different from the original game. In August 2022, Spinks released concept art for the sequel, and mentioned that it would use a new, updated game engine.
+''Terraria: Otherworld'' was a separate game in the series which was announced in February 2015 and planned for release later that year. A year later, Re-Logic announced that ''Otherworld'' had been cancelled due to them not being satisfied with its development.
+== Reception ==
+{{Video game reviews
+| MC = PC: 83/100 PS3: 81/100 X360: 81/100 iOS: 82/100 VITA: 85/100 PS4: 83/100 XONE: 84/100 3DS: 71/100 NS: 82/100
+| Destruct = 8/10
+| GSpot = 8/10
+| GameZone = 9/10
+| IGN = 9/10
+| PCGUS = 79%
+| TA = iOS: {{rating|5|5}}
+}}
+''Terraria'' received generally favorable reviews from critics, according to [[review aggregator]] [[Metacritic]].{{r|metacritic_pc|metacritic_ps3|metacritic_x360|metacritic_ios|metacritic_vita|metacritic_ps4|metacritic_xone}} A review for ''[[Destructoid]]'' included praise for ''Terraria'' as "full of depth". Another reviewer praised ''Terraria''{{'s}} integration of some of ''Minecraft''{{'s}} concepts into two dimensions. ''[[GameSpot]]'' praised ''Terraria''{{'s}} exploration and feeling of accomplishment but criticized its lack of tutorial or explicit directions. [[IGN]] praised the game, claiming that ''Terraria'': "expands on the familiar sandbox gameplay with a greater emphasis on combat and adventure." ''Terraria'' received the #1 of 2011 Indie of the Year Player Choice on [[IndieDB]]. ''Terraria'' has been described as a ''[[Minecraft]]'' clone by various video gaming media outlets. *{{cite web |url=https://kotaku.com/not-all-minecraft-clones-are-a-waste-of-time-1543502993 |title=Not All Minecraft Clones Are A Waste Of Time |first=Luke |last=Plunkett |date=March 13, 2014 |work=[[Kotaku]] |access-date=January 21, 2016 |archive-date=June 14, 2018 |archive-url=https://web.archive.org/web/20180614045328/https://kotaku.com/not-all-minecraft-clones-are-a-waste-of-time-1543502993 |url-status=live }}
+*{{cite web |url=https://arstechnica.com/gaming/2011/07/living-under-a-blocky-shadow-the-world-of-minecraft-clones/ |title=Living under a blocky shadow: the world of Minecraft clones |first=Andrew |last=Webster |date=July 27, 2011 |work=[[Ars Technica]] |access-date=January 21, 2016 |archive-date=December 3, 2012 |archive-url=https://web.archive.org/web/20121203103830/http://arstechnica.com/gaming/2011/07/living-under-a-blocky-shadow-the-world-of-minecraft-clones/ |url-status=live }}
+*{{cite web |url=https://www.pcgamer.com/the-gamee28099s-industrye28099s-massive-fail-where-are-all-the-minecraft-clones/ |title=The game's industry's massive fail: where are all the Minecraft clones? |first=Tim |last=Edwards |work=[[PC Gamer]] |date=September 20, 2011 |access-date=January 21, 2016 |archive-date=June 14, 2018 |archive-url=https://web.archive.org/web/20180614045308/https://www.pcgamer.com/the-gamee28099s-industrye28099s-massive-fail-where-are-all-the-minecraft-clones/ |url-status=live }}
+*{{cite web |url=https://www.pcgamesn.com/terraria/14-release-date-journeys-end |title=Terraria's fourth and final free expansion launches in May |last=Bailey |first=Dustin |date=April 13, 2020 |website=[[PCGamesN]] |access-date=May 15, 2020 |archive-date=April 30, 2020 |archive-url=https://web.archive.org/web/20200430072008/https://www.pcgamesn.com/terraria/14-release-date-journeys-end |url-status=live }}
+''Terraria'' sold 200,000 copies in just over a week after its release,
+{{clear}}
+== Notes ==
+{{Notelist}}
+== References ==
+{{Reflist|refs=
+<!--
+-->
+}}
+== External links ==
+{{Wikiquote}}
+* {{Official website|https://terraria.org}}
+* [https://terraria.wiki.gg/wiki/Terraria_Wiki Official wiki]
+{{Authority control}}
+[[Category:2011 video games]]
+[[Category:Action-adventure games]]
+[[Category:Android (operating system) games]]
+[[Category:Construction and management simulation games]]
+[[Category:Indie games]]
+[[Category:IOS games]]
+[[Category:Linux games]]
+[[Category:MacOS games]]
+[[Category:Microsoft XNA games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo 3DS eShop games]]
+[[Category:Nintendo 3DS games]]
+[[Category:Nintendo Network games]]
+[[Category:Nintendo Switch games]]
+[[Category:Open-world video games]]
+[[Category:PlayStation 3 games]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation Network games]]
+[[Category:PlayStation Vita games]]
+[[Category:Stadia games]]
+[[Category:Video games with Steam Workshop support]]
+[[Category:Survival video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games with gender-selectable protagonists]]
+[[Category:Video games using procedural generation]]
+[[Category:Video games with cross-platform play]]
+[[Category:Wii U eShop games]]
+[[Category:Wii U games]]
+[[Category:Windows games]]
+[[Category:Windows Phone games]]
+[[Category:Xbox 360 games]]
+[[Category:Xbox 360 Live Arcade games]]
+[[Category:Xbox Cloud Gaming games]]
+[[Category:Xbox One games]]
+[[Category:505 Games games]]
+[[Category:Headup Games games]]
+[[Category:Engine Software games]]
+[[Category:DR Studios games]]
+[[Category:Sandbox games]]
