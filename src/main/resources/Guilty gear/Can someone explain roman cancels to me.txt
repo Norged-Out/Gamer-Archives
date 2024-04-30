@@ -1,0 +1,184 @@
+[[Can someone explain roman cancels to me]]
+
+
+I'm new to fighting games as a whole, please use fighting game laungage sparingly.
+
+
+roman cancels allow you to cancel an action into something else instantly. if you use an attack that doesn't hit anything (whiff) and is in recovery, then you'll get a purple roman cancel. if you hit someone, you'll get a red roman cancel. if you do a movement based action or non-attack you'll get a blue roman cancel.
+
+purple RC is specifically for if you miss an attack, it'll allow you to recover in time so you don't get punished or you might be able to punish the opponent. red RC allows you to extend pressure or go for an overhead/low mix-up, creating a combo sequence. blue RC are pretty versatile since you can use it for mix-up, see what your opponent's doing, or extend pressure since blue RC has a lot more slow down than the other options, it can even be used defensively but that's more advanced.
+    There's also yellow roman cancel which you use by activating right after blocking an attack. This will knock your opponent back and create space to let you breathe
+    Purple is for startup or recovery. You get red if you are in the freeze frames of an attack connecting, but you get purple on during recovery even if the attack landed.
+Roman cancels essentially let you cancel any action at any time. It allows you to continue a combo when normally would've ended. Fix a mistake, like a whiffed or blocked attack. Get yourself out of block stun when you're attacked. There are also more options but these are the main 3.
+roman cancel = spend meter to stop whatever you’re doing. Use em to make your moves less risky and to do combos you couldn’t otherwise. Various extra effects based on when you do it, check the “movement” section on GGST’s dustloop page for more info.
+The other comments have explained it quite well but I wanna mention a specific quirk of the Red Roman Cancel. This is the Roman Cancel you get when you do a Roman Cancel while you're hitting an opponent (whether they block it or get hit is the same). This Roman Cancel also sends out a shockwave. If they block it, it keeps them stuck there blocking for a while, letting you do whatever you want after the RC to continue your pressure.
+
+If they get hit, however (for example, if you're in the middle of a combo, hit them and then do Roman Cancel) it will launch them up and let them slooowly drift down to the ground. This lets you extend your combo freely, as you get enough time to do whatever you want after and then hit them with something good to continue the combo however you want. This is the most common use of Roman Cancel.
+    Just a small caveat, red RC doesn't need to launch them up and let them slowly drift down. Sometimes they are just falling down before RC and after RC still fall like a sack of potatoes.
+        If you RRC upwards it’ll knock them upwards which can help with that
+The dude in the other comment explained pretty well, but I guess for a new player a simpler explanation could work better.
+
+You have your tension meter in GGST. It build up as you are agressive ( move forward, hit the opponent ) as well when you are blocking attacks.
+
+You spend half of your total tension meter to Roman Cancel. The simplest use is the Red Roman Cancel. You hit the opponent, Red Roman Cancel, the opponent floats a little and you can continue your combo! 
+
+If you are blocking, taking a lot of pressure, you can press the roman cancel and do a Yellow one. It will push the opponent to a safe distance and you have a slight advantage over him on timing.
+
+The are other types of roman cancel, blue and purple, but for starters, this is what you'll be using most.
+Burn half a bar to take whatever it was you were doing and interrupt it instantly. Lot of recovery  frames on some moves. Press RC and that's gone. Can choose to go into different attacks if you want and keep some really nasty pressure
+Alright, so you take the roman empire and-
+Thank all of you for an explanation
+Do action. 
+
+Use 50% of meter to cancel action into another action. Thats the simplest way to put it.
+Press 3 attack buttons to do a roman cancel. It cancels your current move, or if you get hit while blocking, the opponents move.
+
+Blue: can be done if you do an rc without doing an attack first. Applies a massive slow to the opponent
+
+Purple: can be done after a move that misses or during the recovery of a move that hit. Allows you to immediately do another move and slows the opponent a bit.
+
+Red: can be done after hitting an opponent. Works like purple, but throws the enemy into the air and does not slow.
+
+Gold: can be done after you block an attack. Cancels the opponents attack and stuns you both briefly. If the opponent was in the air, throws them across the stage.
+    Purple slow (and probabably blue as well ?) not only applies stun to the opponent but also to the projectiles. This can be used to do some tricky stuffs.
+I'll explain the different colors since you probably know you need meter to use them
+
+Red - Extending combos. The shockwave applies another hit that essentially juggles the opponent. You can press a move to cancel the shockwave, which saves you some meter
+
+Blue - Stalling/Mix-ups. The shockwave slows down your opponent's movement speed (and attack if they have committed to one). Very useful as it allows you to see what they're doing and you can fake out your own movements
+
+Purple - Recovery cancel. This is good when you use a commital attack and need to get yourself out of a sticky situation by cancelling that slow move so you can block. Characters with fireballs can also use this to cancel the recovery of their attack, and still have a moving fireball on screen.
+
+Yellow - Attacking cancel. When you're blocking, you can use this shockwave to essentially make the opponent attacking you be at a disadvantage (you recover first from this usually). This is a good mechanic that everyone can use to essentially push someone away who's pressuring you a lot. This is baitable though and if blocked, is very laggy
+at the very least i can explain how i use them
+
+roman cancels allow me to... cancel my move
+
+for example if i do my super, and i realize they are a little bit too far away from me, I can roman cancel to put myself back in advantage (purple roman cancel), as after a super i would normally be at a disadvantage 
+
+if i hit a bandit revolver with sol badguy, then i can roman cancel that at the moment it hits (red roman cancel) and continue my combo, normally id have to wait until sol badguy is done with the revolver but it puts me back into an attacking position immediately, and i can continue my combo from there
+
+if the enemy is attacking me and im in blockstun i can use roman cancel to put us back in neutral (yellow roman cancel) atleast im fairly certain thats how it works, I don't use it.
+
+I'm not sure what blue roman cancel does, I mainly use it to confuse my opponent since I'm not sure when your actually supposed to use it
+
+the roman cancel is automatically selected for you, so dont worry!
+They let you immediately recover from an action so you can extend into another action.
+
+There are 4 types of RC which have varying effects depending on when they are activated, they are all activated with the same input.
+
+* Red: If you RC right after your ***attack connects with the opponent*** (hit or block), this will apply another hit for 0 damage and knock them up while also apply a time slow effect (if they are in range). This let's you easily extend your combo
+
+* Purple: If you instead RC in the middle of a ***start up or recovery*** of a move this will let you go back to a state where you can act, additionally it applies the same time slowing effect (if they are in range), but there is no pop-up hit. You can use this on whiff or as I said, in the start up of a move. There is also lesser damage penalty to combos that use this RC than with Red
+
+* Blue: If you RC in ***neutral*** there will be a significant time slow effect on the opponent (in range)
+
+* Yellow: If you RC while in ***block stun*** you will deal a 0 damage hit to the opponent allowing you to get them off of you and flip the pressure. This hit is disadvantaged on block however, so if the opponent reads it and blocks after poking your block, they can punish you.
+
+RCs can additionally be canceled from by inputting a move immediately after, this removes the timeslow effect and for Red RCs the hit, but allows for some additional combos as well as less of a combo damage penalty.
+
+You can also input dash in a direction with an RC to "drift" in a direction during it, again allowing for some additional combos. Blue RC drift can also be a useful neutral tool. You will see Red RC drift -> cancel quite often in advanced combos.
+
+The 2 easiest ones you should start using are Red and Yellow. Use Red at the end of most combos to extend them (it's very plug and play). Use Yellow as an additional tool to get opponents off of you.
+Alright, so you know how some attacks allow you to act after them faster and others take a longer time to recover? For half of your tension gauge in Strive to bypass that and do whatever the fuck you want immediately. This has multiple applications. You can extend combos, or you can throw a projectile and use a Roman cancel to move behind your projectile. If you try an attack and miss, or your opponent blocks it, you can also use a Roman Cancel to react immediately to this.
+
+In other words, the Roman Cancel allows you to take a new action immediately regardless of what you were doing.
+Something that may help along with explanations already given is [this video by Gekko Squirrel](https://youtu.be/NJ6UbxhKTyQ?si=flRSv40-8uUVX1GV) that covers the history of Roman Cancel throughout Guilty Gear and how they've operated in past games as well as Strive
+
+It helped me get some context to how big a deal RCs can be in the context of GG and prompted me to start practicing with them more
+Freeze time so you can hit people some more
+If you’re currently doing a thing and you don’t want to be doing the thing (maybe doing the thing leaves you vulnerable to the opponent, or you want to do another thing quickly) you can spend half your super meter to no longer be doing the thing, whenever you want.
+You doing something? Now you dont
+You punch and kick, and then you punch and kick again
+Gives you control of your character instantly, even if you’re in the middle of doing another move
+It skips the remaining animation of an attack. Sometimes that can be used to allow you to continue combos, sometimes it is so if they block you can recover fast enough you aren't in danger. 
+
+You know how in Street Fighter when Ryu does a dragon punch even if it misses he soars up into the air? And even when he lands there's a moment he can't do anything, that is him recovering. 
+
+That recovery means he can't follow up the dragon punch and it also means he is vulnerable if it missed.
+
+Now, Roman Cancel lets you cancel that animation at any point you choose and leaves you able to act. If you did it right as the dragon punch hit you'd likely have the ability to hit again while the opponent was airborn, right? And if you missed the dragon punch cancelling the recovery means you'd be able to avoid being vulnerable.
+
+That's the principle, anyway. Attacks are 'balanced' around things like being strong but longer animations so they are vulnerable, RC adds another element to it by allowing you to spend some of your resources to essentially cancel the downside.
+So you do a move, but wanna do another move, so you stop your first move and do the other move
+Helps with positioning, timing, getting the first hit and adding combos onto moves with recovery frames which normally wouldn't allow you to combo. It can effectively turn almost any hit into a wall carry combo string if used right.
+
+It also enables a lot of jank and player expression.
+
+Red is a Roman cancel used during an attack, gold is a Roman cancel used during a block, purple is a Roman cancel that let's you drop out of an animation and blue is a Roman cancel when none of the others apply. If you dash during or just before a Roman cancel the Roman cancel also let's you move a bit.
+
+Some of the jankiest things you can do involve diagonal dash Roman cancels.
+A Roman cancel is a guilty gear specific mechanic where, if you press any 3 attack buttons (except dust) at the same time, time will slow down, and depending on what you're doing when you press the buttons, various effects will happen, at the cost of 50% of your meter bar. You can tell which effect will happen by the color of the shock wave that comes off you
+
+When you're doing a combo, eventually you run out of ways to keep your opponent in the combo, either they fall out of the air or they recover in time to block your next move, and it ends. Imagine if you could spend 50% of the meter at the bottom of your screen to slow time mid-combo and  as an effect, automatically launch your opponent back into the air. You'd be able to continue combos that would normally already be over. That's a Red Roman Cancel
+
+Now, imagine you are in game, and you decide to throw out a very slow, heavy hitting move, for example Bedman's forward Heavy Slash. That move has 25 frames before it begins dealing damage, that means there's almost half a second (60 frames make up 1 second) after you've pressed the button where your opponent can hit you out of it.   But instead of being punished for your mistake, you can spend 50% of your meter to slow time and as an effect, stop the move early. Stopping the move early lets you block your opponents attempt to punish your mistake. There are more versatile character-specific uses to this than just covering mistakes but that's one of the most important beginner aspects for it. This is called a Purple Roman Cancel
+
+Now imagine you're in a game and your opponent is throwing lots of attacks at you. You're managing to block them all but you can't seem to find an opportunity to stop blocking and start hitting back (this is called a blockstring by the way). If you need a little room to breathe when your opponent is all in your face, you can Yellow Roman Cancel. This again slows time and pushes your opponent away from you, giving you a chance to get away or turn the tides in your favor.
+
+The final Roman Cancel is the Blue Roman Cancel, and it's probably the hardest one to use effectively at low levels. This is sort of the 'default' roman cancel. If you aren't currently hitting someone, blocking someone or using a move when you press the button, this is the roman cancel that will happen. All this will do is slow down time for your opponent, for longer than any other roman cancel slows down time. They'll jump slower, attack slower, move slower etc. You can use it to catch your opponent in a mistake as they're making it, or to gain an advantage, to confuse them with what your next move will be, to punish a move you normally wouldn't be able to, et cetera
+Your "oh shit" option. If you aren't currently getting combo'd and anything happens that makes you go "oh shit", press it and a pretty color will flash and usually something good will happen. 
+
+Blue: "Oh shit they're closing in and I don't know what they're gonna do" press to slow them down
+
+Purple: "Oh shit I missed" press to correct mistake
+
+Red: "Oh shit my combo isn't long enough" press to make combo longer
+
+Yellow: "Oh shit I'm stuck blocking in a bad situation" press to push them off
+I think that's what the Romans did to catholics
+If you click a button and have to wait for your character to stop floppin' around for a long time, use Roman Cancel to stop them.
+For the cost of 50% of your total meter you can cancel the animation of any action other than hit stun, and a couple other niche things.
+
+For example you can use Ky’s charged fireball, but if you notice that the other guy is using an attack that will counter it like Zato’s reflect you can use an RC to break out of the attack animation.
+They cause everything to slow down which either gives you more time to combo (a red one--which only happens when you're doing a combo)
+
+or time to escape (yellow if you're blocking) or time to sort of do something else to make you more safe (blue if nothing else was going on or purple if you just whiffed a move)
+Ok so alot of these comments go straight into the Roman cancel which might be a bit confusing so I'll explain cancels first
+
+(If any terms confuse you please look for them on [infil](http://glossary.infil.net) )
+
+Basically a "cancel" in fighting games is as the name implies, canceling the animation of an attack into another.
+
+ now when I first started playing fighting games this confused me cause why would you want to cancel your attack? Wouldn't that just make it not come out? 
+
+But no when people say cancel 99% of the time it means canceling after the frames with a hitbox come out (the 1% being karra cancels but that's a whole other thing)
+
+So in strive the Gatling/cancel system would let you cancel a kick normal into a dust normal, or a slash into a heavy slash, or any normal into a special. But all of them will only work if you land the attack (on hit or block) (this is how it works for most games).
+
+So the way Roman cancels work, is that they allow you to cancel ANY move, hit or wiff, and even cancel into another. And this can be used in several ways. You can extend a combo, make a move safe on block, use the drift (tapping a cardinal direction twice like a dash before RCing) to move away or towards your opponent. And MANY more.
+
+There are 4 kinds of Roman cancel in strive. 
+
+Blue: comes out when inputing a Roman cancel from nothing (e.g. when not attacking or blocking) can cancel into an attack 
+
+Red: (the one you'll probably use the most) comes out when inputting a Roman cancel during an attack, can cancel into another attack.
+
+Purple: comes out when inputting a Roman cancel during the recovery or startup of an attack. Can cancel into another attack
+
+Yellow: comes out when inputting a Roman cancel when in blockstun, cannot cancel into another attack.
+
+(Sorry for the long explanation lol I'm a massive nerd :3)
+instead of an explanation i recommend learning a couples combos with roman cancels and youll get a better understanding of how they work and then you can get creative with how to use it :) i was new to gg before strive so learning combos really made me figure out the mechanics of the game
+So think of purple Roman cancel as a "forget I pressed button" meaning if you throw something out that's punishable, you can Roman cancel it to stay safe. This does not work for invincible moves.
+
+But there is also the combo use for red Roman cancel. After a hit, you can red Roman cancel to knock the other person up and slow them down. The knock up for Roman cancel is always pretty consistent, so it allows for combos since you know where they will be at, and they can't block
+
+There is also blue Roman cancel this is primarily used to slow down the other player or to move out of harms way.
+
+Yellow Roman cancel is generally a panic get off me tool since you have to be blocking an attack then press Roman cancel for a yellow Roman cancel.
+Sure. Comes in four flavors
+
+Red means you get to keep attacking. The best one. The one you use the most.
+
+Blue means... You get to slow down stuff happening around you when you are just moving around
+
+Yellow means you get the upper hand while blocking while they are attacking. 
+
+Purple means you stop a move that is whiffing (not applicable for Volcanic Vipers or Vapor Thrusts and all that)
+There's also yellow roman cancel which you use by activating right after blocking an attack. This will knock your opponent back and create space to let you breathe
+Purple is for startup or recovery. You get red if you are in the freeze frames of an attack connecting, but you get purple on during recovery even if the attack landed.
+Just a small caveat, red RC doesn't need to launch them up and let them slowly drift down. Sometimes they are just falling down before RC and after RC still fall like a sack of potatoes.
+    If you RRC upwards it’ll knock them upwards which can help with that
+Purple slow (and probabably blue as well ?) not only applies stun to the opponent but also to the projectiles. This can be used to do some tricky stuffs.
+If you RRC upwards it’ll knock them upwards which can help with that
