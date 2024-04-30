@@ -1,0 +1,619 @@
+[[please Valve fix this subtick]]
+
+
+
+
+
+Is this demo? Not defending the shitty subtick system, but the demo footage is always messy.
+    Just checked again, not a demo, but spectating a teammate, that's probably why it's severely unsynced?
+        Wouldn't be surprised if that is actually what happened though. CS3 when?
+            wdym, i love Cheater-Strike 2.
+                My favorite is when people call someone cheaters because they don't understand team communication. Just last night someone accused our top frag for knowing a guy was mini when I was inside mini and could hear him scoping in.
+                    Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+                    congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+                        Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+                        Lancelz?
+            Rofl, valve? A 3?
+            [deleted]
+                It is caused by the shitty subtick system. Remove that, bring 128. I am a genius, Valve should hire me.
+                    This stuff happened in CSGO too.
+            You get what you see, right?
+        yes, the teammate had probably high ping, and in their screen they hit the collat although other people don't see it
+            Nope, no high ping. I was playing at 40/50 ping and teammate at 20.
+                well, maybe in that precise moment their ping went up, or idk why could it be, but i believe he must've seen the collat hit, bc that's how subtick works
+                First, this has nothing to do with subtick. Second, you’re a spectator, this has no effect on gameplay. 
+
+This GIF is incredibly low quality, I have no idea what you did to mess that up so badly. So i’m unable to really count the frames to get any decent estimate as to how much time passed since their heads were overlapping. 
+
+You were at 50 ping, teammate at 20, and let’s say enemies were also at 20.
+
+It goes from server to your teammate, that’s 20ms, it goes back to the server, another 20ms, it goes from server back to you, 50ms. That’s 90ms right there. And the last 50ms is merely for a spectator and the sever doesn’t care because it doesn’t affect gameplay so it might not prioritize your view right away. Your teammate will have lag compensation, but there is no lag comp for spectators. As long as your teammate saw overlapping heads then it is working as expected. That’s true for any multiplayer game in existence, and Valve can’t change physics.
+                    game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+                        This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+                    Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+                        You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+                            okay bro, xd
+        still thats not normal brah
+    subtick is possibly what awarded the killer the well-deserved double kill.
+        well-deserved? ![gif](emote|free_emotes_pack|joy)
+            most likely, yes, he fired when they aligned on his screen so, well-deserved. even though thats not what you see here because spectate is not accurate and has never been even in csgo. dont let your hate cloud your brain.
+                This. The spectate is delayed. The player actually shot when both T's were aligned.
+                Yes. I agree with this guy. It was well deserved. Subtick system fixes the problem of bullets not hitting where they should in CS:GO
+                yes, he "must" have clicked his mouse right as they lined up, *assuming this still works as intended.*  
+Although probably still somewhat off from what we see from this spectator
+                tbh fair but most likely we will never know if that was a subtick issue or a lucky shot
+                    true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+    Even if it is, sub-tick is bad right now, I’m dying AFTER I’ve gone behind the corner (multiple occasions). And most recently, I’m in a very tight space turning the corner, at the same time enemy was also…at point blank range I fired 4 shots at center mass (AK)…only one hit! There was nowhere else for the shots to go but in him.
+        Same happened all the time in csgo, the behind wall, and stuff in this post is just lag compansation.
+        [deleted]
+            Ok. How? Please elaborate.
+    Nope, its not a demo.
+i'm just imagining someone posting this with the title "why wasn't that a hit!?" and the shot wouldn't have hit.   
+"omg you were moving"   
+"crosshair still blurry"   
+"your crosshair was not even on the enemy"  
+...
+    Shot 1-5: clearly missed.
+    True. This sub has a good amount of brain dead people who love to suck valve off.
+        Yeah, you only have to see the people comments defending valve sht, idk what happens in people's head honestly
+I see lag
+    But the shot still shouldn’t hit because CrOsS HaiR WaS BLurrY?
+    as others said, he's spectating that apparently isn't synced with game for some reason.
+        >apparently isn't synced with game for some reason.
+
+spectating with network latency will always be behind the live game state of any given person.
+
+On the teammates side, locally he probably did see them entirely lined up and clicked correctly. But the earliest OP's game can possibly know that the shot hit is after the teammates game sends info to the server and the server relays that info to the OP, which could take like 50+ ms depending on ping.
+There is a point in the game where the two Ts cross paths, and the AWP shot at that point.
+    Thank you Mr. Holmes
+    this is exactly the case and its just a few ticks behind the firing we see in this spectate footage which checks out because the person that fired had subtick while the spectator had the ping delay.
+    [deleted]
+        buddy did you watch the video footage?
+            [deleted]
+                buddy can you see his ping? can you see the quality of his internet connection? do you play the game? the desync in this game is unreal
+If this were CSGO, I would almost guarantee a lag/latency issue (which is still  the most likely case, just less certain), as the player shot when the 2 players were lined up, but they had 100+ ping, and/or packet loss.
+
+Also, it's the very last kill of the game, and there's a bunch of extra stuff that executes, so that could cause some extra weirdness.
+
+Is this from the demo or clipped during gameplay? Didn't see the demoui, so not sure.
+
+EDIT: Just to add, since this looks like a recording of your POV, spectating a teammate, there are  layers of latency to factor in. Latency of each of the 3 players, latency rendering the deaths as the game is also rendering/preparing to render the end of game elements.
+    Spectating, with probably some high ping. From the AWP pov they were probably aligned. Would be more interesting to see demo playback. Not saying the valve servers are perfect, they have their fair share of spikes but this clip doesn't tell/prove anything.
+        Not high ping, my ping was like 40/50 and teammate playing on 20 ping
+            Also, here is the demo frame of the shot. They were not aligned in the demo but i think that is a normal thing when we talk about demos in CS.
+
+https://preview.redd.it/8ugpfpeofsac1.png?width=1378&format=png&auto=webp&s=fd64b7c22d950f4b34f8f0378b08a8847dee21a8
+Totally ready for release and not in beta
+wtf, I've never seen this before
+
+edit: oh it's spectator pov
+
+surely they can fix this, didn't notice valorant or Siege having any problems with spec pov
+Sheesh can't defend this one.
+    [deleted]
+        This is the correct answer. Spectators will not see the exact same thing as the person that shot because of latency.
+        If this is the case tho then how does the awper get shot.  The AK fires clearly way after they lined up.  So that shot should have never register because the AK should have been dead before it.  But the AWPer still gets shot.  If this was the case you could have people kill each other at the same time which never happens
+            cause they were still lagging. the other players had better ping, so their shots came out first. the high ping player had to wait a few more MS before they lined up on their screen, and then a few more MS for the shot to register with the server.
+
+if the Ts shot better, their kill would have registered first and the awper's shot would have registered second; therefore being discarded. but the Ts missed their chance by quite a while, and the awper got a fair shot in even with lag.
+                Plz stop, game is trash if u have to make so much assumptions to justify a kill
+                    just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+                    that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+        is it too much to ask that everyone in the game actually see the same thing?
+            It kinda is, as a general statement.
+                why?
+                    I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+                        meh I'll refer to my previous comment.
+            for the real-time players, yes it is.
+
+for the spectators, i guess we could afford to watch a bit delayed but precise.
+                how is it impossible when csgo never had a problem with spectating team mates on this scale?
+                    in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+                        well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+                            its a trade-off at best. subtick has perfect hitreg
+                                So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                                    what are you smoking brother?
+this happened in csgo too
+The mouse was clicked when both heads alligned ffs how hard is it to understand
+    pretty hard when the game shows 3 different versions of the same thing happening. how is this clip NOT an example of something being wrong with the game??
+        The important POV is one we can’t see when spectating (what happens on the players screen). It’s a deserved kill. How it looks like to us is just a matter of how good the connection is
+        there is nothing wrong with the game in this clip. it simply is NOT. lmao
+im not complaining if I do it, but I am complaining if it happenes to me
+You saw them both. You got them both.
+
+What you see is what you get.
+Why do none of you get how this works. Subtick and the demo make this look like they weren't close together. But on this player's screen he saw both of them lined up and shot, killing both of them?
+    Its not a demo xd
+Nothing to do with subtick. Spectator desync was a thing in csgo too. Holy shit this sub is stupid
+[deleted]
+    Yeah hahaha, I post this as a Meme with the "Entertainment & Humor" tag but some sub admin just changed it.
+This is the funniest shit I’ve ever seen
+This is fucking ridiculous! Valve, stop fucking our asses and fix your game!
+The servers should run at 128 tick with subtick. Subtick does not resolve the condition when you are retreated behind a wall but on the other player's computer you are outside the wall.
+Valve does not give a damnn, go open cases and buy skins .
+Skill issue!!! Ha! Am i right guys??
+I have been playing on around 20 Ping on official servers, and that feels good and the game feels responsive enough, but on 40+ ping the game feels really bad. If I'm reading the stamp correctly, you're on 54ping, which would match my experience with the game so far, really annoying on 40+ ping.
+
+The game seems to feel amazing on 0ms though, the other day I hosted a match to play fy\_pool\_party with some friends and that was really responsive, hope they can get close to that someday
+
+EDIT: Just noticed this is from spectating a teammate, what I said doesn't matter
+    latency is not a thing that valve can solve, except they queue only people from the same country, you can set your max matchmaking ping to be 25 or 35 max so you get only servers and matches with that max ping, however if mm cant find servers with that ping they will choose the next best automatically, so its will always be an issue its just how networking works
+        Yup, just hope they can magically can find a way to make the game feel closer to that, but the game feels good for me currently on 20ms, seems like they're targeting < 40 ms and that's fine IMO
+This is subtick working perfectly for the killer. If you spectate, of course it wont align.
+This is an older repost, many updates have been released since this was first posted. Stop Karma farming...
+    Bottom left says Jan 04
+    Hahahaha, this clip was from yesterday xd.
+Lol joke of a game
+    league is indeed a joke yes
+Its shocking just how superior CSGO was functionally compared to CS2.
+    Lol fuck off with those rose tinted glasses. CSGO always had the same spectator desync problem
+
+One example
+https://youtu.be/aYedlp3v9tE?si=RWGPka4488zwrV5j
+"What you see is what you get."
+I leave cs2 for moment this hes broken
+What you see is what you get
+They wont fix anything because they dont even understand what the issue is. Since subtick is timestamp based and every client is running at different hardware and at different worldwide locations, at different clock frequencies, a perfect client to client synchronization is not possible.A packet with the same timestamp generated on my local client and sent to the server is generated at a different real time interval in regard to the packets sent by other clients.The CPU clocks, framerate and all the other bullshit also is out of sync client to client. Even if they ensure timestamp sequencing on the server is always in the proper order, the clients remain out of sync. They would have to use satellite tracking systems and geolocalization, and at that, make sure EVERYONE'S game is running relativistically in sync with each other.Not to mention all the routing devices on the way. The game is and will be permanently broken online.
+
+They will regard what I said above as just welp, unsolvable part of the networking, just like thermal throttling leading to fallacies in computations, but that's the real underlying issue they try to stitch with more shitty networking - the butterfly effect causing minor synchronization errors to grow into massive desync, and more layers of networking will simply add up to the desync issue.  
+
+
+While you may not pick it up and the game seems like it works as it should, the CPU does pick it up, and grants advantage to one of the sides.
+[deleted]
+    His teammate saw the two heads crossing his cross hair as he shot
+NS
+Looks like call of duty hitbox to me....
+WHOOOOHOOOOOHOOOOOOOOOOOOOOOOOOOOWWWWWWWWWW
+Brooooooo
+SWEET BOUNCING BULLETS BATMAN! NICE SHOT!
+Ronda ganada
+RONDA GANADA
+HAHAHA
+[Same thing happens to spectators in Valorant](https://www.youtube.com/watch?v=rYOL7DZwKqU)
+
+This is an unavoidable problem in every online FPS game
+You are spectating so any network gripes are moot.
+What you see is what you get boys
+send to the dev team please:  
+
+
+[https://www.reddit.com/r/GlobalOffensive/comments/1211y95/please\_send\_cs2\_bug\_reports\_to\_cs2team\_at/](https://www.reddit.com/r/GlobalOffensive/comments/1211y95/please_send_cs2_bug_reports_to_cs2team_at/)
+    Done
+W
+Canada
+This guy was playing on 20 ping and I was playing at 40/50 ping. Its not a ping issue
+ahahahahahahaahah
+So, there is a desync problem with the spectator view but the problem is that there is not desync with the enemy players "supposedly", so... Yeah, not a subtick problem, but a huge problem anyways.
+wtff hahah
+64-tick subtick + shit valvo servers = 100000000000 problems
+Beautiful
+So you are telling me that a significant amount of my deaths to AWPs could just be subtick?
+
+Ffs, no pistol throwing is gonna save me from subtick peek headshots
+Just checked again, not a demo, but spectating a teammate, that's probably why it's severely unsynced?
+    Wouldn't be surprised if that is actually what happened though. CS3 when?
+        wdym, i love Cheater-Strike 2.
+            My favorite is when people call someone cheaters because they don't understand team communication. Just last night someone accused our top frag for knowing a guy was mini when I was inside mini and could hear him scoping in.
+                Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+                congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+                    Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+                    Lancelz?
+        Rofl, valve? A 3?
+        [deleted]
+            It is caused by the shitty subtick system. Remove that, bring 128. I am a genius, Valve should hire me.
+                This stuff happened in CSGO too.
+        You get what you see, right?
+    yes, the teammate had probably high ping, and in their screen they hit the collat although other people don't see it
+        Nope, no high ping. I was playing at 40/50 ping and teammate at 20.
+            well, maybe in that precise moment their ping went up, or idk why could it be, but i believe he must've seen the collat hit, bc that's how subtick works
+            First, this has nothing to do with subtick. Second, you’re a spectator, this has no effect on gameplay. 
+
+This GIF is incredibly low quality, I have no idea what you did to mess that up so badly. So i’m unable to really count the frames to get any decent estimate as to how much time passed since their heads were overlapping. 
+
+You were at 50 ping, teammate at 20, and let’s say enemies were also at 20.
+
+It goes from server to your teammate, that’s 20ms, it goes back to the server, another 20ms, it goes from server back to you, 50ms. That’s 90ms right there. And the last 50ms is merely for a spectator and the sever doesn’t care because it doesn’t affect gameplay so it might not prioritize your view right away. Your teammate will have lag compensation, but there is no lag comp for spectators. As long as your teammate saw overlapping heads then it is working as expected. That’s true for any multiplayer game in existence, and Valve can’t change physics.
+                game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+                    This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+                Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+                    You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+                        okay bro, xd
+    still thats not normal brah
+subtick is possibly what awarded the killer the well-deserved double kill.
+    well-deserved? ![gif](emote|free_emotes_pack|joy)
+        most likely, yes, he fired when they aligned on his screen so, well-deserved. even though thats not what you see here because spectate is not accurate and has never been even in csgo. dont let your hate cloud your brain.
+            This. The spectate is delayed. The player actually shot when both T's were aligned.
+            Yes. I agree with this guy. It was well deserved. Subtick system fixes the problem of bullets not hitting where they should in CS:GO
+            yes, he "must" have clicked his mouse right as they lined up, *assuming this still works as intended.*  
+Although probably still somewhat off from what we see from this spectator
+            tbh fair but most likely we will never know if that was a subtick issue or a lucky shot
+                true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+Even if it is, sub-tick is bad right now, I’m dying AFTER I’ve gone behind the corner (multiple occasions). And most recently, I’m in a very tight space turning the corner, at the same time enemy was also…at point blank range I fired 4 shots at center mass (AK)…only one hit! There was nowhere else for the shots to go but in him.
+    Same happened all the time in csgo, the behind wall, and stuff in this post is just lag compansation.
+    [deleted]
+        Ok. How? Please elaborate.
+Nope, its not a demo.
+Shot 1-5: clearly missed.
+True. This sub has a good amount of brain dead people who love to suck valve off.
+    Yeah, you only have to see the people comments defending valve sht, idk what happens in people's head honestly
+But the shot still shouldn’t hit because CrOsS HaiR WaS BLurrY?
+as others said, he's spectating that apparently isn't synced with game for some reason.
+    >apparently isn't synced with game for some reason.
+
+spectating with network latency will always be behind the live game state of any given person.
+
+On the teammates side, locally he probably did see them entirely lined up and clicked correctly. But the earliest OP's game can possibly know that the shot hit is after the teammates game sends info to the server and the server relays that info to the OP, which could take like 50+ ms depending on ping.
+Thank you Mr. Holmes
+this is exactly the case and its just a few ticks behind the firing we see in this spectate footage which checks out because the person that fired had subtick while the spectator had the ping delay.
+[deleted]
+    buddy did you watch the video footage?
+        [deleted]
+            buddy can you see his ping? can you see the quality of his internet connection? do you play the game? the desync in this game is unreal
+Spectating, with probably some high ping. From the AWP pov they were probably aligned. Would be more interesting to see demo playback. Not saying the valve servers are perfect, they have their fair share of spikes but this clip doesn't tell/prove anything.
+    Not high ping, my ping was like 40/50 and teammate playing on 20 ping
+        Also, here is the demo frame of the shot. They were not aligned in the demo but i think that is a normal thing when we talk about demos in CS.
+
+https://preview.redd.it/8ugpfpeofsac1.png?width=1378&format=png&auto=webp&s=fd64b7c22d950f4b34f8f0378b08a8847dee21a8
+[deleted]
+    This is the correct answer. Spectators will not see the exact same thing as the person that shot because of latency.
+    If this is the case tho then how does the awper get shot.  The AK fires clearly way after they lined up.  So that shot should have never register because the AK should have been dead before it.  But the AWPer still gets shot.  If this was the case you could have people kill each other at the same time which never happens
+        cause they were still lagging. the other players had better ping, so their shots came out first. the high ping player had to wait a few more MS before they lined up on their screen, and then a few more MS for the shot to register with the server.
+
+if the Ts shot better, their kill would have registered first and the awper's shot would have registered second; therefore being discarded. but the Ts missed their chance by quite a while, and the awper got a fair shot in even with lag.
+            Plz stop, game is trash if u have to make so much assumptions to justify a kill
+                just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+                that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+    is it too much to ask that everyone in the game actually see the same thing?
+        It kinda is, as a general statement.
+            why?
+                I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+                    meh I'll refer to my previous comment.
+        for the real-time players, yes it is.
+
+for the spectators, i guess we could afford to watch a bit delayed but precise.
+            how is it impossible when csgo never had a problem with spectating team mates on this scale?
+                in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+                    well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+                        its a trade-off at best. subtick has perfect hitreg
+                            So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                                what are you smoking brother?
+pretty hard when the game shows 3 different versions of the same thing happening. how is this clip NOT an example of something being wrong with the game??
+    The important POV is one we can’t see when spectating (what happens on the players screen). It’s a deserved kill. How it looks like to us is just a matter of how good the connection is
+    there is nothing wrong with the game in this clip. it simply is NOT. lmao
+Its not a demo xd
+Yeah hahaha, I post this as a Meme with the "Entertainment & Humor" tag but some sub admin just changed it.
+latency is not a thing that valve can solve, except they queue only people from the same country, you can set your max matchmaking ping to be 25 or 35 max so you get only servers and matches with that max ping, however if mm cant find servers with that ping they will choose the next best automatically, so its will always be an issue its just how networking works
+    Yup, just hope they can magically can find a way to make the game feel closer to that, but the game feels good for me currently on 20ms, seems like they're targeting < 40 ms and that's fine IMO
+Bottom left says Jan 04
+Hahahaha, this clip was from yesterday xd.
+league is indeed a joke yes
+Lol fuck off with those rose tinted glasses. CSGO always had the same spectator desync problem
+
+One example
+https://youtu.be/aYedlp3v9tE?si=RWGPka4488zwrV5j
+His teammate saw the two heads crossing his cross hair as he shot
+Done
+Wouldn't be surprised if that is actually what happened though. CS3 when?
+    wdym, i love Cheater-Strike 2.
+        My favorite is when people call someone cheaters because they don't understand team communication. Just last night someone accused our top frag for knowing a guy was mini when I was inside mini and could hear him scoping in.
+            Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+            congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+                Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+                Lancelz?
+    Rofl, valve? A 3?
+    [deleted]
+        It is caused by the shitty subtick system. Remove that, bring 128. I am a genius, Valve should hire me.
+            This stuff happened in CSGO too.
+    You get what you see, right?
+yes, the teammate had probably high ping, and in their screen they hit the collat although other people don't see it
+    Nope, no high ping. I was playing at 40/50 ping and teammate at 20.
+        well, maybe in that precise moment their ping went up, or idk why could it be, but i believe he must've seen the collat hit, bc that's how subtick works
+        First, this has nothing to do with subtick. Second, you’re a spectator, this has no effect on gameplay. 
+
+This GIF is incredibly low quality, I have no idea what you did to mess that up so badly. So i’m unable to really count the frames to get any decent estimate as to how much time passed since their heads were overlapping. 
+
+You were at 50 ping, teammate at 20, and let’s say enemies were also at 20.
+
+It goes from server to your teammate, that’s 20ms, it goes back to the server, another 20ms, it goes from server back to you, 50ms. That’s 90ms right there. And the last 50ms is merely for a spectator and the sever doesn’t care because it doesn’t affect gameplay so it might not prioritize your view right away. Your teammate will have lag compensation, but there is no lag comp for spectators. As long as your teammate saw overlapping heads then it is working as expected. That’s true for any multiplayer game in existence, and Valve can’t change physics.
+            game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+                This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+            Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+                You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+                    okay bro, xd
+still thats not normal brah
+well-deserved? ![gif](emote|free_emotes_pack|joy)
+    most likely, yes, he fired when they aligned on his screen so, well-deserved. even though thats not what you see here because spectate is not accurate and has never been even in csgo. dont let your hate cloud your brain.
+        This. The spectate is delayed. The player actually shot when both T's were aligned.
+        Yes. I agree with this guy. It was well deserved. Subtick system fixes the problem of bullets not hitting where they should in CS:GO
+        yes, he "must" have clicked his mouse right as they lined up, *assuming this still works as intended.*  
+Although probably still somewhat off from what we see from this spectator
+        tbh fair but most likely we will never know if that was a subtick issue or a lucky shot
+            true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+Same happened all the time in csgo, the behind wall, and stuff in this post is just lag compansation.
+[deleted]
+    Ok. How? Please elaborate.
+Yeah, you only have to see the people comments defending valve sht, idk what happens in people's head honestly
+>apparently isn't synced with game for some reason.
+
+spectating with network latency will always be behind the live game state of any given person.
+
+On the teammates side, locally he probably did see them entirely lined up and clicked correctly. But the earliest OP's game can possibly know that the shot hit is after the teammates game sends info to the server and the server relays that info to the OP, which could take like 50+ ms depending on ping.
+buddy did you watch the video footage?
+    [deleted]
+        buddy can you see his ping? can you see the quality of his internet connection? do you play the game? the desync in this game is unreal
+Not high ping, my ping was like 40/50 and teammate playing on 20 ping
+    Also, here is the demo frame of the shot. They were not aligned in the demo but i think that is a normal thing when we talk about demos in CS.
+
+https://preview.redd.it/8ugpfpeofsac1.png?width=1378&format=png&auto=webp&s=fd64b7c22d950f4b34f8f0378b08a8847dee21a8
+This is the correct answer. Spectators will not see the exact same thing as the person that shot because of latency.
+If this is the case tho then how does the awper get shot.  The AK fires clearly way after they lined up.  So that shot should have never register because the AK should have been dead before it.  But the AWPer still gets shot.  If this was the case you could have people kill each other at the same time which never happens
+    cause they were still lagging. the other players had better ping, so their shots came out first. the high ping player had to wait a few more MS before they lined up on their screen, and then a few more MS for the shot to register with the server.
+
+if the Ts shot better, their kill would have registered first and the awper's shot would have registered second; therefore being discarded. but the Ts missed their chance by quite a while, and the awper got a fair shot in even with lag.
+        Plz stop, game is trash if u have to make so much assumptions to justify a kill
+            just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+            that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+is it too much to ask that everyone in the game actually see the same thing?
+    It kinda is, as a general statement.
+        why?
+            I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+                meh I'll refer to my previous comment.
+    for the real-time players, yes it is.
+
+for the spectators, i guess we could afford to watch a bit delayed but precise.
+        how is it impossible when csgo never had a problem with spectating team mates on this scale?
+            in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+                well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+                    its a trade-off at best. subtick has perfect hitreg
+                        So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                            what are you smoking brother?
+The important POV is one we can’t see when spectating (what happens on the players screen). It’s a deserved kill. How it looks like to us is just a matter of how good the connection is
+there is nothing wrong with the game in this clip. it simply is NOT. lmao
+Yup, just hope they can magically can find a way to make the game feel closer to that, but the game feels good for me currently on 20ms, seems like they're targeting < 40 ms and that's fine IMO
+wdym, i love Cheater-Strike 2.
+    My favorite is when people call someone cheaters because they don't understand team communication. Just last night someone accused our top frag for knowing a guy was mini when I was inside mini and could hear him scoping in.
+        Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+        congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+            Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+            Lancelz?
+Rofl, valve? A 3?
+[deleted]
+    It is caused by the shitty subtick system. Remove that, bring 128. I am a genius, Valve should hire me.
+        This stuff happened in CSGO too.
+You get what you see, right?
+Nope, no high ping. I was playing at 40/50 ping and teammate at 20.
+    well, maybe in that precise moment their ping went up, or idk why could it be, but i believe he must've seen the collat hit, bc that's how subtick works
+    First, this has nothing to do with subtick. Second, you’re a spectator, this has no effect on gameplay. 
+
+This GIF is incredibly low quality, I have no idea what you did to mess that up so badly. So i’m unable to really count the frames to get any decent estimate as to how much time passed since their heads were overlapping. 
+
+You were at 50 ping, teammate at 20, and let’s say enemies were also at 20.
+
+It goes from server to your teammate, that’s 20ms, it goes back to the server, another 20ms, it goes from server back to you, 50ms. That’s 90ms right there. And the last 50ms is merely for a spectator and the sever doesn’t care because it doesn’t affect gameplay so it might not prioritize your view right away. Your teammate will have lag compensation, but there is no lag comp for spectators. As long as your teammate saw overlapping heads then it is working as expected. That’s true for any multiplayer game in existence, and Valve can’t change physics.
+        game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+            This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+        Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+            You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+                okay bro, xd
+most likely, yes, he fired when they aligned on his screen so, well-deserved. even though thats not what you see here because spectate is not accurate and has never been even in csgo. dont let your hate cloud your brain.
+    This. The spectate is delayed. The player actually shot when both T's were aligned.
+    Yes. I agree with this guy. It was well deserved. Subtick system fixes the problem of bullets not hitting where they should in CS:GO
+    yes, he "must" have clicked his mouse right as they lined up, *assuming this still works as intended.*  
+Although probably still somewhat off from what we see from this spectator
+    tbh fair but most likely we will never know if that was a subtick issue or a lucky shot
+        true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+Ok. How? Please elaborate.
+[deleted]
+    buddy can you see his ping? can you see the quality of his internet connection? do you play the game? the desync in this game is unreal
+Also, here is the demo frame of the shot. They were not aligned in the demo but i think that is a normal thing when we talk about demos in CS.
+
+https://preview.redd.it/8ugpfpeofsac1.png?width=1378&format=png&auto=webp&s=fd64b7c22d950f4b34f8f0378b08a8847dee21a8
+cause they were still lagging. the other players had better ping, so their shots came out first. the high ping player had to wait a few more MS before they lined up on their screen, and then a few more MS for the shot to register with the server.
+
+if the Ts shot better, their kill would have registered first and the awper's shot would have registered second; therefore being discarded. but the Ts missed their chance by quite a while, and the awper got a fair shot in even with lag.
+    Plz stop, game is trash if u have to make so much assumptions to justify a kill
+        just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+        that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+It kinda is, as a general statement.
+    why?
+        I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+            meh I'll refer to my previous comment.
+for the real-time players, yes it is.
+
+for the spectators, i guess we could afford to watch a bit delayed but precise.
+    how is it impossible when csgo never had a problem with spectating team mates on this scale?
+        in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+            well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+                its a trade-off at best. subtick has perfect hitreg
+                    So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                        what are you smoking brother?
+My favorite is when people call someone cheaters because they don't understand team communication. Just last night someone accused our top frag for knowing a guy was mini when I was inside mini and could hear him scoping in.
+    Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+    congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+        Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+        Lancelz?
+It is caused by the shitty subtick system. Remove that, bring 128. I am a genius, Valve should hire me.
+    This stuff happened in CSGO too.
+well, maybe in that precise moment their ping went up, or idk why could it be, but i believe he must've seen the collat hit, bc that's how subtick works
+First, this has nothing to do with subtick. Second, you’re a spectator, this has no effect on gameplay. 
+
+This GIF is incredibly low quality, I have no idea what you did to mess that up so badly. So i’m unable to really count the frames to get any decent estimate as to how much time passed since their heads were overlapping. 
+
+You were at 50 ping, teammate at 20, and let’s say enemies were also at 20.
+
+It goes from server to your teammate, that’s 20ms, it goes back to the server, another 20ms, it goes from server back to you, 50ms. That’s 90ms right there. And the last 50ms is merely for a spectator and the sever doesn’t care because it doesn’t affect gameplay so it might not prioritize your view right away. Your teammate will have lag compensation, but there is no lag comp for spectators. As long as your teammate saw overlapping heads then it is working as expected. That’s true for any multiplayer game in existence, and Valve can’t change physics.
+    game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+        This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+    Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+        You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+            okay bro, xd
+This. The spectate is delayed. The player actually shot when both T's were aligned.
+Yes. I agree with this guy. It was well deserved. Subtick system fixes the problem of bullets not hitting where they should in CS:GO
+yes, he "must" have clicked his mouse right as they lined up, *assuming this still works as intended.*  
+Although probably still somewhat off from what we see from this spectator
+tbh fair but most likely we will never know if that was a subtick issue or a lucky shot
+    true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+buddy can you see his ping? can you see the quality of his internet connection? do you play the game? the desync in this game is unreal
+Plz stop, game is trash if u have to make so much assumptions to justify a kill
+    just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+    that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+why?
+    I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+        meh I'll refer to my previous comment.
+how is it impossible when csgo never had a problem with spectating team mates on this scale?
+    in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+        well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+            its a trade-off at best. subtick has perfect hitreg
+                So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                    what are you smoking brother?
+Cheaters ruin games that they’re not in, too. In Valorant if someone hits a couple crazy shots and has some good luck, it’s more likely they got lucky and have skill so people don’t accuse them of cheating. 
+
+In CS2 it’s more likely they’re cheating, especially at anything other than the highest of trust factors. 
+
+So people rationally suspect other people are cheating when they’re not. Merely the existence of cheaters in other games or a user’s past games ruins their future games as it’s not fun to think you’re playing against a cheater regardless.
+congrats you got called cheater for once. dont invalidate others experiences cause your ego got pushed once
+    Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+    Lancelz?
+This stuff happened in CSGO too.
+game is shit this was never happening in csgo but in cs2 its almost every game why are you defending it with your nerdy analitics or whatever are you that much delusional, i am 3300 elo on faceit and i never met anyone above 3k elo on faceit who say that cs2 is good optimized game, game is shit and only you noobs can like it
+    This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+Chill bro, chill. If this game seems legit and perfectly playable for you then okay.  The majority of the community doesnt like this.
+    You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+        okay bro, xd
+true but in theory it should be possible to post-process a demo to obtain a universally correct demo. maybe we will get there
+just because you dont understand how it works doesnt mean he is wrong. this footage is perfectly legitimate and makes sense. you are choosing to be a hater over trying to understand it.
+that's just latency. as a spectator, you're going through a whole lot more steps in the packet chain so things will look even more strange and delayed to you. so its a good thing that what you see as the spectator shouldn't matter in the slightest. what matters is what the Ts saw on their screen, and what the CT saw on their screen. CT was lagging, Ts got to shoot first fair and square. they missed, CT won a little bit after that once their shot registered with the server.
+
+this is how latency works in any game. nobody said it wasn't bullshit, its just simply the compromises that need to be made in order for online play to work in the first place. people who want the most fair experience play LAN.
+I'm glad you asked the question and removed the previous reply attacking me.
+
+Well, for starters every computer has a different latency, so it'd be practically impossible to have a game working the way they do if they didn't try to compensate by extrapolating and then course-correcting. This is why desyncs happen and it's an extremely hard thing to avoid in all situations.
+    meh I'll refer to my previous comment.
+in csgo the shooter would experience the inaccuracy but not in terms of what he sees rather where his bullet is registered by the server. the server decided the ultimate truth. i dont know why the csgo spectate wasnt even perfect.
+
+in cs2, imagine the shooter fires at tick T but this information would reach and be acknowledged by the server at tick T+X due to his ping. so the spectator while watching tick T+X sees what the shooter did at tick T. the spectator experiences the full scale of the inaccuracy which this footage is a very good example of.
+
+i believe if the cs2 spectate had a delay of X ticks, it could display what happened at tick T correctly while the server is processing tick T+X but i dont know if this is feasible or not.
+    well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+        its a trade-off at best. subtick has perfect hitreg
+            So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+                what are you smoking brother?
+Nobody called me a cheater you fucking trog. Read it again and use the working part this time.
+Lancelz?
+This definitely still happened in CSGO.
+
+I’m not saying CS2 doesn’t have netcode issues, they do, and it’s not tuned to the level that CSGO was. 
+
+This however is not an example of that.
+You’re a spectator, this had no effect on your game play.
+
+You are not in the majority, spectator delay is nothing new and exists in every game because it’s basic physics.
+    okay bro, xd
+meh I'll refer to my previous comment.
+well then subtick is shit and they should go back to 124 tick servers which literally got zero complaints
+    its a trade-off at best. subtick has perfect hitreg
+        So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+            what are you smoking brother?
+okay bro, xd
+its a trade-off at best. subtick has perfect hitreg
+    So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+        what are you smoking brother?
+So the 0.5 seconds it takes for my frag to show on the kill feed is intentional from valve?
+    what are you smoking brother?
+what are you smoking brother?

@@ -73,13 +73,13 @@ public class PseudoWatson {
     private class QueryResult {
         String query;
         String expectedAnswer;
-        //MatchedAnswer topAnswer;
+        double rank;
         List<MatchedAnswer> topResults;
 
         public QueryResult(){
             query = null;
             expectedAnswer = null;
-            //topAnswer = null;
+            rank = 0;
             topResults = new ArrayList<MatchedAnswer>();
         }
 
@@ -90,7 +90,7 @@ public class PseudoWatson {
         }
 
         public boolean exactMatch(){
-            //return topAnswer.DocName.get("docName").equals(expectedAnswer);
+            rank = 1;
             return topResults.get(0).DocName.get("docName").equals(expectedAnswer);
         }
 
@@ -100,6 +100,7 @@ public class PseudoWatson {
                 if(r.DocName.get("docName").equals(expectedAnswer)){
                     //System.out.print("Answer at rank " + (i+1));
                     //System.out.println(", Score: " + r.docScore);
+                    rank = i+1;
                     return true;
                 }
             }
@@ -137,6 +138,28 @@ public class PseudoWatson {
         }
         reader.close();
     }
+
+    private void evaluatePerformance(int totalQueries, int correct, int top5, int top10, int incorrect, double rank){
+        System.out.println("\n-------------Stats----------------\n");
+        System.out.println("Total Queries: " + totalQueries);
+        System.out.println("Correct Answers: " + correct);
+        System.out.println("Within Top 5: " + top5);
+        System.out.println("Within Top 10: " + top10);
+        System.out.println("Incorrect Answers: " + incorrect);
+
+        double p1 = (double)correct / totalQueries;
+        double p5 = (double)(correct + top5) / totalQueries;
+        double p10 = (double)(correct + top5 + top10) / totalQueries;
+        double MRR = rank / totalQueries;
+
+        System.out.println("\n-------------Performance----------------\n");
+        System.out.println("Precision at 1: " + p1);
+        System.out.println("Precision at 5: " + p5);
+        System.out.println("Precision at 10: " + p10);
+        System.out.println("Mean Reciprocal Rank: " + MRR);
+    }
+
+
     /**
      * Reads a text file and extracts answers and questions.
      * Performs queries on the index and compares the retrieved answers with the expected answers.
@@ -159,6 +182,7 @@ public class PseudoWatson {
             top5 = 0, 
             top10 = 0,
             incorrect = 0;
+        double RR = 0;
         while((line = reader.readLine()) != null){
             // If the line is not empty, it is either a query or an answer
             if(!line.isEmpty()){
@@ -181,24 +205,28 @@ public class PseudoWatson {
                 if(!qr.topResults.isEmpty()){
                     //qr.topAnswer();
                     if(qr.exactMatch()){
-                        //System.out.println("Correct!");
+                        //System.out.println("Correct! Answer found in top result. :)");
                         correct++;
                     }
                     else if(qr.withinTopK(5)){
-                        //System.out.println("In top 5 Results");
+                        //System.out.println("Answer found in top 5 Results");
                         top5++;
                     }
                     else if(qr.withinTopK(10)){
-                        //System.out.println("In top 10 Results");
+                        // System.out.println("Answer found in top 10 Results");
+                        // System.out.println("Query: " + qr.query);
+                        // System.out.println("Expected answer: " + qr.expectedAnswer);
+                        // System.out.println("\n----------------------------------\n");
                         top10++;
                     }
                     else{
-                        //System.out.println("Incorrect!");
+                        System.out.println("Incorrect! Answer not found in top 10 results. :(");
                         System.out.println("Query: " + qr.query);
                         System.out.println("Expected answer: " + qr.expectedAnswer);
                         System.out.println("\n----------------------------------\n");
                         incorrect++;
                     }
+                    RR += 1.0 / qr.rank;
                 }
                 //queryResults.add(qr);
                 qr = null;
@@ -213,12 +241,7 @@ public class PseudoWatson {
             }
         }
         reader.close();
-        System.out.println("\n----------------------------------\nStats");
-        System.out.println("Total Queries: " + totalQueries);
-        System.out.println("Correct Answers: " + correct);
-        System.out.println("Within Top 5: " + top5);
-        System.out.println("Within Top 10: " + top10);
-        System.out.println("Incorrect Answers: " + incorrect);
+        evaluatePerformance(totalQueries, correct, top5, top10, incorrect, RR);
     }
 
 
@@ -262,7 +285,7 @@ public class PseudoWatson {
     }*/
 
     public static void main(String[] args) {
-        String indexFilePath = "watsonindex";
+        String indexFilePath = "pwindex";
         PseudoWatson watson = new PseudoWatson(indexFilePath);
         /*
         try {

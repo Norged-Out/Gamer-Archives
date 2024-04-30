@@ -212,7 +212,7 @@ public class WatsonIndex {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        WatsonIndex engine = new WatsonIndex("watsonindex");
+        WatsonIndex engine = new WatsonIndex("pwindex");
         try {
             System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);

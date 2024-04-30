@@ -68,7 +68,8 @@ Where are Kassadin and Ahri from?
 Honkai Star Rail
 Which game are Kafka, Huohou, Ruan Mei, and Black Swan a DOT team from?
 What is the most popular game that Prydwen makes a tier list for?
-Where is the memory of chaos from?
+Where is the game mode MoC from?
+What game has a character called Firefly?
 
 Genshin Impact
 Where is Ganyu from?
@@ -78,13 +79,13 @@ Pokemon Platinum
 Where did Giratina first show up?
 Which game introduces the Battle Frontier?
 Which game allows players to catch both Dialga and Palkia?
-Which Pokemon game introduces the Wi-Fi Plaza?
-Which game has a map called the Reverse world?
+Which is the third game based in Sinnoh?
+Which game has a map called the Distortion World?
 
 Pokemon Black and White
 In which games does the Dream World play a significant role?
 Which games introduced Triple Battles and Rotation Battles?
-Which games have an antagonist turn deuteragonist named after an alphabet?
+Which games have a character named N?
 Which games introduced the Pokemon World Tournament?
 
 Pokemon Emerald
@@ -95,7 +96,7 @@ Which game is Rayquaza the mascot of?
 
 Pokemon Legends Arceus
 What game offers a fresh take on the Pokemon formula and introduces new capture mechanics?
-In which game do players embark on a journey to create the region's first Pokedex?
+In which game do players embark on a journey in Hisui to create the first Pokedex?
 Which game has an antagonist with 8 Pokemon on his team?
 
 Shadowverse
@@ -104,7 +105,7 @@ What game does Wrath Blood come from?
 What game's player base is complaining about Wrath Blood?
 
 Overwatch 2
-What game is Orisa strong?
+What game is Orisa strong in?
 Where does the character Illari originate from?
 In what game are people not having fun with the state of tanks?
 
@@ -140,14 +141,14 @@ Which game gives you a mount named Torrent?
 Which game is the YouTuber LetMeSoloHer famous for?
 
 Sekiro Shadows Die Twice
-What game is infamous for having a mechanic based on breaking posture?
+What game has a mechanic based on breaking posture?
 In which game do players assume the role of a shinobi seeking revenge in feudal Japan?
 Which game are LilAggy and Ongbal famous for?
 Which game is infamous for the quote Hesitation is Defeat?
 
 Destiny 2
 What game contains the horrendous PVPVE mode called Gambit?
-Which game has two major factions called Light and Darkness?
+Which game has powers that come from the Traveler?
 Where can you find the grenade launcher called Witherhoard?
 What game did Lance Reddick star in before his death?
 
@@ -157,7 +158,7 @@ What's a famous idle game where players can progress without having to play it t
 
 Risk of Rain 2
 In which roguelike do players fight through hordes of enemies on alien planets?
-What is Hoopoo Games' most famous and active IP?
+What is Hopoo Games' most famous and active IP?
 What game has a map called Bazaar Between Time?
 
 The Witcher 3 Wild Hunt
@@ -173,9 +174,9 @@ Which game has a song called I Really Want to Stay at Your House?
 What is the futuristic game with no endings in which the protagonist survives?
 
 Final Fantasy XVI
-What game has a power system drawn from monsters known as Eikons?
+What game has monsters known as Eikons?
 What game has a final boss known as Ultima?
-What game features two primary sources of fire powers?
+What game features the powers of Ifrit and Phoenix?
 
 NieR Replicant ver.1.22474487139
 Which game's release in the West was preceded by the success of its spiritual successor, which featured certain famous androids?
@@ -188,7 +189,7 @@ What is the game with the most realistic depictions of cat behavior?
 
 Rainworld
 Which title offers procedurally generated environments and dynamic weather patterns that impact gameplay?
-Which game's narrative is told through environmental storytelling and cryptic visual cues rather than traditional dialogue?
+Which game has procedural animations for all characters?
 In which game do you play as a creature known as Slugcat?
 
 Minecraft
@@ -438,7 +439,7 @@ What MMO removed over one million bot accounts on the 5th of March 2022?
 What game names their servers after their NPCs?
 
 Portal 2
-What is the most famous game from Valve?
+What is a famous game from Valve?
 What game do players encounter GLaDOS?
 What game contains Aperture Science?
 What game is Wheatley from?
@@ -517,5 +518,10 @@ What game has Haaland as the poster for their game?
 
 Counter-Strike 2
 What game was made by Valve Corporation?
-In what game do teams of terrorists and counter-terrorists engage to defeat each other?
 What game is the sequel to Counter-Strike Go?  
+What is the last game of the counter-strike series? 
+
+Infamous
+What game has the karma system?
+What game has a main character called Delsin that uses conduit powers?
+What game has the main character known as the demon of Empire City?

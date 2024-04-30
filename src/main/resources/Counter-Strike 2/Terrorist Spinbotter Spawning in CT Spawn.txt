@@ -1,0 +1,335 @@
+[[Terrorist Spinbotter Spawning in CT Spawn]]
+
+
+
+
+
+i doesnt understand how this can't be banned instantly?
+    It'll probably get banned but given the game is free and they probably made a brand new account for this they won't care, if they're doing what I'm guessing it's nulling view angles which causes teleportation via a bug, since you can't naturally just write memory to teleport.
+        I think they are suggesting the ban should have occured right then and there
+        Is prime free?
+            https://preview.redd.it/ebmjuxqhb4zb1.jpeg?width=1892&format=pjpg&auto=webp&s=26e54a298a8499172f142019f108392bea1cef6d
+            I never really played CS consistently at all until CS2. Once or twice here and there over the years - does Prime mitigate this issue? I have Prime and have probably only seen 2-3 *obvious* hackers
+            it was back in 2019 to earn it just by reaching prob rank 70
+    He plays too much like a real person duhh
+    it's called an exploit. The client is somehow tricking the server into setting a different spawn location than needed. Anti cheats don't work on the basis of "if cheating equals true then ban!!". To the server this is regular behavior. Unfortunate that they recorded the game from scratch and such major exploits still exist...
+        But they could add 2 lines of code:
+If (kills == 5 && roundTime < 2) { instaBan = true }
+
+Simple as that to solve exploit abuse. But Valve needs a rocket science phd before start thinking for solutions.
+            Temporary workarounds are not solutions. Minecraft servers such as Hypixel did that very same thing to combat fly hackers in their game modes. Cheat developers just added a notice in the bottom left saying "Don't kill anybody for 15 seconds". This community needs to stop proposing workarounds and actually come up with solutions.
+                Invasive anti cheat.
+                    That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+                        what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+                            It's complicated. No simple situations exist.
+                                There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+                            Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+            It’s even weirder because if they were team kills it’d be an auto kick, lmao
+Unlucky...  You could've clutched that round
+Bro used deadeye
+pro gamer
+    I want whatever gaming chair that guy has.
+this is some 2015 shit
+Need overwatch back
+    They just make new accounts and come right back. CSGO had overwatch and was still riddled with cheaters. What we need is an anti-cheat that hardware and IP bans. Not perfect, but light-years better than what we have now.
+        Need to tie steam accounts to physical computer.  No more new accounts for banned computer.
+            that would be good but i guess valve makes more money when cheaters buy the game again and again and again
+It’s so easy to lighten this issue. Valve refuses to do it.
+    Explain how if it's so easy and simple.
+        I know nothing of anti cheat shit, but I assume something similar to how team damage to begin the round gets you kicked. Same concept, if an enemy dies within the first 10 seconds or something (adjusted for maps like D2 with spawn sniping) then the killer gets an auto-kick and profile in review.
+
+Of course then they just wait 10 seconds or whatever it is, but my idea is to be applied to this exact scenario.
+            They most likely do log that shit, since it's easy to see if a team died within 1 second of a round starting, but Valve has always been the type of company to wait until they get a good hold of said cheat and can ban mass amounts in one wipe.
+
+To be fair, most companies do that. It's more efficient than to clap one dude and have the cheat get updated and harder to detect.
+                Yea very true, like the red medal wave that just happened
+    I don't understand how this issue can be solved. I've never seen it before. Can you explain since you seem to know exactly how to prevent it?
+        Well first let’s clarify that I said “lighten” not solved.
+
+At minimum start with IPs bans. Obviously a lot of hackers can get around this but it will cut out a lot of entry level hackers realizing how easy it is to hack with no consequences. Also no one wants to be IP banned by Valve. Require two-factor authentication and phone numbers to be verified and attached to accounts. Extremely simple and that’s just something they could do overnight. Consider hardware bans. 
+
+These are things they are refusing to do because it will result in less money. Anyone arguing otherwise is just arguing for the sake of argument.
+            IP bans are a very bad idea because of lan cafes and schools. Won't solve anything and will more likely hurt innocent people.
+                Disagree
+Shots 1-5 clearly missed
+Repost, unfortunately
+[https://www.youtube.com/watch?v=qQHWOA\_ikHQ](https://www.youtube.com/watch?v=qQHWOA_ikHQ)
+
+Shroud 2016 video, still not fixed. smh
+Here, let me type out the reddit replies out for you. 
+
+"I have over 2000 hours and 600 games and never ran into a hacker" 
+
+ Shots 1-5: Clearly missed.  
+Shots 6-9: Missed due to recoil (bad spray control).  
+Shots 10-11: Very close, but recoil and inaccuracy make these reasonable misses.
+    I think you forgot:
+
+* Skill Issue
+* You're probably silver and think everyone's cheating
+        Also, "VaLvE NeEdS To FiX bRoKeN GaMe"
+It’s the shroud clip full circle 😭
+This was a bug in CS 1.5  
+
+
+Good job Valve bringing it back!
+    Was so much fun back then lol. Sometimes you could play along and no one would notice until you cleared A site by yourself.
+Truly the csgo 2015 experience
+[deleted]
+    They paid their $15 so they can do whatever they want. I'd live to see the player count for this game if Valve actually implemented an anti-cheat. I'm convinced they don't take cheating seriously because it's a significant part of their customer base.
+This is the reason why I only play in casual… omg!
+i swear i saw this video about more than 50 times
+How can you not have an anticheat that instantly detects this purely on mouse co-ords alone, VAC is so shit.
+    And ban a significant amount of their paying customers? You literally sound like an idiot with potatoes for brains. /s
+Cheater Strike 2 lmao this shit made me suck it up and switch over to Valorant. RIP CS
+    Me too! Valorant gets 500-700 FPS and I have yet to encounter a sus player. Also those 128tick servers feel so so nice.
+    I picked up apex again or okay CS on faceit.
+Shots 1-5 clearly not missed
+Next time tell them to buy zeus and 2 ppl that are close have a chance to kill if they spam it 🐈‍⬛
+Hey, Ive seen this one, this is a classic.
+ Laces trying to kill this game
+    Valve is trying to kill this game*
+Nice clip of a YouTube clip. You still haven't actually played against a cheater.
+    Guess they don’t exist then
+        My group has yet to find one in Premier. Found 1 in Competitive. Played hundreds of games since release. So less than a 1% cheater rate and a 0% cheater rate in Premier.
+            What level are you playing at?
+
+I played against 2 cheaters yesterday. and another one was on my team
+
+One cheater would put a smoke in front of him and then starts to shoot us through it he even did the promotion of his cheats (this was in competitive)
+
+the cheater on my team was radar hacking and aimboting https://imgur.com/a/IOX5Rh1 this was a premier game btw
+                That SS isn't Premier, where are the ratings? Also blocking out the names? Not sure how a scoreboard can prove cheating without a ridiculous number like 60 on it.
+                    Yeah 34-10 is very doable.
+                10-12k
+
+The cheaters are much higher.
+            [deleted]
+                You never cheated in your life.
+How much elo is this? Why i never see any cheaters in my matches? I'm probably too low on my 6.5k
+    I figured this week it's way different in EU servers from the NA servers. I also haven't yet ran into this shit. But figuring out the difference in amounts of cheaters per region finally cleared up why there's so much negativity here and why this sub doesn't remotely resemble my own experiences of these past few weeks.
+        Are you saying EU servers have more cheaters?
+            No, the opposite, I honestly believe (thanks to this sub) that NA server is a cesspool of cheaters in comparison to EU servers.
+
+E to clarify: I'm in EU region and have not ran into any obvious cheater at all, currently about 60 games played in premier mode.
+
+Everytime i point that out here i immediate get called cheater/liar myself. So my take is that mostly NA players are on this sub.
+                Chinese servers have even more cheaters than NA
+    Yup way too low
+Equilibrium was a great movie
+Could at least try to shot back.
+    They tried. Spinbot completes five headshots in fractions of milliseconds under subtick
+Everyone should have bought deagles and just one tapped his ass. 3 bullets to the body are bound to hit before he can shoot 5 bullets
+literally this  [https://youtu.be/KPLDsK-HZ2g?t=62](https://youtu.be/KPLDsK-HZ2g?t=62)
+INHUMANE REACTIONS!
+
+so did you guys win?
+lmao this is pretty funny though, ngl
+That is comical. I mean I hate it but it’s also funny
+No, Kianu not you again.
+Because the guys behind VAC are just paycheck stealers. They actually don't do shit.
+Ah the good ole mole hack i havent seen it in forever
+LMAO this game.
+The need to return csgo and take this cs2 shit and work on it for two years then publish it
+Whats going on with CS2? How is this better than CSGO? PLEASE SOMEONE EXPLAIN
+Everyone move to faceit already
+It'll probably get banned but given the game is free and they probably made a brand new account for this they won't care, if they're doing what I'm guessing it's nulling view angles which causes teleportation via a bug, since you can't naturally just write memory to teleport.
+    I think they are suggesting the ban should have occured right then and there
+    Is prime free?
+        https://preview.redd.it/ebmjuxqhb4zb1.jpeg?width=1892&format=pjpg&auto=webp&s=26e54a298a8499172f142019f108392bea1cef6d
+        I never really played CS consistently at all until CS2. Once or twice here and there over the years - does Prime mitigate this issue? I have Prime and have probably only seen 2-3 *obvious* hackers
+        it was back in 2019 to earn it just by reaching prob rank 70
+He plays too much like a real person duhh
+it's called an exploit. The client is somehow tricking the server into setting a different spawn location than needed. Anti cheats don't work on the basis of "if cheating equals true then ban!!". To the server this is regular behavior. Unfortunate that they recorded the game from scratch and such major exploits still exist...
+    But they could add 2 lines of code:
+If (kills == 5 && roundTime < 2) { instaBan = true }
+
+Simple as that to solve exploit abuse. But Valve needs a rocket science phd before start thinking for solutions.
+        Temporary workarounds are not solutions. Minecraft servers such as Hypixel did that very same thing to combat fly hackers in their game modes. Cheat developers just added a notice in the bottom left saying "Don't kill anybody for 15 seconds". This community needs to stop proposing workarounds and actually come up with solutions.
+            Invasive anti cheat.
+                That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+                    what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+                        It's complicated. No simple situations exist.
+                            There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+                        Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+        It’s even weirder because if they were team kills it’d be an auto kick, lmao
+I want whatever gaming chair that guy has.
+They just make new accounts and come right back. CSGO had overwatch and was still riddled with cheaters. What we need is an anti-cheat that hardware and IP bans. Not perfect, but light-years better than what we have now.
+    Need to tie steam accounts to physical computer.  No more new accounts for banned computer.
+        that would be good but i guess valve makes more money when cheaters buy the game again and again and again
+Explain how if it's so easy and simple.
+    I know nothing of anti cheat shit, but I assume something similar to how team damage to begin the round gets you kicked. Same concept, if an enemy dies within the first 10 seconds or something (adjusted for maps like D2 with spawn sniping) then the killer gets an auto-kick and profile in review.
+
+Of course then they just wait 10 seconds or whatever it is, but my idea is to be applied to this exact scenario.
+        They most likely do log that shit, since it's easy to see if a team died within 1 second of a round starting, but Valve has always been the type of company to wait until they get a good hold of said cheat and can ban mass amounts in one wipe.
+
+To be fair, most companies do that. It's more efficient than to clap one dude and have the cheat get updated and harder to detect.
+            Yea very true, like the red medal wave that just happened
+I don't understand how this issue can be solved. I've never seen it before. Can you explain since you seem to know exactly how to prevent it?
+    Well first let’s clarify that I said “lighten” not solved.
+
+At minimum start with IPs bans. Obviously a lot of hackers can get around this but it will cut out a lot of entry level hackers realizing how easy it is to hack with no consequences. Also no one wants to be IP banned by Valve. Require two-factor authentication and phone numbers to be verified and attached to accounts. Extremely simple and that’s just something they could do overnight. Consider hardware bans. 
+
+These are things they are refusing to do because it will result in less money. Anyone arguing otherwise is just arguing for the sake of argument.
+        IP bans are a very bad idea because of lan cafes and schools. Won't solve anything and will more likely hurt innocent people.
+            Disagree
+I think you forgot:
+
+* Skill Issue
+* You're probably silver and think everyone's cheating
+    Also, "VaLvE NeEdS To FiX bRoKeN GaMe"
+Was so much fun back then lol. Sometimes you could play along and no one would notice until you cleared A site by yourself.
+They paid their $15 so they can do whatever they want. I'd live to see the player count for this game if Valve actually implemented an anti-cheat. I'm convinced they don't take cheating seriously because it's a significant part of their customer base.
+And ban a significant amount of their paying customers? You literally sound like an idiot with potatoes for brains. /s
+Me too! Valorant gets 500-700 FPS and I have yet to encounter a sus player. Also those 128tick servers feel so so nice.
+I picked up apex again or okay CS on faceit.
+Valve is trying to kill this game*
+Guess they don’t exist then
+    My group has yet to find one in Premier. Found 1 in Competitive. Played hundreds of games since release. So less than a 1% cheater rate and a 0% cheater rate in Premier.
+        What level are you playing at?
+
+I played against 2 cheaters yesterday. and another one was on my team
+
+One cheater would put a smoke in front of him and then starts to shoot us through it he even did the promotion of his cheats (this was in competitive)
+
+the cheater on my team was radar hacking and aimboting https://imgur.com/a/IOX5Rh1 this was a premier game btw
+            That SS isn't Premier, where are the ratings? Also blocking out the names? Not sure how a scoreboard can prove cheating without a ridiculous number like 60 on it.
+                Yeah 34-10 is very doable.
+            10-12k
+
+The cheaters are much higher.
+        [deleted]
+            You never cheated in your life.
+I figured this week it's way different in EU servers from the NA servers. I also haven't yet ran into this shit. But figuring out the difference in amounts of cheaters per region finally cleared up why there's so much negativity here and why this sub doesn't remotely resemble my own experiences of these past few weeks.
+    Are you saying EU servers have more cheaters?
+        No, the opposite, I honestly believe (thanks to this sub) that NA server is a cesspool of cheaters in comparison to EU servers.
+
+E to clarify: I'm in EU region and have not ran into any obvious cheater at all, currently about 60 games played in premier mode.
+
+Everytime i point that out here i immediate get called cheater/liar myself. So my take is that mostly NA players are on this sub.
+            Chinese servers have even more cheaters than NA
+Yup way too low
+They tried. Spinbot completes five headshots in fractions of milliseconds under subtick
+I think they are suggesting the ban should have occured right then and there
+Is prime free?
+    https://preview.redd.it/ebmjuxqhb4zb1.jpeg?width=1892&format=pjpg&auto=webp&s=26e54a298a8499172f142019f108392bea1cef6d
+    I never really played CS consistently at all until CS2. Once or twice here and there over the years - does Prime mitigate this issue? I have Prime and have probably only seen 2-3 *obvious* hackers
+    it was back in 2019 to earn it just by reaching prob rank 70
+But they could add 2 lines of code:
+If (kills == 5 && roundTime < 2) { instaBan = true }
+
+Simple as that to solve exploit abuse. But Valve needs a rocket science phd before start thinking for solutions.
+    Temporary workarounds are not solutions. Minecraft servers such as Hypixel did that very same thing to combat fly hackers in their game modes. Cheat developers just added a notice in the bottom left saying "Don't kill anybody for 15 seconds". This community needs to stop proposing workarounds and actually come up with solutions.
+        Invasive anti cheat.
+            That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+                what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+                    It's complicated. No simple situations exist.
+                        There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+                    Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+    It’s even weirder because if they were team kills it’d be an auto kick, lmao
+Need to tie steam accounts to physical computer.  No more new accounts for banned computer.
+    that would be good but i guess valve makes more money when cheaters buy the game again and again and again
+I know nothing of anti cheat shit, but I assume something similar to how team damage to begin the round gets you kicked. Same concept, if an enemy dies within the first 10 seconds or something (adjusted for maps like D2 with spawn sniping) then the killer gets an auto-kick and profile in review.
+
+Of course then they just wait 10 seconds or whatever it is, but my idea is to be applied to this exact scenario.
+    They most likely do log that shit, since it's easy to see if a team died within 1 second of a round starting, but Valve has always been the type of company to wait until they get a good hold of said cheat and can ban mass amounts in one wipe.
+
+To be fair, most companies do that. It's more efficient than to clap one dude and have the cheat get updated and harder to detect.
+        Yea very true, like the red medal wave that just happened
+Well first let’s clarify that I said “lighten” not solved.
+
+At minimum start with IPs bans. Obviously a lot of hackers can get around this but it will cut out a lot of entry level hackers realizing how easy it is to hack with no consequences. Also no one wants to be IP banned by Valve. Require two-factor authentication and phone numbers to be verified and attached to accounts. Extremely simple and that’s just something they could do overnight. Consider hardware bans. 
+
+These are things they are refusing to do because it will result in less money. Anyone arguing otherwise is just arguing for the sake of argument.
+    IP bans are a very bad idea because of lan cafes and schools. Won't solve anything and will more likely hurt innocent people.
+        Disagree
+Also, "VaLvE NeEdS To FiX bRoKeN GaMe"
+My group has yet to find one in Premier. Found 1 in Competitive. Played hundreds of games since release. So less than a 1% cheater rate and a 0% cheater rate in Premier.
+    What level are you playing at?
+
+I played against 2 cheaters yesterday. and another one was on my team
+
+One cheater would put a smoke in front of him and then starts to shoot us through it he even did the promotion of his cheats (this was in competitive)
+
+the cheater on my team was radar hacking and aimboting https://imgur.com/a/IOX5Rh1 this was a premier game btw
+        That SS isn't Premier, where are the ratings? Also blocking out the names? Not sure how a scoreboard can prove cheating without a ridiculous number like 60 on it.
+            Yeah 34-10 is very doable.
+        10-12k
+
+The cheaters are much higher.
+    [deleted]
+        You never cheated in your life.
+Are you saying EU servers have more cheaters?
+    No, the opposite, I honestly believe (thanks to this sub) that NA server is a cesspool of cheaters in comparison to EU servers.
+
+E to clarify: I'm in EU region and have not ran into any obvious cheater at all, currently about 60 games played in premier mode.
+
+Everytime i point that out here i immediate get called cheater/liar myself. So my take is that mostly NA players are on this sub.
+        Chinese servers have even more cheaters than NA
+https://preview.redd.it/ebmjuxqhb4zb1.jpeg?width=1892&format=pjpg&auto=webp&s=26e54a298a8499172f142019f108392bea1cef6d
+I never really played CS consistently at all until CS2. Once or twice here and there over the years - does Prime mitigate this issue? I have Prime and have probably only seen 2-3 *obvious* hackers
+it was back in 2019 to earn it just by reaching prob rank 70
+Temporary workarounds are not solutions. Minecraft servers such as Hypixel did that very same thing to combat fly hackers in their game modes. Cheat developers just added a notice in the bottom left saying "Don't kill anybody for 15 seconds". This community needs to stop proposing workarounds and actually come up with solutions.
+    Invasive anti cheat.
+        That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+            what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+                It's complicated. No simple situations exist.
+                    There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+                Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+It’s even weirder because if they were team kills it’d be an auto kick, lmao
+that would be good but i guess valve makes more money when cheaters buy the game again and again and again
+They most likely do log that shit, since it's easy to see if a team died within 1 second of a round starting, but Valve has always been the type of company to wait until they get a good hold of said cheat and can ban mass amounts in one wipe.
+
+To be fair, most companies do that. It's more efficient than to clap one dude and have the cheat get updated and harder to detect.
+    Yea very true, like the red medal wave that just happened
+IP bans are a very bad idea because of lan cafes and schools. Won't solve anything and will more likely hurt innocent people.
+    Disagree
+What level are you playing at?
+
+I played against 2 cheaters yesterday. and another one was on my team
+
+One cheater would put a smoke in front of him and then starts to shoot us through it he even did the promotion of his cheats (this was in competitive)
+
+the cheater on my team was radar hacking and aimboting https://imgur.com/a/IOX5Rh1 this was a premier game btw
+    That SS isn't Premier, where are the ratings? Also blocking out the names? Not sure how a scoreboard can prove cheating without a ridiculous number like 60 on it.
+        Yeah 34-10 is very doable.
+    10-12k
+
+The cheaters are much higher.
+[deleted]
+    You never cheated in your life.
+No, the opposite, I honestly believe (thanks to this sub) that NA server is a cesspool of cheaters in comparison to EU servers.
+
+E to clarify: I'm in EU region and have not ran into any obvious cheater at all, currently about 60 games played in premier mode.
+
+Everytime i point that out here i immediate get called cheater/liar myself. So my take is that mostly NA players are on this sub.
+    Chinese servers have even more cheaters than NA
+Invasive anti cheat.
+    That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+        what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+            It's complicated. No simple situations exist.
+                There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+            Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+Yea very true, like the red medal wave that just happened
+Disagree
+That SS isn't Premier, where are the ratings? Also blocking out the names? Not sure how a scoreboard can prove cheating without a ridiculous number like 60 on it.
+    Yeah 34-10 is very doable.
+10-12k
+
+The cheaters are much higher.
+You never cheated in your life.
+Chinese servers have even more cheaters than NA
+That's the equivalent of stopping world hunger by "feeding people". You're clueless.
+    what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+        It's complicated. No simple situations exist.
+            There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+        Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+Yeah 34-10 is very doable.
+what‘s your solution then? they‘ve had cheater problems for years what will cs2 change about that?
+    It's complicated. No simple situations exist.
+        There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+    Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+It's complicated. No simple situations exist.
+    There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
+Don’t bother arguing with cheaters lol they will say anything to keep things the way they are
+There is an existing simple solution, believe it or not. There's a Massively popular tactical shooter, and it has already adapted a kernel level anti cheat. So the number of cheaters you see has been significantly reduced.
