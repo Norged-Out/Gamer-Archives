@@ -60,7 +60,7 @@ def main():
     folderName = input("Enter the name of the folder you want to save the files in: ")
     source_path = initial_path + "redditLinks.txt"
     destination_path = initial_path + folderName + "/"
-    #os.makedirs(destination_path)
+    os.makedirs(destination_path)
     print(f'\nFiles will be saved in: {destination_path}\n')
     print(source_path)
 
