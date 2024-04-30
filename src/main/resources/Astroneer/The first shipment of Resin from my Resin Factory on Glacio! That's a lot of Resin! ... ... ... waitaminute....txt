@@ -1,0 +1,167 @@
+[[The first shipment of Resin from my Resin Factory on Glacio! That's a lot of Resin! ... ... ... waitaminute...]]
+
+
+
+
+
+Some no good hombre must have swapped out my precious Resin with some useless radioactive materials! Darn that hombre!!!
+Thats a lot of nanocarbon alloy
+What are your supply lines like?
+
+For me the biggest problems have been with finding ammonium and graphite for large scale nanocarbon production.
+    Had the same problem, very simply fixed with a thumper on graphite over on glacio, followed by a thumper on some Ammonium on calador.
+
+My calador thumper just feeds a chem station with a gas condenser grabing that juicy Hydrogen. Easy hydrazine all day long.
+        [https://www.youtube.com/watch?v=tLp60CjyzLE](https://www.youtube.com/watch?v=tLp60CjyzLE)
+
+I looked around in creative mode until I found some ammonium, graphite, hematite and titanite deposits, all relatively close to each other, and they're all nearly full green bars on the auto extractors!
+
+Glacio is missing helium, hydrogen and nitrogen gasses. Fortunatly, that's not too hard to solve by transporting over the gasses via shuttle.
+
+I'm currently almost out of soil for my centrifuge to turn into organic to carbon, but I'm going to switch the system over to using a large container of tungsten, turning it into worklights -> scrap -> organic via trade platform, and then smelt into carbon. ... on the basis that farming up a large silo of soil is more effort than collecting a full container of tungsten.
+            Sounds like a spild plan. Once you have soil to scrape automated it's super easy to get anything you could ever need.
+First you get the resin, then you get the power, then you get the women...
+    I didn't see that patch. I'm going to assume it's a PC only feature.
+Holy Guacamole!
+What are you planning to do with all of those?
+    Im wondering that too. All you can make with them is like the portable oxygenator and rtg.
+        Obviously they're gonna make 800 RTGs and make a house out of them
+If you put your nanocarbon factory on Vesania you can automate 3 of the 4 gasses
+    Mr efficiency here knows how us lazy people automate, one gas input down from four just yes please
+        My only inputs are soil, helium and a 1 time investment of 8 scrap in my vesania factory.
+            I like the sound of that, do you know your soil to nanocarbon rate by any chance?
+                I dont. I did a video on my machine. Its fully automated, even the trade platforms.  
+
+This was before the soil canisters could be automated on small printers so I am sure it could be more efficient now.
+
+https://youtu.be/ZnYJb1XSItQ
+                    Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+                        Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+                            Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+                                If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                                    You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+I wish I was you ): the only nanocatbon alloy I’ve ever gotten in my game was from completing an special request mission lol
+huh.... thats a bummer. that could have been alot of resin, and now its some useless material that will never get used! ever!
+    The ironic thing is, this pretty much came true today. Was doing some major base expansion, and I needed hundreds of resin, and had to go scavenge it, farm it, etc etc etc. ... used some nanocarbon alloys, yeah, but only a couple of dozen.
+Well i can't say you'll be out of power soon
+    Resin for power? Is this just referring to RTGs you can make?
+        Yeah i'm just referring to RTGs. Are they not crafted with nanocarbon alloy anymore?
+            Yes, that’s all I know about too, just making sure I didn’t miss something obvious.
+                Oh no i didn't try making any hidden jokes
+                    I got nearly 10k u/s  from my solar farm on Calidor lol...
+Ive done this too, i understand your pain
+Would you lend me some of your... resin please?
+HOLY CRAP
+Had the same problem, very simply fixed with a thumper on graphite over on glacio, followed by a thumper on some Ammonium on calador.
+
+My calador thumper just feeds a chem station with a gas condenser grabing that juicy Hydrogen. Easy hydrazine all day long.
+    [https://www.youtube.com/watch?v=tLp60CjyzLE](https://www.youtube.com/watch?v=tLp60CjyzLE)
+
+I looked around in creative mode until I found some ammonium, graphite, hematite and titanite deposits, all relatively close to each other, and they're all nearly full green bars on the auto extractors!
+
+Glacio is missing helium, hydrogen and nitrogen gasses. Fortunatly, that's not too hard to solve by transporting over the gasses via shuttle.
+
+I'm currently almost out of soil for my centrifuge to turn into organic to carbon, but I'm going to switch the system over to using a large container of tungsten, turning it into worklights -> scrap -> organic via trade platform, and then smelt into carbon. ... on the basis that farming up a large silo of soil is more effort than collecting a full container of tungsten.
+        Sounds like a spild plan. Once you have soil to scrape automated it's super easy to get anything you could ever need.
+I didn't see that patch. I'm going to assume it's a PC only feature.
+Im wondering that too. All you can make with them is like the portable oxygenator and rtg.
+    Obviously they're gonna make 800 RTGs and make a house out of them
+Mr efficiency here knows how us lazy people automate, one gas input down from four just yes please
+    My only inputs are soil, helium and a 1 time investment of 8 scrap in my vesania factory.
+        I like the sound of that, do you know your soil to nanocarbon rate by any chance?
+            I dont. I did a video on my machine. Its fully automated, even the trade platforms.  
+
+This was before the soil canisters could be automated on small printers so I am sure it could be more efficient now.
+
+https://youtu.be/ZnYJb1XSItQ
+                Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+                    Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+                        Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+                            If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                                You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+The ironic thing is, this pretty much came true today. Was doing some major base expansion, and I needed hundreds of resin, and had to go scavenge it, farm it, etc etc etc. ... used some nanocarbon alloys, yeah, but only a couple of dozen.
+Resin for power? Is this just referring to RTGs you can make?
+    Yeah i'm just referring to RTGs. Are they not crafted with nanocarbon alloy anymore?
+        Yes, that’s all I know about too, just making sure I didn’t miss something obvious.
+            Oh no i didn't try making any hidden jokes
+                I got nearly 10k u/s  from my solar farm on Calidor lol...
+[https://www.youtube.com/watch?v=tLp60CjyzLE](https://www.youtube.com/watch?v=tLp60CjyzLE)
+
+I looked around in creative mode until I found some ammonium, graphite, hematite and titanite deposits, all relatively close to each other, and they're all nearly full green bars on the auto extractors!
+
+Glacio is missing helium, hydrogen and nitrogen gasses. Fortunatly, that's not too hard to solve by transporting over the gasses via shuttle.
+
+I'm currently almost out of soil for my centrifuge to turn into organic to carbon, but I'm going to switch the system over to using a large container of tungsten, turning it into worklights -> scrap -> organic via trade platform, and then smelt into carbon. ... on the basis that farming up a large silo of soil is more effort than collecting a full container of tungsten.
+    Sounds like a spild plan. Once you have soil to scrape automated it's super easy to get anything you could ever need.
+Obviously they're gonna make 800 RTGs and make a house out of them
+My only inputs are soil, helium and a 1 time investment of 8 scrap in my vesania factory.
+    I like the sound of that, do you know your soil to nanocarbon rate by any chance?
+        I dont. I did a video on my machine. Its fully automated, even the trade platforms.  
+
+This was before the soil canisters could be automated on small printers so I am sure it could be more efficient now.
+
+https://youtu.be/ZnYJb1XSItQ
+            Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+                Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+                    Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+                        If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                            You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+Yeah i'm just referring to RTGs. Are they not crafted with nanocarbon alloy anymore?
+    Yes, that’s all I know about too, just making sure I didn’t miss something obvious.
+        Oh no i didn't try making any hidden jokes
+            I got nearly 10k u/s  from my solar farm on Calidor lol...
+Sounds like a spild plan. Once you have soil to scrape automated it's super easy to get anything you could ever need.
+I like the sound of that, do you know your soil to nanocarbon rate by any chance?
+    I dont. I did a video on my machine. Its fully automated, even the trade platforms.  
+
+This was before the soil canisters could be automated on small printers so I am sure it could be more efficient now.
+
+https://youtu.be/ZnYJb1XSItQ
+        Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+            Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+                Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+                    If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                        You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+Yes, that’s all I know about too, just making sure I didn’t miss something obvious.
+    Oh no i didn't try making any hidden jokes
+        I got nearly 10k u/s  from my solar farm on Calidor lol...
+I dont. I did a video on my machine. Its fully automated, even the trade platforms.  
+
+This was before the soil canisters could be automated on small printers so I am sure it could be more efficient now.
+
+https://youtu.be/ZnYJb1XSItQ
+    Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+        Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+            Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+                If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                    You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+Oh no i didn't try making any hidden jokes
+    I got nearly 10k u/s  from my solar farm on Calidor lol...
+Now that was a very Intresting watch thanks for linking it. Its definitely given me a few little things to try building my own system.
+
+The combining of the buffer platform for scrape is genius! Ive always hated trying for a 6 slot and having to use a clock. But just making a 14 makes perfect sense and cuts down on the sensors.
+    Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+        Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+            If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+                You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+I got nearly 10k u/s  from my solar farm on Calidor lol...
+Yeah, that was the longest amount of time I spent troubleshooting. Im incorporating the same buffer tech into a machine that divides my scrap into trade platforms and sends off for the unique resources now and it is working well for that too.
+    Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+        If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+            You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+Plans never just go perfect, but the results are always worth it. That sounds like a useful machine to have around. I've always loved how figureing out these basics mechanisms just opens more and more ideas, a simple game doing automation right.
+    If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+        You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+If you are using soil, you would have to use A LOT of soil! ... trading for organic and hematite huh. Ouch.
+    You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.
+You dont trade for organic, you use the soil centrifuge. You trade for Titanite and Hematite.

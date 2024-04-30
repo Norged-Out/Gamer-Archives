@@ -1,0 +1,203 @@
+[[How do we activate the center node]]
+
+
+
+
+
+i havent done it myself, but from what ive read you just dig to the core and then depending on what planet your on you input a certain resource and then it activates. you need to activate at least one of the portals on the surface tho to unlock the core.
+And here’s the chart for which planet needs which resource to awaken:
+
+Sylva: Quartz
+
+Desolo: Zinc 
+
+Calidor: Explosive Powder
+
+Vesania: Graphene
+
+Novus: Silicone 
+
+Glacio: Diamond 
+
+Atrox: Hydrogen (full canister)
+    Thank you!
+Depending on how far your are into the game dig to the core.  I use the terrain tool with wide mode and go north then south and work my way down every cave level change direction.
+[deleted]
+    do we have to dig to the core manually?
+        [deleted]
+            [deleted]
+                [deleted]
+                    [deleted]
+                        [deleted]
+                            [deleted]
+                                You still need to control angle and direction of travel as well as your forward movement
+                                    [deleted]
+                            Yea but it takes like 5 minutes
+        It’s best to figure out what resource each core needs before you go down, or make a path all the way.
+        Yes, you can dig with a rover or your tool and tetheres, lots a tethers.
+            I did the tethers option for every single planet
+Did straight down with a tractor some sort of energy supply (RTG is the best) and then you’ll be there you also need something to power the core up you’ll need to look it up
+    Surface gateways need power and the amount needed increases depending on which planet. If I recall, Sylva only needs like 4u, while Atrox needs... 21? The core engines don't need power. You need to show up with two nuggets of the correct resource, which is different for each planet. There are various strategies for providing the power needed. I used RTG's (up to 8 of them). Others have used banks of small batteries, lots of solar panels, etc. You need to provide enough power for 30 seconds to unlock a gateway. They require no power after that.
+        Atrox 30u
+The easiest way is to put a level 3 drill on the front of a tractor with a trailer holding a RTG behind you.  Make sure to bring 4 packagers with you since you'll want to bring those 4 things back to the surface with you.  Also, make sure to look up which material you need to activate the core.  The gravity in the core is wonky, but you won't lose anything if it starts to float away.
+    THIS
+You will need to dig down with a large rover. You will also need a paver, drill strength 3, a soil / fluid canister, a seat to drive, and a power source that produces at least 3 power (RTG). Make sure you adjust the angle of the tunnel as needed.
+    Orrrr 2 QTG, portable oxygenator and a hydrazine jetpack
+Yeah idk I have everything endgame already
+Soil canisters and drill level 3 for sure
+I know this is irrelevant but here’s my chart on which planets gateway chambers require how much power to solve:
+
+Sylva: 5
+
+Desolo: 9
+
+Calidor: 12
+
+Vesania: 16
+
+Novus: 21
+
+Glacio: 26
+
+Atrox: 30
+    Whats the best and cheapest way to reach 30U power ?
+        Idk
+            I think 30 small battery will do the trick
+                Huh
+                    Idk 8 rtg seems better or at least that’s what I used
+                    You know... The last planet required 30U power for 30 level
+                        Yeah 8 rtgs provide 32 power. Do the math
+                            So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+                                I suppose
+                                    But I don’t really care
+                            A medium generator uses carbon and gives 9U alone
+Most people in this thread are suggesting that you use a rover and drill to reach the core of the planet (which is how you activate the center node,) but I don't think that's necessary, nor is it realistic, since you're on Desolo and likely just starting out.
+
+My advice is to get the boost mod and drill mod for the excavator and just excavate your way to the center. From there, you'll want to bring some sphalerite, since that's the material that the center node requires to activate.
+You need to dig into the core and depending on the planet, take a resource with you to trade for a different type of node, then you put that into a slot which activates it.
+Dig to the core of the planet
+A good way is to get a tractor, a trailer, an rtg and a drill. Then you once you have activated one of the nodes on the surface, get 4 packagers as well as the material you need for the core. Then drill down, no paths needed, to the core, activate it. Package your stuff and teleport to the surface ( you might need to have a tether line at your node on the surface.)
+Thank you!
+do we have to dig to the core manually?
+    [deleted]
+        [deleted]
+            [deleted]
+                [deleted]
+                    [deleted]
+                        [deleted]
+                            You still need to control angle and direction of travel as well as your forward movement
+                                [deleted]
+                        Yea but it takes like 5 minutes
+    It’s best to figure out what resource each core needs before you go down, or make a path all the way.
+    Yes, you can dig with a rover or your tool and tetheres, lots a tethers.
+        I did the tethers option for every single planet
+Surface gateways need power and the amount needed increases depending on which planet. If I recall, Sylva only needs like 4u, while Atrox needs... 21? The core engines don't need power. You need to show up with two nuggets of the correct resource, which is different for each planet. There are various strategies for providing the power needed. I used RTG's (up to 8 of them). Others have used banks of small batteries, lots of solar panels, etc. You need to provide enough power for 30 seconds to unlock a gateway. They require no power after that.
+    Atrox 30u
+THIS
+Orrrr 2 QTG, portable oxygenator and a hydrazine jetpack
+Yeah idk I have everything endgame already
+Soil canisters and drill level 3 for sure
+Whats the best and cheapest way to reach 30U power ?
+    Idk
+        I think 30 small battery will do the trick
+            Huh
+                Idk 8 rtg seems better or at least that’s what I used
+                You know... The last planet required 30U power for 30 level
+                    Yeah 8 rtgs provide 32 power. Do the math
+                        So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+                            I suppose
+                                But I don’t really care
+                        A medium generator uses carbon and gives 9U alone
+[deleted]
+    [deleted]
+        [deleted]
+            [deleted]
+                [deleted]
+                    [deleted]
+                        You still need to control angle and direction of travel as well as your forward movement
+                            [deleted]
+                    Yea but it takes like 5 minutes
+It’s best to figure out what resource each core needs before you go down, or make a path all the way.
+Yes, you can dig with a rover or your tool and tetheres, lots a tethers.
+    I did the tethers option for every single planet
+Atrox 30u
+Idk
+    I think 30 small battery will do the trick
+        Huh
+            Idk 8 rtg seems better or at least that’s what I used
+            You know... The last planet required 30U power for 30 level
+                Yeah 8 rtgs provide 32 power. Do the math
+                    So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+                        I suppose
+                            But I don’t really care
+                    A medium generator uses carbon and gives 9U alone
+[deleted]
+    [deleted]
+        [deleted]
+            [deleted]
+                [deleted]
+                    You still need to control angle and direction of travel as well as your forward movement
+                        [deleted]
+                Yea but it takes like 5 minutes
+I did the tethers option for every single planet
+I think 30 small battery will do the trick
+    Huh
+        Idk 8 rtg seems better or at least that’s what I used
+        You know... The last planet required 30U power for 30 level
+            Yeah 8 rtgs provide 32 power. Do the math
+                So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+                    I suppose
+                        But I don’t really care
+                A medium generator uses carbon and gives 9U alone
+[deleted]
+    [deleted]
+        [deleted]
+            [deleted]
+                You still need to control angle and direction of travel as well as your forward movement
+                    [deleted]
+            Yea but it takes like 5 minutes
+Huh
+    Idk 8 rtg seems better or at least that’s what I used
+    You know... The last planet required 30U power for 30 level
+        Yeah 8 rtgs provide 32 power. Do the math
+            So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+                I suppose
+                    But I don’t really care
+            A medium generator uses carbon and gives 9U alone
+[deleted]
+    [deleted]
+        [deleted]
+            You still need to control angle and direction of travel as well as your forward movement
+                [deleted]
+        Yea but it takes like 5 minutes
+Idk 8 rtg seems better or at least that’s what I used
+You know... The last planet required 30U power for 30 level
+    Yeah 8 rtgs provide 32 power. Do the math
+        So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+            I suppose
+                But I don’t really care
+        A medium generator uses carbon and gives 9U alone
+[deleted]
+    [deleted]
+        You still need to control angle and direction of travel as well as your forward movement
+            [deleted]
+    Yea but it takes like 5 minutes
+Yeah 8 rtgs provide 32 power. Do the math
+    So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+        I suppose
+            But I don’t really care
+    A medium generator uses carbon and gives 9U alone
+[deleted]
+    You still need to control angle and direction of travel as well as your forward movement
+        [deleted]
+Yea but it takes like 5 minutes
+So since your doing math please think a bit more which one is cheaper since you can get same amount of power (nearly) and waste less valuable resources
+    I suppose
+        But I don’t really care
+A medium generator uses carbon and gives 9U alone
+You still need to control angle and direction of travel as well as your forward movement
+    [deleted]
+I suppose
+    But I don’t really care
+[deleted]
+But I don’t really care

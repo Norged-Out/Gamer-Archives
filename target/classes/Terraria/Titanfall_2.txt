@@ -1,0 +1,246 @@
+{{Short description|2016 first-person shooter video game}}
+{{good article}}
+{{Use American English|date=April 2015}}
+{{Use mdy dates|date=June 2019}}
+{{Infobox video game
+| title = Titanfall 2
+| image = Titanfall 2.jpg
+| caption = Cover art showing protagonist Jack Cooper and his Titan BT-7274
+| developer = [[Respawn Entertainment]]
+| publisher = [[Electronic Arts]]
+| director = Steve Fukuda
+| producer = Drew McCoy
+| designer = {{ubl|Todd Alderman |Mackey McCandlish}}
+| programmer = Richard A. Baker
+| artist = Joel Emslie
+| writer = {{ubl|Steve Fukuda|Manny Hagopian|Jesse Stern}}
+| composer = [[Stephen Barton]]
+| series = ''[[Titanfall]]''
+| engine = [[Source (game engine)|Source]]
+| platforms = {{ubl|[[PlayStation 4]]|[[Windows]]|[[Xbox One]]|}}
+| released = October 28, 2016
+| genre = [[First-person shooter]]
+| modes = [[Single-player]], [[multiplayer]]
+}}
+'''''Titanfall 2''''' is a [[first-person shooter]] [[video game]], developed by [[Respawn Entertainment]] and published by [[Electronic Arts]]. A sequel to 2014's ''[[Titanfall (video game)|Titanfall]]'', the game was released worldwide on October 28, 2016, for [[PlayStation 4]], [[Windows]], and [[Xbox One]]. In ''Titanfall 2'', players control Titans, [[mecha]]-style [[Powered exoskeleton|exoskeletons]] and their pilots, who are agile and equipped with a variety of skills ranging from wall-running to [[cloaking device|cloaking]]. Set in a [[science fiction]] universe, the single-player campaign follows the story of Jack Cooper, a [[rifleman]] from the Frontier Militia, who bonds with his mentor's Titan BT-7274 after his mentor, Tai Lastimosa, is [[killed in action]]. Together, they embark on a quest to stop the Interstellar Manufacturing Corporation (IMC) from using a [[superweapon]] to destroy the Militia base on the planet Harmony.
+The game's two-year development cycle began in mid-2014. The decision to add a single-player campaign to the game came about because the team wanted to expand the game's player base. They came up with different ideas and prototypes, and integrated them to form a single coherent campaign. ''[[Gargantia on the Verdurous Planet]]'' and [[buddy cop film]]s, as well as the video game ''[[Half-Life (series)|Half-Life]]'' inspired the game's campaign and narrative. The team also overhauled the progression system and made subtle changes to the multiplayer to make the gameplay more fair. A heavily modified version of [[Valve Corporation|Valve]]'s [[Source (engine)|Source]] engine powers the game. [[Stephen Barton]], who composed Titanfall’s soundtrack, returned to compose music for its successor.
+Upon release, the game received critical acclaim. The single-player campaign was praised for its design and execution, and the multiplayer modes for building on the foundation of the original game. Despite the positive reception, ''Titanfall 2'' underperformed commercially, with most attributing its underwhelming performance to going on sale in a crowded release window, placed between the release of ''[[Battlefield 1]]'' and ''[[Call of Duty: Infinite Warfare]]''. It was nominated for multiple year-end accolades, including [[List of Game of the Year awards|Game of the Year]] and Best Shooter awards, by several [[Video game journalism|gaming publications]]. Respawn continued to support the game after its release, providing several updates and [[downloadable content]].
+==Gameplay==
+[[File:Titanfall 2 gameplay screenshot.png|thumb|left|256px|In multiplayer mode, the player latches onto an enemy player's Titan with the grapple hook ability.]]
+Similar to its predecessor, ''Titanfall 2'' is a [[first-person shooter]] where players can control both a pilot and their Titans—mecha-style robots that stand roughly seven to ten meters tall. The pilot has a large variety of equipment that enhance their abilities during combat. All pilots have a jump kit which assists with [[parkour]], double-jumping, and wall-running. Pilots have more specific abilities unique to each 'class' which augments their offensive and defensive ability, such as a [[grappling hook]] for enhanced mobility, or a holographic visual [[cloaking device]]. Pilots use their jump kits to run on walls, movements which can be [[combo (gaming)|chained]] together to travel between locations quickly. The game introduces several new gameplay mechanics. These include: a movement system that allows players to [[Sliding (motion)|slide]] on the ground, the pulse blade (which is a [[throwing knife]] that reveals the location of any nearby enemy), the holo-pilot, (a holographic pilot that mimics players' actions and appearance to confuse enemies), and a [[grappling hook]], which can be used to slingshot players to a building/titan or reel other enemies it attaches to towards the user. The Pilots have a large arsenal of gadgets and weapons, such as [[shotgun]]s, [[submachine gun]]s, [[pistol]]s, [[Rifle|rifles]], [[Light machine gun|light machine guns]], and [[grenades]] to fight their enemies. At close range, players can execute their opponents from behind in a short animation with a [[Melee (gaming)|melee attack]]. Melee attacks are always instantly fatal should they connect.
+Titans are significantly less mobile than the pilots, but they have stronger firearms and superior protection. Replacing the three classes featured in the first ''Titanfall'', six Titans were introduced at launch—Ion, Scorch, Northstar, Ronin, Tone, and Legion, with Monarch being introduced in the May 2017 ''Monarch's Reign'' free [[Downloadable content|DLC]]. Ion uses a directed-energy arsenal and makes use of a shield that can catch then redirect enemy projectile attacks. Scorch engages in combat using area-denial incendiary weaponry and indirect-fire thermite mortar. Northstar excels in long-range precision attacks with a charged [[railgun]], and sets movement-restricting traps, and is the only Titan with the ability to leave the ground and hover. Ronin specializes in hit-and-run combat, using a 'Leadwall' shotgun and a sword. Tone focuses on mid-range combat with its target locking weapons. Legion uses a [[rotary cannon]] designed for sustained fire at both mid- and close-range. Finally, Monarch—added post-release via downloadable content (DLC)—is a Vanguard-class chassis that can steal power from other Titans to power up its own defensive shield and upgrade itself mid-fight. The Titans have their own move sets which are different from those of the pilots—for instance, they can dodge quickly to evade attacks.
+===Single-player===
+Unlike its predecessor, ''Titanfall 2'' has a single-player story campaign with gameplay split between commanding the Titan (BT-7274, voiced by Glenn Steinbaum) and controlling the Pilot (Rifleman Third Class Jack Cooper, voiced by [[Matthew Mercer]]). It features a linear story, but levels offer players multiple paths to explore. For most parts of the game the Titan BT-7274 accompanies players, alongside allied NPCs from the universe's Frontier Militia faction (of which BT-7274 and Jack Cooper are a part). BT-7274 can change his weapon loadouts under players' command to maximize his efficiency when combating local wildlife, IMC infantry and other Titans. These loadouts are unlocked by finding abandoned equipment in each level that appears as the loadout"s weapon. These are typically found before a sequence which will benefit from the player switching to that loadout. The game also features [[platform game|platform]] elements, which task players to make use of Cooper's [[parkour]] abilities to solve environmental puzzles, and travel to previously inaccessible areas. Some weapons are level-specific and can only be used in certain areas. There are also level-specific gameplay mechanics. For instance, in the "[[Effect and Cause]]" level, players are required to shift between the present and past with a [[time travel]] device. Players can also select dialogue options and have Cooper talk to BT-7274 at certain points in the campaign to develop the characters' personalities and often to comedic effect. The single-player also features a training gauntlet, which acts as a [[tutorial]] for players. The faster they complete the gauntlet, the higher their position will be on a [[Glossary of video game terms|leaderboard]].
+===Multiplayer===
+The multiplayer mode sees the return of Titanfall's Titan meter, which fills slowly when the player is playing the game. It fills faster when the player kills an opponent, inflicts damage on enemies, or accomplishes the map's objectives such as capturing points in the Hardpoint game mode. A titanfall can crush opponents if it lands on one when summoned and will instantly kill any enemy directly impacted. When the Titan meter is filled completely while in a Titan, the Titan can use its 'Core' ability, which often takes the form of a special attack or otherwise augments the Titan's abilities. Players can disembark from their Titan at any time. It will continue attacking nearby opponents under "follow mode", where the Titan follows the pilot as closely as it can. Players can also set it to "guard mode" and it will stay put, attacking any opponent that comes close. Finally, the Pilot can activate the Titan's ejection system, destroying the titan (and creating a large explosion if the 'Nuclear Eject' perk is selected in the Titan's loadout) and launching the Pilot high into the air.
+Players earn "merits", also known as [[experience (gaming)|experience points]], based on their performance in a multiplayer match and whether their team wins or loses. Players need to accumulate merits to level up, which unlocks additional weapons, abilities, customization options, and more. There are also other ways to earn merits, like surviving the evacuation phase when the players' team loses a match. Players can also earn Credits, a form of currency used to buy weapons, boosts, Titans, or abilities before they are unlocked. These can be earned by gaining merits and completing challenges. The game's customization options have expanded significantly compared to ''Titanfall''. Players' outfits and weapons, as well as Titans' appearances and combat efficiency, can be extensively customized. Boosts replace burn cards featured in the earlier game. They are tactical abilities that enhance the players' combat efficiency. Each boost has its own specific access requirement. Ticks, which are explosive mines that track enemies, for example, require 65% of the Titan meter filled. Amped Weapons, where players inflict more damage with their firearms, need 80%. Players must decide which boost they are going to use before a match begins; they cannot swap their boost during the game.
+''Titanfall 2'' features several multiplayer modes. These modes include:
+* '''Amped Hardpoint''': In this mode, teams receive points if they can hold control points for an extended period. The team that accumulates more points wins.
+* '''Bounty Hunt''': Players are rewarded with money if they kill enemies, opponents or [[artificial intelligence|AI]]-controlled grunts. Players need to return to specific points to deposit the money. Players can also steal opponents' money by killing them. The team that has the highest score wins.
+* '''Pilot vs. Pilot''': A standard [[team deathmatch]] mode but players cannot summon any Titan.
+* '''Capture the Flag''': Players are tasked to [[capture the flag]] of an enemy and bring it to their team's base, while preventing opponents from stealing the player's flag. Sides switch halfway through the match.
+* '''Attrition''': A standard team deathmatch mode in which players can summon Titans. Points are rewarded to a player's team when they kill a human-controlled enemy or an AI-controlled grunt. When a team earns enough points, the game transitions into the following phase: the losing team needs to reach the evacuation zone and escape, while the winning team needs to eliminate all opponents.
+* '''Skirmish''': This mode is like Attrition, but there is no AI-controlled grunts and the score needed for phase transitioning is lower.
+* '''Last Titan Standing''': A last player standing mode, where the first team to eliminate all opposing titans wins. Players are spawned in their titan and can collect batteries scattered around the map.
+* '''Free for All''': Players are tasked to kill each other in this mode. All other players will be marked as their opponents. This has since been removed from the game.
+* '''Coliseum''': This is a one-versus-one multiplayer mode where the player is tasked to eliminate the other player. Players can gain access to this mode through Coliseum tickets. These are earned by playing other multiplayer modes, buying them with credits, or receiving them in gifts granted when the player levels up a faction.
+* '''Titan Brawl''': A standard [[team deathmatch]] mode, but players spawn with their titans and cannot eject or disembark from their titans.
+* '''Frontier Defense''': A [[player versus environment]] (PvE) multiplayer game mode where four players must face up to five waves of enemies.
+Matchmaking is also enhanced, with the game automatically helping players to find a new match after the end of every match. The game also introduces a new feature called "Networks", which allows players to form a group, similar to a [[Clan (video games)|guild]]. The game automatically groups both the player and other members of the network together in a match. Players can join more than one network and can switch between joined networks in-game. Each network has its own "happy hour". If the player plays the game during this period, they gain extra merits.
+==Campaign==
+===Setting===
+The game's conflict takes place in "The Frontier", a region of star systems far removed from the "Core Systems" where Earth is located. The Interstellar Manufacturing Corporation (IMC) and the Frontier Militia battle for control of the Frontier. The IMC seeks to exploit the Frontier's rich resources regardless of the consequences for planetary environments and civilian populations, while the Militia fight to expel the IMC and gain the Frontier's independence. In the wake of the [[Titanfall#Plot|Battle of Demeter]], the Militia is on the offensive, battling for resources and control of the Frontier planets. Though weakened by the lack of reinforcements from the core systems because of the destruction of the refueling facility by James MacAllan, the IMC is still a dominant fighting force attempting to drive the Militia out and put down any resistance to their control of the Frontier.
+In the single player campaign the player assumes control of Jack Cooper, a lowly rifleman from the Frontier Militia, sent to the alien planet of Typhon as part of an assault on the planet by the Militia, who must join his former mentor Captain Tai Lastimosa's Titan—named BT-7274—to foil the IMC's plans of interstellar domination.
+===Plot===
+[[File:Matthew Mercer by Gage Skidmore.jpg|thumb|right|180px|[[Matthew Mercer]] provided the voice for protagonist Jack Cooper.]]
+Jack Cooper is a rifleman in the Militia. He aspires to become a Titan Pilot and is receiving off-the-books training from Captain Tai Lastimosa to prepare for his candidacy. The two are part of a Militia force which attacks the IMC-held planet of Typhon. In the initial battle, the Apex Predators, a group of mercenaries led by Kuben Blisk and contracted by the leader of the IMC's science division, General Marder, mortally wounds Lastimosa and incapacitates his Vanguard-class Titan, BT-7274. With his dying breath, Lastimosa transfers control of BT to Cooper. BT explains that Cooper has also inherited Lastimosa's mission, Special Operation 217: to rendezvous with Major Eli Anderson and assist in the completion of their original assignment. Anderson's last known position is at an IMC laboratory. BT and Cooper are forced to detour, first through a water reclamation facility then a manufacturing plant, killing the Apex Predators Kane and Ash along the way.
+BT and Cooper continue to the IMC laboratory only to find it destroyed, with corpses artificially aged due to time-travel distortion scattered across the facility. Cooper finds Anderson, deceased from a time-travel mishap. BT uploads part of his AI into Cooper's helmet to facilitate communication through time. Cooper learns Anderson was gathering intelligence on a new IMC device, the "Fold Weapon", which utilizes time-displacement technology to destroy entire planets. The planet Harmony, which is the home planet of Lastimosa and houses the Militia headquarters, will be the first target. Fortunately for the Militia, the Fold Weapon is dependent upon a power source known as the Ark. Cooper and BT hijack an IMC communications array to broadcast a signal to the Militia fleet and kill another of the Apex Predators, Richter. The transmission contains sensor data on the Ark's electromagnetic signature so that the Militia can find and seize it.
+After receiving the transmission, the Militia's Marauder Corps, led by Commander Sarah Briggs, assaults the IMC-held installation where the Ark is being kept, arriving too late to prevent it from being loaded onto the Draconis, an IMC transport. The Militia gives chase in hijacked IMC ships. BT and Cooper attempt to board the Draconis but are attacked by the Apex Predator Viper. Cooper kills Viper and successfully boards the Draconis with BT.
+Cooper and BT secure the Ark before the ship crashes. BT becomes incapacitated from damage sustained in his fight with Viper, and the duo are captured by Blisk and his second-in-command, Slone. BT surrenders the Ark to save Cooper but is destroyed by Slone for trying to help Cooper escape. However, BT gives Cooper a [[Survival, Evasion, Resistance and Escape|SERE]] kit and his data core before his chassis fails, and Cooper uses it to revive BT by installing it in a new Vanguard chassis provided by Briggs after he escapes captivity. Reunited, Cooper and BT fight their way to the base where the Fold Weapon is being prepared for use against Harmony. They kill Slone, earning Blisk's respect; Blisk spares Cooper and offers him a place in the Apex Predators before departing. BT and Cooper then launch themselves into the Fold Weapon's superstructure where the Ark has already been installed. BT hurls Cooper free before sacrificing himself, destroying the Ark, Fold Weapon, and the planet itself.
+The game ends with a monologue by Cooper, talking about having his status as a pilot affirmed and being inducted into the Marauder Corps, as well as reminiscing over his experiences with BT. In a post-credits scene, the Titan neural link to Cooper's helmet flashes with the message "Jack?" encoded in [[Morse code|Morse]], suggesting some fragment of BT's AI has survived.
+==Development==
+[[Respawn Entertainment]], founded by [[Vince Zampella]], and a team of ninety people developed the game. ''[[Titanfall]]''{{'}}s original director, Steve Fukuda, producer Drew McCoy, and composer [[Stephen Barton]] returned for the sequel. Production of the title began in mid-2014 with a two-year development cycle.
+===Single-player===
+''Titanfall'' had a low engagement with players post-release, despite huge initial sales. Fukuda believed the dwindling size of the community was due mainly to the game's lack of a single-player campaign. and McCoy believed this could make the overall package more complete. The team's vision for the campaign was to make it different from other [[first-person shooter]]s, especially ''[[Call of Duty]]''. As a result, the team decided to host many [[game jam]]s in the studio, where team members were free to create new designs and experiment with technology with few constraints other than adhering to ''Titanfall''{{'}}s existing mechanics. The team was tasked not to follow traditional shooter campaign's design conventions. Team members were free to build prototypes for it, which would then be integrated to form a coherent campaign. These prototypes were internally referred to as "action blocks". They allowed the team to introduce "ideas after ideas" in the full game since these blocks were often independent of each other and had unique gameplay features. For instance, players would be time traveling in one level and assaulting Titans in the next. These blocks enabled the team to discover new ideas and work out the structure of the overall campaign. Internally it was called "211" as every level consisted of two parts involving pilot combat, one part involving pilot movement and puzzle solving, and one part involving Titan combat.
+[[File:AH-64D Apache Longbow.jpg|thumb|250px|right|Military technologies such as the [[Boeing AH-64 Apache]] helicopter inspired the look of BT-7274.]]
+The "action blocks" approach meant ''Titanfall 2''{{'}}s gameplay was designed before the story. The team intended making the game similar to the ''[[Half-Life (series)|Half-Life]]'' series, where a mystery takes center stage in the story, hooking players to continue exploring it and completing the campaign. ''[[Portal (video game)|Portal]]'' also influenced the game's design. "BT" stood for "Buddy Titan", a name the team hated, but Fukuda insisted on using. To increase the chemistry between the duo, the two characters have opposite personalities: Jack is enthusiastic, while BT is robotic and calm. Cooper was difficult for the team to write since his personality may not align with players' choices or vision for the character. The team added a design choice that let players communicate with BT enabling players to bond with the Titan without using any [[cutscene]]. This also provided players with more insights into the game's world, though some staff questioned the decision since ''Half-Life'' 's protagonist is silenced. To make players feel that Cooper and BT are separate entities even when they are controlling the Titan, the team included several small graphical hints to remind them that BT will still continue to talk to the player character. [[Akira Kurosawa]] films and [[Clint Eastwood]] and [[Sam Elliott]]'s cowboy roles inspired animator Shawn Lee Wilson creation of BT's unique physical appearance and expression. The [[Apache helicopter]] and other military technologies also inspired BT's design. Wilson provided motion capture for the Titan.
+While designing the game's single-player, one of the team's goals was to keep the energy present in ''Titanfall''{{'}}s multiplayer mode. The team wanted to make the campaign more creative instead of simply having robots in it. Both the unique traits of pilots and Titans had to be used and expanded upon. Therefore, the team decided to create both intricate environments for pilots' transversal and large open space for titan combat, instead of making it a [[linear gameplay|corridor shooter]]. According to gameplay designer Mohammed Alavi, this gave players greater control and freedom over the character's movement. The team focused a great deal on [[platform game|platforming]] designed to further expand the use of the pilot movement sets. Many team members created action blocks dedicated to platforming, including ideas such as having players solve puzzles to find a new surface to wall-run on, and Titan being able to throw the pilot, so they could travel over long distances. The concept of Titan throwing pilots was ultimately discarded from the gameplay and became part of a cinematic cutscene because the team had trouble implementing it due to its lack of interactivity.
+''[[X2 (film)|X2]]''{{'}}s [[Nightcrawler (comics)|Nightcrawler]] and the documentary series ''[[Life After People]]'' inspired the most acclaimed level, "Effect and Cause", initially an action block created by designer Jake Keating involving time travel. He had the idea before the development of ''Titanfall''. He experimented with it with one of ''Titanfall''{{'}}s multiplayer maps. The action block was warmly welcomed by the entire development team, with some feeling that it had the potential to be the main feature through the entire game rather than being confined to one level. However, Keating insisted on limiting its use to one level so that the mechanic would not become boring for players. To make the level, the team created two building [[computer model]]s with one on top of the other. As the player switches timelines, they are teleported from one building to the other. Fukuda added it was the landmark level the team was looking for and it did not need demanding technology. However, the added level created more work for the team since the two buildings, each with different features and characteristics, needed to be built twice.
+The game's single-player starts with simple missions before gradually introducing players to more complicated situations which demand more skills and precision. The game story also supplements this, as Cooper transforms from a normal Frontier grunt to a skillful pilot at the end.
+===Multiplayer===
+The team evaluated ''Titanfall'' and listened to both feedback and analytical research from gaming journalists and identified two major concerns: there was not enough content for players, and at times the game became too chaotic. The team slowed down the gameplay pace of ''Titanfall 2''{{'}}s multiplayer so that players could actively make decisions relying less on [[reflex]]. The team also improved the game's map design by introducing more verticality to each map. Fukuda described it as the [[3D computer graphics|3D]] [[swiss cheese effect]]. The team also employed the strategy of "window pane", where each map has three obvious paths: left, middle and right. This helped make each map's environments more predictable to players. ''Titanfall 2'' features a brighter color palette and environments compared to both the first game and contemporary shooter games, as the team aimed for graphical quality that is "postcard-worthy". There is also a greater variety of environments featured in the multiplayer maps, ranging from industrial centers, outdoor maps with more foliage, and the return of remastered maps from the first ''Titanfall'' game.
+There are also various revisions to the game's multiplayer mode. McCoy described these changes as "subtle" as the team focused more on adding slight modifications to existing mechanics. The Titans were redesigned to have distinct silhouettes unique to each chassis (and thus ability set and weapons) so that players can "tell at a glance everything that [they] need to know" and stay prepared for each combat encounter. This enabled players to have a clearer picture of the combat situations and facilitated learning from each defeat. The team also introduced cosmetic changes to the pilots and the six Titan class giving them distinct visual characteristics so that players can easily identify an opponent's abilities. The team attempted to add more depth to the gameplay by introducing more Titans, gadgets, weapons, and pilot abilities, allowing players to customize a set of loadouts to suit their preferred playstyle, by creating specialized loadouts (for example a high mobility long ranged combatant by combining a sniper rifle with the mobility-enhancing grapple Pilot ability) or a stealthy Titan-hunter (taking a grenade launcher in addition to an Anti-Titan weapon along with the Cloak kit). These added more variety to the game so there are more things for players to discover and master. The game's extensive customization options and progression system were designed to engage players, so they can "get the most out of the game". Like its predecessor, Titans need to be earned using certain gameplay actions such as defeating opponents or completing objectives.
+===Technology===
+The game used a heavily modified version of [[Valve Corporation|Valve]]'s [[Source (engine)|Source]] as its [[video game engine|game engine]]. Many improvements were made to the engine's aspects such as [[physically based rendering]], a texture streaming system developed in house, [[high dynamic range]] and [[depth of field]]. The team also made changes to the audio, such as introducing [[Occlusion effect|sound occlusion]] and [[reverberation]]. According to John Haggerty, senior software engineer, the team broke part of the engine's code for level progression and saves when they were making the first game. The programming team found it a huge challenge to fix and reinstate these codes to accommodate the sequel's single-player campaign. The team also developed a scripting system from scratch, allowing designers to quickly assemble action blocks. The game's [[artificial intelligence]] was significantly enhanced, with new movesets and behaviors for pilots and titans in both single-player and multiplayer modes. As ''Titanfall 2'' was the first game Respawn developed for the [[PlayStation 4]], the engineering team spent a lot of time and effort to get it running on the platform. A [[virtual reality]] version of the game was prototyped but never went into full production because, according to Joe Emslie, the player would "vomit all over their controller."
+Combat [[animation]] can be interrupted by players' movement, which gives them more direct control instead of needing to wait for the animation to end.
+==Release==
+In May 2014, two months after the first game's release, publisher Electronic Arts announced they would collaborate with Respawn Entertainment for more experiences set within the ''Titanfall'' universe. A sequel was officially confirmed on March 12, 2015, by Respawn's Vince Zampella at the [[12th British Academy Games Awards]]. He also confirmed the game would come to [[PlayStation 4]], unlike the first one. EA opened their press conference at [[E3 2016|EA Play]] 2016 with ''Titanfall 2'', and announced that the game would be released worldwide on October 28, 2016. This meant the title would have to compete with other [[AAA (video game industry)|triple-A]] [[first-person shooter]]s including ''[[Battlefield 1]]'', made by [[EA DICE|DICE]] (one of EA's studios), and [[Activision]]'s futuristic ''[[Call of Duty: Infinite Warfare]]'', developed by Zampella's old studio Infinity Ward. According to McCoy, the release date was confirmed long before and the team could not change it. The game's Collector's Edition and Vanguard SRS Collector's Edition, which include additional content, were released on the same day as the standard edition. ''Titanfall 2'' was added to [[EA Access]] and [[Origin Access]] on July 7, 2017. An Ultimate Edition, which bundles the base game and all the updates as well as some bonus content, was released on the same day.
+EA partnered with a restaurant and a snack food company to promote the game. Players who purchased food or drink at any [[Buffalo Wild Wings]] restaurant received a free customization item and access to a multiplayer mode. Similarly, players who purchased [[Mountain Dew]] or [[Doritos]] were given a code granting them double XP, early access to a new multiplayer mode, a Titan, and Titan customization items. EA also partnered with toy manufacturer [[McFarlane Toys]] to produce a toyline for the game which includes a seven-inch tall Cooper figure and a ten-inch tall BT-7274 figure. Respawn prepared two technical tests for the PlayStation 4 and Xbox One users in August 2016, allowing players to try some of the game's multiplayer modes and maps. They made several major gameplay adjustments after hearing feedback from players participating in these tests. The official ''Titanfall'' [[Twitter]] account, controlled by EA rather than Respawn, also helped promote the game by suggesting it to Twitter users who indicated they were looking for games to play. It was also used to mock its competitors. Players who purchased ''[[Battlefield 1]]'' and this game also had exclusive access to a Titan skin inspired by [[World War I]].
+At [[E3 2016]], Respawn announced that all the updates and [[downloadable content]] would be free for all players. Inspired by ''[[Evolve (video game)|Evolve]]''{{'}}s free maps model, the team hoped this approach would make players more satisfied with the full-priced package. Respawn supported the game with multiple pieces of downloadable content in the first year after the game's release, including:
+{| class="wikitable" style="width:100%;"
+|-
+! colspan=4 | Downloadable content
+|-
+! style="width:23%;"| Name
+! style="width:16%;"| Release date
+! style="width:70%;"| Notes
+|-
+| ''Angel City’s Most Wanted''
+| November 30, 2016
+| The ''Angel City’s Most Wanted'' is ''Titanfall''{{'}}s first downloadable content, which remastered the map "Angel City" from the first game, as well as a weapon called Wingman Elite Pistol. Other content includes execution animations and Titan kits.
+|-
+| ''Colony Reborn''
+| March 30, 2017
+| ''Colony Reborn'' introduced a remastered version of a ''Titanfall'' map, "Colony", a weapon R-101 Carbine, execution animations as well as cosmetics for multiplayer Titans including Northstar and Legion.
+|-
+| ''A Glitch in the Frontier''
+| April 25, 2017
+| ''A Glitch in the Frontier'' introduced two maps named "Glitch", and "Deck", which is a map dedicated to the Live Fire mode. The DLC also included several gameplay adjustments, a faction named MRVN, and a menu overhaul.
+|-
+| ''Monarch's Reign''
+| May 30, 2017
+| ''Monarch's Reign'' introduced the Monarch Titan, which belonged to the Vanguard class, as well as new Titans skins. "Relic", a map from ''Titanfall'', was also remastered and included in the package.
+|-
+| ''Operation Frontier Shield''
+| July 25, 2017
+| ''Operation Frontier Shield'' introduced a [[Cooperative video game|cooperative multiplayer]] mode named Frontier Defense, in which four players fight against waves of AI-controlled enemies. It also added new maps for the game, including the remastered "Rise" map from the first game and "Township", a map for both the Pilot vs. Pilot and Live Fire modes.
+|-
+| ''Postcards from the Frontier''
+| August 29, 2017
+| ''Postcards from the Frontier'' added a Live Fire map named "Uma", three maps for the Frontier Defense mode, "Exoplanet", "Drydock" and "Angel City", as well as weapon cosmetics and warprints.
+|}
+Since early 2021, ''Titanfall 2'' and its predecessor were hit with frequent [[DDoS attack]]s, which rendered the online multiplayer unplayable. A [[Video game modding|mod]], named Northstar (named after the eponymous Titan chassis), was released, giving support for custom servers to counter-act the unplayable servers.
+== Reception ==
+{{Video game reviews
+| MC = (PC) 86/100 (PS4) 89/100 (XONE) 87/100
+| Destruct = 8.5/10
+| EuroG = Essential
+| GI = 9.5/10
+| GameRev = {{Rating|4|5}}
+| GSpot = 9/10
+| GRadar = {{Rating|4.5|5}}
+| IGN = 9/10
+| PCGUS = 91/100
+| Poly = 7/10
+}}
+''Titanfall 2'' received "generally favorable" reviews, according to [[review aggregator]] [[Metacritic]]. ''Polygon'' named it among the decade's best.
+The game's plot received mixed reviews. Nic Rowen of ''[[Destructoid]]'' found it had an unsurprising and "by the number" sci-fi plot. He was disappointed by the campaign's five-hour length and noted that the emotional core of the story lacked development. ''[[Game Informer]]''[[']]s Javy Gwaltney compared the plot to a "buddy comedy" remarking positively that BT is a relatable character. ''[[GameSpot]]''{{'}}s Mike Mahardy felt the story was poorly written and that it ended abruptly. Arthur Gies of ''[[Polygon (website)|Polygon]]'' felt the narrative was subpar, with mediocre voice acting, "corny names" for characters, and insufficient context for players to truly remember the story. Conversely, Peter Paras of ''[[GameRevolution]]'' praised the interesting story, despite feeling the nine-chapter story is basic, and complimented BT's personality, calling it a "straight-laced 'I take what you say literally' thinking machine". He noted the interactions with the Titan successfully added more context to the game's world and setting. Jon Denton of ''[[Eurogamer]]'' also praised BT's character, saying its lines were skillfully written.
+''Titanfall 2''{{'s}} gameplay received critical acclaim. Rowen described it as "frantic and exhilarating", saying the fluidity of gameplay further enhanced the quality of the single-player campaign. Gwaltney shared similar thoughts, saying that no matter how players chose to approach a mission, combat or stealth, it was satisfying. Furthermore, he found controlling the Titan an interesting experience that resembles ''[[MechWarrior]]'' and ''[[Star Fox]]''. Mahardy also felt that player movement controls remained "invigorating". He liked the Titan combat more for often presenting "David versus Goliath" scenarios. Mahardy and described the game as a "thinking man"{{'}}s shooter, adding it required players to think tactically instead of simply having good reflexes. David Houghton of ''[[GamesRadar]]'' praised the game's controls and movement options for turning many seemingly gameplay obstacles and barriers into opportunities for players to manipulate. Chris Thursten of ''[[PC Gamer]]'' praised the game's variety of weapons and their sounds and the "brilliant" freedom of movement.
+Rowen praised the level design, which he found one of the game's "real stars". He was impressed by the variety of settings and set pieces featured in each level and praised the design for having tricky environments for transversal encouraging free movements. He singled out "Effect and Cause" as one of the game's most imaginative levels, comparing it favorably with ''[[Portal (video game)|Portal]]''. Paras remarked that two of the game's chapters were extremely impressive, and that they "[re-examine] level design in most action games". Thursten also enjoyed these levels but added that not all of them share this level of creativity. He wished some of the novel concepts introduced "stuck around longer" during his playtime. Gwaltney liked the flexibility of the game's campaign, which provides players plenty of freedom to handle combat encounters. He also appreciated the inclusion of the game's puzzles, which requires players to "think outside the box". Both Paras and Houghton liked the levels for incorporating elements of Pilot and Titan gameplay. Paras said it added variety to the package, and Houghton felt it improved the game's pacing, making it very "exhilarating" to play. Mahardy admired the pacing, attributing its success to the fact that players can switch BT's loadouts to handle various combat situations, presenting a different dynamic from multiplayer. Brandin Tyrrel of ''[[IGN]]'' admired the game's sense of scale and map design, where each level stage felt large but at the same time linear enough to direct players' progression.
+The game's multiplayer was also acclaimed. Rowen described it as "more than solid" and praised the more complex and extended progression system for rectifying ''Titanfall''{{'}}s lack of long-term appeal. While Titan's customization became more limited, he felt this was a necessary change to make the Titan combat deeper and more rewarding. He noted there were many "smart" gameplay adjustments and design changes that emphasize players' skills, but he was disappointed there were not enough modes featuring AI opponents. Gwaltney, however, felt there were no significant changes to the multiplayer, but there were sufficient subtle design adjustments making it more refined and improved than its predecessor. He still found the progression system lacking in substance. He appreciated the new gadgets, which make the game more tactical. He commented positively on the game modes' structure, which prompts all types of players to engage in teamwork. Paras criticized the multiplayer for being unforgiving, though he enjoyed some of the game modes, like Bounty Hunt. Mahardy praised the six new Titans types for being easy to learn and difficult to master. As the six Titan types have distinct controls and attack schemes, Mahardy noted that combat resembles that of a [[fighting game]] and [[multiplayer online battle arena]]s games. Tyrrel praised the overhauled rodeo mechanic, which promoted teamwork, and Boosts, which make the game more balanced. Gies described some of the design changes as "odd" and "difficult to understand", including the rodeo mechanic which he found mostly useless. In addition, he criticized the maps for being too confined, and not fitting with the game's fast gameplay.
+Critics generally had a positive reception to the overall package. Rowen admired the game for being an imaginative and creative shooter. Gwaltney described the game as a "must-play" title that offered a complete package with both a fully-fledged single-player campaign and a refined multiplayer. Paras felt that ''Titanfall 2'' successfully delivered on the promises made by the first game. Tyrrel called the game a rare and exceptional title that improved on every aspect of its predecessor. Houghton called the game the year's surprise, describing it as one of the most "creative and rewarding FPS in recent memory". Thursten worried that ''Titanfall 2'' would suffer from a short lifespan like its predecessor due to the same poor release timing. He noted the single-player campaign was the game's true highlight.
+===Sales===
+Electronic Arts expected the game to sell approximately nine to ten million units in its first year of release. However, financial analysts predicted the game's sales would be substantially disappointing due to EA's decision to release the game in late October, a period between the launch of EA's own ''[[Battlefield 1]]'', and Activision's ''[[Call of Duty: Infinite Warfare]]''. Despite that, EA expressed no concern about the release window, as they felt that the player base of ''Battlefield 1'' and ''Titanfall 2'' would not overlap.
+The game was the fourth best-selling retail game in the UK in its week of release, behind ''Battlefield 1'', ''[[The Elder Scrolls V: Skyrim|The Elder Scrolls V: Skyrim – Special Edition]]'', and ''[[FIFA 17]]''. Its first-week sales only reached a quarter of the launch-week sales of ''Titanfall'' despite ''Titanfall 2'' being a multi-platform release. Digital sales of the game were also down, only reaching a quarter of its predecessor's sales. According to [[The NPD Group]], the game was the ninth best-selling game in October 2016 and the fifth best-selling game in November 2016. In their earnings call for the third quarter of the 2017 fiscal year, EA stated that the game's sales fell below expectations. However, EA COO and CFO Blake Jorgensen went on to say the company was pleased with the positive reviews the game received and expected it to have strong sales into the next fiscal year. According to Zampella, ''Titanfall 2'' sold well and was successful, but it could have sold better. In January 2017, financial firm [[Morgan Stanley]] estimated that the game had sold 4 million units. The game's release on [[Steam (service)|Steam]] in June 2020 helped to reinvigorate its player base on PC.
+=== Accolades ===
+{| class="wikitable sortable"
+|-
+! Year !! Award !! Category !! Result !! Ref
+|-
+| rowspan="8" style="text-align:center;" | 2016
+| rowspan="3" | [[Game Critics Awards]] 2016
+| Best of Show
+| {{nom}}
+| rowspan="3" style="text-align:center;" |
+|-
+| Best Action Game
+| {{nom}}
+|-
+| Best Online Multiplayer
+| {{won}}
+|-
+| [[Golden Joystick Awards]] 2016
+| Critics' Choice
+| {{Won}}
+| align="center"|
+|-
+| rowspan="4" | [[The Game Awards 2016]]
+| [[The Game Award for Game of the Year|Game of the Year]]
+| {{nom}}
+| rowspan="4" style="text-align:center;" |
+|-
+| Best Game Direction
+| {{nom}}
+|-
+| Best Multiplayer
+| {{nom}}
+|-
+| Best Action Game
+| {{nom}}
+|-
+| rowspan="13"|2017
+| [[Annie Awards]]
+| Outstanding Achievement, Character Animation in a Video Game
+| {{nom}}
+| align="center"|
+|-
+| rowspan="4"|[[20th Annual D.I.C.E. Awards]]
+| [[D.I.C.E. Award for Action Game of the Year|Action Game of the Year]]
+| {{nom}}
+| rowspan="4" style="text-align:center;" |
+|-
+| [[D.I.C.E. Award for Online Game of the Year|Outstanding Achievement in Online Gameplay]]
+| {{nom}}
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Original Music Composition|Outstanding Achievement in Original Music Composition]]
+| {{nom}}
+|-
+| [[D.I.C.E. Award for Outstanding Technical Achievement|Outstanding Technical Achievement]]
+| {{nom}}
+|-
+| rowspan="5"|[[SXSW Gaming Awards]] 2017
+| Video Game of the Year
+| {{Nom}}
+| rowspan="5" style="text-align:center;" |
+|-
+| Most Memorable Character (for BT-7274)
+| {{nom}}
+|-
+| Excellence in Multiplayer
+| {{nom}}
+|-
+| Excellence in Visual Achievement
+| {{nom}}
+|-
+| Excellence in SFX
+| {{nom}}
+|-
+| rowspan="3"| [[13th British Academy Games Awards]]
+| [[British Academy Games Award for Best Game|Best Game]]
+| {{nom}}
+| rowspan="3"|
+|-
+| Game Design
+| {{nom}}
+|-
+| Multiplayer
+| {{nom}}
+|}
+==Sequel==
+In October 2016, Zampella said the team would like to deliver more experiences for the player set within the franchise, though a trilogy was not planned. When publisher Electronic Arts acquired Respawn Entertainment, however, it was revealed that a new mainline ''Titanfall'' title was in development.
+A [[Battle royale game|battle royale]] spin-off game, ''[[Apex Legends]]'', which takes place in the same universe, featuring some of the same characters from ''Titanfall 2'', such as Ash and Kuben Blisk, the Apex Predators that the game is aptly named after, was released on February 4, 2019. The game's lead developer, Drew McCoy stated "There are some people who think there are too many battle royale games or it's a fad, the world thinks we're making ''Titanfall 3'' and we're not - this is what we're making." With the focus on ''Apex Legends'', the team halted the development of a new ''Titanfall'' game. On October 18, 2021, Ash was revealed to be a playable character for the eleventh season of ''Apex Legends,'' previously having narrated the ''Arenas'' gamemode.
+== References ==
+{{Reflist}}
+{{Titanfall}}
+{{Respawn}}
+{{Portal bar|Video games|Science fiction}}
+[[Category:2016 video games]]
+[[Category:Fiction about corporate warfare]]
+[[Category:Electronic Arts games]]
+[[Category:First-person shooter multiplayer online games]]
+[[Category:First-person shooters]]
+[[Category:Parkour video games]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation 4 Pro enhanced games]]
+[[Category:Respawn Entertainment games]]
+[[Category:Science fiction video games]]
+[[Category:Source (game engine) games]]
+[[Category:Titanfall]]
+[[Category:Video games about mecha]]
+[[Category:Video games about time travel]]
+[[Category:Video games scored by Stephen Barton]]
+[[Category:Video games set on fictional planets]]
+[[Category:Windows games]]
+[[Category:Xbox One games]]
+[[Category:Xbox One X enhanced games]]
+[[Category:Video games developed in the United States]]

@@ -1,0 +1,245 @@
+{{Short description|2023 video game}}
+{{good article}}
+{{Use American English|date=January 2024}}
+{{Use list-defined references|date=January 2024}}
+{{Use mdy dates|date=January 2024}}
+{{Infobox video game
+| image = Final Fantasy XVI cover art.png
+| developer = [[Square Enix Creative Business Unit III]]{{efn|Additional work by [[Square Enix Creative Business Unit I]] and [[PlatinumGames]]. }}
+| publisher = Square Enix
+| director = {{ubl|Hiroshi Takai|Kazutoyo Maehiro}}
+| producer = [[Naoki Yoshida]]
+| designer = {{ubl|Mitsutoshi Gondai|Ryota Suzuki}}
+| programmer = Yusuke Hashimoto
+| artist = {{ubl|[[Hiroshi Minagawa]]|Kazuya Takahashi}}
+| writer = Kazutoyo Maehiro
+| composer = [[Masayoshi Soken]]
+| series = ''[[Final Fantasy]]''
+| platforms = {{ubl|[[PlayStation 5]]|[[Windows]]}}
+| genre = [[Action role-playing game|Action role-playing]]
+| modes = [[Single-player]]
+| released = {{ubl|'''PlayStation 5'''|June 22, 2023|'''Windows'''|TBA}}
+}}
+{{Nihongo foot|'''''Final Fantasy XVI'''''|ファイナルファンタジーXVI|Fainaru Fantajī Shikkusutīn|lead=yes|group=lower-alpha}} is a 2023 [[action role-playing game]] developed and published by [[Square Enix]]. The sixteenth main installment in the ''[[Final Fantasy]]'' series, it was released for the [[PlayStation 5]]. The game features segmented open environments and an action-based combat system involving melee and magic-based attacks. There are recurring series features including [[Chocobo]]s for area travel, and [[Summon (Final Fantasy)|summoned monsters]] called Eikons, which are both fought as bosses and used through channelling their power in combat.
+''Final Fantasy XVI'' is set in the twin continents of Valisthea, currently divided between six nations who hold power through access to magical Crystals and Dominants, humans who act as hosts for each nation's Eikon. Tensions between the nations escalate as a magical drought dubbed the Blight begins consuming the land. Clive Rosfield, guardian to his younger brother Joshua, witnesses his kingdom destroyed and becomes involved in the growing conflict between Valisthea's nations and a secret power driving the war.
+Beginning concept development in 2015, the staff included [[Naoki Yoshida]] as producer, Hiroshi Takai as main director, artists [[Hiroshi Minagawa]] and Kazuya Takahashi, Kazutoyo Maehiro as creative director and lead writer, [[Masayoshi Soken]] as composer, and [[Capcom]] veteran Ryota Suzuki as battle designer. Yoshida's aim was for a [[dark fantasy]] storyline that would have broad appeal and reinvigorate the series. Its production and promotion were impacted by the [[COVID-19 pandemic]], and later by the [[Russian invasion of Ukraine]].
+The game was praised by critics for its story, graphics, music, and gameplay. Criticism focused on lack of role-playing elements, technical issues, and side quest design. The game sold over three million units during its first week after launch. After release, the game was supported by a variety of [[downloadable content]], including story-focused campaigns and smaller patches to include new features and in-game items.
+==Gameplay==
+[[File:FFXVI gameplay.jpg|left|thumb|A battle in ''Final Fantasy XVI'', showing protagonist Clive using an Eikon power in combat|alt=A dark-clothed man summons a great stone fist to damage a group of enemies, with his companion dog attacking one in front of him. Game HUD elements are displayed including health bar and ability commands.]]
+''Final Fantasy XVI'' is an [[action role-playing game]] in which players take control of protagonist Clive Rosfield and a rotating party of AI-controlled companions through segmented open areas across the continents of Valisthea. Recurring ''Final Fantasy'' elements, such as the bird-like [[Chocobo]] and monster types, appear in the game. Following a story-driven prologue section, Clive is able to travel to different parts of Valisthea. The world is split between enclosed dungeon environments, town environments, and wider open fields, all selected from a map via a fast travel menu. Travel within open zones is done either on foot or via Chocobo. Clive's home base is a hideout, acting as a [[Overworld|hub]] to talk to [[non-playable character]]s (NPCs), track Clive's relationships with different characters, interact with different shops such as potion sellers and blacksmiths to make and upgrade equipment, and accept [[Quest (gaming)|side quests]] ranging from character requests to monster hunts. Information on locations, characters and terminology is stored in a database dubbed Active Time Lore, accessible to players at any time.
+Combat takes place in the same area players navigate, entering battle once the enemy sees the party. Clive is the only controllable character, with other characters being AI-controlled and having their own attack and magic abilities. Another common companion is the dog Torgal, who responds to Clive's commands to perform special attacks or heal. While in battle, Clive can use normal attacks, a dodge, and use elemental abilities from Eikons, the game's version of recurring ''Final Fantasy'' [[Summon (Final Fantasy)|summoned monsters]]. Clive can switch between different Eikon abilities during battle, stringing them together into different combo attacks. A core mechanic of combat is "Stagger", where the party deals specific types of damage which build up a stagger meter to stun an enemy for a short time and making them vulnerable to more attacks. During certain story sections, Clive has battles with Eikons that have dedicated mechanics. After defeating them, Clive gains access to powers and fighting techniques themed around them.
+The game starts out with two difficulty settings: a "Story" mode that offers accessories to simplify combat and strengthen the characters, and a normal mode. After completing the game, new options are available including [[New Game+]] which carries character statistics and equipment into a new game, and a harder "Final Fantasy" mode which increases overall difficulty and changes enemy placements. There is also an arcade mode which grades players using a point system for combat, with harder Ultimaniac Mode challenges within that. In these modes, Clive can further upgrade his weapons, upgrade accessories in Final Fantasy mode, and challenge trials which place limits on Clive, such as only using one Eikon power in battle.
+==Synopsis==
+===Setting===
+''Final Fantasy XVI'' is set in the fictional world of Valisthea. Scattered throughout the two continents of Ash and Storm are colossal magical crystals, known as the Mothercrystals, which provide aether energy to the various populations and drive civilization with shards mined for commercial use. There are also humans that can use magic without crystals known as Bearers who are subject to prejudice and slavery, their overuse causing them to gradually petrify. A powerful force in Valisthea are the Eikons, magical creatures of incredible power that are utilized by hosts called Dominants. There are eight Eikons, one for each of the elements - Phoenix (fire), Shiva (ice), Ramuh (thunder), Leviathan (water), Titan (earth), Garuda (wind), Odin (darkness), and Bahamut (light); a seemingly impossible second Eikon of fire, Ifrit, drives the main plot by disrupting this balance.
+The core nations of Valisthea are the Grand Duchy of Rosaria, the Holy Empire of Sanbreque, and the Dhalmekian Republic on the Storm continent, the Kingdom of Waloed which dominates the Ash continent, and the neutral Crystalline Dominion sitting between Ash and Storm. An outlier is the Iron Kingdom, an isolated nation off the coast of Storm overseen by the Crystalline Orthodox. In the backstory an ancient people, humanity's ancestors the Fallen, once dominated Valisthea before a cataclysm destroyed their civilization, leaving ruins across the land. By the game's events, Valisthea is suffering from a depletion of aether dubbed the Blight which withers all life, driving the nations into conflict with each other. Because of their ability to manifest Eikons, Dominants play a key role in the nations' politics and military. Depending on where they are born, Dominants are hailed as political leaders, tolerated due to their power, or suffer abuse and are either killed or used as weapons of war.
+===Characters===
+{{main|Characters of Final Fantasy XVI{{!}}Characters of ''Final Fantasy XVI''}}
+The game's protagonist is Clive Rosfield, firstborn son of Rosaria's ruling family who is passed over as successor when his younger brother Joshua becomes the Dominant of Phoenix; Clive can acquire and wield the power of multiple Eikons. A future companion of Clive's is his childhood friend Jill Warrick, the eventual Dominant of Shiva who spends much of her life as a political hostage. During his travels Clive is joined by his hound, Torgal; and Cidolfus Telamon, Dominant of Ramuh who provides shelter for Bearers and Dominants, and is an incarnation of a [[Recurring elements in the Final Fantasy series#Characters and monsters|recurring ''Final Fantasy'' character]]. Other prominent characters include Barnabas Tharmr, king of Waloed and Dominant of Odin; Benedikta Harman, a Waloed spy and Dominant of Garuda; Hugo Kupka, key political figure in the Dhalmekian Republic and Dominant of Titan; and [[Dion Lesage]], crown prince of Sanbreque and Dominant of Bahamut.
+===Plot===
+In his teenage years, Clive serves as Joshua's bodyguard, being a Bearer and blessed with some power from the fire Eikon Phoenix. The brothers live with their parents Duke Elwin and Duchess Anabella, with Jill as their ward. The brothers accompany Elwin to a ceremony to awaken Joshua's powers when they are ambushed by Sanbreque soldiers. Elwin's death triggers Joshua's destructive awakening as the Phoenix, and an Eikon named Ifrit emerges moments later and kills the Phoenix, with Clive swearing revenge. Anabella, who despises Clive's lack of blessing and betrayed Rosaria to preserve her bloodline, has him enslaved to Sanbreque's army. Thirteen years later, Clive is sent behind enemy lines during a fight between the Dhalmekian Republic and the Iron Kingdom to assassinate the latter's Dominant, revealed to be an enslaved Jill. He deserts to free her, and the two are rescued by Cid, who agrees to help Clive search for Ifrit's Dominant. Tracking word of an unknown Dominant, they fight Benedikta, from whom Clive takes the power of her Eikon Garuda. A disturbed Benedikta is then attacked by bandits and transforms into a raging Garuda, which in turn triggers Clive to transform into Ifrit and kill her. While Clive briefly despairs at the fact that he is Ifrit and the one who killed Joshua, Cid encourages him to keep searching for the truth behind his transformation.
+After Clive and Jill see the full oppression inflicted on Bearers and their sympathizers in occupied Rosaria, they join Cid in a quest to destroy the nations' Mothercrystals, which are causing the Blight by draining aether from the land. They infiltrate Sanbreque's capital, but within its Mothercrystal are faced by a being called Ultima, who mortally wounds Cid before the Mothercrystal is destroyed. Ultima attempts to possess Clive. Joshua, who survived Ifrit's attack due to the Phoenix's powers, stops and contains Ultima within himself. Hugo, who was in love with Benedikta, is manipulated by Barnabas's agents into seeking revenge against Cid for her death. Five years later, Clive, now using the title of "Cid" and carrying on Cid's mission, destroys the Iron Kingdom's Mothercrystal with Jill, who takes revenge on her enslavers. With Sanbreque having occupied the Crystalline Dominion for its Mothercrystal, Anabella schemes to replace Dion as heir to the throne with Olivier, her son by Sanbreque's emperor Sylvestre. Hugo invades Rosaria to lure out "Cid", prompting Clive to mutilate Hugo in a fight and reveal himself as Benedikta's killer. Desperate for revenge, Hugo transforms into a raging Titan. Having gained full control of Ifrit, Clive kills Hugo and destroys the Dhalmekian Mothercrystal.
+Under Joshua's advice, Dion stages a coup against Anabella but in the process accidentally kills Sylvestre and is transformed into a raging Bahamut by Olivier, who is a vessel for Ultima. Clive destroys the Dominion's Mothercrystal and reunites with Joshua, helping him defeat Bahamut. Dion then kills Olivier, causing an unhinged Anabella to kill herself. Barnabas later confronts Clive and reveals Ultima's plan to shape Clive into "Mythos", a vessel for Ultima to inhabit. After Jill gives him the power of her Eikon Shiva, Clive manages to kill Barnabas and destroy Waloed's Mothercrystal. Joshua's research into Fallen ruins reveals that Ultima's people seeded Valisthea with the Mothercrystals to siphon aether for a resurrection spell after succumbing to an earlier Blight. The Fallen and their human descendants were created to breed a vessel powerful enough to cast the spell. Clive, Joshua, and Dion assault Ultima's sky fortress of Origin, where Ultima's fragments merge to complete their plan. In the ensuing fight, Ultima kills Dion and rips his fragment out of Joshua, mortally wounding him. Joshua sacrifices himself to give Clive his Eikon. After killing Ultima, Clive heals Joshua's wounds and destroys the final Mothercrystal within Origin to remove magic from Valisthea. A post-credits scene in Valisthea's future, where magic is considered a myth, shows a family living in peace and owning a book credited to Joshua recording the game's events.{{efn|The exact fate of Clive and Joshua, as well as who authored the book seen in the post-credits scene, is left deliberately ambiguous. }}
+Post-release [[downloadable content]] expansions ''Echoes of the Fallen'' and ''The Rising Tide'' expand on the Motes of Water, a persecuted tribe associated with the Eikon Leviathan. In ''Echoes of the Fallen'', fragments from an artificial Mothercrystal created by the Fallen are distributed on the black market. Clive, Joshua and Jill go to the Sagespire, the source of the crystals. They discover the merchant Famiel is selling crystals taken from the Sagespire. Clive and his party fight an artificial Eikon dubbed Omega and destroy the tower's Mothercrystal. In ''The Rising Tide'', Clive, Jill and Joshua travel to the land of Mysidia with Shula, current leader of the Motes of Water. They learn that the Dominant of Leviathan, a baby called Waljas who shares family with Shula, was forced to awaken his powers and imprisoned with magic to shelter and enrich Mysidia. The party weaken the spell, which releases the raging Leviathan. Clive pacifies it, and Shula takes in Waljas to raise in her own.
+==Development==
+{{multiple image
+| align = right
+| footer = ''Final Fantasy XVI'' had several leading staff members from ''[[Final Fantasy XIV]]'' and the [[Ivalice]] universe; the developers included [[Naoki Yoshida]] (left) as producer, and [[Hiroshi Minagawa]] (right) as art director.
+| image1 = Naoki Yoshida - Japan Expo 2013 - P1660560.jpg
+| width1 = 150
+| alt1 = Producer Naoki Yoshida at the 2013 Japan Expo in Paris.
+| image2 = Hiroshi Minagawa.png
+| width2 = 130
+| alt2 = Art director Hiroshi Minagawa at a Final Fantasy XIII launch event.
+}}
+''Final Fantasy XVI'' was developed by Creative Business Unit III, a development division within franchise developer and publisher [[Square Enix]]. The staff includes members from the [[massively multiplayer online role-playing game]] (MMORPG) ''[[Final Fantasy XIV]]'', and multiple veterans of the [[Ivalice]] universe. The producer, [[Naoki Yoshida]], worked on ''Final Fantasy XIV'' as both producer and director. The main director is Hiroshi Takai, known for his work on the ''[[SaGa]]'' series and ''[[The Last Remnant]]''. Kazutoyo Maehiro acts as creative director and lead writer. Yusuke Hashimoto, a former design engineer for [[Level-5 (company)|Level-5]], was lead system programmer. [[Hiroshi Minagawa]] acts as art director, while the characters are designed by Kazuya Takahashi. The logo, portraying the Eikons Phoenix and Ifrit in battle and tying into the game's themes and story, is designed by long-time illustrator [[Yoshitaka Amano]].
+Concept work for the game began in 2015 after Square Enix CEO Yosuke Matsuda approached Yoshida to develop the next mainline ''Final Fantasy''. Yoshida, who was finishing up production on the ''Final Fantasy XIV'' expansion ''[[Final Fantasy XIV: Heavensward|Heavensward]]'', understood the choice as Creative Business Unit I had begun work on ''[[Final Fantasy VII Remake]]'', but he needed to balance his work between ''Final Fantasy XIV'' and ''XVI''. To lay the groundwork, Yoshida assembled a small planning team made up of himself, Maehiro and lead game designer Mitsutoshi Gondai. Yoshida decided to become producer as his duties as both producer and director for ''Final Fantasy XIV'' were too time-consuming to take on a second large-scale project. Takai, who had also worked with Yoshida on ''Final Fantasy XIV'', was picked as main director for his experience on the series, his popularity among the development team and his experience on [[visual effects]]. Full production on ''Final Fantasy XVI'' began in 2016 following Patch 3.4 of ''Heavensward'', when Takai and Maehiro had found replacement staff for the next expansion ''[[Final Fantasy XIV: Stormblood|Stormblood]]''. The team received development support from Tai Yasue's ''[[Kingdom Hearts]]'' team in [[Square Enix Creative Business Unit I]], and a team at [[PlatinumGames]] led by Takahisa Taura.
+When creating both the world design and story, the team took criticism from ''[[Final Fantasy XV]]'' (2016) into account, specifically its open world design and story delivery problems. Takai's main goal for the game was an action-based combat that was easy to use, and a mature [[dark fantasy]] narrative that would tackle difficult themes. Yoshida wanted the game to cater to neither children or adults but rather something that will reach "players of all generations". He also wanted to separate the game from commonly associated stereotypes such as an [[anime]]-inspired art style and a story focusing on teenagers. It was initially developed as a [[PlayStation 5]] exclusive, with a [[PlayStation 4]] version being considered but abandoned so as not to limit the team's ambitions.
+Due to the [[COVID-19 pandemic]], the staff needed to move to remote working, and production ended up half a year behind schedule due to communication issues with both Square Enix's head office and outsourcing companies. By late 2020, basic work on development and game scenarios was complete and work was continuing on "large scale" resources like boss battles and development tools. By April 2022, development was in its final stages, with the team finalising side quests. It was fully playable from start to finish by June of that year, with development focusing both on polishing the game and voice recording for different languages. Initially planned as a two-disc release, the team managed to fit the game onto one disc to lower production costs and issues with mastering. Following release, the production team disbanded into other projects.
+===Design===
+When choosing the game's combat system, Yoshida conducted surveys within the ''Final Fantasy'' community, finding a division between fans of action-based and more traditional turn-based combat. After considering the potential impact on sales and modern gaming trends, he opted for a real-time action-based battle system. Yoshida admitted that this approach alongside other gameplay decisions risked polarizing series fans, but believed that trying to please every fan by incorporating every element possible would "run the risk of creating a half-baked compromise of a game". During the game's early production, the growing team had a system of designing gameplay tests and completely scrapping those that did not work, with Square Enix's upper management getting frustrated with the team's slow pace. The team decided against an open world, as it would have extended development time beyond a practical limit. Clive was made the only controllable character, with other party members driven by AI to simplify the player's control needs, though commands were included to allow for limited control.
+Outside the ''Kingdom Hearts'' team, Square Enix had little experience designing action combat. Yoshida sought out Ryota Suzuki, a [[Capcom]] veteran who had worked on the ''[[Devil May Cry]]'' series, as battle designer. The combat was designed around the idea of turning the mechanics of ''[[Final Fantasy V]]'' into a real-time battle system. The Eikon battles all had unique mechanics that were not used again in-game. One of the earliest completed Eikon battles was with Garuda, with its foundation remaining mostly unchanged throughout production. There were no loading screens related to these setpiece battles, with gameplay and dialogue mixed into the final sequences. During the first half of development, an Eikon-based job system was intended for Clive, but it was dropped due to its restrictions on Clive's in-game appearance. Classic ''Final Fantasy'' jobs were used as a design inspiration for enemies and some NPCs.
+Yoshida brought Maehiro on board due to liking his writing style and world-building. While he accepted, Maehiro was also busy working on the ''Heavensward'' scenario, only starting full work in 2016. The initial narrative drew inspiration from the early seasons of ''[[Game of Thrones]]'', with other inspirations including classic and contemporary anime being used to prevent there being too many similarities. Maehiro created the initial script, which was checked and completed by Michael-Christopher Koji Fox. The game's dialogue was written before any of the game design was finalised. The script was written first in Japanese, then translated into English for initial dialogue and cutscene recording. The traditional medieval setting and style was chosen due to the team liking that style from classic ''Final Fantasy'' games, along with shifting away from the [[science fiction]] elements of more recent entries that was felt to be making the series "static". Working from the concept of Eikons having prominence, Maehiro created the world map and based the nations around their local geography before creating the story around that setting.
+Yoshida always considered the game as about Clive's story and the relationships he forms with different people through the warring nations. The story's central theme was the clashing of values. Clive and Dion were designed as aesthetic opposites, built around the archetypes of princes of darkness and light respectively. Crystals, a recurring feature in the series, were portrayed as an analogy to depleted [[fossil fuels]], while Dominants and Eikons acted as analogies for weapons of mass destruction. A recurring marketing tagline, "The legacy of the crystals has shaped our history for long enough", was meant to symbolise both a break from the science fiction style and a questioning of the crystal's role of bestowing power on humans. The Eikons were based on established and popular summons from across the ''Final Fantasy'' series, with Ifrit given a prominent role to contrast his earlier portrayal as a summon for beginners. Rather than using CGI, the story was told using real-time cinematics and in-game dialogue. The cinematics were handled by veteran series CGI director Takeshi Nozue.
+===Music===
+{{main|Music of Final Fantasy XVI}}
+[[Masayoshi Soken]] served as the lead composer for the game, with additional compositions by Takafumi Imamura, Daiki Ishikawa, Saya Yasaki, and Justin Frieden, who also arranged many of Soken's compositions alongside Yoshitaka Suzuki, Ryo Furukawa, TomoLow, and Keiko. Soken had worked with Yoshida and Takai on ''Final Fantasy XIV'', and was brought on board due to his familiarity with Yoshida, Takai and Maehiro's world design style. He described the music as having a singular direction inspired by the overall dark fantasy setting, contrasting it against the variety and lighter tunes for ''XIV''. Initially asked to provide 140, the game's final total was over 200 songs, including variations on established character themes. He attributed the large number of songs to the wide variety of characters and situations, wanting to avoid repeating the same music too often. Having worked for a long time on ''Final Fantasy XIV'', which used multiple styles and paid homage to the entire series, Soken had trouble adjusting to composing for a single-player with a central narrative and musical theme. The music was the last element to be put in place, after the narrative and gameplay were set.
+One recalled episode from the music writing was a bardic song performed both in spoken and sung form by a trained singer and actor that would change depending on Clive's position in the story. The songs proved difficult as they needed localizing in several languages and recording [[a cappella]], which resulted in issues with the pitch and tempo. A problematic track to include was the recurring "Chocobo" theme, which had an established light tone at odds with the setting. Rather than a full track, it was included as a short jingle. Vocal lyrics were written by Fox at Soken's request, with one of the vocal pieces being the victory theme. To create a sense of otherness without using a made-up language, Fox translated his lyrics in [[Ancient Greek]]. The Japanese version's main theme song, "Tsuki Wo Miteita – Moongazing", is being written and performed by [[Kenshi Yonezu]]. Both Yonezu and Yoshida expressed pleasure and enthusiasm at the collaboration, as each was a fan of the other's work.
+==Release==
+Rumors emerged in late 2019 about ''Final Fantasy XVI'' due to reports that Creative Business Unit III had finished groundwork for a major new title. The game was officially announced in September 2020. The trailer used real-time footage instead of pre-rendered cutscenes to show the game was well into development and not too far from release. The second trailer, released in June 2022 and showcasing the Eikons and related gameplay and story scenes, was ready that March. Due to the [[Russian invasion of Ukraine]] the previous month, the team decided to hold off releasing the trailer due to the game's portrayal of warring nations. Yoshida recorded a message to preface the trailer to separate it from world events. A third trailer, featuring more gameplay content and the release date, was published in December at [[The Game Awards 2022]]. The game was confirmed to have gone gold at the end of March 2023, and a [[game demo|demo]] covering the opening sequences and a later dungeon area was released on June 12.
+The localization was directed by Fox, with casting and recording handled by the UK branch of audio company Side. While the script was written in Japanese, in contrast to earlier entries it was translated and [[motion capture]]d in English. Due to this, there was no Japanese lip syncing, though the team unsuccessfully tried using an automated system to match the Japanese dub to the characters. Yoshida stayed away from the recording process both due to company policy and out of "respect" for the writers. All the English voice work was done by European actors, a non-standard approach to appeal to the North American market. Compared to other recent ''Final Fantasy'' titles, there was no plan for "tertiary content" such as [[downloadable content]] (DLC) and books, instead having the entire story told within the game. The game is a [[timed exclusive]] for six months following its release. While a Windows version was rumored based on the timed exclusivity, Yoshida denied knowledge of such a port. He later confirmed a Windows version was planned, but would not appear quickly. The English and Japanese voice cast was announced in December 2022.
+Some Western media outlets criticized the team's explanation for the game's lack of ethnic diversity. Speaking on the portrayal of ethnic diversity in the game's world, Yoshida stated that its relative lack of diversity fitted into both its Medieval European setting and the in-universe isolation of Valisthea's lands. He admitted potential representation issues, but foresaw problems with both breaking player immersion in the setting, and problematic stereotypes being associated with protagonists or antagonists. The team ultimately decided to focus on the characters' personalities and narratives over their appearance. In a follow-up, he noted the game's world was inspired by cultures from across the world, acknowledging that some might disagree with their approach. There was a similar response inspired by Yoshida's reluctance to classify the game under the "JRPG" moniker, as he was uncomfortable with negative associations historically attached to the term.
+===Versions and updates===
+''Final Fantasy XVI'' was released worldwide on June 22, 2023. It was notably given high age ratings in major release regions. The game was refused classification and consequently banned in [[Saudi Arabia]] due to Square Enix's refusal to alter the game's content to suit the country's guidelines, namely the portrayal of a relationship between two male characters. The game had digital and physical Deluxe and Collector's Editions available for sale through Square Enix's online store, featuring additional in-game items and accessories such as an art book and steelcase with unique art. A notable cross-promotion was a real-life replica of Clive's sword, created by blacksmith Tod Todeschini and exhibited at the Royal Armouries collection at the [[Tower of London]] from June 20 to July 19. The team wanted to deliver the game without the need for a software patch at launch, but ultimately the game received a patch to fix minor gameplay bugs and optimize performance. Copies of the game leaked a week prior to release, with Square Enix releasing a statement requesting those who had early copies not to spoil the game.
+After release, the game was patched with additional camera, control, and graphical options, and some graphical issues were corrected. In September 2023, Yoshida confirmed that two paid DLC episodes were in development, as well as officially confirming ongoing production of a PC version. Alongside this, a further update was released featuring new costume appearances for Clive, Jill, and Torgal. The first major DLC episode, ''Echoes of the Fallen'', was released on December 7 and followed Clive's exploration of an ancient tower. The second, ''The Rising Tide'', was released on April 18, 2024, and features the lost Eikon Leviathan. A simultanious patch offered further control and graphical options, and a new combat challenge. The DLC was directed by Takeo Kujiraoka, who had previously worked on ''[[Final Fantasy XIII]]'' and the ''[[Dissidia Final Fantasy|Dissidia]]'' subseries. While originally less focused on narrative, the team decided to focus the expansion scenarios on exploring hidden or unexplained elements of Valisthea prior to the game's ending. The two scenarios, one revolving around the Fallen civilization and one around Leviathan, were hinted at in-game but left unexplained in case post-launch content was approved. A crossover event with ''Final Fantasy XIV'' is in development. Also in development is a stage adaptation of the game by the [[Takarazuka Revue]]'s Cosmos Troupe, set to premier in 2024.
+==Reception==
+{{Video game reviews
+| MC = 87/100{{efn|Based on 147 reviews, 90% (133 reviews) of which is classified as "positive" and 7% (11 reviews) as "mixed". }}
+| OC = 92%
+| Destruct = 9/10
+| DT = {{rating|3|5}}
+| Edge = 7/10
+| EuroG = {{Rating|3|5}}
+| Fam = 39/40
+| GI = 8.5/10
+| GSpot = 9/10
+| GRadar = {{Rating|4.5|5}}
+| IGN = 9/10
+| RPGFan = 97/100
+| VGC = {{Rating|4|5}}
+}}
+===Critical reception===
+''Final Fantasy XVI'' received "generally favorable" reviews from critics, according to [[review aggregator]] website [[Metacritic]]. According to [[OpenCritic]], 92% of 163 critics recommend the game.
+In regards to the story, Michael Higham of ''[[GameSpot]]'' praised the writing's handling of its darker themes and found the cast enjoyable, while ''[[IGN]]''{{'}}s Mitchell Saltzman was highly positive about the story and characters, and lauded the lead performances. ''[[Game Informer]]''{{'s}} Wesley LeBlanc enjoyed the wider narrative, and ''[[Edge (magazine)|Edge]]'' noted the grand scope of the narrative despite it being at odds with the game structure. Jordan Middler, writing for ''[[Video Games Chronicle]]'', found the story well told and its cast likeable after a slow start filled with worldbuilding and unfamiliar terminology. Iain Harris of ''[[GamesRadar+]]'' described the setting as a throwback to early series games and noted its environmental themes, but noted some poor dialogue. Eric Van Allen, writing for ''[[Destructoid]]'', noted the story's ambition but felt some of its themes were poorly resolved. ''[[Eurogamer]]''{{'}}s Edwin Evans-Thirlwell praised Clive's storyline and the narrative's examination of series themes, though noted a tone of "wanton backstabbing and ambient misogyny" among the supporting cast. Similarly, Zach Wilkerson of ''RPGFan'' found the [[Gender representation in video games|female characters]] underdeveloped, though praised the narrative and the cast overall. Giovanni Colantonio of ''[[Digital Trends]]'' found the story lacking after shifting away from Clive's revenge quest, additionally finding few of the characters memorable, but praised the overall lore. A point raised by some critics was a perceived lack of [[Race and video games|ethnic diversity and representation]].
+Higham praised the graphics and cinematics as adding to the overall story and design, and both ''Edge'' and Wilkerson lauded the detail and variety of the game's graphics. Middler lauded the overall visual design, but noted some stilted animation for side characters in some cutscenes. Talking about the visual effects used in battles and Eikon setpieces, Harris felt they sometimes obscured the action for players. LeBlanc noted a lack of detail or variety in NPC designs and felt the visual effects got in the way of gameplay at times. Both Saltzman and Higham noted an unstable [[frame rate]]. Soken's score for the game met with unanimous praise.
+Higham described ''Final Fantasy XVI'' as the series' most drastic gameplay shift to date, praising the variety of ability combinations possible later into the game. Colantonio was pleased by the scale and spectacle of Eikon fights and enjoyed the combat despite it being driven by the story; he hoped the series would continue refining these elements in future installments. Allen called the gameplay "flat out good", while Harris called it potentially divisive but still enjoyable due to its action focus. ''Edge'' enjoyed the opening parts and combat system, but complained that the pacing slowed in later parts. Evans-Thirlwell noted the wide variety of special abilities and customization elements to complement the basic combat mechanics, while LeBlanc called the battle system "[his] favorite action combat system to date" despite pacing issues. Saltzman highlighted the focus on staggering enemies and prioritizing combos as the strongest part of the combat system. Wilkerson praised the customization available to expand the combat options for new and experienced action game players, but felt the difficulty too easy overall and noted a lack of enemy variety. Middler praised the action combat, positively noting its brisk pace and lack of unnecessary filler would allow players to speed through the campaign. Several reviewers positively compared the scale and spectacle of Eikon battles to setpieces from ''[[God of War III]]'' and ''[[Asura's Wrath]]''. Recurring criticism was focused on the lack of mechanical depth, and uninteresting side quest design.
+===Sales===
+''Final Fantasy XVI'' was the best-selling retail game in Japan during its week of release, with just over 336,000 physical units being sold. In the United Kingdom, the game was the best-selling title during its first week, but had notably lower physical sales than ''Final Fantasy XV''. During its first month on release in the United States, the game was the second best-selling title behind ''[[Diablo IV]]''.
+During its first week, ''Final Fantasy XVI'' sold over three million units. Reports and statements from Square Enix noted that despite strong sales the game did not meet the company's higher expectations, with this and other factors contributing to the company's share value falling. President Takashi Kiryu blamed slow adoption of the console, and stated the company would continue marketing it.
+===Awards===
+{| class="wikitable sortable"
+|+Awards and nominations for ''Final Fantasy XVI''
+|-
+! Year !! Award !! Category !! Result !! Ref.
+|-
+| style="text-align:center;" | 2022
+| [[The Game Awards 2022]]
+| Most Anticipated Game
+| {{Nominated}}
+| style="text-align:center;" |
+|-
+| style="text-align:center;" rowspan="11" | 2023
+| rowspan="5" | [[Golden Joystick Awards]]
+| [[Golden Joystick Award for Game of the Year|Ultimate Game of the Year]]
+| {{Nominated|Nominated{{efn|Voted #5 out of twenty nominees for Ultimate Game of the Year}}}}
+| style="text-align:center;" rowspan="5" |
+|-
+| Best Lead Performer ([[Ben Starr (actor)|Ben Starr]])
+| {{Won}}
+|-
+| Best Supporting Performer ([[Ralph Ineson]])
+| {{Nominated}}
+|-
+| Best Audio
+| {{Won}}
+|-
+| PlayStation Game of the Year
+| {{Nominated}}
+|-
+| rowspan="2" | [[14th Hollywood Music in Media Awards]]
+| Original Score – Video Game
+| {{Nominated}}
+| style="text-align:center;" rowspan="2" |
+|-
+| Original Song/Score – Commercial Advertisement
+| {{Won}}
+|-
+| rowspan="4" | [[The Game Awards 2023]]
+| Best Narrative
+| {{Nominated}}
+| style="text-align:center;" rowspan="4" |
+|-
+| Best Score and Music
+| {{won}}
+|-
+| Best Performance (Ben Starr)
+| {{Nominated}}
+|-
+| Best Role Playing Game
+| {{Nominated}}
+|-
+| style="text-align:center;" rowspan="18" | 2024
+| rowspan="3" | [[New York Game Awards]]
+| Statue of Liberty Award for Best World
+| {{nominated}}
+| style="text-align:center;" rowspan="3" |
+|-
+| Tin Pan Alley Award for Best Music in a Game
+| {{nominated}}
+|-
+| Great White Way Award for Best Acting in a Game (Ben Starr)
+| {{nominated}}
+|-
+| rowspan="2" | [[27th Annual D.I.C.E. Awards]]
+| [[D.I.C.E. Award for Role-Playing Game of the Year|Role-Playing Game of the Year]]
+| {{nom}}
+| style="text-align:center;" rowspan="2" |
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Animation|Outstanding Achievement in Animation]]
+| {{nom}}
+|-
+| rowspan="5" | [[24th Game Developers Choice Awards]]
+| [[Game Developers Choice Award for Game of the Year|Game of the Year]]
+| {{sho|Honorable mention}}
+| style="text-align:center;" rowspan="5" |
+|-
+| Best Audio
+| {{sho|Honorable mention}}
+|-
+| Best Technology
+| {{sho|Honorable mention}}
+|-
+| Best Visual Art
+| {{nom}}
+|-
+| Audience Award
+| {{nom}}
+|-
+| rowspan="8" | [[20th British Academy Games Awards]]
+| [[British Academy Games Award for Performer in a Leading Role|Performer in a Leading Role]] (Ben Starr)
+| {{Longlisted}}
+| style="text-align:center;" rowspan="4" |
+|-
+| [[British Academy Games Award for Animation|Animation]]
+| {{longlisted}}
+|-
+| [[British Academy Games Award for Audio Achievement|Audio Achievement]]
+| {{longlisted}}
+|-
+| [[British Academy Games Award for Music|Music]]
+| {{longlisted}}
+|-
+| [[British Academy Games Award for Artistic Achievement|Artistic Achievement]]
+| {{nominated}}
+| style="text-align:center;" rowspan="4" |
+|-
+| [[British Academy Games Award for Narrative|Narrative]]
+| {{nominated}}
+|-
+| [[British Academy Games Award for Performer in a Supporting Role|Performer in a Supporting Role]] (Ralph Ineson)
+| {{nominated}}
+|-
+| [[British Academy Games Award for Technical Achievement|Technical Achievement]]
+| {{nominated}}
+|}
+==Notes==
+{{notelist}}
+==References==
+{{Reflist|refs=
+}}
+==External links==
+{{Commons category}}
+* {{Official website|https://www.finalfantasyxvi.com}}
+* {{IMDB title|13103328}}
+{{Final Fantasy series}}
+{{Authority control}}
+{{Portal bar|Video games|Speculative fiction|Fantasy}}
+{{DEFAULTSORT:Final Fantasy 16}}
+[[Category:2023 video games]]
+[[Category:Action role-playing video games]]
+[[Category:Dark fantasy video games]]
+[[Category:Fiction about invasions]]
+[[Category:Fiction about regicide]]
+[[Category:Final Fantasy video games]]
+[[Category:Golden Joystick Award winners]]
+[[Category:Japanese role-playing video games]]
+[[Category:PlayStation 5 games]]
+[[Category:Single-player video games]]
+[[Category:Video games about revenge]]
+[[Category:Video games about royalty]]
+[[Category:Video games about slavery]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games scored by Masayoshi Soken]]
+[[Category:Video games set on fictional planets]]
+[[Category:Video games about the military]]
+[[Category:The Game Awards winners]]

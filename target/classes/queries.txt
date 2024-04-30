@@ -105,9 +105,7 @@ What Square Enix game is getting a season 2 for the anime adaptation of the game
 Which game had its sales top 8 million 2 months ago?
 What game is Yoko Taro known for?
 The character 2B is popular from what game?
-The game with 27 endings is?
-What game does the song Weight of the World come from?
-What game does the voice actor for Mikasa's voice in?
+What game does Yui Ishikawa voice in?
 
 Civilization 6
 What is the latest installment of the Civilization series?
@@ -180,23 +178,20 @@ In which game do you play as a creature known as Slugcat?
 
 Minecraft
 In what game do you mine for diamonds?
-What is the name of the game with the main character, Steve?
-Which game is made of blocks?
+What game do you play as Steve?
 What is the game where you fight the ender dragon?
 What game is the creeper from?
 
 Deep Rock Galactic
 What is the game where you play as dwarves in space?
-What is the name of a famous game developed by Ghost Ship Studios?
 What is the name of the game where you can drink beer to power up?
 What game has the classes driller, scout, engineer, and gunner?
 What game is Rock and Stone from?
 
 Dead by Daylight
 In what game can you play as a killer who hunts survivors?
-What game has a crossover with stranger things?
-In what horror game do the players get put on hooks?
-In what game do you turn on generators to escape?
+In what game can you play as characters from stranger things, including the Demogorgon?
+In what game do the players get put on hooks by the killer?
 
 Danganronpa
 In what game do you guess the killer in a trial?
@@ -215,7 +210,7 @@ In what game can you fight against ghost ships?
 In what pirate-themed game can you get the reaper's bounty?
 
 Slay the Spire
-What roguelike is made by the indie studio Mega Crit?
+What game is made by the indie studio Mega Crit?
 What game is the character The Watcher from?
 What game is a deck builder in which the player must ascend a spire?
 
@@ -228,18 +223,18 @@ In what game can you get void chickens?
 ULTRAKILL
 What game is published by New Blood Interactive?
 What game inspired by Doom and Quake do you descend layers of hell?
-In what game do you descend to hell in search of blood?
 In what game do you play as a blood-fueled machine?
 
-TitianFall 2
-In what game can you call in mech suits to fight other players?
-What fps by Respawn Entertainment has a single-player campaign?
+Titanfall 2
+What game uses speedrunning tech such as crouch kicks?
+What fps game by Respawn Entertainment has a campaign?
 What game has an engine that is a heavily modified version of Valve's open-source engine?
 
 Mario Kart 8
 What is Nintendo's first party-racing game?
 What Mario Kart game can be purchased on the Switch?
-What is the most recent Mario Kart game?
+What is the first Mario Kart game to include Mii as a playable character?
+In what game can you use items like a mushroom and red shell?
 
 Bioshock
 What game is Big Daddy from?
@@ -263,7 +258,7 @@ Which Fallout game is the first to have a fully-voiced protagonist?
 What game takes place in the year 2287?
 
 Fallout 76
-What is the first multiplayer game by Bethesda Studios?
+What was Bethesda Studios' first multiplayer game?
 What game has the setting of the Appalachia?
 What Fallout game has a battle royale mode called Nuclear Winter?
 
@@ -339,8 +334,7 @@ What game developed by Ubisoft involves tactical teamwork with unique operator a
 Apex Legends
 What game has characters with tactical, passive, and ultimate abilities for combat and movement?
 What game, set in the Titanfall universe, features unique characters called Legends?
-What game allows players to revive fallen teammates by collecting their banners and taking 
-them to respawn beacons?
+What game allows players to revive fallen teammates by collecting their banners and taking them to respawn beacons?
 
 Battlefield 1 
 What game features epic battles set in World War I?
@@ -381,7 +375,7 @@ What game has the player models shaped like a bean?
 In which game can players compete against up to 59 other players in a single match?
 In which game do players encounter a variety of game modes such as Hex-A-Gone, Slime Climb, and Fall Mountain?
 
-Final Fantasy VII Remake Intergrade
+Final Fantasy VII Remake
 What is the first part of the remake of the original Final Fantasy 7 called?
 Yuffie can be first seen in what game of the remake of Final Fantasy 7?
 Cloud Strife is introduced as the main character of what game of the remake?
@@ -444,9 +438,9 @@ In what game can you use slow weapons like greatsword and hammer?
 In this game, players can tell if a monster is enraged by looking at the color of the monster's eye. What is this game?
 What Monster Hunter game can be played on all platforms?
 
-The Binding of Issac
+The Binding of Isaac
 What game has Azazel and Cain as playable characters?
-In which game is your mom a beatable boss?
+In which game is your Mother a beatable boss?
 What game contains the item, Holy Mantle?
 What game has a dead cat?
 
@@ -468,3 +462,19 @@ Animal Crossing New Horizons
 Where can you play on an island with villagers?
 What game uses bells as currency?
 In which game can you earn nookmiles?
+
+Halo Reach
+What game allows for armour customization?
+In which game do you play as a Spartan?
+What game has the weapons Spiker and Plasma Repeater?
+Where can you find the Noble Team as a part of the game’s character roster?
+
+Halo 3 ODST
+Which game was made by Bungie?
+Where can you walk along Mombasa Street?
+Which game has the Plasma Rifle as a weapon?
+
+Prototype
+Where does the Blacklight Virus originate from?
+What game has Alex Mercer as a playable character?
+In which game can you skyjack a helicopter?

@@ -1,0 +1,300 @@
+{{Short description|2014 video game}}
+{{Distinguish|Shadows of Mordor}}
+{{Good article}}
+{{Use mdy dates|date=February 2016}}
+{{Infobox video game
+| title = Middle-earth: Shadow of Mordor
+| image = Shadow of Mordor cover art.jpg
+| developer = [[Monolith Productions]]
+| publisher = [[Warner Bros. Interactive Entertainment]]
+| producer = {{Unbulleted list|Nathan Edson|Zeb Wedell}}
+| designer = Michael de Plater
+| programmer = Matthew Rice
+| artist = Philip Straub
+| writer = [[Christian Cantamessa]]
+| composer = {{Unbulleted list|[[Garry Schyman]]|Nathan Grigg}}
+| series = ''[[Middle-earth in video games|Middle-earth]]''
+| engine = [[LithTech#LithTech Jupiter EX|LithTech Jupiter EX]]
+| platforms = {{Unbulleted list|[[PlayStation 4]]|[[Windows]]|[[Xbox One]]|[[PlayStation 3]]|[[Xbox 360]]|[[Linux]]|[[macOS]]}}
+| released = {{Collapsible list|titlestyle=font-weight:normal;background:transparent;text-align:left;|title=September 30, 2014|'''PlayStation 4''', '''Windows''', '''Xbox One'''{{Video game release|NA|September 30, 2014|EU|October 3, 2014|AU|October 8, 2014}}'''PlayStation 3''', '''Xbox 360'''{{Video game release|NA|November 18, 2014|EU|November 21, 2014|AU|November 26, 2014}}'''Linux''', '''macOS'''{{Video game release|WW|July 30, 2015}}
+}}
+| genre = [[Action-adventure game|Action-adventure]]
+| modes = [[Single-player]]
+}}
+'''''Middle-earth: Shadow of Mordor''''' is a 2014 [[action-adventure game|action-adventure]] [[video game]] developed by [[Monolith Productions]] and published by [[Warner Bros. Interactive Entertainment]]. An original story based on the [[Tolkien's legendarium|legendarium]] created by [[J. R. R. Tolkien]], the game takes place between the events of [[The Hobbit (film series)|''The Hobbit'']] and [[The Lord of the Rings (film series)|''The Lord of the Rings'']] film trilogies. The player controls Talion, a [[Ranger (Middle-earth)|Gondorian Ranger]] who bonds with the [[Ghost|wraith]] of the [[Elf (Middle-earth)|Elf]] Lord [[Celebrimbor]], as the two set out to avenge the deaths of their loved ones. Players can engage in [[Melee (gaming)|melee combat]], and use wraith abilities to fight and manipulate enemies. The game introduces the Nemesis System, which allows the [[artificial intelligence]] of [[non-playable characters]] to remember their prior interactions with Talion and react accordingly in subsequent encounters.
+The game's development began in 2011. In order to create an accurate environment and be consistent with Tolkien's books, the developers consulted Tolkien scholars from Warner Bros, as well as [[Peter Jackson]], director of the film trilogies ''The Lord of the Rings'' and ''The Hobbit''. They also received assistance from [[Weta Workshop]], who advised on the special effects. [[Christian Cantamessa]] served as the game's lead writer, while [[Dan Abnett]] was recruited to write dialogues for the Orcs featured in the game. Combat in the game was largely influenced by the ''[[Batman: Arkham]]'' series, while Monolith had previously experimented with the nemesis system in a cancelled Batman game based on [[Christopher Nolan]] films. Gameplay of [[sports game]]s and pen-and-paper [[role-playing game]]s influenced the design of the nemesis system, which was intended to create personal stories for each players and generate memorable Orcs characters through gameplay.
+The game was released for [[PlayStation 4]], [[Windows]], and [[Xbox One]] in September 2014. Versions for [[PlayStation 3]] and [[Xbox 360]], developed by [[Behaviour Interactive]], was released in November 2014. ''Shadow of Mordor'' received generally favorable reviews upon release. Most praise was directed at its combat, open-world design, and the Nemesis System. Some criticism was aimed at the game's story and boss battles. ''Shadow of Mordor'' marked the biggest launch for a game based upon Tolkien's universe, and would go on to win several awards from video gaming publications, including [[List of Game of the Year awards|Game of the Year]]. The game was supported by [[downloadable content]] upon release. A sequel, ''[[Middle-earth: Shadow of War]]'', was released in October 2017.
+==Gameplay==
+[[File:Shadow of Mordor screenshot.jpg|left|thumb|In this gameplay screenshot, Talion is using [[Celebrimbor]]'s wraith-like abilities to defeat an enemy [[boss (gaming)|boss]].]]
+''Middle-earth: Shadow of Mordor'' is a [[Third-person (video games)|third-person]] open world [[action-adventure video game]], where the player controls a ranger by the name of Talion who seeks revenge on the forces of [[Sauron]] after his family, consisting of his wife and son, are killed by those that lead them. Players can travel across locations in the game through [[parkour]], riding monsters, or accessing Forge Towers, which serve as fast travel points. Missions in the game feature main story missions that follow Talion's quest for revenge, side missions that involve following [[Gollum]] to find artifacts that are tied to Celebrimbor's past, missions to free the human slaves that have been captured by the Uruk armies and forced to work for Sauron, and additional quests to help forge new abilities for Talion's sword, bow, and dagger.
+Completing quests earns the player a number of rewards: [[experience point]]s that are used to unlock new abilities for both Talion's ranger and Celebrimbor's wraith skills, a Power value that allows the player to access more powerful abilities to unlock, and an in-game currency called "Mirian" that the player can use to improve Talion's health, wraith skill capacity, or forge new slots on his weapons to add additional runes.
+In completing missions, the player can have Talion engage in melee, ranged combat, and stealth approaches, with some missions rewarding the player more for completing the mission in a specific manner. Talion's ranger abilities are enhanced through Celebrimbor, allowing the player to mix combat with special focus-based attacks; these latter attacks can be used to slow time down while aiming with the bow, drain focus out of an enemy foe, or, later in the game, brand the foe to become an ally of Talion. The combat system uses an attack-chain system that enables the player to perform special moves after building the chain to a large enough value, such as instantly draining a foe of focus or performing an area focus attack. With the combat system, they can also counter and dodge attacks. Stealth is a critical element in some missions; several areas are considered Strongholds and should Talion's presence be discovered, an alarm will sound and more Uruks will arrive to try to kill him.
+===Nemesis system===
+[[File:Middle-Earth Shadow of Mordor Nemesis System.jpg|thumb|Gameplay screenshot of ''Middle-earth: Shadow of Mordor'' showcasing the nemesis system]]
+A core feature of ''Shadow of Mordor'' is the Nemesis system. The game can track any Uruk (a nastier orc, the general antagonists of the game) that the player comes into contact with. While there are "generic" Uruk for the player to fight en masse, and will be as cannon fodder as part of Sauron's armies, the game will begin tracking Uruk that perform any notable talents within the game, such as killing the player or surviving an encounter with the player. These Uruk will be promoted to captains. Defeating these leaders will help to weaken Sauron's army, and these leaders will drop a rune which the player can install on Talion's weapons to provide additional buffs in battle. If the procedurally generated Orcs survive an encounter with Talion, they will also be promoted. Further, such deaths are tracked through online servers, and the player's friends on the various network services will be notified of this death and be offered the chance to accept a Vendetta mission and exact revenge on the Uruk. If the mission is successful, the game will give rewards to both the original player and the victorious friend.
+The leader Uruk will have a range of strengths and weaknesses, the latter that can be exploited in combat to quickly weaken and defeat the leader. The player can gain knowledge of these through finding intelligence mostly by draining and interrogating specially marked Uruks. Once the player gains the ability to brand Uruks, they can brand these leaders and convert portions of Sauron's army to their side. At this point, the player can use the Nemesis system to trigger infighting within the Uruk forces which they can then directly participate in, helping to weaken the army further. Uruks that survive their encounter with Talion will remember this when Talion combats them again; for example, an Uruk who was thrown into a fire by Talion might want revenge on him for being disfigured.
+==Synopsis==
+[[File:Troy Baker SDCC 2019 (48378614692) (cropped).jpg|thumb|upright|[[Troy Baker]] provided the voice for Talion, the game's protagonist.]]
+===Setting===
+''Shadow of Mordor'' is based on Tolkien's Middle-earth legendarium and Peter Jackson's movie franchise. The game takes place in the 60-year gap between the events of Jackson's ''The Hobbit'' and ''The Lord of the Rings''. The player will encounter Gollum (voiced by [[Liam O'Brien]]). Talion discovers that the wraith who revived him is [[Celebrimbor]] (voiced by [[Alastair Duncan (actor, born 1958)|Alastair Duncan]]), the greatest Elven smith master of the [[Second Age]], who also seeks revenge against Sauron.
+===Plot===
+Talion is a captain of Gondor at the Black Gate of Mordor. His garrison is attacked by [[Sauron]]'s Uruk forces led by three [[Black Númenóreans|Black Númenórean]] captains; the Hammer of Sauron ([[John DiMaggio]]), the Tower of Sauron ([[JB Blanc]]), and their leader, the Black Hand of Sauron ([[Nolan North]]). Talion, his wife Ioreth, and his son, Dirhael, are captured and ritually sacrificed by the Black Hand in an attempt to summon the wraith of the Elf Lord [[Celebrimbor]]. However, Celebrimbor (who suffers from amnesia due to his status as a wraith) instead merges with Talion, preventing him from dying alongside his family. Talion and Celebrimbor then depart to uncover Celebrimbor's identity and avenge the death of Talion's family.
+Over the course of their travels, Talion and Celebrimbor encounter [[Gollum]] multiple times. Gollum possesses the ability to see and speak with Celebrimbor due to his prior contact with the [[One Ring]]. Hoping that Celebrimbor might lead him to the One Ring, Gollum leads Celebrimbor to relics of his past, each of which restores parts of his lost memories. Celebrimbor gradually recalls how Sauron, disguised as Annatar, the Lord of Gifts, deceived him into forging the Rings of Power. Celebrimbor ultimately assisted Sauron in forging the One Ring but was able to steal it from him. Celebrimbor proclaimed himself the Bright Lord of Mordor and raised an army of Orcs against Sauron. However, the Ring ultimately betrayed Celebrimbor and returned to Sauron. Sauron then punished Celebrimbor by executing his wife and daughter and, finally, by killing him.
+In his search for the Black Hand, Talion allies himself with Hirgon, a ranger deserter who leads a community of Gondorian outcasts choosing to settle in Mordor, and Ratbag the Coward, an [[Orc (Middle-earth)|Orc]] who offers to bring Talion closer to the Black Hand in exchange for his assistance in the military hierarchy. Talion helps Ratbag ascend the ranks to the level of warchief by killing each of his immediate superiors, and aids Hirgon in destroying a statue of Sauron. These actions draw out the Hammer of Sauron. After the Hammer decides to execute Ratbag for not killing Talion, Talion confronts and kills the Hammer in combat.
+Talion is then sought out by the warrior Lithariel, the daughter of Queen Marwen, who claims to be able to assist Celebrimbor with his mission. Marwen is the ruler of [[Núrn]], a kingdom of sea raiders located in the south of Mordor. She uses prophetic powers to guide Talion and Celebrimbor to another of Celebrimbor's relics. Later, she advises them to use Celebrimbor's powers to take control of an army of Orcs and use them to lead an assault against Sauron. Talion eventually realizes that the wizard [[Saruman]] is possessing Marwen, and assists Lithariel in freeing her from his control. Talion, however, still carries out Saruman's plan, leading an army of mind-controlled orcs in an assault against the Black Hand's stronghold at Ered Glamhoth. However, rather than the Black Hand, Talion finds the Tower of Sauron waiting for him. The two battle and Talion emerges victorious after viciously stabbing the Tower to death with his son's sword.
+Talion now travels to the Black Gate for a final confrontation with the Black Hand. The Black Hand quickly incapacitates him with a spell that also restores the last of Celebrimbor's memories. He then kills himself as part of a ritual that forces Celebrimbor to depart from Talion and merge with himself. This allows Sauron to possess the Black Hand's body and incarnate in physical form. However, Celebrimbor is able to briefly paralyze Sauron from within, allowing Talion to destroy Sauron's physical form. With the Black Hand dead, Celebrimbor wishes to depart for [[Valinor]]. Talion instead convinces him to stay and attempt to overthrow Sauron. Gazing at [[Mount Doom]], Talion declares his intention to forge a new Ring of Power.
+==Development==
+Development of ''Middle-earth: Shadow of Mordor'', which took about three years, began in late 2011. The game's lead developer was Monolith Productions, who had experience on a Middle-earth game with ''[[Guardians of Middle-earth]]'' (a [[multiplayer online battle arena]] game released in 2012). According to design director Michael de Plater, ''Shadow of Mordor'' was developed in parallel with ''Guardians of Middle-earth'' but handled by a separate team. It was published by Warner Bros., who had published the ''[[Batman: Arkham]]'' game series. The game was designed by de Plater, who had worked with [[Creative Assembly]] on ''[[Rome: Total War]]'' and [[Ubisoft]] on ''[[Tom Clancy's EndWar]]'' and ''[[Tom Clancy's Ghost Recon: Future Soldier]]''.
+===Gameplay design===
+''Shadow of Mordor'' was Monolith's first [[third-person perspective|third-person]] open-world video game, and de Plater considered its development an educational experience for the studio. In Monolith's introduction to the genre, many core mechanics were built from scratch and the studio were inspired by successful video games such as the ''Batman: Arkham'' series created by [[Rocksteady Studios]]; those games inspired ''Shadow of Mordor''{{'s}} stealth and free-flow combat mechanics. The studio considered Rocksteady's games good examples of how to handle a licensed title. The studio had to cancel the project, codenamed ''Apollo'', after one-and-a-half year of development, though elements from that game, such as the nemesis system, were reusued in ''Shadow of Mordor''.
+The game's signature feature is its Nemesis system, as the team wanted to create a system which allows [[non-playable character]]s to respond to player's actions, creating personal stories for each player and making otherwise nameless Orcs in the game memorable and unique. The team also hoped that the system would provide tension and competition, similar to a multiplayer game. The studio was inspired by [[sports game]]s, where the narrative continues even when players lose a match. This can prevent immersion and narrative from breaking when the player characters die in the game. while enabling players to create their own villain, leading to a more organic story.
+===Story and art===
+The game has a standalone plot. Early in development, the team consulted Peter Jackson, director of ''The Lord of the Rings'' and ''The Hobbit'' film trilogies, who advised them against a film [[tie-in]]. To depict well-known characters the company partnered with [[Middle-earth Enterprises]], the franchise-rights holder, to prevent misuse and contradiction between the game's story and Tolkien's. The game was written by [[Christian Cantamessa]], who was lead writer and lead designer for ''[[Red Dead Redemption]]''. According to the team, the story was designed to be accessible for all players regardless of their familiarity with the franchise. Although Torvin was originally proposed as a playable character, the idea was scrapped. The team hired [[David Salo]], a linguist who worked on Tolkien's languages for the ''Lord of the Rings'' film trilogy, to develop the Orcs' Black Speech. The game's narrative was also inspired by ''[[BioShock (series)|BioShock]]'', which according to de Plater, has successfully incorporated systemic stories with players' choices.
+''Shadow of Mordor'' bridges the gap between ''The Hobbit'' and ''The Lord of the Rings'', with the team wanting to show iconic elements of the universe in an original way. and studied photos of Iceland and New Zealand and yellow stone found worldwide. Since ''Shadow of Mordor'' is set before ''The Lord of the Rings'', its landscape is less post-apocalyptic; environments also vary by weather, lighting and atmosphere.
+The music for ''Middle-earth: Shadow of Mordor'' was composed by [[Garry Schyman]] and Nathan Grigg, and a soundtrack album was released digitally by WaterTower Music on September 30, 2014. In designing the game's music, the team used a number of sonic tools which synchronize with other aspects of the game (such as player actions and enemy movements); combat music included [[waterphone]]s and [[drums|spring drums]].
+==Release==
+In August 2013 an artist mentioned that Monolith Productions was working on a AAA title separate from ''Guardians of Middle-earth''. The game was officially unveiled on November 12. Although the game was originally scheduled for release on October 7, 2014, according to Warner Bros. its release was moved up to September 30 in North America and October 3 in the United Kingdom due to "fans' excitement". The PlayStation 3 and Xbox 360 versions were released on November 18 in North America and November 21 in Europe. Monolith focused on developing the game's PlayStation 4 and Xbox One versions, with development of the PlayStation 3 and Xbox 360 versions outsourced to Behaviour Interactive. Although the gameplay and story are unchanged in the PlayStation 3 and Xbox 360 ports, some features (such as the Nemesis system) are less complex than the PlayStation 4 and Xbox One versions. According to the game's developer, the Nemesis system was too large for older consoles.
+On December 16, 2014, the [[downloadable content]] (DLC) ''Lord of the Hunt'' was released. Its storyline revolved around Torvin, and it included new runes, skins and bosses. ''Lord of the Hunt'' received mixed reviews from critics. The final DLC for ''Shadow of Mordor'', titled ''The Bright Lord'', is set 3,000 years before the main campaign and allows players to control Talion's companion, Celebrimbor. It adds a chapter to ''Shadow of Mordor'' in which players can complete ten more missions and fight Sauron. The content was released on February 24, 2015, for PlayStation 4, Windows, and Xbox One. A Game of the Year edition with DLC was announced on April 29, 2015, and released on May 5 for PlayStation 4, Windows, and Xbox One. A special edition, with in-game items and a steelbook, was introduced on August 1.
+''Shadow of Mordor''{{'s}} online servers were shuttered on January 12, 2021, and a final update for the game removed some features that were tied to this, including the game's Vendetta system and leaderboards. However, in-game achievements tied to these elements were modified to still be achievable or were awarded automatically to players after starting the game following the update.
+==Reception==
+===Critical reception===
+{{Video game reviews
+| MC = XONE: 87/100 PC: 84/100 PS4: 84/100
+| Destruct = 6/10
+| EuroG = 8/10
+| GI = 8.25/10
+| GRadar = {{Rating|4.5|5}}
+| GSpot = 8/10
+| GT = 8.7/10
+| GB = {{Rating|5|5}}
+| IGN = 9.3/10
+| Joystiq = {{Rating|5|5}}
+| PCGUS = 85/100
+| Poly = 9.5/10
+| award1Pub = [[Game Developers Choice Awards]]
+| award1 = Game of the Year
+| award2Pub = [[GameSpot]]
+| award2 = Game of the Year
+| award3Pub = [[Giant Bomb]]
+| award3 = Game of the Year
+| award4Pub = [[Joystiq]]
+| award4 = Game of the Year
+}}
+''Middle-earth: Shadow of Mordor'' received "generally favorable" reviews, according to [[review aggregator]] [[Metacritic]].
+The Nemesis system was praised by critics. According to Lucas Sullivan of [[GamesRadar]], the system elevated ''Shadow of Mordor'' to excellence by making its villains memorable and adding personality to its protagonist. Brad Shoemaker of [[Giant Bomb]] wrote that the system created many distinctive characters and its side content extended the game's longevity. [[Joystiq]]'s Alexander Sliwinski said that the system made each playthrough unique and made the game stand out from other action games. Chris Carter of ''[[Destructoid]]'' found the system gimmicky, since it failed to create unique villains; it added different appearances and weaknesses to villains without adding personality.
+''Shadow of Mordor''{{'s}} combat was considered excellent by most critics. Shoemaker and Sliwinski compared it to the rhythm-based combat system of the ''[[Batman: Arkham]]'' game series; both found it engaging and fluid. Shoemaker praised the game's combat variety; the combination of the combat and nemesis systems created "a specific kind of chaotic, emergent nonsense" desirable in an open world game. According to Sliwinski and Shoemaker, even without the Nemesis system the combat system would make the game compelling. Although Matt Miller of ''[[Game Informer]]'' found the game's focus on killing made it repetitive, failing to capture the charm of its inspirations ''[[Assassin's Creed]]'' and ''Batman: Arkham'', Kevin VanOrd of [[GameSpot]] called ''Shadow of Mordor''{{'s}} combat an improvement of the ''Assassin's Creed'' formula.
+The reception of the game's storyline was mixed. Although Shoemaker and Sliwinski praised its "dark" tone, Shoemaker found some story elements (such as Gollum's introduction) forced and designed to appeal to a particular audience. According to ''Game Informer''{{'s}} Matt Miller, ''Shadow of Mordor'' fails to successfully tie together all of its various plot threads in the game's conclusion. Kevin VanOrd of GameSpot also found the storyline erratic, dragged down by anticlimactic fights and scenes. Dan Stapleton of [[IGN]] wrote that the story introduced memorable characters but would not make sense to fans of the series, and his interest in the game waned towards its end. ''Destructoid''{{'s}} Chris Carter was disappointed in a plot he considered generic ("Go here, kill this, draw out this big bad, then kill him for your family"); the game failed to add anything new to the universe, and its side missions were more interesting than the main campaign.
+Other aspects of ''Shadow of Mordor'' were praised. Sullivan enjoyed its ''Lord of the Rings''{{'}} lore, and found the number of collectables in the game "staggering". Miller also admired Monolith's extensive use of lore in the game, and praised its soundtrack and voice-acting; Elements of the game were criticized. Sullivan found some side missions repetitive, and Sliwinski was disappointed with some of the boss battles. Miller wrote that some ''Shadow of Mordor'' features are too complex and inaccessible for new players or those unwilling to use strategy. Critics disagreed about the Nemesis system. Miller wrote that the system fell flat in the game's final hours; according to VanOrd, the system was unappealing until the game's second half. Carter found the unskippable cutscenes after a player died annoying.
+Unlike ''Shadow of Mordor''{{'s}} current-generation versions, the PlayStation 3 and Xbox 360 versions received mixed-to-negative reviews, and many technical problems were noted. According to Thomas Morgan of [[Eurogamer]] its [[frame rate]] was substandard, and Yannick LeJacq of [[Kotaku]] cited "many technical hiccups and glitches". Morgan believed that the game developers spent little effort on the port, and LeJacq questioned the need to release the game for PlayStation 3 and Xbox 360.
+''Shadow of Mordor'' was well received by ''[[BioShock (series)|BioShock]]'' series creator [[Ken Levine (game developer)|Ken Levine]], who called it the first open-world game with a non-linear story and narrative and said he would bring some of its elements to his upcoming science-fiction project, ''[[Judas (video game)|Judas]]''.
+===Sales===
+''Shadow of Mordor''{{'s}} release was the most successful for a ''Lord of the Rings''-based game. The game debuted at number two in the UK retail software sales chart in its first week (behind ''[[FIFA 15]]''), and was the ninth-bestselling game in the United States in October 2014.
+===Controversy===
+When ''Shadow of Mordor'' was introduced, Monolith was accused by former Ubisoft employee Charles Randall of using assets (such as the protagonist-animation code) from ''[[Assassin's Creed II]]''. Monolith responded that all their project's assets were developed from scratch; they had confidence in their originality.
+In October 2014, after the usual video game review outlets were unable to obtain early access to ''Shadow of Mordor'', John Bain (known as [[TotalBiscuit]]) said that [[YouTube]] video creators had been offered early access in exchange for agreeing to a contract requiring them to describe it positively. [[Jim Sterling]] of ''[[The Escapist (magazine)|The Escapist]]'' obtained a copy of one of the contracts and analyzed it in detail. The [[Federal Trade Commission]] began an investigation and announced in July 2016 that Warner Brothers Home Entertainment had violated the [[Federal Trade Commission Act]], and that the company must declare sponsored advertising in the future.
+===Awards===
+In addition to winning several awards at major events and ceremonies, the game was selected by ''[[GameSpot]]'', ''[[Joystiq]]'', and ''[[Giant Bomb]]'' as their [[List of Game of the Year awards|Game of the Year]] for 2014.
+{| class="wikitable sortable"
+|-
+! Year !! Award !! Category !! Result !! Ref.
+|-
+| rowspan="8" | 2014
+| rowspan="3"| [[Game Critics Awards]] Best of E3 2014
+| Best of Show
+| {{Nom}}
+| rowspan="3" style="text-align:center;" |
+|-
+| Best Console Game
+| {{Nom}}
+|-
+| Best RPG
+| {{Nom}}
+|-
+| rowspan="2" | Best of [[Gamescom 2014]]
+| Best Console Game Sony PlayStation
+| {{Nom}}
+| rowspan="2" style="text-align:center;" |
+|-
+| Best PC Game
+| {{Nom}}
+|-
+| rowspan="3" | [[The Game Awards 2014]]
+| [[The Game Award for Game of the Year|Game of the Year]]
+| {{Nom}}
+| rowspan="2" style="text-align:center;"|
+|-
+| Best Performance ([[Troy Baker]] as Talion)
+| {{Nom}}
+|-
+| Best Action/Adventure
+| {{Won}}
+| rowspan="1" style="text-align:center;"|
+|-
+| rowspan="42" | 2015
+| rowspan="5" | 17th [[Game Developers Choice Awards]]
+| [[Game Developers Choice Award for Game of the Year|Game of the Year]]
+| {{Won}}
+| rowspan="5" style="text-align:center;"|
+|-
+| Innovation Award
+| {{Nom}}
+|-
+| Best Design
+| {{Nom}}
+|-
+| Best Narrative
+| {{Nom}}
+|-
+| Best Technology
+| {{Nom}}
+|-
+| rowspan="4" | [[11th British Academy Games Awards]]
+| Best Game
+| {{Nom}}
+| rowspan="4" style="text-align:center;"|
+|-
+| Game Design
+| {{Won}}
+|-
+| Game Innovation
+| {{Nom}}
+|-
+| Music
+| {{Nom}}
+|-
+| rowspan="9" | [[18th Annual D.I.C.E. Awards]]
+| [[D.I.C.E. Award for Game of the Year|Game of the Year]]
+| {{Nom}}
+| style="text-align:center;"|
+|-
+| [[D.I.C.E. Award for Adventure Game of the Year|Adventure Game of the Year]]
+| {{Won}}
+| rowspan="8" style="text-align:center;"|
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Animation|Outstanding Achievement in Animation]]
+| {{Won}}
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Character|Outstanding Achievement in Character]] (Talion)
+| {{Won}}
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Game Design|Outstanding Achievement in Game Design]]
+| {{Won}}
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Game Direction|Outstanding Achievement in Game Direction]]
+| {{Won}}
+|-
+| [[D.I.C.E. Award for Outstanding Achievement in Story|Outstanding Achievement in Story]]
+| {{Won}}
+|-
+| Outstanding Innovation in Gaming
+| {{Won}}
+|-
+| [[D.I.C.E. Award for Outstanding Technical Achievement|Outstanding Technical Achievement]]
+| {{Won}}
+|-
+| rowspan="5" | [[South by Southwest|SXSW Gaming Awards]]
+| [[D.I.C.E. Award for Game of the Year|Game of the Year]]
+| {{Nom}}
+| rowspan="2" style="text-align:center;"|
+|-
+| Excellence in Technical Achievement
+| {{Nom}}
+|-
+| Excellence in Gameplay
+| {{Won}}
+| rowspan="3" style="text-align:center;"|
+|-
+| Excellence in Animation
+| {{Won}}
+|-
+| Excellence in Design and Direction
+| {{Won}}
+|-
+| rowspan="10"| 2014 NAVGTR awards
+| Game of the Year
+| {{Nom}}
+| rowspan="10" style="text-align:center;"|
+|-
+| Animation, Technical
+| {{Won}}
+|-
+| Art Direction, Fantasy
+| {{Nom}}
+|-
+| Control Design, 3D
+| {{Won}}
+|-
+| Direction In A Game Cinema
+| {{Nom}}
+|-
+| Lighting/Texture
+| {{Nom}}
+|-
+| Performance In A Drama, Supporting ([[Phil LaMarr]] as Ratbag)
+| {{Won}}
+|-
+| Sound Editing In A Game Cinema
+| {{Won}}
+|-
+| Sound Effects
+| {{Nom}}
+|-
+| Game, Franchise Action
+| {{Won}}
+|-
+| rowspan="5"| Game Audio Network Guild
+| Audio of The Year
+| {{Nom}}
+| rowspan="5" style="text-align:center;"|
+|-
+| Music of The Year
+| {{Nom}}
+|-
+| Sound Design of the Year
+| {{Nom}}
+|-
+| Best Dialog
+| {{Nom}}
+|-
+| Best Original Instrumental ("Fort Morn")
+| {{Nom}}
+|}
+==Legacy==
+{{main|Middle-earth: Shadow of War}}
+The game's sequel, ''Middle-earth: Shadow of War'', was announced in February 2017. The sequel was developed by Monolith Productions and published by Warner Bros. It was released worldwide on October 10, 2017.
+Warner Bros. patented the Nemesis system with the [[United States Patent & Trademark Office]] granting the patent in February 2021.
+==References==
+{{reflist}}
+==External links==
+*{{Official website|https://www.shadowofmordor.com/}}
+{{Monolith games}}
+{{Middle-earth video games}}
+{{The Lord of the Rings & The Hobbit film series}}
+{{GDCA GOTY}}
+{{Authority control}}
+{{Portal bar|Speculative fiction|Video games}}
+[[Category:2014 video games]]
+[[Category:Action-adventure games]]
+[[Category:Fantasy video games]]
+[[Category:Feral Interactive games]]
+[[Category:Hack and slash games]]
+[[Category:Linux games]]
+[[Category:LithTech games]]
+[[Category:Monolith Productions games]]
+[[Category:Open-world video games]]
+[[Category:MacOS games]]
+[[Category:PlayStation 3 games]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation 4 Pro enhanced games]]
+[[Category:Stealth video games]]
+[[Category:Video game controversies]]
+[[Category:Video games about revenge]]
+[[Category:Middle-earth (film franchise) video games]]
+[[Category:Video games developed in the United States]]
+[[Category:Warner Bros. video games]]
+[[Category:Windows games]]
+[[Category:Xbox 360 games]]
+[[Category:Xbox One games]]
+[[Category:Game Developers Choice Award for Game of the Year winners]]
+[[Category:British Academy Games Award for Game Design winners]]
+[[Category:The Game Awards winners]]

@@ -1,0 +1,117 @@
+{{Short description|2019 video game}}
+{{Use mdy dates|date=January 2019}}
+{{Infobox video game
+| title = Astroneer
+| image = Astroneer cover art.jpg
+| caption = PlayStation 4 download release art
+| developer = System Era Softworks
+| publisher = System Era Softworks
+| engine = [[Unreal Engine 4]]
+| platforms = {{cslist|[[Microsoft Windows|Windows]]|[[Xbox One]]|[[PlayStation 4]]|[[Nintendo Switch]]}}
+| released = {{ubl|'''Windows''', '''Xbox One'''|February 6, 2019|'''PlayStation 4'''|November 15, 2019|'''Nintendo Switch'''|January 13, 2022}}
+| genre = [[Sandbox game|Sandbox]], [[Adventure game|adventure]]
+| modes = [[Single-player]], [[multiplayer]]
+| designer = {{ubl|Jacob Liechty|Aaron Biddlecom|Ryan Burrell|Anthony Coleman|Andre Maguire}}
+| programmer = {{ubl|Brendan Wilson|Zabir Hoque|Sam Wolpert}}
+| artist = {{ubl|Adam Bromell|Paul Pepera|Spencer Kern}}
+| composer = [[Machinefabriek]]
+| producer = Veronica Peshterianu
+}}
+'''''Astroneer''''', officially stylized in [[all caps]], is a [[Sandbox game|sandbox]] [[adventure game]] developed from independent developer System Era Softworks. The game was released through [[early access]] in December 2016 before a full release on February 6, 2019. The player is tasked with colonizing planets, creating structures, and collecting resources. The character is called an Astroneer and the player can travel to planets to activate cores and complete the game. There are often rewards given to the player upon completion of core activation, most notably a suit and/or visor.
+==Gameplay==
+{{Unreferenced section|date=October 2023}}
+[[File:Astroneer gameplay.png|thumb|left|The Astroneer reshapes the environment using the Terrain Tool.]]
+''Astroneer'' is a [[Sandbox game|sandbox]] [[adventure game]] played from a [[Virtual camera system#Third-person view|third-person view]]. Its [[open world]] planets, where in [[terraforming]] can take place, are subject to [[procedural generation]], with the exception of some planet-specific resources. The player controls an [[astronaut]] (called an Astroneer) who navigates on foot, by [[lunar rover|rover]], through [[teleportation]], or by [[spacecraft]]. Navigating the planet is essential for finding resources, including materials and research items.
+===Crafting===
+Craftable items include rovers, printers, jets, buggies, tractors, spacecraft, storage silos, atmospheric condensers, research chambers, component smelters, batteries, generators, turbines, and solar panels. The game contains two base crafting materials, Resin, and Compound, which can be found in abundance on all planets. Other, more rare resources can be found while exploring planets, or by using smelters, chemistry labs, or atmospheric condensers. Resources are used to create a variety of items when used by themselves or in combination with other materials using machines in the game. In order to craft more advanced items, players collect "bytes" which can be used to unlock new technology which is then available for crafting. When low on oxygen, the Astroneer recharges by using snails, portable oxygenators, or staying near craftable tethers, which can be chained from a base or oxygen-providing object over long distances to prevent suffocation while exploring. As of the game's full release, an "[[oxygenator]]" is required to provide extended reach of oxygen when tethering. To use an "oxygenator", you must either connect it to a shelter, or platform.
+===Terrain Tool===
+Every Astroneer has a Terrain Tool, which allows the player to gather resources and reshape the landscape. Resources, such as organic material, quartz, lithium, ammonium, and resin, are neatly packaged by the Terrain Tool into convenient stacks. These stacks can then be snapped into slots on the Astroneer's backpack, storage units, research chambers, etc. Certain resources, such as [[titanite]] or clay, can be smelted or combined into more advanced materials. The Astroneer also has the option to research and craft upgrades to the Terrain Tool, which can be plugged and unplugged at will.
+===Backpack===
+Other than the Terrain Tool, the Backpack is the Astroneer's main tool. The Backpack functions as the player's inventory and [[HUD (computer gaming)|HUD]], with two quick-use slots, eight storage slots, a basic [[3D printer]], a small internal power supply (shown by a column of yellow segments), and a built-in oxygen tank (shown as a horizontal blue or red bar). The Terrain Tool, which also has three slots that can be used for storage (or to attach modifications to the Terrain Tool), hangs from the side of the Backpack when not in use. The Backpack also contains the Research Catalog, which the player uses to unlock new crafting blueprints.
+==Plot==
+{{Unreferenced section|date=October 2023}}
+The game offers a more open-ended storyline that allows for creativity and self-paced progress, alongside optional tasks and missions that can result in lore and narrative via cutscenes and data logs.
+The player departs from a man-made interstellar spacecraft that is from an unknown planet and lands on Sylva, the starting planet. It is then up to the player to decide what to do. In order to advance the main storyline, the player must discover and activate an alien Gateway Chamber and dig into the planet. There are different subterranean layers with varying difficulty, most notably containing hazards and terrain that becomes harder as you dig deeper into the planet. Once the player reaches the last layer, they need to dig down from an alien pylon. They travel to the Gateway Engine and activate it with a material that progressively gets harder to obtain, depending on the difficulty of the planet. The player must obtain 2 Geometric Triptychs and place one on a terminal on top of them and one to keep when they reach the satellite. The player can safely warp to any Gateway Chamber that they have activated. This process is repeated for the rest of the planets and moons, Desolo, Calidor, Vesania, Novus, Glacio, and Atrox, listed from easiest to hardest. Once the player has procured all 8 Triptychs, they can travel to a Gateway Portal and place them in their respective slots. An Odd Stone will appear in the middle. Interacting with it will roll the end scene and credits.
+It is also noted that there are other storylines for fun events and updates that keep gameplay fresh for repeat players. These alternate storylines include The Wanderer's Way mission, The Space Snail rescue mission, The Rails Update mission chain, The Awakening Update mission chain, Holiday Events, and numerous Easter Eggs.
+If the player completes the main story, rails, and space snail missions, along with producing nanocarbon alloy, a resource in the game, they can access the Awakening Update missions. This mission includes references to the community, the other missions, and the book "[[The Little Prince]]", which is what some of the update themes are based on.
+==Development and release==
+The game came about after Adam Bromell showed his friend Paul Pepera a "personal art project" consisting of a space man. According to Bromell, the two "started kind of riffing on this, like is there a possibility of a game in here?" Eventually, Pepera contacted two of his friends and the four started System Era to develop the game. At first, they worked on the game only part-time, after about two years of development Bromell in an interview stated that they were about ready to commit to the project full time.
+The art style was partly inspired by a desire by Bromell to get away from something that looked like ''[[Minecraft]]'', stating "there are enough games that do that already." Instead, the team adopted an art style that consists of "curved geometric, sort of broad vibrant colors." Bromell notes that the "no-frills" art style served a practical purpose as well, as it let them quickly build new ideas into the game. Initially, the game used a more traditional [[Polygon (computer graphics)|high-polygonal]] style, however after participating in a diorama building contest concerned with the "low-poly" style, he changed his mind.
+''Astroneer'' was announced in October 2015 by System Era Softworks and is developed with the [[Unreal Engine 4]]. Co-founder and lead artist Paul Pepera died on March 27, 2017, 4 months after ''Astroneer'''s early access release, but before the official release of the game.
+''Astroneer'' was first released in [[early access]] for [[Steam (service)|Steam]], [[Windows]] and [[Xbox One]] on December 16, 2016, before it officially released on February 6, 2019.
+==Reception==
+{{Video game reviews
+| MC = (PC) 71/100 (Xbox One) 73/100
+(Nintendo Switch) 76/100
+| NLife = {{Rating|8|10}}
+| GSpot = 6/10
+| NWR = 8.5/10
+| USG = 4/5
+| SN = 8/10
+}}
+''Astroneer'' received "mixed or average reviews" from critics for Windows and Xbox One, and received "generally favorable reviews" for Nintendo Switch, according to review aggregator [[Metacritic]].
+''[[Shacknews]]'' gave the game an eight out of ten, praising the atmosphere, exploration, crafting, base building, setting, casual survival elements, cooperative play, and pleasing aesthetics, while criticizing some minor technical issues. ''[[USgamer]]'' said that the game was "on the soft side of the survival spectrum", ultimately concluding that "[...] Astroneer falters in not having more interesting things to find within each planet. In the end though, it's a lovely little game if you want to survive without all the pesky hunger and thirst you find in other games." ''[[GameSpot]]'' lauded the game's aesthetics, art direction, accessible survival mechanics, oxygen tethering mechanic, and wide open spaces, while similarly taking issue with cumbersome inventory management, lack of interesting things to do on each planet, and technical issues. ''[[Nintendo Life]]'' reviewed the [[Nintendo Switch|Switch]] port, praising the developer support, crafting, terrain tool, and how well the game suited the console, while calling out the choppy framerate, janky physics, and bad camera and controls.
+In March 2022, System Era Softworks reported that Astroneer had sold over 3,740,000 units and had been played by over 8 million players.
+===Awards===
+{| class="wikitable sortable"
+|-
+! Year !! Award !! Category !! Result !! Ref.
+|-
+| rowspan="6" style="text-align:center;" |2019
+| [[SXSW Gaming Awards]]
+| Gamer's Voice: Video Game
+| {{won}}
+| style="text-align:center;" |
+|-
+| rowspan="5" |[[2019 Webby Awards]]
+| Adventure Game
+| {{won}}
+| rowspan="5" style="text-align:center;" |
+|-
+| Best Art Direction (People's Voice)
+| {{won}}
+|-
+| Best Game Design (People's Voice)
+| {{won}}
+|-
+| Best User Experience
+| {{won}}
+|-
+| Best Visual Design (People's Voice)
+| {{won}}
+|-
+|2020
+| [[2020 Webby Awards]]
+| Independent Creator
+| {{won}}
+| style="text-align:center;" |
+|}
+==References==
+{{reflist|refs=
+}}
+==External links==
+* {{Official website|http://astroneer.space/}}
+[[Category:2019 video games]]
+[[Category:Adventure games set in space]]
+[[Category:Adventure games]]
+[[Category:Early access video games]]
+[[Category:Indie games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Switch games]]
+[[Category:Open-world video games]]
+[[Category:PlayStation 4 games]]
+[[Category:Science fiction video games]]
+[[Category:Simulation video games]]
+[[Category:Space flight simulator games]]
+[[Category:Unreal Engine games]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set in the 25th century]]
+[[Category:Video games set on fictional planets]]
+[[Category:Video games using procedural generation]]
+[[Category:Video games with cel-shaded animation]]
+[[Category:Video games with voxel graphics]]
+[[Category:Windows games]]
+[[Category:Xbox Cloud Gaming games]]
+[[Category:Xbox One games]]
+[[Category:Xbox One X enhanced games]]
+[[Category:Xbox Play Anywhere games]]

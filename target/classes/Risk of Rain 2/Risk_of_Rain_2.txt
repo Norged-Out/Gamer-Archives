@@ -1,0 +1,71 @@
+{{short description|2019 video game}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox video game
+| title = Risk of Rain 2
+| image = Risk of Rain 2.jpg
+| alt = A person in a spacesuit plays a guitar on top of an escape pod; the works "Risk of Rain 2" are written in a stylised font on the right side.
+| caption =
+| developer = Hopoo Games [[Gearbox Software]]
+| publisher = [[Gearbox Publishing]]
+| director =
+| producer = Dominic Laurenti
+| designer = {{ubl|Duncan Drummond|Jeffrey Hunt|Paul Morse}}
+| programmer =
+| artist = Duncan Drummond
+| writer = {{ubl|Duncan Drummond|Jeffrey Hunt}}
+| composer = Chris Christodoulou
+| series = ''[[Risk of Rain]]''
+| engine = [[Unity (game engine)|Unity]]
+| platforms = {{ubl|[[Microsoft Windows|Windows]]|[[Nintendo Switch]]|[[PlayStation 4]]|[[Xbox One]]|[[Google Stadia|Stadia]]}}
+| released = '''Windows, Switch, PS4, Xbox One''' August 11, 2020 '''Stadia''' September 29, 2020
+| genre = [[Roguelike]], [[third-person shooter]]
+| modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]]
+}}
+'''''Risk of Rain 2''''' is a [[roguelike]] [[third-person shooter]] developed by Hopoo Games and published by [[Gearbox Software|Gearbox Publishing]]. A sequel to 2013's ''[[Risk of Rain]]'', it was released in [[early access]] for [[Microsoft Windows]], [[Nintendo Switch]], [[PlayStation 4]], and [[Xbox One]] in 2019 before fully releasing in August 2020 with a release for [[Google Stadia|Stadia]] coming a month later.
+Players control a survivor who is stranded on an alien planet. To survive, they navigate through various environments, killing monsters and looting chests to collect items that boost their offensive and defensive capabilities. Over time, the game's difficulty increases, spawning more powerful and dangerous creatures. The game supports up to four players in [[online multiplayer]]. The game received generally positive reviews upon release.
+''Risk of Rain 2'' was fully acquired by [[Gearbox Software|Gearbox]] in 2022 which has continued development without the involvement of Hopoo.
+==Gameplay==
+{{see also|Risk of Rain#Gameplay}}
+''Risk of Rain 2'' is a [[Cooperative video game|cooperative]] [[Third-person shooter|third person shooter]] with [[roguelike]] elements. Players control a stranded survivor that must escape from a hostile alien planet. In the beginning of the game, players can choose between several survivors, each with a unique set of abilities which require different approaches to gameplay. Players must then progress through a series of levels; on each level, the goal is to kill alien enemies while locating a teleporter. Enemies defeated in combat award experience and currency. If enough experience is gained, the player will level up, increasing their damage dealt and maximum health. Currency can be used to open chests found throughout the level, which drop random items; they can also be used to activate turrets and drones which assist the player. Items collected from chests offer a wide range of buffs to the players carrying them and there are no limits to how many copies of an item one character can have, allowing their effects to stack.
+Once the teleporter on a level is located and activated, the players must defend themselves from a larger onslaught of aliens until the teleporter is fully charged, upon which the players advance to the next level. Currency cannot be carried between levels, as all currency is converted to experience before teleporting to the next level. As players progress, enemies will gradually level up, increasing their maximum health and damage; this happens passively over time and when players advance to another level. The difficulty of the game is dependent on the current duration, the number of levels completed, the number of players in the game, and the difficulty level—selected at the beginning of the game—which scales the rate at which enemies level up.
+There are several possible ways to end the game. When a survivor dies, the game ends; in a multiplayer session, it does not end until all survivors have died. A handful of [[Final boss (video games)|final boss]] fights exist; successfully defeating one of these bosses ends the game. There are secret levels—accessible upon meeting certain conditions—that allow players to end a game voluntarily without confronting a final boss. Players can also loop through the levels of the game indefinitely, allowing continued gameplay for as long as players can survive. Regardless of method, when the game ends, all currency, experience, and items are lost.
+In the [[metagame]], players can unlock access to new playable survivors, items, abilities, and game modifiers by completing certain in-game challenges; once unlocked, new survivors and modifiers become available to select from at the start of the game, and new items will start appearing randomly from in-game chests. Additionally, there is another currency that has a chance to drop from defeated aliens called Lunar Coins, which persists between games. These coins can be spent at a special vendor in the game, who sells special items and allows players to pick the next level.
+''Risk of Rain 2'' follows a similar approach to the first title, featuring several of the same playable characters, creatures, and items from the first game, but also adds new survivors and most notably transitions the game from 2D to a 3D environment.
+==Development==
+When starting development on the sequel, Hopoo began with a 2D-based prototype with the player in control of one of the monsters in the first game, as to mix up the formula for the sequel. Hopoo Games noted that the 3D option provided "much deeper design spaces and more possibilities for cool gameplay" as well as more ways to artistically express themselves. The sequel was first announced in May 2017, at which time the team had already been working on the game for 6 months.
+Hopoo released the game into [[early access]] on Windows on March 27, 2019; at that time they estimated that the full development process would take another year. During the early access period, Hopoo signed with [[Gearbox Publishing]] to release the game on [[Nintendo Switch]], [[PlayStation 4]], and [[Xbox One]]. An early access release was announced at [[PAX (event)|Pax West]] for those platforms on August 30 the same year. Its full release was initially scheduled for Q2 2020 but was delayed in order to expand the scope of its 1.0 update. A free content update titled the "Anniversary Update" was released on March 25, 2021. A paid expansion for the game called "Survivors of the Void" was released on March 1, 2022 for Windows, and the console versions of the expansion released on November 8, 2023, coinciding with both the tenth anniversary of ''Risk of Rain'' and the release of ''[[Risk of Rain#Release|Risk of Rain Returns]]''. A second paid content update for ''Risk of Rain 2'' was announced, called "Seekers of the Storm".
+In November 2022, Gearbox Entertainment acquired the ''Risk of Rain'' IP. Hopoo Games remains an independent studio. Hopoo now states that they are working on other games and projects.
+==Release==
+The game was released out of early access for [[Microsoft Windows]] on August 11, 2020 and for [[Google Stadia|Stadia]] on September 29 with a timed exclusive level known as Sundered Grove, which would later be added to all versions in patch 1.0.2.0. The [[Nintendo Switch]], [[PlayStation 4]], and [[Xbox One]] received the 1.0 update on October 20 the same year.
+==Reception==
+{{Video game reviews
+| MC = PC: 85/100
+| Destruct = 8.5/10
+| GameRev = {{Rating|5|5}}
+| GSpot = 8/10
+| IGN = 9/10
+| NLife = 8/10
+| PCGUS = 84/100
+| PSQ = 8/10
+}}
+On its launch into [[early access]], Hopoo Games offered ''Risk of Rain 2'' with a "buy one, get one free" promotion for the first few days. A week from release, Hopoo announced that over 650,000 players had played the game, with about 150,000 of those having taken advantage of the special promotion. Within a month of the game's early access release, it had sold over a million copies. By March 2021, the game had sold over four million units on the personal computer side alone, not accounting for console sales.
+=== Awards ===
+''Risk of Rain 2'' was nominated for awards following its release. At the 2021 SXSW Gaming Awards, the game was nominated for Indie Game of the Year and for Excellence in Multiplayer. At the Indie Live Expo II, the game was nominated for Best "Game Feel" Award.
+==References==
+{{reflist}}
+{{Gearbox Software}}
+[[Category:2020 video games]]
+[[Category:Early access video games]]
+[[Category:Gearbox Software games]]
+[[Category:Indie games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Nintendo Switch games]]
+[[Category:PlayStation 4 games]]
+[[Category:Roguelike video games]]
+[[Category:Science fiction video games]]
+[[Category:Third-person shooters]]
+[[Category:Video games developed in the United States]]
+[[Category:Video games set on fictional planets]]
+[[Category:Windows games]]
+[[Category:Xbox One games]]
+[[Category:Video game sequels]]
