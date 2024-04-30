@@ -174,6 +174,10 @@ public class PseudoWatson {
             // If the line is empty, then perform the query
             else {
                 runQuery(qr);
+                System.out.println("Query: " + qr.query);
+                System.out.println("Expected answer: " + qr.expectedAnswer);
+                qr.topAnswer();
+                System.out.println("\n----------------------------------\n");
                 if(!qr.topResults.isEmpty()){
                     //qr.topAnswer();
                     if(qr.exactMatch()){
@@ -190,10 +194,6 @@ public class PseudoWatson {
                     }
                     else{
                         //System.out.println("Incorrect!");
-                        System.out.println("Query: " + qr.query);
-                        System.out.println("Expected answer: " + qr.expectedAnswer);
-                        qr.topAnswer();
-                        System.out.println("----------------------------------");
                         incorrect++;
                     }
                 }
@@ -206,7 +206,7 @@ public class PseudoWatson {
                     break;
                 }
                 */
-                //Thread.sleep(100);
+                Thread.sleep(100);
             }
         }
         reader.close();
