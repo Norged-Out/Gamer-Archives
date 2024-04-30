@@ -1,0 +1,488 @@
+[[Tips for Civ 6 (Beginner’s guide)]]
+
+
+Tips for Civ 6 (Beginner’s guide)
+
+1) Settling a city: Make sure to settle next to a river/lake (Dark green highlited tiles); look at yields, a good city would have at least two tiles with 2 food + 2 production. It’s not a bad thing to restart the game because of a shitty location, that can sometimes happen.
+
+2) Start off with a scout or a slinger (2 if on high levels), as the main priority at the start of the game will be to defend your city and to explore your surroundings. Look for city-states and tribal villages, who can give you random rewards including relics which are extremely useful if you want to try for a religious victory as they can give you a pantheon earlier than other civs and drastically increase your faith (early game).
+
+3) The first research you will have to make depends on what potential improvements you have (if you have stone research mining, if you have cattle choose animal husbandry, etc...). If you have no tiles with animals or mining resources, choose pottery. Don’t choose sailing or astrology unless you have a boost for them.
+
+4) Look out for barbarian camps; barbarians will come after you if their scouts spot you and have time to return to their camp. The best way to take down the first barbarian is with a slinger so you will get the technology boost for archery.
+
+5) City states are incredibly useful, but only attack them if they are more useful to you as a city rather than an actual city-state. Try to send envoys to the ones that give you your required bonuses, dont send envoys to a city state you don’t need.
+
+6) Food = citizens = production = Anything you need to build. Always try and have high amounts of food but make sure it the amount of citizens don’t overwhelm you (eg. low amenities,  insufficient housing, etc...).
+
+7) Science and culture are very useful early game; however if you opt for a domination victory and capture cities quickly you will gain access to their districts that provide those yields meaning you could focus less on it.
+
+8) Even though it may not seem like it, religion is one of the most important aspects in the game. Pantheons and beliefs can give you incredible bonuses such as gold, science, food, yield bonuses, etc... If you want a domination victory, use the crusade belief which will give you +10 combat strength in your enemy’s territory if they follow your religion. Or if you are scared of being attacked, use defender of the faith which will give you +5 combat strength in your home cities that follow your religion.
+
+9) Pro civ players always change their policies according to what they need in-game. Try and change them as much as you can (if it benefits you). You can change policies after every new civic researched.
+
+10) Great people are incredibly important; they can be earned through great person points through specialty district buildings, wonders, and wildcard policy slot (not recommended). They can give you very powerful in game bonuses and you should try and have at least 2 before the medieval era. The least important ones are great artists + musicians, as they come in late game and don’t benefit you much unless you opt for a culture victory.
+
+11) (R&amp;amp;F) Governors give additional bonuses to your cities, the best ones are Pingala, Magnus, and Amani (look at their promotion branches and you’ll see).
+
+12) Try to expand as much as possible, to the point where you can control your cities. A good civilization would have from 6 to 9 cities (nice but fr). For higher levels 10 to 13 cities is a good amount)
+
+13) Some civs are worth more to you unharmed, building up alliances can be very beneficial, as they give bonuses to you, even if you go for a domination victory (joint wars). The best allies to have are Gilgamesh, Poundmaker, and Cleopatra as they give bonuses if you ally to them or trade with them.
+
+
+
+
+
+
+
+
+14) Wonders are not a priority, but are very helpful and can boost your progress towards your desired victory. There are two types of wonders: those that give you an immediate bonus, those that give you background bonuses (my recommendation), here are my top 10 wonders (in order of when you can build them):
+
+
+
+Oracle: Districts get +2 great person points (of their type) in their city + Purchasing great people with faith costs 25% less.
+
+Pyramids: Gives you a free builder + your builders get +1 charge.
+
+Mausoleum at Halicarnassus: +1 faith, culture, and science for every coastal tile in your city, Great Engineers receive +1 charge.
+
+Alhambra: Gives you an extra military policy slot.
+
+Venetian arsenal: For every naval unit you train (not buy), you get a duplicate.
+
+Forbidden city: Gives you an extra wildcard policy slot.
+
+Potala Palace: Gives you an extra diplomatic policy slot.
+
+Oxford university: +20% science in the city in which it is built + two free technologies.
+
+Big Ben: Doubles your treasury and gives you an extra economic policy slot (+50% of your treasury if GS).
+
+Broadway: Gives you +20% culture in the city in which it’s built and can include two Great Work slots (music).
+
+(For those who like to focus on city-states: Kilwa Kisiwani and Apadana might be the way to go:) 
+
+
+15) AI is especially vulnerable to powerful navies and aerial units. If you play on a continent/fractal map aim for a strong navy with a few aircraft carriers, on which you may transport 2 air units (I recommend 1 bomber + 1 jet fighter); bombers can target the city center, while the jet fighters clear the way for your land units.
+
+16) In higher levels, don’t underestimate AI. They can have low military strength but secretly have a lot of gold in their treasury or can build walls at any minute you attack them. If you are planning to declare war on a civ, prepare yourself and have at least two catapults and enough troops to surround their city. 
+
+I spent a lot of time on this i hope this is helpful to you guys :)
+
+(If you guys have any questions about the game feel free to ask!)
+
+
+Alot of good info in here, but a few things I would add/change
+
+> City states are incredibly useful, never attack them
+
+City states relevant to your win condition are very useful, but it is totally ok and beneficial to attack city states that would serve you better as a city in your empire then it would as a city state
+
+> Food = citizens = production = Anything you need to build. Always try and maximise the food if you can control it. 
+
+Production is the most important yield for a city, but I wouldn't put so much importance on the food aspect. In Civ 5 that statement was true, but because of housing in Civ 6 it no longer is. More low population cities are better than fewer high population cities. 
+
+> If you want a domination victory, use the crusade belief  
+
+This is doable on lower difficulties, but beyond king you are better off using your faith to buy more military units, rather than buying religious units to convert and then conquer mainly because it is harder to spread and harder to get a religion on higher difficulties. Also in general I think you put too much importance on actually having a religion. I would say having faith per turn is incredibly useful, but actually having a religion is not.
+
+> the best ones are Pingala, Reyna, and Amani 
+
+The best ones are actually Pingala, Magnus, and Liang. Certain governors are better in certain situations but overall those 3 are the best.
+
+> A good civilization would have from 6 to 9 cities  
+
+This is good enough for a starter player, but you want to get to the point where you are building 8-12 cities every game.
+
+> Wonders are not a priority, but are very helpful 
+
+I 100% agree with this statement, but the top 10 wonders you list are not ones I would list. The top 10 wonders heavily depend on the victory you are actually going for. A few problems I have with your list is that:
+
+1. Pyramids are missing from your list. This is number 2 on my list after Forbidden city in terms of all around useful wonders because of how much production this saves you in the long run.
+2. Venetian Arsenal is certainly the most fun wonder, but not actually useful 99% of the time
+3. Broadway is a good cultural wonder, but not as good as Bolshoi Theater which has the same placement requirement, is available earlier, and gives 2 free civics
+4. Scott-Amundsen is incredibly overrated because it is available too late and has a horrible placement requirement to make it worth it. Also the description is always misunderstood, the double yields only applies to cities with 5 snow tiles, not to every city if the city with the wonder has 5 snow tiles. So unless you are playing Russia you are not getting any use out of that bonus.
+5. Earlier you mentioned how important city states are and if that is the case then Kilwa Kisiwani should certainly be on your list.
+
+> have at least two catapults 
+
+Ranged siege units are useless until you get observation balloons, Swordsmen with a battering ram are infinitely more useful for early conquering.
+    Thank you very much for this feedback! I will edit what I wrote to include some of your suggestions, and maybe use some of your tips myself. However this is a beginners guide, and when I started out I found that controlling over 10 cities was very challenging, and ended up just pressing random buttons, that amount is what I think is good for beginners, as if they may be overwhelmed with all the insufficient amenities, food, housing, etc... As for the governors, I felt like Amani is very powerful because it can automatically make you a suzerain of a city state if you already have an envoy at it, which will improve your exploration and gives you unique bonuses early game giving you a massive advantage. And since this is for beginners, I do think they should still use crusade belief, although I use the pilgrimage belief to then get land units with faith as your main currency. Once again thank you so much for the constructive feedback!
+        I think there are some good information here, but i agree more with   u/lpezlaheavy715 Also when it comes to wonders you missed the best one that is not often contested on higher difficulty, and proberly never contested on lower difficulties and that is temple of artemis, the +4food and 3 housing make this wonder just amazing. The extra +1 ammenity for pasture,camp or plantations is just a bonus, the +4 food and 3 housing make this wonder the best wonder in the game and the low cost for it makes allways worth it if you have a camp.
+    I think Amundsen-Scott is pretty good. In Rise and Fall I would have 100% agreed  it was too late, but Gathering Storm's Tech tree is much longer. 20% science in all cities is pretty big; you don't need the snow bonus to really take advantage of the double bonus. Building it isn't really a big deal late game since all you need to do is find a forested/deer tundra spot that has some snow at the end to chop. Maybe you have a GE left over, etc.
+
+I guess it's not a top wonder, but it's still quite good when possible.
+        I guess for beginners its better because there is the time to use it, but in my games I'm already working on the last space project by the time the wonder unlocks so there is no reason for it at that point.
+            So you never reach Globalization/ISA in your games? 
+
+I suppose it makes more sense that it works better in cultural heavy games and not science ones. Some of the science wonders are paradoxically better in Culture games.
+
+And I guess diplo victories because they are slow, but yea.... not really a thing most of the time.
+                Well for example in my last game here:  [https://www.twitch.tv/videos/529041489](https://www.twitch.tv/videos/529041489) by the time I was researching Rapid deployment I had already launched everything but the exoplanet expedition and by the time you unlock it and then take the time to build it the game is already practically over and I am getting all the science I need from campus projects so there is rarely time where I find it helpful.
+                    [deleted]
+                        I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+                            Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+                                It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+        Yeah maybe if you have a spare city to place next to snow tiles late game, as then you won’t have to worry too much about where to settle because of builder improvements, but it would take a while to build everything. The best thing to do if you want to build that wonder is to settle your city on tundra next to snow that has woods and preferably strategic resources (oil and uranium are pretty common in snow/tundra).
+    >Ranged siege units are useless until you get observation balloons, Swordsmen with a battering ram are infinitely more useful for early conquering.
+
+Is siege tower worth it? Also I've noticed that AI tends to prioritize ranged units over melee units sieging the city, so it might be worth to bring them in just to draw the fire away.
+        The siege tower is just an upgrade to a battering ram so yes its worth it. If you mean bringing catapults just so the city shoots them then no, don't do that. If you want units to soak up shots then just build more swordsmen, they are less expensive, earlier in the tech tree, and can absorb more hits.
+    On the point of food, maybe its better to say food is the most important resource to a recently founded city, since you need to get it to be able to work enough tiles to be useful and place a couple of districts. 
+
+Production overtakes food in importance probably at around pop 4 or 5.
+        This.  Plus, it is important to note that you don't want to overproduce food.  You will be penalized for it and would be better off manually allocating more production.
+    [deleted]
+        Absolutely I didnt want to go overboard with it but my personal wonder list does include the Colosseum in the top 10
+    Can you make a mid-end game guide? I do really well at the beginning, but somewhere around mid-late game i start struggling. Maybe its because there is so much going on I lose sight of what I am trying to accomplish. Most of the guides available are only to beginners.
+        So the tricky thing with mid end game guide is it is more specific to the win condition you are trying to achieve. There are guides out there for the win conditions but with how important and generic the early game is for any play through people tend to talk about that more. That being said I will try to cover the late game basics for all the win conditions. So early game ends after you have established your empire and are done settling your 8 cities or so and that is when you need to really focus on one win condition and everything you do after that point should be in pursuit of that goal. Science is the easiest because you just want to maximize science and production which means a campus in every city and prioritizing techs/civics that will get your more science. Culture is somewhat similar but you prioritize theater squares and faith. You don’t necessarily need a religion (although having one helps) but faith for naturalists and rock bands in the late game are super important for culture victories. Diplo is a bit different because you want to be more well rounded between science and culture for late game techs/civics that get you diplo points and wonders. The diplo wonders are probably the most important part of a diplo win (with suzing city states close behind) so you need to prioritize unlocking and building them as fast as possible. Domination is pretty straight forward you prioritize science production and money which is just everything you need to build as big and strong of any army as you can. Finally faith is even simpler late game because faith victories are only really about the early game and late game all you do is maximize your faith and just pump out as many religious units as you can. That’s about as simple as I can put late game there is certainly more nuance to that depending on what civ you are actually playing but the biggest thing for late game is really just to keep asking yourself will this decision support my win condition? It is easy to just build things in the late game just because you can or research certain techs just because they are quicker but you should always be focusing on what is actually going to make you win.
+            Thanks man I really appreciate the feedback. Sorry it took me so long to respond, I actually won my first game via science shortly before you wrote this. I’m starting to get the hang of the end game, I’ve been rocking with  seondeok lately (even though it’s kinda OP)
+Thanks for the guide. A few notes.
+
+* The water advice is good, though I'd like to mention that this is more of an early game thing. Past that, it is easy to make up for the lack of housing by gathering food or chopping jungle. One can also quickly buy a granary or chop an aqueduct. But I suppose for beginners it's a good rule of thumb.
+
+In the event of an extremely shitty location, instead of immediately restarting I would suggest gambling and moving the settler a fair bit of distance. You may also get lucky with a relic and that will change the game around if you get religious settlements. If it goes south you can just restart. 
+
+* In the case of no good choices, I would research Animal Husbandry anyways to reveal horses and also serve as progress to archery. 
+
+* I wouldn't suggest to never attack City States, but I suppose I rarely do. Sometimes your enemy has a CS that you can't take from them and will be a thorn in your side though. I suppose even in those cases you can use a spy to reduce their envoys.
+
+* I disagree that religion is one of the more important things to go for. Faith is another story though.
+
+* Oracle is a good wonder but it requires setup; for example if you don't have faith or dedicate that city to Great People, it's not that strong. Colosseum is easy amenities and culture while Kilwa is very strong if you have city states. 
+
+* That's a point that's rarely brought up. They can indeed pull units out of nowhere.
+    Thanks for your feedback! I tried to get my first 10 points to be in order, and the water tip was for settling your first city. And if you move too much you can get screwed by AI as they are already further ahead than you in everything, and wasting turns makes them ahead of you even more; I would say move your settler a maximum of 3 turns. As for animal husbandry revealing horses, I kept that in mind but still chose pottery because horses have to be revealed only in GS. About attacking city states that’s a very good point, although I usually try to become suzerain of all my neighboring city states. Religion is very important to me because of its background bonuses that can sometimes literally save you, and you don’t have to focus too much on it. I agree with kilwa, and edited it Bc of its strength with city states, as for coliseum, it takes far more time to set up and an entertainment complex with an arena early game is not necessary; it’s a waste of production and district space (population limit), not to mention after all that there are still risks that AI built it before you. But thank you very much, will make some changes.
+Thanks for the tips, as a returning player that already spent 150+ hrs before always learn something new. What would be your tips for the tile gap between settling cities?
+    Well tbh it’s more about where is the ideal place to settle that city, not if it’s too far away or too close. I think maybe 5 tiles minimum early game, Bc if I do less then I’dont have space for districts in the future Bc my city expanded. But usually when I settle a city I’m more worried about inner ring yields and whether or not I will get good adjacency bonuses or additional benefits from it.
+I've played civ 5 casually on king/emperor and generally knew what to build/do but with 6 I'm completely lost on districts. Should I aim to build most districts in most cities? Does it depend on what victory I'm going for or should basically every city at least have a campus, no matter the adjacency? I'm guessing industrial zone is also super important to have in all cities?
+Also, should I kinda rush at least one faith district so I can get a pantheon quickly?
+I'm still very confused on 6, only played a couple of hours so far.
+    This always depends on your Civ and your victory goal. But a few general points: 
+
+- You can win a science victory with less campus districts than you would think. A few well placed campuses in high population cities with the right policy cards and Pingala as governor can get you a huge amount of science. 
+
+- The one district I build in nearly every city is either a harbour or a commercial district. This is for 2 main reasons:
+
+1. They have very easy adjacency bonuses that give you at least 2 gold (commercial districts next to rivers give +2 gold, harbours next to city centers and/or resources give gold) 
+
+2. If you build either a market or a lighthouse in a city, you get a trade route capacity. Trade routes are fantastic for all victory types. If you trade to your own cities you get food and production to help build them up. You can use that to grow new cities quickly or boost production in cities you are focusing on something important (eg a wonder). If you trade internationally you can get science and culture, build roads to civilizations you want to attack, get envoys with city states and bring in that sweet gold to buy units/buildings/builders/great people. Trade routes are your best friend in games.
+    Ok so civ 6 has some drastic changes in contrast to civ 5, you can also use “new to civilization 6” in settings to help with the transition. As for districts, it really depends on what you need in general; dont get districts for the sake of getting districts. Campuses are very useful and are very easy to get a high adjacency bonus (from mountains, districts, government plazas, and rainforests). Industrial zones are NOT needed in all cities, as they have buildings that can extend their bonuses to other cities. Only build industrial zones where you need production the most but make sure they are close to other cities. The only reason you should get industrial zones in all cities is if you prioritize obtaining Great Engineers. And focusing on faith early game will pay off in the long run, but just one holy site district with a shrine in early game is enough for a Great Prophet. I hope your transition will go well, feel free to ask any extra questions.
+I am new to the franchise and bought the game yesterday, information like that is invaluable for me.  
+Thank you for taking the time to write this, it is beyond useful to me.  
+This game is amazing.
+    And its reactions like that that made me do this, thank you :)
+Does it make difference in which tile I settle in? Like I'm not talking about water/river and adjacent tiles,I'm talking about the food/production in the tile
+    I heard plains hills is the goal. but I'm new to the game
+        I'm not that new in the game, but I still don't know in which tile should I settle in first. :/
+            Look for a ring yield that has a good balance of food and production, but not one that has too much production and not enough food, or vice versa. 
+
+To understand better where you want to settle you should turn on yield icons (“y” button).
+        Well yes, but actually no: 
+(First, start off by turning on yield icons by pressing “y”, it helps you understand better what the tiles give you).
+
+Plains hills give you 1 food and 2 production. 
+
+If you get a plains hills tile with a bonus resource like cattle, it becomes 2 food and 2 production. Improve that and your tile is now 2 food and 3 production.
+
+Another thing to remember is that on your plains hills tiles can be terrain features such as wood (+1 production to initial tile) and rainforests (+1 food to initial tile) improving your tiles and their defense modifier (how much additional defense strength you get from being on that tile). Unfortunately woods and rainforests add to movement cost.
+
+What i would suggest is to settle in a ring yield that has at least two tiles with +2 food +2 production (or more), OR settle in a ring yield that has one tile 
+with 3 food and 1 production (e.g. flatland plains with wheat) and one tile with 3 production and 1 food (plains hills forest). 
+
+I know this is very confusing at the start but the more you play the more you’ll get the hang of it.
+            cattle cannot spawn on plains, hills, or plains hills
+                My bad, meant sheep.
+    It depends on what the tile has on it, if its a tile with terrain only, no. If it’s a luxury resource or a strategic resource, you’ll keep the same yields; if its on woods, rainforests, etc... the yields will most likely be lowered, although idk if its a glitch but i sometimes get the bonuses from settling on woods or rainforest anyway. If you settle on a luxury/strategic resource you’ll keep the yields and receive amenities/resources but bear in mind that they are a good opportunity to earn eurekas in the game.
+        If I remember correctly, all features (forest, rainforest, marsh, etc.) as well as all bonus resources will be removed from the tile when you settle your city. Luxury resources and strategic resources will stay and provide you with both the resource and yield.
+            Depends, sometimes your city can keep the yields when you settle on woods/rainforest, idk if its a glitch or intentional but i played civ 6 on Mac (App Store), Windows (Steam), and IOS (App Store) and this “glitch” happened on all platforms.
+                Settling on a regular plains hill tile will give you 2 food, 2 production. Settling on any other regular tile will give you 2 food, 1 production. It makes no difference if there are woods/rainforest on the tile or not.
+    If you settle on a tile that has a luxury resource, your city will automatically get that gold yield every turn.
+         Nnooo nonnnoo ono o.  I no. On. I n I no  n noon I nononono I  i i
+There's the other city wonder that gives you 100%  plus diplomatic points. If you have it and you're the suseran of 5-8 city states, you can get like 15-20 diplomatic points per turn. That's a lot of power.
+    Yeah, i usually end up getting +30 diplomatic favor per turn with Orszaghaz, although i didn’t include because it was a wonder included in the GS update, so i kinda wanted to be fair here, but definitely an amazing wonder!
+        Haha! No problem! Actually I loved the guide. Thanks for that!
+            Thanks, means a lot!
+[deleted]
+    Glad it was helpful :)
+9) Do you mean that it's worth the cost to unlock policies to change them? Or changing them as needed when they unlock at each new civic?
+
+
+10) In my current game, I've had great general/admiral in my wildcard every turn. What would a better use be?
+    9) Don’t buy the opportunity to change policies, wait until your civic is finished. Don’t feel pressured to change policies, just use them as needed. Most people ignore policies and often forget them, not changing them for a while. They can be so useful if used properly 
+
+Example: You want to produce a builder and you just unlocked a civic: +50% production towards builders. Now instead of 9 turns, your builder will be done in 6!
+		   You then decide to build some walls to protect your city, you start producing ancient walls then once your civics are finished: +100% production towards 		   defensive buildings, and now instead of 10 turns, it will take 5... You get the idea.
+
+10) Don’t use wildcards for Great People unless you need them urgently, you can get Great Person points from districts (+their buildings) and wonders. Personally, the only time I use these wildcards are for Great Prophets and Great Scientists. But i seriously advise you to use wildcard policy slots for other kind of policies (Millitaristic, Economic, Diplomatic) as they are much more useful.
+    you generally can't go wrong with GS. i like to skip GSes in favor of +1 science to libraries and bonus healing dude
+        Yeah the healing one is really op, also the one that unlocks oil before the technology requirement is really cool.
+    There's an exploit you can use to change policies next turn without paying gold. Just open the civics tree and click fast about 10 times on any older civic you've previously unlocked. Next turn you'll be able to change policies for free.
+Actually helped a bit. I've wanted to get into Civ 6 bc the only one I ever played was Civ Rev. I just haven't had the time but since I got it on console I'll be playing more. Thank you
+    Glad to help!
+> 3) The first research you will have to make depends on what potential improvements you have (if you have stone research mining, if you have cattle choose animal husbandry, etc...). If you have no tiles with animals or mining resources, choose pottery. Don’t choose sailing or astrology unless you have a boost for them.
+
+Since GS was released, horses are only visible once you unlock animal husbandry. Horse tiles are pretty good in the early game, and horses help your army or economy (if you have friendly neighbors you can sell them to). I think that's a pretty good reason  to research animal husbandry very early.
+
+> 16) In higher levels, don’t underestimate AI. They can have low military strength but secretly have a lot of gold in their treasury
+
+In my opinion the most useful beginner tip: Turn on the option to "show yields in HUD ribbon" (or something like that). That way you'll always see how strong your neighbors are in different aspects of the game. You can see who gets the most science, you can see how much gold everyone has and their military strength. Always check those stats and be prepared for everything - this is the number one option I'm missing when I play on my switch.
+    If you unlock animal husbandry in GS, it becomes a guessing game to get a strategic resource, it’s ok to discover it as your second technology, but the chances you get horses are 50/50. Plus its only available on GS, and i doubt all beginners just bought GS immediately, but good point.
+
+For “show yields” i find it kinda ruining the fun of the game to find out what your opponents have at all times, if you go along with this logic you might as well /revealall.
+        > If you unlock animal husbandry in GS, it becomes a guessing game to get a strategic resource, it’s ok to discover it as your second technology, but the chances you get horses are 50/50. Plus its only available on GS, and i doubt all beginners just bought GS immediately, but good point.
+
+It definitely doesn't *have* to be the first thing you research, but I highly recommend to have it finished by the time your first settler is completed, so you can decide where to settle.
+
+> For “show yields” i find it kinda ruining the fun of the game to find out what your opponents have at all times, if you go along with this logic you might as well /revealall.
+
+One is using the information the game presents you anyway, the other is cheating. How is that even remotely comparable?
+            They don’t present it automatically, its a good thing for those who play in immortal or deity, but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+                Yes it's presented automatically. You can just go to the ranking screen and you can see everyones science/culture/faith per round and military strength, you can go to the trade screen and see their gold and income. The hud ribbon option just makes it easier to see, ie. you don't have to go to those menus every time you want to see it. 
+
+> but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+
+What does that have to do with enjoying the game? Sure, you can also play StarCraft and not use the minimap because it takes the fun out of it - knowing what's going on in all parts of the map is what makes the game fun.
+
+Intentionally crippling yourself doesn't sound fun to me - if the game tells me the military strength of my neighbors, I'm going to use that information. How else are you going to find out anything about your neighbors after they close their borders to you? Again, this is not a mod or some config you have to write, it's all in the base game and available to everyone.
+                    So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+                        Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+Cool guide.  Im on my 4th or 5th game.  Learning as I go and finally looking to win my current one.  How often and when should I be clearing tiles?   I almost never do and better explain the benefits if possible.  Thank you
+    Ideally you should clear a tile if you are planning to place a district on it, clearing tiles can give you food/production/gold. Or if you need to finish this wonder before anyone else you can clear woods tiles to get some production towards it. But then that would mean giving up temporary yields for a one time boost. I think it’s not a good trade off and i also almost never clear tiles.
+ 
+
+I generally attack all city states or use them as a buffer against other aggressive civs and fuck Poundmaker.
+    Well I’m not taking about just domination victory here, and neglecting city states is rlly stupid. Some of their unique bonuses are insane
+        Yeah I usually don't like them just because your enemy can thrall them and then you have a 2 border war, and if you swallow them up (surround/engulf) as I seem to do they end up inside your empire and it turns into a pillage fest.  And I do plenty of conquering in most victories.
+Great guide! Also maybe worth adding something about trade routes? The biggest improvement I made in my games recently was to give more attention to them. There is really no victory condition when having a lot of trade routes isn't really helpful.
+    Thanks, will do!
+I have heard that when/if your cities eventually grow past 3 tiles from their center, even if you use a builder to harvest a resource in the 4+ tiles, you won't actually get the resource. Is that true? 
+
+I have had some cities over 6 tiles from each other and not bothered closing the gap with another city to get resource tiles in that space because I assumed once they expand on their own and I can use a builder on it, I would then be collecting on that resource tile. Have I been screwing it up?
+Thank you very much for this feedback! I will edit what I wrote to include some of your suggestions, and maybe use some of your tips myself. However this is a beginners guide, and when I started out I found that controlling over 10 cities was very challenging, and ended up just pressing random buttons, that amount is what I think is good for beginners, as if they may be overwhelmed with all the insufficient amenities, food, housing, etc... As for the governors, I felt like Amani is very powerful because it can automatically make you a suzerain of a city state if you already have an envoy at it, which will improve your exploration and gives you unique bonuses early game giving you a massive advantage. And since this is for beginners, I do think they should still use crusade belief, although I use the pilgrimage belief to then get land units with faith as your main currency. Once again thank you so much for the constructive feedback!
+    I think there are some good information here, but i agree more with   u/lpezlaheavy715 Also when it comes to wonders you missed the best one that is not often contested on higher difficulty, and proberly never contested on lower difficulties and that is temple of artemis, the +4food and 3 housing make this wonder just amazing. The extra +1 ammenity for pasture,camp or plantations is just a bonus, the +4 food and 3 housing make this wonder the best wonder in the game and the low cost for it makes allways worth it if you have a camp.
+I think Amundsen-Scott is pretty good. In Rise and Fall I would have 100% agreed  it was too late, but Gathering Storm's Tech tree is much longer. 20% science in all cities is pretty big; you don't need the snow bonus to really take advantage of the double bonus. Building it isn't really a big deal late game since all you need to do is find a forested/deer tundra spot that has some snow at the end to chop. Maybe you have a GE left over, etc.
+
+I guess it's not a top wonder, but it's still quite good when possible.
+    I guess for beginners its better because there is the time to use it, but in my games I'm already working on the last space project by the time the wonder unlocks so there is no reason for it at that point.
+        So you never reach Globalization/ISA in your games? 
+
+I suppose it makes more sense that it works better in cultural heavy games and not science ones. Some of the science wonders are paradoxically better in Culture games.
+
+And I guess diplo victories because they are slow, but yea.... not really a thing most of the time.
+            Well for example in my last game here:  [https://www.twitch.tv/videos/529041489](https://www.twitch.tv/videos/529041489) by the time I was researching Rapid deployment I had already launched everything but the exoplanet expedition and by the time you unlock it and then take the time to build it the game is already practically over and I am getting all the science I need from campus projects so there is rarely time where I find it helpful.
+                [deleted]
+                    I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+                        Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+                            It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+    Yeah maybe if you have a spare city to place next to snow tiles late game, as then you won’t have to worry too much about where to settle because of builder improvements, but it would take a while to build everything. The best thing to do if you want to build that wonder is to settle your city on tundra next to snow that has woods and preferably strategic resources (oil and uranium are pretty common in snow/tundra).
+>Ranged siege units are useless until you get observation balloons, Swordsmen with a battering ram are infinitely more useful for early conquering.
+
+Is siege tower worth it? Also I've noticed that AI tends to prioritize ranged units over melee units sieging the city, so it might be worth to bring them in just to draw the fire away.
+    The siege tower is just an upgrade to a battering ram so yes its worth it. If you mean bringing catapults just so the city shoots them then no, don't do that. If you want units to soak up shots then just build more swordsmen, they are less expensive, earlier in the tech tree, and can absorb more hits.
+On the point of food, maybe its better to say food is the most important resource to a recently founded city, since you need to get it to be able to work enough tiles to be useful and place a couple of districts. 
+
+Production overtakes food in importance probably at around pop 4 or 5.
+    This.  Plus, it is important to note that you don't want to overproduce food.  You will be penalized for it and would be better off manually allocating more production.
+[deleted]
+    Absolutely I didnt want to go overboard with it but my personal wonder list does include the Colosseum in the top 10
+Can you make a mid-end game guide? I do really well at the beginning, but somewhere around mid-late game i start struggling. Maybe its because there is so much going on I lose sight of what I am trying to accomplish. Most of the guides available are only to beginners.
+    So the tricky thing with mid end game guide is it is more specific to the win condition you are trying to achieve. There are guides out there for the win conditions but with how important and generic the early game is for any play through people tend to talk about that more. That being said I will try to cover the late game basics for all the win conditions. So early game ends after you have established your empire and are done settling your 8 cities or so and that is when you need to really focus on one win condition and everything you do after that point should be in pursuit of that goal. Science is the easiest because you just want to maximize science and production which means a campus in every city and prioritizing techs/civics that will get your more science. Culture is somewhat similar but you prioritize theater squares and faith. You don’t necessarily need a religion (although having one helps) but faith for naturalists and rock bands in the late game are super important for culture victories. Diplo is a bit different because you want to be more well rounded between science and culture for late game techs/civics that get you diplo points and wonders. The diplo wonders are probably the most important part of a diplo win (with suzing city states close behind) so you need to prioritize unlocking and building them as fast as possible. Domination is pretty straight forward you prioritize science production and money which is just everything you need to build as big and strong of any army as you can. Finally faith is even simpler late game because faith victories are only really about the early game and late game all you do is maximize your faith and just pump out as many religious units as you can. That’s about as simple as I can put late game there is certainly more nuance to that depending on what civ you are actually playing but the biggest thing for late game is really just to keep asking yourself will this decision support my win condition? It is easy to just build things in the late game just because you can or research certain techs just because they are quicker but you should always be focusing on what is actually going to make you win.
+        Thanks man I really appreciate the feedback. Sorry it took me so long to respond, I actually won my first game via science shortly before you wrote this. I’m starting to get the hang of the end game, I’ve been rocking with  seondeok lately (even though it’s kinda OP)
+Thanks for your feedback! I tried to get my first 10 points to be in order, and the water tip was for settling your first city. And if you move too much you can get screwed by AI as they are already further ahead than you in everything, and wasting turns makes them ahead of you even more; I would say move your settler a maximum of 3 turns. As for animal husbandry revealing horses, I kept that in mind but still chose pottery because horses have to be revealed only in GS. About attacking city states that’s a very good point, although I usually try to become suzerain of all my neighboring city states. Religion is very important to me because of its background bonuses that can sometimes literally save you, and you don’t have to focus too much on it. I agree with kilwa, and edited it Bc of its strength with city states, as for coliseum, it takes far more time to set up and an entertainment complex with an arena early game is not necessary; it’s a waste of production and district space (population limit), not to mention after all that there are still risks that AI built it before you. But thank you very much, will make some changes.
+Well tbh it’s more about where is the ideal place to settle that city, not if it’s too far away or too close. I think maybe 5 tiles minimum early game, Bc if I do less then I’dont have space for districts in the future Bc my city expanded. But usually when I settle a city I’m more worried about inner ring yields and whether or not I will get good adjacency bonuses or additional benefits from it.
+This always depends on your Civ and your victory goal. But a few general points: 
+
+- You can win a science victory with less campus districts than you would think. A few well placed campuses in high population cities with the right policy cards and Pingala as governor can get you a huge amount of science. 
+
+- The one district I build in nearly every city is either a harbour or a commercial district. This is for 2 main reasons:
+
+1. They have very easy adjacency bonuses that give you at least 2 gold (commercial districts next to rivers give +2 gold, harbours next to city centers and/or resources give gold) 
+
+2. If you build either a market or a lighthouse in a city, you get a trade route capacity. Trade routes are fantastic for all victory types. If you trade to your own cities you get food and production to help build them up. You can use that to grow new cities quickly or boost production in cities you are focusing on something important (eg a wonder). If you trade internationally you can get science and culture, build roads to civilizations you want to attack, get envoys with city states and bring in that sweet gold to buy units/buildings/builders/great people. Trade routes are your best friend in games.
+Ok so civ 6 has some drastic changes in contrast to civ 5, you can also use “new to civilization 6” in settings to help with the transition. As for districts, it really depends on what you need in general; dont get districts for the sake of getting districts. Campuses are very useful and are very easy to get a high adjacency bonus (from mountains, districts, government plazas, and rainforests). Industrial zones are NOT needed in all cities, as they have buildings that can extend their bonuses to other cities. Only build industrial zones where you need production the most but make sure they are close to other cities. The only reason you should get industrial zones in all cities is if you prioritize obtaining Great Engineers. And focusing on faith early game will pay off in the long run, but just one holy site district with a shrine in early game is enough for a Great Prophet. I hope your transition will go well, feel free to ask any extra questions.
+And its reactions like that that made me do this, thank you :)
+I heard plains hills is the goal. but I'm new to the game
+    I'm not that new in the game, but I still don't know in which tile should I settle in first. :/
+        Look for a ring yield that has a good balance of food and production, but not one that has too much production and not enough food, or vice versa. 
+
+To understand better where you want to settle you should turn on yield icons (“y” button).
+    Well yes, but actually no: 
+(First, start off by turning on yield icons by pressing “y”, it helps you understand better what the tiles give you).
+
+Plains hills give you 1 food and 2 production. 
+
+If you get a plains hills tile with a bonus resource like cattle, it becomes 2 food and 2 production. Improve that and your tile is now 2 food and 3 production.
+
+Another thing to remember is that on your plains hills tiles can be terrain features such as wood (+1 production to initial tile) and rainforests (+1 food to initial tile) improving your tiles and their defense modifier (how much additional defense strength you get from being on that tile). Unfortunately woods and rainforests add to movement cost.
+
+What i would suggest is to settle in a ring yield that has at least two tiles with +2 food +2 production (or more), OR settle in a ring yield that has one tile 
+with 3 food and 1 production (e.g. flatland plains with wheat) and one tile with 3 production and 1 food (plains hills forest). 
+
+I know this is very confusing at the start but the more you play the more you’ll get the hang of it.
+        cattle cannot spawn on plains, hills, or plains hills
+            My bad, meant sheep.
+It depends on what the tile has on it, if its a tile with terrain only, no. If it’s a luxury resource or a strategic resource, you’ll keep the same yields; if its on woods, rainforests, etc... the yields will most likely be lowered, although idk if its a glitch but i sometimes get the bonuses from settling on woods or rainforest anyway. If you settle on a luxury/strategic resource you’ll keep the yields and receive amenities/resources but bear in mind that they are a good opportunity to earn eurekas in the game.
+    If I remember correctly, all features (forest, rainforest, marsh, etc.) as well as all bonus resources will be removed from the tile when you settle your city. Luxury resources and strategic resources will stay and provide you with both the resource and yield.
+        Depends, sometimes your city can keep the yields when you settle on woods/rainforest, idk if its a glitch or intentional but i played civ 6 on Mac (App Store), Windows (Steam), and IOS (App Store) and this “glitch” happened on all platforms.
+            Settling on a regular plains hill tile will give you 2 food, 2 production. Settling on any other regular tile will give you 2 food, 1 production. It makes no difference if there are woods/rainforest on the tile or not.
+If you settle on a tile that has a luxury resource, your city will automatically get that gold yield every turn.
+     Nnooo nonnnoo ono o.  I no. On. I n I no  n noon I nononono I  i i
+Yeah, i usually end up getting +30 diplomatic favor per turn with Orszaghaz, although i didn’t include because it was a wonder included in the GS update, so i kinda wanted to be fair here, but definitely an amazing wonder!
+    Haha! No problem! Actually I loved the guide. Thanks for that!
+        Thanks, means a lot!
+Glad it was helpful :)
+9) Don’t buy the opportunity to change policies, wait until your civic is finished. Don’t feel pressured to change policies, just use them as needed. Most people ignore policies and often forget them, not changing them for a while. They can be so useful if used properly 
+
+Example: You want to produce a builder and you just unlocked a civic: +50% production towards builders. Now instead of 9 turns, your builder will be done in 6!
+		   You then decide to build some walls to protect your city, you start producing ancient walls then once your civics are finished: +100% production towards 		   defensive buildings, and now instead of 10 turns, it will take 5... You get the idea.
+
+10) Don’t use wildcards for Great People unless you need them urgently, you can get Great Person points from districts (+their buildings) and wonders. Personally, the only time I use these wildcards are for Great Prophets and Great Scientists. But i seriously advise you to use wildcard policy slots for other kind of policies (Millitaristic, Economic, Diplomatic) as they are much more useful.
+you generally can't go wrong with GS. i like to skip GSes in favor of +1 science to libraries and bonus healing dude
+    Yeah the healing one is really op, also the one that unlocks oil before the technology requirement is really cool.
+There's an exploit you can use to change policies next turn without paying gold. Just open the civics tree and click fast about 10 times on any older civic you've previously unlocked. Next turn you'll be able to change policies for free.
+Glad to help!
+If you unlock animal husbandry in GS, it becomes a guessing game to get a strategic resource, it’s ok to discover it as your second technology, but the chances you get horses are 50/50. Plus its only available on GS, and i doubt all beginners just bought GS immediately, but good point.
+
+For “show yields” i find it kinda ruining the fun of the game to find out what your opponents have at all times, if you go along with this logic you might as well /revealall.
+    > If you unlock animal husbandry in GS, it becomes a guessing game to get a strategic resource, it’s ok to discover it as your second technology, but the chances you get horses are 50/50. Plus its only available on GS, and i doubt all beginners just bought GS immediately, but good point.
+
+It definitely doesn't *have* to be the first thing you research, but I highly recommend to have it finished by the time your first settler is completed, so you can decide where to settle.
+
+> For “show yields” i find it kinda ruining the fun of the game to find out what your opponents have at all times, if you go along with this logic you might as well /revealall.
+
+One is using the information the game presents you anyway, the other is cheating. How is that even remotely comparable?
+        They don’t present it automatically, its a good thing for those who play in immortal or deity, but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+            Yes it's presented automatically. You can just go to the ranking screen and you can see everyones science/culture/faith per round and military strength, you can go to the trade screen and see their gold and income. The hud ribbon option just makes it easier to see, ie. you don't have to go to those menus every time you want to see it. 
+
+> but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+
+What does that have to do with enjoying the game? Sure, you can also play StarCraft and not use the minimap because it takes the fun out of it - knowing what's going on in all parts of the map is what makes the game fun.
+
+Intentionally crippling yourself doesn't sound fun to me - if the game tells me the military strength of my neighbors, I'm going to use that information. How else are you going to find out anything about your neighbors after they close their borders to you? Again, this is not a mod or some config you have to write, it's all in the base game and available to everyone.
+                So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+                    Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+Ideally you should clear a tile if you are planning to place a district on it, clearing tiles can give you food/production/gold. Or if you need to finish this wonder before anyone else you can clear woods tiles to get some production towards it. But then that would mean giving up temporary yields for a one time boost. I think it’s not a good trade off and i also almost never clear tiles.
+Well I’m not taking about just domination victory here, and neglecting city states is rlly stupid. Some of their unique bonuses are insane
+    Yeah I usually don't like them just because your enemy can thrall them and then you have a 2 border war, and if you swallow them up (surround/engulf) as I seem to do they end up inside your empire and it turns into a pillage fest.  And I do plenty of conquering in most victories.
+Thanks, will do!
+I think there are some good information here, but i agree more with   u/lpezlaheavy715 Also when it comes to wonders you missed the best one that is not often contested on higher difficulty, and proberly never contested on lower difficulties and that is temple of artemis, the +4food and 3 housing make this wonder just amazing. The extra +1 ammenity for pasture,camp or plantations is just a bonus, the +4 food and 3 housing make this wonder the best wonder in the game and the low cost for it makes allways worth it if you have a camp.
+I guess for beginners its better because there is the time to use it, but in my games I'm already working on the last space project by the time the wonder unlocks so there is no reason for it at that point.
+    So you never reach Globalization/ISA in your games? 
+
+I suppose it makes more sense that it works better in cultural heavy games and not science ones. Some of the science wonders are paradoxically better in Culture games.
+
+And I guess diplo victories because they are slow, but yea.... not really a thing most of the time.
+        Well for example in my last game here:  [https://www.twitch.tv/videos/529041489](https://www.twitch.tv/videos/529041489) by the time I was researching Rapid deployment I had already launched everything but the exoplanet expedition and by the time you unlock it and then take the time to build it the game is already practically over and I am getting all the science I need from campus projects so there is rarely time where I find it helpful.
+            [deleted]
+                I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+                    Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+                        It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+Yeah maybe if you have a spare city to place next to snow tiles late game, as then you won’t have to worry too much about where to settle because of builder improvements, but it would take a while to build everything. The best thing to do if you want to build that wonder is to settle your city on tundra next to snow that has woods and preferably strategic resources (oil and uranium are pretty common in snow/tundra).
+The siege tower is just an upgrade to a battering ram so yes its worth it. If you mean bringing catapults just so the city shoots them then no, don't do that. If you want units to soak up shots then just build more swordsmen, they are less expensive, earlier in the tech tree, and can absorb more hits.
+This.  Plus, it is important to note that you don't want to overproduce food.  You will be penalized for it and would be better off manually allocating more production.
+Absolutely I didnt want to go overboard with it but my personal wonder list does include the Colosseum in the top 10
+So the tricky thing with mid end game guide is it is more specific to the win condition you are trying to achieve. There are guides out there for the win conditions but with how important and generic the early game is for any play through people tend to talk about that more. That being said I will try to cover the late game basics for all the win conditions. So early game ends after you have established your empire and are done settling your 8 cities or so and that is when you need to really focus on one win condition and everything you do after that point should be in pursuit of that goal. Science is the easiest because you just want to maximize science and production which means a campus in every city and prioritizing techs/civics that will get your more science. Culture is somewhat similar but you prioritize theater squares and faith. You don’t necessarily need a religion (although having one helps) but faith for naturalists and rock bands in the late game are super important for culture victories. Diplo is a bit different because you want to be more well rounded between science and culture for late game techs/civics that get you diplo points and wonders. The diplo wonders are probably the most important part of a diplo win (with suzing city states close behind) so you need to prioritize unlocking and building them as fast as possible. Domination is pretty straight forward you prioritize science production and money which is just everything you need to build as big and strong of any army as you can. Finally faith is even simpler late game because faith victories are only really about the early game and late game all you do is maximize your faith and just pump out as many religious units as you can. That’s about as simple as I can put late game there is certainly more nuance to that depending on what civ you are actually playing but the biggest thing for late game is really just to keep asking yourself will this decision support my win condition? It is easy to just build things in the late game just because you can or research certain techs just because they are quicker but you should always be focusing on what is actually going to make you win.
+    Thanks man I really appreciate the feedback. Sorry it took me so long to respond, I actually won my first game via science shortly before you wrote this. I’m starting to get the hang of the end game, I’ve been rocking with  seondeok lately (even though it’s kinda OP)
+I'm not that new in the game, but I still don't know in which tile should I settle in first. :/
+    Look for a ring yield that has a good balance of food and production, but not one that has too much production and not enough food, or vice versa. 
+
+To understand better where you want to settle you should turn on yield icons (“y” button).
+Well yes, but actually no: 
+(First, start off by turning on yield icons by pressing “y”, it helps you understand better what the tiles give you).
+
+Plains hills give you 1 food and 2 production. 
+
+If you get a plains hills tile with a bonus resource like cattle, it becomes 2 food and 2 production. Improve that and your tile is now 2 food and 3 production.
+
+Another thing to remember is that on your plains hills tiles can be terrain features such as wood (+1 production to initial tile) and rainforests (+1 food to initial tile) improving your tiles and their defense modifier (how much additional defense strength you get from being on that tile). Unfortunately woods and rainforests add to movement cost.
+
+What i would suggest is to settle in a ring yield that has at least two tiles with +2 food +2 production (or more), OR settle in a ring yield that has one tile 
+with 3 food and 1 production (e.g. flatland plains with wheat) and one tile with 3 production and 1 food (plains hills forest). 
+
+I know this is very confusing at the start but the more you play the more you’ll get the hang of it.
+    cattle cannot spawn on plains, hills, or plains hills
+        My bad, meant sheep.
+If I remember correctly, all features (forest, rainforest, marsh, etc.) as well as all bonus resources will be removed from the tile when you settle your city. Luxury resources and strategic resources will stay and provide you with both the resource and yield.
+    Depends, sometimes your city can keep the yields when you settle on woods/rainforest, idk if its a glitch or intentional but i played civ 6 on Mac (App Store), Windows (Steam), and IOS (App Store) and this “glitch” happened on all platforms.
+        Settling on a regular plains hill tile will give you 2 food, 2 production. Settling on any other regular tile will give you 2 food, 1 production. It makes no difference if there are woods/rainforest on the tile or not.
+ Nnooo nonnnoo ono o.  I no. On. I n I no  n noon I nononono I  i i
+Haha! No problem! Actually I loved the guide. Thanks for that!
+    Thanks, means a lot!
+Yeah the healing one is really op, also the one that unlocks oil before the technology requirement is really cool.
+> If you unlock animal husbandry in GS, it becomes a guessing game to get a strategic resource, it’s ok to discover it as your second technology, but the chances you get horses are 50/50. Plus its only available on GS, and i doubt all beginners just bought GS immediately, but good point.
+
+It definitely doesn't *have* to be the first thing you research, but I highly recommend to have it finished by the time your first settler is completed, so you can decide where to settle.
+
+> For “show yields” i find it kinda ruining the fun of the game to find out what your opponents have at all times, if you go along with this logic you might as well /revealall.
+
+One is using the information the game presents you anyway, the other is cheating. How is that even remotely comparable?
+    They don’t present it automatically, its a good thing for those who play in immortal or deity, but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+        Yes it's presented automatically. You can just go to the ranking screen and you can see everyones science/culture/faith per round and military strength, you can go to the trade screen and see their gold and income. The hud ribbon option just makes it easier to see, ie. you don't have to go to those menus every time you want to see it. 
+
+> but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+
+What does that have to do with enjoying the game? Sure, you can also play StarCraft and not use the minimap because it takes the fun out of it - knowing what's going on in all parts of the map is what makes the game fun.
+
+Intentionally crippling yourself doesn't sound fun to me - if the game tells me the military strength of my neighbors, I'm going to use that information. How else are you going to find out anything about your neighbors after they close their borders to you? Again, this is not a mod or some config you have to write, it's all in the base game and available to everyone.
+            So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+                Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+Yeah I usually don't like them just because your enemy can thrall them and then you have a 2 border war, and if you swallow them up (surround/engulf) as I seem to do they end up inside your empire and it turns into a pillage fest.  And I do plenty of conquering in most victories.
+So you never reach Globalization/ISA in your games? 
+
+I suppose it makes more sense that it works better in cultural heavy games and not science ones. Some of the science wonders are paradoxically better in Culture games.
+
+And I guess diplo victories because they are slow, but yea.... not really a thing most of the time.
+    Well for example in my last game here:  [https://www.twitch.tv/videos/529041489](https://www.twitch.tv/videos/529041489) by the time I was researching Rapid deployment I had already launched everything but the exoplanet expedition and by the time you unlock it and then take the time to build it the game is already practically over and I am getting all the science I need from campus projects so there is rarely time where I find it helpful.
+        [deleted]
+            I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+                Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+                    It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+Thanks man I really appreciate the feedback. Sorry it took me so long to respond, I actually won my first game via science shortly before you wrote this. I’m starting to get the hang of the end game, I’ve been rocking with  seondeok lately (even though it’s kinda OP)
+Look for a ring yield that has a good balance of food and production, but not one that has too much production and not enough food, or vice versa. 
+
+To understand better where you want to settle you should turn on yield icons (“y” button).
+cattle cannot spawn on plains, hills, or plains hills
+    My bad, meant sheep.
+Depends, sometimes your city can keep the yields when you settle on woods/rainforest, idk if its a glitch or intentional but i played civ 6 on Mac (App Store), Windows (Steam), and IOS (App Store) and this “glitch” happened on all platforms.
+    Settling on a regular plains hill tile will give you 2 food, 2 production. Settling on any other regular tile will give you 2 food, 1 production. It makes no difference if there are woods/rainforest on the tile or not.
+Thanks, means a lot!
+They don’t present it automatically, its a good thing for those who play in immortal or deity, but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+    Yes it's presented automatically. You can just go to the ranking screen and you can see everyones science/culture/faith per round and military strength, you can go to the trade screen and see their gold and income. The hud ribbon option just makes it easier to see, ie. you don't have to go to those menus every time you want to see it. 
+
+> but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+
+What does that have to do with enjoying the game? Sure, you can also play StarCraft and not use the minimap because it takes the fun out of it - knowing what's going on in all parts of the map is what makes the game fun.
+
+Intentionally crippling yourself doesn't sound fun to me - if the game tells me the military strength of my neighbors, I'm going to use that information. How else are you going to find out anything about your neighbors after they close their borders to you? Again, this is not a mod or some config you have to write, it's all in the base game and available to everyone.
+        So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+            Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+Well for example in my last game here:  [https://www.twitch.tv/videos/529041489](https://www.twitch.tv/videos/529041489) by the time I was researching Rapid deployment I had already launched everything but the exoplanet expedition and by the time you unlock it and then take the time to build it the game is already practically over and I am getting all the science I need from campus projects so there is rarely time where I find it helpful.
+    [deleted]
+        I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+            Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+                It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+My bad, meant sheep.
+Settling on a regular plains hill tile will give you 2 food, 2 production. Settling on any other regular tile will give you 2 food, 1 production. It makes no difference if there are woods/rainforest on the tile or not.
+Yes it's presented automatically. You can just go to the ranking screen and you can see everyones science/culture/faith per round and military strength, you can go to the trade screen and see their gold and income. The hud ribbon option just makes it easier to see, ie. you don't have to go to those menus every time you want to see it. 
+
+> but not for people who play the game to simply enjoy it. Kinda takes the fun out of it in my opinion.
+
+What does that have to do with enjoying the game? Sure, you can also play StarCraft and not use the minimap because it takes the fun out of it - knowing what's going on in all parts of the map is what makes the game fun.
+
+Intentionally crippling yourself doesn't sound fun to me - if the game tells me the military strength of my neighbors, I'm going to use that information. How else are you going to find out anything about your neighbors after they close their borders to you? Again, this is not a mod or some config you have to write, it's all in the base game and available to everyone.
+    So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+        Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+[deleted]
+    I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+        Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+            It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+So it isn’t presented automatically. Seeing your opponent’s gold does take the fun out of it (you can’t see AI’s gold anywhere else), its like seeing how much ammo your opponent has on csgo, or how much your elixir the enemy player has in clash royale. Obviously look at how much science/culture/military strength other civs have, but their most important emergency resource is a completely different thing.
+    Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+I either play on standard or online. I tend to play online more though because of multiplayer and to finish games in no more than 2 sittings.
+    Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+        It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+Of course you can. As I said, open the trade window and you see exactly how much gold they have, and how much they gain per turn.
+Is it even possible to get a domination victory at those speeds? I feel production is just too fast and unit movement too slow so the defender can infinitely hold some cities.
+    It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
+It is I've done it plenty of times, but units certainly remain useful longer on slower speeds.
