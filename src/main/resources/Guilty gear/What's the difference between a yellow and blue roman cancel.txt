@@ -1,0 +1,264 @@
+[[What's the difference between a yellow and blue roman cancel]]
+
+
+
+
+
+Red Roman Cancel: Done during a hit(non projectile). It launches the opponent in addition to the standard time stop. Used for combo extension.
+
+Purple Roman Cancel: Done to cancel a move on whiff. Used for mixups or escaping a bad situation.
+
+Blue Roman Cancel: Done in a neutral state. Useful for mixups with RC drifts and RC cancels.
+
+Yellow Roman Cancel: Done during your blockstun to escape pressure.
+    Sounds like blue RC is either hard to use or just useless
+        Definitely not. BRC is basically the best RC because if you hit your opponent with it, they become slowed down for twice the length of an RRC/PRC, which allows you to do crazy mixups or increased pressure.
+            I love being just out of reach as Pot and having 50% meter. Free hug from a distance!
+            Oooh ok
+                The 2 most common ways to use BRC are:
+
+After a wall break. It’s a pretty safe way to get in and it lets you see if they press a button / back dash / whatever.
+
+Off a jump cancel / dash cancel from c.S. You can get pressure and combos that only work with BRC slowdown this way.
+
+You can also do it in neutral to whiff punish or just to slow things down to see what’s happening and gain control of the situation.
+
+There’s lots of creative ways to use RC, so just experiment and see what you can come up with!
+                    Sorry for being late, but what's a c.S.?
+                        Close slash
+                            Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+        That would be yellow RC actually. Use it only if you'll die without it. It has a HEAVY meter penalty, doesn't guarantee escape from the situation (basically puts you in a RPS situation), and can be punished if baited and blocked. In almost any case you could use that meter for something else like a super, DP RC, or even just faultless defense.
+            *me over here doing yellow RC > Potemkin Buster*
+                Okay, you get the pass
+                *mix*
+                    if I can shove a potemkin buster in between, it's always optimal
+            This is bad advice IMO. YRC can be guaranteed against certain normals since you input it in blockstun unlike DPs or supers, and it puts you in rps that is weighed in your favor, being +10.
+
+YRC is a pretty invaluable tool in certain matchups, especially against characters like Zato and Millia where blocking is the lose condition.
+                yrc also destroys eddie and jacko minions, which is huge in both of those matchups
+                    YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+                    zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+                It can also be pretty good if your character lacks other metered defensive options. (yes I know HPB PRC exists but it's not always the better option)
+            isn't yellow rc just dead angle attacks from previous games
+                Pretty much. It does behave a bit differently (rather than knocking them away, it leaves you close and a bit plus) but it basically serves the same purpose.
+        Since the slow down on blue RC stays even if you hit an opponent the potential damage on whiff punishing and DP baiting is incredible. A Ky will be able to get a charged stun edge for a shock state HS Vapour Thrust combo for example
+        The list above omitted the important part, Red RC keeps the slowdown until the first hit, but Blue RC keeps it for the full duration, enabling otherwise impossible conversions, also it's a frame 1 guaranteed slow debuff, overall really potent.
+        Blue RC can be used pretty much the same ways you would use Gold Burst. With the exception that you can Roman cancel dash, like people are mentioning BRC dashing toward the opponent after wall break.
+
+It may seem slow, but the time stop effect if it connects means most of the time you get to cover that distance uncontested. Even if the opponent has already thrown out an attack. 
+
+I also wanted to add that RRC is described as for extending combos and PRC for mitigating whiffs, but that's a bit overly simplified. RRC just happens anytime you RC during active frames, PRC is what you get if you RC during inactive frames. Technically PRC can be used for combos the same as RRC, they just have different effects from each other. I-No and Pot for example will PRC their gap closer to go into a special grab (Megalomania or Pot Buster), because PRC has no hitbox. While Ky would rather RRC Foundre Arc in the same situation because the hitbox from RRC let's him transition into a ground combo.
+        The classic blue roman cancel for me is using it after using Gunflame.  If they jump to avoid it, they're in an extremely vulnerable position.
+
+I'm sure other characters have similar use cases but I'm still pretty new.
+        BRC is terrific for baits or giving yourself a moment to react to your opponents attack if you think they're going for something risky.
+
+Its also sweet for doing air grabs.
+        In addition to what others said - blue is probably the best thing you do after a wall break.
+
+They’re close enough to get slowed, and you functionally get a free 50/50. If you’re the one that broke the wall you also have positive so it’s basically no cost.
+
+If you’re the one that got tossed it can get you out of trouble and back to neutral
+        You can use it to challenge slow things and shortcut neutral.
+        BRC has the most slowdown out of all of them
+        For Nagos its a meter but bloodless dash and air dash, its sensational
+        It depends on the character. It’s a decent option on any character in neutral because it lets you reposition yourself and if you hit the opponent with the slowdown you are in a very advantageous spot. Some characters get very strong setups in pressure too, usually using close slash dash cancel brc. This locks the opponent in blockstun for a very long time and allows for tons of powerful mixups
+    Nah man purple is for landing pot buster
+    PRC cancels a move any time the RRC doesn't apply, including recovery and active frames on hit or block. Its used to cancel a move on whiff but it can come out during a failed RRC attempt.
+    Maybe a bit more advanced but you can also extend pressure using BRC if you dash cancel out of a button, which is incredibly strong, since the opponent is still stuck in the time slow on your offense
+One is yellow, the other is blue.
+
+How is this not clear? 🤔🤔
+
+Sarcasm aside, other guy summed it up just right 👍
+Play Mission mode to find out.
+Blue roman cancel allows you to move and and makes the enemy temporarely slowed but yellow roman cancel knocks back the apponent and can leave you vulnerable if used incorrectly
+Have you tried using then they're literally the most different RCs
+    Have u tried realizing that I'm a new player with 8 hours on the game?
+Yellow is very similar to burst in that it stops the opponent in their tracks and resets neutral. However it can only be done between attacks, and doesn't throw the opponent away like burst.
+
+Blue RC temporarily slows down your opponent, meaning you can dash blue rc to get away from an attack, or give yourself time to react to and counter an attack, or start off a combo since their attacks will come out slower.
+    It doesn't just reset neutral, you have the advantage. I think you are +10
+Fun fact about Zato: In Japanese he's DIO, in English he's Jotaro. It's kinda funny.
+yellow is lemon and blue is raspberry.
+One is the worst replacement for dead angle ever imagined, while the other is a funny mechanic
+A blue rc is actually useful
+Red: When you're attacking someone
+
+Purple: When you're whiffing an attack
+
+Blue: When you're in neutral
+
+Yellow: When you're in blockstun
+No idea but I think there's two other colors as well (red and purple)
+Yrc is a doscount burst only doable during blockstun
+If you do both at the same time you unlock the Vivec RC and achieve CHIM
+Blue go fast yellow go slow
+Have you actually seen a yellow roman cancel?
+    What is this supposed to mean
+One is yellow and the other happens when you've combined god ki with your super saiyan transformation. Unlocking a new level of power. Super Saiyan Blue. You're welcome.
+Sounds like blue RC is either hard to use or just useless
+    Definitely not. BRC is basically the best RC because if you hit your opponent with it, they become slowed down for twice the length of an RRC/PRC, which allows you to do crazy mixups or increased pressure.
+        I love being just out of reach as Pot and having 50% meter. Free hug from a distance!
+        Oooh ok
+            The 2 most common ways to use BRC are:
+
+After a wall break. It’s a pretty safe way to get in and it lets you see if they press a button / back dash / whatever.
+
+Off a jump cancel / dash cancel from c.S. You can get pressure and combos that only work with BRC slowdown this way.
+
+You can also do it in neutral to whiff punish or just to slow things down to see what’s happening and gain control of the situation.
+
+There’s lots of creative ways to use RC, so just experiment and see what you can come up with!
+                Sorry for being late, but what's a c.S.?
+                    Close slash
+                        Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+    That would be yellow RC actually. Use it only if you'll die without it. It has a HEAVY meter penalty, doesn't guarantee escape from the situation (basically puts you in a RPS situation), and can be punished if baited and blocked. In almost any case you could use that meter for something else like a super, DP RC, or even just faultless defense.
+        *me over here doing yellow RC > Potemkin Buster*
+            Okay, you get the pass
+            *mix*
+                if I can shove a potemkin buster in between, it's always optimal
+        This is bad advice IMO. YRC can be guaranteed against certain normals since you input it in blockstun unlike DPs or supers, and it puts you in rps that is weighed in your favor, being +10.
+
+YRC is a pretty invaluable tool in certain matchups, especially against characters like Zato and Millia where blocking is the lose condition.
+            yrc also destroys eddie and jacko minions, which is huge in both of those matchups
+                YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+                zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+            It can also be pretty good if your character lacks other metered defensive options. (yes I know HPB PRC exists but it's not always the better option)
+        isn't yellow rc just dead angle attacks from previous games
+            Pretty much. It does behave a bit differently (rather than knocking them away, it leaves you close and a bit plus) but it basically serves the same purpose.
+    Since the slow down on blue RC stays even if you hit an opponent the potential damage on whiff punishing and DP baiting is incredible. A Ky will be able to get a charged stun edge for a shock state HS Vapour Thrust combo for example
+    The list above omitted the important part, Red RC keeps the slowdown until the first hit, but Blue RC keeps it for the full duration, enabling otherwise impossible conversions, also it's a frame 1 guaranteed slow debuff, overall really potent.
+    Blue RC can be used pretty much the same ways you would use Gold Burst. With the exception that you can Roman cancel dash, like people are mentioning BRC dashing toward the opponent after wall break.
+
+It may seem slow, but the time stop effect if it connects means most of the time you get to cover that distance uncontested. Even if the opponent has already thrown out an attack. 
+
+I also wanted to add that RRC is described as for extending combos and PRC for mitigating whiffs, but that's a bit overly simplified. RRC just happens anytime you RC during active frames, PRC is what you get if you RC during inactive frames. Technically PRC can be used for combos the same as RRC, they just have different effects from each other. I-No and Pot for example will PRC their gap closer to go into a special grab (Megalomania or Pot Buster), because PRC has no hitbox. While Ky would rather RRC Foundre Arc in the same situation because the hitbox from RRC let's him transition into a ground combo.
+    The classic blue roman cancel for me is using it after using Gunflame.  If they jump to avoid it, they're in an extremely vulnerable position.
+
+I'm sure other characters have similar use cases but I'm still pretty new.
+    BRC is terrific for baits or giving yourself a moment to react to your opponents attack if you think they're going for something risky.
+
+Its also sweet for doing air grabs.
+    In addition to what others said - blue is probably the best thing you do after a wall break.
+
+They’re close enough to get slowed, and you functionally get a free 50/50. If you’re the one that broke the wall you also have positive so it’s basically no cost.
+
+If you’re the one that got tossed it can get you out of trouble and back to neutral
+    You can use it to challenge slow things and shortcut neutral.
+    BRC has the most slowdown out of all of them
+    For Nagos its a meter but bloodless dash and air dash, its sensational
+    It depends on the character. It’s a decent option on any character in neutral because it lets you reposition yourself and if you hit the opponent with the slowdown you are in a very advantageous spot. Some characters get very strong setups in pressure too, usually using close slash dash cancel brc. This locks the opponent in blockstun for a very long time and allows for tons of powerful mixups
+Nah man purple is for landing pot buster
+PRC cancels a move any time the RRC doesn't apply, including recovery and active frames on hit or block. Its used to cancel a move on whiff but it can come out during a failed RRC attempt.
+Maybe a bit more advanced but you can also extend pressure using BRC if you dash cancel out of a button, which is incredibly strong, since the opponent is still stuck in the time slow on your offense
+Have u tried realizing that I'm a new player with 8 hours on the game?
+It doesn't just reset neutral, you have the advantage. I think you are +10
+What is this supposed to mean
+Definitely not. BRC is basically the best RC because if you hit your opponent with it, they become slowed down for twice the length of an RRC/PRC, which allows you to do crazy mixups or increased pressure.
+    I love being just out of reach as Pot and having 50% meter. Free hug from a distance!
+    Oooh ok
+        The 2 most common ways to use BRC are:
+
+After a wall break. It’s a pretty safe way to get in and it lets you see if they press a button / back dash / whatever.
+
+Off a jump cancel / dash cancel from c.S. You can get pressure and combos that only work with BRC slowdown this way.
+
+You can also do it in neutral to whiff punish or just to slow things down to see what’s happening and gain control of the situation.
+
+There’s lots of creative ways to use RC, so just experiment and see what you can come up with!
+            Sorry for being late, but what's a c.S.?
+                Close slash
+                    Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+That would be yellow RC actually. Use it only if you'll die without it. It has a HEAVY meter penalty, doesn't guarantee escape from the situation (basically puts you in a RPS situation), and can be punished if baited and blocked. In almost any case you could use that meter for something else like a super, DP RC, or even just faultless defense.
+    *me over here doing yellow RC > Potemkin Buster*
+        Okay, you get the pass
+        *mix*
+            if I can shove a potemkin buster in between, it's always optimal
+    This is bad advice IMO. YRC can be guaranteed against certain normals since you input it in blockstun unlike DPs or supers, and it puts you in rps that is weighed in your favor, being +10.
+
+YRC is a pretty invaluable tool in certain matchups, especially against characters like Zato and Millia where blocking is the lose condition.
+        yrc also destroys eddie and jacko minions, which is huge in both of those matchups
+            YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+            zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+        It can also be pretty good if your character lacks other metered defensive options. (yes I know HPB PRC exists but it's not always the better option)
+    isn't yellow rc just dead angle attacks from previous games
+        Pretty much. It does behave a bit differently (rather than knocking them away, it leaves you close and a bit plus) but it basically serves the same purpose.
+Since the slow down on blue RC stays even if you hit an opponent the potential damage on whiff punishing and DP baiting is incredible. A Ky will be able to get a charged stun edge for a shock state HS Vapour Thrust combo for example
+The list above omitted the important part, Red RC keeps the slowdown until the first hit, but Blue RC keeps it for the full duration, enabling otherwise impossible conversions, also it's a frame 1 guaranteed slow debuff, overall really potent.
+Blue RC can be used pretty much the same ways you would use Gold Burst. With the exception that you can Roman cancel dash, like people are mentioning BRC dashing toward the opponent after wall break.
+
+It may seem slow, but the time stop effect if it connects means most of the time you get to cover that distance uncontested. Even if the opponent has already thrown out an attack. 
+
+I also wanted to add that RRC is described as for extending combos and PRC for mitigating whiffs, but that's a bit overly simplified. RRC just happens anytime you RC during active frames, PRC is what you get if you RC during inactive frames. Technically PRC can be used for combos the same as RRC, they just have different effects from each other. I-No and Pot for example will PRC their gap closer to go into a special grab (Megalomania or Pot Buster), because PRC has no hitbox. While Ky would rather RRC Foundre Arc in the same situation because the hitbox from RRC let's him transition into a ground combo.
+The classic blue roman cancel for me is using it after using Gunflame.  If they jump to avoid it, they're in an extremely vulnerable position.
+
+I'm sure other characters have similar use cases but I'm still pretty new.
+BRC is terrific for baits or giving yourself a moment to react to your opponents attack if you think they're going for something risky.
+
+Its also sweet for doing air grabs.
+In addition to what others said - blue is probably the best thing you do after a wall break.
+
+They’re close enough to get slowed, and you functionally get a free 50/50. If you’re the one that broke the wall you also have positive so it’s basically no cost.
+
+If you’re the one that got tossed it can get you out of trouble and back to neutral
+You can use it to challenge slow things and shortcut neutral.
+BRC has the most slowdown out of all of them
+For Nagos its a meter but bloodless dash and air dash, its sensational
+It depends on the character. It’s a decent option on any character in neutral because it lets you reposition yourself and if you hit the opponent with the slowdown you are in a very advantageous spot. Some characters get very strong setups in pressure too, usually using close slash dash cancel brc. This locks the opponent in blockstun for a very long time and allows for tons of powerful mixups
+I love being just out of reach as Pot and having 50% meter. Free hug from a distance!
+Oooh ok
+    The 2 most common ways to use BRC are:
+
+After a wall break. It’s a pretty safe way to get in and it lets you see if they press a button / back dash / whatever.
+
+Off a jump cancel / dash cancel from c.S. You can get pressure and combos that only work with BRC slowdown this way.
+
+You can also do it in neutral to whiff punish or just to slow things down to see what’s happening and gain control of the situation.
+
+There’s lots of creative ways to use RC, so just experiment and see what you can come up with!
+        Sorry for being late, but what's a c.S.?
+            Close slash
+                Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+*me over here doing yellow RC > Potemkin Buster*
+    Okay, you get the pass
+    *mix*
+        if I can shove a potemkin buster in between, it's always optimal
+This is bad advice IMO. YRC can be guaranteed against certain normals since you input it in blockstun unlike DPs or supers, and it puts you in rps that is weighed in your favor, being +10.
+
+YRC is a pretty invaluable tool in certain matchups, especially against characters like Zato and Millia where blocking is the lose condition.
+    yrc also destroys eddie and jacko minions, which is huge in both of those matchups
+        YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+        zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+    It can also be pretty good if your character lacks other metered defensive options. (yes I know HPB PRC exists but it's not always the better option)
+isn't yellow rc just dead angle attacks from previous games
+    Pretty much. It does behave a bit differently (rather than knocking them away, it leaves you close and a bit plus) but it basically serves the same purpose.
+The 2 most common ways to use BRC are:
+
+After a wall break. It’s a pretty safe way to get in and it lets you see if they press a button / back dash / whatever.
+
+Off a jump cancel / dash cancel from c.S. You can get pressure and combos that only work with BRC slowdown this way.
+
+You can also do it in neutral to whiff punish or just to slow things down to see what’s happening and gain control of the situation.
+
+There’s lots of creative ways to use RC, so just experiment and see what you can come up with!
+    Sorry for being late, but what's a c.S.?
+        Close slash
+            Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+Okay, you get the pass
+*mix*
+    if I can shove a potemkin buster in between, it's always optimal
+yrc also destroys eddie and jacko minions, which is huge in both of those matchups
+    YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+    zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+It can also be pretty good if your character lacks other metered defensive options. (yes I know HPB PRC exists but it's not always the better option)
+Pretty much. It does behave a bit differently (rather than knocking them away, it leaves you close and a bit plus) but it basically serves the same purpose.
+Sorry for being late, but what's a c.S.?
+    Close slash
+        Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+if I can shove a potemkin buster in between, it's always optimal
+YRC doesn't destroy Eddie directly, unlike rrc and burst though. If only Eddie is in range of the yrc but zato isn't, then nothing happens.
+zatos will try to bait, but jacko is pretty limited in her options so they will often just take the yrc
+Close slash
+    Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
+Ah, got it. Thank you! I'm glad to be starting Guilty Gear. The story's cool, and the gameplay's fantastic! Strive, especially is real awesome. So again, big thanks for your comment above, by the way. The info about Roman Cancels is really useful!
