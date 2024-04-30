@@ -1,0 +1,613 @@
+[[So I was just screwing around on story mode when...]]
+
+
+
+
+
+Naturally I got a 5 star wanted level while my new friend drove me around.
+    My man
+        Lookin good
+            Fuck did u just say to me?
+                Slow down
+                [deleted]
+                    Looking good
+                        Fuck did u just say to me?
+                            Slow down
+                                My man
+                                    Looking good
+                            My man
+                                Lookin' good
+                                    Since when was this a crossover episode huh?
+                                    Slow down
+                                RICK and Morty reference?
+                            My man
+                Pinche Puto
+                You said it means much obliged!😬
+    Slow down!
+    Hell yeah. I like sitting in the backs of trucks and shooting shit but this is even cooler.
+        Sometimes I like to ride the train and see how many stars I can get with only the sniper rifle.
+        Trucks towing boats are also fun
+    I scrolled down hoping to see a response from OP like "So I started murdering as many people as possible" and you did not disappoint. Good job, OP!
+        r/nocontext
+            Hahaha. Ya that's bad without context, but it doesn't reach the level of "licks retarded dick so hard both men die from penis cancer". That's a silly sub.
+    AKA: So anyways I started blasting
+    It's fun up until the driver flips the truck.
+    I was about to say if you didn’t start firing 😂
+    Do.. do you have that on video? Cause this was my first and only question
+    I wanna see the video of that :(
+    Pinche puto
+    What why didn’t you include the full video then breh??
+That is such a Trevor thing to do.
+    Agreed. I saw Trevor get up and could practically hear him muttering about drugs or aliens when he found himself in a small black room. (Watched it muted, if there is any sound to start with)
+    So like him to phase through solid objects
+Wow, never seen this before
+    Weird stuff happens when you're using cheats.
+        Its actually something you can do in game normally. You can open those doors to the back of the truck in online by doing some trickery your character on top of the truck. The exact method escapes me because i havent done it in years, but i know for a fact me and the boys did it quite frequently.
+            Back when I still played it, you used to have to climb on the back of the bus, take cover and walk to rhe sides a little.
+        [deleted]
+            Bottom left "cheat deactivated: Skyfall" pops up for a moment. The cheat didn't get him in the van but it's what put him in the sky lol
+                Now it makes sense, he most likely has the Mod to bring over ONLINE only vehicles to single player. Pretty sure you can open the trucks Online for missions.
+                    TIL!
+                u/undeleteparent
+                    UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+                        Happy cake day bot
+                        Finally, your age is on the clock
+                        Now why the fuck dont you come when j call you
+                That’s the point
+                    The above commenter seemed to have missed the notification, I'm just trying to help out :P
+My favourite thing to do is try and land the plane in the mission where molly dies, I try to do a cinematic landing with Michael
+    BRO 
+fucking spoiler alert that shit BEFORE you tell people plot points like that? 
+
+What the FUCK is your honest to god problem.
+
+/s just in case
+        Funny enough I beat the campaign 3 times (on 3 different platforms) and 100% it twice and for the life of me I can't remember who Molly is.
+            Ive beat it twice and no clueless
+            bitch that stole the movie tapes i thought
+        Lmao, I was gonna comment that the game came out 7yrs ago but then I just saw that s
+            Reddit moment
+                Oh so we're reviving old threads? I'm okay with this.
+This is a severe Trevor moment
+Start shouting the traffic behind the truck
+    Shouting mean things or just complimenting their driving?
+        Both
+        Fus Ro Dah'ing the cars
+            u/Pooticus
+                ?
+                    You mentioned Skyrim out of context
+        He just wants him to literally shout "the traffic"lol
+I totally expected Skyrim
+The fact that that interior exists and seems to be always loaded into the game is very impressive
+    It’s from Online for a mission.
+Apparently you can do this to get into the FIB Building
+Hey you. You’re finally awake.
+you are a mad lad
+r/nevertellmetheodds
+Lol my mate managed to get in the back of a truck while doing a mission on online, we thought it was the funniest thing
+Did he gif you candys?
+Thats how kidnapping work
+Since when Skyfall doesn't kill you when you hit the ground?
+    tbh he never hit the ground
+    Sometimes the game glitches
+    If you go straight down you survive
+SPECIAL DELIVERY!
+    Spelivery.
+
+***
+
+^(Bleep-bloop, I'm a bot. This )^[portmanteau](https://en.wikipedia.org/wiki/Portmanteau) ^( was created from the phrase 'SPECIAL DELIVERY!' | )^[FAQs](https://www.reddit.com/axl72o) ^(|) ^[Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=PORTMANTEAU-BOT+feedback) ^(|) ^[Opt-out](https://www.reddit.com/message/compose?to=PORTMANTEAU-BOT&subject=OPTOUTREQUEST)
+Bit of new twist on the classical isekai anime start.
+I don't speak Spanish but I know puto is not a term of endearment
+    Puto=bitch
+J i m m y !!
+This guy is advanced in the hobby of kidnapping
+For those wondering how this happened:
+
+Essentially, modern physics engines are tick based. This means that a second is divided in ticks, usually 60 ticks per second, though it can be more or less depending on the specific engine. Every tick, the game calculates the exact position of every object that the player could conceivably see or interact with, as well as their speed and direction. If 2 objects occupy the same space, that's called a collision, and depending on the specifics of the collision and of the engine, it will have a specific effect.
+
+In this case, the player and the vehicle were traveling at exactly the right speed for the player to be right in front of the engine on one tick, and then inside the rear of the engine the next tick. In this case, the engine does not want collision at all, so it shoved the player to the nearest free space, which in this case was inside the truck.
+I’m assuming what happened was that the character was going fast enough that the game didn’t detect that they hit something until they clipped through
+I feel like you could spawn in as Trevor like this with a bottle of booze and a hangover.
+Wait..CAN YOU DO THIS ?
+    I'M GONNA ATTEMPT IT IN REAL LIFE
+        Guys the owner of u/Phone_Guy_helpme was found dead in the front of a movie vehicle after skydiving, may they Rest In Peace.
+Pokémon Emerald beginning?
+u/Vredditdownloader
+    *beep. boop.* 🤖 I'm a bot that helps downloading videos 
+##[Download via reddit.tube](https://reddit.tube/d/vJqaBky?t=1596112722)
+
+If I don't reply to a comment, send me the link [per message.](https://np.reddit.com/message/compose?to=VredditDownloader&subject=Download&message=Put%20your%20reddit%20video%20link%20here%20and%20click%20send%20)
+
+[Download more videos from GTAV](https://www.reddit.tube/category/GTAV)
+
+ ***  
+[Info](https://np.reddit.com/user/VredditDownloader/comments/cju1dg/info/)&#32;|&#32;[Contact&#32;creator](https://np.reddit.com/message/compose?to=-botbert)
+I honestly thought you were going to transition into the start of Skyrim
+Where did the green jeep come from ?
+Needs a 
+"Finally awake"
+"Wake up samouraï"
+Ending
+Definitely expected the Skyrim Intro Meme to fade in
+Not gonna lie, for moment there I thought it was going to cut to the start of skyrim..
+"Hey, you. You're finally awake."
+I didn’t even know those doors were openable.
+    I got stuck in one of those on the ps3 version and couldn't get out.
+What seems odd to me is that before he opens the doors, the truck isn't moving. It stays at the same spot on the map.
+“Where we droppin’, boys?”
+Why do people always call me a poo toe? :(
+Of course it's Trevor.
+Trevor Phillips Country
+Did they give you candy??
+My first thought was “you could just murder so many people from the back of there.” Glad to see you had a similar idea.
+I half expected the Skyrim intro to appear after the impact...
+Oh man when I did that back on ps3 the doors wouldn't open. I was just trapped.
+Cool now land in a money truck
+I mean there are easier ways in but i think this is the best result
+Quantum tunneling
+[deleted]
+    Here is your video at 1x speed
+
+https://gfycat.com/EachFortunateChinchilla
+
+^(I'm a bot | Summon with) ^"[/u/redditspeedbot](/u/redditspeedbot) ^<speed>" ^| [^(Complete Guide)](https://www.reddit.com/user/redditspeedbot/comments/eqdo8u/redditspeedbot_guide) ^| ^(Do report bugs) ^[here](https://www.reddit.com/message/compose/?to=adityakrshnn&subject=RedditSpeedBot%20Issue) ^| [^(Keep me alive)](https://www.patreon.com/redditspeedbot)
+that's neat that they made the doors swing out
+Nobody’s questioning how he survived that?
+How do u even glide like that
+I was parachuting to my apartment in Online and I hit the corner of a car like that one and I did the exact same thing. I shot out of the doors and people were so confused where I was. They thought I was invisible XD.
+On sight would go really well with this
+u/KoolAid04
+u/lordofthunder95
+This should be on r/blackmagicfuckery instead
+P I N C H E  P U T O
+My favorite thing about skyfall is if you go head first into something you don’t get damage
+I was certain this was gonna be a Skyrim intro meme edit.
+“Hey you, you’re finally awake.”
+“Hey you, you’re finally awake.”
+Bear Grylls: I have done this many times before
+Invincibility. Grenade.
+Special delivery
+Please someone cut this to the beginning of Skyrim upon windshield impact
+I remember the time you could do that just by shooting the door, kill the train, go ramming speed in a pnj car and make a wheel fly. And online you could (more or less) store cars in the cargobob, a'd much more. Things have changed.
+Clean entry into a cozy ass truck.
+“So anyway I started BLASTIN!”
+I thought the Skyrim meme was going to happen
+Literally could only happen to Trevor though.. waking up in a trailer ha
+I was waiting for a fade to black and Skyrim intro to begin
+Same kind of thing happened to my once. I was trying to run someone over by the maze bank office and drove through the garage door and into the garage.
+For a second I thought it was a next level skyrim meme shitpost
+Hahahaha, that's great! I normally just hit a bridge and DIE... this was far more entertaining!
+Bro what?!!!
+Pinche Puto !!
+Had that happen to me but on the train and I just walked into it
+I had done this to the roof of the fib building and got in
+I remember getting in somehow by Just super jumping onto the edge of the roof of the truck
+u/vredditdownloader
+    *beep. boop.* 🤖 I'm a bot that helps downloading videos 
+##[Download via reddit.tube](https://reddit.tube/d/vJqaBky?t=1596794709)
+
+If I don't reply to a comment, send me the link [per message.](https://np.reddit.com/message/compose?to=VredditDownloader&subject=Download&message=Put%20your%20reddit%20video%20link%20here%20and%20click%20send%20)
+
+[Download more videos from GTAV](https://www.reddit.tube/category/GTAV)
+
+ ***  
+[Info](https://np.reddit.com/user/VredditDownloader/comments/cju1dg/info/)&#32;|&#32;[Contact&#32;creator](https://np.reddit.com/message/compose?to=-botbert)
+Another happy landing
+New mobile meth lab?
+You have been kidnapped
+How did you not die lol
+I used to do this all the time because sometimes you were actually capable of surviving it
+Lol would have been great if this transition into the Skyrim waking up meme
+How do you do a skyfall cheat?
+That's amazing. I would've just rode and spectated  for as long as it let me
+It’s INSANE to me that people are still playing this game
+"Hey you, you're finally awake"
+I expected “hey, you’re finally awake”
+The good old human trafficking scam
+"Buzz! We didn't miss the truck!"
+Creative kidnapping
+Fake, physically impossible
+Ah, the ol' flyin  hobo.
+u/vredditdownloader
+Impressive that it's textured
+Aww theres no candy
+He fainted and woke up in the truck
+Holy shit. That was actually truly incredible. Especially how he survived.
+    There's a weird thing in GTA where if you did the skyfall cheat (Whatever cheat made you teleport in the air and start skydiving without a parachute) and you hit your head on a wall or other surface before the ground, you survive
+        Oh wow. I did not know that but, awesome. Lmao. Ohhh, rockstar logic.
+That’s the truck to heaven after you rammed face first into it
+hey man sorry can i get a ride
+u/vredditdownloader
+Is this the backrooms?
+The white vans have evolved...
+Trevor is going to brazil
+I remember a Vanossgaming video where H2ODelirious got stuck inside a truck and they basically couldn't open the truck for him to go out.
+Quantum Trevoring
+The perfect escape
+NPCS drive empty cargo trucks around . Gta logic at its finest
+I’ll take “Things that’ll never be replicated Twice” for one thousand Alex!
+Cool
+Now it’s time for your RPG from that truck.
+It's the new platform 3 3/4 didn't you know?
+That awesome af
+Trevor would survive that haha
+And just like that, you’ve been kidnapped
+Trevor is getting free candy and we are not.
+See you on Gamesprout
+I call, "Bull shit."
+    You literally saw it happen
+    Are you blind
+        Nope. He's just about to hit the front of the truck square with the radiator, next thing he's in the back of it. Bullshit, it's called editing.
+            It's called a bug homie
+            “Editing” don’t exist in this video bud. Bullshit or not, this literally just happened.
+    I declare, “BANKRUPTCY!”
+    I too, am a blind man watching Reddit videos
+    Ever heard of a bug?
+Legit
+Well now what
+
+Edit: I commented too early
+It's like that scene in toy story
+Could have did a Skyrim opening scene as well lol
+Ah so them mfers don't even carry anything, good to.know
+WTF
+Thats cool
+My man went in and out of the backrooms
+Kinda reminds me of [this](https://youtu.be/4kPjp4hPxhI)
+Bro got kidnapped
+Bro got kidnapped
+Is that a known glitch or something? That’s crazy man
+😂😂😂😂 wtf?!?!
+of course Trevor manages to do that lmao
+Start shootings. That would be a fun cop chase.
+Wow.. nice
+I like collecting Bb goods then find the train jump on commit suicide and watch them travel the map .
+This literally happened to me on xbox 360 so I Sadly couldn't record it. I claimed a bounty with a jet and had to pull up, it didn't look like I would make it so I ejected only to see my jet unnaturally pull up on it's own leaving me behind. I then smacked into a mule truck roof and I fell inside. 
+
+
+My reaction was the exact same lmao looking around in confusion. I still tell players of my grand escape to this very day.
+YES!
+Damm that was some crazy shizzle right there, that's one way of not using a parachute lmao
+Bro kidnapped himself
+Not only did Trevor illegally immigrate from Canada to the US, now he’s gonna illegally immigrate to Mexico.
+Kidnapped
+I would have stayed in there and go AFK to see how long it would drive with me in it lol
+tough 💪🏽
+My man
+    Lookin good
+        Fuck did u just say to me?
+            Slow down
+            [deleted]
+                Looking good
+                    Fuck did u just say to me?
+                        Slow down
+                            My man
+                                Looking good
+                        My man
+                            Lookin' good
+                                Since when was this a crossover episode huh?
+                                Slow down
+                            RICK and Morty reference?
+                        My man
+            Pinche Puto
+            You said it means much obliged!😬
+Slow down!
+Hell yeah. I like sitting in the backs of trucks and shooting shit but this is even cooler.
+    Sometimes I like to ride the train and see how many stars I can get with only the sniper rifle.
+    Trucks towing boats are also fun
+I scrolled down hoping to see a response from OP like "So I started murdering as many people as possible" and you did not disappoint. Good job, OP!
+    r/nocontext
+        Hahaha. Ya that's bad without context, but it doesn't reach the level of "licks retarded dick so hard both men die from penis cancer". That's a silly sub.
+AKA: So anyways I started blasting
+It's fun up until the driver flips the truck.
+I was about to say if you didn’t start firing 😂
+Do.. do you have that on video? Cause this was my first and only question
+I wanna see the video of that :(
+Pinche puto
+What why didn’t you include the full video then breh??
+Agreed. I saw Trevor get up and could practically hear him muttering about drugs or aliens when he found himself in a small black room. (Watched it muted, if there is any sound to start with)
+So like him to phase through solid objects
+Weird stuff happens when you're using cheats.
+    Its actually something you can do in game normally. You can open those doors to the back of the truck in online by doing some trickery your character on top of the truck. The exact method escapes me because i havent done it in years, but i know for a fact me and the boys did it quite frequently.
+        Back when I still played it, you used to have to climb on the back of the bus, take cover and walk to rhe sides a little.
+    [deleted]
+        Bottom left "cheat deactivated: Skyfall" pops up for a moment. The cheat didn't get him in the van but it's what put him in the sky lol
+            Now it makes sense, he most likely has the Mod to bring over ONLINE only vehicles to single player. Pretty sure you can open the trucks Online for missions.
+                TIL!
+            u/undeleteparent
+                UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+                    Happy cake day bot
+                    Finally, your age is on the clock
+                    Now why the fuck dont you come when j call you
+            That’s the point
+                The above commenter seemed to have missed the notification, I'm just trying to help out :P
+BRO 
+fucking spoiler alert that shit BEFORE you tell people plot points like that? 
+
+What the FUCK is your honest to god problem.
+
+/s just in case
+    Funny enough I beat the campaign 3 times (on 3 different platforms) and 100% it twice and for the life of me I can't remember who Molly is.
+        Ive beat it twice and no clueless
+        bitch that stole the movie tapes i thought
+    Lmao, I was gonna comment that the game came out 7yrs ago but then I just saw that s
+        Reddit moment
+            Oh so we're reviving old threads? I'm okay with this.
+Shouting mean things or just complimenting their driving?
+    Both
+    Fus Ro Dah'ing the cars
+        u/Pooticus
+            ?
+                You mentioned Skyrim out of context
+    He just wants him to literally shout "the traffic"lol
+It’s from Online for a mission.
+tbh he never hit the ground
+Sometimes the game glitches
+If you go straight down you survive
+Spelivery.
+
+***
+
+^(Bleep-bloop, I'm a bot. This )^[portmanteau](https://en.wikipedia.org/wiki/Portmanteau) ^( was created from the phrase 'SPECIAL DELIVERY!' | )^[FAQs](https://www.reddit.com/axl72o) ^(|) ^[Feedback](https://www.reddit.com/message/compose?to=jamcowl&subject=PORTMANTEAU-BOT+feedback) ^(|) ^[Opt-out](https://www.reddit.com/message/compose?to=PORTMANTEAU-BOT&subject=OPTOUTREQUEST)
+Puto=bitch
+I'M GONNA ATTEMPT IT IN REAL LIFE
+    Guys the owner of u/Phone_Guy_helpme was found dead in the front of a movie vehicle after skydiving, may they Rest In Peace.
+*beep. boop.* 🤖 I'm a bot that helps downloading videos 
+##[Download via reddit.tube](https://reddit.tube/d/vJqaBky?t=1596112722)
+
+If I don't reply to a comment, send me the link [per message.](https://np.reddit.com/message/compose?to=VredditDownloader&subject=Download&message=Put%20your%20reddit%20video%20link%20here%20and%20click%20send%20)
+
+[Download more videos from GTAV](https://www.reddit.tube/category/GTAV)
+
+ ***  
+[Info](https://np.reddit.com/user/VredditDownloader/comments/cju1dg/info/)&#32;|&#32;[Contact&#32;creator](https://np.reddit.com/message/compose?to=-botbert)
+I got stuck in one of those on the ps3 version and couldn't get out.
+Here is your video at 1x speed
+
+https://gfycat.com/EachFortunateChinchilla
+
+^(I'm a bot | Summon with) ^"[/u/redditspeedbot](/u/redditspeedbot) ^<speed>" ^| [^(Complete Guide)](https://www.reddit.com/user/redditspeedbot/comments/eqdo8u/redditspeedbot_guide) ^| ^(Do report bugs) ^[here](https://www.reddit.com/message/compose/?to=adityakrshnn&subject=RedditSpeedBot%20Issue) ^| [^(Keep me alive)](https://www.patreon.com/redditspeedbot)
+*beep. boop.* 🤖 I'm a bot that helps downloading videos 
+##[Download via reddit.tube](https://reddit.tube/d/vJqaBky?t=1596794709)
+
+If I don't reply to a comment, send me the link [per message.](https://np.reddit.com/message/compose?to=VredditDownloader&subject=Download&message=Put%20your%20reddit%20video%20link%20here%20and%20click%20send%20)
+
+[Download more videos from GTAV](https://www.reddit.tube/category/GTAV)
+
+ ***  
+[Info](https://np.reddit.com/user/VredditDownloader/comments/cju1dg/info/)&#32;|&#32;[Contact&#32;creator](https://np.reddit.com/message/compose?to=-botbert)
+There's a weird thing in GTA where if you did the skyfall cheat (Whatever cheat made you teleport in the air and start skydiving without a parachute) and you hit your head on a wall or other surface before the ground, you survive
+    Oh wow. I did not know that but, awesome. Lmao. Ohhh, rockstar logic.
+You literally saw it happen
+Are you blind
+    Nope. He's just about to hit the front of the truck square with the radiator, next thing he's in the back of it. Bullshit, it's called editing.
+        It's called a bug homie
+        “Editing” don’t exist in this video bud. Bullshit or not, this literally just happened.
+I declare, “BANKRUPTCY!”
+I too, am a blind man watching Reddit videos
+Ever heard of a bug?
+Lookin good
+    Fuck did u just say to me?
+        Slow down
+        [deleted]
+            Looking good
+                Fuck did u just say to me?
+                    Slow down
+                        My man
+                            Looking good
+                    My man
+                        Lookin' good
+                            Since when was this a crossover episode huh?
+                            Slow down
+                        RICK and Morty reference?
+                    My man
+        Pinche Puto
+        You said it means much obliged!😬
+Sometimes I like to ride the train and see how many stars I can get with only the sniper rifle.
+Trucks towing boats are also fun
+r/nocontext
+    Hahaha. Ya that's bad without context, but it doesn't reach the level of "licks retarded dick so hard both men die from penis cancer". That's a silly sub.
+Its actually something you can do in game normally. You can open those doors to the back of the truck in online by doing some trickery your character on top of the truck. The exact method escapes me because i havent done it in years, but i know for a fact me and the boys did it quite frequently.
+    Back when I still played it, you used to have to climb on the back of the bus, take cover and walk to rhe sides a little.
+[deleted]
+    Bottom left "cheat deactivated: Skyfall" pops up for a moment. The cheat didn't get him in the van but it's what put him in the sky lol
+        Now it makes sense, he most likely has the Mod to bring over ONLINE only vehicles to single player. Pretty sure you can open the trucks Online for missions.
+            TIL!
+        u/undeleteparent
+            UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+                Happy cake day bot
+                Finally, your age is on the clock
+                Now why the fuck dont you come when j call you
+        That’s the point
+            The above commenter seemed to have missed the notification, I'm just trying to help out :P
+Funny enough I beat the campaign 3 times (on 3 different platforms) and 100% it twice and for the life of me I can't remember who Molly is.
+    Ive beat it twice and no clueless
+    bitch that stole the movie tapes i thought
+Lmao, I was gonna comment that the game came out 7yrs ago but then I just saw that s
+    Reddit moment
+        Oh so we're reviving old threads? I'm okay with this.
+Both
+Fus Ro Dah'ing the cars
+    u/Pooticus
+        ?
+            You mentioned Skyrim out of context
+He just wants him to literally shout "the traffic"lol
+Guys the owner of u/Phone_Guy_helpme was found dead in the front of a movie vehicle after skydiving, may they Rest In Peace.
+Oh wow. I did not know that but, awesome. Lmao. Ohhh, rockstar logic.
+Nope. He's just about to hit the front of the truck square with the radiator, next thing he's in the back of it. Bullshit, it's called editing.
+    It's called a bug homie
+    “Editing” don’t exist in this video bud. Bullshit or not, this literally just happened.
+Fuck did u just say to me?
+    Slow down
+    [deleted]
+        Looking good
+            Fuck did u just say to me?
+                Slow down
+                    My man
+                        Looking good
+                My man
+                    Lookin' good
+                        Since when was this a crossover episode huh?
+                        Slow down
+                    RICK and Morty reference?
+                My man
+    Pinche Puto
+    You said it means much obliged!😬
+Hahaha. Ya that's bad without context, but it doesn't reach the level of "licks retarded dick so hard both men die from penis cancer". That's a silly sub.
+Back when I still played it, you used to have to climb on the back of the bus, take cover and walk to rhe sides a little.
+Bottom left "cheat deactivated: Skyfall" pops up for a moment. The cheat didn't get him in the van but it's what put him in the sky lol
+    Now it makes sense, he most likely has the Mod to bring over ONLINE only vehicles to single player. Pretty sure you can open the trucks Online for missions.
+        TIL!
+    u/undeleteparent
+        UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+            Happy cake day bot
+            Finally, your age is on the clock
+            Now why the fuck dont you come when j call you
+    That’s the point
+        The above commenter seemed to have missed the notification, I'm just trying to help out :P
+Ive beat it twice and no clueless
+bitch that stole the movie tapes i thought
+Reddit moment
+    Oh so we're reviving old threads? I'm okay with this.
+u/Pooticus
+    ?
+        You mentioned Skyrim out of context
+It's called a bug homie
+“Editing” don’t exist in this video bud. Bullshit or not, this literally just happened.
+Slow down
+[deleted]
+    Looking good
+        Fuck did u just say to me?
+            Slow down
+                My man
+                    Looking good
+            My man
+                Lookin' good
+                    Since when was this a crossover episode huh?
+                    Slow down
+                RICK and Morty reference?
+            My man
+Pinche Puto
+You said it means much obliged!😬
+Now it makes sense, he most likely has the Mod to bring over ONLINE only vehicles to single player. Pretty sure you can open the trucks Online for missions.
+    TIL!
+u/undeleteparent
+    UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+        Happy cake day bot
+        Finally, your age is on the clock
+        Now why the fuck dont you come when j call you
+That’s the point
+    The above commenter seemed to have missed the notification, I'm just trying to help out :P
+Oh so we're reviving old threads? I'm okay with this.
+?
+    You mentioned Skyrim out of context
+Looking good
+    Fuck did u just say to me?
+        Slow down
+            My man
+                Looking good
+        My man
+            Lookin' good
+                Since when was this a crossover episode huh?
+                Slow down
+            RICK and Morty reference?
+        My man
+TIL!
+UNDELETED comment: 
+
+>using cheats? nothing to prompt that?
+
+I am a bot
+
+^please ^pm ^me ^if ^I ^mess ^up
+
+---
+
+consider [supporting me?](https://paypal.me/undeleteparent)
+    Happy cake day bot
+    Finally, your age is on the clock
+    Now why the fuck dont you come when j call you
+The above commenter seemed to have missed the notification, I'm just trying to help out :P
+You mentioned Skyrim out of context
+Fuck did u just say to me?
+    Slow down
+        My man
+            Looking good
+    My man
+        Lookin' good
+            Since when was this a crossover episode huh?
+            Slow down
+        RICK and Morty reference?
+    My man
+Happy cake day bot
+Finally, your age is on the clock
+Now why the fuck dont you come when j call you
+Slow down
+    My man
+        Looking good
+My man
+    Lookin' good
+        Since when was this a crossover episode huh?
+        Slow down
+    RICK and Morty reference?
+My man
+My man
+    Looking good
+Lookin' good
+    Since when was this a crossover episode huh?
+    Slow down
+RICK and Morty reference?
+Looking good
+Since when was this a crossover episode huh?
+Slow down

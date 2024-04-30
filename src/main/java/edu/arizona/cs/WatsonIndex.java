@@ -118,7 +118,8 @@ public class WatsonIndex {
             // Iterate over each subdirectory
             for (File subDirectory : subDirectories) {
                 directoryName = subDirectory.getName();
-                System.out.println("Directory: " + directoryName);
+                //System.out.println("Directory: " + directoryName);
+                System.out.println(directoryName);
                 docCount++;
                 // Get all text files in the subdirectory
                 File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
@@ -126,7 +127,7 @@ public class WatsonIndex {
                 //List<String> fileContents = new ArrayList<>();
                 Document newDoc = null;
                 for (File textFile : textFiles) {
-                    System.out.println("  Text File: " + textFile.getName());
+                    //System.out.println("  Text File: " + textFile.getName());
                     fileCount++;
                     String fileContent = parseTextFile(textFile.getPath());
                     newDoc = new Document();
@@ -211,18 +212,16 @@ public class WatsonIndex {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
         WatsonIndex engine = new WatsonIndex("watsonindex");
-        
         try {
             System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);
-            for (int i = 0; i < reader.maxDoc(); i++) {
+            /*for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
                 //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
-            }
+            }*/
             reader.close();
         } catch (IOException e) {
             e.printStackTrace();

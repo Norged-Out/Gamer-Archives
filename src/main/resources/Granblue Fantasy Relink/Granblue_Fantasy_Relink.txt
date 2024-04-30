@@ -1,0 +1,62 @@
+{{Short description|2024 video game}}
+{{Infobox video game
+| title = Granblue Fantasy: Relink
+| image = Granblue Fantasy Relink logo.png
+| developer = [[Cygames|Osaka Cygames]]{{efn|[[PlatinumGames]] co-developed the game from its inception until leaving the project in 2019.}}
+| publisher = [[Cygames]]{{efn|Physical versions published by [[Xseed Games]] in North America, and [[Plaion]] in Europe and Australia}}
+| director = {{ubl|Tetsuya Fukuhara|Yasuyuki Kaji}}
+| producer = Kazuhiro Tsuchiya
+| designer = Wataru Nishimine
+| programmer = {{ubl|Ikki Yamazaki|Shogo Ishii|Yosuke Nishikawa}}
+| artist = {{ubl|Hideo Minaba|Satori Hato}}
+| writer = {{ubl|Sanshiro Hidaka|Shingo Noguchi}}
+| composer = Tsutomu Narita
+| series = ''[[Granblue Fantasy]]''
+| engine = [[Cyllista Game Engine|Cyllista]]
+| platforms = {{ubl|[[PlayStation 4]]|[[PlayStation 5]]|[[Windows]]}}
+| released = February 1, 2024
+| genre = [[Action role-playing]]
+| modes = [[Single-player]], [[multiplayer]]
+}}{{nihongo foot|'''''Granblue Fantasy: Relink'''''|グランブルーファンタジー リリンク|Guranburū Fantajī Ririnku|lead=yes|group=lower-alpha}} is a 2024 [[action role-playing game]] developed and published by [[Cygames]]. The game was released as part of the ''[[Granblue Fantasy]]'' franchise for [[PlayStation 4]], [[PlayStation 5]], and [[Windows]]. It received positive reviews from critics and shipped a million copies within two weeks of release.
+==Plot==
+During their journey to find the mythical Astral realm of Estalucia, Captain and their crew consisting of Lyria, Vyrn, Katalina, Io, Rackam, Eugen, and Rosetta arrive at the Zegagrande Skydom aboard their airship, the ''Grandcypher''. They are attacked by monsters shortly after arrival, forcing the Captain and Lyria to summon the primal dragon Bahamut to repel them. However, Lyria suddenly loses control of Bahamut and it begins attacking the ship, with the crew barely being able to subdue it. Lyria falls overboard due to the strain of getting Bahamut back under control, with the Captain and Vryn also going overboard to save her. They are rescued by the rest of the crew on the ground, and they make their way to the nearest village, Folca. As the ''Grandcypher'' undergoes repairs, the crew encounter the village's local priest and self proclaimed handyman, Rolan.
+The Captain decides to assist Rolan in evacuating villagers from the nearby island Tempeal after the primal beast there, Furycane, goes berserk, causing catastrophic windstorms. The crew rescues all of the villagers before heading to Furycane's shrine to subdue it. While they successfully subdue Furycane, they are ambushed by the Church of Avia led by Lilith, who captures Lyria as part of her plan to reach Estalucia. The crew attempts to stop her, only be defeated by her bodyguard Id. The crew are forced to retreat to Folca to regroup, where Rolan agrees to assist them. They pursue Lilith and Lyria with the newly repaired ''Grandcypher'' to the shrine of Managarmr, where they discover that Lilith has put Lyria under her control through a special collar. They are unable to stop Lyria from absorbing Managarmr and escaping again. Rolan then takes the crew to the Zegagrande Skydom's capital city of Seedhollow to consult with the underworld informant Zathba, who knows how to remove the mind control collar. Zathba sends the crew to some nearby ruins which contains a device to deactivate the collar, which they recover. The crew once again pursues Lilith to the shrine of the primal beast Vulkan Bolla, where they briefly team up with Id to rescue Lyria from the primal. However, despite removing the collar from Lyria, they are unable to stop Lilith from escaping with her again.
+Seeing that the situation is dire, Rolan finally reveals to the crew that both he and Lilith are actually Astrals who were left behind in the Sky Realm. While Rolan was content with living among humans, Lilith was obsessed with returning home to Estalucia, leading her to found the Church of Avia. Her plan is to revive the primal beast Angra Mainyu and then sacrifice the primal beasts Lyria has absorbed to it, which would give it the power to open a portal to Estlaucia. However, Rolan warns that such an act would completely destroy the Sky Realm. The crew rush to Seedhollow where Angra Mainyu's shrine has been hidden only to find the city already under attack by the Church of Avia. They fight their way through Lilith's elite troops, defeat Id, and rescue Lyria. With her plans to sacrifice Lyria thwarted, Lilith captures Rolan, intending to use him as the sacrifice instead. She then summons a massive floating island, the Pillar of Vayoi, and heads there to complete her ritual.
+Determined to stop Lilith and rescue Rolan, the crew assaults the Pillar of Vayoi, where they are joined by Id, who disagrees with Lilith's desire to sacrifice the Sky Real for her own ends. They fight their way up the tower and confront Lilith once again. The crew manages to rescue Rolan and thwart the ritual, and with the combined might of Lilith's former lieutenants and Zathba's air fleet, are able to destroy Angra Mainyu and thwart Lilith's plans for good. Furious at her defeat, Lilith awakens the primal dragon Bahamut Versa hidden inside Id's body, forcibly transforming him into the dragon. Bahamut Versa then goes berserk, knocking Lilith off a cliff to her death before flying away. Rolan warns that Bahamut Versa has the power to destroy the entire Sky Realm, so the crew give chase. With Rolan's help, the crew are able to separate Id from Bahamut Versa and banish the dragon back to its pocket dimension. However, the Captain and Id end up trapped in the pocket dimension, and Rolan rescues them at the cost of being trapped himself. The crew returns to Folca with Id and celebrate their victory.
+In the epilogue chapter, Id and the crew help the Zegagrande Skydom rebuild. They also look for ways to rescue Rolan and manage to recover fragments of his journal all around the skydom. Reading the full journal, Id gets the idea to use the remnants of Bahamut Versa's power within him to force open a portal. He and the crew enter the pocket dimension and with Rolan's help, destroy Bahamut Versa before escaping back to their home dimension. Rolan thanks the crew for their assistance, and Id decides to stay in the Skydom to continue helping its people. The Captain, Lyria, and their crew decide to continue their adventures to find Estalucia.
+==Development and release==
+''Granblue Fantasy: Relink'' was announced in August 2016 as a collaboration between [[Cygames]] and [[PlatinumGames]]. The game was composed by Tsutomu Narita with art design by Hideo Minaba. In September 2016, the game was announced for [[PlayStation 4]] and to be released in 2018 at Sony's Tokyo Game Show press conference. The game is set in the same fictional realm as the original ''[[Granblue Fantasy]]'' but takes place in a different location, although some characters from the original game will appear.
+The first public gameplay was shown at ''GranBlue Fes 2017''. ''Granblue Fantasy'' Series Director Tetsuya Fukuhara described some gameplay details - the game includes four person [[co-operative multiplayer]], or, single person play with three [[Artificial intelligence in video games|AI characters]]. Its official title, ''Granblue Fantasy: Relink'', was revealed in December 2018.
+By February 2019, PlatinumGames was no longer involved in the project, leaving Cygames to handle the rest of development. Yasuyuki Kaji, an employee of PlatinumGames and the director of ''Relink'' since the beginning of development, remained working on the game with Cygames as its director to completion.
+After not releasing in 2018 as planned, the game was scheduled to be released in 2022, but was once again delayed to 2023, then was finally delayed to February 1, 2024. Cygames published the game physically in Japan and digitally worldwide, while [[Xseed Games]] and [[Plaion]] distributed physical copies in North America and Europe, respectively. A playable demo was released on January 11, 2024.
+== Reception and sales ==
+{{expand section|date=February 2024}}
+{{Video game reviews
+| MC = (PC) 82/100 (PS5) 80/100
+| OC = 80%
+| Destruct = 8/10
+| GI = 7/10
+| IGN = 8/10
+| GSpot = 7/10
+| PcGamer = 8/10
+| PCGUS = 90/100
+| PSQ = {{Rating|8|10}}
+}}
+''Granblue Fantasy: Relink'' received "generally favorable" reviews from critics, according to [[review aggregator]] website [[Metacritic]].
+''Granblue Fantasy: Relink'' shipped a million copies within two weeks of release.
+==Notes==
+{{notelist}}
+==References==
+{{reflist}}
+==External links==
+* {{Official website|http://relink.granbluefantasy.jp/en/}}
+{{Cygames}}
+[[Category:2024 video games]]
+[[Category:Action role-playing video games]]
+[[Category:Granblue Fantasy]]
+[[Category:Japanese role-playing video games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation 5 games]]
+[[Category:Video games developed in Japan]]
+[[Category:Windows games]]
