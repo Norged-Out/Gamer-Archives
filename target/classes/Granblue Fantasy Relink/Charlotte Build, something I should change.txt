@@ -1,0 +1,166 @@
+[[Charlotte Build, something I should change]]
+
+
+
+
+
+The most important first is getting your Crit to 100%. Most Masteries and Weapon Masteries are very crit reliant.
+
+2x V+ red sigils aren't worth it as most skills over level 15 have very heavy diminishing returns. Remove one tyranny for Stamina and remove one exploiter for Life on line.
+
+Make sure you use the vertical spin when jumping. You are way over the Damage cap but Charlotta can benefit from this from the vertical spin.
+Loose the exploiters get supplementary damage in switch the 2 damage caps for Alpha Sigils go BRRRR
+Well, the basics;
+
+4 DMG Cap, 
+3 Supplemental, 
+1 War Elemental
+
+To hit the cap you need one of each;
+
+Tyranny or Life in the Line, 
+Stamina, 
+Combo Booster, 
+Combo Finisher
+
+You can take any of the DMG ones with the Awekining Sigils, like;
+Awekining Sigil 1 + Combo Booster
+Awekining Sigil 2 + Stamina
+
+For the other two, one you take with Critical Hit Rate+ Tyranny.
+
+And for the last Combo Finisher + Potion Hoarder or any sub you want...
+
+Injure to Insult and Critical DMG you use in the Stone, bc they arent worth of the sigils slot...
+
+You can use [this](https://docs.google.com/spreadsheets/d/1RnNLfdqFCW7zWvfHnQsNRJoi7EtIjdOUg-uYB0xsZHQ/edit?usp=drivesdk) to help you with the building...
+Bruh
+Change everything lol
+Get rid of exploiter sigils, replace 1 with crit and the other with a supplementary damage (even a lv4 one) if possible. Supplementary damage procs cascade and combo booster, giving you even shorter CDs and damage.
+
+Replace one of your tyranny's with stamina. It is more damage than running 2 tyranny.
+
+Replace a Gamma or a DMG cap with one Alpha, most of Charlotta's damage comes from spamming her combo finisher, which counts as a normal attack, not a skill. Running 2 alphas isn't worth it.
+
+Replace your weapon's imbuement with a Vitality (crit) one, preferably with 10% crit and 4 cascade (to cap it out at lv20.) Have 20% crit in overmastery to hit 100% crit using only 1 crit sigil.
+
+If you feel comfortable enough in not dying, replace autorevive with nimble onslaught. You will get +2s of invuln on a perfect dodge (which goes well with your improved dodge sigil) plus like 4% SBA gauge. Even if you think you'll get hit a lot, I'd replace autorevive with Aegis, except for lucillius since he'll 1 shot you even with aegis.
+My Charlotta uses 2 stamina V’s and combo finisher V to hit the cap on the holy stance gap closer, her hardest hitting move, and it’s a very noticeable damage increase. 
+
+With potion hoarder V and regen synergizing well with her, you are either at 100% or 0%  HP anyway. Invincible skill and her parry sigil also makes it easier for her to be top HP at all times. 
+
+But above all, you gotta have >90% crit rate man. Unless you know you have Cag’s buff. I love the idea of exploiter’s back attack damage but that is way less consistent than being at top HP for stamina.
+1 Crit lv 15 instead of 1 Exploiter, only get 1 Tyranny, get Damage supplement or rather try XD, When you get the neccesities you'll wanna remove the following
+
+1x Tyranny 2x Exploiter 1x Combo booster 1x Improved dodge
+
+instead get
+
+3x damage supplement 1x holy knight Awakening (Instead of luster) 1x Stout heart 1 crit rate
+Looks pretty good but there are some changes you can make to make it even better.
+
+You need 100% crit chance. For Charlotta Overmastery you need +20% crit chance, after that in order of importance would be skill cap up, attack up and lastly normal attack cap up.
+
+Switch 2x weak point damage and 2x tyranny to, in order of importance, Combo finisher DMG, Tyranny, Crit DMG and Life on the line.
+
+Switch Luster to Grandeur. Grandeur is insanely good since allows Valiant Stance to be viable and allows you to be pretty much permernently invulnerable. Luster is kinda useless since you rarely use the yellow slashes due to their low cap.
+
+Switch 3x Attack to 2x Quick Cooldown and 1x Uplift. You want to get as many yellow buzzsaws out as possible. and the Uplift helps a lot for Proto and Luci.
+
+Once you get Supp DMG, swap out Improved dodge first, followed by Life on the line and finally Crit DMG in that order. You do not need improved dodge since you will be parrying pretty much everything. After that, try to get a level 10 Crit chance and Life on the line or Crit damage in your weapon.
+
+For skills, switch from Invincible to Valiant Stance once you are comfortable.
+    Crt DMG is trash compared to Life on line. In fact, Exploiter is much better than Crt DMG despite being a "bad skill"
+    Lunges are your main dps source and they are mainly accessed through your skills. I would not recommend dropping Luster over Grandeur as you still use Noble Stance attacks as your main filler when your skills are on cooldown and Supp DMG doubles (or close ?) the value of Luster (and cascade) on proc.
+
+Grandeur also doesn’t prevent you from getting debuffed by attacks such as Freezing, SBA/Skill Sealed, etc. You already get great uptime with the base parry and dodges which also allow you to keep your Noble Stance (and Invincibility buff if necessary).
+
+Once you are very comfortable and have good damage uptime, you can drop Uplift as Charlotta already fills SBA very quickly (with Uplift, you will have to wait for teammates and hold SBA).
+[deleted]
+    Talking mad shit for someone in Noble Execution distance.
+I don't know much about her myself but with like 30 drain isn't she functionally immortal? I also don't think I've ever seen exploiter valued so much.
+    Drain is capped at 500 so by end game there's no point getting Drain over like Lv5.
+
+It's a waste of a sigil slot. Get it on your weapon wightstone if you really want it.
+        I mean to be fair Drain is useful on rapid attackers where even if the amount is low, \`per hit\`, the sheer number of hits (and likely supplementary damage counting to) makes an easy way to top off hp without having to burn potions constantly.
+
+Such as Rackham and Charlotte and Yordaha. Though Cagliostro does have quite a few multi-hit spam attacks such as her 3rd combo finisher with the buzzsaws.
+
+Also helps Rackham is one of the FEW units i believe that has a very useless character exclusive sigil, because his +1 bullet to normal shot barrages sound good on paper, but because it \`extends\` the window on button presses, its more like they pushed the button tap further down instead of actually speeding up the shot burst to have more damage per \`volley\`. So i find him to get a special service of 2 potential spots for Drain on a character exclusive sigil or on a wight stone.
+
+Granted, because most units hit the damage cap mostly by the time you have 100% crit chance, Stamina and Tyranny, the extra \`red sigil\` spots are more to cover up Stamina when your hp is not topped up or that free space to run a non-red for flexible room space.
+
+Or in my case, Stout heart, Firm stance and Steel nerves as the \`close range\` trinity of durability for playable units between a 40%\~ damage reduction and not get gravitied by vaccum/push attacks so i can actually dodge attacks more consistently.
+
+Never the less, its better to slap it as a sub-effect from a wright-stone, but its always nice to figure out what fits as the flexibility.
+
+Also why i consider Alpha/Beta/Gamma mostly hot-garbage because i tend to use my Damage cap sigils to hold Quick cooldown/Cascade/Stun power/Improved Cooldown/Nimble onslaught/Auto-revive/Guts/Potion Hoarder/Drain/Regen/Steel Nerves/Firm Stance, depending on what i manage to roll after bashing my head likely in for hundreds of times and then another 50 or so for transmarvel to maybe land on 1 or 2 good sigils.
+
+Now if we simply equipped 2 of those 3 sigils to achieve BOTH thar level 30 effects at level 15 instead, then i could see some value on that SBA shield pop and whatever Gamma\`s was again.
+
+Oh and plus have 2 instances of damage cap increase instead of a very overly specific one that some people tested only results in a 5% or less increase in the actual overall damage, meaning your better off having sigil effects that increase your survivability or directly reduce the cooldown of skills constantly so you can throw out more attacks to boost your damage instead.
+
+Though outside of having a bunch of AI units that purposely \`share burn\` thar SBA gauge like a Captain and you aim for SBA chains, i still dont see the value of a bonus that only applies to SBAs when you may only get 1, maybe 2 of them a match and Lucy is likely super durable enough to go past that 2nd number to maybe a get a third one out.
+        [https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc](https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc)
+
+Note: the poster was wrong about the improved healing sigil (he corrects himself in the comments) so all of the healing in his vid is coming from drain.
+
+It's a month old though so maybe they capped drain since then. Would be weird though because why even have drain levels then?
+Crt DMG is trash compared to Life on line. In fact, Exploiter is much better than Crt DMG despite being a "bad skill"
+Lunges are your main dps source and they are mainly accessed through your skills. I would not recommend dropping Luster over Grandeur as you still use Noble Stance attacks as your main filler when your skills are on cooldown and Supp DMG doubles (or close ?) the value of Luster (and cascade) on proc.
+
+Grandeur also doesn’t prevent you from getting debuffed by attacks such as Freezing, SBA/Skill Sealed, etc. You already get great uptime with the base parry and dodges which also allow you to keep your Noble Stance (and Invincibility buff if necessary).
+
+Once you are very comfortable and have good damage uptime, you can drop Uplift as Charlotta already fills SBA very quickly (with Uplift, you will have to wait for teammates and hold SBA).
+Talking mad shit for someone in Noble Execution distance.
+Drain is capped at 500 so by end game there's no point getting Drain over like Lv5.
+
+It's a waste of a sigil slot. Get it on your weapon wightstone if you really want it.
+    I mean to be fair Drain is useful on rapid attackers where even if the amount is low, \`per hit\`, the sheer number of hits (and likely supplementary damage counting to) makes an easy way to top off hp without having to burn potions constantly.
+
+Such as Rackham and Charlotte and Yordaha. Though Cagliostro does have quite a few multi-hit spam attacks such as her 3rd combo finisher with the buzzsaws.
+
+Also helps Rackham is one of the FEW units i believe that has a very useless character exclusive sigil, because his +1 bullet to normal shot barrages sound good on paper, but because it \`extends\` the window on button presses, its more like they pushed the button tap further down instead of actually speeding up the shot burst to have more damage per \`volley\`. So i find him to get a special service of 2 potential spots for Drain on a character exclusive sigil or on a wight stone.
+
+Granted, because most units hit the damage cap mostly by the time you have 100% crit chance, Stamina and Tyranny, the extra \`red sigil\` spots are more to cover up Stamina when your hp is not topped up or that free space to run a non-red for flexible room space.
+
+Or in my case, Stout heart, Firm stance and Steel nerves as the \`close range\` trinity of durability for playable units between a 40%\~ damage reduction and not get gravitied by vaccum/push attacks so i can actually dodge attacks more consistently.
+
+Never the less, its better to slap it as a sub-effect from a wright-stone, but its always nice to figure out what fits as the flexibility.
+
+Also why i consider Alpha/Beta/Gamma mostly hot-garbage because i tend to use my Damage cap sigils to hold Quick cooldown/Cascade/Stun power/Improved Cooldown/Nimble onslaught/Auto-revive/Guts/Potion Hoarder/Drain/Regen/Steel Nerves/Firm Stance, depending on what i manage to roll after bashing my head likely in for hundreds of times and then another 50 or so for transmarvel to maybe land on 1 or 2 good sigils.
+
+Now if we simply equipped 2 of those 3 sigils to achieve BOTH thar level 30 effects at level 15 instead, then i could see some value on that SBA shield pop and whatever Gamma\`s was again.
+
+Oh and plus have 2 instances of damage cap increase instead of a very overly specific one that some people tested only results in a 5% or less increase in the actual overall damage, meaning your better off having sigil effects that increase your survivability or directly reduce the cooldown of skills constantly so you can throw out more attacks to boost your damage instead.
+
+Though outside of having a bunch of AI units that purposely \`share burn\` thar SBA gauge like a Captain and you aim for SBA chains, i still dont see the value of a bonus that only applies to SBAs when you may only get 1, maybe 2 of them a match and Lucy is likely super durable enough to go past that 2nd number to maybe a get a third one out.
+    [https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc](https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc)
+
+Note: the poster was wrong about the improved healing sigil (he corrects himself in the comments) so all of the healing in his vid is coming from drain.
+
+It's a month old though so maybe they capped drain since then. Would be weird though because why even have drain levels then?
+I mean to be fair Drain is useful on rapid attackers where even if the amount is low, \`per hit\`, the sheer number of hits (and likely supplementary damage counting to) makes an easy way to top off hp without having to burn potions constantly.
+
+Such as Rackham and Charlotte and Yordaha. Though Cagliostro does have quite a few multi-hit spam attacks such as her 3rd combo finisher with the buzzsaws.
+
+Also helps Rackham is one of the FEW units i believe that has a very useless character exclusive sigil, because his +1 bullet to normal shot barrages sound good on paper, but because it \`extends\` the window on button presses, its more like they pushed the button tap further down instead of actually speeding up the shot burst to have more damage per \`volley\`. So i find him to get a special service of 2 potential spots for Drain on a character exclusive sigil or on a wight stone.
+
+Granted, because most units hit the damage cap mostly by the time you have 100% crit chance, Stamina and Tyranny, the extra \`red sigil\` spots are more to cover up Stamina when your hp is not topped up or that free space to run a non-red for flexible room space.
+
+Or in my case, Stout heart, Firm stance and Steel nerves as the \`close range\` trinity of durability for playable units between a 40%\~ damage reduction and not get gravitied by vaccum/push attacks so i can actually dodge attacks more consistently.
+
+Never the less, its better to slap it as a sub-effect from a wright-stone, but its always nice to figure out what fits as the flexibility.
+
+Also why i consider Alpha/Beta/Gamma mostly hot-garbage because i tend to use my Damage cap sigils to hold Quick cooldown/Cascade/Stun power/Improved Cooldown/Nimble onslaught/Auto-revive/Guts/Potion Hoarder/Drain/Regen/Steel Nerves/Firm Stance, depending on what i manage to roll after bashing my head likely in for hundreds of times and then another 50 or so for transmarvel to maybe land on 1 or 2 good sigils.
+
+Now if we simply equipped 2 of those 3 sigils to achieve BOTH thar level 30 effects at level 15 instead, then i could see some value on that SBA shield pop and whatever Gamma\`s was again.
+
+Oh and plus have 2 instances of damage cap increase instead of a very overly specific one that some people tested only results in a 5% or less increase in the actual overall damage, meaning your better off having sigil effects that increase your survivability or directly reduce the cooldown of skills constantly so you can throw out more attacks to boost your damage instead.
+
+Though outside of having a bunch of AI units that purposely \`share burn\` thar SBA gauge like a Captain and you aim for SBA chains, i still dont see the value of a bonus that only applies to SBAs when you may only get 1, maybe 2 of them a match and Lucy is likely super durable enough to go past that 2nd number to maybe a get a third one out.
+[https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc](https://youtu.be/B6lKD5pHoig?si=MtATB87kwKM9zeyc)
+
+Note: the poster was wrong about the improved healing sigil (he corrects himself in the comments) so all of the healing in his vid is coming from drain.
+
+It's a month old though so maybe they capped drain since then. Would be weird though because why even have drain levels then?

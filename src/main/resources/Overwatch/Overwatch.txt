@@ -1,0 +1,153 @@
+{{Short description|Multimedia franchise}}
+{{About|the franchise|the first installment|Overwatch (video game){{!}}''Overwatch'' (video game)|other uses}}
+{{Use mdy dates|date=December 2022}}
+{{Infobox video game series
+| title = ''Overwatch''
+| image = Overwatch circle logo.svg
+| caption =
+| platforms = [[Windows]], [[PlayStation 4]], [[Xbox One]], [[Nintendo Switch]], [[PlayStation 5]], [[Xbox Series X/S]]
+| developer = [[Blizzard Entertainment]]{{efn|Ported to Nintendo Switch by [[Iron Galaxy]]}}
+| first release version = ''[[Overwatch (video game)|Overwatch]]''
+| first release date = May 24, 2016
+| latest release version = ''[[Overwatch 2]]''
+| latest release date = October 4, 2022
+| publisher = {{Unbulleted list|Blizzard Entertainment}}
+| genre = [[First-person shooter]], [[hero shooter]]
+| spinoffs =
+| creator =
+| artist =
+| writer =
+| composer =
+}}
+'''''Overwatch''''' is a [[Media franchise|multimedia franchise]] centered on a series of online multiplayer first-person shooter (FPS) video games developed by [[Blizzard Entertainment]]. ''[[Overwatch (video game)|Overwatch]]'' was released in 2016, and ''[[Overwatch 2]]'' was released in 2022. Both games feature [[hero shooter|hero-based]] combat between two teams of players vying over various objectives, along with other traditional gameplay modes.
+Released in 2016, the first video game in the series lacked a traditional story mode. Instead, Blizzard employed a [[transmedia storytelling]] strategy to disseminate lore regarding the game's characters, releasing [[Overwatch (digital comic series)|comics]] and other literary media, as well as [[Overwatch animated media|animated media]] that includes short films. The game enjoyed both critical and commercial success, and garnered a devoted following. In addition to more traditional fan art, the game also spawned [[Overwatch and pornography|fan-produced pornographic content]] which attracted considerable media attention.
+Blizzard helped launch and promote an esports scene surrounding the game, including an annual [[Overwatch World Cup]], as well as a [[Overwatch League|league]] and its [[Overwatch Contenders|developmental minor league]], which borrowed elements found in traditional American sports leagues. In 2022, [[Overwatch 2|a sequel]] was released.
+==Premise==
+{{seealso|Characters of Overwatch}}
+===Omnic Crisis===
+''Overwatch'' is set sixty years into the future{{NoteTag|Upon the 2016 release of the original ''Overwatch'' video game. }} of a fictionalized Earth, as well as thirty years after the "Omnic Crisis" is resolved and six years after the Petras Act is signed.
+Omnics are artificial intelligence (AI) robots that were created to assist humans in manufacturing and global economic equality efforts. During this period, humanity prospered as omnics helped stabilize society.
+The Omnic Crisis involved "omniums" (large facilities that churned out omnics) beginning to produce hostile omnics, many of which were [[Characters of Overwatch#Bastion|bastion]] units. The United States launched the secret Soldier Enhancement Program, modifying soldiers into mercenaries. [[Soldier: 76|Jack Morrison]] and [[Characters of Overwatch#Reaper|Gabriel Reyes]] were among the most notable test subjects of the program. Meanwhile, Germany responded to the crisis through the Crusaders, an elite force of soldiers heavily suited in armor inspired by [[knight]]s and wielding weapons such as hammers. The Crusaders were led by Balderich von Adler, until he handed the [[rein]]s to a young [[Characters of Overwatch#Reinhardt|Reinhardt Willhelm]] following a battle in [[Gameplay of Overwatch#Hybrid maps|Eichenwalde]].
+Removed from the crisis, scientists on the moon-based Horizon Lunar Colony create genetically modified animals to test long-term habitation in space. Among these animals is an ape named [[Winston (Overwatch)|Winston]]. Other apes on the colony start a revolt, killing all scientists in the process. However, Winston creates a rocket and escapes to Earth.
+While Russia opted to handle the waves of omnics on their own, nations failed to quell the crisis individually. Within a few years, the Omnic Crisis was declared over and Overwatch transitioned toward being a peacekeeping organization.
+===Overwatch Generation and Blackwatch===
+After the end of the crisis, an ensuing [[Golden age (metaphor)|golden age]] of heroism and global peace was dubbed the "Overwatch Generation". Despite this, separate human–omnic conflicts sprung up in Korea and Australia. Meanwhile, the Indian-based Vishkar Corporation developed a technology that allowed its users, or "architechs", to create physical objects with light. Vishkar took this technology to [[Rio de Janeiro]] and while initially well-intentioned, the corporation began to abuse Rio's population. A group of omnics called the Shambali also emerged. Led by [[Characters of Overwatch#Tekhartha Mondatta|Tekhartha Mondatta]], they believe that omnics possess a soul and aim to revitalize human–omnic relations.
+A growing rift between Morrison and Reyes arose after the former was promoted to Strike Commander.}} Irish geneticist [[Moira (Overwatch)|Moira O'Deorain]], and Japanese cyborg ninja [[Characters of Overwatch#Genji|Genji Shimada]] joined as members of Blackwatch. The latter was part of the eponymous Shimada Clan crime family alongside his brother, [[Hanzo (Overwatch)|Hanzo]]. After a falling out, the family ordered Hanzo to kill Genji. On the brink of death, Genji was rehabilitated into a cyborg by Overwatch medical director [[Mercy (Overwatch)|Angela Ziegler]].
+===Fall of Overwatch===
+A terrorist organization, Null Sector, meanwhile emerges in London. Lacking rights in England, omnics are forced to live in the Underworld, a city beneath the streets of London.{{sfn|Marks|2016|p=3}} Composed of these omnics facing persecution following the Omnic Crisis' conclusion, Null Sector launches a surprise attack on [[Gameplay of Overwatch#Hybrid maps|King's Row]]. Dismissing orders from the British Prime Minister, Morrison deploys Overwatch agents Wilhelm, Lindholm, Ziegler, and the newly-recruited [[Tracer (Overwatch)|Lena Oxton]] on an ultimately successful mission to stop Null Sector's forces.
+Blackwatch is enlisted to fight against Talon, a terrorist threat seeking to set off another crisis.
+After these events, the UN signed the Petras Act, outlawing any further activity by Overwatch. As any other action would be deemed illegal, Overwatch disbanded.
+Both Morrison and Reyes end up surviving, however. Morrison begins a vigilante crusade under the name [[Soldier: 76]] against Overwatch's former enemies. Reyes is able to render himself temporarily incorporeal as a result of a life-saving procedure conducted by O'Deorain. Now operating under the name [[Characters of Overwatch#Reaper|Reaper]], Reyes joins Talon.
+===Recall===
+Six years after the Petras Act is signed, a second Omnic Crisis emerges in Russia. Staying at Watchpoint, a former Overwatch facility based in [[Gibraltar]], Winston follows the developing situation. Reaper then breaks into Watchpoint and attacks Winston. While Winston is able to thwart Reaper, the latter's attack is the catalyst for the former's issuing of a recall of former Overwatch agents.}} Oxton, known by the call sign [[Tracer (Overwatch)|Tracer]], is the first to answer; she is later followed by Genji, Wilhelm, Lindholm, Cassidy, and Ziegler, known by the call sign [[Mercy (Overwatch)|Mercy]].
+After the recall, Reaper and Talon sniper [[Widowmaker (Overwatch)|Amélie Lacroix]] (known as [[Widowmaker (Overwatch)|Widowmaker]]) attempt to steal a gauntlet for their leader [[Doomfist|Akande Ogundimu]]. They are stopped by Winston and Oxton, known by the call sign [[Tracer (Overwatch)|Tracer]]. Widowmaker later assassinates Mondatta as he gives a speech in London.
+==Development==
+{{Main|Development of Overwatch}}
+[[File:Overwatch at GDC 2016 (25259995644).jpg|thumb|250px|Blizzard employees discussing ''Overwatch'' at [[Game Developers Conference|GDC 2016]]]]
+Prior to the original game's announcement, Blizzard had been interested in making a team-based multiplayer shooter for a while. ''Overwatch'' has its development origins rooted in ''[[Titan (Blizzard Entertainment project)|Titan]]'', a Blizzard project that was cancelled in 2013. Elements of ''Titan'' were reworked into ''Overwatch'', which was announced at [[BlizzCon]] in November 2014. ''Overwatch'' became Blizzard's first new series since they launched ''[[Diablo (series)|Diablo]]'' in 1996, as well as their first attempt at making an FPS game. After the game's announcement, ''[[Polygon (website)|Polygon]]'' wrote that it "appears to feature Blizzard's signature chunky, slightly cartoonish style." A beta for the game was launched in 2015.
+[[Jeff Kaplan]], Michael Chu, and Scott Mercer served as the game's lead director, lead writer, and principal game designer, respectively. Blizzard hired writer [[Alyssa Wong]] to ''Overwatch''{{'}}s writing team in 2018. Kaplan departed from Blizzard in April 2021, after which Aaron Keller took over Kaplan's duties as lead director.
+After the release of ''Overwatch'', Blizzard's developers continued to add to the game through free updates, introducing new characters, maps, game modes, and cosmetic items, often as part of [[Overwatch seasonal events|seasonal events]]. The different gameplays of individual heroes were also tuned and patched in response to player feedback and statistics regarding the meta found within the game. As Kaplan followed a philosophy that emphasized players' perception of game balance, he affirmed that meta shifts to ''Overwatch'' were beholden to its players and not its developers; ''[[Polygon (website)|Heroes Never Die]]'' wrote on Kaplan's belief that if the community thought ''Overwatch''{{'}}s meta was broken, then it actually was and vice versa.
+==Games==
+===''Overwatch'' series===
+{{Video game timeline
+| compressempty = yes
+| 2016 = ''[[Overwatch (video game)|Overwatch]]''
+| 2022 = ''[[Overwatch 2]]''
+}}
+{{main|Overwatch (video game)|Overwatch 2}}
+{{see also|Gameplay of Overwatch}}
+The original ''[[Overwatch (video game)|Overwatch]]'' game was released by Blizzard on May 24, 2016, for [[Windows|PC]] platforms, as well as [[Eighth generation of video game consoles|eighth generation console platforms]] [[PlayStation 4]] and [[Xbox One]]. A version of the game developed by [[Iron Galaxy]] for the [[Nintendo Switch]] was later released on October 15, 2019. Blizzard shut down servers for the game on October 3, 2022.
+Blizzard released ''[[Overwatch 2]]'' via [[early access]] on October 4, 2022. The game was made free-to-play on PC and for the [[PlayStation 5]] and [[Xbox Series S/X]] platforms, and employed full cross-platform play. As of December 2023, the roster of selectable heroes in ''Overwatch'' has grown to 39.
+===''Heroes of the Storm'' crossover===
+{{Main|Heroes of the Storm}}
+Until the warm reception of ''Overwatch''{{'}}s beta, Blizzard was unsure of representing ''Overwatch'' characters in ''[[Heroes of the Storm]]'', their crossover multiplayer battle online arena (MOBA) video game. Around a month prior to the release of ''Overwatch'', Blizzard added Tracer to the MOBA; ''[[PC Gamer]]'' called Tracer's addition to the game "a marketing move [for ''Overwatch''], for sure." Afterwards, other characters and map elements from ''Overwatch'' were incorporated into ''Heroes''. By the time the game transitioned to a maintenance mode in July 2022, a total of nine characters became playable in ''Heroes of the Storm'',{{NoteTag|Ana, D.Va, Genji, Hanzo, Junkrat, Lúcio, Mei, Tracer, and Zarya were the nine ''Overwatch'' franchise characters added to ''Heroes of the Storm''.}} while battlegrounds based on the ''Overwatch'' maps Hanamura and Volskaya Industries were also included. A number of ''Overwatch''-themed skins have been introduced for ''Heroes of the Storm''{{'}}s "''Overwatch'' cosplay" event in May 2021.
+==Esports==
+{{Main|Overwatch League|Overwatch Contenders|Overwatch World Cup}}
+{{See also|Overwatch Apex}}
+While not originally developed with esport support in mind, ''Overwatch'' would see a considerable esport scene prop up around the franchise shortly after its first game's release. According to Kaplan, although Blizzard had success with committing to esports while developing ''[[Starcraft II]]'', they found "it's dangerous to be overly committed to esport too early in the lifespan of the game." This included the introduction of the game's competitive mode some months after the game's launch after seeing how players took towards ''Overwatch''; Blizzard saw the ladder-approach they used as a means for skilled players to reach high ranks as to be noticed by esport team organizers. [[ESPN]] and ''[[Gamasutra]]'' wrote that the game had a favorable foundation to succeed as an esports title, citing the game's sufficient difference from established esports games, its variety in maps and characters, and strong support from its developer, as well as its speed and short match times.
+The first organized, prize-winning competitions for ''Overwatch'' started in mid-2016, a few months after launch. The esports organizer [[ESL (company)|ESL]] held the first international ''Overwatch'' competition in August 2016, dubbed the ''Overwatch'' Atlantic Showdown. The competition used four open qualifiers beginning in June, followed by regional qualifiers and then a final online qualifier. Eight teams then competed for a six-figure prize in the finals to be held at [[Gamescom]] 2016 from August 20 to 21. [[Turner Broadcasting]]'s [[ELeague]] announced the first ''Overwatch Open'' tournament, starting in July 2016, with a total prize pool of $300,000, with plans to broadcast the finals on Turner's cable channel [[TBS (U.S. TV channel)|TBS]] in September 2016.
+''Overwatch'' achieved a high level of popularity as an esport in South Korea, with the first game surpassing ''[[League of Legends]]'' and topping [[PC bang|gaming cafés in the country]] in terms of player count. The game also influenced the creation of an esports tournament in the region, under the brand name "[[Overwatch Apex|APEX]]", which operated until January 2018.
+[[File:Dallas Fuel Fans - 2.jpg|thumb|250px|Fans watching the "Battle for Texas" match between the OWL's [[Dallas Fuel]] and [[Houston Outlaws]]]]
+Blizzard announced its own official [[Overwatch World Cup]] (OWWC) tournament in August 2016. The first annual OWWC would be played later that November at BlizzCon 2016,
+The OWL borrowed various elements from traditional sports leagues like the [[National Football League]] (NFL), including a [[List of developmental and minor sports leagues|developmental league]] called [[Overwatch Contenders]] (OWC). The OWL also implemented permanent teams organized in league placements rather than the use of [[promotion and relegation]]. The OWL secured billionaire sports team owners to become OWL team owners and established 12 franchises around the world by September 2017, with plans to expand further in later seasons, which would be 20 at its peak. Contracted players on these franchises were guaranteed a minimum salary, benefits, and revenue sharing. The first OWL regular season game was played between the [[Los Angeles Valiant]] and [[San Francisco Shock]] to a sold out crowd at [[Blizzard Arena]] in January 2018. To support viewership of its professional competitions, Blizzard released a companion ''Overwatch'' application in November 2018, which allowed viewers to watch matches through a spectator mode. However, by 2023 the Overwatch League would collapse owing partly due to the [[COVID-19 pandemic]] {{citation needed span|date=March 2024|(although some said that the pandemic would ultimately extend the OWL's shelf life)}} and a lack of interest from owners.
+The OWL would be replaced in 2024 by the Overwatch Champions Series (OWCS), a partnership between Activision-Blizzard, [[ESL (company)|ESL]] and WDG Esports that moreso resembled traditional esports circuits. The OWCS will be made up of 3 regions, with North America and EMEA being each one big region with tournaments having [[Swiss-system tournament|Swiss-style]] Open Qualifying followed by a group stage and double-elimination knockout stage twice per split. Asia, meanwhile, will be divided into Korea, Japan and Pacific subregions, with the best teams from these subregions qualifying for the OWCS Asia Championship for each split. The top teams from these regions will qualify for two international events, the OWCS Major in the spring for split 1 and the OWCS Season Finals in the fall for split 2.
+==Other media==
+''Overwatch'' was developed to lack a traditional story or campaign mode and instead Blizzard conveyed narrative elements through a [[transmedia storytelling]] method. While voice lines and map elements in ''Overwatch'' reveal some of its universe's lore, the bulk of the story surrounding its [[Characters of Overwatch|characters]] is told through animated short films and literary media. Chu remarked that Blizzard's method of storytelling with ''Overwatch'' demonstrated a "gameplay first" philosophy.
+===Animations===
+{{Main|Overwatch animated media}}
+[[File:Overwatch Zero Hour character lineup.png|thumb|250px|''Overwatch'' characters as they appear in the ''[[Overwatch animated media|Zero Hour]]'' cinematic trailer (2019)]]
+As part of the original game's announcement, Blizzard released an animated "cinematic trailer" for ''Overwatch'' on November 7, 2014. They would repeat this to announce ''Overwatch 2'', releasing the ''Zero Hour'' cinematic trailer in 2019.
+Blizzard also released animated short films to help flesh out "the real meat" of ''Overwatch''{{'}}s lore. These shorts employed 3D [[Computer animation|computer-generated animation]], It was centered around Reaper's attack on Winston at Gibraltar and Winston's following recall of former Overwatch agents.
+Aside from short films, Blizzard also released "origin story" videos for Soldier: 76 and each character added to ''Overwatch''{{'}}s playable roster post-launch. An origin story for King's Row Uprising, a tie-in for an [[Overwatch seasonal events|in-game event]] was also released. These origin story videos are designed to provide players with the background of new characters. Origin stories are animated in the style of [[motion comics]] and are shorter than Blizzard's 3D-animated short films.
+===Comics===
+From 2016 to 2018, Blizzard published [[Overwatch (digital comic series)|''Overwatch'', a 16-issue comic series]], beginning with "Trainhopper". Some issues, such as "Uprising", served as tie-ins to in-game events. Motion comic versions of the series were also released, produced by Madefire Studios. These motion comics included sound effects and official music featured in-game. An expanded edition of the anthology was released in December 2021.
+From 2020 to 2021, Blizzard and Dark Horse published ''Tracer - London Calling'' a five-issue [[Limited series (comics)|limited series]]. Written by [[Mariko Tamaki]] and illustrated by [[Babs Tarr]], print versions of each issue were also released. A graphic novel collecting the five issues and featuring cover art by artist Bengal was physically released on September 28, 2021.
+Another five-issue limited series, ''New Blood'' was released from November 2021 to March 2022. Similar in style to ''London Calling'', the series followed Cassidy post-''Zero Hour'' on his journey to recruit members to the newly revived Overwatch. Both ''London Calling'' and ''New Blood'' also served as tie-ins for in-game [[Overwatch seasonal events|seasonal events]].
+===Other literary media===
+A [[graphic novel]] titled ''Overwatch: First Strike'' was teased by Blizzard in 2016, but it was ultimately scrapped. Posting on ''Overwatch''{{'}}s official forums, Chu stated that Blizzard decided to cancel ''First Strike'' due to considerable changes made to the narrative and characters of ''Overwatch'' since ''First Strike'' was first conceived. The novel was to be penned by writer Micky Neilson and artist Ludo Lullabi.
+Shortly before the publishing of the first volume of their ''Overwatch'' comic series anthology, Dark Horse released ''The Art of Overwatch'' on October 24, 2017.
+In 2019, Blizzard released ''Bastet'', ''What You Left Behind'', and ''Valkyrie'', three short stories which centered on Soldier: 76, [[Characters of Overwatch#Baptiste|Baptiste]], and Mercy, respectively. Further short stories, ''Stone by Stone'' and ''Code of Violence'', centering on Symmetra and Reaper, respectively, have also been released. Also in 2019, Blizzard released an official ''Overwatch'' cookbook. Shortly before the early access period for ''Overwatch 2'', Blizzard ''Yōkai'', which explored story elements regarding [[Kiriko (Overwatch)|Kiriko]]. They later released ''Ramattra: Reflections'' and ''As You Are''.
+On June 2, 2020, ''The Hero of Numbani'', a [[young-adult novel]] by Nicky Drayden was published. The story, functioning as a loose novelization of [[Characters of Overwatch#Orisa|Orisa]]'s origin story, follows Efi Ofadele, an 11-year old inventor. Ofadele creates Orisa in order to help protect the fictional country of Numbani. The novel, titled ''Deadlock Rebels'', centered on Cassidy and [[Characters of Overwatch#Ashe|Ashe]] during their teenage years.
+===Merchandise===
+The popularity of ''Overwatch'' led various companies to launch merchandise lines featuring its characters. [[Funko]] produced several figurines as part of their "Pop!" line. Tracer is featured prominently in [[Good Smile Company]]'s merchandise, with the company distributing both [[Nendoroid]] and [[Figma (toy)|Figma]] figurines of the character. Good Smile has also featured other ''Overwatch'' characters in their lines. [[LEGO]] has also produced an [[Lego Overwatch|''Overwatch'' set of figurines]]. As part of their Rivals line, [[Nerf]] has designed ''Overwatch''-stylized toy guns. Nerf's parent company, [[Hasbro]], later launched a set of action figures featuring ''Overwatch'' characters.
+=== Music ===
+Since the franchise's beginning in 2016, the games have received six [[Video game music|score]] [[Soundtrack album|album]] releases.
+* ''Overwatch Soundtrack'' (2016)
+* ''Synaesthesia auditiva'' (2018)
+* ''Overwatch: Cities and Countries'' (2020)
+* ''Overwatch: Animated Shorts'' (2021)
+* ''Overwatch: Heroes and Villains'' (2022)
+* ''Overwatch 2: Original Game Soundtrack'' (2023)
+==Reception==
+{{VG Series Reviews
+|updated = November 11, 2022
+|game1 = [[Overwatch (video game)|Overwatch]]
+|mc1 = 91/100 (PC) 90/100 (PS4) 91/100 (XONE) 73/100 (Switch)
+|game2 = [[Overwatch 2]]
+|mc2 = 79/100 (PC) 78/100 (PS5) 78/100 (XSXS)
+}}
+The original ''Overwatch'' achieved widespread acclaim from both critics and players both prior to and upon release. Pre-release, media outlets "rushed to cover the [game's] beta", which attracted over 9.7 million players.
+[[File:Cosplay of Tracer and D.Va from Overwatch at Animethon 24 - 2017 (35885255703) (color corrected).jpg|thumb|250px|Cosplay of [[Tracer (Overwatch)|Tracer]] (left) and [[D.Va]] (right), often cited as among the best and most popular ''Overwatch'' characters both in-game and out{{NoteTag|Sources that share such an opinion include:}}]]
+The game's PC, PS4, and Xbox One versions all received "universal acclaim", according to [[review aggregator]] [[Metacritic]]; these versions all hold a "metascore" of 90/100 or higher on the aggregator. ''Overwatch''{{'}}s [[Nintendo Switch]] version, however, received "mixed or average reviews" with a 73/100 metascore on the aggregator. Since its release, ''Overwatch'' has been listed by various outlets as one of [[List of video games considered the best|the best video games of all-time]], particularly within its hero shooter genre and among 21st-century contemporaries.{{NoteTag|Sources or lists that share such an opinion include:
+*''[[IGN]]''{{'}}s "Top 100 Video Games of All Time": No. 51 (2018), No. 50 (2019), and No. 56 (2021) {{cite web|last=Skrebels|first=Joe|url=http://www.ign.com/lists/top-100-games/98/51|title=Top 100 Video Games of All Time|work=[[IGN]]|date=2018|accessdate=October 6, 2022}}{{dead link|date=August 2023|bot=medic}}{{cbignore|bot=medic}}
+*{{cite web|last=Skrebels|first=Joe|url=https://www.ign.com/lists/top-100-games/50|title=Top 100 Video Games of All Time [2019]|work=[[IGN]]|date=2019|accessdate=October 6, 2022}}
+*{{cite web|last=Skrebels|first=Joe|url=https://www.ign.com/articles/the-best-100-video-games-of-all-time|title=The Top 100 Video Games of All Time|work=[[IGN]]|date=May 20, 2022|accessdate=October 6, 2022}}
+*''[[Polygon (website)|Polygon]]''{{'s}} "500 best games of all time": No. 198 (2017)
+*''[[The Guardian]]''{{'}}s "50 best video games of the 21st century": No. 41 (2019)
+*''[[VentureBeat]]'' (2016)}} Voted on by readers, ''Overwatch'' also ranked 29th on a 2018 ''[[Game Informer]]'' poll regarding the best video games of all-time. Critics praised ''Overwatch'' for its friendly and inclusive multiplayer atmosphere, able to appeal to new and casual players, as well as more competitive and expert players. The game's colorful and vibrant world and characters, in addition to the playful and team-based nature of its gameplay were cited as driving forces behind the inclusivity and positivity of its player base. Kaplan concurred with this assessment and led the developers' efforts to curb this toxicity.
+The game also experienced considerable commercial success, becoming the 7th-best selling video game of all-time. Although never officially disclosing an exact number of sold copies, Blizzard counted a lifetime total of over 60 million players in 2021. In 2022, [[Bloomberg News|Bloomberg]] published a report stating that the game eventually sold over 50 million copies. Fans of the franchise produced a large amount of content including art, cosplay, fan fiction, anime-influenced music videos, Internet memes, and [[Overwatch and pornography|pornography]] featuring ''Overwatch'' characters and elements.
+{{Quote box
+|quote=''Overwatch''{{'}}s announcement trailer, released back in 2014, was bombastic and beautiful, and it kicked off a fervent fandom. Players loved the bright designs, strong characterization, and optimism inherent to the setting. The game's launch and follow-up cinematics only solidified this fan base; people loved to ship characters, imagine their missions, and daydream about future lore. ''Overwatch'' was so widespread and iconic it even revolutionized the [[Rule 34]] scene; the game was ''everywhere''.
+| source = &nbsp;–Cass Marshall, ''[[Polygon (website)|Polygon]]'' (2022)
+| align = left
+| width = 25em
+}}
+Prior to ''Overwatch 2''{{'}}s release, fans raised concerns over the sequel's transition toward a 5v5 dynamic. Also predating its release, the sequel attracted both critic and player concerns about whether it would feel like a true sequel with considerable differences from its predecessor. A perceived lack of attention toward support players was also noted during the game's beta. In response, Blizzard made efforts to make the support role more enticing to play.
+While the original game was positively received, elements of its related media garnered some criticism. Writing for ''[[Polygon (website)|Polygon]]'' in 2022, Cass Marshall wrote that "''Overwatch''{{'}}s lore has been in stasis for so long, and its fandom has been so willing to make a meal out of the crumbs sprinkled out over the years, that I feel like the fans' version of the cast is more concrete than the actual canon." Clayton added that "relationships never developed or changed. Characters never grew, and the state of the world-at-large was left a static unknown." Developments in ''Overwatch'' media also affected in-game player patterns; after [[Soldier: 76]] was canonically revealed to be gay in a comic, his pick rate among players dropped dramatically.
+''Overwatch 2'' was met with positive reception from critics, albeit less so than its predecessor; the game's PC version holds an 79/100 metascore on review aggregator [[Metacritic]]. All versions indicate "generally favorable reviews. Players had a more lukewarm reception to the sequel upon its launch, with criticism aimed at its [[battle pass]] feature and its formerly-required "SMS Protect" system. Changes made to online character bios following the launch of ''Overwatch 2'' received criticism from fans.
+On August 10, 2023, ''Overwatch 2'' was released on Steam, garnering an "overwhelmingly negative" rating on Valve's platform. ''IGN''{{'}}s Wesley Yin-Poole affirmed that "most of the negative reviews focus on one thing: monetization", detailing that Blizzard received considerable criticism from ''Overwatch''{{'}}s player base when ''Overwatch 2'' launched in late 2022, due to it auto-updating its predecessor into a free-to-play sequel and "rendering the original ''Overwatch'' unplayable".
+==Notes==
+{{notelist}}
+{{notefoot}}
+==References==
+{{Reflist|30em}}
+* Oh, Taeyeon, Seomgyun Lee, and Hayley Jang. “Outcome Uncertainty and Esports Viewership: The Case of Overwatch League: Journal of Sports Economics.” Journal of Sports Economics 24, no. 8 (December 2023): 971–92. https://doi.org/10.1177.
+* Tomkinson, Sian, and Benn van den Ende. “‘Thank You for Your Compliance’: Overwatch as a Disciplinary System.” Games and Culture 17, no. 2 (2022): 198–218. https://doi.org/10.1177/15554120211026257.
+;Sources
+*{{cite web|last=Marks|first=Tom|url=https://www.pcgamer.com/the-hidden-lore-of-overwatchs-maps/|title=The hidden lore of Overwatch's maps|work=[[PC Gamer]]|date=June 1, 2016|accessdate=October 6, 2022}}
+==External links==
+*[https://overwatch.blizzard.com/en-us/media/stories/ Overwatch – Comics & Short Stories]
+{{Overwatch|state=expanded}}
+{{Blizzard Entertainment}}
+{{Portal bar|Video games}}
+[[Category:Overwatch| ]]
+[[Category:Activision Blizzard franchises]]
+[[Category:Fiction about artificial intelligence]]
+[[Category:Esports games]]
+[[Category:Fictional organizations in comics]]
+[[Category:First-person shooters by series]]
+[[Category:Multiplayer online games]]
+[[Category:Video game franchises introduced in 2016]]
+[[Category:Video games adapted into comics]]
+[[Category:Video games adapted into novels]]
+[[Category:Works about the United Nations]]

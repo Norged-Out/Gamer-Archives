@@ -1,0 +1,281 @@
+[[How do you know a monster is enraged]]
+
+
+I read the comments in this post: [https://www.reddit.com/r/MonsterHunter/comments/l0fkyw/noob\_question\_but\_how\_can\_you\_tell\_if\_a\_monster/](https://www.reddit.com/r/MonsterHunter/comments/l0fkyw/noob_question_but_how_can_you_tell_if_a_monster/)
+
+People said from the eye-like icon, you can tell a monster is enraged when the icon is red, and not enraged when the icon is yellow. However, in real battles I notice that when entering a combat, the icon just immediately turns from yellow to red, even though I haven't done anything to the monster yet. Are the monsters immediately enraged, or in Rise-Sunbreak, the eye-like icon has nothing to do with enrage state?
+
+I also did a test by wearing an armor piece with Agitator to see if a red-eye icon gave me more attack value. It turned out that the attack value didn't change at all when the eye turned from yellow to red. All these were conflicting with what people suggested below the post. 
+
+What's the truth? Thanks!
+
+
+Yellow eye is "I see you, and you have three seconds to get out of sight before I go to red"
+
+Where red is leeroy jenkins
+
+
+Some monsters have easier enrage tells than others; off the top of my head I don't think there's a definitive resource about them;
+I am fairly certain diablo's is black smoke from the mouth
+    I couldn't tell an enraged Almudron from a normal one if my life depended on it.
+        Almudron is always enraged. Prove me wrong.
+            Rajang has entered the chat
+        I believe its mouth and tail become more gold colored when it’s enraged
+        So, almudron is a step under friggin rajang in enrage stats. High stamina, low dmg threshold, long enrage time. He sucks. I hate him.
+        It’s subtle but he starts dripping golden liquid form his mouth and tail tip
+            He literally always does that
+                No no like it drips in larger quantities rather than just being a small trickle. 
+
+Like I said, it’s subtle.
+    I see. Thanks.
+IDK about the icon and what it means since I never use it as an indicator for determining when the monster is enraged or not.
+
+The cues for a monster being enraged are all different but some common cues include:
+
+- Roaring mid battle, this is almost always used to signify they are enraged (I think Diablos is an exception as it simply claws the ground with its foot but I could be mixing up with GenU).
+
+- Huffing smoke or steam from their mouths.
+
+The cues for when a particular monster is enraged is usually quite obvious, here are some of the monster specific signs of them being enraged:
+
+- Nargacuga’s eyes will glow red.
+
+- Tigrex’s veins will expose and pulse red.
+
+- Goss Harag’s face and arms will turn red.
+
+- Mizutsune’s fins will gain a reddish hue.
+
+It is worth noting some monsters have different states that change its appearance but do *not* mean the monster is inherently enraged:
+
+- Zinogre’s glowing blue charged state is as a result of Zinogre reaching max charge, regardless if it is enraged or not.
+
+- Crimson Glow Valstrax’s wings, spikes and frill will darken and emit a dark red glow, this happens if Valstrax is able to successfully intake air through its chest without being interrupted.
+
+- Teostra’s flame aura increases overtime and signifies how close it is to going supernova. 
+
+- Magnamalo can wreath its body parts in a purple flame with hellfire attacks.
+    Isn't the steam from the mouth an indicator of when they're tired? And their attacks get slower?
+        Nah they mostly drool when tired I believe
+        Nope. Maybe with some of the weaker monsters (could be wrong here), but most monsters that start spouting steam are enraged. When a monster is tired, they start huffing, and saliva starts falling out of their mouth as a water animation
+            All monsters can get fatigued. Lots just have a low dmg threshold and override their tired stat straight into enrage really quickly. Sometimes so quick, you don't get a chance to notice the drool
+                All except Elder Dragons, they never get exhausted (thank Gog Kirin wasn’t in Rise)
+        Unless they changed it, I think it is still drool, the monsters will also usually stop in place and pant tiredly upon exhaustion.
+In World, white eye = monster doesn't see you yet, but it's looking for you, yellow = monster is engaged/fighting with you, and red = monster is enraged. There were others, but these were the 3 important one. It was especially important in Iceborne, because Agitator was meta due to the way clutch claw worked. I'm pretty sure that they took out the white eye for Rise, and just went with yellow and red, yellow essentially being what white eye was in World. As other have stated, there are visual cues, but those vary from monster to monster. Personally, the best way to tell is to run 1 level of Defiance(?) since it activates with monster enrage and only takes up a 1 slot.
+    I came from World too. That's why I'm confused.
+        If you're using skills that activate on enrage, the skill will glow on your arm.
+        Yeah, Rise is a fun game, but they picked some weird places to rollback QoL.
+            It wasn't so much a rollback, as a pick and choose what QoL to integrate. It's a different team that does rise than what made World
+    In world Agitator told you when it was activated. I loved that indication of knowing when the monster was enraged. Wish it still did that in Rise.
+Basically all the times when a monster goes enraged it will breath heavily from its mouth (i.e. if a rathalos is enraged its going to heavily breath fire)
+
+Another indicator is if it roars midway trough the fight
+    This.
+    So it has nothing to do with the icon, right?
+        It used to but to be honest not even I know what the icons are for now
+
+My guess is it turns red when the monster notices you but that's it
+        The icons were an indicator in MHWorld but not in Rise. In Rise it only shows the battle status. Yellow = Noticed you, Red = In combat
+            [removed]
+                Afaik, the monster is fleeing or moving to a diff area.
+                I think it's that the monster is following you? At least the symbol becomes a pink foot whenever I use the Stink Mink
+                    [removed]
+                        I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+                            Wailnard
+            Also can't forget blue - less than 20% health left, and ready to capture
+If you're using the Agitator skill, when the monster's enraged you will notice a red flashing mark on your hunter's arm. Alternatively with agitator if the monster is enraged, an icon buff will also show up on the top left above your HP bar.
+    My arm glows red without agitator. So there's other buffs that use the same visual I just don't know what they are.
+        Interesting. I guess the only reliable way is to check the buff icons on the top left then.
+        Could be peak performance I think?
+        Peak performance and latent power use it as well iirc.
+    Oh, there are lots of icons on my hp bar because I use HH. I'll need to figure them out some other time. Thanks.
+For most monsters roars mid fight and smoke billowing from mouth indicates an enraged state. They also move faster and hit harder, but also has reduced defences
+Agitator.
+That thing from the icon is only in World.
+
+However, there tends to be other ways to tell if a monster is enraged. 
+
+Typically monster will have a white “steam” repeatedly coming out of its mouth. Such as Great Izuchi
+
+If a monster has a specialized “breath weapon”, it will be that breath’s element. Such as Rathian with fire.
+
+Sometimes a color change is the indicator, whether subtle or not, or large or not. Such as Nargacuga, where its eyes turn red.
+
+Some monsters have more than one, such as Mizutsune, where its fins turn red from pink, and it has that white steam.
+
+Agitator (and by extension Defiance in Sunbreak) is a good way to know if a monster is enraged, so check the differences.
+The yellow eye-con indicates that the monster is aware of you but hasn't locked onto you yet. When it turns red is basically when the fight actually starts. It's easier to see this transition when you use a ranged weapon because you can basically trigger it yourself.
+
+As for the really basic way to tell if a monster is enraged? They will look different. Most of them will start huffing and you'll see their breath. It's easy to see this for the lower-tier monsters like Arzuros. As for some others:
+
+* Rathalos and Rathian will have fire effects coming out the sides of their mouths. 
+* Khezu will have electricity around its mouth and some of its parts will increase their hardness.
+* Tigrex's stripes will turn red and it will start moving much faster.
+* Narga's eyes will turn red and leave trails when it moves.
+* Daimyo Hermitaur and Shogun Ceanataur will start foaming at the mouth.
+* Rajang...well, Rajang is always enraged 🤣
+
+I don't really care anymore whether or not a monster is enraged, though. An attack to dodge is an attack to dodge, regardless of how angry the monster is.
+It also changes color, Tigrex' stripes become more red, for example.
+
+Diablos starts huffing black smoke. 
+
+Narga's eyes glow red. 
+
+Some monsters start getting weak spots on them, where previously, you did white damage, its yellow now. 
+
+I usually pay attention to their eyes, they start glowing red most of the time.
+Parts glowing red is fairly common. Tigrex glows red in parts when enraged. Nargacuga’s eyes glow red (and he does double spin attacks). 
+
+I’m sure there’s more but that’s all that comes to mind right away.
+Steam like breath, and some monsters even have fire burning inside their mouth
+The icons aren't to do with that, they're just if you've been spotted, or if a monster is fleeing etc. 
+
+To tell if a monster is enraged, it's similar to how you'll know if they're exhausted, some monsters have like a steam that comes out their mouth when they're exhausted and something similar for enraged. Different parts of the body go red or a darker colour, they become more aggressive in their attacks, roaring, bubbles around the mouth for crab creatures etc. It's not always as obvious as it is with some monsters like Lunagaron for example.
+If you're playing multiplayer there's an auto shoutout that'll tell the whole party when they enter or exit being enraged. The prompts are called "When the monster is delirious" for when entering and "When the monster is pacified" for exiting.
+
+My custom shoutout is the "Do the roar" line from Shrek. The timing of the shoutout is just before it's roar, it's pretty handy tbh
+    This is a big brain play
+The Icon thing is wrong. Yellow means the monster is aware of you, Red means its actively hostile and attacking, and Purple means its leaving the area
+
+To know when a monster is enraged is a case by case thing. Most Fire breathers will have licks of flames by their mouths for example.Mizutsune's colors will turn more vibrant whe its enraged for another example. And last example is Tigrex's veins glowing red along its arms, there's a bunch of different signs for different monsters, a few of them don't even have tangible signs, you'll just notice that they'll be attacking more frequently and faster
+
+What's common when the monster in getting enraged is that most of them Roar right as they start their enraged state.
+
+Why don't you give a monster you're confused about when they're enraged?
+I could be wrong, but I thought I remember reading that red eye icon on monster means he's lure able, he'll follow you. In Rise I thought purple meant enraged.
+
+Edit: apparently that's not right either : [link](https://gamefaqs.gamespot.com/boards/211368-monster-hunter-world/76287319)
+The eye icon and monster detail/color/glow are pretty solid indicators. But some monsters visuals change to signify a transformed state that doesn't correlate to rage. 
+
+Running any amount of agitator or defiance on your build will give you the status icons the moment rage occurs.
+In Rise, monsters are almost always enraged.
+Yeah, the eye icon turning red to signify rage is a World thing. In Rise, the icon just shows whether it's seen you (yellow), is actively fighting you (red), or can't see you because either you or it has fled (purple). Figuring out whether a monster is enraged is a bit harder, but if you look for some visual change about the monster, maybe it's huffing out steam like most cartoon bulls do (most monsters do this I think, but Diablos is especially notable as it exhales black vapour while angry) maybe parts of its body change colour (Mizutsune's frills, Espinas' veins, Goss Harag's face and front paws, etc.) you can usually tell a monster's status if you look hard enough. And if that fails, it usually gives away it's rage state with its roar; if a monster roars in the middle of a fight, and it isn't part of its regular moveset like it is with, say, Khezu, then it's probably just entered its rage state.
+Red only means that the monster sees you and is targeting you.
+
+The icon doesn't indicate when it's enraged.
+If you open the menu, scroll two times to the right to “Info”, click “Hunter Info”, go down once and click “The Game Screen”, then go down to the very bottom and look for “Large Monster Statuses”, it’ll show the tutorial mentioning the eye-con status.
+Nargacuga for example has a very obvious tell, being it's eyes turn bright red. Anjanath extends his head and back fins, etc.
+
+Basically anytime the monster howls/roars and starts attacking more aggressively and gives you little room to counter is enraged.
+
+But you can also take advantage of this by keeping on the move and waiting until they start to drool and pants, they're expending their stamina and have to stop which gives you about 5-10 seconds to wreck shop
+There are at least 2 indicators in Rise tbh:
+1. The eye icon, it can be found beside the monster icon on the minimap. 
+2. Changes in the monster's appearance. Tigrex will have red/orangey eye, zinogre is charged, tobi kadachi is charged, narga will have red eyes, malzeno has a dark aura, etc. 
+
+Tho number 2 is not really a solid indicator since not all monsters have them. 
+
+Also, if you're attacking the monster, most likely it is in an enraged state.
+It’s the “eye-con”
+It’s literally called that in the old games I think
+The eyes are no longer the rage indicator in rise/sunbreak.
+The red eye icon as far as i can tell just is an indication that you're in combat
+
+So you have to check by the mobs visual. Usually mid combat if the mob does a roar and appearance changes a bit, its a good chance that its now in rage mode. 
+
+If you really want to get technical then slap on agitator and check when your attack or affinity pops up. Agi3 and checking affinity is pretty good because no other in combat buff gives you odd 7 percent affinity increase
+just wait till MR. in MR, monsters are enraged 80-90% of the fight hehe, no need to learn how to identify c;
+God Zen has a good list of Sns, maybe you could take a look from it https://note.com/zencieh
+I couldn't tell an enraged Almudron from a normal one if my life depended on it.
+    Almudron is always enraged. Prove me wrong.
+        Rajang has entered the chat
+    I believe its mouth and tail become more gold colored when it’s enraged
+    So, almudron is a step under friggin rajang in enrage stats. High stamina, low dmg threshold, long enrage time. He sucks. I hate him.
+    It’s subtle but he starts dripping golden liquid form his mouth and tail tip
+        He literally always does that
+            No no like it drips in larger quantities rather than just being a small trickle. 
+
+Like I said, it’s subtle.
+I see. Thanks.
+Isn't the steam from the mouth an indicator of when they're tired? And their attacks get slower?
+    Nah they mostly drool when tired I believe
+    Nope. Maybe with some of the weaker monsters (could be wrong here), but most monsters that start spouting steam are enraged. When a monster is tired, they start huffing, and saliva starts falling out of their mouth as a water animation
+        All monsters can get fatigued. Lots just have a low dmg threshold and override their tired stat straight into enrage really quickly. Sometimes so quick, you don't get a chance to notice the drool
+            All except Elder Dragons, they never get exhausted (thank Gog Kirin wasn’t in Rise)
+    Unless they changed it, I think it is still drool, the monsters will also usually stop in place and pant tiredly upon exhaustion.
+I came from World too. That's why I'm confused.
+    If you're using skills that activate on enrage, the skill will glow on your arm.
+    Yeah, Rise is a fun game, but they picked some weird places to rollback QoL.
+        It wasn't so much a rollback, as a pick and choose what QoL to integrate. It's a different team that does rise than what made World
+In world Agitator told you when it was activated. I loved that indication of knowing when the monster was enraged. Wish it still did that in Rise.
+This.
+So it has nothing to do with the icon, right?
+    It used to but to be honest not even I know what the icons are for now
+
+My guess is it turns red when the monster notices you but that's it
+    The icons were an indicator in MHWorld but not in Rise. In Rise it only shows the battle status. Yellow = Noticed you, Red = In combat
+        [removed]
+            Afaik, the monster is fleeing or moving to a diff area.
+            I think it's that the monster is following you? At least the symbol becomes a pink foot whenever I use the Stink Mink
+                [removed]
+                    I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+                        Wailnard
+        Also can't forget blue - less than 20% health left, and ready to capture
+My arm glows red without agitator. So there's other buffs that use the same visual I just don't know what they are.
+    Interesting. I guess the only reliable way is to check the buff icons on the top left then.
+    Could be peak performance I think?
+    Peak performance and latent power use it as well iirc.
+Oh, there are lots of icons on my hp bar because I use HH. I'll need to figure them out some other time. Thanks.
+This is a big brain play
+Almudron is always enraged. Prove me wrong.
+    Rajang has entered the chat
+I believe its mouth and tail become more gold colored when it’s enraged
+So, almudron is a step under friggin rajang in enrage stats. High stamina, low dmg threshold, long enrage time. He sucks. I hate him.
+It’s subtle but he starts dripping golden liquid form his mouth and tail tip
+    He literally always does that
+        No no like it drips in larger quantities rather than just being a small trickle. 
+
+Like I said, it’s subtle.
+Nah they mostly drool when tired I believe
+Nope. Maybe with some of the weaker monsters (could be wrong here), but most monsters that start spouting steam are enraged. When a monster is tired, they start huffing, and saliva starts falling out of their mouth as a water animation
+    All monsters can get fatigued. Lots just have a low dmg threshold and override their tired stat straight into enrage really quickly. Sometimes so quick, you don't get a chance to notice the drool
+        All except Elder Dragons, they never get exhausted (thank Gog Kirin wasn’t in Rise)
+Unless they changed it, I think it is still drool, the monsters will also usually stop in place and pant tiredly upon exhaustion.
+If you're using skills that activate on enrage, the skill will glow on your arm.
+Yeah, Rise is a fun game, but they picked some weird places to rollback QoL.
+    It wasn't so much a rollback, as a pick and choose what QoL to integrate. It's a different team that does rise than what made World
+It used to but to be honest not even I know what the icons are for now
+
+My guess is it turns red when the monster notices you but that's it
+The icons were an indicator in MHWorld but not in Rise. In Rise it only shows the battle status. Yellow = Noticed you, Red = In combat
+    [removed]
+        Afaik, the monster is fleeing or moving to a diff area.
+        I think it's that the monster is following you? At least the symbol becomes a pink foot whenever I use the Stink Mink
+            [removed]
+                I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+                    Wailnard
+    Also can't forget blue - less than 20% health left, and ready to capture
+Interesting. I guess the only reliable way is to check the buff icons on the top left then.
+Could be peak performance I think?
+Peak performance and latent power use it as well iirc.
+Rajang has entered the chat
+He literally always does that
+    No no like it drips in larger quantities rather than just being a small trickle. 
+
+Like I said, it’s subtle.
+All monsters can get fatigued. Lots just have a low dmg threshold and override their tired stat straight into enrage really quickly. Sometimes so quick, you don't get a chance to notice the drool
+    All except Elder Dragons, they never get exhausted (thank Gog Kirin wasn’t in Rise)
+It wasn't so much a rollback, as a pick and choose what QoL to integrate. It's a different team that does rise than what made World
+[removed]
+    Afaik, the monster is fleeing or moving to a diff area.
+    I think it's that the monster is following you? At least the symbol becomes a pink foot whenever I use the Stink Mink
+        [removed]
+            I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+                Wailnard
+Also can't forget blue - less than 20% health left, and ready to capture
+No no like it drips in larger quantities rather than just being a small trickle. 
+
+Like I said, it’s subtle.
+All except Elder Dragons, they never get exhausted (thank Gog Kirin wasn’t in Rise)
+Afaik, the monster is fleeing or moving to a diff area.
+I think it's that the monster is following you? At least the symbol becomes a pink foot whenever I use the Stink Mink
+    [removed]
+        I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+            Wailnard
+[removed]
+    I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+        Wailnard
+I don't think so. The sign probably means "ensnared", which is a term used in of the subquests one can take, meaning the monster is attracted by something. The screaming pheasant (forgot the name) does the same.
+    Wailnard
+Wailnard

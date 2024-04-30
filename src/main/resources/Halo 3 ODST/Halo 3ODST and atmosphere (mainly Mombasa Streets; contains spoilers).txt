@@ -1,0 +1,546 @@
+[[Halo 3ODST and atmosphere (mainly Mombasa Streets; contains spoilers)]]
+
+
+Halo 3 ODST is for me an extremely interesting case as it is a game that breaks many conventions that the Halo series established to this point.  
+While Halo 2 is insanely hard, in general the Master Chief (aka 117 or John) feels like a badass that can overcome any challenge and will kill everything that crosses his line of sight.   
+Finishing the fight is his job.
+
+And then there is Halo 3:ODST, a game centered around the still badass ODST that are lacking the physical augmentations and the skill a typical spartan has. This is a very big difference:  
+117 is beyond the human comprehension in terms of abilities and especially the Spartan IIs are revered as half gods among humans. To indirectly quote Halo - The Flood: Keys says that John is most likely the most important person on this planet and no amount of ODST soldiers could replace him (despite them being superior to an untrained regular human). Last comparison: 14 year old 117 before most of his augmentations killed 2 ODST while in a fight with 4. This is not normal in the Halo universe.  
+I know this rant is really long, but I needed to illustrate how spartans are a different breed, so that we can understand how ODST masterfully captures this feeling by combining the gameplay and tone to generate that unique feeling of being a trained but regular human.
+
+# Gameplay
+
+In Halo 3 ODST some mechanics have been outright removed:  
+Dual wielding is not possible. An ODST is not strong enough to hold 2 weapons that are massive and it would only hinder them. This is a big change as some combos are extremely strong in Halo 3 and reduces your arsenal of options. In general Master Chief has multiple plans and options in a fight to react by picking up the needed weapons. An ODST of any level does not have this ability which makes every weapon you find more impactful.
+
+Which brings us to the second problem: In the streets of Mombasa ammunition is scarce. While every enemy drops their weapons, some of them are a lot more useful than others:  
+The beam rifle and sniper make it possible to engage in long range combat (duh), but this is the best situation one can create. The ODSTs lack a seperate shield bar to see and testing your limits against the covenant (=enemies) is something the players needs to do over time. Getting any closer will start to hurt as the big enemies (viewpoint is lower, cause Master Chief is taller than any ODST) absolutely rip you apart. Avoiding combat in the streets is an option, the enemies will respawn and just drain your ressources for the next battle that you can not avoid. This is a clear distinction from Master Chief that would just gun down any enemy in his vicinity and continue as fast as he can.   
+This time the player feels absolutely immersed with the mindset that there is an overwhelming enemy who can not be beaten, but survived.   
+You have no allies on streets, it is only you, with the fitting name "The Rookie" to find out what happened. This isolation is haunting as you are not directly bound to anything, except for your own interest to find clues that are all over the city. Without having prior knowledge or the means to find someone who can support you, the odds feel stacked against the player. Master Chief in general is great at working alone, but for the big mission he gets some marines and works with them. Another option completely absent from Mombasa Streets.   
+The Rookie is badass for an ODST, but this does only help so much. While deaths in-game for the Master Chief are always against overwhelming odds, he pushes through with the power of his luck. It is an empowering experience to win. The Rookie does not have this mindset, he wants to survive and every death resonates differently: This is a scenario that would have most likely killed him as he is just a small figure in a big war that could be obliberated any second.   
+Winning as the Master Chief feels good, because you were supposed to by destiny.  
+The Rookie does not win, he lives to see another minute.   
+
+
+And for the last one:  
+The Superintendent is one of the smartest additions for any game I have ever seen. It is an AI within the game that wants to help you by directing you towards audio logs and away from danger. It is somewhat limited though and can only communicate with things like light, using turning signs and saying things like: "keep left" or "distraction". Yet he still saved my life multiple times and helped me putting that puzzle together. It is an dumb AI though and can't do more than directing the Rookie. But it is something and helped me from losing hope.   
+To add this mechanic into a world and make it believable is extremely difficult and probably took a lot of time. Imitating it seems hard, despite logical reasons I still long for it.
+
+# Atmosphere
+
+Everything is dark and without your visor, you have no hope of seeing anything most of the time. Enemies are mostly obvious to spot, yet surprises exist. I wanted to walk through a path only to realize after the  
+
+Superintendent started to riot that there were two hunters in hiding to ambush me. Troops I was ill equipped to beat, but easily avoided, if I pay attention. 
+
+Adding to this I have to use this song [(Deference for Darkness)](https://www.youtube.com/watch?v=yWh9l8RSkPk). There are sad moments in the Halo series, but nothing manages to capture the feeling of isolation and loneliness as much as this one. Using saxophone and the piano in general was a superb idea.
+
+An oddly small yet impactful detail is the Rookie checking the leftovers of anything that he finds. Every time a big mission starts, we go back in time and play "how it played out", because the Rookie found an important clue to understand what happened while he was knocked out. And every time he can not utilize it. He finds a sniper that is damaged beyond repair, but still wants to make it work, because a sniper is a great weapon. The player can absolutely sympathize with that. Or the Rookie wanting to use the gel bottle to cover some wounds, only to realize that it is empty. It is frustrating to lack the ressources and being desperate and wanting more is a point of immersion that speaks louder than anythign I can say. I just sat there with a tired smile: "Yeah, having a sniper would be great, wouldn't it?"
+
+I have mentioned the audio logs in the Superintendent section, but I want to go back to them. They tell a seperate story of a girl who was the daughter of the creator of the Superintendent and how she managed to escape from the covenant. Important to mention: Her father created a subroutine in the   
+Superintendent named Vergil to watch out for her which is an obvious clue to Dante's Inferno (that book is actually pretty good, if a little outdated by modern values) and she is confronted with different colorful personas that are incarnations of the different circles, not all of them being bad. It is a human tragedy and drama with a hopeful ending. Perfectly summing up the Human-Covenant war. Many humans already died and the peace Master Chief created will not bring them back. They are gone. The supersoldier may grant humanity as a whole the means to continue to exist, yet he is so distant from their understanding of the world that he can not see the intrinsic value of life. Treasuring relations, friendship, comrades or love. A theme that was always there in Halo, but only mentioned with nuance (at least before Halo 4; do not understand this as criticisim, I think the idea is great, but the execution is another thing). The ODST squad does exactly that. Buck and Dare are still having feelings for each other, the squad will not leave anyone behind as they care for each other beyond military code. In a book the Rookie dies and the death was caused because one of them acted carelessly which split up the group. Exactly this chemistry is existent: They are dependent on each other and want to survive together, because this is their life.   
+Master Chief is often isolated, but it is empowering as he can go wild. For the ODST isolation is the lack of their relations which make them weaker in turn. 
+
+# Details
+
+You only fight Brutes, yet still the corpses of Elites are to be found. The reason for this is the great Schism that happened before. A polical action that intended to kill all Elites which is a major point in Halo 2, but absolutely unknown till Halo 3 for most soldiers, including ODST. There is no answer for Rookie, although the corpses can be easily found. The player understands though and it makes sense in terms of the universe. Not every question needs an answer and this game is not the right time or place to consider this, it is just not relevant for the mission.   
+Another big one is that the Rookie reacts upon finding an alien differently depending on how many audio logs you found. Either he draws his gun only to calm down or he already figured it out and stays calm as he (and the player) connected the dots. 
+
+Finally the last section:  
+The ending is an extremely beautiful nod. Including Seargent Johnson, one of the biggest icons of the Bungie era using a changed form of one of his most famous lines ("I know what the ladies like" and "I know what the aliens like"). He is almost a mythical figure that only falls a little short of 117 and the Arbiter, but is still vastly superior to the average marine and ODST. Of course the nostalgia is a factor as he died in Halo 3. It showcases that he always fought a war with people in mind and was human down to the bone. While in Halo 3 he went out of bang, this was the perfect closure for me.   
+
+
+# Shortcomings
+
+While I praise ODST so much, you have to keep in mind that Mombasa Streets is the biggest deviation in the whole game and maybe even the Halo series. It is a hub world leading to other levels and has no distinct function beyond that. Adding insult to injury: This game was rushed in a year and does not include enough content to make it worth the original 60 dollar price tag. The intention of Bungie was to fullfil their contract with Microsoft and become independent. While the quality of the game is great, it is a lack of ambition that keeps this game from maybe even surpassing Halo 3.   
+Bungie used the same engine and many things were kept identical: flipping Warthogs (ODSTs are not strong enough for that) or Stamina just being invisble shields was lazy. The missions are too short/there are not enough for them. I need to stress the 60 dollar part in relation. If this was a DLC or an Add-On, it would have been the greatest of all time (or at least up there with the likes of Blood and Wine or the Dark Souls 2 DLC).  
+
+
+# Conclusion
+
+It is still one of the best experiences I ever had in my personal history as a gamer and made me somewhat emotional. Genuinely amazing and impressive, ODST is maybe the pinnacle of Halo for me. Hopefully 343 manages to find these sparls of inspiration again that Bungie formerly had. Lets see how it plays out.
+
+
+Halo ODST was a beautiful game. The atmosphere, the characters, the side stories, the melancholy story throughout the entire game the jazz music, the dark, quiet isolated non-linear city. Everything in the game came together to create something like no other. 
+
+I'm all the more glad that bungie took the risk of going outside the master chief badass route to create an entirely new story. I honestly wish they'd make more games like this that to further flesh out the halo universe. 
+
+The whole Halo series shows the world through the lens of a super soldier, but Halo ODST really injected the humanity into the series.
+    Absolutely. This difference of being human or a Spartan is a point of interest. One thought that stuck with me:
+Are the ODSTs actually happier than Chief? They have relations and emotions that are more than passing thoughts. He is a machine, so his happiness is really only in being sucessful of the mission. Extremely sad.
+        Odst are but I hear that some spartans don't man I feel bad for a elite try to hit on Palmer but never get the chance.
+            Me still needing to play through Halo 5
+Yes, I see (with a blindfold on).
+                I really enjoyed halo 5, there’s so much going for it: art, music, game mechanics, talented actors, to name a few elements.
+Fans of Classic halo just really struggled with elements of the story telling. And I don’t need to get into it, there’s lots to explore on the topic.
+    It is a fantastic game, my only issue was paying full price for it and finishing it in one night. 
+
+The horde mode was good, but I’d of preferred a longer story.
+        That's true, I do wish it was a lot more fleshed out rather than an expansion pack for halo, and a lot of the story feels like filler. I felt myself more invested in the rookie mombosa parts which sadly there was a lot less of. A lot of the other levels felt like standard halo fare.
+        This is honestly my same issue with Portal 2. One of my favorite games, but I paid $60 for it and beat the single player campaign in one sitting. And although that game is definitely quality over quantity, it still was a hard pill to swallow. My 'golden ratio' is 1 dollar for 1 hour of gameplay. If a game achieves that, or better yet surpasses it, it's almost always a thumbs up for me. Portal 2 is still a thumbs up, but 7 hours of gameplay for 60 was hardly worth it when it released, imo.
+        On legendary??
+            Well obviously I’m not gonna play through the campaign for the first time on legendary fam
+                Well no wonder you beat it in a day m8!
+    I am also incredibly glad/happy to have seen another side to the greater halo world. 
+
+I have read almost every other novel for the series and it pains me to see no love from the game devs for other groups of characters.
+
+-Spartan 3’s from the Ghosts if Onyx origin: Gamma and Beta company characters that are still going strong in those novels.
+-Rion Forge and her crew.
+-Ancient history of the covenant: I want to be the arbiter that ended the grunt rebellion. 
+-Troy denning wrote new operations existing in the covenant war with Master Chief and the Spartan IIs pre-Halo: CE.
+-Novels with ONI and their various morally grey operations.
+
+I’m ranting now. Haha.
+        It's amazing that the halo universe is so big with centuries and millennia of history, and the only point of view you get is supersoldier mcgee lol.
+
+Remember when they made a whole arc about the arbiter? That was really nice, I actually was invested in his story.
+    They kind of did this with reach as well, definitely different than odst, but also much different than the other halos.
+    Fully agree. The main numbered games of 1-3 really talk about the main journey and plot of the game, centered around a Link-like hero who doesn't talk much, is there to be a hero and save the day.
+
+ODST (and Reach) are amazing B-side style games where you get to see the expanded world in a way that fleshes it out. I really enjoy when created worlds (whether books, movies, TV shows, or games) let themselves jump away from the main action and showcase other parts of themselves. I always find it incredibly enriching to the main story and the world as a whole.
+
+More game franchises need to do this.
+Clearly Halo 3:ODST was one of the best game of its generation. Everything was great in its atmosphere and naration.
+
+I would really love to see a remastered version or a new game that enphasise more on those differences between the main Halo games and a potential ODST serie.
+
+Something that would get closer to Moder Wafare or Battlefield with a slower pace in its gameplay. Maybe I was "too good" at Halo back then but I simply rolled on the game like I would have with MC. Some of the gameplay additions later found in the series (like running or the shot recoil) could have been really interesting to implement in this game. MC is a war machine that don't really need running and can overcome the recoil with his absolute armor and energy; where a "simple" ODST would have harder time to maintain such an insane pace.
+
+New Mumbasa could also feel a bit more like a true city rather than a giant playground. Do New Mumbasa have MacDonalds or theaters? Why don't we rely more on the City itself to access things? The areas where separated (which was a technical constraint of the 360) with giant doors that could break the feeling of an organic city.
+
+The use of the map and flashbacks were great in conveying this atmosphere of soldier rather than a "demon" rolling on an army. The former being dependent of its surrounding while the latter never cared for his battleground because he can overcome any situation. It could be great to add to this feeling by making the ODST player capable of influencing his battleground more; like blocking doors, flooding some areas or destroying some bridges to defend rather than constantly attacking. This feeling was present in some missions but could be easily augmented in a modern retake on this style of FPS. 
+
+The game was a Halo3 "supplement" sold at half the price of a "full" game despite adding firefight and being a complete experience by itself back then. So it is hard to complain about anything really. I would simply love to see this sort "extension" to the Halo franchise being made again. I'm now even starting to dream of a Halo game where we could play as a grunt or a Jackal and witness the events from different perspectives with a slightly differences in the main gameplay loop we are used to.
+    So many relevant aspects well defined. Yes, this game is rushed in investing more ressources to flesh out the ODSTs. The distinctions are great and considering the time frame it was thought out, it is nothing short of amazing. I think recoil is a little stronger, but it could be my imagination.
+The restrictions of time also meant that less variables like a more fleshed out world (a cinema would have been a great area to explore). Nowadays ODST could set a new bar (with modern production and technology), it is just short of fully immersing the player.
+In terms of price: I have heard that it has been sold for 60 dollars, but that was before my time (relative speaking, I was 7 and had no money for such systems).
+For Jackals and Grunts:
+Make the Grunt rebellion a game. Trust me, the potential is there.
+        I was 18 years old by that time
+Game Maker’s Toolkit did a [good video](https://youtu.be/3jJT7mxSy1c) about ODST, which actually inspired me to go back and play it last year (after passing over it when it came out).
+    Will watch it, when I got time.
+Edit:
+Thank you for recommending it. Wanted to sound nicer. I am actually grateful for more critical thoughts.
+        No worries - I didn't take your original comment the wrong way!
+            >level 1drumercalzone091 day agoGame Maker’s Toolkit did a good video about ODST, which actually inspired me to go back and play it last year (after passing over it when it came out).
+
+I watched it, the video was awesome. I especially like discussing the order of the missions which is a major difference in understanding. I for my part manually chose the closest point and actually broke the sequence which made my experience much more confusing, but also gratifying after understanding what happens.
+It’s an excellent game to be sure, but I’m not so sure about the just trying to survive part. I pretty much play it like any other halo. 
+
+Maybe that’s just me though, I’m not sure.
+    It depends. The missions are a lot more conventional. But Mombasa Streets is hard for the average player on higher difficulties. I think this thrill is what makes the difference. Not everyone can connect with this and the tone was not kept completely. Yet I experienced it like that which indicates that it is possible.
+        [deleted]
+            Another imperfection. Could Bungie handled it better? I am not sure. The shields are a trademark and going too far from the formula may would have triggered bad reactions.
+                [deleted]
+                    You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+                        [deleted]
+                            Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+    At the end of the day The Rookie still rampages through an ungodly amount of aliens compared to any other typical in-universe soldier. It's still a *Halo* game, afterall, though I appreciate the subtle ways in which the character is different than other Halo games.
+        Exactly
+    I did once I got into the flashbacks, but Mombasa Streets stayed intimidating for awhile. You're isolated, the enemies are bigger, ammo is scarce, your shields are invisible, and it actually seemed like they took more shots to take down.
+
+That said, most of the game's runtime is in the flashbacks, so after awhile, I kind of had the opposite impression: I get what they're going for, but it felt like Mombasa Streets was interrupting a fun Halo game with something closer to survival-horror, and I couldn't wait to get to the next flashback.
+    I know this is kinda cliche, but I feel like the true difficulty for this game is legendary. Lower difficulties you feel just like master chief with a bit of handicaps. Legendary really makes every fight life or death.
+        It is maybe respective to the players skill. The worse you are, the lower the difficulty needs to be to actually enact the fantasy of being small and almost powerless.
+    When I beat H3 ODST in legendary I learnt than not every encounter its meant to be fight, you're weak and outnumbered
+Thank you for talking about the Superintendent. I hear so little praise on this feature while it blew me away that it existed and was done so well.
+
+One of my favorite memories of it was coming up to a street and a cross walk lit up, after crossing it, a payphone started ringing nearby which led to the audio log. Such an amazing, immersive experience that I wish more games could pull off.
+    Me too. This feature is underappreciated in a way that nobody really cares about it, beyond: yeah, it is nice. 
+Except it is maybe one of the smartest way of giving us interaction and a non human companion which is relevant to the story. Maybe one day.
+Just to add a very small detail: Buying a hard copy of Halo3ODST enabled you to join the Halo Reach online beta.
+
+For me personally this extra made it really ok to buy the game for the full price of 60 bucks. A friend and me spent at least as much time in the beta playing coop vs other participants as playing halo ODST itself.
+
+Anyone here still remembering reactor defense mode?
+    A great idea I can respect. For me it is difficult to grasp the concept of worth. What is the worth of entertainment and fun? Is there numerical value to it? I love numbers and interactions, but this is beyond my understanding as of now.
+I think ODST and Reach were the best in the serious with their atmosphere (funny, they came out next to each other as well). ODST for the reasons listen in this thread, and Reach for doing a great job of the losing effort, and the inevitability of Reach's fall. Also being a Spartan III in there, while not as obviously down-graded as you were in ODST, was shown through the deaths of Noble team.
+    They polished the formula over time. The one problem I have is that it can not compete with the writing of Halo 2. This game is yet to be surpassed.
+        Halo 2 turned out so good for how little time they had
+            Absolutely. I love it despite it's flaws. Which are numerous and by coincidence the number of Sniper Jackals exactly corresponds with it.
+                Honestly the thing I like the least is the difficulty - Sniper Jackals are an obvious point, but the literal first level on Legendary is a nightmare. It was obvious that they didn't have time to sort the difficulty out :/
+                    Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+Odst is the only one I've managed to do legendary as of yet, and it's beyond a shadow of a doubt the most intense feeling I've had in the series. The methodical plodding along, advancing and retreating just to stay alive and the sheer power of those *damn* brutes will stay with me for years to come. 
+
+I was late to halo and I've only played ODST once, might've been twice, not sure if I did it on normal first, but it feels like I spent a lifetime on those streets.
+    Never will I fear the brutes in my face more than that. My fight or flight decision making is broken. I only keep running.
+> Dual wielding is not possible. An ODST is not strong enough to hold 2 weapons that are massive and it would only hinder them.   
+
+I think that's debatable as to whether or not that was the reason dual wielding was removed, because it didn't return in Reach even though Spartan-IIIs are just as strong as, if not stronger than the IIs.
+
+And more importantly, the player is still able to use weapons that they shouldn't be able to. They can use a gravity hammer even though it weighs 85lbs/39kgs and the brute shot, a weapon that you explicitly couldn't give to unaugmented marines in Halo 3. 
+
+So I guess the lack of dual-wielding can add to the atmosphere, but I don't think that was the intent. It was just hard to balance and getting rid of it was better than invalidating half the sandbox like Halo 3 did. 
+
+>Getting any closer will start to hurt as the big enemies (viewpoint is  lower, cause Master Chief is taller than any ODST) absolutely rip you  apart. 
+
+Melee combat isn't that much more difficult than in previous entries. You can still one-shot any enemy but hunters by punching them in the back even though unaugmented humans are physically weaker than literally every Covenant enemy that we've ever encountered in-game. 
+
+ODST's biggest issue is that it doesn't make you feel powerless enough. Enemies kill you in Halo 2 way faster than they can kill you in ODST. In fact, in Halo 2, the Master Chief is has less health on legendary than every enemy but flood infection forms, which die in one hit to anything. 
+
+And it shows in the gameplay too. ODST is by far the easiest game to finish on legendary in the franchise, despite the fact that you don't play as a Spartan. 
+
+> The supersoldier may grant humanity as a whole the means to continue to  exist, yet he is so distant from their understanding of the world that  he can not see the intrinsic value of life.  
+
+I'm not going to go into this here, but this isn't quite an accurate analysis of John's character. John being a severely broken man who lacks basic humanity is just some BS that Halo 4 peddled but doesn't have much backing in the EU. 
+
+> Avoiding combat in the streets is an option, the enemies will respawn  and just drain your ressources for the next battle that you can not  avoid. This is a clear distinction from Master Chief that would just gun  down any enemy in his vicinity and continue as fast as he can. 
+
+I disagree. Resource drain isn't that much of an issue, especially if you find audio logs and unlock supply caches, and I'm fairly certain Rookie gets restocked whenever you finish a mission. Not to mention, it's not like Covenant weapons are all that bad anyway. You're better off having a plasma pistol at pretty much all times and the carbine works just fine as your precision headshot weapon if you run out of ammo for your magnum (which has ammo reserves comparable to the M6D seen in CE anyway). 
+
+Resource drain and resource management have always been present in Halo and I wouldn't consider it to be that much more pronounced in ODST. If anything it's less of an issue because the supply caches exist. 
+
+>You only fight Brutes, yet still the corpses of Elites are to be found.  The reason for this is the great Schism that happened before. A polical  action that intended to kill all Elites which is a major point in Halo  2, but absolutely unknown till Halo 3 for most soldiers, 
+
+At first, that might seem like nice attention to detail, but it's actually a case of failure to pay attention to detail. The presence of dead elites and brute enemies doesn't really fit with the canon on its own, it requires some Halo Reach-esque handwaviness to reconcile it with the timeline. ODST takes place on October 20th, 2552, beginning at the very end of the New Mombasa section of Halo 2. IIRC you can actually briefly see the *In Amber Clad* enter the slipspace portal as the *Solemn Penance* escapes to Delta Halo, corresponding to the final cutscene of the mission Metropolis in Halo 2. 
+
+ODST finishes on October 21st, 2552, but the Battle of Installation 05 wouldn't even begin until November 2nd, and the Great Schism wouldn't start until November 3rd. 
+
+So under the old timeline, the elites should've been the primary enemy leader in ODST, not the brutes. The current explanation is that the brutes were loyal to Truth and had been embedded in Regret's forces and launched the purge of the elites early, but that still is a bit inconsistent with Regret's prior characterization. Regret favored the elites in the same way that Truth favored the brutes, so him having that many brutes in his fleet is a bit at odds with his previous depictions. 
+
+So yeah, at first, it seems like it was a cool detail, but it was really just to recycle brute behavior from Halo 3 rather than fully flesh out the Halo 3 elites. 
+
+> flipping Warthogs 
+
+I don't think that's too much of an issue tbh. It's a gameplay concession to make the game more fun/less frustrating, in the same way, that fall damage can kill you in CE and Reach or how small arms fire is a threat to you in multiplayer. 
+
+Vehicle missions would be a major pain if flipping your vehicle fucked you over for the rest of the mission.  
+
+It's certainly not worst than one-hit back slaps still being a thing or being able to use heavy weapons.
+    Great reply and a lot more in depth in terms of meta analyzing my arguments. For the first one: I think this showcases how Bungie has been lazy and rushed the game. Letting the Brute Should and gravity hammer be able to be wielded was a mistake in my opinion as they do not provide much for the gameplay (except in the penultimate level), but broke immersion.  
+I absolutely agree that the ODSTs should have been even weaker, but more creative. Bungie did not pump enough ressources into this game to make it happen or the XBox 360 could not handle it. Keep in mind that the PS3 was a lot more powerful in theory, but The Last of Us was the upper limit of it's capabilities. So making barricades or more nuance was maybe impossible at that time.
+
+For the difficulty itself: Yes, it is easier.  I adressed Halo 2, because it is an outlier. Bungie made this game too fast and did not playtest enough. It is just insane on legendary and lacks good understanding base mechanics like balanced HP.
+
+For the melee combat: I understand the one hit kills from behind as leaving your cover is in general the worst option. You will one shot one enemy, but if you get spotted the whole group will kill you. About the difficulty:   
+I think only few people started with Halo 3ODST and not even every Halo player played it. It is a little more obscure as a spinoff. Because of that the already skilled rushed through the game as it has many similarities with Halo 3.  
+But you are right: The encounters probably need to be more oppressing to be really considered hard. But would that have been fun? I don't know.
+
+For John 117:  
+I am currently intending to read all novels of Halo. That is my first impression his character, but it is subject to change. Halo 4 is extremely vocal about this, but even Halo:The Flood already made some little references which could be interpreted that way.   
+I am not arguing that he went away from the interpretation of Bungie, but that it lines up perfectly with the greater narrative that 343 intends to create.
+
+Yes, the supply caches negate that management fully. I prefer not to use them, but I see them as an option that exists. Their contents are just too strong for my taste and if you ignore them, the feeling of being powerless is certainly more pronounced. 
+
+Oof, that is a big one. Regret really treasured the elites and would have never given this command. I hope there is more context to this, but if there is nothing else to find: Bungie really fucked up in terms of timeline (not their first time). The intention is clear, but they only went half way. I realize that it is somewhat of an excuse to not make elites as enemies. but I think the missions are absolutely fine without them. Yet still it is lacking in story substance. Really good point.
+
+And this is for me a factor like for you it's with the dual wielding. I love dual wielding in concept, but the execution was always a little lackluster in my opinion. So getting rid of it was fine by me. In this case we see personal preference shining through.
+
+Thank you for your comment, you made some great points that I really like.
+        >I am currently intending to read all novels of Halo. That is my first impression his character, but it is subject to change. Halo 4 is extremely vocal about this, but even Halo:The Flood already made some little references which could be interpreted that way.
+
+The notion that Chief doesn't care about the sanctity of life just isn't in line with his previous characterization. Halo 4's characterization (which deviates greatly from his depiction in prior novels) doesn't really line up with that either so I'm not quite sure where you're getting that. Chief has some survivor's guilt. He blames himself for the deaths of those under him even when it was totally out of his control. 
+
+>I am not arguing that he went away from the interpretation of Bungie, but that it lines up perfectly with the greater narrative that 343 intends to create.
+
+Which would be true if novels produced under 343 didn't contradict Halo 4 even more than the older novels did. Chief is at his most emotive in recent works under 343. Silent Storm is entirely about Chief dealing with the burden of command and coming to terms with the fact that as a leader, he has to send his men to their deaths and deal with it because he's the leader and he needs to stay alive for the sake of the group. 
+
+Chief understands how important life is, he's just seen so many people die that he's numb to it.
+            Oh well. I am still missing these ones and because of that my knowledge is incomplete. I am the beginning of my great journey. It saddens me to admit it, but you are probably right in both points as I only so much. 
+The crown of superior understanding belongs to you in this case as I can not argue about anything I still have not learned. 
+Thank you for correcting me.
+It is by far my favorite halo campaign and the coop mode I've played countless hours on. Me and a friend that I haven't seen in years would drive the warthog and mow down aliens. Had some real good times on that game.
+    Memories sure are a good thing. Treasuring them is a worthwhile task, just do not forget to look in the future to make some new ones.
+You're absolutely right that ODST absolutely nailed the atmosphere and feeling of the city, and it's also the reason why I'm not opposed to the idea of Halo Infinite moving a little more in the direction of an open world.
+
+Having gone back and replayed ODST recently due to the Master Chief Collection, I feel like the open world nature of the city hasn't aged as well from a technical perspective. There's certain parts which just feel a little sparse compared to a more modern open world, and the large doors (to allow the game to load) make things feel a little restricted. 
+
+I know it would never happen, but I would absolutely be interested in an update of ODST that leveraged the power of modern systems to show a much more open and detailed version of New Mombasa.
+    This is difficult:
+In general Halo games from Bungie can not be remaked as even moving a decoy somewhere else could change the game fundamentally. On the other hand Halo 3:ODST is so different that I agree with the statement and especially Mombasa Streets as the hub is so inconsequential to change in comparison that it could be done.
+But this is dreaming as we both realize.
+ODST was really fun and interesting to play and experience. It's kind of sad that a lot of people think of it as the worst halo game because of all the reasons you've brought up as to why it was a great game.
+    Worst?
+I think that titles goes to 5.
+        We don't speak of 5 lol. To be honest I forgot 5 and 4 were a thing and since they're done by a different company I don't really count them because obviously 343s vision and bungies vision for halo were completely different
+            While that is true, I give 343 some credit for trying. Fuck 5 and everything it did, but 4 was a brave mistake. I hope they can redeem themselves with Infinite.
+                True I don't fault them at all for what they tried to do but that's why I don't really count 4 and 5 when talking about 1-reach cause it's an obvious shift in tone and story between bungie and 343
+                    Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+                        I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+Halo ODST was the first game I ever played, and I fell in love with it. After that I played through reach, to combat evolved, all the way to halo 4 and I like every one of them in their own way, but ODST will be my first and my favourite, second to Reach and CE tied together
+    I have no nostalgia for this game, I just recently played through it. Being special is seemingly a quality that transcends time, at least it did for me. And ODST also became my favorite, followed by 2 (I am more of a story guy).
+        They were all excellent but ODST was unique. As you mentioned in the post the music is exceptionally beautiful. I have overture on my Spotify playlist, I like to listen when I feel empty or sad. I get goosebumps every-time. The stories of Halo are brilliant, like no other, and I myself enjoy the gameplay as much as I do the story. It wasn’t the first video game I played but it was the first halo I played and the first game I owned/played on 360 so it holds a special place for sure. I’m just glad I’m not the only one that thoroughly enjoyed it, I’ve seen a fair bit of hate towards it just because it’s different or doesn’t have master chief, which is a real shame as ODST is a gem of a game.
+            If every game had as much identity as ODST, the gaming industry would be a lot better. While not perfect it fills a role of being different and has a soul, something the Indie scene captured for me nowadays.
+Nice write up, but I admit you got me at describing Inferno, part of one of the most important and celebrated literary works in human history and arguably the basis of the modern Italian language, as “actually pretty good.”
+    It is indeed excellent and well above my ability to realize the poetic values. While it is that good and important, it lacks for me in terms of story as it intends to be educational and modern values do not align that well. It is an artisic masterpiece, just not fitting for my taste.
+        Hey don’t worry, only teasing! Good points about ODST though
+[deleted]
+    It is on PC now and only costs 5 bucks. Worth checking out in my opinion. 
+I sound like a car sales man.
+Bungie was never the same after Marty was booted.  
+
+I initially felt cheated when I played the game but enjoyed completing the campaign. I just didn't expect how different of a game it'd be.  
+
+Had a lot of fun playing Firefight mode.
+    This one hurts. Never forget that the staff changed over time and somewhere they lost heart. Some ideals may live on, but I hope 343 becomes the studio we need it to be.
+Bungie, if you can see this, please make a game with survival horror elements. Halo had some of the best “scary moments.” Just do it, it’ll make you money. Thanks.
+    Jenkins holds up to this day.
+@OP
+
+There's an old game that (imho) hit the same sense of danger in being alone and struggling against powerful enemies. Have you ever played SW: Republic Commando?
+    I have only hard from it, cause my friends love it. It really seems to be the respective similar game of each series.
+        It's definitely worth trying, the graphics are old but the squad gameplay and atmosphere is something I haven't run into again.
+I remember playing ODST back when it came out, after I enjoyed 3 or 4 halo games.
+
+And it was totally different from all of them in a bad way. 
+
+I think I got 3 hours into the game before I decided I was not having any fun.
+
+Have not touched it since.
+    It is different, true. I would recommend to check it out again, but that is up to you. After 3 hours you should have seen a decent amount of content.
+    The only thing that's really radically different from previous and later entries is the presence of a hub world. Other than that, it plays pretty similarly to Halo CE and Halo Reach.
+[removed]
+    > Take my advice rookie. You ever fall for a woman?
+
+Indeed, a wise advice.
+ODST is a hackjob made for efficiency's sake. Mombasa Streets are just cobbled together arenas. Bungie's artistic wizardry, and the fitting conceit of piecing together your comrades' stories, slightly elevated otherwise mundane Halo levels. It ain't so special.
+So I accidentally made a post very similar to this without knowing this existed, should I take it down?
+    Ironic, but I am fine with that.
+Do your thing and share your thoughts.
+:D
+        Alright, thanks. I'm just trying to make sure, I don't want to be seen as just some reposting karma whore, because I like to express my opinions like any other person.
+            The timing seems a little strange, but I absolutely get it.
+Absolutely. This difference of being human or a Spartan is a point of interest. One thought that stuck with me:
+Are the ODSTs actually happier than Chief? They have relations and emotions that are more than passing thoughts. He is a machine, so his happiness is really only in being sucessful of the mission. Extremely sad.
+    Odst are but I hear that some spartans don't man I feel bad for a elite try to hit on Palmer but never get the chance.
+        Me still needing to play through Halo 5
+Yes, I see (with a blindfold on).
+            I really enjoyed halo 5, there’s so much going for it: art, music, game mechanics, talented actors, to name a few elements.
+Fans of Classic halo just really struggled with elements of the story telling. And I don’t need to get into it, there’s lots to explore on the topic.
+It is a fantastic game, my only issue was paying full price for it and finishing it in one night. 
+
+The horde mode was good, but I’d of preferred a longer story.
+    That's true, I do wish it was a lot more fleshed out rather than an expansion pack for halo, and a lot of the story feels like filler. I felt myself more invested in the rookie mombosa parts which sadly there was a lot less of. A lot of the other levels felt like standard halo fare.
+    This is honestly my same issue with Portal 2. One of my favorite games, but I paid $60 for it and beat the single player campaign in one sitting. And although that game is definitely quality over quantity, it still was a hard pill to swallow. My 'golden ratio' is 1 dollar for 1 hour of gameplay. If a game achieves that, or better yet surpasses it, it's almost always a thumbs up for me. Portal 2 is still a thumbs up, but 7 hours of gameplay for 60 was hardly worth it when it released, imo.
+    On legendary??
+        Well obviously I’m not gonna play through the campaign for the first time on legendary fam
+            Well no wonder you beat it in a day m8!
+I am also incredibly glad/happy to have seen another side to the greater halo world. 
+
+I have read almost every other novel for the series and it pains me to see no love from the game devs for other groups of characters.
+
+-Spartan 3’s from the Ghosts if Onyx origin: Gamma and Beta company characters that are still going strong in those novels.
+-Rion Forge and her crew.
+-Ancient history of the covenant: I want to be the arbiter that ended the grunt rebellion. 
+-Troy denning wrote new operations existing in the covenant war with Master Chief and the Spartan IIs pre-Halo: CE.
+-Novels with ONI and their various morally grey operations.
+
+I’m ranting now. Haha.
+    It's amazing that the halo universe is so big with centuries and millennia of history, and the only point of view you get is supersoldier mcgee lol.
+
+Remember when they made a whole arc about the arbiter? That was really nice, I actually was invested in his story.
+They kind of did this with reach as well, definitely different than odst, but also much different than the other halos.
+Fully agree. The main numbered games of 1-3 really talk about the main journey and plot of the game, centered around a Link-like hero who doesn't talk much, is there to be a hero and save the day.
+
+ODST (and Reach) are amazing B-side style games where you get to see the expanded world in a way that fleshes it out. I really enjoy when created worlds (whether books, movies, TV shows, or games) let themselves jump away from the main action and showcase other parts of themselves. I always find it incredibly enriching to the main story and the world as a whole.
+
+More game franchises need to do this.
+So many relevant aspects well defined. Yes, this game is rushed in investing more ressources to flesh out the ODSTs. The distinctions are great and considering the time frame it was thought out, it is nothing short of amazing. I think recoil is a little stronger, but it could be my imagination.
+The restrictions of time also meant that less variables like a more fleshed out world (a cinema would have been a great area to explore). Nowadays ODST could set a new bar (with modern production and technology), it is just short of fully immersing the player.
+In terms of price: I have heard that it has been sold for 60 dollars, but that was before my time (relative speaking, I was 7 and had no money for such systems).
+For Jackals and Grunts:
+Make the Grunt rebellion a game. Trust me, the potential is there.
+    I was 18 years old by that time
+Will watch it, when I got time.
+Edit:
+Thank you for recommending it. Wanted to sound nicer. I am actually grateful for more critical thoughts.
+    No worries - I didn't take your original comment the wrong way!
+        >level 1drumercalzone091 day agoGame Maker’s Toolkit did a good video about ODST, which actually inspired me to go back and play it last year (after passing over it when it came out).
+
+I watched it, the video was awesome. I especially like discussing the order of the missions which is a major difference in understanding. I for my part manually chose the closest point and actually broke the sequence which made my experience much more confusing, but also gratifying after understanding what happens.
+It depends. The missions are a lot more conventional. But Mombasa Streets is hard for the average player on higher difficulties. I think this thrill is what makes the difference. Not everyone can connect with this and the tone was not kept completely. Yet I experienced it like that which indicates that it is possible.
+    [deleted]
+        Another imperfection. Could Bungie handled it better? I am not sure. The shields are a trademark and going too far from the formula may would have triggered bad reactions.
+            [deleted]
+                You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+                    [deleted]
+                        Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+At the end of the day The Rookie still rampages through an ungodly amount of aliens compared to any other typical in-universe soldier. It's still a *Halo* game, afterall, though I appreciate the subtle ways in which the character is different than other Halo games.
+    Exactly
+I did once I got into the flashbacks, but Mombasa Streets stayed intimidating for awhile. You're isolated, the enemies are bigger, ammo is scarce, your shields are invisible, and it actually seemed like they took more shots to take down.
+
+That said, most of the game's runtime is in the flashbacks, so after awhile, I kind of had the opposite impression: I get what they're going for, but it felt like Mombasa Streets was interrupting a fun Halo game with something closer to survival-horror, and I couldn't wait to get to the next flashback.
+I know this is kinda cliche, but I feel like the true difficulty for this game is legendary. Lower difficulties you feel just like master chief with a bit of handicaps. Legendary really makes every fight life or death.
+    It is maybe respective to the players skill. The worse you are, the lower the difficulty needs to be to actually enact the fantasy of being small and almost powerless.
+When I beat H3 ODST in legendary I learnt than not every encounter its meant to be fight, you're weak and outnumbered
+Me too. This feature is underappreciated in a way that nobody really cares about it, beyond: yeah, it is nice. 
+Except it is maybe one of the smartest way of giving us interaction and a non human companion which is relevant to the story. Maybe one day.
+A great idea I can respect. For me it is difficult to grasp the concept of worth. What is the worth of entertainment and fun? Is there numerical value to it? I love numbers and interactions, but this is beyond my understanding as of now.
+They polished the formula over time. The one problem I have is that it can not compete with the writing of Halo 2. This game is yet to be surpassed.
+    Halo 2 turned out so good for how little time they had
+        Absolutely. I love it despite it's flaws. Which are numerous and by coincidence the number of Sniper Jackals exactly corresponds with it.
+            Honestly the thing I like the least is the difficulty - Sniper Jackals are an obvious point, but the literal first level on Legendary is a nightmare. It was obvious that they didn't have time to sort the difficulty out :/
+                Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+Never will I fear the brutes in my face more than that. My fight or flight decision making is broken. I only keep running.
+Great reply and a lot more in depth in terms of meta analyzing my arguments. For the first one: I think this showcases how Bungie has been lazy and rushed the game. Letting the Brute Should and gravity hammer be able to be wielded was a mistake in my opinion as they do not provide much for the gameplay (except in the penultimate level), but broke immersion.  
+I absolutely agree that the ODSTs should have been even weaker, but more creative. Bungie did not pump enough ressources into this game to make it happen or the XBox 360 could not handle it. Keep in mind that the PS3 was a lot more powerful in theory, but The Last of Us was the upper limit of it's capabilities. So making barricades or more nuance was maybe impossible at that time.
+
+For the difficulty itself: Yes, it is easier.  I adressed Halo 2, because it is an outlier. Bungie made this game too fast and did not playtest enough. It is just insane on legendary and lacks good understanding base mechanics like balanced HP.
+
+For the melee combat: I understand the one hit kills from behind as leaving your cover is in general the worst option. You will one shot one enemy, but if you get spotted the whole group will kill you. About the difficulty:   
+I think only few people started with Halo 3ODST and not even every Halo player played it. It is a little more obscure as a spinoff. Because of that the already skilled rushed through the game as it has many similarities with Halo 3.  
+But you are right: The encounters probably need to be more oppressing to be really considered hard. But would that have been fun? I don't know.
+
+For John 117:  
+I am currently intending to read all novels of Halo. That is my first impression his character, but it is subject to change. Halo 4 is extremely vocal about this, but even Halo:The Flood already made some little references which could be interpreted that way.   
+I am not arguing that he went away from the interpretation of Bungie, but that it lines up perfectly with the greater narrative that 343 intends to create.
+
+Yes, the supply caches negate that management fully. I prefer not to use them, but I see them as an option that exists. Their contents are just too strong for my taste and if you ignore them, the feeling of being powerless is certainly more pronounced. 
+
+Oof, that is a big one. Regret really treasured the elites and would have never given this command. I hope there is more context to this, but if there is nothing else to find: Bungie really fucked up in terms of timeline (not their first time). The intention is clear, but they only went half way. I realize that it is somewhat of an excuse to not make elites as enemies. but I think the missions are absolutely fine without them. Yet still it is lacking in story substance. Really good point.
+
+And this is for me a factor like for you it's with the dual wielding. I love dual wielding in concept, but the execution was always a little lackluster in my opinion. So getting rid of it was fine by me. In this case we see personal preference shining through.
+
+Thank you for your comment, you made some great points that I really like.
+    >I am currently intending to read all novels of Halo. That is my first impression his character, but it is subject to change. Halo 4 is extremely vocal about this, but even Halo:The Flood already made some little references which could be interpreted that way.
+
+The notion that Chief doesn't care about the sanctity of life just isn't in line with his previous characterization. Halo 4's characterization (which deviates greatly from his depiction in prior novels) doesn't really line up with that either so I'm not quite sure where you're getting that. Chief has some survivor's guilt. He blames himself for the deaths of those under him even when it was totally out of his control. 
+
+>I am not arguing that he went away from the interpretation of Bungie, but that it lines up perfectly with the greater narrative that 343 intends to create.
+
+Which would be true if novels produced under 343 didn't contradict Halo 4 even more than the older novels did. Chief is at his most emotive in recent works under 343. Silent Storm is entirely about Chief dealing with the burden of command and coming to terms with the fact that as a leader, he has to send his men to their deaths and deal with it because he's the leader and he needs to stay alive for the sake of the group. 
+
+Chief understands how important life is, he's just seen so many people die that he's numb to it.
+        Oh well. I am still missing these ones and because of that my knowledge is incomplete. I am the beginning of my great journey. It saddens me to admit it, but you are probably right in both points as I only so much. 
+The crown of superior understanding belongs to you in this case as I can not argue about anything I still have not learned. 
+Thank you for correcting me.
+Memories sure are a good thing. Treasuring them is a worthwhile task, just do not forget to look in the future to make some new ones.
+This is difficult:
+In general Halo games from Bungie can not be remaked as even moving a decoy somewhere else could change the game fundamentally. On the other hand Halo 3:ODST is so different that I agree with the statement and especially Mombasa Streets as the hub is so inconsequential to change in comparison that it could be done.
+But this is dreaming as we both realize.
+Worst?
+I think that titles goes to 5.
+    We don't speak of 5 lol. To be honest I forgot 5 and 4 were a thing and since they're done by a different company I don't really count them because obviously 343s vision and bungies vision for halo were completely different
+        While that is true, I give 343 some credit for trying. Fuck 5 and everything it did, but 4 was a brave mistake. I hope they can redeem themselves with Infinite.
+            True I don't fault them at all for what they tried to do but that's why I don't really count 4 and 5 when talking about 1-reach cause it's an obvious shift in tone and story between bungie and 343
+                Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+                    I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+I have no nostalgia for this game, I just recently played through it. Being special is seemingly a quality that transcends time, at least it did for me. And ODST also became my favorite, followed by 2 (I am more of a story guy).
+    They were all excellent but ODST was unique. As you mentioned in the post the music is exceptionally beautiful. I have overture on my Spotify playlist, I like to listen when I feel empty or sad. I get goosebumps every-time. The stories of Halo are brilliant, like no other, and I myself enjoy the gameplay as much as I do the story. It wasn’t the first video game I played but it was the first halo I played and the first game I owned/played on 360 so it holds a special place for sure. I’m just glad I’m not the only one that thoroughly enjoyed it, I’ve seen a fair bit of hate towards it just because it’s different or doesn’t have master chief, which is a real shame as ODST is a gem of a game.
+        If every game had as much identity as ODST, the gaming industry would be a lot better. While not perfect it fills a role of being different and has a soul, something the Indie scene captured for me nowadays.
+It is indeed excellent and well above my ability to realize the poetic values. While it is that good and important, it lacks for me in terms of story as it intends to be educational and modern values do not align that well. It is an artisic masterpiece, just not fitting for my taste.
+    Hey don’t worry, only teasing! Good points about ODST though
+It is on PC now and only costs 5 bucks. Worth checking out in my opinion. 
+I sound like a car sales man.
+This one hurts. Never forget that the staff changed over time and somewhere they lost heart. Some ideals may live on, but I hope 343 becomes the studio we need it to be.
+Jenkins holds up to this day.
+I have only hard from it, cause my friends love it. It really seems to be the respective similar game of each series.
+    It's definitely worth trying, the graphics are old but the squad gameplay and atmosphere is something I haven't run into again.
+It is different, true. I would recommend to check it out again, but that is up to you. After 3 hours you should have seen a decent amount of content.
+The only thing that's really radically different from previous and later entries is the presence of a hub world. Other than that, it plays pretty similarly to Halo CE and Halo Reach.
+> Take my advice rookie. You ever fall for a woman?
+
+Indeed, a wise advice.
+Ironic, but I am fine with that.
+Do your thing and share your thoughts.
+:D
+    Alright, thanks. I'm just trying to make sure, I don't want to be seen as just some reposting karma whore, because I like to express my opinions like any other person.
+        The timing seems a little strange, but I absolutely get it.
+Odst are but I hear that some spartans don't man I feel bad for a elite try to hit on Palmer but never get the chance.
+    Me still needing to play through Halo 5
+Yes, I see (with a blindfold on).
+        I really enjoyed halo 5, there’s so much going for it: art, music, game mechanics, talented actors, to name a few elements.
+Fans of Classic halo just really struggled with elements of the story telling. And I don’t need to get into it, there’s lots to explore on the topic.
+That's true, I do wish it was a lot more fleshed out rather than an expansion pack for halo, and a lot of the story feels like filler. I felt myself more invested in the rookie mombosa parts which sadly there was a lot less of. A lot of the other levels felt like standard halo fare.
+This is honestly my same issue with Portal 2. One of my favorite games, but I paid $60 for it and beat the single player campaign in one sitting. And although that game is definitely quality over quantity, it still was a hard pill to swallow. My 'golden ratio' is 1 dollar for 1 hour of gameplay. If a game achieves that, or better yet surpasses it, it's almost always a thumbs up for me. Portal 2 is still a thumbs up, but 7 hours of gameplay for 60 was hardly worth it when it released, imo.
+On legendary??
+    Well obviously I’m not gonna play through the campaign for the first time on legendary fam
+        Well no wonder you beat it in a day m8!
+It's amazing that the halo universe is so big with centuries and millennia of history, and the only point of view you get is supersoldier mcgee lol.
+
+Remember when they made a whole arc about the arbiter? That was really nice, I actually was invested in his story.
+I was 18 years old by that time
+No worries - I didn't take your original comment the wrong way!
+    >level 1drumercalzone091 day agoGame Maker’s Toolkit did a good video about ODST, which actually inspired me to go back and play it last year (after passing over it when it came out).
+
+I watched it, the video was awesome. I especially like discussing the order of the missions which is a major difference in understanding. I for my part manually chose the closest point and actually broke the sequence which made my experience much more confusing, but also gratifying after understanding what happens.
+[deleted]
+    Another imperfection. Could Bungie handled it better? I am not sure. The shields are a trademark and going too far from the formula may would have triggered bad reactions.
+        [deleted]
+            You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+                [deleted]
+                    Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+Exactly
+It is maybe respective to the players skill. The worse you are, the lower the difficulty needs to be to actually enact the fantasy of being small and almost powerless.
+Halo 2 turned out so good for how little time they had
+    Absolutely. I love it despite it's flaws. Which are numerous and by coincidence the number of Sniper Jackals exactly corresponds with it.
+        Honestly the thing I like the least is the difficulty - Sniper Jackals are an obvious point, but the literal first level on Legendary is a nightmare. It was obvious that they didn't have time to sort the difficulty out :/
+            Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+>I am currently intending to read all novels of Halo. That is my first impression his character, but it is subject to change. Halo 4 is extremely vocal about this, but even Halo:The Flood already made some little references which could be interpreted that way.
+
+The notion that Chief doesn't care about the sanctity of life just isn't in line with his previous characterization. Halo 4's characterization (which deviates greatly from his depiction in prior novels) doesn't really line up with that either so I'm not quite sure where you're getting that. Chief has some survivor's guilt. He blames himself for the deaths of those under him even when it was totally out of his control. 
+
+>I am not arguing that he went away from the interpretation of Bungie, but that it lines up perfectly with the greater narrative that 343 intends to create.
+
+Which would be true if novels produced under 343 didn't contradict Halo 4 even more than the older novels did. Chief is at his most emotive in recent works under 343. Silent Storm is entirely about Chief dealing with the burden of command and coming to terms with the fact that as a leader, he has to send his men to their deaths and deal with it because he's the leader and he needs to stay alive for the sake of the group. 
+
+Chief understands how important life is, he's just seen so many people die that he's numb to it.
+    Oh well. I am still missing these ones and because of that my knowledge is incomplete. I am the beginning of my great journey. It saddens me to admit it, but you are probably right in both points as I only so much. 
+The crown of superior understanding belongs to you in this case as I can not argue about anything I still have not learned. 
+Thank you for correcting me.
+We don't speak of 5 lol. To be honest I forgot 5 and 4 were a thing and since they're done by a different company I don't really count them because obviously 343s vision and bungies vision for halo were completely different
+    While that is true, I give 343 some credit for trying. Fuck 5 and everything it did, but 4 was a brave mistake. I hope they can redeem themselves with Infinite.
+        True I don't fault them at all for what they tried to do but that's why I don't really count 4 and 5 when talking about 1-reach cause it's an obvious shift in tone and story between bungie and 343
+            Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+                I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+They were all excellent but ODST was unique. As you mentioned in the post the music is exceptionally beautiful. I have overture on my Spotify playlist, I like to listen when I feel empty or sad. I get goosebumps every-time. The stories of Halo are brilliant, like no other, and I myself enjoy the gameplay as much as I do the story. It wasn’t the first video game I played but it was the first halo I played and the first game I owned/played on 360 so it holds a special place for sure. I’m just glad I’m not the only one that thoroughly enjoyed it, I’ve seen a fair bit of hate towards it just because it’s different or doesn’t have master chief, which is a real shame as ODST is a gem of a game.
+    If every game had as much identity as ODST, the gaming industry would be a lot better. While not perfect it fills a role of being different and has a soul, something the Indie scene captured for me nowadays.
+Hey don’t worry, only teasing! Good points about ODST though
+It's definitely worth trying, the graphics are old but the squad gameplay and atmosphere is something I haven't run into again.
+Alright, thanks. I'm just trying to make sure, I don't want to be seen as just some reposting karma whore, because I like to express my opinions like any other person.
+    The timing seems a little strange, but I absolutely get it.
+Me still needing to play through Halo 5
+Yes, I see (with a blindfold on).
+    I really enjoyed halo 5, there’s so much going for it: art, music, game mechanics, talented actors, to name a few elements.
+Fans of Classic halo just really struggled with elements of the story telling. And I don’t need to get into it, there’s lots to explore on the topic.
+Well obviously I’m not gonna play through the campaign for the first time on legendary fam
+    Well no wonder you beat it in a day m8!
+>level 1drumercalzone091 day agoGame Maker’s Toolkit did a good video about ODST, which actually inspired me to go back and play it last year (after passing over it when it came out).
+
+I watched it, the video was awesome. I especially like discussing the order of the missions which is a major difference in understanding. I for my part manually chose the closest point and actually broke the sequence which made my experience much more confusing, but also gratifying after understanding what happens.
+Another imperfection. Could Bungie handled it better? I am not sure. The shields are a trademark and going too far from the formula may would have triggered bad reactions.
+    [deleted]
+        You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+            [deleted]
+                Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+Absolutely. I love it despite it's flaws. Which are numerous and by coincidence the number of Sniper Jackals exactly corresponds with it.
+    Honestly the thing I like the least is the difficulty - Sniper Jackals are an obvious point, but the literal first level on Legendary is a nightmare. It was obvious that they didn't have time to sort the difficulty out :/
+        Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+Oh well. I am still missing these ones and because of that my knowledge is incomplete. I am the beginning of my great journey. It saddens me to admit it, but you are probably right in both points as I only so much. 
+The crown of superior understanding belongs to you in this case as I can not argue about anything I still have not learned. 
+Thank you for correcting me.
+While that is true, I give 343 some credit for trying. Fuck 5 and everything it did, but 4 was a brave mistake. I hope they can redeem themselves with Infinite.
+    True I don't fault them at all for what they tried to do but that's why I don't really count 4 and 5 when talking about 1-reach cause it's an obvious shift in tone and story between bungie and 343
+        Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+            I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+If every game had as much identity as ODST, the gaming industry would be a lot better. While not perfect it fills a role of being different and has a soul, something the Indie scene captured for me nowadays.
+The timing seems a little strange, but I absolutely get it.
+I really enjoyed halo 5, there’s so much going for it: art, music, game mechanics, talented actors, to name a few elements.
+Fans of Classic halo just really struggled with elements of the story telling. And I don’t need to get into it, there’s lots to explore on the topic.
+Well no wonder you beat it in a day m8!
+[deleted]
+    You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+        [deleted]
+            Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+Honestly the thing I like the least is the difficulty - Sniper Jackals are an obvious point, but the literal first level on Legendary is a nightmare. It was obvious that they didn't have time to sort the difficulty out :/
+    Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+True I don't fault them at all for what they tried to do but that's why I don't really count 4 and 5 when talking about 1-reach cause it's an obvious shift in tone and story between bungie and 343
+    Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+        I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+You are sending me mixed signals.  
+You said that you don't like stamina as it is too close to energy. But on the other hand you agree that most people would have disliked it?
+    [deleted]
+        Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+Indeed. Everything is overwhelming and oneshotting you. This means the player has no time to learn the gameplay or realize how to play on legendary.
+Yeah, there was too much change in my opinion. Do you know the Act Man? He did some great videos about Halo 4 and 5 and explains how they fail.
+    I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+[deleted]
+    Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.
+I don't know the act man but I'll definitely check him out to be honest I don't remember 5 at all and barely remember 4 though so I'd have to replay them before watching
+Oh, that makes sense. Yes, I can absolutely see that. But people could complain about it being too close or too far away from the classical gameplay. While I don't like Stamina too much, I can accept it and at least there is a little twist to it.

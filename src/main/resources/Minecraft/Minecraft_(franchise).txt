@@ -1,0 +1,117 @@
+{{short description|Media franchise}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox media franchise
+| image = Minecraft Logo-en.svg
+| creator = [[Markus Persson]]
+| origin = First version of ''[[Minecraft]]'' made public in May 2009
+| owner = [[Mojang Studios]]
+| years = 2009–present
+| novels = [[#Official novels|List of novels]]
+| graphic_novels = {{ubl|
+* Dark Horse Comics Volumes (2019–2021)
+* ''Minecraft: Wither Without You''
+* ''Minecraft: Open World''
+* ''Minecraft: Stories from the Overworld''
+}}
+| films = {{Plainlist|
+* ''[[Minecraft: The Story of Mojang]]'' (2012)
+* ''[[Minecraft (film)|Minecraft]]'' (2025)
+}}
+| web_series = ''Minecraft Mini Series'' (2017–2018)
+| games = {{Plainlist|
+* ''[[#Tabletop games|Minecraft Card Game?]]''
+* ''[[#Tabletop games|Uno Minecraft]]''
+* ''[[#Tabletop games|Minecraft: Builders & Biomes]]''
+* ''Minecraft: Heroes of the Village''
+* ''Minecraft: Portal Dash''
+}}
+| video_games = {{Plainlist|
+* ''[[Minecraft]]'' (2011)
+* ''[[Minicraft]]'' (2011)
+* ''[[Minecraft: Story Mode]]'' (2015–2017)
+* ''[[Minecraft Education]]'' (2016)
+* ''[[Minecraft Earth]]'' (2019)
+* ''[[Minecraft Dungeons]]'' (2020)
+* ''[[Minecraft Legends]]'' (2023)
+}}
+| toys = [[Lego Minecraft]]
+| website = {{URL|minecraft.net}}
+}}
+'''''Minecraft''''' is a [[media franchise]] developed from and centered around the [[Minecraft|video game of the same name]]. Primarily developed by [[Mojang Studios]], the franchise consists of five video games, along with various books, merchandise, events, and an upcoming theatrical film. [[Microsoft]] acquired Mojang Studios in 2014, alongside the ''Minecraft'' franchise and its editions.
+== ''Minecraft'' ==
+{{Main article|Minecraft}}
+''Minecraft'' is a [[3D computer graphics|3D]] [[Survival game|survival]] [[sandbox game]] developed and published by [[Mojang]], spanning multiple platforms. It was originally created by the independent video game designer [[Markus Persson]] in 2009, before giving the development to [[Jens Bergensten]] in 2011. The game has no specific goals to accomplish, allowing players a large amount of freedom in choosing how to play the game. Gameplay is in the [[First-person (video games)|first-person perspective]], with the core gameplay modes being [[survival mode|survival]], in which players must acquire resources to build the world and maintain health (optionally with a "hardcore" limit, which deletes the world after the player dies); and creative, in which players have unlimited resources, no hunger and are able to fly. The game world is composed of [[voxel]]s—cubes, commonly called "blocks"—representing various materials, such as dirt, stone, ores, tree trunks, water, and lava, which are arranged in a 3-dimensional grid. Gameplay revolves around picking up and placing these objects as the player pleases, while being able to move freely around the world.
+== Spin-off games ==
+=== ''Minicraft'' ===
+{{Main|Minicraft}}
+''Minicraft'' is a 2011 [[2D computer graphics|2D]] [[Top-down perspective|top-down]] [[action game]] created by [[Markus Persson]], the creator of the ''Minecraft'' franchise. It was developed in 48 hours as part of the 22nd [[Ludum Dare]] [[game jam]] competition. At the time of its release, it was reported to be a "sequel" to ''Minecraft''.
+=== ''Minecraft: Story Mode'' ===
+{{Main|Minecraft: Story Mode}}
+''Minecraft: Story Mode'', an episodic spin-off game developed by [[Telltale Games]] in collaboration with Mojang, was announced in December 2014. Consisting of five episodes plus three additional downloadable episodes, the standalone game is a narrative and player choice-driven, and it was released on [[Windows]], [[OS X]], [[iOS]], [[PlayStation 3]], [[PlayStation 4]], [[Xbox 360]], and [[Xbox One]] via download on 13 October 2015. A physical disc that grants access to all episodes was released for the aforementioned four consoles on 27 October. and [[Nintendo Switch]] versions were available in 2017. From late 2018 to 5 December 2022, it was only available on [[Netflix]], where only the first five episodes were available. The first trailer for the game was shown at Minecon on 4 July 2015, revealing some of the game's features. In ''Minecraft: Story Mode'', players control Jesse (voiced by [[Patton Oswalt]] and [[Catherine Taber]]),{{Timeline of release years|2011=''[[Minecraft]]''|2015=''[[Minecraft: Story Mode]]''|2017=''Minecraft: Story Mode: Season 2''|2019=''[[Minecraft Earth]]''|2020=''[[Minecraft Dungeons]]''|2023=''[[Minecraft Legends]]''}}
+==== ''Minecraft: Story Mode: Season 2'' ====
+The second season was released from July to December 2017. It continued the story from the first season, with the player's choices affecting elements within ''Season Two''. [[Patton Oswalt]], [[Catherine Taber]], [[Ashley Johnson (actress)|Ashley Johnson]], and [[Scott Porter]] were confirmed to continue voicework for the new season. The game supports the new Crowd Play feature that Telltale introduced in ''[[Batman: The Telltale Series]]'', allowing up to 2,000 audience members to vote on decisions for the player using [[Twitch (service)|Twitch]] or other streaming services. It was shut down along with the original ''Minecraft: Story Mode'', on 25 June 2019.
+=== ''Minecraft Earth'' ===
+{{Main|Minecraft Earth}}
+''Minecraft Earth'' was an [[augmented reality]] [[sandbox game]] developed by [[Mojang Studios]] and published by [[Xbox Game Studios]]. A [[spin-off (media)|spin-off]] of the video game ''[[Minecraft]]'', it was first announced in May 2019, and was available on [[Android (operating system)|Android]], [[iOS]], and [[iPadOS]]. The game allowed players to interact with the world and build Minecraft-style structures and objects that will persist and can be modified by other players. The game implemented the resource-gathering and many of the other features of the original game in an augmented-reality setting. The game had a beta release in July 2019. The game was [[free-to-play]], and was released in [[early access]] in October 2019. The game was shut down on 30 June 2021, and players who made in-game purchases on the app received a free copy of the Bedrock Edition.
+=== ''Minecraft Dungeons'' ===
+{{Main|Minecraft Dungeons}}
+''Minecraft Dungeons'' is a [[dungeon crawler]] video game developed by [[Mojang Studios]] and [[Double Eleven (company)|Double Eleven]]. It was published by [[Xbox Game Studios]]. It is a [[Spin-off (media)|spin-off]] of ''[[Minecraft]]'' and was released for [[Nintendo Switch]], [[PlayStation 4]], [[Windows]], and [[Xbox One]] on 26 May 2020. The game received mixed reviews; many deemed the game fun and charming, with praise for its visuals and music. However, its simple gameplay and use of [[procedural generation]] received a more mixed reception, with its short story and lack of depth criticized.
+It is a [[hack and slash]]-styled [[dungeon crawler]], rendered from an [[Isometric video game graphics|isometric perspective]]. Players explore [[procedural generation#Video games|procedurally generated]] and hand crafted dungeons filled with new variants of existing ''Minecraft'' monsters and also deal with traps, puzzles, bosses and finding treasure.
+====''Minecraft Dungeons Arcade''====
+In early 2021, Mojang announced an arcade adaptation version of ''Minecraft Dungeons'' associated with collectible cards.
+=== ''Minecraft Legends'' ===
+{{Main|Minecraft Legends}}
+''Minecraft Legends'' is an [[Strategy video game|action-strategy game]] developed by [[Mojang Studios]] and [[Blackbird Interactive]], announced on 12 June 2022 and released on 18 April 2023. It stopped receiving updates on January 10, 2024.
+== Film ==
+{{main|Minecraft (film)}}
+In 2012, Mojang received offers from Hollywood producers who wanted to produce ''Minecraft''-related TV shows; however, Mojang stated they would only engage in such projects when "the right idea comes along".
+Two years later, in February 2014, an attempt to [[crowdfund]] a [[fan film]] through [[Kickstarter]] was shut down after [[Markus Persson|Markus 'Notch' Persson]] declined to let the filmmakers use the license, the given reason being that the Kickstarter was set up before any agreement with Mojang had been made. That same month, Persson revealed that Mojang was in talks with [[Warner Bros. Pictures]] to develop an official ''Minecraft'' film to be produced by [[Roy Lee]] and [[Jill Messick]]. In October 2014, Mojang COO Vu Bui stated that the movie was "in its early days of development", saying that it was a "large-budget" production, and also said that it might not be released until 2018. That same month, Warner Bros. hired [[Shawn Levy]] to direct the film, while in December, it was confirmed that Levy and writers [[Kieran Mulroney|Kieran]] and Michele Mulroney, who were developing the film together had left the project.
+In July 2015, it was announced that Warner Bros. had hired [[Rob McElhenney]] to direct the film. According to McElhenney, he had been drawn to the film based on the open-world nature of the game, an idea Warner Bros. had initially agreed with and for which they had provided him with a preliminary US$150 million budget. In 2016, early production started on the film, including in June assigning a release date of 24 May 2019, in October setting [[Jason Fuchs]] to write the script, and in November contracting [[Steve Carell]] to star as the voice of an unknown character. McElhenney's ''Minecraft'' film "slowly died on the vine," and due to scheduling conflicts, he left the film in August 2018, [[Aaron and Adam Nee]] were tapped to rewrite the script, and the film was delayed as a result. No new director was announced at that time.
+In January 2019, [[Peter Sollett]] was announced to write and direct the film, featuring an entirely different story from McElhenney's version. Messick, who died in 2018, will be posthumously credited as producer. In April 2019, Warner Bros. scheduled the new film to be released in theaters on 4 March 2022. In June 2019, [[Allison Schroeder]] was hired to write the script and co-write the film with Sollett. In October 2020, the [[COVID-19 pandemic]] prompted Warner Bros. to adjust its release schedule, including removing the ''Minecraft'' film from its planned release date.
+Sollett instead directed ''[[Metal Lords]]'', which was released exclusively on [[Netflix]] in April 2022. That same month, production on the ''Minecraft'' film was announced to be moving forward without Sollett and Schroeder, now with [[Jared and Jerusha Hess|Jared Hess]] set to direct and [[Jason Momoa]] in early talks to star. The film was also confirmed to be [[live action]]. Some sources also said that Chris Bowman and [[Hubbel Palmer]] would rewrite the script. In early April 2023, it was reported that the film would release on 4 April 2025. In May, [[Matt Berry]] entered negotiations to join the cast. On 19 June 2023, it was reported that [[principal photography]] on the film would start on 7 August in [[New Zealand]], before filming was delayed in July due to the [[2023 SAG-AFTRA strike]]. Following the conclusion of the strike in early November 2023, filming was reported to be aiming for an early 2024 start. Later that month, [[Danielle Brooks]] and Sebastian Eugene Hansen joined the cast as Dawn and Henry, respectively, and filming was scheduled to begin in late December 2023. In early December, [[Emma Myers]] also joined the cast. In early January 2024, [[Jack Black]] was cast as Steve, teasing his casting in the film via his official [[Instagram]] account.
+== Books ==
+=== Official novels ===
+The game has inspired several officially licensed novels set in the ''Minecraft'' universe:
+* {{cite book|last=Brooks|first=Max|author-link=Max Brooks|title=Minecraft: The Island: An Official Minecraft Novel|date=18 July 2017|publisher=[[Del Rey Books]]|isbn=9780399181771|ref=none}}
+* {{cite book|last=Baptiste|first=Tracey|author-link=Tracey Baptiste|title=Minecraft: The Crash: An Official Minecraft Novel|date=10 July 2018|publisher=[[Del Rey Books]]|isbn=9780399180668|ref=none}}
+* {{cite book|last=Lafferty|first=Mur|author-link=Mur Lafferty|title=Minecraft: The Lost Journals: An Official Minecraft Novel|date=9 July 2019|publisher=[[Del Rey Books]]|isbn=9780399180699|ref=none}}
+* {{cite book|last=Valente|first=Catherynne|author-link=Catherynne Valente|title=Minecraft: The End: An Official Minecraft Novel|date=3 December 2019|publisher=[[Del Rey Books]]|isbn=9780399180729|ref=none}}
+* {{cite book|last=Brooks|first=Max|author-link=Max Brooks|title=Minecraft: The Mountain: An Official Minecraft Novel|publisher=[[Del Rey Books]]|date=2 March 2021|isbn=978-0-593-15915-6|location=United States|ref=none}}
+* {{cite book|last=Eliopulos|first=Nick|author-link=|title=Minecraft Stonesword Saga: Crack in the Code|date=5 August 2021|publisher=[[Random House Books for Young Readers]]|isbn=9780593372982|ref=none}} {{cite web|last=|first=|title=Minecraft Stonesword Saga — Nick Eliopulos
+|url=https://www.fictiondb.com/series/minecraft-stonesword-saga-nick-eliopulos~70509.htm|access-date=10 July 2022|website=FictionDB}}
+* {{cite book|last=Eliopulos|first=Nick|author-link=|title=Minecraft Stonesword Saga: Mobs Rule|date=17 March 2022|publisher=[[Random House Books for Young Readers]]|isbn=9780008512385|ref=none}}
+* {{cite book|last=Eliopulos|first=Nick|author-link=|title=Minecraft Stonesword Saga: New Pets on the Block|date=28 June 2022|publisher=[[Random House Books for Young Readers]]|isbn=9780008495961|ref=none}}
+=== Other books ===
+* [[Minecraft (book)|''Minecraft: The Unlikely Tale of Markus "Notch" Persson and the Game That Changed Everything'']] is a book written by Daniel Goldberg and Linus Larsson (and translated by Jennifer Hawkins) about the story of [[Minecraft]] and its creator, [[Markus "Notch" Persson]]. The book was released on 17 October 2013.
+* A [[graphic novel]] set in the ''Minecraft'' franchise, ''[[Trayaurus and the Enchanted Crystal]]'', was published by [[YouTuber]] [[DanTDM]] in October 2016, reaching the first spot on [[The New York Times Best Seller list|''The New York Times'' Best Seller list]] for hardcover graphic books and remaining there for eleven consecutive weeks.
+* ''[[Gameknight999]]'' is a series of six trilogies about a protagonist who is transported into the digital ''Minecraft'' world and experiences harrowing adventures involving the antagonist [[Herobrine]]. The first trilogy was listed in the ''[[New York Times]]'' top 10 bestsellers in February 2015.
+== Tabletop games ==
+Three tabletop games have been produced as official tie-in games for ''Minecraft''. The first two are both card games, namely ''Minecraft Card Game?'', produced by Mattel in 2015, and ''Uno Minecraft'', produced by Mattel in 2016.
+Towards the end of 2019, ''Minecraft: Builders & Biomes'', a board game version of ''Minecraft'', was announced. The game was geared towards the family market, catered for 2–4 players, and was published by [[Ravensburger]]. Players explore the Overworld, build structures, and mine resources in a quest to score the most points. At the end of 2020, an expansion for the tabletop game was released, titled ''Minecraft: Farmer's Market Expansion'', which introduced a new farm biome that enabled players to produce vegetables.
+== Merchandise ==
+[[File:Minecraft Merchandise sales in millions U.S dollars.png|alt=The graph shows information from 2013 to 2018, with a general upward curve ending at 800 million sales.|left|thumb|Minecraft merchandise sales in millions U.S. dollars|277x277px]]
+=== Lego ''Minecraft'' ===
+{{Main|Lego Minecraft}}The first Lego set based on ''Minecraft'' was released on 6 June 2012. The set, called "Micro World", centres around a microscale representation of a forest from the game and includes Lego versions of the game's default [[player character]] and a [[Creeper (Minecraft)|creeper]]. Mojang submitted the concept of ''Minecraft'' merchandise to Lego in December 2011 for the [[Lego Cuusoo]] program, from which it quickly received 10,000 votes by users, prompting Lego to review the concept. Lego Cuusoo approved the concept in January 2012 and began developing sets based on ''Minecraft''. with more released every year since.
+=== Other merchandise ===
+Mojang often collaborates with [[Jinx (clothing)|Jinx]], an online game merchandise store, to sell ''Minecraft'' merchandise, such as clothing, foam pickaxes, and toys of creatures in the game. By May 2012, over 1 million dollars were made from ''Minecraft'' merchandise sales. T-shirts and socks were the most popular products. In March 2013, Mojang signed a deal with the [[Egmont Group]], a children's book publisher, to create ''Minecraft'' handbooks, [[Annual publication|annuals]], poster books, and magazines. [[Amiibo]] figurines of the characters [[Steve (Minecraft)|Steve]] and Alex were released in September 2022, and are compatible with the video game ''[[Super Smash Bros. Ultimate]]''. In 2021 the [[Australia Post]] created a Minecraft postage stamp pack.
+== Events ==
+=== Minecon ===
+{{Main|Minecon}}
+Minecon (stylized as "MineCon" or "MINECON") is an official [[Fan convention|convention]] dedicated to ''Minecraft''. The first one was held in November 2011 at the [[Mandalay Bay]] Hotel and Casino in [[Las Vegas]]. All 4,500 tickets for MineCon 2011 were sold out by 31 October. The event included the official launch of ''Minecraft''; keynote speeches, including one by Persson; building and costume contests; ''Minecraft''-themed breakout classes; exhibits by leading gaming and ''Minecraft''-related companies; commemorative merchandise; and autograph and picture times with Mojang employees and well-known contributors from the ''Minecraft'' community. After MineCon, there was an ''Into The Nether'' after-party with [[deadmau5]]. Free codes were given to every attendee of MineCon that unlocked alpha versions of Mojang's ''[[Scrolls (video game)|Scrolls]]'', as well as an additional non-Mojang game, ''[[Cobalt (video game)|Cobalt]]'', developed by Oxeye Game Studios. Similar events occurred in MineCon 2012, which took place in [[Disneyland Paris]] in November. The tickets for the 2012 event sold out in less than two hours. MineCon 2013 was held in [[Orlando]] in November. MineCon 2015 was held in [[London]] in July. MineCon 2016 was held in [[Anaheim]] in September. MineCon 2017 was held as a [[livestream]] instead of being held at a show floor. Titled "MINECON Earth", it was streamed live in November.
+''MineCon Earth 2018'' followed the same format as the 2017 event, but was renamed in 2019 to "MINECON Live" to avoid confusion with Mojang's augmented-reality game, ''Minecraft Earth''.
+=== ''Minecraft Festival'' ===
+{{main|Minecraft Festival}}
+In ''MineCon Live 2019'', Mojang announced ''Minecraft Festival'', an in-person event to be held 25–27 September 2020, in Orlando, Florida. The event has since been delayed indefinitely due to the [[COVID-19 pandemic]].
+=== Minecraft Live ===
+On 3 September 2020, it was announced by Mojang that a new livestreamed event would be taking place to replace the postponed ''[[Minecraft Festival]]''. showing the features of ''Minecraft''{{'}}s "Caves and Cliffs" update. The second Minecraft Live took place on 16 October 2021 and showcased more of the Caves and Cliffs part 2 update, along with announcing and showing of features for the Wild Update. The third Minecraft Live took place on 15 October 2022 and announced more of the features in the Wild Update and the (at the time) unnamed next update.
+== Notable achievements ==
+The ''Minecraft franchise'' covers a wide range of content. In late 2021, videos of ''Minecraft'' hit 1 trillion views on [[YouTube]]. The video game ''Minecraft'' is the [[List of best-selling video games|best-selling video game of all time]], surpassing ''[[Tetris (Electronic Arts)|Tetris]]'' and ''[[Grand Theft Auto V]]'' with over 300,000,000 copies sold.
+== References ==
+{{Reflist}}
+{{Minecraft}}
+{{Xbox Game Studios}}
+[[Category:Minecraft| ]]
+[[Category:Microsoft franchises]]
+[[Category:Video game franchises introduced in 2011]]
+[[Category:Markus Persson]]

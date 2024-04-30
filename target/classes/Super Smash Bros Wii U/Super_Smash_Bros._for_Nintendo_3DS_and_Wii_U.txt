@@ -1,0 +1,186 @@
+{{short description|Pair of 2014 video games}}
+{{pp-pc1}}
+{{DISPLAYTITLE:''Super Smash Bros. for Nintendo 3DS'' and ''Wii U''}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox video game
+| title = {{ubl|{{nowrap|''Super Smash Bros. for Nintendo 3DS''}}|''Super Smash Bros. for Wii U''}}
+| italic title = no
+| image = Super Smash Bros. for Nintendo 3DS and Wii U.png
+| caption = Box arts for ''Super Smash Bros. for Nintendo 3DS'' (left) and ''Super Smash Bros. for Wii U'' (right)
+| developer = {{ubl|[[Bandai Namco Studios]]|[[Sora Ltd.]]}}
+| publisher = [[Nintendo]]
+| director = [[Masahiro Sakurai]]
+| producer = {{ubl|Shinya Saito|Masaya Kobayashi}}
+| composer = {{ubl|Keiki Kobayashi|Junichi Nakatsuru|Hiroki Hashimoto|Hiroyuki Kawada|Torine |LindaAI-CUE |Yoshinori Hirai}}
+| series = ''[[Super Smash Bros.]]''
+| platforms = [[Nintendo 3DS]], [[Wii U]]
+| released = '''Nintendo 3DS'''{{Video game release|JP|September 13, 2014|[[North America|NA]]/[[Europe|EU]]|October 3, 2014|AUS|October 4, 2014}}'''Wii U'''{{Video game release|NA|November 21, 2014|EU|November 28, 2014|AU|November 29, 2014|JP|December 6, 2014}}
+| genre = [[Fighting game|Fighting]]
+| modes = [[Single-player]], [[multiplayer]]
+}}
+{{Nihongo foot|'''''Super Smash Bros. for Nintendo 3DS'''''|大乱闘スマッシュブラザーズ for Nintendo 3DS|Dai Rantō Sumasshu Burazāzu fō Nintendō Surī Dī Esu|lead=yes|group=lower-alpha}} and {{Nihongo foot|'''''Super Smash Bros. for Wii U'''''|大乱闘スマッシュブラザーズ for Wii U|Dai Rantō Sumasshu Burazāzu fō Wī Yū|lead=yes|group=lower-alpha}}, both commonly referred together as '''''Super Smash Bros. 4''''', are 2014 [[List of crossovers in video games|crossover]] [[Platform fighter|platform fighter video games]] developed by [[Bandai Namco Studios]] and [[Sora Ltd.]] and published by [[Nintendo]] for the [[Nintendo 3DS]] and [[Wii U]] [[video game consoles]]. It is the fourth{{efn|Officially, the two games are considered to be separate installments, with the Nintendo 3DS version considered the fourth game and the Wii U version considered the fifth game. However, most sources treat them as the same installment.}} installment in the ''[[Super Smash Bros.]]'' series, succeeding ''[[Super Smash Bros. Brawl]]''. The Nintendo 3DS version was released in Japan on September 13, 2014, and in North America, Europe, and Australia the following month. The Wii U version was released in North America, Europe, and Australia in November 2014 and in Japan the following month.
+As part of the ''[[Super Smash Bros.]]'' series, ''Super Smash Bros. for Nintendo 3DS'' and ''Super Smash Bros. for Wii U'' are non-traditional fighting games where players use different attacks to weaken their opponents and knock them out of an arena. The games are [[Fictional crossovers in video games|crossover titles]] that feature characters, items, music, and stages from various Nintendo franchises, as well as from several third-party franchises. The games began development in 2012 and were announced at [[E3 2013]]. The gameplay was tuned to be between that of the faster, more competition-oriented ''[[Super Smash Bros. Melee]]'' and the slower, more casual-friendly ''[[Super Smash Bros. Brawl]]''.
+New features include having up to eight players fighting at a time on the Wii U version, support for Nintendo's line of [[Amiibo]] (being one of the first games to do so), using custom [[Mii]]s as playable fighters, post-release downloadable content including additional fighters and stages, and customizable special moves. Some features from previous games in the series were removed, such as the story mode from ''Brawl''. Critics applauded the fine-tuning of existing ''Super Smash Bros.'' gameplay elements but criticized some issues with online play. Both versions sold well, with the 3DS version selling over nine million copies worldwide by September 2022 and the Wii U version selling over five million by the same period. It was followed by ''[[Super Smash Bros. Ultimate]]'' for the [[Nintendo Switch]] in 2018.
+==Gameplay==
+{{see also|Super Smash Bros.#Gameplay|l1=Gameplay in the ''Super Smash Bros.'' series}}
+Like in previous games in the series, ''Super Smash Bros.'' is a multiplayer [[platform fighter]] where players use various attacks, techniques, and items to deal damage to their opponents and knock them out of the arena. As a character's damage percentage increases, they fly back further when attacked, and may eventually be knocked far enough out of the playing field to be [[knocked out]]. To assist players during a battle, items sometimes appear on the battlefield, most of which represent the various video games represented in the series. An item called a Smash Ball allows players to use a powerful, character-specific attack known as a "Final Smash". Another item is an Assist Trophy, which summons various non-playable characters from a represented series onto the field to assist the summoner. Like its predecessors, ''Super Smash Bros.'' features collectible in-game trophies based on characters or items seen in various Nintendo or third-party games. Each stage now features an alternate Omega form, which replaces the stage's layout with a flat surface with ledges on both sides and removes all stage hazards, similar to the stage "Final Destination", a flat, medium-sized stage with no hazards. Certain stages, collectible trophies, and game features are exclusive to each version, with the Wii U version primarily featuring elements taken from home console titles and the 3DS version taking elements primarily from handheld titles. Both games feature revisited stages from past entries in the series and new stages representing newly introduced properties or recent entries in existing ones.
+New to the series is the ability to customize both existing characters and custom [[Mii]] Fighters, altering their attacks and giving them unique power-ups. These characters can be transferred between the 3DS and Wii U versions of the game, as well as certain items earned in specific modes. Additionally, players can use [[Amiibo]] to train computer-controlled players and import them into a match. Both versions of the game support local and online multiplayer. Whereas local and online matches with friends have fully customizable rules, online matches with strangers are divided into two modes: "For Fun" and "For Glory". For Fun features random stages and items, with timed matches only and Omega stages omitted, while For Glory features stock matches with no items exclusively on Omega stages and features both standard Smash and 1-on-1 battles, all of which the player's wins and losses are recorded from For Glory. Customized characters, Mii Fighters, and Amiibo cannot be used in online matches against strangers. Additionally, solo play once again features Classic mode, which features an intensity setting directly influenced by [[Masahiro Sakurai]]'s previous project ''[[Kid Icarus: Uprising]]'', in which players can make the game more difficult by spending in-game currency to earn greater rewards. The Home-Run Contest game from ''Melee'' also returns with a competitive variation for up to four players. Both versions share two new modes. Target Blast has players beat up a ticking bomb before launching it into a set of targets, to earn as many points as possible by causing chain reactions. Trophy Rush has players clear out falling crates to build up a Fever meter and quickly earn new trophies and customization items.
+In addition to a moderation system to prevent [[griefing]], the game features an online ranking system called "Global Smash Power" for a player's solo mode score, which shows how many other players someone has outscored, rather than listing their position on a leaderboard. Although the game does not feature a ranking system for online matches, matchmaking between players of similar skill levels was introduced. Online also features Spectator Mode, where spectators can place bets on other players to win more gold, and Conquest, in which players can support selected characters by playing as them online, earning rewards if their supported team wins, and earning bonus rewards for going on a winning streak.
+Online multiplayer and other online services was discontinued on April 8, 2024.
+===Platform-specific features===
+The Nintendo 3DS version features [[stereoscopic 3D]] graphics with optional [[Cel shading|cel-shaded]] outlines to make the characters more visible. The game also features two exclusive modes; Smash Run and StreetSmash. Smash Run, based on the City Trial mode from ''[[Kirby Air Ride]]'', has players navigate an open environment, fighting computer-controlled enemies to earn stat-increasing power-ups, before facing each other in a randomly selected match, such as vertical or horizontal races against each other or battles with various special rules. StreetSmash is a [[StreetPass]]-based game in which players control a disc on a top-down board and attempt to knock their opponents out of the arena. The 3DS version supports the additional controls featured on the [[New Nintendo 3DS]], such as using the C-Stick to trigger Smash Attacks, but is incompatible with the [[Nintendo 3DS#Circle Pad Pro|Circle Pad Pro]] peripheral because of hardware limitations.
+The Wii U version features high-definition [[1080p]] graphics and a special mode called 8-Player Smash that allows up to eight players simultaneously. This mode is restricted to certain larger stages and cannot be played online, though additional stages were made available for eight players via post-release update patches. Various modes from the 3DS version, such as Classic mode, feature various changes in the Wii U version, with some modes allowing two players to play cooperatively or against each other in other modes. The Wii U version also features three exclusive new game modes; Smash Tour, Special Orders, and Event Mode. Smash Tour is a traditional board game-type mode in which up to four players assemble a team of fighters that they pick up on the board. Players can change the size of the game board, the number of turns, and choose if they allow having custom characters on the board (excluding Miis). In this mode, players earn stat increasing power-ups, triggering various battles and events along the way. Special Orders is a series of challenges set by Master Hand and Crazy Hand, which players can attempt to earn rewards. Each time a battle is won, the reward and the stakes will rise, but if a round is lost, all accumulated prizes will be lost. In Event Mode, one or two players can participate in themed challenges, moving along the path by completion. The Wii U version has vast compatibility with controllers; [[Wii U GamePad]], [[Wii Remote]], [[Wii Remote#Nunchuk|Wii Remote and Nunchuk]], [[Classic Controller|Classic Controller, Classic Controller Pro]], [[Wii U Pro Controller]], [[GameCube controller]] through GameCube Controller Adapter for Wii U, and the [[Nintendo 3DS]] systems (using either a copy of the 3DS version, or a ''Smash Controller'' app released on June 14, 2015). Returning features unique to this version include Special Smash, allowing for unique rules, Stage Builder and Photo mode, which allow players to create personalized stages and dioramas (with a compatible SD card), and demo versions of classic games in a "Masterpieces" gallery. An update on April 15, 2015, added content-sharing features, with a [[Nintendo Network|Miiverse]] stage added for free on June 14, 2015. An update released on July 31, 2015, added an online tournament mode.
+===Playable characters===
+{{Further|Characters in the Super Smash Bros. series|l1=Characters in the ''Super Smash Bros.'' series}}
+[[File:Super Smash Bros. Wii U.jpg|thumb|upright=1.4|Wii U gameplay featuring (from left to right) [[Sonic the Hedgehog (character)|Sonic]], [[Mario]], [[Mega Man (character)|Mega Man]] and, at the bottom, [[Bowser]]]]
+''Super Smash Bros. for Nintendo 3DS and Wii U'' features a roster of 58 playable characters (51 on-disc and 7 available as downloadable content) taken from both Nintendo's first-party franchises and some [[Third-party developer|third-party]] franchises. The base game includes 17 newcomers: the ''[[Wii Fit]]'' Trainer, ''[[Animal Crossing]]''{{'}}s [[Villager (Animal Crossing)|Villager]], [[Rosalina (Mario)|Rosalina]] and [[Bowser Jr.]] from the ''[[Mario (franchise)|Mario]]'' series (with Rosalina being accompanied by a Luma), [[Little Mac (Punch-Out!!)|Little Mac]] from ''[[Punch-Out!!]]'', [[Greninja]] from [[Pokémon X and Y|''Pokémon X'' and ''Y'']], Palutena and Dark Pit from ''[[Kid Icarus: Uprising]]'', [[Lucina (Fire Emblem)|Lucina]] and [[Robin (Fire Emblem Awakening)|Robin]] from ''[[Fire Emblem Awakening]]'', [[Shulk]] from ''[[Xenoblade Chronicles (video game)|Xenoblade Chronicles]]'', the [[Dog (Duck Hunt)|dog and duck as a duo]] from ''[[Duck Hunt]]'', [[Capcom]]'s [[Mega Man (character)|Mega Man]], [[Bandai Namco]]'s [[Pac-Man (character)|Pac-Man]], and the [[Mii|Mii Fighter]], which can be customized with one of three fighting styles: Brawler, {{not a typo|Swordfighter}}, and Gunner.
+Some characters such as [[Wii Fit Trainer]] and [[Bowser Jr.]] have multiple variations, such as different genders and alternate character skins, which are selected in the same manner as alternate colors. Some returning fighters who could change forms during a match in previous titles are now playable solely as individual characters. As such, [[Princess Zelda|Zelda]], [[Sheik (Legend of Zelda)|Sheik]], [[Samus Aran|Samus]], and [[Zero Suit Samus]] are now all individual fighters, along with [[Charizard]], who was previously included alongside the now-absent [[Squirtle]] and [[Ivysaur]] in the Pokémon Trainer's team in ''Brawl''. [[Dr. Mario]], who first appeared in ''[[Super Smash Bros. Melee]]'', makes his return to the roster after his absence in ''Brawl''. The [[Ice Climbers]] were originally planned for inclusion, but were removed due to the technical limitations of the 3DS. [[Wolf O'Donnell]] and [[Solid Snake]] are also absent following their appearances in the previous game.
+====Downloadable characters====
+In addition to the main roster, seven additional characters, including three returning characters and four newcomers, were released as [[downloadable content]] between April 2015 and February 2016. [[Mewtwo]], who last appeared in ''Melee'', was released on April 28, 2015, but was made available on April 15, 2015, for [[Club Nintendo]] members who purchased and registered both 3DS and Wii U versions of the game before March 31, 2015. [[Roy (Fire Emblem)|Roy]] from ''[[Fire Emblem: The Binding Blade]]'', who last appeared in ''Melee,'' and [[Lucas (Mother 3)|Lucas]] from ''[[Mother 3]]'', who last appeared in ''Brawl'', along with [[Ryu (Street Fighter)|Ryu]] from Capcom's ''[[Street Fighter]]'' franchise, were released on June 14, 2015. [[Cloud Strife]] from [[Square Enix]]'s ''[[Final Fantasy VII]]'' was released on December 15, 2015, following increasing requests for ''Final Fantasy'' series characters. Finally, [[Corrin (Fire Emblem)|Corrin]] from ''[[Fire Emblem Fates]]'' and [[Bayonetta (character)|Bayonetta]] from [[Sega]] and [[Nintendo]]'s ''[[Bayonetta]]'' series were released on February 3, 2016, in North America and in Europe and Japan the next day. Bayonetta was chosen as the overall winner worldwide among "negotiable and realizable" characters in a player-nominated ballot which ran between April 1, 2015, and October 3, 2015, ranking first in Europe and among the top five in North America. Sakurai and former Nintendo CEO [[Satoru Iwata]] decided not to reveal the top-requested fighters of the poll, believing if they had, "people might demand them from the respective game companies" which would cause "some inconvenience" to any negotiations. In October 2021, Sakurai revealed that [[Sora (Kingdom Hearts)|Sora]] from the ''[[Kingdom Hearts]]'' series and [[Banjo and Kazooie]] from the ''[[Banjo-Kazooie]]'' series had been the two top-requested fighters in the poll; both were ultimately added to the series as DLC characters for ''[[Super Smash Bros. Ultimate]]''. Corrin was developed as a downloadable character in response to the critical and commercial success of ''Fire Emblem Fates'' in Japan and in anticipation for the game's worldwide localization.
+The downloadable content is no longer available to purchase due to the closure of the Nintendo eShop for Nintendo 3DS and Wii U in March 2023. Previously purchased DLC for the Nintendo 3DS version of the game can no longer be reinstalled due to the Nintendo Network shutdown on April 8, 2024.
+==Development==
+Former Nintendo CEO Satoru Iwata first announced that a new ''Super Smash Bros.'' game was planned for Nintendo 3DS and Wii U at [[E3 2011]] in June 2011, but development only officially began following the completion of series creator Masahiro Sakurai's other project, ''[[Kid Icarus: Uprising]]'', in March 2012. The game was later revealed to be a joint-project between Bandai Namco Studios and [[Sora Ltd.]], with various staff members from Bandai Namco's ''[[Soulcalibur]]'' and ''[[Tekken]]'' series assisting Sakurai in development. Other companies also assisted with its development, such as [[tri-Crescendo]]. Sakurai, who was previously the sole person responsible for [[balance (game design)|balance]] in the series' multiple fighters, has involved more staff to further improve the game's competitive balance. The game was officially revealed at [[E3 2013]] on June 11, 2013, during a [[List of Nintendo Direct presentations|Nintendo Direct]]. Along with screenshots being posted each weekday on the game's official website and Miiverse community, various cinematic trailers were released, introducing each of the brand new fighters. Sakurai chose to use these trailers, which benefit from Internet sharing, as opposed to including a story campaign similar to the Subspace Emissary mode featured in ''Brawl'', as he believed the impact of seeing the mode's cinematic cutscenes for the first time was ruined by people uploading said scenes to video sharing websites.
+At E3 2013, Sakurai stated that the tripping mechanic introduced in ''Brawl'' had been omitted, with him also stating that the gameplay was between the fast-paced and competitive style of ''Melee'' and the slower and more casual style of ''Brawl''. While the game does not feature [[Cross-platform#Video games|cross-platform play]] between the Wii U and 3DS, due to each version featuring certain exclusive stages and game modes, there is the option to transfer customized characters and items between the two versions. The game builds upon the previous game's third-party involvement with the addition of third-party characters such as Capcom's Mega Man and Bandai Namco's Pac-Man, as well as the return of Sega's Sonic the Hedgehog. This involvement expands beyond playable characters, as other third-party characters, such as [[Ubisoft]]'s [[Rayman (character)|Rayman]], are also included in the game as trophies. The addition of Mii characters was made in response to the growing number of requests from fans to have their dream characters included in the game. To prevent potential bullying, as well as to maintain game balance online, Mii Fighters cannot be used in online matches against strangers. The decision to release the Wii U version at a later date from the 3DS version was made to allow each version to receive a dedicated debugging period. Hardware limitations on the Nintendo 3DS led to various design choices, such as the removal of mid-match transformations, the lack of Circle Pad Pro support, and the absence of the Ice Climbers, from the [[NES]] game ''[[Ice Climber]]'', who were previously playable in both ''Melee'' and ''Brawl''.
+In late August 2014, a series of allegedly [[Internet leak|leaked]] photos and videos of the 3DS version were uploaded to the Internet, revealing at the time several unannounced fighters. The original videos were removed shortly thereafter citing a copyright claim by [[Nintendo#Divisions|Nintendo of America]]. These leaks were confirmed on September 11, 2014, when various gamers in Japan and Taiwan obtained the 3DS version two days prior to its release date and streamed footage of the game on [[Twitch (service)|Twitch]].
+===Music===
+Like previous games in the series, ''Super Smash Bros. for Nintendo 3DS and Wii U'' features many original and re-arranged musical pieces from various gaming franchises. Both versions have multiple musical tracks that can be selected and listened to using the "My Music" feature, including pieces taken from earlier ''Super Smash Bros.'' games. The 3DS version features less music altogether than the Wii U version, however, and only has two songs per stage because of size limitations. The 3DS version also has a "Play in Sleep Mode" option, allowing players to listen to the game's music from the sound menu while the system is in sleep mode.
+Various well known video game composers and musicians such as [[Masashi Hamauzu]], [[Yuzo Koshiro]], [[Yasunori Mitsuda]], [[Motoi Sakuraba]], [[Yoko Shimomura]], [[Mahito Yokota]], [[Akari Kaida]], [[Michiru Yamane]], [[Koji Kondo]], [[Kazumi Totaka]], and [[Masafumi Takada]], among many others, contributed arrangements for the game, while the original score was written by Bandai Namco's internal sound team. A two-disc promotional soundtrack, featuring certain selections from the game, was available for [[Club Nintendo]] members who registered both versions of the game before January 13, 2015.
+==Release==
+In an announcement for the ''Super Smash Bros.'' Invitational, a tournament which was held at [[E3 2014]], Nintendo revealed an official GameCube controller adapter for the Wii U, which allows players to use GameCube controllers with the game, as well as a ''Smash Bros.'' themed game controller. The adapter and controllers were released alongside the game and are also available separately, but vary depending on the region. The GameCube controller adapter has four controller ports and only works with ''Super Smash Bros. for Wii U''. Players can use up to two adapters on the Wii U. This adapter was later revealed to work with the [[Nintendo Switch]] in 2017.
+''Super Smash Bros. for Nintendo 3DS'' was released in Japan on September 13, 2014, in North America and Europe on October 3, 2014, and in Australia on October 4, 2014. A playable demo was released on the Nintendo eShop on September 10, 2014, in Japan and on September 19, 2014, in North America and Europe. Select Club Nintendo Platinum members in North America and Europe received early access to the 3DS demo which, unlike the public demo of the game, had an unlimited number of plays. The Wii U version was released in North America on November 21, 2014, in Europe on November 28, 2014, in Australia on November 29, 2014, and in Japan on December 6, 2014. Bundles containing Amiibo figures were available at launch, with the last batch consisting of Bayonetta, Corrin, and Cloud.
+On April 15, 2015, a software update was released, adding the ability to purchase additional content, such as playable characters, new stages, and Mii Fighter costumes, and addressing some balancing issues in the game. It also enabled online sharing of photos, Mii fighters, replays and custom stages. An update released on July 31, 2015, added an online tournament mode and the ability to upload replays to [[YouTube]]. On July 19, 2017, a software update was released that added the ability to scan the final batch of DLC Amiibo.
+==Reception==
+{{Video game reviews
+|3DS = true
+|WIIU = true
+|na = true
+| MC_3DS = 85/100
+| MC_WIIU = 92/100
+| Allgame_3DS = {{Rating|4|5}}
+| Allgame_WIIU = {{Rating|4.5|5}}
+| Destruct_3DS = 9/10
+| Destruct_WIIU = 9.5/10
+| EuroG_3DS = 7/10
+| EuroG_WIIU = 8/10
+| Fam_3DS = 37/40{{cn|date=January 2023}}
+| GI_3DS = 9.25/10
+| GI_WIIU = 9.75/10
+| GameRev_3DS = {{Rating|4|5|}}
+| GameRev_WIIU = {{Rating|5|5|}}
+| GRadar_3DS = {{Rating|3.5|5}}
+| GRadar_WIIU = {{Rating|4.5|5}}
+| GSpot_3DS = 8/10
+| GSpot_WIIU = 9/10
+| GT_3DS = 7.4/10
+| GT_WIIU = 8.5/10
+| IGN_3DS = 8.8/10
+| IGN_WIIU = 9.8/10
+| Joystiq_3DS = {{Rating|4.5|5}}
+| Joystiq_WIIU = {{Rating|4.5|5}}
+| NLife_3DS = {{Rating|9|10}}
+| NLife_WIIU = {{Rating|9|10}}
+| Poly_3DS = 9/10
+| Poly_WIIU = 9.5/10
+|rev1 = ''Hardcore Gamer''
+|rev1_3DS=4.5/5
+|rev1_WIIU = 4.5/5
+}}
+Reception for the 3DS version was generally positive, according to [[review aggregator]] [[Metacritic]]. There were also reports of players damaging their 3DS Circle Pads while playing the game excessively. The 3DS version sold over a million copies in its first weekend on sale in Japan and had sold more than 3.22 million copies worldwide by the end of October 2014.
+The Wii U version received critical acclaim; critics praised its variety of gameplay modes and improvements upon features in the 3DS version. Daniel Bischoff of ''[[GameRevolution]]'' called it "the biggest leap forward Smashers have seen yet", praising the game for its graphics and "incredibly fast action". Daniel Starkey at ''[[GameSpot]]'' criticized the inconsistent performance of online multiplayer, but still called the game "incredible", noting, "With the Wii U release, ''Smash Bros.'' has fully realized its goals". Jose Otero from ''[[IGN]]'' praised the game for "appeal[ing] to the nostalgia of long-time Nintendo fans" while also being "accessible to new players". Thomas Schulenberg of ''Joystiq'' criticized occasional "matches plagued with stuttering frame rates" during online play and discussed his "indifference toward the Amiibo experience" but praised the game for its "abundance of goals to chase".
+===Sales===
+''Super Smash Bros. for Nintendo 3DS'' sold over two million copies in the United States by the end of 2014. In Japan, nearly 2,190,000 copies had been sold six months after release.
+''Super Smash Bros. for Wii U'' became the fastest-selling Wii U game in the U.S., with 490,000 physical and digital copies sold during its first three days of availability, beating the record previously held by ''[[Mario Kart 8]]''. By the end of March 2015, over 1.6 million units had been sold. By the end of September 2022, the 3DS version had sold 9.64 million copies worldwide, while the Wii U version sold 5.38 million copies worldwide.
+===Awards===
+{|class="wikitable"
+|+ ''Super Smash Bros. for Nintendo 3DS''
+|-
+! Year
+! Awards
+! Category
+! Result
+! Ref.
+|-
+| align="center" | 2015
+| [[18th Annual D.I.C.E. Awards]]
+| [[D.I.C.E. Award for Mobile Game of the Year|Handheld Game of the Year]]
+| {{won}}
+| align="center" |
+|-
+| 2016
+| [[People's Choice Awards]]
+| Best Video Game
+| {{won}}
+| align="center" |
+|}
+{|class="wikitable"
+|+ ''Super Smash Bros. for Wii U''
+|-
+! Year
+! Awards
+! Category
+! Result
+! Ref.
+|-
+| rowspan="3" |2014
+| [[The Game Awards 2014]]
+| Best Fighting Game
+| {{won}}
+| align="center" |
+|-
+| [[Game Critics Awards]]
+| Best Fighting Game
+| {{won}}
+| align=center |
+|-
+| ''[[USA Today]]''
+| Game of the Year
+| {{won}}
+| align=center|
+|-
+| align="center" | 2015
+| [[18th Annual D.I.C.E. Awards]]
+| [[D.I.C.E. Award for Fighting Game of the Year|Fighting Game of the Year]]
+| {{won}}
+| align=center |
+|-
+| 2016
+| [[People's Choice Awards]]
+| Best Video Game
+| {{won}}
+| align="center" |
+|}
+==Notes==
+{{notelist}}
+==References==
+{{Reflist|30em}}
+==External links==
+* {{Official website|https://www.smashbros.com/wiiu-3ds/}}
+{{Super Smash Bros. series}}
+{{Bandai Namco crossover games}}
+{{Masahiro Sakurai}}
+{{Authority control}}
+{{Portal bar|2010s|Video games}}
+{{Good article}}
+[[Category:2014 video games]]
+[[Category:Bandai Namco games]]
+[[Category:Crossover video games]]
+[[Category:Crossover fighting games]]
+[[Category:Esports games]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Video games with AI-versus-AI modes]]
+[[Category:Nintendo 3DS eShop games]]
+[[Category:Nintendo 3DS games]]
+[[Category:Nintendo Network games]]
+[[Category:Fighting games]]
+[[Category:2.5D fighting games]]
+[[Category:Platform fighters]]
+[[Category:Super Smash Bros.|Nintendo 3DS and Wii U]]
+[[Category:Video games developed in Japan]]
+[[Category:Video games that use Amiibo figurines]]
+[[Category:Video games with alternative versions]]
+[[Category:Video games with user-generated gameplay content]]
+[[Category:Wii U eShop games]]
+[[Category:Wii U games]]
+[[Category:Video games scored by Junichi Nakatsuru]]
+[[Category:Video games directed by Masahiro Sakurai]]
+[[Category:The Game Awards winners]]

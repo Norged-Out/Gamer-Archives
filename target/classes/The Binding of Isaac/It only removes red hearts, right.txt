@@ -1,0 +1,1220 @@
+[[It only removes red hearts, right]]
+
+
+
+
+
+Everyone learn the effect in the hard way.
+    This whole game is about learning things the hard way tho hahah
+        I learned the passive effect of cursed eye the hard way
+            Ugh, I hate that item with Azazel. The joys of not looking up how items work haha. I may have fallen for it on at least 3 occasions.
+                Cursed eye has no effect on Azazel and will never teleport. Edit: https://imgur.com/a/NDVJGHr
+                    I mean, that's just wrong. At least on Switch it is.
+                        I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+                            Actually is not guaranteed; it's a chance.
+                                You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                                    It is a chance; it's not gonna happen every time.
+                    I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+                        It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+                            Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+                                It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                                    Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+                            Maybe you only got hit when you already had a full charge
+                        Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+                            I have had experience with cursed eye and it does unless you have black candle
+                                You can test it yourself with a seed or the debug console if you'd like.
+                                    I've gotten cursed eye before with many characters including azazel also cant do debug console
+                    Really??
+                        No
+                        Yes.
+                            It most definitely does teleport you lol
+                                I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                                    Didnt you pick up the black candle?
+                            That's incorrect.
+                                https://imgur.com/a/NDVJGHr
+                                    Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+                                It is not incorrect, black candle removes all curses, cursed eye included
+                                    You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+                    r/confidentlyincorrect
+                        https://imgur.com/a/NDVJGHr
+                    This is an injustice
+            In case you didn't know, if you have black candle, cursed eye does not teleport anymore.
+                Yes, i know, but I've had black candle and cursed eye in the same run once
+                It's done that since original afterbirth
+            I learned not to take curse room items with curse of the blind because of cursed eye
+                I haven't learned that one yet gimmie them items
+            It's not that bad, he says
+                Cursed eye would be ok if it synergised with holy mantle
+                    I think it does now, but don't quote me
+                        It does
+            Of course, Learning is fun, _And learning demands suffering_
+
+-Ssethtzeentach
+            I took it ~5 times and always wondering why tf i was teleporting all the time until a friend told me its the cursed eye ╥﹏╥
+        [deleted]
+            Which is why I am super exciting for mods coming back, so I no longer have to tab out to look it up.
+
+Only improvement now would be if someone could make an addon for PlatinumGod that makes it link to the wiki in addition to those semi-useless descriptions (half of the time I use wiki, it's to look up weird interactions or synergies, which PG doesn't cover).
+
+I tried to do it myself with javascript, managed to get the elements containing the item names, and make links based on them, but I'm too dumb to figure out how to convert the <p> tags to <a> tags.
+        Only run I ever lost with Sacred Heart was the run I took ludovico on.
+            Ludo is the worst item istg.
+        I’ll never forget one run from my earliest days. I was finally getting good at the game, and was ready to beat Mom’s Heart for the very first time...
+
+And then I got Curse of the Tower
+
+Yeah... didn’t beat her that time
+        Hahaha definitely true, happened many times years ago when I first played it
+Although when I picked it back up after the expansions I just look new stuff up on the wiki haha, fuck it
+        Used the Bible on Satan today. It was cool:)
+    Would be the best item ever if it just respawned you in the room, but then it would probably be too op
+        It's op for the beast fight for exactly that reason
+            Thank god it is. Nobody wants to respawn after their "prime" life runs out (most likely due to low dmg output), just to have to probably fight the horsemen again and again and again with one heart until dying for real.
+
+The Beast being more of a last hurrah feels exactly right, especially after Dogma's 9000mph feather zoomies and other assorted annoying bullshit he throws at you in the second phase.
+                I honestly hate the feeling of losing a boss fight with 6 full hears, and then having to try to no-hit it 9 times. It’s so incredibly demoralizing and for most characters I kinda hate this item because of it
+                    Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+                        Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+                        You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+                        Every run is winnable
+                            Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+                            Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+                                Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                                    I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+                                At least you are 1 step from conjoined
+                    Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+                        Good job!
+                            Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+                                Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                                    Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+                    It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+                        Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+                            Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+                        Ah, the Edge of Tomorrow strategy.
+                        Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+                    You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+                        Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+                        Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+                            Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+                                That’s fair
+                    I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+                        You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+                            Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+                        I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+                    Or being cursed and getting hit and having to restart two of three times. Yuck
+                    i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+            Idk if it qas a bug with lazarus or what but the 2nd time i died with 9 lives i thikk i stayed in the rpoom but then the 3rd time i think i restarted from before dogma
+                I think lazarus revive has a higher priority than dead cat, so you triggered his built in revive before dead cat. Lazarus revive is a same room revive.
+                    I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+                        You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+        I wonder if there's enough similar revival effects that it would be worth making a trinket that stops you from getting teleported outside the room. Maybe it could stop the Cursed Eye teleport and neutralize Curse of the Maze too.
+
+edit: and if you wanted to be mean it could also stop getting teleported to the devil or angel room from chests and sacrifice rooms
+        At least you feel a little of adrenaline.
+        [deleted]
+    The creation of this meme was absolutely not fueled in any way by me learning about this effect the hard way in a tainted blue baby run I had just prior to making it.
+    I learned it from this meme 😎
+    I just learned the hard way that you need to the polaroid or negative to open the >!strange door!< I was the lost and I had a super op run too :(
+        Pro tip : the >!faded polaroid!< works, too !
+            This is not true. Do you mean the Faded Polaroid?
+                Omg you're right sorry I always confuse these two !
+
+
+(Comment corrected)
+            NO THAT DROPPED ON THAT FLOOR TOO :((( well at least I know now :p
+
+Edit: just checked the wiki and it says it can't be used so nvm
+    Sometime more than ~~once~~ ~~twice~~ every other run
+    If you didn’t learn about the Bible on Satan the hard way, did you really play Isaac?
+    Apparently not me, i just started the game today. So apparently nine lives removes all your current hearts to 1?
+    Using the Bible fighting Satan losing my first good blue baby run
+This was me on my first run of blue baby and oh god i did not learn my lesson the first time, i got very confused and did it again in another run like a dumbass
+    northernlion moment
+        Pot play moment
+        when he spends more brain cells on banter than the very thing he’s streaming😂
+            it's more fun than watching safe plays at least
+                THE ZANE
+                    worth it every time man
+            And yet he's somehow still way better than I ever will be giving the game my full attention.
+                yea lol i was doing a tainted run earlier and got poly+brimstone and died bcz of youtube🙄
+    Brother?
+        BROTHER!
+[I got bored.](https://i.imgur.com/1ZfGELy.png)
+    Beautiful, why didn't I think to do that
+        [Here you go.](https://i.imgur.com/7jXWqyo.png)
+    that's amazing and i love you for it
+Nine Lives is also pretty rough with lategame Tainted Eden. Pretty much every hit from Womb onwards is rolling the dice on whether all your health just straight-up disappears. ofc it’s incredibly powerful for Lost and other aggressive Devil Deal builds.
+    Seriously, I don’t understand why the extra lives were removed on reroll (dead cat used to persist rerolls) but the HP penalty still applies. Not to mention the fact every other form of HP gain is reverted on reroll now.
+        if edmund wants to make tainted eden fair then he has to either remove dead cat from items that it can reroll into or keep the lives, it's literally the only reason you shouldn't ever take deals while having any amount of red hearts because this shit will just steal your hearts and will never revive you even once, it's just so stupid
+    Yeah, I think the existence of 9 lives pretty much means devil and curse pool items are off limits for t. Eden... I've been screwed over too many times  rolling into it, which is a shame
+Wow holy shit I lucked out. Literally just had a run with this exact set up. Tons of health and an offered dead cat. 
+I almost took it when "but what if" entered my head it caused me to leave. I lost anyways but at least I got boss rush and hush done.
+
+Edit-Spelling and stuff
+    Yup... One mildly negative thing about Repentance is that often things just work only in the worst way imagineable.
+
+
+Stuff like Forgotten and ??? being set to 1 HP with Dead Cat, as their hearts are basically just treated like red hearts for items is relatively minor. But on the other hand, a lot of items get hard nerfed while penalties still apply. Example being Keeper and extra shots.
+
+
+Keeper gets the full penalty from 20/20 and The Inner Eye while only gaining one extra tear from each. So combined that's just really throwing his dps down. 
+
+Assuming Inner Eye Delay works the same Keeper starts with a Tear Delay of 28. Inner Eye is a Penalty of (Tears = Tears·2.1+3) = 61.8. For the new tps counter that's (30/(1+61.8)) = 30/63 = 0.48 (Which I'm pretty sure is correct since I was stupid enough to take that combo once) 
+
+Now damage is 4.2 (base) · 0.75 = 3.15 
+
+
+So, Keeper with Inner Eye and 20/20 vs normal Keeper:
+
+ * Normal Keeper: 3 tears at 1.06 shots per second at 4.2 damage per tear:
+  * 3 · 1.06 · 4.2 = 13.356 dps if he hits all 3 tears
+
+ * BothShots Keeper: 5 tears at 0.48 shots per second  at 3.15 damage per shot:
+  * 5 · 0.48 · 3.15 = 7.56 if he hits all 5 tears
+
+So put in more work to get half the damage... and this seems like a specific example, but you can really just substitute so many things. Brimstone does similar things to your tears.. (Although with arguably the damage to back it up... until you collect another tears down...)
+    That's pretty mush.
+        What does that mean?
+            you know, it's just kinda wured  
+a bit jinky  
+somewhat breek
+Honestly I just grab this item for devil deals lol
+Dead cat + potato peeler = 2 full grown meat boys. Just had a run where they carried me all the way.
+I'll still forget again at some point
+me every goddamn time, never again
+Dead cat bad item
+    Idk man it carries hard when fighting beast, especially as the lost
+    When you have only two red hearts it’s pretty good. It’s only an upgrade, plus a guppy item.
+        I got like four health upgrades over the course of a floor before remembering I specifically skipped a Nine Lives at the beginning of the floor because I was only on two hearts.
+
+*sigh*
+    It’s good as Judas
+        Or lost.
+            Or anytime you have items that give you hearts.
+        [deleted]
+            Really? That makes it even better, instead of having to retry a boss with 1 hp
+    It’s good if you have low red hearts, hell it’s free if you have only one. It also lets you get tons of Devil deals you otherwise wouldn’t.
+    I almost always take it for that guppy transformation. But it’s a pretty bad item on it’s own, especially if you had alot of red hearts before picking it up.
+    Dead cat item
+This happened to me with tainted Judas, in necropolis 2 with full black hearts :/
+Just hope you were 1 item away to bring guppy
+On the plus side, this actually functions as a health up if you have 0 red hearts
+
+If you can have red hearts, at least
+I dont know that
+This used to be legit back when soul hearts were plentiful.
+
+Now not only does this suck, I just can't play blue baby at all anymore.
+Blueless
+Same with Glass Cannon.
+
+Regret.
+I wish I saw this an hour ago
+Worth it if you become guppy!
+I did this in the chest with Tainted Judas and died on the inside. (But I had glyph of balance too which literally saved my life)
+Actually did this today to haha definitely learnt my lesson on that one!
+Did it in a Greed run few days ago (at Sheol/The Chest w/ a weak build but blue hearts at max), i was like "Wtf is that shit ?", so i went on the Isaac wiki to see what kind of black magic it was.
+
+R key was my best friend here 😭
+Why do people even play as Blue Baby?
+    Completion marks
+    Their Machocists
+I had this same situation pop up but I had the foresight to google it.
+
+
+Unfortunately the result I found was a steam community question where the first two responses, the only ones I read, were two chucklefucks who said “yeah it only removes red hearts it’ll just give you a free spirit heart”.
+
+
+Why even fucking comment if you don’t know the answer to the question
+what a noob haha... \*uses bible on satan fight
+    Noob: FFFUUUCCCKKK!!!
+fun thing to learn on a tainted bethany run :))))
+Am I the only one who didn't assume this their first time? I mean, if Blue Baby has no red hearts, it makes sense that it would just reduce his only source of health instead. Not trying to be arrongant or anything, I'm just curious.
+    For me it made sense that 9 lives would not remove soul hearts on blue baby because the character is dogshit as you can't get red hearts so  "some items must be better on him". Then I picked it up, lost 8 soul hearts, and remembered I'm playing the binding of isaac so of course you lose all soul hearts.
+        Understandable
+Please tell me this is not true?
+    It very much is
+        [deleted]
+            true
+        Oof
+Imma interested in mods thatll give serpents kiss and maw their black heart drop rates again TwT
+you newsaacs know you run guppy’s paw with dead cat for three soul heart restart, right?
+    Not while playing as blue baby.
+        yes, but everyone’s deciding dead cat is generally bad. 
+
+
+it’s pseudo 9 hearts with an add tether to save your run. you can easily do a full sacrifice room, opportunity for two angel room items or keys, and gain another +7 soul hearts on the second to last sacrifice proc. 
+
+
+y’all are simple
+    Sure, if you have it.
+Happened to me once, lesson learned.
+That's because Soul Hearts on blue baby are counted as red hearts. HP up pills and items will give you soul hearts, same thing for HP downs.
+My first time making it to delirium with blue baby, I'll never forget it.
+It's so tempting when you could always get a Guppy run... TO TEMPTING TO RESIST.... but 99% of the time ends in failure
+That literally just happened to me
+"Welly at least now I know!"
+
+
+Curse of the blind.
+
+Unknown item in the Curse Room. 
+
+"Here we go again."
+Today i went for delirium and almost take it.
+ I'm glad that my danger sense was active
+In every version of the game, I ruined a good run, because I keep forgeting its effects.
+That happened to me once and I died in side
+*laughs in I manage to find genesis every run somehow*
+I mean... *technically* you only lost 3 hearts. The rest got converted into extra lives.
+    Technically they lost 11 hearts and gained 9 more lives.
+        Technically it's an overall loss anyways :)
+I picked it up yesterday during the BRAINS! challenge because I forgot about this, did beat it though.
+is this new in repentance? i speedran blue baby unlocks so i cant even remember how he worked
+Recently played Keeper and saw Abaddon for 30 cents. Only after I bought did I realize my mistake.
+Yes, the best item for characters that don't have red hearts or Bethany
+Does it do that to "Bethany" aswell?
+Just happened to me yesterday and I was like "wait.. what did a do??"
+
+Yea, I'm a noob
+Only works into all hearts, f blue baby
+or you pick it up from a red chest with curse of blind
+I took it as Tainted Keeper, so I know the pain, ended up winning and killing delirium, but it was painful
+weren't that obvious? other characters have red hearts as base and only red hearts are taken, Blue Baby have Soul/Black Hearts as base so Dead cat takes them
+He must feel so blue
+I always keep the guide for items pulled up when i play
+Just lost like 9 hearts in greed mode to this, good times
+Literally what happened today and then i died to satan
+and from that day forward, dumb guy never played blue baby again
+This literally happened to me an hour ago wtf
+This is EXACTLY what happened to me
+What does it do?
+![img](emote|t5_2sxpk|8907)
+Funny thing is, Flash Isaac had a bug where you could get red health with Dead Cat and Blue Baby. Just lose a life, and you get red health.
+Damn it used to do that??
+That item is trash
+This whole game is about learning things the hard way tho hahah
+    I learned the passive effect of cursed eye the hard way
+        Ugh, I hate that item with Azazel. The joys of not looking up how items work haha. I may have fallen for it on at least 3 occasions.
+            Cursed eye has no effect on Azazel and will never teleport. Edit: https://imgur.com/a/NDVJGHr
+                I mean, that's just wrong. At least on Switch it is.
+                    I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+                        Actually is not guaranteed; it's a chance.
+                            You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                                It is a chance; it's not gonna happen every time.
+                I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+                    It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+                        Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+                            It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                                Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+                        Maybe you only got hit when you already had a full charge
+                    Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+                        I have had experience with cursed eye and it does unless you have black candle
+                            You can test it yourself with a seed or the debug console if you'd like.
+                                I've gotten cursed eye before with many characters including azazel also cant do debug console
+                Really??
+                    No
+                    Yes.
+                        It most definitely does teleport you lol
+                            I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                                Didnt you pick up the black candle?
+                        That's incorrect.
+                            https://imgur.com/a/NDVJGHr
+                                Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+                            It is not incorrect, black candle removes all curses, cursed eye included
+                                You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+                r/confidentlyincorrect
+                    https://imgur.com/a/NDVJGHr
+                This is an injustice
+        In case you didn't know, if you have black candle, cursed eye does not teleport anymore.
+            Yes, i know, but I've had black candle and cursed eye in the same run once
+            It's done that since original afterbirth
+        I learned not to take curse room items with curse of the blind because of cursed eye
+            I haven't learned that one yet gimmie them items
+        It's not that bad, he says
+            Cursed eye would be ok if it synergised with holy mantle
+                I think it does now, but don't quote me
+                    It does
+        Of course, Learning is fun, _And learning demands suffering_
+
+-Ssethtzeentach
+        I took it ~5 times and always wondering why tf i was teleporting all the time until a friend told me its the cursed eye ╥﹏╥
+    [deleted]
+        Which is why I am super exciting for mods coming back, so I no longer have to tab out to look it up.
+
+Only improvement now would be if someone could make an addon for PlatinumGod that makes it link to the wiki in addition to those semi-useless descriptions (half of the time I use wiki, it's to look up weird interactions or synergies, which PG doesn't cover).
+
+I tried to do it myself with javascript, managed to get the elements containing the item names, and make links based on them, but I'm too dumb to figure out how to convert the <p> tags to <a> tags.
+    Only run I ever lost with Sacred Heart was the run I took ludovico on.
+        Ludo is the worst item istg.
+    I’ll never forget one run from my earliest days. I was finally getting good at the game, and was ready to beat Mom’s Heart for the very first time...
+
+And then I got Curse of the Tower
+
+Yeah... didn’t beat her that time
+    Hahaha definitely true, happened many times years ago when I first played it
+Although when I picked it back up after the expansions I just look new stuff up on the wiki haha, fuck it
+    Used the Bible on Satan today. It was cool:)
+Would be the best item ever if it just respawned you in the room, but then it would probably be too op
+    It's op for the beast fight for exactly that reason
+        Thank god it is. Nobody wants to respawn after their "prime" life runs out (most likely due to low dmg output), just to have to probably fight the horsemen again and again and again with one heart until dying for real.
+
+The Beast being more of a last hurrah feels exactly right, especially after Dogma's 9000mph feather zoomies and other assorted annoying bullshit he throws at you in the second phase.
+            I honestly hate the feeling of losing a boss fight with 6 full hears, and then having to try to no-hit it 9 times. It’s so incredibly demoralizing and for most characters I kinda hate this item because of it
+                Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+                    Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+                    You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+                    Every run is winnable
+                        Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+                        Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+                            Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                                I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+                            At least you are 1 step from conjoined
+                Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+                    Good job!
+                        Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+                            Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                                Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+                It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+                    Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+                        Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+                    Ah, the Edge of Tomorrow strategy.
+                    Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+                You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+                    Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+                    Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+                        Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+                            That’s fair
+                I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+                    You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+                        Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+                    I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+                Or being cursed and getting hit and having to restart two of three times. Yuck
+                i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+        Idk if it qas a bug with lazarus or what but the 2nd time i died with 9 lives i thikk i stayed in the rpoom but then the 3rd time i think i restarted from before dogma
+            I think lazarus revive has a higher priority than dead cat, so you triggered his built in revive before dead cat. Lazarus revive is a same room revive.
+                I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+                    You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+    I wonder if there's enough similar revival effects that it would be worth making a trinket that stops you from getting teleported outside the room. Maybe it could stop the Cursed Eye teleport and neutralize Curse of the Maze too.
+
+edit: and if you wanted to be mean it could also stop getting teleported to the devil or angel room from chests and sacrifice rooms
+    At least you feel a little of adrenaline.
+    [deleted]
+The creation of this meme was absolutely not fueled in any way by me learning about this effect the hard way in a tainted blue baby run I had just prior to making it.
+I learned it from this meme 😎
+I just learned the hard way that you need to the polaroid or negative to open the >!strange door!< I was the lost and I had a super op run too :(
+    Pro tip : the >!faded polaroid!< works, too !
+        This is not true. Do you mean the Faded Polaroid?
+            Omg you're right sorry I always confuse these two !
+
+
+(Comment corrected)
+        NO THAT DROPPED ON THAT FLOOR TOO :((( well at least I know now :p
+
+Edit: just checked the wiki and it says it can't be used so nvm
+Sometime more than ~~once~~ ~~twice~~ every other run
+If you didn’t learn about the Bible on Satan the hard way, did you really play Isaac?
+Apparently not me, i just started the game today. So apparently nine lives removes all your current hearts to 1?
+Using the Bible fighting Satan losing my first good blue baby run
+northernlion moment
+    Pot play moment
+    when he spends more brain cells on banter than the very thing he’s streaming😂
+        it's more fun than watching safe plays at least
+            THE ZANE
+                worth it every time man
+        And yet he's somehow still way better than I ever will be giving the game my full attention.
+            yea lol i was doing a tainted run earlier and got poly+brimstone and died bcz of youtube🙄
+Brother?
+    BROTHER!
+Beautiful, why didn't I think to do that
+    [Here you go.](https://i.imgur.com/7jXWqyo.png)
+that's amazing and i love you for it
+Seriously, I don’t understand why the extra lives were removed on reroll (dead cat used to persist rerolls) but the HP penalty still applies. Not to mention the fact every other form of HP gain is reverted on reroll now.
+    if edmund wants to make tainted eden fair then he has to either remove dead cat from items that it can reroll into or keep the lives, it's literally the only reason you shouldn't ever take deals while having any amount of red hearts because this shit will just steal your hearts and will never revive you even once, it's just so stupid
+Yeah, I think the existence of 9 lives pretty much means devil and curse pool items are off limits for t. Eden... I've been screwed over too many times  rolling into it, which is a shame
+Yup... One mildly negative thing about Repentance is that often things just work only in the worst way imagineable.
+
+
+Stuff like Forgotten and ??? being set to 1 HP with Dead Cat, as their hearts are basically just treated like red hearts for items is relatively minor. But on the other hand, a lot of items get hard nerfed while penalties still apply. Example being Keeper and extra shots.
+
+
+Keeper gets the full penalty from 20/20 and The Inner Eye while only gaining one extra tear from each. So combined that's just really throwing his dps down. 
+
+Assuming Inner Eye Delay works the same Keeper starts with a Tear Delay of 28. Inner Eye is a Penalty of (Tears = Tears·2.1+3) = 61.8. For the new tps counter that's (30/(1+61.8)) = 30/63 = 0.48 (Which I'm pretty sure is correct since I was stupid enough to take that combo once) 
+
+Now damage is 4.2 (base) · 0.75 = 3.15 
+
+
+So, Keeper with Inner Eye and 20/20 vs normal Keeper:
+
+ * Normal Keeper: 3 tears at 1.06 shots per second at 4.2 damage per tear:
+  * 3 · 1.06 · 4.2 = 13.356 dps if he hits all 3 tears
+
+ * BothShots Keeper: 5 tears at 0.48 shots per second  at 3.15 damage per shot:
+  * 5 · 0.48 · 3.15 = 7.56 if he hits all 5 tears
+
+So put in more work to get half the damage... and this seems like a specific example, but you can really just substitute so many things. Brimstone does similar things to your tears.. (Although with arguably the damage to back it up... until you collect another tears down...)
+That's pretty mush.
+    What does that mean?
+        you know, it's just kinda wured  
+a bit jinky  
+somewhat breek
+Idk man it carries hard when fighting beast, especially as the lost
+When you have only two red hearts it’s pretty good. It’s only an upgrade, plus a guppy item.
+    I got like four health upgrades over the course of a floor before remembering I specifically skipped a Nine Lives at the beginning of the floor because I was only on two hearts.
+
+*sigh*
+It’s good as Judas
+    Or lost.
+        Or anytime you have items that give you hearts.
+    [deleted]
+        Really? That makes it even better, instead of having to retry a boss with 1 hp
+It’s good if you have low red hearts, hell it’s free if you have only one. It also lets you get tons of Devil deals you otherwise wouldn’t.
+I almost always take it for that guppy transformation. But it’s a pretty bad item on it’s own, especially if you had alot of red hearts before picking it up.
+Dead cat item
+Completion marks
+Their Machocists
+Noob: FFFUUUCCCKKK!!!
+For me it made sense that 9 lives would not remove soul hearts on blue baby because the character is dogshit as you can't get red hearts so  "some items must be better on him". Then I picked it up, lost 8 soul hearts, and remembered I'm playing the binding of isaac so of course you lose all soul hearts.
+    Understandable
+It very much is
+    [deleted]
+        true
+    Oof
+Not while playing as blue baby.
+    yes, but everyone’s deciding dead cat is generally bad. 
+
+
+it’s pseudo 9 hearts with an add tether to save your run. you can easily do a full sacrifice room, opportunity for two angel room items or keys, and gain another +7 soul hearts on the second to last sacrifice proc. 
+
+
+y’all are simple
+Sure, if you have it.
+Technically they lost 11 hearts and gained 9 more lives.
+    Technically it's an overall loss anyways :)
+I learned the passive effect of cursed eye the hard way
+    Ugh, I hate that item with Azazel. The joys of not looking up how items work haha. I may have fallen for it on at least 3 occasions.
+        Cursed eye has no effect on Azazel and will never teleport. Edit: https://imgur.com/a/NDVJGHr
+            I mean, that's just wrong. At least on Switch it is.
+                I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+                    Actually is not guaranteed; it's a chance.
+                        You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                            It is a chance; it's not gonna happen every time.
+            I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+                It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+                    Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+                        It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                            Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+                    Maybe you only got hit when you already had a full charge
+                Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+                    I have had experience with cursed eye and it does unless you have black candle
+                        You can test it yourself with a seed or the debug console if you'd like.
+                            I've gotten cursed eye before with many characters including azazel also cant do debug console
+            Really??
+                No
+                Yes.
+                    It most definitely does teleport you lol
+                        I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                            Didnt you pick up the black candle?
+                    That's incorrect.
+                        https://imgur.com/a/NDVJGHr
+                            Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+                        It is not incorrect, black candle removes all curses, cursed eye included
+                            You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+            r/confidentlyincorrect
+                https://imgur.com/a/NDVJGHr
+            This is an injustice
+    In case you didn't know, if you have black candle, cursed eye does not teleport anymore.
+        Yes, i know, but I've had black candle and cursed eye in the same run once
+        It's done that since original afterbirth
+    I learned not to take curse room items with curse of the blind because of cursed eye
+        I haven't learned that one yet gimmie them items
+    It's not that bad, he says
+        Cursed eye would be ok if it synergised with holy mantle
+            I think it does now, but don't quote me
+                It does
+    Of course, Learning is fun, _And learning demands suffering_
+
+-Ssethtzeentach
+    I took it ~5 times and always wondering why tf i was teleporting all the time until a friend told me its the cursed eye ╥﹏╥
+[deleted]
+    Which is why I am super exciting for mods coming back, so I no longer have to tab out to look it up.
+
+Only improvement now would be if someone could make an addon for PlatinumGod that makes it link to the wiki in addition to those semi-useless descriptions (half of the time I use wiki, it's to look up weird interactions or synergies, which PG doesn't cover).
+
+I tried to do it myself with javascript, managed to get the elements containing the item names, and make links based on them, but I'm too dumb to figure out how to convert the <p> tags to <a> tags.
+Only run I ever lost with Sacred Heart was the run I took ludovico on.
+    Ludo is the worst item istg.
+I’ll never forget one run from my earliest days. I was finally getting good at the game, and was ready to beat Mom’s Heart for the very first time...
+
+And then I got Curse of the Tower
+
+Yeah... didn’t beat her that time
+Hahaha definitely true, happened many times years ago when I first played it
+Although when I picked it back up after the expansions I just look new stuff up on the wiki haha, fuck it
+Used the Bible on Satan today. It was cool:)
+It's op for the beast fight for exactly that reason
+    Thank god it is. Nobody wants to respawn after their "prime" life runs out (most likely due to low dmg output), just to have to probably fight the horsemen again and again and again with one heart until dying for real.
+
+The Beast being more of a last hurrah feels exactly right, especially after Dogma's 9000mph feather zoomies and other assorted annoying bullshit he throws at you in the second phase.
+        I honestly hate the feeling of losing a boss fight with 6 full hears, and then having to try to no-hit it 9 times. It’s so incredibly demoralizing and for most characters I kinda hate this item because of it
+            Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+                Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+                You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+                Every run is winnable
+                    Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+                    Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+                        Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                            I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+                        At least you are 1 step from conjoined
+            Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+                Good job!
+                    Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+                        Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                            Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+            It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+                Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+                    Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+                Ah, the Edge of Tomorrow strategy.
+                Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+            You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+                Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+                Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+                    Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+                        That’s fair
+            I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+                You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+                    Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+                I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+            Or being cursed and getting hit and having to restart two of three times. Yuck
+            i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+    Idk if it qas a bug with lazarus or what but the 2nd time i died with 9 lives i thikk i stayed in the rpoom but then the 3rd time i think i restarted from before dogma
+        I think lazarus revive has a higher priority than dead cat, so you triggered his built in revive before dead cat. Lazarus revive is a same room revive.
+            I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+                You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+I wonder if there's enough similar revival effects that it would be worth making a trinket that stops you from getting teleported outside the room. Maybe it could stop the Cursed Eye teleport and neutralize Curse of the Maze too.
+
+edit: and if you wanted to be mean it could also stop getting teleported to the devil or angel room from chests and sacrifice rooms
+At least you feel a little of adrenaline.
+[deleted]
+Pro tip : the >!faded polaroid!< works, too !
+    This is not true. Do you mean the Faded Polaroid?
+        Omg you're right sorry I always confuse these two !
+
+
+(Comment corrected)
+    NO THAT DROPPED ON THAT FLOOR TOO :((( well at least I know now :p
+
+Edit: just checked the wiki and it says it can't be used so nvm
+Pot play moment
+when he spends more brain cells on banter than the very thing he’s streaming😂
+    it's more fun than watching safe plays at least
+        THE ZANE
+            worth it every time man
+    And yet he's somehow still way better than I ever will be giving the game my full attention.
+        yea lol i was doing a tainted run earlier and got poly+brimstone and died bcz of youtube🙄
+BROTHER!
+[Here you go.](https://i.imgur.com/7jXWqyo.png)
+if edmund wants to make tainted eden fair then he has to either remove dead cat from items that it can reroll into or keep the lives, it's literally the only reason you shouldn't ever take deals while having any amount of red hearts because this shit will just steal your hearts and will never revive you even once, it's just so stupid
+What does that mean?
+    you know, it's just kinda wured  
+a bit jinky  
+somewhat breek
+I got like four health upgrades over the course of a floor before remembering I specifically skipped a Nine Lives at the beginning of the floor because I was only on two hearts.
+
+*sigh*
+Or lost.
+    Or anytime you have items that give you hearts.
+[deleted]
+    Really? That makes it even better, instead of having to retry a boss with 1 hp
+Understandable
+[deleted]
+    true
+Oof
+yes, but everyone’s deciding dead cat is generally bad. 
+
+
+it’s pseudo 9 hearts with an add tether to save your run. you can easily do a full sacrifice room, opportunity for two angel room items or keys, and gain another +7 soul hearts on the second to last sacrifice proc. 
+
+
+y’all are simple
+Technically it's an overall loss anyways :)
+Ugh, I hate that item with Azazel. The joys of not looking up how items work haha. I may have fallen for it on at least 3 occasions.
+    Cursed eye has no effect on Azazel and will never teleport. Edit: https://imgur.com/a/NDVJGHr
+        I mean, that's just wrong. At least on Switch it is.
+            I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+                Actually is not guaranteed; it's a chance.
+                    You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                        It is a chance; it's not gonna happen every time.
+        I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+            It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+                Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+                    It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                        Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+                Maybe you only got hit when you already had a full charge
+            Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+                I have had experience with cursed eye and it does unless you have black candle
+                    You can test it yourself with a seed or the debug console if you'd like.
+                        I've gotten cursed eye before with many characters including azazel also cant do debug console
+        Really??
+            No
+            Yes.
+                It most definitely does teleport you lol
+                    I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                        Didnt you pick up the black candle?
+                That's incorrect.
+                    https://imgur.com/a/NDVJGHr
+                        Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+                    It is not incorrect, black candle removes all curses, cursed eye included
+                        You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+        r/confidentlyincorrect
+            https://imgur.com/a/NDVJGHr
+        This is an injustice
+In case you didn't know, if you have black candle, cursed eye does not teleport anymore.
+    Yes, i know, but I've had black candle and cursed eye in the same run once
+    It's done that since original afterbirth
+I learned not to take curse room items with curse of the blind because of cursed eye
+    I haven't learned that one yet gimmie them items
+It's not that bad, he says
+    Cursed eye would be ok if it synergised with holy mantle
+        I think it does now, but don't quote me
+            It does
+Of course, Learning is fun, _And learning demands suffering_
+
+-Ssethtzeentach
+I took it ~5 times and always wondering why tf i was teleporting all the time until a friend told me its the cursed eye ╥﹏╥
+Which is why I am super exciting for mods coming back, so I no longer have to tab out to look it up.
+
+Only improvement now would be if someone could make an addon for PlatinumGod that makes it link to the wiki in addition to those semi-useless descriptions (half of the time I use wiki, it's to look up weird interactions or synergies, which PG doesn't cover).
+
+I tried to do it myself with javascript, managed to get the elements containing the item names, and make links based on them, but I'm too dumb to figure out how to convert the <p> tags to <a> tags.
+Ludo is the worst item istg.
+Thank god it is. Nobody wants to respawn after their "prime" life runs out (most likely due to low dmg output), just to have to probably fight the horsemen again and again and again with one heart until dying for real.
+
+The Beast being more of a last hurrah feels exactly right, especially after Dogma's 9000mph feather zoomies and other assorted annoying bullshit he throws at you in the second phase.
+    I honestly hate the feeling of losing a boss fight with 6 full hears, and then having to try to no-hit it 9 times. It’s so incredibly demoralizing and for most characters I kinda hate this item because of it
+        Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+            Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+            You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+            Every run is winnable
+                Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+                Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+                    Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                        I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+                    At least you are 1 step from conjoined
+        Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+            Good job!
+                Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+                    Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                        Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+        It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+            Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+                Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+            Ah, the Edge of Tomorrow strategy.
+            Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+        You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+            Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+            Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+                Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+                    That’s fair
+        I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+            You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+                Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+            I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+        Or being cursed and getting hit and having to restart two of three times. Yuck
+        i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+Idk if it qas a bug with lazarus or what but the 2nd time i died with 9 lives i thikk i stayed in the rpoom but then the 3rd time i think i restarted from before dogma
+    I think lazarus revive has a higher priority than dead cat, so you triggered his built in revive before dead cat. Lazarus revive is a same room revive.
+        I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+            You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+This is not true. Do you mean the Faded Polaroid?
+    Omg you're right sorry I always confuse these two !
+
+
+(Comment corrected)
+NO THAT DROPPED ON THAT FLOOR TOO :((( well at least I know now :p
+
+Edit: just checked the wiki and it says it can't be used so nvm
+it's more fun than watching safe plays at least
+    THE ZANE
+        worth it every time man
+And yet he's somehow still way better than I ever will be giving the game my full attention.
+    yea lol i was doing a tainted run earlier and got poly+brimstone and died bcz of youtube🙄
+you know, it's just kinda wured  
+a bit jinky  
+somewhat breek
+Or anytime you have items that give you hearts.
+Really? That makes it even better, instead of having to retry a boss with 1 hp
+true
+Cursed eye has no effect on Azazel and will never teleport. Edit: https://imgur.com/a/NDVJGHr
+    I mean, that's just wrong. At least on Switch it is.
+        I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+            Actually is not guaranteed; it's a chance.
+                You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                    It is a chance; it's not gonna happen every time.
+    I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+        It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+            Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+                It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                    Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+            Maybe you only got hit when you already had a full charge
+        Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+            I have had experience with cursed eye and it does unless you have black candle
+                You can test it yourself with a seed or the debug console if you'd like.
+                    I've gotten cursed eye before with many characters including azazel also cant do debug console
+    Really??
+        No
+        Yes.
+            It most definitely does teleport you lol
+                I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                    Didnt you pick up the black candle?
+            That's incorrect.
+                https://imgur.com/a/NDVJGHr
+                    Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+                It is not incorrect, black candle removes all curses, cursed eye included
+                    You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+    r/confidentlyincorrect
+        https://imgur.com/a/NDVJGHr
+    This is an injustice
+Yes, i know, but I've had black candle and cursed eye in the same run once
+It's done that since original afterbirth
+I haven't learned that one yet gimmie them items
+Cursed eye would be ok if it synergised with holy mantle
+    I think it does now, but don't quote me
+        It does
+I honestly hate the feeling of losing a boss fight with 6 full hears, and then having to try to no-hit it 9 times. It’s so incredibly demoralizing and for most characters I kinda hate this item because of it
+    Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+        Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+        You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+        Every run is winnable
+            Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+            Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+                Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                    I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+                At least you are 1 step from conjoined
+    Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+        Good job!
+            Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+                Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                    Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+    It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+        Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+            Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+        Ah, the Edge of Tomorrow strategy.
+        Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+    You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+        Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+        Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+            Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+                That’s fair
+    I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+        You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+            Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+        I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+    Or being cursed and getting hit and having to restart two of three times. Yuck
+    i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+I think lazarus revive has a higher priority than dead cat, so you triggered his built in revive before dead cat. Lazarus revive is a same room revive.
+    I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+        You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+Omg you're right sorry I always confuse these two !
+
+
+(Comment corrected)
+THE ZANE
+    worth it every time man
+yea lol i was doing a tainted run earlier and got poly+brimstone and died bcz of youtube🙄
+I mean, that's just wrong. At least on Switch it is.
+    I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+        Actually is not guaranteed; it's a chance.
+            You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+                It is a chance; it's not gonna happen every time.
+I'm pretty sure cursed eye causes Azazel to teleport- it has no positive effect on his attack though.
+
+
+Lilith doesn't teleport, but still gets a positive effect on incubus.
+
+Also, Black Candle completely removed the teleport part.
+    It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+        Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+            It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+                Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+        Maybe you only got hit when you already had a full charge
+    Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+        I have had experience with cursed eye and it does unless you have black candle
+            You can test it yourself with a seed or the debug console if you'd like.
+                I've gotten cursed eye before with many characters including azazel also cant do debug console
+Really??
+    No
+    Yes.
+        It most definitely does teleport you lol
+            I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+                Didnt you pick up the black candle?
+        That's incorrect.
+            https://imgur.com/a/NDVJGHr
+                Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+            It is not incorrect, black candle removes all curses, cursed eye included
+                You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+r/confidentlyincorrect
+    https://imgur.com/a/NDVJGHr
+This is an injustice
+I think it does now, but don't quote me
+    It does
+Dead cat was super op when you could bomb yourself to death in the boss room and it would spawn a new boss. I've never found a good use for the extra lives outside of devil deals. Once you die the first time just R baby.
+    Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+    You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+    Every run is winnable
+        Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+        Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+            Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+                I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+            At least you are 1 step from conjoined
+Well, today i beat Isaac on my 9th life with half a heart (i got the waffer on the first floor, and I'm omw to unlock the polaroid)
+    Good job!
+        Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+            Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+                Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+It’s good on either Lost, and sometimes it comes in clutch. Plus, even if you do waste all your lives it’s a valuable learning experience. That was how I learned Hush’s patterns, by throwing myself at him about 9 times
+    Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+        Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+    Ah, the Edge of Tomorrow strategy.
+    Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+You are using it the wrong way or with the wrong characters. In short, dead cat is for when you have no red hearts on a red heart character (you have a bunch of soul hearts), have taken several devil deals and are operating on low hearts, are trying to complete a guppy set, you are The Lost, you have something that triggers on death/revival such as Suicide King, trying to make a good one heart build (you are eve or have Whore of Babylon), you have a reliable way or getting health ups or soul hearts, so on. Do NOT just blindly take it... you have to have an entire build around it.
+    Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+    Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+        Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+            That’s fair
+I got guppy's collar and had it activate about 12 times fighting that one  3 stage Corpse boss.
+
+I got so close so many times but God that was frustrating.
+    You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+        Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+    I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+Or being cursed and getting hit and having to restart two of three times. Yuck
+i mean, sure, but normally you would just be straight up dead. Whereas the cat gives you chances to possibly still win even after you have failed.
+I’m pretty sure you’re right, I think Laz rags have higher priority than everything except the 1up mushroom
+    You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+worth it every time man
+I don't know if the Switch version is different, but I doubt it. I recorded a clip showing it doesn't teleport on PC: https://imgur.com/a/NDVJGHr
+    Actually is not guaranteed; it's a chance.
+        You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+            It is a chance; it's not gonna happen every time.
+It must have changed.
+
+I was trying to unlock the forgotten with azazel and was having a really good run and then picked up the item  by mistake.
+
+I thought maybe because I had azazel it wouldn’t do nothing and it didn’t. I finished the challenge  with it.
+    Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+        It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+            Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+    Maybe you only got hit when you already had a full charge
+Just confirming it indeed does not teleport you, I've posted a clip throughout this thread but I'll drop it here as well: https://imgur.com/a/NDVJGHr
+    I have had experience with cursed eye and it does unless you have black candle
+        You can test it yourself with a seed or the debug console if you'd like.
+            I've gotten cursed eye before with many characters including azazel also cant do debug console
+No
+Yes.
+    It most definitely does teleport you lol
+        I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+            Didnt you pick up the black candle?
+    That's incorrect.
+        https://imgur.com/a/NDVJGHr
+            Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+        It is not incorrect, black candle removes all curses, cursed eye included
+            You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+https://imgur.com/a/NDVJGHr
+It does
+Reroll with d4 after picking it up and keep the lives was another use, but was fixed.
+
+Also, Suicide King item farming. Blank Card it 9 times, then pick up the items on your last life and probably get a lot of max hearts back.
+
+Or on The Lost.
+You can use it to farm Sacrifice room until the big payout. Also reducing you to 1 red heart was arguably an upside in AB/AB+.
+Every run is winnable
+    Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+    Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+        Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+            I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+        At least you are 1 step from conjoined
+Good job!
+    Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+        Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+            Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+Is there some way to get it on alt Lost? I haven't found one, but I haven't really been searching either.
+    Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+Ah, the Edge of Tomorrow strategy.
+Before the patch when the Dead Cat would give infinite lifes if you happen to pick it as Esau, I did the same with Mother.  
+Pros: I'm a god at that fight now.  
+Cons: Dying 30 times in a row made me a bit insane.
+Big brain strat: With Potatoe pealer, you can have 2 level 4 meatboys in exchange for the lifes.
+Well yes, but some final bosses are really hard to beat without a hit. I’m mostly talking about after you already have your build and say you have a lot of soul hearts. If you manage to lose all those hearts, no matter how good your build is, you’re usually screwed cause you’ll only have a red heart when you respawn, and even if you’re able to scour soul hearts from the floor, you almost always end up with less than your first life. If you can beat the boss your first try you’re fine, but if you manage to die you’re basically screwed.
+    Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+        That’s fair
+You lucky sonbitch
+
+I get guppys collar and it usually activates 0 times lmao
+    Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+I got Dead Cat and Guppy's Collar (no 3rd item though) on a recent Lost run and after Dead Cat ran out I must have gotten at least a dozen Collar respawns, I kept expecting it to happen but my luck only ran out againstb one of  Mega Satan's spawn bosses
+You're correct. 1up > Laz Rags (or Laz's natural revive) > Dead Cat > Guppy's collar, followed by all the other revive items.
+Actually is not guaranteed; it's a chance.
+    You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+        It is a chance; it's not gonna happen every time.
+Cursed eye doesn't automatically teleport you each time you get hit , its a 50% chance i think
+    It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+        Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+Maybe you only got hit when you already had a full charge
+I have had experience with cursed eye and it does unless you have black candle
+    You can test it yourself with a seed or the debug console if you'd like.
+        I've gotten cursed eye before with many characters including azazel also cant do debug console
+It most definitely does teleport you lol
+    I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+        Didnt you pick up the black candle?
+That's incorrect.
+    https://imgur.com/a/NDVJGHr
+        Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+    It is not incorrect, black candle removes all curses, cursed eye included
+        You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+Not wrong, but I'm neither good enough to win every run or willing to spend time playing a game in a way I don't enjoy. I'm just happy that I can crush things as judas every once in a while lol.
+Yeah, if you're good enough. But I don't know any people good enough to win a Eden run that starts with 1 red heart, lower than normal damage and tears, razor blade and brother bobby with a ghost baby in a treasure room :D
+    Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+        I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+    At least you are 1 step from conjoined
+Thanks!
+Technically it's my first ever save file from scratch, but i know all there's to know because of watching youtube, and when AB+ came out I played a lot with a pirate copy and a downloaded save file.
+
+I'm still gittin gud
+    Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+        Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+Unless you have Spindown Dice, unfortunately no. But it’s still excellent for regular lost
+Yea, no one outside of The Lost can actually use the other lives like that. You are missing the point of the item / using it incorrectly. Unless you are super OP, or a great player, beating bosses with only 1 hp ain't feasible. You are supposed to use dead cat to do any of the things I listed above, NOT as 8 hopeless chances to get the boss kill. After the first death, after losing all your built up hearts, the run is effectively OVER. Ignore the other lives, you lost. You can either 1) practice 2) scour the floor for SOMETHING that might help... 3) try those 8 attempts and maybe get lucky. Option 3 is NOT what you should be looking for with this item.
+    That’s fair
+Yeah same usually. I opened it free and was like "yeah ok"
+
+Even being that lucky I didn't do anything with it lol
+You can test it yourself; it's not a chance. If you are charging, you will teleport on damage. If not or at full charge, you will not.
+    It is a chance; it's not gonna happen every time.
+It is (or *was*, who knows with repentance) based on the charge meter, if you get hit while charging you teleport, but if you're holding at 100 or not charging at all you don't
+    Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+You can test it yourself with a seed or the debug console if you'd like.
+    I've gotten cursed eye before with many characters including azazel also cant do debug console
+I posted a clip in a few threads, you can also test for yourself that it actually doesn't teleport you with Azazel.
+    Didnt you pick up the black candle?
+https://imgur.com/a/NDVJGHr
+    Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+It is not incorrect, black candle removes all curses, cursed eye included
+    You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+Lol i wasn't saying you have to. But it's fun to try sometimes! Never know what's waiting for you on that 2nd floor item room !
+    I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+At least you are 1 step from conjoined
+Well I’m glad you’re well on your way to the true experience. And by the way, thank you for switching from your pirated copy. Games like these definitely deserve to be supported directly.
+    Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.
+That’s fair
+It is a chance; it's not gonna happen every time.
+Actually, that is how it _now_ works with Repentance. It _used_ to be just a chance, I think a 25% chance, but I’m not sure about that.
+I've gotten cursed eye before with many characters including azazel also cant do debug console
+Didnt you pick up the black candle?
+Well damn, I would have bet real money that I had been teleported from it on him within the last couple of weeks. That's what I get for not verifying before trying to correct someone like some kinda dickhead I guess.
+
+My bad. Have a good day.
+You're not wrong, but they're talking about azazel, not black candle, so idk why you bring it up
+I try to do that sometimes, I only give up after getting -5 streak in 20 minutes. Example: I played yesterday a run where my only damage ups were curved horn on caves 2 and then negative after mom's fight. I died in dark room because it was just too much.
+Yeah, well... I don't see myself unlocking godhead in my entire life, but we'll see.
+
+I always try to buy the games i like, or the ones i can afford (specially being from Argentina, where a dollar is as expensive as a kidney).
+
+Supporting small companies that make good games is the best we can do as consumers.

@@ -1,0 +1,134 @@
+{{Short description|2022 video game}}
+{{Use American English|date=May 2022}}
+{{Use mdy dates|date=April 2022}}
+{{Infobox video game
+| title = Overwatch 2
+| image = Overwatch 2 full logo.svg
+| caption =
+| developer = [[Blizzard Entertainment]]
+| publisher = Blizzard Entertainment
+| director = Aaron Keller
+| producer =
+| designer =
+| programmer =
+| artist =
+| writer =
+| composer =
+| series = [[Overwatch]]
+| engine =
+| platforms = {{ubl|[[Nintendo Switch]]|[[PlayStation 4]]|[[PlayStation 5]]|[[Windows]]|[[Xbox One]]|[[Xbox Series X/S]]}}
+| genre = [[First-person shooter]]
+| modes = [[Multiplayer]]
+| released ='''Early access''' October 4, 2022 '''Official release''' August 10, 2023
+}}
+'''''Overwatch 2''''' is a 2022 [[first-person shooter]] game developed and published by [[Blizzard Entertainment]]. As a sequel and replacement to the 2016 [[hero shooter]] ''[[Overwatch (video game)|Overwatch]]'', the game intends a shared environment for [[player-versus-player]] (PvP) modes while initially having plans for introducing persistent cooperative modes, though the plans were later scrapped in 2023, focusing the game on its PvP elements. A major change in PvP modes was to reduce team sizes from six to five. Several major characters were also reworked. ''Overwatch 2'' is [[free-to-play]] on [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Windows]], [[Xbox One]], and [[Xbox Series X/S]] and features full [[cross-platform play]]. The game was released in [[early access]] on 4 October 2022. Blizzard dropped the early access label for the game on August 10, 2023 with the release of ''Overwatch 2'''s sixth season.
+==Gameplay==
+{{Further|Gameplay of Overwatch}}
+''Overwatch 2'' is a [[hero shooter]], where players are split into two teams and select a "hero" from a [[Characters of Overwatch|roster of 40 characters]]. Characters are organized into a "damage" class, responsible for offensive efforts; a "support" class, responsible for healing and buffing; and a "tank" class, responsible for creating space for their team. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. ''Overwatch 2'', like its predecessor, primarily centers on [[player versus player]] (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches.
+The original ''Overwatch'' was designed for six-on-six team combat, with two of each class on a team. In ''Overwatch 2,'' the number of tank slots was reduced by one, bringing the total number of players per team to five. According to game director Aaron Keller, developers hoped that losing a tank would speed up gameplay as they believed that the original six players scheme rendered gameplay slow. It is also intended to ease the amount of things players and spectators need to watch out for. New maps were designed to include more cover options to compensate for reduced tank-based protection. Additionally, damage class heroes now have an increased movement speed, support heroes slowly regenerate, and tank heroes were redesigned so they could take on a more offensive role. Heroes were visually refurbished as to reflect the passage of time since the events of the first game.
+The game also introduces a new PvP mode named "Push", similar to [[tug of war]], in which teams vie for control of a robot that pushes a team's payload to the opponent's side of the map. Along with being incorporated into Unranked and Competitive play, Push has become part of the standard map rotation of the [[Overwatch League]], replacing the Assault mode. Assault maps (colloquially referred to as "2CP", meaning "two control points"), such as Paris and Horizon Lunar Colony, are not available in the core ''Overwatch 2'' game modes as these have been deemed unbalanced in response to community feedback. However, they are available in the form of custom games and sometimes appear in the non-competitive arcade modes, which are switched out daily.
+''Overwatch 2'' was released as [[free-to-play]] as opposed to the [[Premium game|premium]] monetization model of its predecessor. It also discontinued [[loot box]]es in favor of a [[battle pass]] system which is offered on a seasonal basis and corresponds with the introduction of new maps and heroes. The game also includes an in-game store where players can purchase cosmetics directly. Blizzard stated that new heroes will be introduced as rewards on the free tier of the battle pass, and players who fail to make the associated tier will have other routes to obtain the hero for free in later seasons. In addition to battle pass cosmetics, players can purchase seasonal cosmetics through the in-game store. Further, special events lasting two to three weeks have been offered, offering new cosmetics for completing various challenges as well as new cosmetics available for purchase. With ''Overwatch 2'', Blizzard has also created collaborations with other franchises, including Blizzard's own ''[[Diablo IV]]'', as well as content from third parties such as the anime series ''[[One Punch Man]]'' and ''[[Cowboy Bebop]]'' and the Korean idol group [[Le Sserafim]].
+A Blizzard [[Battle.net]] account is required to play ''Overwatch 2'', regardless of platform. ''Overwatch 2'' features cross-progression, with in-game cosmetic items and progress being shared across PC and console versions. Unlocked cosmetic items, in-game currency, and player statistics from any ''Overwatch'' profile linked to such an account are merged, and are available on all platforms. Competitive skill ratings are separate, with console and PC ranks remaining independent of each other.
+===Post-release updates===
+Starting in Season 6, in August 2023, three story-based PvE missions were added to the game, with more planned in the future. These advance the lore and narrative of ''Overwatch''. These missions are generally designed to complete multiple objectives, and are similar to previous short-term event missions offered previously from the first ''Overwatch''. These missions are only available as free-to-play game modes during specific seasons, but the player can purchase permanent access to these missions separately or as part of a battle pass bundle. Further, in September 2023, special Hero Mastery missions were introduced for three heroes, with more planned in the future. These missions are aimed to help the player learn and improve their skills with the given character.
+With Season 9, starting in February 2024, a major overhaul of combat and the competitive system was introduced. All heroes gained a boost in health and passive healing, while buffs were applied to all characters with guns or similar weapons. This was intended to improve survivability, remove the likelihood of a character being killed by a simple quick burst of fire as well as to prevent them from being quickly healed. In contrast to the approach since ''Overwatch 2''{{'}}s launch, which progressed a player's rank after winning 5 games or losing 15, the new system resembled the original ''Overwatch'' approach where the player's competitive ranking is adjusted after each game, with additional information as to what aspects of the match contributed to the ranking change. With these changes, Blizzard announced that all players would have their competitive ranking reset and would need to perform ten matches to gain their starting competitive rank.
+Within Season 10, to be released in April 2024, new heroes will no longer be tied to the battle passes, and instead free to all players, a retroactive change to include the previous heroes released since ''Overwatch 2''{{'s}} release. Player will still need to have completed the tutorial missions before gaining access to these heroes.
+==Development==
+''Overwatch 2'' was announced at [[BlizzCon]] on November 1, 2019, with plans that the game would maintain a "shared multiplayer environment" between it and the original ''Overwatch'', so that players in either game could compete in the existing [[player versus player]] (PvP) game modes, retaining all unlocked cosmetics and other features. All new heroes, maps, and PvP modes were to be added to both games to maintain this shared environment. However, ''Overwatch 2'' was later announced as a free-to-play title, and that on its release on October 4, 2022, Blizzard affirmed that ''Overwatch 2'' live services would replace those of the original game; the original ''Overwatch'' servers would be shut down on October 2, 2022. Players retained their existing cosmetics and in-game currency, with remaining loot boxes opened automatically upon the release of ''Overwatch 2''. At least three new heroes were announced to be added to the roster, including Sojourn, a Canadian Overwatch officer, Junker Queen, the ruler of Junkertown, and Kiriko, the protector of Kanezaka.
+''Overwatch 2'' runs on an upgraded version of the original game's engine which allows for larger map sizes to better support the new story-based [[player versus environment]] (PvE) elements.
+''Overwatch 2'' was released for [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Windows]], [[Xbox One]], and [[Xbox Series X/S]] in [[early access]] on October 4, 2022. Kaplan stated when the game was announced that they were more concerned about quality of the product than timeliness of the release. Investor documents released in November 2021 reported that the initial 2022 release window was delayed to at least 2023, intended for "giving the teams some extra time to complete production and continue growing their creative resources to support the titles after launch". Kaplan anticipated that ''Overwatch'' and ''Overwatch 2'' will ultimately merge into a single product to avoid having any engine differences affecting player experience. Technical director John Lafleur has stated they are also interested in supporting, at minimum, cross-platform progression and are looking at the possibility of cross-platform play. In the interim from its announcement prior to release, Kaplan left Blizzard in April 2021, with Aaron Keller taking over the lead development role, while the lead developer for new heroes, Geoff Goodman, left sometime in mid-2022.
+In March 2022, Blizzard stated that they had put too much focus on ''Overwatch 2'' over the past few years to the detriment of support for the original game, and so changed plans to release ''Overwatch 2'' in parts, with the PvP portion to be released in beta form starting in April 2022 and the PvE part to come at a later time. This would allow them to also continue to support ''Overwatch'' alongside ''Overwatch 2''{{'s}} development. Later, [[Blizzard Entertainment|Blizzard]] announced that the first wave of ''Overwatch 2'' invitation-only betas would begin on April 26, 2022, and end on May 17. Access to the closed beta could be earned either by signing up for a chance to participate or by watching select [[Twitch (service)|Twitch]] streamers for a limited time on April 27.
+The game without its PvE mode was released as [[early access]] on October 4, 2022, for Windows, PlayStation 4 and 5, Xbox One and Series X/S, and Nintendo Switch. That day, in addition to a large number of players, the game's servers were hit with a [[distributed denial of service]] (DDOS) attack that made it difficult for many to access the game. Additionally, as part of Blizzard's efforts to reduce [[twinking|smurfing]], the use of new accounts by experienced players as to try to game the system, the company required all players to confirm their identity through a [[SMS]] message on their cell phone linked to their account. For many with [[prepaid cellular]] plans, particularly in the United States, they cannot use SMS on their plans, and effectively locked them out of ''Overwatch 2'', though Blizzard stated they were working to resolve that issue. By October 7, Blizzard removed the need to verify one's identity for those that had played ''Overwatch'' since at least June 2021. As a means to make up this lost time to players, Blizzard planned to offer double experience point weekends and free cosmetic items to all players.
+The game was to feature PvE game modes to be released later in the game's lifecycle, differentiating it from its predecessor. Similar to the [[Overwatch seasonal events|special seasonal events]], they would have consist of four-player cooperative missions against [[non-playable characters]] and were to be available persistent as opposed to a seasonal basis. In this mode, players would garner experience points for their hero and unlock new passive abilities called "talents", allowing them to influence how the hero plays. However, in May 2023, the developers announced that these extensive plans for PvE had been scrapped, fearing how they would impact the PvP elements. Instead the developers plan to offer story-based events as a replacement for the scrapped PvE. According to Keller, the concept behind the PvE elements were trying to bring forward gameplay from the cancelled ''[[Titan (Blizzard Entertainment project)|Titan]]'' which ''Overwatch'' was originally based on. However, Keller stated that as they started shifted development to include the PvE elements, the overall project became unfocused, and the lead developers believed that they could not deliver a polished experience and opted to discontinue work in this direction. Blizzard announced players will be required to pay $15 for these new story missions. The purchase will include in-game currency and cosmetic items. Jason Schreier of ''[[Bloomberg News]]'' reported in March 2024 that from his sources, Blizzard did not believe the PvE content sold well enough to continue, with the entire PvE having been eliminated and no further plans to continue the PvE missions going forward.
+In March 2024, game director Aaron Keller announced changes to the game's premium battle pass that would make new characters free for all players.
+==Reception==
+{{Video game reviews
+| MC = wikidata
+| GI = 9/10 {{cite magazine |last=Shea |first=Brian |date=October 4, 2022 |url=https://www.gameinformer.com/review/overwatch-2/a-heroic-return |title= Overwatch 2 Review
+|magazine=[[Game Informer]] |access-date=October 4, 2022}}
+| IGN = 8/10
+| GSpot = 8/10
+| TG = {{rating|4|5}}
+| PSQ = 8/10
+| NLife = {{rating|7|10}}
+| PCGN = 7/10
+| PCGUS = 74/100
+}}
+''Overwatch 2'' received "generally favorable" reviews from critics upon release according to review aggregator [[Metacritic]].
+Tyler Colp of ''[[PC Gamer]]'' was critical of Blizzard's handling of the sequel, writing that the game "intentionally or not, is trying to bury its predecessor alive." Colp added, "the original ''Overwatch'' is still in there, bruised and broken, but the weight of Blizzard's commercial and competitive expectations keeps piling up."
+On the game's 5v5 gameplay dynamic, as opposed to its predecessor's 6v6 dynamic, ''[[IGN]]''{{'}}s Simon Cardy wrote: "it fully drags ''Overwatch 2'' out of the stagnant meta swamp its predecessor found itself in over the past couple of years, but also denies itself some of the lustre of its satisfying team play." Cardy also wrote "if the pertinent question to ask about ''Overwatch 2'' is simply if it's a fun game, then the answer right now is yes. It's still a fundamentally great hero shooter, just one that is perhaps not currently operating at the towering height of its powers."
+Jessica Howard of ''[[GameSpot]]'' wrote, "''Overwatch 2'' takes the franchise from a genre-defining shooter to a trend-chasing one. As such, it has begun to feel less like a unique sci-fi, superhero comic book in video game form, and more like, well, a lot of other games." Chris Carter of ''[[Destructoid]]'' wrote that "''Overwatch 2'' doesn't have the same cachet that ''Overwatch 1'' did, but I can still see myself jumping in for a few matches after a long evening. The charm is still there, even if the delivery system has been muddled, and the game is no longer a premium product with easy-access characters that you can readily jump in and out of. Perhaps the PVE update can change that, but it has some work to do." The team, acknowledging player feedback from the past eight seasons, revealed plans for significant updates in a candid blog to enhance competitive play, allowing players to better develop their skills and track progress through the ranks.
+The game's removal of loot boxes in favor of a battle pass system received backlash. Players directed criticism toward Blizzard's decision to lock the character Kiriko as a free reward on the first season's battle pass. Following Kiriko's reveal trailer, CJ Wheeler of ''[[Rock Paper Shotgun]]'' wrote: "One look at PlayOverwatch's mentions on Twitter is, well, eye-opening. It reveals so much criticism of the battle passes, from cries of pay to win to complaints about the grind before the game's even dropped. There are quite a few accusations that Blizzard are money-hungry too." Many players and some game journalists highlighted that most other games include enough in-game currency in the battle pass to get the next one free.
+Over 35 million users played ''Overwatch 2'' in its first month of release in early access, compared to ''Overwatch'' which had only 15 million players three months after release. It was nominated for the [[British Academy Games Award for Multiplayer]] at the [[19th British Academy Games Awards]].
+Upon release of ''Overwatch 2'' on [[Steam (service)|Steam]], the game received a large number of negative reviews and became the worst-rated Steam game of all time within a 48-hour timeframe, leading many outlets to characterize the response as [[review bombing]]. Director Aaron Keller acknowledged players' dissatisfaction with the removal of planned PvE content upon the game's release. User reviews were generally critical of Blizzard's handling of ''Overwatch 2'' including the removal of the planned PvE content, but also expressed frustration at issues related to the company's recent history, including [[California Department of Fair Employment and Housing v. Activision Blizzard|allegations of sexual harassment at Activision Blizzard]]. Nearly two-thirds of these reviews were written in Simplified Chinese, which - according to [[Niko Partners]] - stems from Blizzard's dissolvement of its agreement with [[NetEase]] in China earlier in 2023, leaving Chinese players unable to play on local servers.
+==References==
+{{Reflist}}
+==External links==
+* {{Official website}}
+{{Overwatch}}
+{{Blizzard games}}
+{{Portal bar|Video games|United States}}
+{{Authority control}}
+[[Category:2022 video games]]
+[[Category:Asymmetrical multiplayer video games]]
+[[Category:Blizzard games]]
+[[Category:Competitive games]]
+[[Category:Cooperative video games]]
+[[Category:Early access video games]]
+[[Category:Esports games]]
+[[Category:First-person shooter multiplayer online games]]
+[[Category:First-person shooters]]
+[[Category:Free-to-play video games]]
+[[Category:Hero shooters]]
+[[Category:Multiplayer online games]]
+[[Category:Multiplayer video games]]
+[[Category:Nintendo Switch games]]
+[[Category:Online-only games]]
+[[Category:Overwatch]]
+[[Category:PlayStation 4 games]]
+[[Category:PlayStation 4 Pro enhanced games]]
+[[Category:Science fiction video games]]
+[[Category:Superhero video games]]
+[[Category:Transmedia storytelling]]
+[[Category:Video games about robots]]
+[[Category:Video games based on Japanese mythology]]
+[[Category:Video games developed in the United States]]
+[[Category:Video game sequels]]
+[[Category:Video games set in Antarctica]]
+[[Category:Video games set in Australia]]
+[[Category:Video games set in Brazil]]
+[[Category:Video games set in China]]
+[[Category:Video games set in Cuba]]
+[[Category:Video games set in Egypt]]
+[[Category:Video games set in France]]
+[[Category:Video games set in Germany]]
+[[Category:Video games set in Gibraltar]]
+[[Category:Video games set in Greece]]
+[[Category:Video games set in India]]
+[[Category:Video games set in Iraq]]
+[[Category:Video games set in Italy]]
+[[Category:Video games set in Japan]]
+[[Category:Video games set in Jordan]]
+[[Category:Video games set in London]]
+[[Category:Video games set in Los Angeles]]
+[[Category:Video games set in Mexico]]
+[[Category:Video games set in Monaco]]
+[[Category:Video games set in Nepal]]
+[[Category:Video games set in New Mexico]]
+[[Category:Video games set in New York City]]
+[[Category:Video games set in Nigeria]]
+[[Category:Video games set in Portugal]]
+[[Category:Video games set in Rome]]
+[[Category:Video games set in Saint Petersburg]]
+[[Category:Video games set in South Korea]]
+[[Category:Video games set in Sweden]]
+[[Category:Video games set in Sydney]]
+[[Category:Video games set in Thailand]]
+[[Category:Video games set in the 2070s]]
+[[Category:Video games set in Toronto]]
+[[Category:Video games set in Venice]]
+[[Category:Video games with cross-platform play]]
+[[Category:Video games with user-generated gameplay content]]
+[[Category:Windows games]]
+[[Category:Xbox One games]]
+[[Category:Xbox One X enhanced games]]

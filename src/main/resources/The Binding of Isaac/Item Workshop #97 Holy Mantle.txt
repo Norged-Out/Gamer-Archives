@@ -1,0 +1,244 @@
+[[Item Workshop #97 Holy Mantle]]
+
+
+**Changes to items do not necessarily need to be buffs or nerfs, simply anything to make the item more interesting!** |
+--------------------
+
+[Suggestions for Workshop Discussions](http://goo.gl/forms/nIG3sgbXe4) & [Workshop Directory/Schedule](https://docs.google.com/spreadsheets/d/1Xke9pbjKPE4h9Ag82a6ucgmChiQBPIt8YrLhtWePR8o/edit?usp=sharing)
+
+Look at your run. Now back to mine. Now back to your run. Now back to mine. Sadly, your run isn't mine. But it could be—all you need is a little Holy Mantle action to seal the deal. Yes, welcome back to Item Workshop, where today we're talking about one of the best items Isaac has to offer. The *cream* of the Isaac crop, Holy Mantle always rises to the top. This item is just stellar, and will likely win you your run. But, with great power comes great responsibility, as any Lost player will tell you. Is the item perhaps *too* good? Does it rise too high, perhaps? Love it or hate it, what could be done to improve Holy Mantle, or make it more interesting? Without further ado...
+
+[Previous Thread](https://www.reddit.com/r/bindingofisaac/comments/57mep4/item_workshop_96_purity/): Purity
+
+[Next Thread](https://www.reddit.com/r/bindingofisaac/comments/57yk5i/item_workshop_98_pay_to_play/): Pay to Play
+
+**Holy Mantle** |
+---------|
+
+*Holy shield*
+
+**Item Effect** |
+---------|
+
+• Each time you enter a new room, damage is negated for the first time you get hit.
+
+• Can be used to go in and out of a Curse Room without taking damage.
+
+Passive Item
+
+Pools: Item Room, Angel Rooms
+
+Leave your ideas for suggestions and changes for both the item and the Workshop ideas as a whole down below! |
+--------------------|
+
+Thanks to /u/Julietehcutie for the idea for these threads, and our lovely mods (looking at you, /u/elucidater <3)!
+
+
+>This item is just stellar, and will likely win you your run.
+
+Unless your stats are really, really shit. See: Northernlion's ***DRY BABY*** run.
+
+^^Dry ^^baby?
+    ^Sneaky^and^mean...
+    [NL Rebirth: Wax](https://youtu.be/XiOv68ZK2co)
+I might limit it to Angel rooms only. It's an amazing item and I don't want to weaken it in any way, but like many of the angel's best items it's kind of cheapened by the fact that it can show up in Item rooms. 
+    I would like holy mantle to be an Angel room only item, mainly because angel rooms are underpowered and boring compared to devil rooms in my opinion. sure, you can get godhead and sacred heart, or you could get 3 spirit hearts, 2 eternal hearts, or breath of life.
+        Don't forget the fantastic 3 coins 4 violet fires deal!
+        But making Holy Mantle angel room exclusive won't make angel rooms any better, it would just make item rooms worse, so angel rooms would look better in comparison. That doesn't fix the problem, only new good angel room items (or angel room rework) can fix it for good.
+            Good point. hopefully Afterbirth+ rebalances the angel rooms and gives us some cool new angel items without cheapening the game.
+        I'm actually not all that put off by getting a couple eternal or spirit hearts, particularly if it's my Caves I/II deal. Sure, it's kind of a letdown, but so's 3 red chests full of spiders or Brother Bobby.
+
+I'm currently running an experiment where I'm recording the results of 100 devil deals and 100 angel deals plus the impacts on my run; for example, I once had a Eternal Heart + 4 Spirit Hearts deal that was actually run-saving. 
+            The thing that really puts me off about Angel deals in my experience, is the fact you have to give up devil deals for several floors to gain a fraction of the power you could have gained by taking those deals. And the chance for something good is still roughly higher than that of an angel room. For example, devil deals can give you something like brimstone, the pact, contract from below, etc, a krampus fight, or red chests, which may contain goodies or spiders and troll bombs. angel rooms will both force you to give up potential power and could give you something disappointing, as the Angel pool has several lackluster items, such as Breath of life, Dead sea scrolls, holy water, the bible, and (arguably)  Lazarus' rags and Holy grail.  
+  
+**TL;DR Angel rooms make you pass up devil deals which could have cool stuff and angel rooms could still end up giving you disappointment.**
+                No idea about Afterbirth though.
+                    Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+                        Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+                            I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+                Think about it this way-
+
+Devil rooms = Offense
+
+Angel rooms = Defense
+
+Unfortunately, in this game, offense is by far the better option. 
+Maybe add a bonus for every "Faith Up" item you have and a negative status effect for each "Sin Up" item?
+
+Maybe only make it work on levels past Mom as intended, with only damage received every second room until then?
+
+Maybe do nothing at all since it already is pretty good item?
+    What bonus could it possibly provide? Stat ups? More hits?
+
+But yeah, the item is pretty solid as is. 
+        Something like that, i guess. Maybe randomize it in such a way that, for example, when you receive +1.5 faith up it adds that to any stat, except to faith or sin?
+
+Or for every third/fifth/seventh "Faith Up" item you gain one more charge of invicibility? 
+Make it work immediately as you spawn in a new floor.
+
+Make it work with all items that damage you (blood rights/razor blade etc).
+    That would make it insanely overpowered with somethings like blood rights. It's already a great item, I don't think anything should be done with it.
+        Why would it make it insanely overpowered? It's 1 free use per room. There's way better synergies.
+
+Didn't make the suggestions because I think the item is weak and needs a buff, but simply to make it consistent (why should it NOT work like that? ).
+            Blood Rights every room stomps nearly every room until The Womb, and all you have to do for infinite money is exit the room, use IV Bag or a donation machine, then go back for the next Holy Mantle. There are just too many combinations that would break the game with this already amazing item.
+                Eh, same thing with Isaac's heart except even better. Now, you won't generally take Isaac's heart, and like I said holy mantle is pretty good now, simply makes sense to include stuff like this.
+                    I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+                    No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+            Fanny pack + exit and re-enter a room: infinite pickups.
+    Synergy with damaging items would be absurdly broken. Infinite sharp plug, IV bag, free bloody lust...
+    Yup. Somebody posted ages ago about losing a Lost run to Dr. Fetus in the starting room due to some unholy combination and lack of realization. Definitely support having it be ready off the bat.
+    That's really it. It's pretty good as is.
+    I certainly agree with making it work in the first room of a floor, but I think it's already bordering on overpowered, adding those synergies would be ridiculous. If you were to implement the second, it should definitely be a special item.
+I think it's fine as is. I'd suggest a HUD element to let you know when it is active because I've had more than a few times playing as characters where I'll get another item that makes me glow and I can't tell if Holy Mantel is still active or not, especially when you're flying *cough* The Lost *cough*
+do you know that glowing sparkling ring you get around the feet hitbox when you pick this item as isaac or any walking character? Well, put that same ring in flying characters. 
+
+Why? because once you get other aura items, it turns difficult to know if you still have the holy mantle protection or not, unless you caught when you take damage and see the flashing frames, because they overlay the holy mantle's aura. However, the sparkling ring isn't obstructed by anything. and is very visible in all moments to differenciate when you have it active or not.
+    Wait, they do? I totally support this, then! Would be a nice quality of life change. 
+If your holy mantle is depleted, picking up a soul heart should refill it.
+Having it not work when you have black hearts would balance it a bit
+Depleting Holy Mantle should count towards losing damage w/ Cancer
+^Sneaky^and^mean...
+[NL Rebirth: Wax](https://youtu.be/XiOv68ZK2co)
+I would like holy mantle to be an Angel room only item, mainly because angel rooms are underpowered and boring compared to devil rooms in my opinion. sure, you can get godhead and sacred heart, or you could get 3 spirit hearts, 2 eternal hearts, or breath of life.
+    Don't forget the fantastic 3 coins 4 violet fires deal!
+    But making Holy Mantle angel room exclusive won't make angel rooms any better, it would just make item rooms worse, so angel rooms would look better in comparison. That doesn't fix the problem, only new good angel room items (or angel room rework) can fix it for good.
+        Good point. hopefully Afterbirth+ rebalances the angel rooms and gives us some cool new angel items without cheapening the game.
+    I'm actually not all that put off by getting a couple eternal or spirit hearts, particularly if it's my Caves I/II deal. Sure, it's kind of a letdown, but so's 3 red chests full of spiders or Brother Bobby.
+
+I'm currently running an experiment where I'm recording the results of 100 devil deals and 100 angel deals plus the impacts on my run; for example, I once had a Eternal Heart + 4 Spirit Hearts deal that was actually run-saving. 
+        The thing that really puts me off about Angel deals in my experience, is the fact you have to give up devil deals for several floors to gain a fraction of the power you could have gained by taking those deals. And the chance for something good is still roughly higher than that of an angel room. For example, devil deals can give you something like brimstone, the pact, contract from below, etc, a krampus fight, or red chests, which may contain goodies or spiders and troll bombs. angel rooms will both force you to give up potential power and could give you something disappointing, as the Angel pool has several lackluster items, such as Breath of life, Dead sea scrolls, holy water, the bible, and (arguably)  Lazarus' rags and Holy grail.  
+  
+**TL;DR Angel rooms make you pass up devil deals which could have cool stuff and angel rooms could still end up giving you disappointment.**
+            No idea about Afterbirth though.
+                Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+                    Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+                        I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+            Think about it this way-
+
+Devil rooms = Offense
+
+Angel rooms = Defense
+
+Unfortunately, in this game, offense is by far the better option. 
+What bonus could it possibly provide? Stat ups? More hits?
+
+But yeah, the item is pretty solid as is. 
+    Something like that, i guess. Maybe randomize it in such a way that, for example, when you receive +1.5 faith up it adds that to any stat, except to faith or sin?
+
+Or for every third/fifth/seventh "Faith Up" item you gain one more charge of invicibility? 
+That would make it insanely overpowered with somethings like blood rights. It's already a great item, I don't think anything should be done with it.
+    Why would it make it insanely overpowered? It's 1 free use per room. There's way better synergies.
+
+Didn't make the suggestions because I think the item is weak and needs a buff, but simply to make it consistent (why should it NOT work like that? ).
+        Blood Rights every room stomps nearly every room until The Womb, and all you have to do for infinite money is exit the room, use IV Bag or a donation machine, then go back for the next Holy Mantle. There are just too many combinations that would break the game with this already amazing item.
+            Eh, same thing with Isaac's heart except even better. Now, you won't generally take Isaac's heart, and like I said holy mantle is pretty good now, simply makes sense to include stuff like this.
+                I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+                No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+        Fanny pack + exit and re-enter a room: infinite pickups.
+Synergy with damaging items would be absurdly broken. Infinite sharp plug, IV bag, free bloody lust...
+Yup. Somebody posted ages ago about losing a Lost run to Dr. Fetus in the starting room due to some unholy combination and lack of realization. Definitely support having it be ready off the bat.
+That's really it. It's pretty good as is.
+I certainly agree with making it work in the first room of a floor, but I think it's already bordering on overpowered, adding those synergies would be ridiculous. If you were to implement the second, it should definitely be a special item.
+Wait, they do? I totally support this, then! Would be a nice quality of life change. 
+Don't forget the fantastic 3 coins 4 violet fires deal!
+But making Holy Mantle angel room exclusive won't make angel rooms any better, it would just make item rooms worse, so angel rooms would look better in comparison. That doesn't fix the problem, only new good angel room items (or angel room rework) can fix it for good.
+    Good point. hopefully Afterbirth+ rebalances the angel rooms and gives us some cool new angel items without cheapening the game.
+I'm actually not all that put off by getting a couple eternal or spirit hearts, particularly if it's my Caves I/II deal. Sure, it's kind of a letdown, but so's 3 red chests full of spiders or Brother Bobby.
+
+I'm currently running an experiment where I'm recording the results of 100 devil deals and 100 angel deals plus the impacts on my run; for example, I once had a Eternal Heart + 4 Spirit Hearts deal that was actually run-saving. 
+    The thing that really puts me off about Angel deals in my experience, is the fact you have to give up devil deals for several floors to gain a fraction of the power you could have gained by taking those deals. And the chance for something good is still roughly higher than that of an angel room. For example, devil deals can give you something like brimstone, the pact, contract from below, etc, a krampus fight, or red chests, which may contain goodies or spiders and troll bombs. angel rooms will both force you to give up potential power and could give you something disappointing, as the Angel pool has several lackluster items, such as Breath of life, Dead sea scrolls, holy water, the bible, and (arguably)  Lazarus' rags and Holy grail.  
+  
+**TL;DR Angel rooms make you pass up devil deals which could have cool stuff and angel rooms could still end up giving you disappointment.**
+        No idea about Afterbirth though.
+            Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+                Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+                    I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+        Think about it this way-
+
+Devil rooms = Offense
+
+Angel rooms = Defense
+
+Unfortunately, in this game, offense is by far the better option. 
+Something like that, i guess. Maybe randomize it in such a way that, for example, when you receive +1.5 faith up it adds that to any stat, except to faith or sin?
+
+Or for every third/fifth/seventh "Faith Up" item you gain one more charge of invicibility? 
+Why would it make it insanely overpowered? It's 1 free use per room. There's way better synergies.
+
+Didn't make the suggestions because I think the item is weak and needs a buff, but simply to make it consistent (why should it NOT work like that? ).
+    Blood Rights every room stomps nearly every room until The Womb, and all you have to do for infinite money is exit the room, use IV Bag or a donation machine, then go back for the next Holy Mantle. There are just too many combinations that would break the game with this already amazing item.
+        Eh, same thing with Isaac's heart except even better. Now, you won't generally take Isaac's heart, and like I said holy mantle is pretty good now, simply makes sense to include stuff like this.
+            I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+            No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+    Fanny pack + exit and re-enter a room: infinite pickups.
+Good point. hopefully Afterbirth+ rebalances the angel rooms and gives us some cool new angel items without cheapening the game.
+The thing that really puts me off about Angel deals in my experience, is the fact you have to give up devil deals for several floors to gain a fraction of the power you could have gained by taking those deals. And the chance for something good is still roughly higher than that of an angel room. For example, devil deals can give you something like brimstone, the pact, contract from below, etc, a krampus fight, or red chests, which may contain goodies or spiders and troll bombs. angel rooms will both force you to give up potential power and could give you something disappointing, as the Angel pool has several lackluster items, such as Breath of life, Dead sea scrolls, holy water, the bible, and (arguably)  Lazarus' rags and Holy grail.  
+  
+**TL;DR Angel rooms make you pass up devil deals which could have cool stuff and angel rooms could still end up giving you disappointment.**
+    No idea about Afterbirth though.
+        Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+            Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+                I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+    Think about it this way-
+
+Devil rooms = Offense
+
+Angel rooms = Defense
+
+Unfortunately, in this game, offense is by far the better option. 
+Blood Rights every room stomps nearly every room until The Womb, and all you have to do for infinite money is exit the room, use IV Bag or a donation machine, then go back for the next Holy Mantle. There are just too many combinations that would break the game with this already amazing item.
+    Eh, same thing with Isaac's heart except even better. Now, you won't generally take Isaac's heart, and like I said holy mantle is pretty good now, simply makes sense to include stuff like this.
+        I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+        No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+Fanny pack + exit and re-enter a room: infinite pickups.
+No idea about Afterbirth though.
+    Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+        Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+            I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+Think about it this way-
+
+Devil rooms = Offense
+
+Angel rooms = Defense
+
+Unfortunately, in this game, offense is by far the better option. 
+Eh, same thing with Isaac's heart except even better. Now, you won't generally take Isaac's heart, and like I said holy mantle is pretty good now, simply makes sense to include stuff like this.
+    I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+    No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+Afterbirth has changed the balance a bit, my project is aiming to gauge how much. New items were introduced to both pools, and while there's some new good stuff in the Devil pool I'd say the majority of additions to the Devil pool are trash (Betrayal, My Shadow) or merely "okay" (Black Powder). It also seems that 3-item deals are much rarer, sometimes items are surrounded by spikes which can make them cost more HP to grab, and Krampus got worse in two ways - his Brimstone laser can now spin, and tiny rooms really suck for fighting him in.
+
+On the flip side, some of the new additions to Angel rooms are sweet. Crown of Light is double damage in each room until hit (if your red hearts are full or entirely gone), Holy Light is a sweet on-hit high damage effect, Circle of Protection is a nice defensive item which also retaliates against enemies... etc. 
+    Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+        I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+I agree that it would make more sense from a game perspective, but I don't agree with it for balance perspective.
+No, becouse usually you pay redheart damage for those items eventi if you have blue hearts. It's not normal damage and that's why it shouldn't trigger holy mantle
+Looks like I'll be going for the angel deals when I get afterbirth a bit more often. Good luck with your project, are you going to make a thread about it or ask /u/elucidater to put in on platinum God or something else?
+    I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 
+I'll probably make a thread once I have more data and can draw conclusions. 
+
+I may have to play a lot more Isaac; one other thing I may do is replay seeds going for devil and angel and see how they stack up side by side 

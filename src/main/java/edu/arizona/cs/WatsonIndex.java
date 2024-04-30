@@ -18,8 +18,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * The WatsonIndex class represents an index builder for Watson documents.
@@ -107,11 +105,12 @@ public class WatsonIndex {
      * Adds all text files in the resources directory to the index.
      * @param writer the IndexWriter object
      */
-    private void allFilesToProcess(IndexWriter writer) {
+    private void allFilesToProcess(IndexWriter writer) throws IOException{
         String resourcesPath = "src/main/resources";
         // Get the resources directory
         File resourcesDirectory = new File(resourcesPath);
         String directoryName = null; 
+        int docCount = 0, fileCount = 0;
         // Check if it exists and is a directory
         if (resourcesDirectory.exists() && resourcesDirectory.isDirectory()) {
             // Get all subdirectories in the resources directory
@@ -119,30 +118,36 @@ public class WatsonIndex {
             // Iterate over each subdirectory
             for (File subDirectory : subDirectories) {
                 directoryName = subDirectory.getName();
-                System.out.println("Directory: " + directoryName);
+                //System.out.println("Directory: " + directoryName);
+                System.out.println(directoryName);
+                docCount++;
                 // Get all text files in the subdirectory
                 File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
                 // Iterate over each text file
-                List<String> fileContents = new ArrayList<>();
+                //List<String> fileContents = new ArrayList<>();
+                Document newDoc = null;
                 for (File textFile : textFiles) {
-                    System.out.println("  Text File: " + textFile.getName());
+                    //System.out.println("  Text File: " + textFile.getName());
+                    fileCount++;
                     String fileContent = parseTextFile(textFile.getPath());
-                    fileContents.add(fileContent);
-                }
-                String accumulatedContent = String.join("", fileContents);
-                // Add the accumulated content to the index
-                try {
-                    Document newDoc = new Document();
+                    newDoc = new Document();
                     newDoc.add(new StringField("docName", directoryName, Field.Store.YES));
-                    newDoc.add(new TextField("docContent", accumulatedContent, Field.Store.YES));
+                    newDoc.add(new TextField("docContent", fileContent, Field.Store.YES));
                     writer.addDocument(newDoc);
-                } catch (IOException e) {
-                    e.printStackTrace();
+                    //fileContents.add(fileContent);
                 }
+                //String accumulatedContent = String.join("", fileContents);
+                // Add the accumulated content to the index
+                /*Document newDoc = new Document();
+                newDoc.add(new StringField("docName", directoryName, Field.Store.YES));
+                newDoc.add(new TextField("docContent", accumulatedContent, Field.Store.YES));
+                writer.addDocument(newDoc);*/
             }
         } else {
             System.out.println("Resources directory does not exist or is not a directory.");
         }
+        System.out.println("Total directories: " + docCount);
+        System.out.println("Total files: " + fileCount);
     }
 
     /*
@@ -207,18 +212,16 @@ public class WatsonIndex {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
         WatsonIndex engine = new WatsonIndex("watsonindex");
-        
         try {
             System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);
-            for (int i = 0; i < reader.maxDoc(); i++) {
+            /*for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
                 //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
-            }
+            }*/
             reader.close();
         } catch (IOException e) {
             e.printStackTrace();
