@@ -1,3 +1,15 @@
+/*
+ * Author: Priyansh Nayak
+ * File: PseudoWatson.java
+ * Class: CSC 483 - Information Retrieval
+ * Assignment: Final Project - Pseudo Watson
+ * Description: The PseudoWatson class represents a Watson-like search engine 
+ *              that performs queries on an index and compares the retrieved 
+ *              answers with the expected answers. It uses Lucene's query parser 
+ *              and a custom analyzer for parsing English text with appropriate 
+ *              token filters and stemmers. The class provides methods to evaluate 
+ *              the performance of the search engine and process user queries.
+ */
 package edu.arizona.cs;
 import org.apache.lucene.analysis.custom.CustomAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
@@ -5,7 +17,6 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
@@ -37,7 +48,6 @@ public class PseudoWatson {
     EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
     CustomAnalyzer analyzerV3 = null; // Custom Analyzer for improved parsing
     Directory index = null;
-    IndexWriter writer = null;
     QueryParser parser = null;
 
     /**
@@ -46,8 +56,8 @@ public class PseudoWatson {
      */
     public PseudoWatson(String inputFile) {
         indexFilePath = inputFile;
-        //analyzerV1 = new StandardAnalyzer();
-        analyzerV2 = new EnglishAnalyzer();
+        // analyzerV1 = new StandardAnalyzer();
+        // analyzerV2 = new EnglishAnalyzer();
         
         try {
             // Custom Analyzer for improved parsing
@@ -62,14 +72,19 @@ public class PseudoWatson {
             e.printStackTrace();
             return;
         }
-        //config = new IndexWriterConfig(analyzer);
     }
 
+    /*
+     * This class represents a matched answer and its score
+     */
     private class MatchedAnswer {
         Document DocName;
         double docScore = 0;
     }
 
+    /*
+     * This class represents the result of a query
+     */
     private class QueryResult {
         String query;
         String expectedAnswer;
@@ -83,23 +98,36 @@ public class PseudoWatson {
             topResults = new ArrayList<MatchedAnswer>();
         }
 
+        /*
+         * This function prints the top answer and its score
+         */
         public void topAnswer(){
             MatchedAnswer topAnswer = topResults.get(0);
-            System.out.print("Retreived answer: " + topAnswer.DocName.get("docName"));
-            System.out.println(", Score: " + topAnswer.docScore);
+            System.out.println("Retreived answer: " + topAnswer.DocName.get("docName"));
+            System.out.println("Score: " + topAnswer.docScore);
         }
 
+        /*
+         * This function checks if the expected answer is an exact match with the top result
+         * @return boolean: True if the expected answer is an exact match, false otherwise
+         */
         public boolean exactMatch(){
-            rank = 1;
-            return topResults.get(0).DocName.get("docName").equals(expectedAnswer);
+            if(topResults.get(0).DocName.get("docName").equals(expectedAnswer)){
+                rank = 1;
+                return true;
+            }
+            return false;
         }
 
+        /*
+         * This function checks if the expected answer is within the top K results
+         * @param k: The number of top results to check
+         * @return boolean: True if the expected answer is within the top K results, false otherwise
+         */
         public boolean withinTopK(int k){
             for(int i = 1; i < topResults.size() && i < k; i++){
                 MatchedAnswer r = topResults.get(i);
                 if(r.DocName.get("docName").equals(expectedAnswer)){
-                    //System.out.print("Answer at rank " + (i+1));
-                    //System.out.println(", Score: " + r.docScore);
                     rank = i+1;
                     return true;
                 }
@@ -120,17 +148,18 @@ public class PseudoWatson {
      * @throws IOException 
      */
     private void runQuery(QueryResult qr) throws ParseException, IOException{
-        parser = new QueryParser("docContent", analyzerV3);
+        parser = new QueryParser("docContent", analyzerV3); // Parse the query using the custom analyzer
         Query q = parser.parse(qr.query);
         //System.out.println("Query: " + q.toString());
         IndexReader reader = DirectoryReader.open(index);
         IndexSearcher searcher = new IndexSearcher(reader);
-        searcher.setSimilarity(new BM25Similarity());
-        TopDocs docs = searcher.search(q, 10);
+        searcher.setSimilarity(new BM25Similarity()); // Use BM25 similarity for improved results
+        TopDocs docs = searcher.search(q, 10); // Search for top 10 results
         //System.out.println("Found " + docs.totalHits + " hits.");
         for(int i = 0; i < docs.scoreDocs.length && i < 10; i++){
             ScoreDoc scoreDoc = docs.scoreDocs[i];
             Document doc = searcher.doc(scoreDoc.doc);
+            // Store the matched answer and its score
             MatchedAnswer result = new MatchedAnswer();
             result.DocName = doc;
             result.docScore = scoreDoc.score;
@@ -139,8 +168,18 @@ public class PseudoWatson {
         reader.close();
     }
 
+    /**
+     * Evaluates the performance of the search engine by calculating the 
+     * precision at 1, 5, and 10, and the mean reciprocal rank.
+     * @param totalQueries the total number of queries
+     * @param correct the number of correct answers
+     * @param top5 the number of answers within the top 5 results
+     * @param top10 the number of answers within the top 10 results
+     * @param incorrect the number of incorrect answers
+     * @param rank the sum of the reciprocal ranks
+     */
     private void evaluatePerformance(int totalQueries, int correct, int top5, int top10, int incorrect, double rank){
-        System.out.println("\n-------------Stats----------------\n");
+        System.out.println("----------------Stats----------------\n");
         System.out.println("Total Queries: " + totalQueries);
         System.out.println("Correct Answers: " + correct);
         System.out.println("Within Top 5: " + top5);
@@ -152,7 +191,7 @@ public class PseudoWatson {
         double p10 = (double)(correct + top5 + top10) / totalQueries;
         double MRR = rank / totalQueries;
 
-        System.out.println("\n-------------Performance----------------\n");
+        System.out.println("\n--------------Performance--------------\n");
         System.out.println("Precision at 1: " + p1);
         System.out.println("Precision at 5: " + p5);
         System.out.println("Precision at 10: " + p10);
@@ -172,17 +211,17 @@ public class PseudoWatson {
     private void processQuestions(String filePath, Scanner scanner) throws InterruptedException, IOException, ParseException{
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource(filePath).getFile());
-        Thread.sleep(1000);
         BufferedReader reader = new BufferedReader(new FileReader(file));
         String line; // The line being read from the file
-        //List<QueryResult> queryResults = new ArrayList<QueryResult>(); // List of query results
-        QueryResult qr = null;
+        QueryResult qr = null; // The query result object
+        // Variables to keep track of the performance
         int totalQueries = 0, 
             correct = 0, 
             top5 = 0, 
             top10 = 0,
             incorrect = 0;
         double RR = 0;
+        Thread.sleep(1000); // Sleep for 1 second
         while((line = reader.readLine()) != null){
             // If the line is not empty, it is either a query or an answer
             if(!line.isEmpty()){
@@ -198,120 +237,88 @@ public class PseudoWatson {
             // If the line is empty, then perform the query
             else {
                 runQuery(qr);
-                // System.out.println("Query: " + qr.query);
-                // System.out.println("Expected answer: " + qr.expectedAnswer);
-                // qr.topAnswer();
-                // System.out.println("\n----------------------------------\n");
+                System.out.println("Query: " + qr.query);
+                System.out.println("Expected answer: " + qr.expectedAnswer);
+                qr.topAnswer();
+                // Evaluate the query results
                 if(!qr.topResults.isEmpty()){
-                    //qr.topAnswer();
                     if(qr.exactMatch()){
-                        //System.out.println("Correct! Answer found in top result. :)");
+                        System.out.println("Correct! Answer found in top result. :)");
                         correct++;
                     }
                     else if(qr.withinTopK(5)){
-                        //System.out.println("Answer found in top 5 Results");
+                        System.out.println("Answer found in top 5 Results");
                         top5++;
                     }
                     else if(qr.withinTopK(10)){
-                        // System.out.println("Answer found in top 10 Results");
-                        // System.out.println("Query: " + qr.query);
-                        // System.out.println("Expected answer: " + qr.expectedAnswer);
-                        // System.out.println("\n----------------------------------\n");
+                        System.out.println("Answer found in top 10 Results");
                         top10++;
                     }
                     else{
                         System.out.println("Incorrect! Answer not found in top 10 results. :(");
-                        System.out.println("Query: " + qr.query);
-                        System.out.println("Expected answer: " + qr.expectedAnswer);
-                        System.out.println("\n----------------------------------\n");
                         incorrect++;
                     }
-                    RR += 1.0 / qr.rank;
+                    System.out.println("Query Rank: " + qr.rank);
+                    System.out.println("\n----------------------------------\n");
+                    RR += (qr.rank > 0) ? 1.0 / qr.rank : 0; // Reciprocal Rank
                 }
-                //queryResults.add(qr);
-                qr = null;
-                /*
-                System.out.println("\nContinue? (y/n)");
-                String cont = scanner.nextLine();
-                if (cont.equals("n")){
-                    break;
-                }
-                */
-                Thread.sleep(100);
+                qr = null; // Reset the query result
+                Thread.sleep(100); // Sleep for 100ms
             }
         }
         reader.close();
         evaluatePerformance(totalQueries, correct, top5, top10, incorrect, RR);
     }
 
-
-     /**
-      * Old implementation of processQuestions
-      * Reads a text file and extracts answers and questions.
-      * @param filePath the path of the text file
-      * @return a HashMap containing answers as keys and a list of questions as values
-      */
-    /*private HashMap<String, List<String>> processQuestions(String filePath) {
-        ClassLoader classLoader = getClass().getClassLoader();
-        File file = new File(classLoader.getResource(filePath).getFile());
-        HashMap<String, List<String>> data = new HashMap<>();
-        try {
-            BufferedReader reader = new BufferedReader(new FileReader(file));
-            String line;
-            String answer = null;
-            List<String> questions = new ArrayList<>();
-            while ((line = reader.readLine()) != null) {
-                if(line.isEmpty() && answer != null){
-                    data.put(answer, questions);
-                    answer = null;
-                    questions = new ArrayList<>();
-                }
-                else if (!line.isEmpty()) {
-                    if (answer == null) {
-                        answer = line;
-                    } else {
-                        questions.add(line);
-                    }
-                }
+    /**
+     * Reads user input and performs queries on the index.
+     * @param scanner the scanner object to read user input
+     * @throws ParseException 
+     * @throws IOException 
+     */
+    private void userQuery(Scanner scanner) throws ParseException, IOException{
+        while(true){
+            System.out.println("Enter your query: ");
+            String query = scanner.nextLine();
+            QueryResult qr = new QueryResult();
+            qr.query = query;
+            runQuery(qr);
+            qr.topAnswer();
+            System.out.println("\nContinue? (y/n)");
+            String cont = scanner.nextLine();
+            if (cont.equals("n")){
+                break;
             }
-            if (answer != null) {
-                data.put(answer, questions);
-            }
-            reader.close();
-        } catch (IOException e) {
-            e.printStackTrace();
         }
-        return data;
-    }*/
+    }
 
     public static void main(String[] args) {
         String indexFilePath = "pwindex";
         PseudoWatson watson = new PseudoWatson(indexFilePath);
-        /*
-        try {
-            IndexReader reader = DirectoryReader.open(watson.index);
-            for (int i = 0; i < reader.maxDoc(); i++) {
-                Document doc = reader.document(i);
-                System.out.println("docid: " + doc.get("docName"));
-                //System.out.println("text: " + doc.get("docContent"));
-                System.out.println("--------------------------------------------");
-            }
-            reader.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        */
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to Pseudo Watson!\nWould you to like to play? (y/n)");
+        System.out.println("Welcome to Pseudo Watson!\nWhich mode would you like to check?\n");
+        System.out.println("1. Run pre-built queries\n2. Enter your own query\n");
         String play = scanner.nextLine();
-        if (play.equals("y")){
-            System.out.println("Great! Let's get started!");
+        if (play.equals("1")){
+            System.out.println("\nStarting pre-built queries...");
             System.out.println("\n--------------------------------------------\n");
             try {
                 watson.processQuestions("questionBank.txt", scanner);
             } catch (InterruptedException | IOException | ParseException e) {
                 e.printStackTrace();
             }
+        }
+        else if (play.equals("2")){
+            System.out.println("Great! Let's get started!");
+            System.out.println("\n--------------------------------------------\n");
+            try {
+                watson.userQuery(scanner);
+            } catch (ParseException | IOException e) {
+                e.printStackTrace();
+            }
+        }
+        else{
+            System.out.println("Invalid input. Exiting...");
         }
     }
 

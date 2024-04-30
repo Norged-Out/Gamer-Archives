@@ -1,4 +1,13 @@
-
+/*
+ * Author: Priyansh Nayak
+ * File: WatsonIndex.java
+ * Class: CSC 483 - Information Retrieval 
+ * Assignment: Final Project - Pseudo Watson
+ * Description: The WatsonIndex class represents an index builder for Watson documents.
+ *              It uses Apache Lucene library for indexing and searching documents.
+ *              The class provides methods to build a new index from a given input file,
+ *              parse text files, and add documents to the index.
+ */
 package edu.arizona.cs;
 import org.apache.lucene.analysis.custom.CustomAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
@@ -86,13 +95,11 @@ public class WatsonIndex {
             // Open the file
             File file = new File(filePath);
             BufferedReader reader = new BufferedReader(new FileReader(file));
-
             // Read the file line by line and append to the content builder
             String line;
             while ((line = reader.readLine()) != null) {
                 contentBuilder.append(line).append("\n");
             }
-
             // Close the reader
             reader.close();
         } catch (IOException e) {
@@ -118,30 +125,22 @@ public class WatsonIndex {
             // Iterate over each subdirectory
             for (File subDirectory : subDirectories) {
                 directoryName = subDirectory.getName();
-                //System.out.println("Directory: " + directoryName);
+                // System.out.println("Directory: " + directoryName);
                 System.out.println(directoryName);
                 docCount++;
                 // Get all text files in the subdirectory
                 File[] textFiles = subDirectory.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
                 // Iterate over each text file
-                //List<String> fileContents = new ArrayList<>();
                 Document newDoc = null;
                 for (File textFile : textFiles) {
-                    //System.out.println("  Text File: " + textFile.getName());
+                    // System.out.println("  Text File: " + textFile.getName());
                     fileCount++;
                     String fileContent = parseTextFile(textFile.getPath());
                     newDoc = new Document();
                     newDoc.add(new StringField("docName", directoryName, Field.Store.YES));
                     newDoc.add(new TextField("docContent", fileContent, Field.Store.YES));
                     writer.addDocument(newDoc);
-                    //fileContents.add(fileContent);
                 }
-                //String accumulatedContent = String.join("", fileContents);
-                // Add the accumulated content to the index
-                /*Document newDoc = new Document();
-                newDoc.add(new StringField("docName", directoryName, Field.Store.YES));
-                newDoc.add(new TextField("docContent", accumulatedContent, Field.Store.YES));
-                writer.addDocument(newDoc);*/
             }
         } else {
             System.out.println("Resources directory does not exist or is not a directory.");
@@ -149,63 +148,6 @@ public class WatsonIndex {
         System.out.println("Total directories: " + docCount);
         System.out.println("Total files: " + fileCount);
     }
-
-    /*
-     * This function acted as an earlier version of the parser. It is not used anymore.
-     * It was used to parse a single text file and extract documents from it.
-     * It obeyed the format provided in the Watson specification.
-     * @param writer the IndexWriter object
-     * @param filePath the path of the text file
-     */
-    /*
-    private void oldParser(IndexWriter writer, String filePath) {
-        StringBuilder contentBuilder = new StringBuilder();
-        String docName = null;
-        
-        // Regex pattern for extracting document names enclosed in [[ ]]
-        Pattern pattern = Pattern.compile("\\[\\[(.*?)\\]\\]");
-        System.out.println("Parsing file: " + filePath);
-        //ClassLoader classLoader = getClass().getClassLoader();
-        //System.out.println("File path: " + classLoader.getResource("resources"));
-        //File file = new File(classLoader.getResource(filePath).getFile());
-        File file = new File(filePath);
-        try {
-            BufferedReader br = new BufferedReader(new FileReader(file));
-            String line;
-            while ((line = br.readLine()) != null) {
-                Matcher matcher = pattern.matcher(line);
-                if (matcher.find()) {
-                    // Found a new document name
-                    if (docName != null) {
-                        // If there was already a document being processed, add it to the list
-                        Document newDoc = new Document();
-                        newDoc.add(new StringField("docName", docName, Field.Store.YES));
-                        newDoc.add(new TextField("docData", contentBuilder.toString(), Field.Store.YES));
-                        writer.addDocument(newDoc);
-                        contentBuilder.setLength(0); // Clear contentBuilder for the next document
-                    }
-                    docName = matcher.group(1); // Extract the document name
-                    System.out.println("Line: " + line);
-                    System.out.println("Document name: " + docName);
-                } else {
-                    // Append line to content if not a document name
-                    contentBuilder.append(line).append("\n");
-                }
-            }
-            // Add the last document
-            if (docName != null) {
-                Document newDoc = new Document();
-                newDoc.add(new StringField("docName", docName, Field.Store.YES));
-                newDoc.add(new TextField("docData", contentBuilder.toString(), Field.Store.YES));
-                writer.addDocument(newDoc);
-            }
-            br.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        
-    }
-    */
 
     /**
      * The main method of the WatsonIndex program.
