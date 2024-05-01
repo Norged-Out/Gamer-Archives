@@ -1,9 +1,9 @@
 /*
  * Author: Priyansh Nayak
- * File: PseudoWatson.java
+ * File: GamesArchive.java
  * Class: CSC 483 - Information Retrieval
  * Assignment: Final Project - Pseudo Watson
- * Description: The PseudoWatson class represents a Watson-like search engine 
+ * Description: The GamesArchive class represents a Watson-like search engine 
  *              that performs queries on an index and compares the retrieved 
  *              answers with the expected answers. It uses Lucene's query parser 
  *              and a custom analyzer for parsing English text with appropriate 
@@ -36,11 +36,12 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * The `PseudoWatson` class represents a Watson-like search engine that performs queries on an index
+ * The GamesArchive class represents a Watson-like search engine that performs queries on an index
  * and compares the retrieved answers with the expected answers. It uses Lucene's query parser and
- * EnglishAnalyzer for parsing English text.
+ * Custom Analyzer for parsing the text and BM25 similarity for improved search results. The class
+ * provides methods to evaluate the performance of the search engine and process user queries.
  */
-public class PseudoWatson {
+public class GamesArchive {
 
     boolean indexExists = false;
     String indexFilePath = "";
@@ -51,10 +52,10 @@ public class PseudoWatson {
     QueryParser parser = null;
 
     /**
-     * Constructs a WatsonIndex object with the specified input file.
+     * Constructs a GamesArchive object with the specified input file.
      * @param inputFile the path of the input file
      */
-    public PseudoWatson(String inputFile) {
+    public GamesArchive(String inputFile) {
         indexFilePath = inputFile;
         // analyzerV1 = new StandardAnalyzer();
         // analyzerV2 = new EnglishAnalyzer();
@@ -292,11 +293,15 @@ public class PseudoWatson {
         }
     }
 
+    /**
+     * Main method to run the GamesArchive search engine.
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        String indexFilePath = "pwindex";
-        PseudoWatson watson = new PseudoWatson(indexFilePath);
+        String indexFilePath = "norgindex";
+        GamesArchive watson = new GamesArchive(indexFilePath);
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to Pseudo Watson!\nWhich mode would you like to check?\n");
+        System.out.println("Welcome to Games Archive!\nWhich mode would you like to check?\n");
         System.out.println("1. Run pre-built queries\n2. Enter your own query\n");
         String play = scanner.nextLine();
         if (play.equals("1")){

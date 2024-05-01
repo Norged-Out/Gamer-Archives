@@ -1,9 +1,9 @@
 /*
  * Author: Priyansh Nayak
- * File: WatsonIndex.java
+ * File: NorgIndexBuilder.java
  * Class: CSC 483 - Information Retrieval 
  * Assignment: Final Project - Pseudo Watson
- * Description: The WatsonIndex class represents an index builder for Watson documents.
+ * Description: The NorgIndexBuilder class represents an index builder for Watson documents.
  *              It uses Apache Lucene library for indexing and searching documents.
  *              The class provides methods to build a new index from a given input file,
  *              parse text files, and add documents to the index.
@@ -29,12 +29,12 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 /**
- * The WatsonIndex class represents an index builder for Watson documents.
+ * The NorgIndexBuilder class represents an index builder for Watson documents.
  * It uses Apache Lucene library for indexing and searching documents.
  * The class provides methods to build a new index from a given input file,
  * parse text files, and add documents to the index.
  */
-public class WatsonIndex {
+public class NorgIndexBuilder {
     boolean indexExists = false;
     String indexFilePath = "";
     StandardAnalyzer analyzerV1 = null; // Not using it anymore
@@ -45,10 +45,10 @@ public class WatsonIndex {
     IndexWriter writer = null;
 
     /**
-     * Constructs a WatsonIndex object with the specified input file.
+     * Constructs a NorgIndexBuilder object with the specified input file.
      * @param inputFile the path of the input file
      */
-    public WatsonIndex(String inputFile) {
+    public NorgIndexBuilder(String inputFile) {
         indexFilePath = inputFile;
         try {
             buildNewIndex();
@@ -150,11 +150,11 @@ public class WatsonIndex {
     }
 
     /**
-     * The main method of the WatsonIndex program.
+     * The main method of the NorgIndexBuilder program.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        WatsonIndex engine = new WatsonIndex("pwindex");
+        NorgIndexBuilder engine = new NorgIndexBuilder("norgindex");
         try {
             System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);
