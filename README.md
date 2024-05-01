@@ -10,6 +10,7 @@ Here are the steps to compile and run:
 4. Run `GamerArchives.java` which is present in the same directory to run the main program.
 5. It will prompt you to choose between running the 330 queries we have prepared for you, or to run queries of your own.
 6. A sample run of the 330 queries is present in `output.txt` in the parent directory.
+7. The `resources` directory has a total of 100 folders representing the game library, which contain 967 documents that build the index.
 
 That is sufficient for running the main program. Here is a description of other things we have:
 1. `MochiThreader.py` uses data in `resources\redditLinks.txt` to parse reddit links and produces text files in a directory of your choice in `resources`
