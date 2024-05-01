@@ -2,22 +2,22 @@
  * Author: Priyansh Nayak
  * File: NorgIndexBuilder.java
  * Class: CSC 483 - Information Retrieval 
- * Assignment: Final Project - Pseudo Watson
- * Description: The NorgIndexBuilder class represents an index builder for Watson documents.
+ * Assignment: Final Project - Gamer Archives
+ * Description: The NorgIndexBuilder class represents an index builder for Gamer Archives.
  *              It uses Apache Lucene library for indexing and searching documents.
  *              The class provides methods to build a new index from a given input file,
  *              parse text files, and add documents to the index.
  */
 package edu.arizona.cs;
 import org.apache.lucene.analysis.custom.CustomAnalyzer;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
+// import org.apache.lucene.analysis.en.EnglishAnalyzer;
+// import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
+// import org.apache.lucene.index.DirectoryReader;
+// import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -29,7 +29,7 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 /**
- * The NorgIndexBuilder class represents an index builder for Watson documents.
+ * The NorgIndexBuilder class represents an index builder for Gamer Archives.
  * It uses Apache Lucene library for indexing and searching documents.
  * The class provides methods to build a new index from a given input file,
  * parse text files, and add documents to the index.
@@ -37,8 +37,8 @@ import java.nio.file.Paths;
 public class NorgIndexBuilder {
     boolean indexExists = false;
     String indexFilePath = "";
-    StandardAnalyzer analyzerV1 = null; // Not using it anymore
-    EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
+    // StandardAnalyzer analyzerV1 = null; // Not using it anymore
+    // EnglishAnalyzer analyzerV2 = null;  // This is better for parsing English text
     CustomAnalyzer analyzerV3 = null; // Custom Analyzer for improved parsing
     Directory index = null;
     IndexWriterConfig config = null;
@@ -62,8 +62,8 @@ public class NorgIndexBuilder {
      */
     private void buildNewIndex() throws IOException{
         //Get file from resources folder
-        analyzerV2 = new EnglishAnalyzer();
-        //analyzerV1 = new StandardAnalyzer();
+        // analyzerV1 = new StandardAnalyzer();
+        // analyzerV2 = new EnglishAnalyzer();
         // Custom Analyzer for improved parsing
         analyzerV3 = CustomAnalyzer.builder()
                     .withTokenizer("standard")
@@ -155,19 +155,21 @@ public class NorgIndexBuilder {
      */
     public static void main(String[] args) {
         NorgIndexBuilder engine = new NorgIndexBuilder("norgindex");
+        /*
         try {
             System.out.println("Reading index");
             IndexReader reader = DirectoryReader.open(engine.index);
-            /*for (int i = 0; i < reader.maxDoc(); i++) {
+            for (int i = 0; i < reader.maxDoc(); i++) {
                 Document doc = reader.document(i);
                 System.out.println("docid: " + doc.get("docName"));
                 //System.out.println("text: " + doc.get("docContent"));
                 System.out.println("--------------------------------------------");
-            }*/
+            }
             reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
+        */
     }
     
 }
