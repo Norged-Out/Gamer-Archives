@@ -1,5 +1,6 @@
 /*
  * Author: Priyansh Nayak
+ * Co-Authors: Mahesh Magendaran, Alex Gable, Osama Alzahrawi, Alberto Andres Sanchez
  * File: GamerArchives.java
  * Class: CSC 483 - Information Retrieval
  * Assignment: Final Project - Gamer Archives
@@ -30,8 +31,11 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import java.io.BufferedReader;
 import java.io.File;
+// import java.io.FileNotFoundException;
+// import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
+// import java.io.PrintStream;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -300,6 +304,16 @@ public class GamerArchives {
      */
     public static void main(String[] args) {
         String indexFilePath = "norgindex";
+        /*
+        // Uncomment the following code to redirect the output to a file
+        // Also, uncomment the import statements
+        try {
+            PrintStream out = new PrintStream(new FileOutputStream("output.txt"));
+            System.setOut(out);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        */
         GamerArchives gamerArchives = new GamerArchives(indexFilePath);
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to Games Archive!\nWhich mode would you like to check?\n");
@@ -309,6 +323,7 @@ public class GamerArchives {
             System.out.println("\nStarting pre-built queries...");
             System.out.println("\n--------------------------------------------\n");
             try {
+                
                 gamerArchives.processQuestions("questionBank.txt", scanner);
             } catch (InterruptedException | IOException | ParseException e) {
                 e.printStackTrace();

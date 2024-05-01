@@ -1,0 +1,2995 @@
+Welcome to Games Archive!
+Which mode would you like to check?
+
+1. Run pre-built queries
+2. Enter your own query
+
+
+Starting pre-built queries...
+
+--------------------------------------------
+
+Query: In what game do you fight against the MOAB and BFB?
+Expected answer: Bloons Tower Defence 6
+Retreived answer: Bloons Tower Defence 6
+Score: 10.834670066833496
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a character called Firefly?
+Expected answer: Honkai Star Rail
+Retreived answer: Honkai Star Rail
+Score: 2.9393887519836426
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you play as a blood-fueled machine?
+Expected answer: ULTRAKILL
+Retreived answer: ULTRAKILL
+Score: 8.89590072631836
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which games does the Dream World play a significant role?
+Expected answer: Pokemon Black and White
+Retreived answer: Genshin Impact
+Score: 7.322116851806641
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game requires completing all its endings through subsequent playthroughs to experience the full story?
+Expected answer: NieR Replicant ver.1.22474487139
+Retreived answer: The Witcher 3 Wild Hunt
+Score: 14.84339714050293
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: Which Fallout game is the first to have a fully-voiced protagonist?
+Expected answer: Fallout 4
+Retreived answer: Fallout 4
+Score: 11.16113567352295
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What's the game that resolves the mysteries surrounding Cauldron Lake?
+Expected answer: Alan Wake 2
+Retreived answer: Alan Wake 2
+Score: 12.25394058227539
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What does IG Leyan do?
+Expected answer: League of Legends
+Retreived answer: League of Legends
+Score: 18.90053939819336
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which games introduced Triple Battles and Rotation Battles?
+Expected answer: Pokemon Black and White
+Retreived answer: Apex Legends
+Score: 11.585884094238281
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: Engineer is a class in what game?
+Expected answer: Remnant 2
+Retreived answer: Remnant 2
+Score: 6.820087909698486
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you use items like a mushroom and red shell?
+Expected answer: Mario Kart 8
+Retreived answer: The Binding of Isaac
+Score: 11.594222068786621
+Answer found in top 10 Results
+Query Rank: 6.0
+
+----------------------------------
+
+Query: What game is the sequel to Counter-Strike Go?
+Expected answer: Counter-Strike 2
+Retreived answer: Super Smash Bros Melee
+Score: 9.189814567565918
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In what game does the game mode CHIMPS exist?
+Expected answer: Bloons Tower Defence 6
+Retreived answer: Bloons Tower Defence 6
+Score: 12.033860206604004
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has Snowpeak and Arbiter's Grounds as dungeons?
+Expected answer: The Legend of Zelda Twilight Princess
+Retreived answer: The Legend of Zelda Twilight Princess
+Score: 25.175601959228516
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Monokuma from?
+Expected answer: Danganronpa
+Retreived answer: Danganronpa
+Score: 10.406960487365723
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What Mario Kart game can be purchased on the Switch?
+Expected answer: Mario Kart 8
+Retreived answer: Mario Kart 8
+Score: 16.207406997680664
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What gacha game is notorious for its grind?
+Expected answer: Granblue Fantasy
+Retreived answer: Granblue Fantasy Relink
+Score: 7.631637096405029
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: What is the game that is just Pokemon but at home but better?
+Expected answer: Palworld
+Retreived answer: Pokemon Legends Arceus
+Score: 7.641129970550537
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game does the Yiga clan belong to?
+Expected answer: The Legend of Zelda Breath of the Wild
+Retreived answer: The Legend of Zelda Breath of the Wild
+Score: 17.605133056640625
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you play as a pirate and steal from other players?
+Expected answer: Sea of Thieves
+Retreived answer: Fall Guys
+Score: 9.504371643066406
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: Often compared to other Hoyoverse games, what is the Hoyoverse game that is regarded to have the best story?
+Expected answer: Honkai Impact 3rd
+Retreived answer: Honkai Impact 3rd
+Score: 20.565126419067383
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the terrain tool from?
+Expected answer: Astroneer
+Retreived answer: Astroneer
+Score: 9.712789535522461
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game is the YouTuber LetMeSoloHer famous for?
+Expected answer: Elden Ring
+Retreived answer: Scarlet Nexus
+Score: 8.453741073608398
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What is the new popular open-world title by Lilith Games?
+Expected answer: AFK Journey
+Retreived answer: AFK Journey
+Score: 15.844131469726562
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which Pokémon game introduces the concept of double battles in the main storyline?
+Expected answer: Pokemon Emerald
+Retreived answer: Pokemon Emerald
+Score: 23.61040496826172
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has monsters known as Eikons?
+Expected answer: Final Fantasy XVI
+Retreived answer: Monster Hunter World
+Score: 5.539532661437988
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What is the game where you play as dwarves in space?
+Expected answer: Deep Rock Galactic
+Retreived answer: Deep Rock Galactic
+Score: 9.311546325683594
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Who has better graphics? FIFA or eFootball?
+Expected answer: eFootball
+Retreived answer: EA Sports FC 24
+Score: 7.752832412719727
+Answer found in top 10 Results
+Query Rank: 8.0
+
+----------------------------------
+
+Query: What game has a mechanic based on breaking posture?
+Expected answer: Sekiro Shadows Die Twice
+Retreived answer: Honkai Star Rail
+Score: 4.240755081176758
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: In what game is Scarecrow a villain?
+Expected answer: Batman Arkham Asylum
+Retreived answer: Batman Arkham Asylum
+Score: 10.110547065734863
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you play as characters from stranger things, including the Demogorgon?
+Expected answer: Dead by Daylight
+Retreived answer: Dead by Daylight
+Score: 8.55911922454834
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you spawn on a beach with nothing but a rock and a torch?
+Expected answer: Rust
+Retreived answer: Call of Duty Modern Warfare 2
+Score: 11.60809326171875
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In which game can you use a force on an orb to summon a dragon?
+Expected answer: Elder Scrolls V Skyrim
+Retreived answer: Pokemon Emerald
+Score: 10.94637680053711
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game is Rayquaza the mascot of?
+Expected answer: Pokemon Emerald
+Retreived answer: Pokemon Emerald
+Score: 10.025997161865234
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the weapons Spiker and Plasma Repeater?
+Expected answer: Halo Reach
+Retreived answer: Halo Reach
+Score: 21.28163719177246
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can you dash dance?
+Expected answer: Super Smash Bros Melee
+Retreived answer: Sekiro Shadows Die Twice
+Score: 5.272552967071533
+Answer found in top 10 Results
+Query Rank: 9.0
+
+----------------------------------
+
+Query: What game has a city called Liberty City, resembling New York City?
+Expected answer: Grand Theft Auto IV
+Retreived answer: Cyberpunk 2077
+Score: 22.909801483154297
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: Yuffie can be first seen in what game of the remake of Final Fantasy 7?
+Expected answer: Final Fantasy VII Remake
+Retreived answer: Final Fantasy VII Remake
+Score: 19.55902099609375
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you find the Smash Run game mode?
+Expected answer: Super Smash Bros Wii U
+Retreived answer: Pokemon Black and White
+Score: 6.3023786544799805
+Answer found in top 10 Results
+Query Rank: 8.0
+
+----------------------------------
+
+Query: What game is made by the indie studio Mega Crit?
+Expected answer: Slay the Spire
+Retreived answer: Slay the Spire
+Score: 13.713579177856445
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you play Tranzit zombies?
+Expected answer: Call of Duty Black Ops 2
+Retreived answer: Call of Duty Black Ops 2
+Score: 10.168163299560547
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the dart monkey from?
+Expected answer: Bloons Tower Defence 6
+Retreived answer: Bloons Tower Defence 6
+Score: 12.730962753295898
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game allowed all six players to choose the same hero?
+Expected answer: Overwatch
+Retreived answer: Rainbow Six Siege
+Score: 8.50578498840332
+Answer found in top 10 Results
+Query Rank: 6.0
+
+----------------------------------
+
+Query: What game do HBox, Leffen, and Mango play?
+Expected answer: Super Smash Bros Melee
+Retreived answer: Super Smash Bros Melee
+Score: 34.08237075805664
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the futuristic game with no endings in which the protagonist survives?
+Expected answer: Cyberpunk 2077
+Retreived answer: Call of Duty Black Ops 2
+Score: 9.804125785827637
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What game has Mementos as a location?
+Expected answer: Persona 5
+Retreived answer: Super Smash Bros Ultimate
+Score: 9.37928295135498
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game has a detailed world that features diverse ecosystems, wildlife, and weather systems for players to explore?
+Expected answer: Red Dead Redemption 2
+Retreived answer: Elder Scrolls V Skyrim
+Score: 20.924755096435547
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game is Yoko Taro known for?
+Expected answer: NieR Automata
+Retreived answer: NieR Automata
+Score: 19.993114471435547
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the name of the game where you can drink beer to power up?
+Expected answer: Deep Rock Galactic
+Retreived answer: Deep Rock Galactic
+Score: 13.759593963623047
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game features the "Art of Battle" combat system?
+Expected answer: For Honor
+Retreived answer: For Honor
+Score: 8.318768501281738
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game does it say Heaven or Hell before each match?
+Expected answer: Guilty gear
+Retreived answer: Guilty gear
+Score: 7.444717884063721
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a unique standoff mechanic, which, when triggered sufficient times, unlocks a unique temporary stance?
+Expected answer: Ghost of Tsushima
+Retreived answer: Elder Scrolls V Skyrim
+Score: 15.511539459228516
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What Square Enix game is getting a season 2 for the anime adaptation of the game?
+Expected answer: NieR Automata
+Retreived answer: Final Fantasy VII Remake
+Score: 19.547937393188477
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game are weapons like the Night's Edge and Zenith from?
+Expected answer: Terraria
+Retreived answer: Terraria
+Score: 25.16900062561035
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has Azazel and Cain as playable characters?
+Expected answer: The Binding of Isaac
+Retreived answer: The Binding of Isaac
+Score: 23.615264892578125
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game revolves around the struggle to survive in a frozen landscape?
+Expected answer: Frostpunk
+Retreived answer: Overwatch
+Score: 11.913773536682129
+Answer found in top 10 Results
+Query Rank: 9.0
+
+----------------------------------
+
+Query: What game is the hashimoto the most expensive item in?
+Expected answer: Overwatch 2
+Retreived answer: Overwatch 2
+Score: 14.203607559204102
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game had its sales top 8 million 2 months ago?
+Expected answer: NieR Automata
+Retreived answer: Final Fantasy VII Remake Rebirth
+Score: 11.025946617126465
+Answer found in top 10 Results
+Query Rank: 6.0
+
+----------------------------------
+
+Query: What game is Andrew Ryan from?
+Expected answer: Bioshock
+Retreived answer: Bioshock
+Score: 16.303974151611328
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game takes place in the year 2287?
+Expected answer: Fallout 4
+Retreived answer: The Legend of Zelda Breath of the Wild
+Score: 2.345550298690796
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Where is the character Raiden Mei from?
+Expected answer: Honkai Impact 3rd
+Retreived answer: Honkai Impact 3rd
+Score: 16.573318481445312
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the setting of the Appalachia?
+Expected answer: Fallout 76
+Retreived answer: Fallout 76
+Score: 2.0943961143493652
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has Master Hand?
+Expected answer: Super Smash Bros Brawl
+Retreived answer: Super Smash Bros Brawl
+Score: 3.8485701084136963
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game got most players to play their game based on certain assets?
+Expected answer: Nikke Goddess of Victory
+Retreived answer: Palworld
+Score: 4.358109474182129
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Which game introduces the Battle Frontier?
+Expected answer: Pokemon Platinum
+Retreived answer: Titanfall 2
+Score: 5.893097877502441
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What game has Tarrey Town as a landmark?
+Expected answer: The Legend of Zelda Breath of the Wild
+Retreived answer: The Legend of Zelda Breath of the Wild
+Score: 15.653203964233398
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the karma system?
+Expected answer: Infamous
+Retreived answer: Among Us
+Score: 4.99806547164917
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: What game has a character with a beer bottle permanently lodged in his head?
+Expected answer: Batman Arkham Asylum
+Retreived answer: Batman Arkham Asylum
+Score: 22.803430557250977
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game are LilAggy and Ongbal famous for?
+Expected answer: Sekiro Shadows Die Twice
+Retreived answer: Sekiro Shadows Die Twice
+Score: 25.48618507385254
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do the players get put on hooks by the killer?
+Expected answer: Dead by Daylight
+Retreived answer: Dead by Daylight
+Score: 6.946505069732666
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can players control orc leaders?
+Expected answer: Shadow of Mordor
+Retreived answer: Shadow of Mordor
+Score: 10.170966148376465
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game do players embark on a journey in Hisui to create the first Pokedex?
+Expected answer: Pokemon Legends Arceus
+Retreived answer: Pokemon Legends Arceus
+Score: 16.015995025634766
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game did Lance Reddick star in before his death?
+Expected answer: Destiny 2
+Retreived answer: Destiny 2
+Score: 21.567113876342773
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what survival game do you steal from other players' bases to upgrade items using scrap?
+Expected answer: Rust
+Retreived answer: Ghost of Tsushima
+Score: 13.127020835876465
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game includes a mechanic of having multiple stances for different playstyles?
+Expected answer: Ghost of Tsushima
+Retreived answer: Tekken 8
+Score: 11.468006134033203
+Answer found in top 10 Results
+Query Rank: 8.0
+
+----------------------------------
+
+Query: Where are Kassadin and Ahri from?
+Expected answer: League of Legends
+Retreived answer: League of Legends
+Score: 24.028120040893555
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you play the story of Yuito Sumeragi or Kasane Randall?
+Expected answer: Scarlet Nexus
+Retreived answer: Scarlet Nexus
+Score: 33.11796569824219
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can you skyjack a helicopter?
+Expected answer: Prototype
+Retreived answer: Prototype
+Score: 9.588982582092285
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the name of the game that took the Pokemon formula and decided to do something new with it?
+Expected answer: Palworld
+Retreived answer: Palworld
+Score: 15.222675323486328
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has Kirby as the most potent character?
+Expected answer: Super Smash Bros Ultimate
+Retreived answer: Super Smash Bros Ultimate
+Score: 9.444775581359863
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which roguelike do players fight through hordes of enemies on alien planets?
+Expected answer: Risk of Rain 2
+Retreived answer: Risk of Rain 2
+Score: 15.688323974609375
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game did Sinatraa have an MVP skin in?
+Expected answer: Overwatch
+Retreived answer: Overwatch
+Score: 24.22345733642578
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: The community of this game wants the devs to make buff balance changes. What game is this?
+Expected answer: Nikke Goddess of Victory
+Retreived answer: Deep Rock Galactic
+Score: 11.7448148727417
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: Where can you play on an island with villagers?
+Expected answer: Animal Crossing New Horizons
+Retreived answer: Animal Crossing New Horizons
+Score: 4.744258880615234
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you mine for diamonds?
+Expected answer: Minecraft
+Retreived answer: Minecraft
+Score: 2.425945997238159
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Sacknana from?
+Expected answer: Little Big Planet
+Retreived answer: Little Big Planet
+Score: 13.431404113769531
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you defend against waves of bloons?
+Expected answer: Bloons Tower Defence 6
+Retreived answer: Granblue Fantasy
+Score: 6.572263240814209
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: What game is the character The Watcher from?
+Expected answer: Slay the Spire
+Retreived answer: Slay the Spire
+Score: 9.755093574523926
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Unlike the first part, which game did they remove the party battle banter from?
+Expected answer: Final Fantasy VII Remake Rebirth
+Retreived answer: Final Fantasy VII Remake Rebirth
+Score: 13.651862144470215
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Ailments and elements are a concept from what game?
+Expected answer: Monster Hunter World
+Retreived answer: Monster Hunter World
+Score: 12.879341125488281
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game features a DLC quest where you can talk to your mount due to a drug?
+Expected answer: The Witcher 3 Wild Hunt
+Retreived answer: Final Fantasy VII Remake
+Score: 14.67954158782959
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: Where can you find The Batmobile?
+Expected answer: Batman Arkham Asylum
+Retreived answer: Remnant 2
+Score: 0.8021092414855957
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: In what game do you travel to the center?
+Expected answer: No Man's Sky
+Retreived answer: Elder Scrolls V Skyrim
+Score: 3.4783594608306885
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: In which game can players explore an open-world version of Mordor?
+Expected answer: Shadow of Mordor
+Retreived answer: Genshin Impact
+Score: 7.703029155731201
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game features Arthur Morgan, who struggles with his loyalty to the Van der Linde gang?
+Expected answer: Red Dead Redemption 2
+Retreived answer: Red Dead Redemption 2
+Score: 48.22830581665039
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Recently, what gacha game has updated its tier list for fire characters?
+Expected answer: Granblue Fantasy
+Retreived answer: Honkai Star Rail
+Score: 15.858651161193848
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: What game has cars playing soccer in multiplayer matches?
+Expected answer: Rocket League
+Retreived answer: Rocket League
+Score: 13.282217025756836
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game includes emergency meetings to discuss suspicions and vote out imposters?
+Expected answer: Among Us
+Retreived answer: Among Us
+Score: 24.285568237304688
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Wheatley from?
+Expected answer: Portal 2
+Retreived answer: Portal 2
+Score: 10.64733600616455
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Iceborne is the DLC for what game?
+Expected answer: Monster Hunter World
+Retreived answer: Monster Hunter World
+Score: 13.16067123413086
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what Sandbox survival game can you activate the core of the planet?
+Expected answer: Astroneer
+Retreived answer: Astroneer
+Score: 12.196805953979492
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is a prequel to Red Dead Redemption, developed by Rockstar Games?
+Expected answer: Red Dead Redemption 2
+Retreived answer: Red Dead Redemption 2
+Score: 22.784194946289062
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game lets players play as the Ottoman Empire during World War I?
+Expected answer: Battlefield 1
+Retreived answer: Battlefield 1
+Score: 18.503585815429688
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the Predator Missile?
+Expected answer: Call of Duty Modern Warfare 3
+Retreived answer: Call of Duty Modern Warfare 3
+Score: 6.047574520111084
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game contains the item, Holy Mantle?
+Expected answer: The Binding of Isaac
+Retreived answer: The Binding of Isaac
+Score: 9.480514526367188
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a campaign for Golden Week?
+Expected answer: Granblue Fantasy
+Retreived answer: Granblue Fantasy
+Score: 7.54406213760376
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the name of the car soccer game made by Psynoix?
+Expected answer: Rocket League
+Retreived answer: Rocket League
+Score: 11.874381065368652
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has an antagonist with 8 Pokemon on his team?
+Expected answer: Pokemon Legends Arceus
+Retreived answer: Pokemon Platinum
+Score: 12.759806632995605
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What is the most popular game that Prydwen makes a tier list for?
+Expected answer: Honkai Star Rail
+Retreived answer: Honkai Star Rail
+Score: 17.932571411132812
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Big Daddy from?
+Expected answer: Bioshock
+Retreived answer: Elden Ring
+Score: 7.833390235900879
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game's release in the West was preceded by the success of its spiritual successor, which featured certain famous androids?
+Expected answer: NieR Replicant ver.1.22474487139
+Retreived answer: Minecraft
+Score: 27.73310661315918
+Answer found in top 10 Results
+Query Rank: 10.0
+
+----------------------------------
+
+Query: What game allows players to lead a civilization from ancient times to the modern era?
+Expected answer: Civilization 6
+Retreived answer: Battlefield 1
+Score: 15.730578422546387
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: In what game do you repair the community with the help of small magical creatures?
+Expected answer: Stardew Valley
+Retreived answer: Minecraft
+Score: 10.452048301696777
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game has powers that come from the Traveler?
+Expected answer: Destiny 2
+Retreived answer: Genshin Impact
+Score: 2.935694694519043
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game's player base is complaining about Wrath Blood?
+Expected answer: Shadowverse
+Retreived answer: ULTRAKILL
+Score: 12.189745903015137
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: What game can you play as Charlotte?
+Expected answer: Granblue Fantasy Relink
+Retreived answer: Dead by Daylight
+Score: 1.473021149635315
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What is the most recent installment from Remedy Entertainment?
+Expected answer: Alan Wake 2
+Retreived answer: Alan Wake 2
+Score: 10.628616333007812
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has procedurally generated life?
+Expected answer: No Man's Sky
+Retreived answer: No Man's Sky
+Score: 8.572172164916992
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can players use a vent to move quickly around the map?
+Expected answer: Among Us
+Retreived answer: Among Us
+Score: 12.58009147644043
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you get void chickens?
+Expected answer: Stardew Valley
+Retreived answer: Hollow Knight
+Score: 6.221920013427734
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game has the player models shaped like a bean?
+Expected answer: Fall Guys
+Retreived answer: Deep Rock Galactic
+Score: 7.838250637054443
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: Which of these Sonic Games has a 3DS Version? Sonic Generations, Sonic Colors, and Sonic Unleashed?
+Expected answer: Sonic Generations
+Retreived answer: Sonic Generations
+Score: 33.19999694824219
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a dead cat?
+Expected answer: The Binding of Isaac
+Retreived answer: Stray
+Score: 2.7475638389587402
+Answer found in top 10 Results
+Query Rank: 8.0
+
+----------------------------------
+
+Query: What game is Knee having difficulties in understanding?
+Expected answer: Tekken 8
+Retreived answer: Elder Scrolls V Skyrim
+Score: 7.651581287384033
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What is the most anticipated yet disappointing and broken game at launch in recent years?
+Expected answer: Cyberpunk 2077
+Retreived answer: Cyberpunk 2077
+Score: 13.129948616027832
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game introduced the district system for city planning?
+Expected answer: Civilization 6
+Retreived answer: Civilization 6
+Score: 13.036898612976074
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a map called Bazaar Between Time?
+Expected answer: Risk of Rain 2
+Retreived answer: Risk of Rain 2
+Score: 12.339115142822266
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has scenarios like "The Arks" and "The Last Autumn" with their challenges?
+Expected answer: Frostpunk
+Retreived answer: Frostpunk
+Score: 16.724943161010742
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is set in J.R.R. Tolkien's Middle-earth?
+Expected answer: Shadow of Mordor
+Retreived answer: Shadow of Mordor
+Score: 12.237284660339355
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which Call of Duty game has the ballista as a weapon?
+Expected answer: Call of Duty Black Ops 2
+Retreived answer: Doom
+Score: 15.270896911621094
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game has a possibility of Sturm to be playable as a character in the future?
+Expected answer: Granblue Fantasy Relink
+Retreived answer: Granblue Fantasy Relink
+Score: 16.55732536315918
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you inherit your grandfather's old home and start a farm?
+Expected answer: Stardew Valley
+Retreived answer: Stardew Valley
+Score: 11.339086532592773
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What has FIFA 24 been renamed to?
+Expected answer: EA Sports FC 24
+Retreived answer: EA Sports FC 24
+Score: 18.917449951171875
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you walk along Mombasa Street?
+Expected answer: Halo 3 ODST
+Retreived answer: Halo 3 ODST
+Score: 12.471006393432617
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has prize bubbles?
+Expected answer: Little Big Planet
+Retreived answer: Granblue Fantasy
+Score: 7.6069183349609375
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: What does BLG elk play?
+Expected answer: League of Legends
+Retreived answer: League of Legends
+Score: 22.041841506958008
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In this game, players can tell if a monster is enraged by looking at the color of the monster's eye. What is this game?
+Expected answer: Monster Hunter Rise
+Retreived answer: Monster Hunter Rise
+Score: 26.860837936401367
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has a map called the Distortion World?
+Expected answer: Pokemon Platinum
+Retreived answer: Pokemon Platinum
+Score: 9.850847244262695
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what pirate-themed game can you get the reaper's bounty?
+Expected answer: Sea of Thieves
+Retreived answer: Elden Ring
+Score: 11.996748924255371
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game did support heroes get an update six years ago?
+Expected answer: Overwatch
+Retreived answer: Overwatch 2
+Score: 11.880600929260254
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What game features a vast open world inspired by the fantasy novels of Andrzej Sapkowski?
+Expected answer: The Witcher 3 Wild Hunt
+Retreived answer: The Witcher 3 Wild Hunt
+Score: 25.191238403320312
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game features various multiplayer modes, including Dominion, Duel, and Brawl?
+Expected answer: For Honor
+Retreived answer: For Honor
+Score: 24.332944869995117
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game is sneak the most overpowered skill to level?
+Expected answer: Elder Scrolls V Skyrim
+Retreived answer: Elder Scrolls V Skyrim
+Score: 11.497506141662598
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the most recent monster hunter where you can fight Fatalis?
+Expected answer: Monster Hunter World
+Retreived answer: Monster Hunter World
+Score: 9.90681266784668
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can you set your button layout to tactical?
+Expected answer: Call of Duty Modern Warfare 3
+Retreived answer: Counter-Strike 2
+Score: 9.46916389465332
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: The character 2B is popular from what game?
+Expected answer: NieR Automata
+Retreived answer: NieR Automata
+Score: 12.400354385375977
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has characters with tactical, passive, and ultimate abilities for combat and movement?
+Expected answer: Apex Legends
+Retreived answer: Apex Legends
+Score: 15.200238227844238
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the game whose events occur in a time preceding Harry Potter?
+Expected answer: Hogwarts Legacy
+Retreived answer: Hogwarts Legacy
+Score: 15.708447456359863
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can you explore Inazuma?
+Expected answer: Genshin Impact
+Retreived answer: Genshin Impact
+Score: 4.155623435974121
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Kiana Kaslana from?
+Expected answer: Honkai Impact 3rd
+Retreived answer: Honkai Impact 3rd
+Score: 23.57527732849121
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game do players assume the role of a shinobi seeking revenge in feudal Japan?
+Expected answer: Sekiro Shadows Die Twice
+Retreived answer: For Honor
+Score: 19.068729400634766
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What Sonic game lets you play as both the classic and the modern Sonic?
+Expected answer: Sonic Generations
+Retreived answer: Sonic Generations
+Score: 14.540756225585938
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can players compete against up to 59 other players in a single match?
+Expected answer: Fall Guys
+Retreived answer: Fall Guys
+Score: 12.262353897094727
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has a song called I Really Want to Stay at Your House?
+Expected answer: Cyberpunk 2077
+Retreived answer: Cyberpunk 2077
+Score: 7.914746284484863
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the cacodemon from?
+Expected answer: Doom
+Retreived answer: Doom
+Score: 11.253763198852539
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the first part of the remake of the original Final Fantasy 7 called?
+Expected answer: Final Fantasy VII Remake
+Retreived answer: Final Fantasy VII Remake
+Score: 13.050207138061523
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the game in which Rie Kugimiya voices the main character, Kiana Kaslana?
+Expected answer: Honkai Impact 3rd
+Retreived answer: Honkai Impact 3rd
+Score: 13.969615936279297
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can you earn nookmiles?
+Expected answer: Animal Crossing New Horizons
+Retreived answer: Overwatch 2
+Score: 3.67805552482605
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game has a 5-hour speedrun achievement?
+Expected answer: Hollow Knight
+Retreived answer: Hollow Knight
+Score: 8.551331520080566
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the PS5 version of the PS4 Final Fantasy remake?
+Expected answer: Final Fantasy VII Remake
+Retreived answer: Final Fantasy VII Remake Rebirth
+Score: 13.949202537536621
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In what game do you play as Makoto Naegi?
+Expected answer: Danganronpa
+Retreived answer: Danganronpa
+Score: 8.630934715270996
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where did Giratina first show up?
+Expected answer: Pokemon Platinum
+Retreived answer: Pokemon Platinum
+Score: 10.685735702514648
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has Midna in it?
+Expected answer: The Legend of Zelda Twilight Princess
+Retreived answer: The Legend of Zelda Twilight Princess
+Score: 12.228719711303711
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What MMO removed over one million bot accounts on the 5th of March 2022?
+Expected answer: Lost Ark
+Retreived answer: Lost Ark
+Score: 18.930282592773438
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has the Plasma Rifle as a weapon?
+Expected answer: Halo 3 ODST
+Retreived answer: Halo Reach
+Score: 13.466830253601074
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: In what game do you guess the killer in a trial?
+Expected answer: Danganronpa
+Retreived answer: Dead by Daylight
+Score: 5.8544182777404785
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: In what game can you Roman Cancel?
+Expected answer: Guilty gear
+Retreived answer: Guilty gear
+Score: 8.113264083862305
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game sparks intense arguments as players try to identify imposters?
+Expected answer: Among Us
+Retreived answer: Granblue Fantasy
+Score: 14.290863990783691
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What was the most well-received Wii Sonic Game?
+Expected answer: Sonic Colors
+Retreived answer: Super Smash Bros Brawl
+Score: 15.35043716430664
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game has a main character called Delsin that uses conduit powers?
+Expected answer: Infamous
+Retreived answer: Infamous
+Score: 24.205068588256836
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game contains Aperture Science?
+Expected answer: Portal 2
+Retreived answer: Portal 2
+Score: 14.49441146850586
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Nagito from?
+Expected answer: Danganronpa
+Retreived answer: Danganronpa
+Score: 11.007402420043945
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game uses mastery emote?
+Expected answer: League of Legends
+Retreived answer: League of Legends
+Score: 7.44937801361084
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the game where all the characters possess different psychic abilities?
+Expected answer: Scarlet Nexus
+Retreived answer: Pokemon Black and White
+Score: 11.124192237854004
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What is Studio Wildcards' most popular game?
+Expected answer: Ark Survival Evolved
+Retreived answer: Palworld
+Score: 13.427274703979492
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: Which title offers procedurally generated environments and dynamic weather patterns that impact gameplay?
+Expected answer: Rainworld
+Retreived answer: Cyberpunk 2077
+Score: 20.524600982666016
+Answer found in top 10 Results
+Query Rank: 10.0
+
+----------------------------------
+
+Query: Reina is from which iteration of Tekken?
+Expected answer: Tekken 8
+Retreived answer: Tekken 8
+Score: 10.781264305114746
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you unlock a true ending after 112% completed?
+Expected answer: Hollow Knight
+Retreived answer: Hollow Knight
+Score: 13.711139678955078
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game lets you play as a cat in a cyberpunk world?
+Expected answer: Stray
+Retreived answer: Stray
+Score: 11.329595565795898
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game utilizes Slippi and rollback to enhance the user experience?
+Expected answer: Super Smash Bros Melee
+Retreived answer: Super Smash Bros Melee
+Score: 22.398000717163086
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What Sonic game has been getting negative impressions after its remake?
+Expected answer: Sonic Colors
+Retreived answer: Super Smash Bros Ultimate
+Score: 10.358541488647461
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What game can you travel to infinite planets?
+Expected answer: No Man's Sky
+Retreived answer: No Man's Sky
+Score: 6.1859941482543945
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the title of the action game developed by Ubisoft?
+Expected answer: For Honor
+Retreived answer: Rainbow Six Siege
+Score: 6.963911056518555
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game is Kulve Taroth, a golden dragon monster, from?
+Expected answer: Monster Hunter World
+Retreived answer: Monster Hunter World
+Score: 29.074596405029297
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you play as a killer who hunts survivors?
+Expected answer: Dead by Daylight
+Retreived answer: Dead by Daylight
+Score: 8.478450775146484
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what survival game can you tame dinosaurs?
+Expected answer: Ark Survival Evolved
+Retreived answer: Palworld
+Score: 8.75998592376709
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game is Amulet Heaven considered fun?
+Expected answer: Shadowverse
+Retreived answer: Shadowverse
+Score: 12.450433731079102
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game features epic battles set in World War I?
+Expected answer: Battlefield 1
+Retreived answer: Ghost of Tsushima
+Score: 12.669297218322754
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game allows players to use World War I weapons, vehicles, and gadgets like tanks and flamethrowers?
+Expected answer: Battlefield 1
+Retreived answer: Battlefield 1
+Score: 19.743223190307617
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has Team Magma and Team Aqua as dual antagonists?
+Expected answer: Pokemon Emerald
+Retreived answer: Pokemon Platinum
+Score: 21.646814346313477
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In what game do you tame dinosaurs after knocking them unconscious?
+Expected answer: Ark Survival Evolved
+Retreived answer: Ark Survival Evolved
+Score: 17.319133758544922
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: The character Neon is from what game?
+Expected answer: Nikke Goddess of Victory
+Retreived answer: Ghost of Tsushima
+Score: 8.771526336669922
+Answer found in top 10 Results
+Query Rank: 6.0
+
+----------------------------------
+
+Query: What game designs their characters in a certain way based on their target audience?
+Expected answer: Nikke Goddess of Victory
+Retreived answer: Overwatch 2
+Score: 8.391487121582031
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: Which game popularized the online card game Gwent?
+Expected answer: The Witcher 3 Wild Hunt
+Retreived answer: Fall Guys
+Score: 8.676039695739746
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In what game can you fight against ghost ships?
+Expected answer: Sea of Thieves
+Retreived answer: Sea of Thieves
+Score: 6.148673057556152
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game was made by Valve Corporation?
+Expected answer: Counter-Strike 2
+Retreived answer: Counter-Strike 2
+Score: 7.499471187591553
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Clove is the newest smoker character from what FPS game?
+Expected answer: Valorant
+Retreived answer: Valorant
+Score: 21.495389938354492
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game gives you a mount named Torrent?
+Expected answer: Elden Ring
+Retreived answer: Palworld
+Score: 7.322336673736572
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What fighting game has broken moves?
+Expected answer: Tekken 8
+Retreived answer: Super Smash Bros Ultimate
+Score: 3.913325786590576
+Answer found in top 10 Results
+Query Rank: 10.0
+
+----------------------------------
+
+Query: Gunslinger is a class in what MMORPG?
+Expected answer: Lost Ark
+Retreived answer: Lost Ark
+Score: 10.777994155883789
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game takes place in the underwater city Rapture?
+Expected answer: Bioshock
+Retreived answer: Bioshock
+Score: 11.81556510925293
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a final boss known as Ultima?
+Expected answer: Final Fantasy XVI
+Retreived answer: Final Fantasy XVI
+Score: 6.694087982177734
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has operators from different CTU factions like SAS, FBI, and GIGN?
+Expected answer: Rainbow Six Siege
+Retreived answer: Rainbow Six Siege
+Score: 22.820335388183594
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game does Wrath Blood come from?
+Expected answer: Shadowverse
+Retreived answer: Shadowverse
+Score: 11.12049674987793
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the game where you fight the ender dragon?
+Expected answer: Minecraft
+Retreived answer: Minecraft
+Score: 10.352875709533691
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What Monster Hunter game can be played on all platforms?
+Expected answer: Monster Hunter Rise
+Retreived answer: Monster Hunter World
+Score: 7.591373443603516
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What fps game by Respawn Entertainment has a campaign?
+Expected answer: Titanfall 2
+Retreived answer: Titanfall 2
+Score: 11.173347473144531
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game uses speedrunning tech such as crouch kicks?
+Expected answer: Titanfall 2
+Retreived answer: Titanfall 2
+Score: 16.748781204223633
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game can you use slow weapons like greatsword and hammer?
+Expected answer: Monster Hunter Rise
+Retreived answer: Monster Hunter Rise
+Score: 13.266011238098145
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the classes driller, scout, engineer, and gunner?
+Expected answer: Deep Rock Galactic
+Retreived answer: Deep Rock Galactic
+Score: 21.707460403442383
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a band called Old Gods of Asgard, which are alter egos of Poets of the Fall?
+Expected answer: Alan Wake 2
+Retreived answer: Alan Wake 2
+Score: 22.74432945251465
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which games have a character named N?
+Expected answer: Pokemon Black and White
+Retreived answer: Pokemon Black and White
+Score: 3.428598642349243
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Viper is an agent in what game?
+Expected answer: Valorant
+Retreived answer: Valorant
+Score: 15.490599632263184
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game is infamous for the quote Hesitation is Defeat?
+Expected answer: Sekiro Shadows Die Twice
+Retreived answer: Sekiro Shadows Die Twice
+Score: 10.5654935836792
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the game with the most realistic depictions of cat behavior?
+Expected answer: Stray
+Retreived answer: Animal Crossing New Horizons
+Score: 12.173916816711426
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: Where can you find the Noble Team as a part of the game’s character roster?
+Expected answer: Halo Reach
+Retreived answer: The Witcher 3 Wild Hunt
+Score: 12.101259231567383
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: In what game is Metaknight the most OP character?
+Expected answer: Super Smash Bros Brawl
+Retreived answer: Super Smash Bros Wii U
+Score: 12.359206199645996
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What fallout game do you start in Vault 111?
+Expected answer: Fallout 4
+Retreived answer: Fallout 4
+Score: 12.176834106445312
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Orisa strong in?
+Expected answer: Overwatch 2
+Retreived answer: Overwatch
+Score: 11.440484046936035
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game developed by Ubisoft involves tactical teamwork with unique operator abilities?
+Expected answer: Rainbow Six Siege
+Retreived answer: Rainbow Six Siege
+Score: 27.86844825744629
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game offers a fresh take on the Pokemon formula and introduces new capture mechanics?
+Expected answer: Pokemon Legends Arceus
+Retreived answer: Palworld
+Score: 20.712783813476562
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game has the SPAS-12?
+Expected answer: Call of Duty Modern Warfare 2
+Retreived answer: Portal 2
+Score: 0.1295694261789322
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What is the first Mario Kart game to include Mii as a playable character?
+Expected answer: Mario Kart 8
+Retreived answer: Super Smash Bros Ultimate
+Score: 23.928709030151367
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What is the best-selling capcom game?
+Expected answer: Monster Hunter World
+Retreived answer: Monster Hunter World
+Score: 11.641682624816895
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is Hopoo Games' most famous and active IP?
+Expected answer: Risk of Rain 2
+Retreived answer: Risk of Rain 2
+Score: 13.27676010131836
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What was Bethesda Studios' first multiplayer game?
+Expected answer: Fallout 76
+Retreived answer: Fallout 76
+Score: 14.449853897094727
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game was made by Bungie?
+Expected answer: Halo 3 ODST
+Retreived answer: Halo Reach
+Score: 1.6555850505828857
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: Which games introduced the Pokemon World Tournament?
+Expected answer: Pokemon Black and White
+Retreived answer: Pokemon Platinum
+Score: 9.19003677368164
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game has the main character known as the demon of Empire City?
+Expected answer: Infamous
+Retreived answer: Final Fantasy XVI
+Score: 13.941120147705078
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: What game is published by New Blood Interactive?
+Expected answer: ULTRAKILL
+Retreived answer: The Witcher 3 Wild Hunt
+Score: 7.9917802810668945
+Answer found in top 10 Results
+Query Rank: 7.0
+
+----------------------------------
+
+Query: What game uses bells as currency?
+Expected answer: Animal Crossing New Horizons
+Retreived answer: For Honor
+Score: 6.241263389587402
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game names their servers after their NPCs?
+Expected answer: Lost Ark
+Retreived answer: Lost Ark
+Score: 4.8849945068359375
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where does Makoto Nijima come from?
+Expected answer: Persona 5
+Retreived answer: Persona 5
+Score: 19.930456161499023
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has different modes like soccer, rumble, and hoops?
+Expected answer: Rocket League
+Retreived answer: Fall Guys
+Score: 17.517072677612305
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What Final Fantasy game has the highest software sales in Japan, over 300k?
+Expected answer: Final Fantasy VII Remake Rebirth
+Retreived answer: Scarlet Nexus
+Score: 18.817197799682617
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What has characters similar to Min Min?
+Expected answer: Super Smash Bros Ultimate
+Retreived answer: Super Smash Bros Ultimate
+Score: 7.29526948928833
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you find the maps Favela and Terminal?
+Expected answer: Call of Duty Modern Warfare 2
+Retreived answer: Call of Duty Modern Warfare 2
+Score: 15.444310188293457
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has Okumura as a boss?
+Expected answer: Persona 5
+Retreived answer: Persona 5
+Score: 11.121200561523438
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game's most popular mod is called Calamity?
+Expected answer: Terraria
+Retreived answer: Terraria
+Score: 9.015242576599121
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game does Yui Ishikawa voice in?
+Expected answer: NieR Automata
+Retreived answer: NieR Automata
+Score: 20.404178619384766
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game was the esports player Sinatraa banned from competing in?
+Expected answer: Valorant
+Retreived answer: Valorant
+Score: 26.329235076904297
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do you travel to the skull caverns to collect iridium?
+Expected answer: Stardew Valley
+Retreived answer: Stardew Valley
+Score: 17.69659996032715
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: The rank Ascendant is a rank in what game?
+Expected answer: Valorant
+Retreived answer: Valorant
+Score: 13.083313941955566
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where is Ganyu from?
+Expected answer: Genshin Impact
+Retreived answer: Genshin Impact
+Score: 10.633889198303223
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is a game where you can attend a famous school for wizards and witches?
+Expected answer: Hogwarts Legacy
+Retreived answer: Hogwarts Legacy
+Score: 17.785306930541992
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you find the Nuketown map?
+Expected answer: Call of Duty Black Ops 2
+Retreived answer: Call of Duty Black Ops 2
+Score: 11.023991584777832
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game concluded the tale of Geralt of Rivia?
+Expected answer: The Witcher 3 Wild Hunt
+Retreived answer: The Witcher 3 Wild Hunt
+Score: 13.906901359558105
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has an engine that is a heavily modified version of Valve's open-source engine?
+Expected answer: Titanfall 2
+Retreived answer: Titanfall 2
+Score: 22.57015037536621
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game do players manage a city in a frozen setting?
+Expected answer: Frostpunk
+Retreived answer: Elden Ring
+Score: 10.542737007141113
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: What soccer game was made by EA Vancouver?
+Expected answer: EA Sports FC 24
+Retreived answer: EA Sports FC 24
+Score: 12.807792663574219
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game do you play as Steve?
+Expected answer: Minecraft
+Retreived answer: Cyberpunk 2077
+Score: 1.3454949855804443
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game is Rock and Stone from?
+Expected answer: Deep Rock Galactic
+Retreived answer: Deep Rock Galactic
+Score: 6.995973110198975
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is a deck builder in which the player must ascend a spire?
+Expected answer: Slay the Spire
+Retreived answer: Slay the Spire
+Score: 17.821449279785156
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the state of balance of champions?
+Expected answer: League of Legends
+Retreived answer: Sekiro Shadows Die Twice
+Score: 4.433655261993408
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game has a DLC called Silk Song?
+Expected answer: Hollow Knight
+Retreived answer: Super Smash Bros Ultimate
+Score: 10.91158390045166
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: Soloing a monster is considered a skill in what game?
+Expected answer: Monster Hunter Rise
+Retreived answer: Monster Hunter World
+Score: 10.036260604858398
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game allows players to revive fallen teammates by collecting their banners and taking them to respawn beacons?
+Expected answer: Apex Legends
+Retreived answer: Apex Legends
+Score: 21.228195190429688
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game is Bayonetta the most OP character?
+Expected answer: Super Smash Bros Wii U
+Retreived answer: Super Smash Bros Wii U
+Score: 9.89316463470459
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game features the powers of Ifrit and Phoenix?
+Expected answer: Final Fantasy XVI
+Retreived answer: Final Fantasy XVI
+Score: 14.079204559326172
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game is your Mother a beatable boss?
+Expected answer: The Binding of Isaac
+Retreived answer: AFK Journey
+Score: 11.435460090637207
+Answer found in top 5 Results
+Query Rank: 5.0
+
+----------------------------------
+
+Query: In what game can you fight the boss, Lucillius?
+Expected answer: Granblue Fantasy Relink
+Retreived answer: Remnant 2
+Score: 3.5417749881744385
+Answer found in top 5 Results
+Query Rank: 4.0
+
+----------------------------------
+
+Query: In which part of the Final Fantasy 7 remake do we see Claudia, Cloud's mother?
+Expected answer: Final Fantasy VII Remake Rebirth
+Retreived answer: Final Fantasy VII Remake
+Score: 20.341083526611328
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game allows players to catch both Dialga and Palkia?
+Expected answer: Pokemon Platinum
+Retreived answer: Pokemon Legends Arceus
+Score: 12.959593772888184
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game uses resources such as resin and compound to craft items?
+Expected answer: Astroneer
+Retreived answer: Astroneer
+Score: 22.138935089111328
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game do you play as a Spartan?
+Expected answer: Halo Reach
+Retreived answer: Halo 3 ODST
+Score: 1.3408809900283813
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Which iteration of the game had too many stun abilities?
+Expected answer: Overwatch
+Retreived answer: Deep Rock Galactic
+Score: 8.182579040527344
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: In which game do you play as a creature known as Slugcat?
+Expected answer: Rainworld
+Retreived answer: Rainworld
+Score: 7.375442028045654
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What one soccer game did Konami create?
+Expected answer: eFootball
+Retreived answer: eFootball
+Score: 18.182231903076172
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What survival game do you progress in by beating bosses, such as the Eye of Cthulhu?
+Expected answer: Terraria
+Retreived answer: Alan Wake 2
+Score: 9.798354148864746
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Which game has a character modeled after Keanu Reeves?
+Expected answer: Cyberpunk 2077
+Retreived answer: Cyberpunk 2077
+Score: 13.515113830566406
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game are people not having fun with the state of tanks?
+Expected answer: Overwatch 2
+Retreived answer: Overwatch 2
+Score: 4.260727882385254
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game do players fight as knights, samurai, or Vikings?
+Expected answer: For Honor
+Retreived answer: For Honor
+Score: 13.108780860900879
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What Fallout game has a battle royale mode called Nuclear Winter?
+Expected answer: Fallout 76
+Retreived answer: Fallout 76
+Score: 20.276639938354492
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has a game mode called Ultra Nightmare?
+Expected answer: Doom
+Retreived answer: Doom
+Score: 7.34004545211792
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the first chronological game in the Yakuza series?
+Expected answer: Yakuza 0
+Retreived answer: Yakuza 0
+Score: 13.624353408813477
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the riot shield?
+Expected answer: Call of Duty Modern Warfare 2
+Retreived answer: Call of Duty Modern Warfare 2
+Score: 7.522220134735107
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is known for its bosses?
+Expected answer: Remnant 2
+Retreived answer: Grand Theft Auto V
+Score: 2.852757453918457
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: In which game does the online For Glory option exist?
+Expected answer: Super Smash Bros Wii U
+Retreived answer: Super Smash Bros Wii U
+Score: 9.454728126525879
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game released a character based on the dragon zodiac?
+Expected answer: Granblue Fantasy
+Retreived answer: Granblue Fantasy
+Score: 7.574196815490723
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has Zant in it?
+Expected answer: The Legend of Zelda Twilight Princess
+Retreived answer: The Legend of Zelda Twilight Princess
+Score: 13.259401321411133
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Sunbreak the DLC for?
+Expected answer: Monster Hunter Rise
+Retreived answer: Monster Hunter Rise
+Score: 12.847448348999023
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where does the character Illari originate from?
+Expected answer: Overwatch 2
+Retreived answer: Overwatch 2
+Score: 12.691377639770508
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has two classes that specify skill damage?
+Expected answer: Remnant 2
+Retreived answer: Overwatch
+Score: 10.434134483337402
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Which game features three main characters?
+Expected answer: Grand Theft Auto V
+Retreived answer: Grand Theft Auto V
+Score: 6.071268558502197
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In what game is Ganon the worst character?
+Expected answer: Super Smash Bros Ultimate
+Retreived answer: Super Smash Bros Ultimate
+Score: 10.190323829650879
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game are Kafka, Huohou, Ruan Mei, and Black Swan a DOT team from?
+Expected answer: Honkai Star Rail
+Retreived answer: Honkai Star Rail
+Score: 55.30485534667969
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game contains the horrendous PVPVE mode called Gambit?
+Expected answer: Destiny 2
+Retreived answer: Destiny 2
+Score: 17.19590187072754
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can Garlic Bread cure all diseases?
+Expected answer: Elder Scrolls V Skyrim
+Retreived answer: Elder Scrolls V Skyrim
+Score: 26.25902557373047
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where can you find the grenade launcher called Witherhoard?
+Expected answer: Destiny 2
+Retreived answer: Deep Rock Galactic
+Score: 11.508140563964844
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What's a famous idle game where players can progress without having to play it themselves?
+Expected answer: AFK Journey
+Retreived answer: No Man's Sky
+Score: 12.382654190063477
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game has Alex Mercer as a playable character?
+Expected answer: Prototype
+Retreived answer: Prototype
+Score: 15.749113082885742
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the BFG, Big Fucking Gun from?
+Expected answer: Doom
+Retreived answer: Doom
+Score: 14.888602256774902
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game was Subspace Emissary a playable story mode?
+Expected answer: Super Smash Bros Brawl
+Retreived answer: Super Smash Bros Brawl
+Score: 24.240076065063477
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has voice actor Christopher Plummer?
+Expected answer: Elder Scrolls V Skyrim
+Retreived answer: Elder Scrolls V Skyrim
+Score: 17.417930603027344
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: The corrupted weapon system is a concept from what game?
+Expected answer: Remnant 2
+Retreived answer: Remnant 2
+Score: 10.584334373474121
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What Sonic game is getting a remake soon?
+Expected answer: Sonic Generations
+Retreived answer: Sonic Generations
+Score: 10.0360689163208
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is the creeper from?
+Expected answer: Minecraft
+Retreived answer: Minecraft
+Score: 9.555581092834473
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which game has a lot of glitches and can corrupt your profile?
+Expected answer: Little Big Planet
+Retreived answer: Little Big Planet
+Score: 9.512129783630371
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is Nintendo's first party-racing game?
+Expected answer: Mario Kart 8
+Retreived answer: Super Smash Bros Wii U
+Score: 13.263847351074219
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What game follows the story of Niko Bellic, an immigrant pursuing the American dream?
+Expected answer: Grand Theft Auto IV
+Retreived answer: Grand Theft Auto IV
+Score: 30.377676010131836
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has Haaland as the poster for their game?
+Expected answer: EA Sports FC 24
+Retreived answer: EA Sports FC 24
+Score: 11.63520336151123
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the last game of the counter-strike series?
+Expected answer: Counter-Strike 2
+Retreived answer: Overwatch 2
+Score: 7.482378005981445
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What is the name of the collaboration between Hidetaka Miyazaki and George R. R. Martin?
+Expected answer: Elden Ring
+Retreived answer: Sekiro Shadows Die Twice
+Score: 27.028045654296875
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game features a tech tree and a civics tree for researching advancements and shaping policies?
+Expected answer: Civilization 6
+Retreived answer: Civilization 6
+Score: 27.59313201904297
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game can players explore the city of Los Santos?
+Expected answer: Grand Theft Auto V
+Retreived answer: Grand Theft Auto V
+Score: 13.1815824508667
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has weekly or monthly wipes to its servers that reset the player's progress?
+Expected answer: Rust
+Retreived answer: Rust
+Score: 21.585403442382812
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: In which game do players encounter a variety of game modes such as Hex-A-Gone, Slime Climb, and Fall Mountain?
+Expected answer: Fall Guys
+Retreived answer: Fall Guys
+Score: 26.565780639648438
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Which is the third game based in Sinnoh?
+Expected answer: Pokemon Platinum
+Retreived answer: Pokemon Black and White
+Score: 4.5051140785217285
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: In which game do players encounter the Battle Frontier for the first time in the Hoenn region?
+Expected answer: Pokemon Emerald
+Retreived answer: Pokemon Black and White
+Score: 21.01409339904785
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game has procedural animations for all characters?
+Expected answer: Rainworld
+Retreived answer: No Man's Sky
+Score: 9.045055389404297
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game contains divine beasts?
+Expected answer: The Legend of Zelda Breath of the Wild
+Retreived answer: Slay the Spire
+Score: 8.790663719177246
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Where does Kiryu come from?
+Expected answer: Yakuza 0
+Retreived answer: Yakuza 0
+Score: 9.400527954101562
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is a famous game from Valve?
+Expected answer: Portal 2
+Retreived answer: Honkai Star Rail
+Score: 5.313342094421387
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Which game includes features Emil's origins?
+Expected answer: NieR Replicant ver.1.22474487139
+Retreived answer: NieR Replicant ver.1.22474487139
+Score: 14.257467269897461
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game inspired by Doom and Quake do you descend layers of hell?
+Expected answer: ULTRAKILL
+Retreived answer: ULTRAKILL
+Score: 17.501026153564453
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What's the most critically acclaimed title in the genre of samurai games?
+Expected answer: Ghost of Tsushima
+Retreived answer: Sekiro Shadows Die Twice
+Score: 18.742713928222656
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What is the latest installment of the Civilization series?
+Expected answer: Civilization 6
+Retreived answer: Civilization 6
+Score: 12.212684631347656
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game has the hookshot tool?
+Expected answer: The Legend of Zelda Twilight Princess
+Retreived answer: The Legend of Zelda Twilight Princess
+Score: 11.245697975158691
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the prequel of Shadowverse Worlds Beyond?
+Expected answer: Shadowverse
+Retreived answer: Shadowverse
+Score: 11.138465881347656
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What is the upcoming open-world game developed by Pocketpair that is in early access?
+Expected answer: Palworld
+Retreived answer: Palworld
+Score: 19.446910858154297
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game allows for armour customization?
+Expected answer: Halo Reach
+Retreived answer: Monster Hunter World
+Score: 6.644659996032715
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: What game has their player base nickname their main character as Tuna?
+Expected answer: Honkai Impact 3rd
+Retreived answer: League of Legends
+Score: 10.148850440979004
+Answer found in top 5 Results
+Query Rank: 3.0
+
+----------------------------------
+
+Query: What is the title of the last open world developed by Rockstar?
+Expected answer: Grand Theft Auto V
+Retreived answer: Red Dead Redemption 2
+Score: 8.366782188415527
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: What game, set in the Titanfall universe, features unique characters called Legends?
+Expected answer: Apex Legends
+Retreived answer: Titanfall 2
+Score: 17.01180076599121
+Answer found in top 5 Results
+Query Rank: 2.0
+
+----------------------------------
+
+Query: Which game had their characters as brands on Reddit?
+Expected answer: Overwatch
+Retreived answer: Fallout 4
+Score: 5.31682825088501
+Incorrect! Answer not found in top 10 results. :(
+Query Rank: 0.0
+
+----------------------------------
+
+Query: Cloud Strife is introduced as the main character of what game of the remake?
+Expected answer: Final Fantasy VII Remake
+Retreived answer: Final Fantasy VII Remake
+Score: 18.234437942504883
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game is Sol Badguy from?
+Expected answer: Guilty gear
+Retreived answer: Guilty gear
+Score: 19.053285598754883
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where is the game mode MoC from?
+Expected answer: Honkai Star Rail
+Retreived answer: Honkai Star Rail
+Score: 12.072539329528809
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: Where does the Blacklight Virus originate from?
+Expected answer: Prototype
+Retreived answer: Prototype
+Score: 19.378023147583008
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+Query: What game do players encounter GLaDOS?
+Expected answer: Portal 2
+Retreived answer: Portal 2
+Score: 4.115170478820801
+Correct! Answer found in top result. :)
+Query Rank: 1.0
+
+----------------------------------
+
+----------------Stats----------------
+
+Total Queries: 330
+Correct Answers: 210
+Within Top 5: 79
+Within Top 10: 19
+Incorrect Answers: 22
+
+--------------Performance--------------
+
+Precision at 1: 0.6363636363636364
+Precision at 5: 0.8757575757575757
+Precision at 10: 0.9333333333333333
+Mean Reciprocal Rank: 0.7317556517556518
